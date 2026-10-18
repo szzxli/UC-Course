@@ -3,7 +3,8 @@
     "courses": "🔍 Search Courses",
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Plan Schedule",
-    "major": "🎓 Major Requirements"
+    "major": "🎓 Major Requirements",
+    "traj": "🛤️ My Trajectory"
   },
   "courses": {
     "add": "+ Add to my courses",
@@ -40,13 +41,16 @@
     "majorTitle": "🎓 Intended Major",
     "majorHint": "With a major selected, course search and scheduling will show which graduation requirement each course satisfies.",
     "noMajor": "Skip for now",
-    "goMajor": "View degree requirements →"
+    "goMajor": "View degree requirements →",
+    "major2Title": "🎓 Second major (optional)",
+    "major2Hint": "Double-major planning: pick another in the same campus; the Major tab computes overlap."
   },
   "nav": {
     "courses": "Courses",
     "home": "Home",
     "plan": "Plan",
-    "major": "Major"
+    "major": "Major",
+    "traj": "Path"
   },
   "plan": {
     "clear": "Clear",
@@ -87,7 +91,8 @@
   },
   "sub": {
     "index": "Goal-driven UC course planning: grad school / PhD / internships — different goals, different schedules",
-    "plan": "Prerequisite-aware scheduling · deterministic engine"
+    "plan": "Prerequisite-aware scheduling · deterministic engine",
+    "traj": "Every choice becomes application material"
   },
   "tips": {
     "grad": [
@@ -114,7 +119,8 @@
     "courses": "Search Courses · UC SmartPick",
     "index": "UC SmartPick",
     "plan": "Plan Schedule · UC SmartPick",
-    "major": "Major · UC SmartPick"
+    "major": "Major · UC SmartPick",
+    "traj": "Trajectory · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -146,6 +152,27 @@
     "close": "Close",
     "haveCount": "{n}/{m} done",
     "ccMore": "+{n} more CCs",
-    "equivNote": "AP/CC equivalency is subject to official campus approval — confirm with your advisor."
+    "equivNote": "AP/CC equivalency is subject to official campus approval — confirm with your advisor.",
+    "segOverlap": "Overlap ({n})",
+    "overlapTitle": "🔗 Double-counted courses ({n})",
+    "overlapHint": "Count for both majors — schedule these first.",
+    "overlapNone": "No overlapping courses between the two majors.",
+    "optLabel": "Track {n}",
+    "pickThis": "Pick this track",
+    "openPool": "Open elective pool: pick {n}, add from Course Search."
+  },
+  "traj": {
+    "empty": "Add courses from the Major tab first",
+    "goMajor": "Go pick courses →",
+    "myTraj": "My course trajectory",
+    "copy": "Copy text",
+    "download": "Download .md",
+    "copied": "Copied",
+    "note": "Goal-relevance tags are heuristic, for reference only.",
+    "whyReq": "Satisfies: {req}",
+    "tagResearch": "📝 Research experience",
+    "tagGradLevel": "🎓 Graduate-level",
+    "tagMethod": "📊 Methods course, PhD signal",
+    "tagProject": "💼 Project experience"
   }
 }

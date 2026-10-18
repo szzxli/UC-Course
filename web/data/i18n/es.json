@@ -3,7 +3,8 @@
     "courses": "🔍 Buscar cursos",
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Planificar horario",
-    "major": "🎓 Requisitos de la carrera"
+    "major": "🎓 Requisitos de la carrera",
+    "traj": "🛤️ Mi trayectoria"
   },
   "courses": {
     "add": "+ Añadir a mis cursos",
@@ -40,13 +41,16 @@
     "majorTitle": "🎓 Carrera deseada",
     "majorHint": "Con una carrera seleccionada, la búsqueda y planificación mostrarán qué requisito de graduación cumple cada curso.",
     "noMajor": "Omitir por ahora",
-    "goMajor": "Ver requisitos de graduación →"
+    "goMajor": "Ver requisitos de graduación →",
+    "major2Title": "🎓 Segunda carrera (opcional)",
+    "major2Hint": "Doble carrera: elige otra del mismo campus; la pestaña Carrera calcula el solapamiento."
   },
   "nav": {
     "courses": "Cursos",
     "home": "Inicio",
     "plan": "Horario",
-    "major": "Carrera"
+    "major": "Carrera",
+    "traj": "Ruta"
   },
   "plan": {
     "clear": "Borrar",
@@ -87,7 +91,8 @@
   },
   "sub": {
     "index": "Planifica tus cursos UC según tu meta: posgrado / doctorado / empleo — cada meta, una estrategia distinta",
-    "plan": "Horario con prerrequisitos · motor determinista"
+    "plan": "Horario con prerrequisitos · motor determinista",
+    "traj": "Cada elección es material para tu solicitud"
   },
   "tips": {
     "grad": [
@@ -114,7 +119,8 @@
     "courses": "Buscar cursos · UC SmartPick",
     "index": "UC SmartPick",
     "plan": "Planificar horario · UC SmartPick",
-    "major": "Carrera · UC SmartPick"
+    "major": "Carrera · UC SmartPick",
+    "traj": "Trayectoria · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -146,6 +152,27 @@
     "close": "Cerrar",
     "haveCount": "{n}/{m} hechos",
     "ccMore": "+{n} CC más",
-    "equivNote": "La equivalencia AP/CC está sujeta a la aprobación oficial del campus; confirma con tu asesor."
+    "equivNote": "La equivalencia AP/CC está sujeta a la aprobación oficial del campus; confirma con tu asesor.",
+    "segOverlap": "Solape ({n})",
+    "overlapTitle": "🔗 Cursos de doble cómputo ({n})",
+    "overlapHint": "Cuentan para ambas carreras: priorízalos.",
+    "overlapNone": "No hay cursos en común entre las dos carreras.",
+    "optLabel": "Vía {n}",
+    "pickThis": "Elegir esta vía",
+    "openPool": "Pool abierto: elige {n}, añade desde Buscar cursos."
+  },
+  "traj": {
+    "empty": "Añade cursos desde la pestaña Carrera primero",
+    "goMajor": "Ir a elegir cursos →",
+    "myTraj": "Mi trayectoria",
+    "copy": "Copiar texto",
+    "download": "Descargar .md",
+    "copied": "Copiado",
+    "note": "Las etiquetas de relevancia son heurísticas, solo de referencia.",
+    "whyReq": "Cumple: {req}",
+    "tagResearch": "📝 Experiencia de investigación",
+    "tagGradLevel": "🎓 Nivel posgrado",
+    "tagMethod": "📊 Curso de métodos, señal de doctorado",
+    "tagProject": "💼 Experiencia de proyecto"
   }
 }

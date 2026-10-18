@@ -3,7 +3,8 @@
     "courses": "🔍 查课",
     "index": "🎓 UC 智选 UC SmartPick",
     "plan": "🗓️ 排课",
-    "major": "🎓 专业毕业要求"
+    "major": "🎓 专业毕业要求",
+    "traj": "🛤️ 我的轨迹"
   },
   "courses": {
     "add": "＋ 加入我的选课",
@@ -40,13 +41,16 @@
     "majorTitle": "🎓 意向专业",
     "majorHint": "选了专业，查课和排课会告诉你每门课满足哪条毕业要求。",
     "noMajor": "暂不选专业",
-    "goMajor": "查看毕业要求 →"
+    "goMajor": "查看毕业要求 →",
+    "major2Title": "🎓 第二专业（可选）",
+    "major2Hint": "双专业规划：同一校区再选一个，专业页会算出重叠课程。"
   },
   "nav": {
     "courses": "查课",
     "home": "首页",
     "plan": "排课",
-    "major": "专业"
+    "major": "专业",
+    "traj": "轨迹"
   },
   "plan": {
     "clear": "清空",
@@ -87,7 +91,8 @@
   },
   "sub": {
     "index": "目标驱动的 UC 选课：读研 / 直博 / 实习，不同目标不同排法",
-    "plan": "先修链拓扑排课 · 确定性引擎"
+    "plan": "先修链拓扑排课 · 确定性引擎",
+    "traj": "每一步选择，都是申请材料的素材"
   },
   "tips": {
     "grad": [
@@ -114,7 +119,8 @@
     "courses": "查课 · UC 智选",
     "index": "UC 智选 UC SmartPick",
     "plan": "排课 · UC 智选",
-    "major": "专业 · UC 智选"
+    "major": "专业 · UC 智选",
+    "traj": "轨迹 · UC 智选"
   },
   "warn": {
     "listSep": "、",
@@ -146,6 +152,27 @@
     "close": "关闭",
     "haveCount": "已有 {n}/{m}",
     "ccMore": "等 {n} 所 CC",
-    "equivNote": "AP 抵分与 CC 等效以学校官方认定为准，入学前请与 advisor 确认。"
+    "equivNote": "AP 抵分与 CC 等效以学校官方认定为准，入学前请与 advisor 确认。",
+    "segOverlap": "重叠 {n}门",
+    "overlapTitle": "🔗 双专业重叠课程（{n}门）",
+    "overlapHint": "这些课两个专业都认，一门顶两门，优先排。",
+    "overlapNone": "两个专业没有重叠课程。",
+    "optLabel": "方案{n}",
+    "pickThis": "选这组",
+    "openPool": "开放选修池：需选 {n} 门，在查课页自选加入。"
+  },
+  "traj": {
+    "empty": "先去专业页把课加入清单，再回来生成轨迹",
+    "goMajor": "去专业页选课 →",
+    "myTraj": "我的选课轨迹",
+    "copy": "复制文本",
+    "download": "下载 .md",
+    "copied": "已复制",
+    "note": "目标相关性为启发式标注，仅供参考。",
+    "whyReq": "满足：{req}",
+    "tagResearch": "📝 科研经历素材",
+    "tagGradLevel": "🎓 研究生级课程",
+    "tagMethod": "📊 方法课，读博信号",
+    "tagProject": "💼 项目经历素材"
   }
 }
