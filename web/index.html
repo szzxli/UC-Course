@@ -14,6 +14,11 @@
   <div><select id="langSel" class="langsel" aria-label="language"></select></div>
 </div></div>
 <div class="page">
+  <div class="card" id="resumeCard" hidden>
+    <div class="section-title" data-i18n="index.resumeTitle">↩️ 继续上次的规划</div>
+    <p class="hint" id="resumeDesc"></p>
+    <div class="btn-row"><a class="btn" id="resumeBtn" href="plan.html" data-i18n="index.resumeGo">继续 →</a></div>
+  </div>
   <div class="card">
     <div class="section-title" data-i18n="index.goalTitle">🎯 先定目标，再选课</div>
     <p class="hint" data-i18n="index.goalHint">同一专业，读研和就业的选课策略完全不同。选一个，排课时会给你不同的建议。</p>
@@ -98,7 +103,26 @@ I18N.init().then(function () {
   fetch("data/majors/index.json").then(function (r) { return r.json(); }).then(function (j) {
     MAJORS = j;
     fillMajors(document.getElementById("campus").value);
+    renderResume();
   });
+  /* 继续规划卡：有旧配置一键跳回 */
+  function renderResume() {
+    var card = document.getElementById("resumeCard");
+    var mj = Sget("major", ""), mine = Sget("myCourses", []);
+    if (!mj && !mine.length) { card.hidden = true; return; }
+    function label(f) {
+      var m = MAJORS.filter(function (x) { return x.file === f; })[0];
+      return m ? m.major : "";
+    }
+    var g = Sget("goal", "undecided");
+    var desc = Sget("campus", "UCI") + (label(mj) ? " · " + label(mj) : "") +
+      (Sget("major2", "") ? " + " + label(Sget("major2", "")) : "") +
+      " · " + I18N.t("tips.names." + g);
+    document.getElementById("resumeDesc").textContent = desc +
+      (mine.length ? " · " + I18N.t("index.resumeCourses", { n: mine.length }) : "");
+    document.getElementById("resumeBtn").href = mine.length ? "plan.html" : "major.html";
+    card.hidden = false;
+  }
   document.getElementById("campus").addEventListener("change", function () {
     fillMajors(this.value);
     Sset("major", "");

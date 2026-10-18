@@ -23,7 +23,9 @@
     "satisfiesReq": "Satisfies requirement: ",
     "downstream": "Prerequisite for: ",
     "notInReq": "Not in your selected major's requirements",
-    "noMajorTip": "Select an intended major and this will show which requirement this course satisfies"
+    "noMajorTip": "Select an intended major and this will show which requirement this course satisfies",
+    "overlapBadge": "🔗 Double-count",
+    "overlapHint": "Counts for both majors"
   },
   "index": {
     "campusHint": "v0.1 covers two campuses: UCI and UCSD (course data loaded).",
@@ -43,7 +45,10 @@
     "noMajor": "Skip for now",
     "goMajor": "View degree requirements →",
     "major2Title": "🎓 Second major (optional)",
-    "major2Hint": "Double-major planning: pick another in the same campus; the Major tab computes overlap."
+    "major2Hint": "Double-major planning: pick another in the same campus; the Major tab computes overlap.",
+    "resumeTitle": "↩️ Resume planning",
+    "resumeGo": "Continue →",
+    "resumeCourses": "{n} courses picked"
   },
   "nav": {
     "courses": "Courses",

@@ -38,7 +38,7 @@
 <script src="js/major.js"></script>
 <script>
 "use strict";
-var CAMPUS = "UCI", INDEX = [], cur = null, REQIDX = null, DOWNIDX = null, MAJORNAME = "";
+var CAMPUS = "UCI", INDEX = [], cur = null, REQIDX = null, DOWNIDX = null, MAJORNAME = "", OVERLAP = {};
 function setCampusSub() {
   document.getElementById("campusSub").textContent =
     I18N.t(CAMPUS === "UCI" ? "courses.campusUCI" : "courses.campusUCSD");
@@ -51,7 +51,8 @@ function doSearch() {
     return c.code.toLowerCase().indexOf(q) >= 0 || c.t.toLowerCase().indexOf(q) >= 0;
   }).slice(0, 30);
   box.innerHTML = hits.length ? hits.map(function (c) {
-    return '<div class="course-row"><span><b>' + esc(c.code) + '</b> ' + esc(c.t) + '<span class="tag">' + esc(c.u) + ' ' + esc(I18N.t("courses.units")) + '</span></span><button class="btn ghost sm" data-i="' + INDEX.indexOf(c) + '">' + esc(I18N.t("courses.detail")) + '</button></div>';
+    var ov = OVERLAP[normCode(c.code)] ? ' <span class="tag ov">' + esc(I18N.t("courses.overlapBadge")) + '</span>' : "";
+    return '<div class="course-row"><span><b>' + esc(c.code) + '</b> ' + esc(c.t) + '<span class="tag">' + esc(c.u) + ' ' + esc(I18N.t("courses.units")) + '</span>' + ov + '</span><button class="btn ghost sm" data-i="' + INDEX.indexOf(c) + '">' + esc(I18N.t("courses.detail")) + '</button></div>';
   }).join("") : '<p class="hint">' + esc(I18N.t("courses.noResult")) + '</p>';
   box.querySelectorAll("button").forEach(function (b) {
     b.addEventListener("click", function () { showDetail(INDEX[+b.dataset.i]); });
@@ -72,6 +73,10 @@ function showDetail(c) {
     else h += '<p class="hint">' + esc(I18N.t("courses.noPrereq")) + '</p>';
     /* 为什么选这门课：毕业要求 + 下游课程 */
     var nk = normCode(c.code);
+    if (OVERLAP[nk]) {
+      h += '<p style="font-size:14px;margin-top:8px"><span class="tag ov">' + esc(I18N.t("courses.overlapBadge")) + '</span> ' +
+        '<span class="hint">' + esc(I18N.t("courses.overlapHint")) + '</span></p>';
+    }
     if (REQIDX) {
       var reqs = REQIDX[nk] || [];
       if (reqs.length) {
@@ -120,12 +125,20 @@ I18N.init().then(function () {
   }).catch(function () {
     document.getElementById("results").innerHTML = '<p class="hint">' + esc(I18N.t("courses.loadFail")) + '</p>';
   });
-  var mj = Sget("major", "");
+  var mj = Sget("major", ""), mj2 = Sget("major2", "");
   if (mj) {
-    fetchMajor(CAMPUS, mj).then(function (md) {
+    var p1 = fetchMajor(CAMPUS, mj).then(function (md) {
       REQIDX = buildReqIndex(md);
       MAJORNAME = md.major;
-    }).catch(function () {});
+      return md;
+    }).catch(function () { return null; });
+    var p2 = mj2 ? fetchMajor(CAMPUS, mj2).then(function (md) { return buildReqIndex(md); }).catch(function () { return null; }) : Promise.resolve(null);
+    Promise.all([p1, p2]).then(function (rs) {
+      if (rs[0] && rs[1]) {
+        Object.keys(rs[0]).forEach(function (k) { if (rs[1][k]) OVERLAP[k] = true; });
+        doSearch();
+      }
+    });
   }
 });
 </script>

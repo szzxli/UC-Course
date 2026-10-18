@@ -23,7 +23,9 @@
     "satisfiesReq": "满足毕业要求：",
     "downstream": "是这些课的前置：",
     "notInReq": "这门课不在所选专业的毕业要求里",
-    "noMajorTip": "选择意向专业后，这里会显示该课满足哪条毕业要求"
+    "noMajorTip": "选择意向专业后，这里会显示该课满足哪条毕业要求",
+    "overlapBadge": "🔗 双重学分",
+    "overlapHint": "同时满足两个专业，一门顶两门"
   },
   "index": {
     "campusHint": "v0.1 先上两校：UCI、UCSD（课程数据已入库）。",
@@ -43,7 +45,10 @@
     "noMajor": "暂不选专业",
     "goMajor": "查看毕业要求 →",
     "major2Title": "🎓 第二专业（可选）",
-    "major2Hint": "双专业规划：同一校区再选一个，专业页会算出重叠课程。"
+    "major2Hint": "双专业规划：同一校区再选一个，专业页会算出重叠课程。",
+    "resumeTitle": "↩️ 继续上次的规划",
+    "resumeGo": "继续 →",
+    "resumeCourses": "已选 {n} 门"
   },
   "nav": {
     "courses": "查课",

@@ -23,7 +23,9 @@
     "satisfiesReq": "滿足畢業要求：",
     "downstream": "是這些課的前置：",
     "notInReq": "這門課不在所選專業的畢業要求裡",
-    "noMajorTip": "選擇意向專業後，這裡會顯示該課滿足哪條畢業要求"
+    "noMajorTip": "選擇意向專業後，這裡會顯示該課滿足哪條畢業要求",
+    "overlapBadge": "🔗 雙重學分",
+    "overlapHint": "同時滿足兩個專業，一門頂兩門"
   },
   "index": {
     "campusHint": "v0.1 先上兩校：UCI、UCSD（課程資料已入庫）。",
@@ -43,7 +45,10 @@
     "noMajor": "暫不選專業",
     "goMajor": "查看畢業要求 →",
     "major2Title": "🎓 第二專業（可選）",
-    "major2Hint": "雙專業規劃：同一校區再選一個，專業頁會算出重疊課程。"
+    "major2Hint": "雙專業規劃：同一校區再選一個，專業頁會算出重疊課程。",
+    "resumeTitle": "↩️ 繼續上次的規劃",
+    "resumeGo": "繼續 →",
+    "resumeCourses": "已選 {n} 門"
   },
   "nav": {
     "courses": "查課",

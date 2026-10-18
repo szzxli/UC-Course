@@ -23,7 +23,9 @@
     "satisfiesReq": "Cumple el requisito: ",
     "downstream": "Es prerrequisito de: ",
     "notInReq": "No está en los requisitos de tu carrera",
-    "noMajorTip": "Selecciona una carrera y aquí se mostrará qué requisito cumple este curso"
+    "noMajorTip": "Selecciona una carrera y aquí se mostrará qué requisito cumple este curso",
+    "overlapBadge": "🔗 Doble cómputo",
+    "overlapHint": "Cuenta para ambas carreras"
   },
   "index": {
     "campusHint": "v0.1 cubre dos campus: UCI y UCSD (datos de cursos cargados).",
@@ -43,7 +45,10 @@
     "noMajor": "Omitir por ahora",
     "goMajor": "Ver requisitos de graduación →",
     "major2Title": "🎓 Segunda carrera (opcional)",
-    "major2Hint": "Doble carrera: elige otra del mismo campus; la pestaña Carrera calcula el solapamiento."
+    "major2Hint": "Doble carrera: elige otra del mismo campus; la pestaña Carrera calcula el solapamiento.",
+    "resumeTitle": "↩️ Continuar",
+    "resumeGo": "Continuar →",
+    "resumeCourses": "{n} cursos"
   },
   "nav": {
     "courses": "Cursos",
