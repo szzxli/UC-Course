@@ -1,0 +1,224 @@
+{
+ "campus": "UCSD",
+ "major": "Biology",
+ "degree": "B.S.",
+ "department": "School of Biological Sciences",
+ "school": "School of Biological Sciences",
+ "source_url": "https://catalog.ucsd.edu/curric/BIOL-ug.html",
+ "checked": "2026-10-18",
+ "requirements": [
+  {
+   "id": "lower-bio",
+   "name": "Lower-division Biology",
+   "type": "required",
+   "courses": [
+    "BILD 1",
+    "BILD 2",
+    "BILD 3",
+    "BILD 4",
+    "BILD 5"
+   ]
+  },
+  {
+   "id": "lower-chem",
+   "name": "General Chemistry",
+   "type": "required",
+   "courses": [
+    "CHEM 6A",
+    "CHEM 6B",
+    "CHEM 6C",
+    "CHEM 7L"
+   ]
+  },
+  {
+   "id": "lower-ochem",
+   "name": "Organic Chemistry",
+   "type": "required",
+   "courses": [
+    "CHEM 40A",
+    "CHEM 40B"
+   ]
+  },
+  {
+   "id": "lower-math",
+   "name": "Mathematics",
+   "type": "required",
+   "courses": [
+    "MATH 10A",
+    "MATH 10B",
+    "MATH 11",
+    "MATH 20A",
+    "MATH 20B"
+   ],
+   "note": "MATH 10A-B + 11 OR MATH 20A-B + 11",
+   "options": [
+    [
+     "MATH 10A",
+     "MATH 10B",
+     "MATH 11"
+    ],
+    [
+     "MATH 11",
+     "MATH 20A",
+     "MATH 20B"
+    ]
+   ]
+  },
+  {
+   "id": "lower-phys",
+   "name": "Physics",
+   "type": "required",
+   "courses": [
+    "PHYS 1A",
+    "PHYS 1AL",
+    "PHYS 1B",
+    "PHYS 1BL",
+    "PHYS 1C",
+    "PHYS 1CL",
+    "PHYS 2A",
+    "PHYS 2B",
+    "PHYS 2BL",
+    "PHYS 2C",
+    "PHYS 2CL",
+    "PHYS 2DL"
+   ],
+   "note": "PHYS 1A/1AL+1B/1BL+1C/1CL OR PHYS 2A-B-C + (2BL or 2CL or 2DL)",
+   "options": [
+    [
+     "PHYS 1A",
+     "PHYS 1AL",
+     "PHYS 1B",
+     "PHYS 1BL",
+     "PHYS 1C",
+     "PHYS 1CL"
+    ],
+    [
+     "PHYS 2A",
+     "PHYS 2B",
+     "PHYS 2BL",
+     "PHYS 2C"
+    ],
+    [
+     "PHYS 2A",
+     "PHYS 2B",
+     "PHYS 2C",
+     "PHYS 2CL"
+    ],
+    [
+     "PHYS 2A",
+     "PHYS 2B",
+     "PHYS 2C",
+     "PHYS 2DL"
+    ]
+   ]
+  },
+  {
+   "id": "upper-biochem",
+   "name": "Biochemistry (choose one)",
+   "type": "required",
+   "courses": [
+    "BIBC 100",
+    "BIBC 102",
+    "CHEM 114A",
+    "CHEM 114B"
+   ],
+   "options": [
+    [
+     "BIBC 100"
+    ],
+    [
+     "CHEM 114A"
+    ],
+    [
+     "BIBC 102"
+    ],
+    [
+     "CHEM 114B"
+    ]
+   ]
+  },
+  {
+   "id": "upper-gen",
+   "name": "Genetics",
+   "type": "required",
+   "courses": [
+    "BICD 100"
+   ]
+  },
+  {
+   "id": "upper-bieb",
+   "name": "One 4-unit BIEB course",
+   "type": "elective",
+   "courses": [
+    "BIEB 102",
+    "BIEB 121",
+    "BIEB 123",
+    "BIEB 126",
+    "BIEB 128",
+    "BIEB 130",
+    "BIEB 134",
+    "BIEB 135",
+    "BIEB 136GS",
+    "BIEB 137GS",
+    "BIEB 138GS",
+    "BIEB 140",
+    "BIEB 141",
+    "BIEB 143",
+    "BIEB 146",
+    "BIEB 148",
+    "BIEB 150",
+    "BIEB 152",
+    "BIEB 154",
+    "BIEB 156",
+    "BIEB 158",
+    "BIEB 159",
+    "BIEB 164",
+    "BIEB 166",
+    "BIEB 174",
+    "BIEB 176",
+    "BIEB 182",
+    "BIEB 194"
+   ],
+   "count": 1,
+   "note": "BIEB 102 or BIEB 150 recommended"
+  },
+  {
+   "id": "upper-molbio",
+   "name": "Molecular Biology",
+   "type": "required",
+   "courses": [
+    "BIMM 100"
+   ]
+  },
+  {
+   "id": "upper-physio",
+   "name": "Human Physiology I",
+   "type": "required",
+   "courses": [
+    "BIPN 100"
+   ]
+  },
+  {
+   "id": "upper-lab",
+   "name": "Upper-division lab (option A: one 6-unit lab; option B: two 4+ unit labs)",
+   "type": "elective",
+   "courses": [],
+   "count": 2,
+   "note": "Option A: one 6-unit UD lab; Option B: two UD lab courses (4+ units each) from School of Biological Sciences; one BISP 196/197/199 (4+ units) may count",
+   "options": [
+    [],
+    []
+   ]
+  },
+  {
+   "id": "upper-elect",
+   "name": "Major electives (20-22 units)",
+   "type": "elective",
+   "courses": [],
+   "count": 5,
+   "note": "UD biology courses through School of Biological Sciences; outside courses need prior approval+petition"
+  }
+ ],
+ "notes": "Extracted for General Biology Major (closest to 'Biology B.S.'); UCSD also offers EBE, Human Bio, Microbiology, Mol/Cell, Neurobiology majors with different UD requirements.",
+ "file": "ucsd-biology.json"
+}
