@@ -119,6 +119,16 @@
     "selectedN": "已选 {n} 门",
     "addSelected": "加入选课清单",
     "addedN": "已加入 {n} 门，去排课页查看",
-    "addAllRequired": "一键加入全部必修课"
+    "addAllRequired": "一键加入全部必修课",
+    "haveBtn": "我有了",
+    "unhave": "取消",
+    "haveTag": "已有",
+    "haveItBtn": "这门我有了",
+    "apSection": "AP 抵分",
+    "ccSection": "CC 等效课",
+    "close": "关闭",
+    "haveCount": "已有 {n}/{m}",
+    "ccMore": "等 {n} 所 CC",
+    "equivNote": "AP 抵分与 CC 等效以学校官方认定为准，入学前请与 advisor 确认。"
   }
 }

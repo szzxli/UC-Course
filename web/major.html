@@ -27,6 +27,16 @@
   <span id="selCount"></span>
   <button class="btn sm" id="addSelBtn" data-i18n="major.addSelected">加入选课清单</button>
 </div>
+<div id="eqPop" class="pop" hidden>
+  <div class="pop-card">
+    <div class="section-title" id="eqTitle"></div>
+    <div id="eqBody"></div>
+    <div class="btn-row">
+      <button class="btn sm" id="eqHaveBtn" data-i18n="major.haveItBtn">这门我有了</button>
+      <button class="btn ghost sm" id="eqClose" data-i18n="major.close">关闭</button>
+    </div>
+  </div>
+</div>
 <nav class="tabbar">
   <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
   <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
@@ -45,32 +55,109 @@ I18N.init().then(function () {
   if (!file) { document.getElementById("noMajor").hidden = false; return; }
   document.getElementById("goPlanRow").hidden = false;
   document.getElementById("addAllRow").hidden = false;
-  var MAJORDATA = null;
-  var SELECTED = {}; /* normCode -> code */
+  var MAJORDATA = null, EQUIV = {};
+  var SELECTED = {};
+  var HAVE = Sget("have", {});
+  function saveHave() { Sset("have", HAVE); }
+  function inHave(k) { return !!HAVE[normCode(k)]; }
   function refreshBar() {
     var n = Object.keys(SELECTED).length;
     document.getElementById("selBar").hidden = n === 0;
     document.body.classList.toggle("has-selbar", n > 0);
     document.getElementById("selCount").textContent = I18N.t("major.selectedN", { n: n });
   }
-  function markInPlan() {
-    var m = Sget("myCourses", []);
-    document.querySelectorAll('input[type="checkbox"][data-k]').forEach(function (cb) {
-      var inPlan = m.some(function (x) { return normCode(x.code) === cb.dataset.k; });
-      var lbl = cb.closest("label").querySelector("span");
-      var old = lbl.querySelector(".tag");
-      if (inPlan) {
-        cb.checked = true; cb.disabled = true;
-        if (!old) { var t = document.createElement("span"); t.className = "tag"; t.textContent = I18N.t("major.inPlan"); lbl.appendChild(t); }
-      } else {
-        cb.disabled = false;
-        if (old) old.remove();
-        if (!SELECTED[cb.dataset.k]) cb.checked = false;
+  function refreshStates() {
+    var mine = Sget("myCourses", []);
+    document.querySelectorAll(".course-row[data-k]").forEach(function (row) {
+      var k = row.dataset.k, cb = row.querySelector('input[type="checkbox"]');
+      var haveTag = row.querySelector(".havetag"), haveBtn = row.querySelector("[data-havebtn]");
+      var inPlan = mine.some(function (x) { return normCode(x.code) === k; });
+      var had = inHave(k);
+      row.classList.toggle("had", had);
+      if (cb) { cb.disabled = had || inPlan; if (had || inPlan) cb.checked = true; else if (!SELECTED[k]) cb.checked = false; }
+      if (haveTag) haveTag.hidden = !had;
+      if (haveBtn) {
+        haveBtn.textContent = had ? I18N.t("major.unhave") : I18N.t("major.haveBtn");
+        haveBtn.classList.toggle("on", had);
       }
+      var planTag = row.querySelector(".plantag");
+      if (planTag) planTag.hidden = !(inPlan && !had);
+    });
+    /* 每条 requirement 的已有进度 */
+    document.querySelectorAll("[data-req]").forEach(function (card) {
+      var keys = JSON.parse(card.dataset.keys || "[]");
+      var n = keys.filter(inHave).length;
+      var el = card.querySelector("[data-havecount]");
+      if (el) el.textContent = I18N.t("major.haveCount", { n: n, m: keys.length });
     });
   }
-  fetchMajor(campus, file).then(function (md) {
-    MAJORDATA = md;
+  function openPopup(code) {
+    var k = normCode(code), eq = EQUIV[k] || { ap: [], cc: [] };
+    document.getElementById("eqTitle").textContent = code;
+    var h = "";
+    if (eq.ap.length) {
+      h += '<div class="section-title">' + esc(I18N.t("major.apSection")) + '</div>' + eq.ap.map(function (a) {
+        return '<div class="eqrow"><b>' + esc(a.exam) + '</b> · ' + esc(a.score) + ' → ' +
+          esc((a.courses || []).join(", ")) + (a.units ? ' (' + esc(a.units) + 'u)' : "") +
+          (a.note ? '<br><span class="hint">' + esc(a.note) + '</span>' : "") + '</div>';
+      }).join("");
+    }
+    if (eq.cc.length) {
+      var show = eq.cc.slice(0, 10);
+      h += '<div class="section-title">' + esc(I18N.t("major.ccSection")) + '</div>' + show.map(function (m) {
+        return '<div class="eqrow">' + esc(m.cc) + ' · <b>' + esc(m.course) + '</b></div>';
+      }).join("");
+      if (eq.cc.length > 10) h += '<p class="hint">' + esc(I18N.t("major.ccMore", { n: eq.cc.length - 10 })) + '</p>';
+    }
+    h += '<p class="hint">' + esc(I18N.t("major.equivNote")) + '</p>';
+    document.getElementById("eqBody").innerHTML = h;
+    var hb = document.getElementById("eqHaveBtn");
+    hb.textContent = inHave(k) ? I18N.t("major.unhave") : I18N.t("major.haveItBtn");
+    hb.onclick = function () {
+      if (inHave(k)) delete HAVE[k]; else HAVE[k] = true;
+      saveHave(); refreshStates();
+      hb.textContent = inHave(k) ? I18N.t("major.unhave") : I18N.t("major.haveItBtn");
+    };
+    document.getElementById("eqPop").hidden = false;
+  }
+  document.getElementById("eqClose").addEventListener("click", function () {
+    document.getElementById("eqPop").hidden = true;
+  });
+  document.getElementById("eqPop").addEventListener("click", function (e) {
+    if (e.target.id === "eqPop") e.target.hidden = true;
+  });
+  Promise.all([
+    fetchMajor(campus, file),
+    fetch("data/credits/index.json").then(function (r) { return r.json(); })
+  ]).then(function (rs) {
+    var md = rs[0]; MAJORDATA = md;
+    var cl = (rs[1][campus] || { ap: [], cc: [] });
+    var jobs = cl.ap.map(function (f) {
+      return fetch("data/credits/" + f).then(function (r) { return r.json(); }).catch(function () { return []; });
+    }).concat(cl.cc.map(function (f) {
+      return fetch("data/credits/" + f).then(function (r) { return r.json(); }).catch(function () { return {}; });
+    }));
+    return Promise.all(jobs).then(function (parts) {
+      return { md: md, ap: parts.slice(0, cl.ap.length), cc: parts.slice(cl.ap.length) };
+    });
+  }).then(function (rs) {
+    var md = rs.md; MAJORDATA = md;
+    rs.ap.forEach(function (arr) {
+      arr.forEach(function (a) {
+        (a.courses || []).forEach(function (c) {
+          var k = normCode(c);
+          EQUIV[k] = EQUIV[k] || { ap: [], cc: [] };
+          EQUIV[k].ap.push(a);
+        });
+      });
+    });
+    rs.cc.forEach(function (obj) {
+      Object.keys(obj).forEach(function (c) {
+        var k = normCode(c);
+        EQUIV[k] = EQUIV[k] || { ap: [], cc: [] };
+        EQUIV[k].cc = EQUIV[k].cc.concat(obj[c]);
+      });
+    });
     document.getElementById("majorSub").textContent = md.major + " (" + md.degree + ") · " + campus;
     var box = document.getElementById("reqList");
     box.innerHTML = (md.requirements || []).map(function (req, ri) {
@@ -78,14 +165,22 @@ I18N.init().then(function () {
       var countLine = (req.type === "elective" && req.count) ? " · " + I18N.t("major.pickCount", { n: req.count }) : "";
       var selAll = (req.courses || []).length
         ? ' <a href="#" class="link" data-selall="' + ri + '">' + esc(I18N.t("major.selectAll")) + '</a>' : "";
-      var courses = (req.courses || []).map(function (c) {
-        var k = normCode(c);
-        return '<label class="course-row check"><input type="checkbox" data-k="' + esc(k) +
-          '" data-code="' + esc(c) + '"><span><b>' + esc(c) + '</b></span></label>';
+      var keys = (req.courses || []).map(normCode);
+      var courses = (req.courses || []).map(function (c, ci) {
+        var k = normCode(c), eq = EQUIV[k] || { ap: [], cc: [] };
+        var badges = (eq.ap.length ? '<span class="ebadge" data-eq="' + esc(c) + '">AP</span>' : "") +
+          (eq.cc.length ? '<span class="ebadge cc" data-eq="' + esc(c) + '">CC</span>' : "");
+        return '<div class="course-row" data-k="' + esc(k) + '">' +
+          '<label class="checkwrap"><input type="checkbox" data-k="' + esc(k) + '" data-code="' + esc(c) + '"><b>' + esc(c) + '</b>' + badges +
+          '<span class="tag havetag" hidden>' + esc(I18N.t("major.haveTag")) + '</span>' +
+          '<span class="tag plantag" hidden>' + esc(I18N.t("major.inPlan")) + '</span></label>' +
+          '<button class="btn ghost sm" data-havebtn data-k="' + esc(k) + '">' + esc(I18N.t("major.haveBtn")) + '</button></div>';
       }).join("");
       if (!courses) courses = '<p class="hint">' + esc(req.note || "") + '</p>';
-      return '<div class="card" data-req="' + ri + '"><div class="section-title">' + esc(req.name) +
-        ' <span class="tag">' + esc(badge) + countLine + '</span>' + selAll + '</div>' +
+      return '<div class="card" data-req="' + ri + '" data-keys=\'' + JSON.stringify(keys) + '\'>' +
+        '<div class="section-title">' + esc(req.name) +
+        ' <span class="tag">' + esc(badge) + countLine + '</span>' +
+        ' <span class="tag have" data-havecount></span>' + selAll + '</div>' +
         (req.note ? '<p class="hint">' + esc(req.note) + '</p>' : "") + courses + '</div>';
     }).join("");
     box.querySelectorAll('input[type="checkbox"][data-k]').forEach(function (cb) {
@@ -93,6 +188,16 @@ I18N.init().then(function () {
         if (cb.checked) SELECTED[cb.dataset.k] = cb.dataset.code;
         else delete SELECTED[cb.dataset.k];
         refreshBar();
+      });
+    });
+    box.querySelectorAll(".ebadge").forEach(function (b) {
+      b.addEventListener("click", function (e) { e.preventDefault(); openPopup(b.dataset.eq); });
+    });
+    box.querySelectorAll("[data-havebtn]").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var k = btn.dataset.k;
+        if (inHave(k)) delete HAVE[k]; else HAVE[k] = true;
+        saveHave(); refreshStates();
       });
     });
     box.querySelectorAll("[data-selall]").forEach(function (a) {
@@ -105,43 +210,39 @@ I18N.init().then(function () {
         refreshBar();
       });
     });
-    markInPlan();
+    refreshStates();
     document.getElementById("srcNote").textContent =
       I18N.t("major.sourceNote", { campus: campus, date: md.checked || "" });
   }).catch(function () {
     document.getElementById("reqList").innerHTML = '<div class="card"><p class="hint">load fail</p></div>';
   });
-  document.getElementById("addAllReqBtn").addEventListener("click", function () {
-    if (!MAJORDATA) return;
+  function addCodes(list) {
     var m = Sget("myCourses", []), added = 0;
-    (MAJORDATA.requirements || []).forEach(function (req) {
-      if (req.type !== "required") return;
-      (req.courses || []).forEach(function (c) {
-        var k = normCode(c);
-        if (!m.some(function (x) { return normCode(x.code) === k; })) {
-          m.push({ code: c, u: "4", pre: [], campus: campus });
-          added++;
-        }
-      });
-    });
-    Sset("myCourses", m);
-    SELECTED = {};
-    markInPlan();
-    refreshBar();
-    alert(I18N.t("major.addedN", { n: added }));
-  });
-  document.getElementById("addSelBtn").addEventListener("click", function () {    var m = Sget("myCourses", []), added = 0;
-    Object.keys(SELECTED).forEach(function (k) {
+    list.forEach(function (c) {
+      var k = normCode(c);
+      if (inHave(k)) return;
       if (!m.some(function (x) { return normCode(x.code) === k; })) {
-        m.push({ code: SELECTED[k], u: "4", pre: [], campus: campus });
+        m.push({ code: c, u: "4", pre: [], campus: campus });
         added++;
       }
     });
     Sset("myCourses", m);
     SELECTED = {};
-    markInPlan();
-    refreshBar();
-    alert(I18N.t("major.addedN", { n: added }));
+    refreshStates(); refreshBar();
+    return added;
+  }
+  document.getElementById("addAllReqBtn").addEventListener("click", function () {
+    if (!MAJORDATA) return;
+    var list = [];
+    (MAJORDATA.requirements || []).forEach(function (req) {
+      if (req.type !== "required") return;
+      (req.courses || []).forEach(function (c) { list.push(c); });
+    });
+    alert(I18N.t("major.addedN", { n: addCodes(list) }));
+  });
+  document.getElementById("addSelBtn").addEventListener("click", function () {
+    var list = Object.keys(SELECTED).map(function (k) { return SELECTED[k]; });
+    alert(I18N.t("major.addedN", { n: addCodes(list) }));
   });
 });
 </script>

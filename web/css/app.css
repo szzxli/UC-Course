@@ -43,3 +43,14 @@ pre.code{background:#1f1b2d;color:#d8d3ea;border-radius:10px;padding:12px;font-s
 .link{font-size:13px;color:#7c3aed;text-decoration:none}
 .selbar{position:fixed;left:0;right:0;bottom:76px;display:flex;justify-content:space-between;align-items:center;background:#fff;border-top:1px solid #ece7f7;padding:10px 16px;z-index:90;box-shadow:0 -2px 12px rgba(0,0,0,.06);font-size:14px}
 body.has-selbar{padding-bottom:140px}
+.checkwrap{display:flex;align-items:center;gap:8px;cursor:pointer;flex:1;min-width:0}
+.checkwrap input{width:18px;height:18px;accent-color:#7c3aed;flex:none}
+.ebadge{display:inline-block;font-size:11px;font-weight:700;background:#dbeafe;color:#1d4ed8;border-radius:6px;padding:2px 7px;margin-left:6px;cursor:pointer}
+.ebadge.cc{background:#dcfce7;color:#15803d}
+.course-row.had{opacity:.55}
+.tag.have{background:#fef3c7;color:#92400e}
+[data-havebtn].on{background:#ede9fe;color:#5b21b6}
+.pop{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px}
+.pop-card{background:#fff;border-radius:14px;max-width:520px;width:100%;max-height:80vh;overflow:auto;padding:18px}
+.eqrow{font-size:14px;padding:7px 0;border-bottom:1px solid #f0ebfa}
+.eqrow:last-child{border:none}

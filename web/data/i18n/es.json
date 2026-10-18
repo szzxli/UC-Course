@@ -119,6 +119,16 @@
     "selectedN": "{n} seleccionados",
     "addSelected": "Añadir a mi lista",
     "addedN": "Añadidos {n}; ver en Planificar",
-    "addAllRequired": "Añadir todos los obligatorios"
+    "addAllRequired": "Añadir todos los obligatorios",
+    "haveBtn": "Ya lo tengo",
+    "unhave": "Deshacer",
+    "haveTag": "Hecho",
+    "haveItBtn": "Marcar como completado",
+    "apSection": "Crédito AP",
+    "ccSection": "Equivalentes en CC",
+    "close": "Cerrar",
+    "haveCount": "{n}/{m} hechos",
+    "ccMore": "+{n} CC más",
+    "equivNote": "La equivalencia AP/CC está sujeta a la aprobación oficial del campus; confirma con tu asesor."
   }
 }
