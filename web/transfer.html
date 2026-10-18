@@ -60,8 +60,8 @@ function loadMap() {
     parts.forEach(function (p) { Object.keys(p).forEach(function (k) { CCMAP[k] = p[k]; }); });
     var sel = document.getElementById("ccSel");
     sel.innerHTML = '<option value="">' + esc(I18N.t("transfer.pickCC")) + '</option>' +
-      Object.keys(j).sort().map(function (n) {
-        return '<option value="' + esc(n) + '">' + esc(n) + ' (' + j[n].length + ')</option>';
+      Object.keys(CCMAP).sort().map(function (n) {
+        return '<option value="' + esc(n) + '">' + esc(n) + ' (' + CCMAP[n].length + ')</option>';
       }).join("");
     document.getElementById("courseList").innerHTML = '<p class="hint">' + esc(I18N.t("transfer.pickCCFirst")) + '</p>';
     updateBar();
