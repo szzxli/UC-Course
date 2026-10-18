@@ -1,0 +1,20 @@
+{
+  "UCI": {
+    "ap": [
+      "ap-uci.json"
+    ],
+    "cc": [
+      "cc-uci.json"
+    ]
+  },
+  "UCSD": {
+    "ap": [
+      "ap-ucsd.json"
+    ],
+    "cc": [
+      "cc-ucsd-a.json",
+      "cc-ucsd-b.json"
+    ]
+  },
+  "checked": "2026-10-18"
+}
