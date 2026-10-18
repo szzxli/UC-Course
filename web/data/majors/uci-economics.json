@@ -1,0 +1,56 @@
+{
+ "campus": "UCI",
+ "major": "Economics",
+ "degree": "B.A.",
+ "department": "Department of Economics",
+ "school": "School of Social Sciences",
+ "source_url": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/economics_ba/",
+ "checked": "2026-10-18",
+ "requirements": [
+  {
+   "id": "A",
+   "name": "A. Lower-division",
+   "type": "required",
+   "courses": [
+    "ECON 15",
+    "ECON 20A",
+    "ECON 20B",
+    "MATH 2A",
+    "MATH 2B"
+   ]
+  },
+  {
+   "id": "B",
+   "name": "B. Upper-division core",
+   "type": "required",
+   "courses": [
+    "ECON 100A",
+    "ECON 100B",
+    "ECON 100C",
+    "ECON 122A",
+    "ECON 122B"
+   ]
+  },
+  {
+   "id": "C",
+   "name": "C. Six additional ECON courses (one may be lower-division)",
+   "type": "elective",
+   "courses": [],
+   "count": 6,
+   "note": "Open pool: any ECON courses; at most constraint D applies"
+  },
+  {
+   "id": "D",
+   "name": "D. Cap: max three 4-unit courses from ECON 190-199 count toward major",
+   "type": "elective",
+   "courses": [
+    "ECON 190",
+    "ECON 190BW",
+    "ECON 199"
+   ],
+   "count": 3,
+   "note": "This is a cap, not a requirement to take 3"
+  }
+ ],
+ "file": "uci-economics.json"
+}

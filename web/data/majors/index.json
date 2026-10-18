@@ -1,0 +1,86 @@
+[
+ {
+  "campus": "UCI",
+  "major": "Computer Science",
+  "degree": "B.S.",
+  "file": "uci-computer-science.json",
+  "requirement_count": 6
+ },
+ {
+  "campus": "UCI",
+  "major": "Electrical Engineering",
+  "degree": "B.S.",
+  "file": "uci-electrical-engineering.json",
+  "requirement_count": 9
+ },
+ {
+  "campus": "UCI",
+  "major": "Biological Sciences",
+  "degree": "B.S.",
+  "file": "uci-biology.json",
+  "requirement_count": 3
+ },
+ {
+  "campus": "UCI",
+  "major": "Psychology",
+  "degree": "B.A.",
+  "file": "uci-psychology.json",
+  "requirement_count": 4
+ },
+ {
+  "campus": "UCI",
+  "major": "Economics",
+  "degree": "B.A.",
+  "file": "uci-economics.json",
+  "requirement_count": 4
+ },
+ {
+  "campus": "UCSD",
+  "major": "Computer Science",
+  "degree": "B.S.",
+  "file": "ucsd-computer-science.json",
+  "requirement_count": 7
+ },
+ {
+  "campus": "UCSD",
+  "major": "Electrical Engineering",
+  "degree": "B.S.",
+  "file": "ucsd-electrical-engineering.json",
+  "requirement_count": 14
+ },
+ {
+  "campus": "UCSD",
+  "major": "Biology",
+  "degree": "B.S.",
+  "file": "ucsd-biology.json",
+  "requirement_count": 12
+ },
+ {
+  "campus": "UCSD",
+  "major": "Psychology",
+  "degree": "B.A.",
+  "file": "ucsd-psychology.json",
+  "requirement_count": 7
+ },
+ {
+  "campus": "UCSD",
+  "major": "Economics",
+  "degree": "B.A.",
+  "file": "ucsd-economics.json",
+  "requirement_count": 4
+ },
+ {
+  "campus": "UCI",
+  "major": "Mathematics",
+  "degree": "B.S.",
+  "file": "uci-mathematics.json",
+  "requirement_count": 5
+ },
+ {
+  "campus": "UCSD",
+  "major": "Mathematics",
+  "degree": "B.S.",
+  "file": "ucsd-mathematics.json",
+  "requirement_count": 5
+ }
+]
