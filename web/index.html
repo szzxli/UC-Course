@@ -36,6 +36,11 @@
     <p class="hint" data-i18n="index.majorHint">选了专业，查课和排课会告诉你每门课满足哪条毕业要求。</p>
     <div class="field"><select id="majorSel"><option value="" data-i18n="index.noMajor">暂不选专业</option></select></div>
   </div>
+  <div class="card">
+    <div class="section-title" data-i18n="index.major2Title">🎓 第二专业（可选）</div>
+    <p class="hint" data-i18n="index.major2Hint">双专业/辅修规划：同一校区再选一个，专业页会算出重叠课程。</p>
+    <div class="field"><select id="major2Sel"><option value="" data-i18n="index.noMajor">暂不选专业</option></select></div>
+  </div>
   <div class="btn-row">
     <a class="btn" href="courses.html" id="goBtn">开始选课 →</a>
   </div>
@@ -46,6 +51,7 @@
   <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
   <a href="major.html" data-page="major"><span class="ico">🎓</span><span data-i18n="nav.major">专业</span></a>
   <a href="plan.html" data-page="plan"><span class="ico">🗓️</span><span data-i18n="nav.plan">排课</span></a>
+  <a href="trajectory.html" data-page="trajectory"><span class="ico">🛤️</span><span data-i18n="nav.traj">轨迹</span></a>
 </nav>
 <script src="js/app.js"></script>
 <script src="js/i18n.js"></script>
@@ -55,6 +61,7 @@ I18N.init().then(function () {
   I18N.initSwitcher("langSel");
   navActive("index");
   var MAJORS = [];
+  var MAJOR2_LABEL = "";
   function updateGoBtn() {
     var hasMajor = !!document.getElementById("majorSel").value;
     var btn = document.getElementById("goBtn");
@@ -72,7 +79,20 @@ I18N.init().then(function () {
       sel.appendChild(o);
     });
     sel.value = cur;
+    fillMajor2(campus);
     updateGoBtn();
+  }
+  function fillMajor2(campus) {
+    var sel = document.getElementById("major2Sel");
+    var cur = Sget("major2", ""), excl = document.getElementById("majorSel").value;
+    sel.innerHTML = '<option value="">' + I18N.t("index.noMajor") + "</option>";
+    MAJORS.filter(function (m) { return m.campus === campus && m.file !== excl; }).forEach(function (m) {
+      var o = document.createElement("option");
+      o.value = m.file;
+      o.textContent = m.major + " (" + m.degree + ")";
+      sel.appendChild(o);
+    });
+    sel.value = cur;
   }
   fetch("data/majors/index.json").then(function (r) { return r.json(); }).then(function (j) {
     MAJORS = j;
@@ -81,6 +101,7 @@ I18N.init().then(function () {
   document.getElementById("campus").addEventListener("change", function () {
     fillMajors(this.value);
     Sset("major", "");
+    Sset("major2", "");
   });
   (function () {
     var g = Sget("goal", null), c = Sget("campus", "UCI");
@@ -99,10 +120,16 @@ I18N.init().then(function () {
     Sset("goal", g ? g.value : "undecided");
     Sset("campus", document.getElementById("campus").value);
     Sset("major", document.getElementById("majorSel").value);
+    Sset("major2", document.getElementById("major2Sel").value);
   });
   document.getElementById("majorSel").addEventListener("change", function () {
     Sset("major", this.value);
+    if (Sget("major2", "") === this.value) { Sset("major2", ""); }
+    fillMajor2(document.getElementById("campus").value);
     updateGoBtn();
+  });
+  document.getElementById("major2Sel").addEventListener("change", function () {
+    Sset("major2", this.value);
   });
 });
 </script>

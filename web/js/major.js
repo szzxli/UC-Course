@@ -7,15 +7,17 @@ function fetchMajor(campus, file) {
   return fetch("data/majors/" + file).then(function (r) { return r.json(); });
 }
 
-/* 课号 -> [requirement] 反向索引（归一化后） */
+/* 课号 -> [requirement] 反向索引（归一化后；含 options 方案组） */
 function buildReqIndex(majorData) {
   var idx = {};
+  function add(c, req) {
+    var k = normCode(c);
+    if (!idx[k]) idx[k] = [];
+    idx[k].push(req);
+  }
   (majorData.requirements || []).forEach(function (req) {
-    (req.courses || []).forEach(function (c) {
-      var k = normCode(c);
-      if (!idx[k]) idx[k] = [];
-      idx[k].push(req);
-    });
+    (req.courses || []).forEach(function (c) { add(c, req); });
+    (req.options || []).forEach(function (g) { g.forEach(function (c) { add(c, req); }); });
   });
   return idx;
 }

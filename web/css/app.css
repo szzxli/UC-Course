@@ -61,3 +61,12 @@ body.has-selbar{padding-bottom:140px}
 .tverdict{font-size:16px;font-weight:700;margin:6px 0}
 .tverdict.feasible{color:#15803d}.tverdict.tight{color:#b45309}.tverdict.infeasible{color:#dc2626}
 .tstat{font-size:14px;padding:4px 0}
+.seg{display:flex;gap:8px;margin:0 0 12px}
+.seg button{flex:1;padding:10px;border:1px solid #ddd6f3;background:#fff;border-radius:10px;font-size:14px;color:#5b21b6}
+.seg button.on{background:#7c3aed;color:#fff;border-color:#7c3aed;font-weight:700}
+.trajrow{padding:9px 0;border-bottom:1px solid #f0ebfa;font-size:14px}
+.trajrow:last-child{border:none}
+.why{margin-top:4px}
+.wtag{display:inline-block;font-size:12px;background:#f5f3ff;color:#6d28d9;border-radius:6px;padding:2px 8px;margin:2px 4px 2px 0}
+.optgroup{margin:8px 0;padding:8px;background:#faf9ff;border-radius:8px}
+.opthead{margin-bottom:4px;font-size:13px}

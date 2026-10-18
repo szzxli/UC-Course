@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title data-i18n="title.traj">轨迹 · UC 智选</title>
+<link rel="stylesheet" href="css/app.css">
+<meta name="theme-color" content="#7c3aed">
+</head>
+<body>
+<div class="topbar"><div class="topbar-in">
+  <div class="brand" data-i18n="brand.traj">🛤️ 我的轨迹</div>
+  <div class="sub" data-i18n="sub.traj">每一步选择，都是申请材料的素材</div>
+  <div><select id="langSel" class="langsel" aria-label="language"></select></div>
+</div></div>
+<div class="page">
+  <div id="emptyBox" class="card" hidden>
+    <p class="hint" data-i18n="traj.empty">先去专业页把课加入清单，再回来生成轨迹</p>
+    <div class="btn-row"><a class="btn" href="major.html" data-i18n="traj.goMajor">去专业页选课 →</a></div>
+  </div>
+  <div id="trajOut"></div>
+  <div class="btn-row" id="expRow" hidden>
+    <button class="btn sm" id="copyBtn" data-i18n="traj.copy">复制文本</button>
+    <button class="btn ghost sm" id="dlBtn" data-i18n="traj.download">下载 .md</button>
+  </div>
+  <p class="hint" data-i18n="traj.note" style="margin-top:8px">目标相关性为启发式标注，仅供参考。</p>
+</div>
+<nav class="tabbar">
+  <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
+  <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
+  <a href="major.html" data-page="major"><span class="ico">🎓</span><span data-i18n="nav.major">专业</span></a>
+  <a href="plan.html" data-page="plan"><span class="ico">🗓️</span><span data-i18n="nav.plan">排课</span></a>
+  <a href="trajectory.html" data-page="trajectory" class="active"><span class="ico">🛤️</span><span data-i18n="nav.traj">轨迹</span></a>
+</nav>
+<script src="js/app.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/planner.js"></script>
+<script src="js/major.js"></script>
+<script>
+"use strict";
+I18N.init().then(function () {
+  I18N.initSwitcher("langSel");
+  navActive("trajectory");
+  var campus = Sget("campus", "UCI"), file = Sget("major", ""), file2 = Sget("major2", "");
+  var goal = Sget("goal", "undecided");
+  var mine = Sget("myCourses", []);
+  if (!mine.length) { document.getElementById("emptyBox").hidden = false; return; }
+  var jobs = [];
+  if (file) jobs.push(fetchMajor(campus, file)); else jobs.push(Promise.resolve(null));
+  if (file2) jobs.push(fetchMajor(campus, file2)); else jobs.push(Promise.resolve(null));
+  jobs.push(
+    fetch("data/search/" + campus.toLowerCase() + "/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
+      return Promise.all(m.files.map(function (f) {
+        return fetch("data/search/" + campus.toLowerCase() + "/" + f).then(function (r) { return r.json(); });
+      }));
+    }).then(function (parts) {
+      var map = {};
+      parts.forEach(function (p) { p.forEach(function (c) { map[normCode(c.code)] = c; }); });
+      return map;
+    }).catch(function () { return {}; })
+  );
+  Promise.all(jobs).then(function (rs) {
+    var md1 = rs[0], md2 = rs[1], tmap = rs[2];
+    /* 回填先修/学分 */
+    var changed = false;
+    mine.forEach(function (m) {
+      var e = tmap[normCode(m.code)];
+      if (e) {
+        if (!m.pre || !m.pre.length) { m.pre = e.pre || []; changed = true; }
+        if (!m.u || m.u === "4") { m.u = e.u; changed = true; }
+      }
+    });
+    if (changed) Sset("myCourses", mine);
+    var ridx = {};
+    [md1, md2].forEach(function (md) {
+      if (!md) return;
+      var bi = buildReqIndex(md);
+      Object.keys(bi).forEach(function (k) {
+        ridx[k] = ridx[k] || [];
+        bi[k].forEach(function (r) {
+          if (ridx[k].indexOf(r.name) < 0) ridx[k].push(r.name);
+        });
+      });
+    });
+    function goalTags(code) {
+      var tags = [], t = (tmap[normCode(code)] || {}).t || "";
+      var num = parseInt((code.match(/(\d+)/) || [0, 0])[1], 10);
+      if (goal === "grad" || goal === "undecided") {
+        if (/199/.test(code)) tags.push(I18N.t("traj.tagResearch"));
+        else if (num >= 200) tags.push(I18N.t("traj.tagGradLevel"));
+        else if (num >= 100 && /stat|prob|analy|method|theory/i.test(t)) tags.push(I18N.t("traj.tagMethod"));
+      }
+      if (goal === "job" || goal === "undecided") {
+        if (/project|design|lab|studio|intern|practicum/i.test(t)) tags.push(I18N.t("traj.tagProject"));
+      }
+      return tags;
+    }
+    function whyLines(code) {
+      var lines = [], reqs = ridx[normCode(code)] || [];
+      if (reqs.length) lines.push(I18N.t("traj.whyReq", { req: reqs.join(I18N.t("warn.listSep")) }));
+      goalTags(code).forEach(function (g) { lines.push(g); });
+      return lines;
+    }
+    var maxU = 19;
+    var r = scheduleQuarters(mine, maxU, 12, {
+      missingPrereq: function () { return ""; },
+      noRoom: function () { return ""; }
+    });
+    var terms = [I18N.t("plan.fall"), I18N.t("plan.winter"), I18N.t("plan.spring")];
+    var U = I18N.t("courses.units");
+    var h = '<div class="card"><div class="section-title">' + esc(I18N.t("traj.myTraj")) + '</div>' +
+      '<p class="hint">' + esc(I18N.t("tips.names." + (I18N.t("tips." + goal) ? goal : "undecided"))) + ' · ' +
+      esc((md1 ? md1.major : "") + (md2 ? " + " + md2.major : "")) + '</p></div>';
+    r.quarters.forEach(function (q, i) {
+      if (!q.courses.length) return;
+      h += '<div class="card"><div class="section-title">' +
+        esc(I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3]) + '</div>' +
+        q.courses.map(function (c) {
+          var wl = whyLines(c);
+          var t = (tmap[normCode(c)] || {}).t || "";
+          return '<div class="trajrow"><b>' + esc(c) + '</b>' +
+            (t ? ' <span class="hint">' + esc(t) + '</span>' : "") +
+            (wl.length ? '<div class="why">' + wl.map(function (w) {
+              return '<span class="wtag">' + esc(w) + '</span>';
+            }).join("") + '</div>' : "") + '</div>';
+        }).join("") + '</div>';
+    });
+    document.getElementById("trajOut").innerHTML = h;
+    document.getElementById("expRow").hidden = false;
+    /* 导出 markdown */
+    window.__trajMD = function () {
+      var md = "# " + I18N.t("traj.myTraj") + "\n" +
+        (md1 ? md1.major + (md1.degree ? " (" + md1.degree + ")" : "") : "") +
+        (md2 ? " + " + md2.major : "") + " · " + campus + "\n\n";
+      r.quarters.forEach(function (q, i) {
+        if (!q.courses.length) return;
+        md += "## " + I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3] + "\n";
+        q.courses.forEach(function (c) {
+          var wl = whyLines(c);
+          md += "- **" + c + "**" + (wl.length ? " — " + wl.join("; ") : "") + "\n";
+        });
+        md += "\n";
+      });
+      return md;
+    };
+  });
+  document.getElementById("copyBtn").addEventListener("click", function () {
+    var t = window.__trajMD ? window.__trajMD() : "";
+    if (navigator.clipboard) navigator.clipboard.writeText(t).then(function () {
+      alert(I18N.t("traj.copied"));
+    });
+  });
+  document.getElementById("dlBtn").addEventListener("click", function () {
+    var t = window.__trajMD ? window.__trajMD() : "";
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([t], { type: "text/markdown" }));
+    a.download = "my-trajectory.md";
+    a.click();
+  });
+});
+</script>
+</body>
+</html>
