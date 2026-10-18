@@ -112,6 +112,10 @@
     "inPlan": "In my plan",
     "addPlan": "Add to plan",
     "sourceNote": "Source: {campus} official catalog, verified {date}",
-    "goPlan": "Schedule courses →"
+    "goPlan": "Schedule courses →",
+    "selectAll": "Select all",
+    "selectedN": "{n} selected",
+    "addSelected": "Add to course list",
+    "addedN": "Added {n}; see the Schedule tab"
   }
 }

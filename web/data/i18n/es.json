@@ -112,6 +112,10 @@
     "inPlan": "En mi plan",
     "addPlan": "Añadir al plan",
     "sourceNote": "Fuente: catálogo oficial de {campus}, verificado el {date}",
-    "goPlan": "Planificar cursos →"
+    "goPlan": "Planificar cursos →",
+    "selectAll": "Seleccionar todo",
+    "selectedN": "{n} seleccionados",
+    "addSelected": "Añadir a mi lista",
+    "addedN": "Añadidos {n}; ver en Planificar"
   }
 }

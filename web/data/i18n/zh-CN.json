@@ -112,6 +112,10 @@
     "inPlan": "已在选课计划",
     "addPlan": "加入计划",
     "sourceNote": "数据来源：{campus} 官方课程目录，{date} 核对",
-    "goPlan": "去排课 →"
+    "goPlan": "去排课 →",
+    "selectAll": "全选",
+    "selectedN": "已选 {n} 门",
+    "addSelected": "加入选课清单",
+    "addedN": "已加入 {n} 门，去排课页查看"
   }
 }

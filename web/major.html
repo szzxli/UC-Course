@@ -22,6 +22,10 @@
   <div class="btn-row" id="goPlanRow" hidden><a class="btn" href="plan.html" data-i18n="major.goPlan">去排课 →</a></div>
   <div class="footnote" id="srcNote"></div>
 </div>
+<div id="selBar" class="selbar" hidden>
+  <span id="selCount"></span>
+  <button class="btn sm" id="addSelBtn" data-i18n="major.addSelected">加入选课清单</button>
+</div>
 <nav class="tabbar">
   <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
   <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
@@ -39,38 +43,83 @@ I18N.init().then(function () {
   var campus = Sget("campus", "UCI"), file = Sget("major", "");
   if (!file) { document.getElementById("noMajor").hidden = false; return; }
   document.getElementById("goPlanRow").hidden = false;
+  var SELECTED = {}; /* normCode -> code */
+  function refreshBar() {
+    var n = Object.keys(SELECTED).length;
+    document.getElementById("selBar").hidden = n === 0;
+    document.body.classList.toggle("has-selbar", n > 0);
+    document.getElementById("selCount").textContent = I18N.t("major.selectedN", { n: n });
+  }
+  function markInPlan() {
+    var m = Sget("myCourses", []);
+    document.querySelectorAll('input[type="checkbox"][data-k]').forEach(function (cb) {
+      var inPlan = m.some(function (x) { return normCode(x.code) === cb.dataset.k; });
+      var lbl = cb.closest("label").querySelector("span");
+      var old = lbl.querySelector(".tag");
+      if (inPlan) {
+        cb.checked = true; cb.disabled = true;
+        if (!old) { var t = document.createElement("span"); t.className = "tag"; t.textContent = I18N.t("major.inPlan"); lbl.appendChild(t); }
+      } else {
+        cb.disabled = false;
+        if (old) old.remove();
+        if (!SELECTED[cb.dataset.k]) cb.checked = false;
+      }
+    });
+  }
   fetchMajor(campus, file).then(function (md) {
     document.getElementById("majorSub").textContent = md.major + " (" + md.degree + ") · " + campus;
-    var mine = Sget("myCourses", []).map(function (c) { return normCode(c.code); });
     var box = document.getElementById("reqList");
-    box.innerHTML = (md.requirements || []).map(function (req) {
+    box.innerHTML = (md.requirements || []).map(function (req, ri) {
       var badge = I18N.t(REQ_TYPE_BADGE[req.type] || "major.reqRequired");
       var countLine = (req.type === "elective" && req.count) ? " · " + I18N.t("major.pickCount", { n: req.count }) : "";
+      var selAll = (req.courses || []).length
+        ? ' <a href="#" class="link" data-selall="' + ri + '">' + esc(I18N.t("major.selectAll")) + '</a>' : "";
       var courses = (req.courses || []).map(function (c) {
-        var inPlan = mine.indexOf(normCode(c)) >= 0;
-        return '<div class="course-row"><span><b>' + esc(c) + '</b>' +
-          (inPlan ? '<span class="tag">' + I18N.t("major.inPlan") + '</span>' : "") +
-          '</span>' + (inPlan ? "" : '<button class="btn ghost sm" data-c="' + esc(c) + '">' + I18N.t("major.addPlan") + '</button>') + '</div>';
+        var k = normCode(c);
+        return '<label class="course-row check"><input type="checkbox" data-k="' + esc(k) +
+          '" data-code="' + esc(c) + '"><span><b>' + esc(c) + '</b></span></label>';
       }).join("");
       if (!courses) courses = '<p class="hint">' + esc(req.note || "") + '</p>';
-      return '<div class="card"><div class="section-title">' + esc(req.name) +
-        ' <span class="tag">' + esc(badge) + countLine + '</span></div>' +
+      return '<div class="card" data-req="' + ri + '"><div class="section-title">' + esc(req.name) +
+        ' <span class="tag">' + esc(badge) + countLine + '</span>' + selAll + '</div>' +
         (req.note ? '<p class="hint">' + esc(req.note) + '</p>' : "") + courses + '</div>';
     }).join("");
-    box.querySelectorAll("button[data-c]").forEach(function (b) {
-      b.addEventListener("click", function () {
-        var m = Sget("myCourses", []);
-        if (!m.some(function (x) { return normCode(x.code) === normCode(b.dataset.c); })) {
-          m.push({ code: b.dataset.c, u: "4", pre: [], campus: campus });
-          Sset("myCourses", m);
-        }
-        b.outerHTML = '<span class="tag">' + I18N.t("major.inPlan") + '</span>';
+    box.querySelectorAll('input[type="checkbox"][data-k]').forEach(function (cb) {
+      cb.addEventListener("change", function () {
+        if (cb.checked) SELECTED[cb.dataset.k] = cb.dataset.code;
+        else delete SELECTED[cb.dataset.k];
+        refreshBar();
       });
     });
+    box.querySelectorAll("[data-selall]").forEach(function (a) {
+      a.addEventListener("click", function (e) {
+        e.preventDefault();
+        box.querySelector('[data-req="' + a.dataset.selall + '"]')
+          .querySelectorAll('input[type="checkbox"]:not(:disabled)').forEach(function (cb) {
+            if (!cb.checked) { cb.checked = true; SELECTED[cb.dataset.k] = cb.dataset.code; }
+          });
+        refreshBar();
+      });
+    });
+    markInPlan();
     document.getElementById("srcNote").textContent =
       I18N.t("major.sourceNote", { campus: campus, date: md.checked || "" });
   }).catch(function () {
     document.getElementById("reqList").innerHTML = '<div class="card"><p class="hint">load fail</p></div>';
+  });
+  document.getElementById("addSelBtn").addEventListener("click", function () {
+    var m = Sget("myCourses", []), added = 0;
+    Object.keys(SELECTED).forEach(function (k) {
+      if (!m.some(function (x) { return normCode(x.code) === k; })) {
+        m.push({ code: SELECTED[k], u: "4", pre: [], campus: campus });
+        added++;
+      }
+    });
+    Sset("myCourses", m);
+    SELECTED = {};
+    markInPlan();
+    refreshBar();
+    alert(I18N.t("major.addedN", { n: added }));
   });
 });
 </script>

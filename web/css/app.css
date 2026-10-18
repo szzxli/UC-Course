@@ -37,3 +37,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei
 .tabbar .ico{display:block;font-size:19px;margin-bottom:2px}
 .footnote{font-size:12px;color:#9a94b0;margin-top:10px;line-height:1.6}
 pre.code{background:#1f1b2d;color:#d8d3ea;border-radius:10px;padding:12px;font-size:12px;overflow-x:auto;margin:8px 0}
+.course-row.check{cursor:pointer}
+.course-row.check input{width:18px;height:18px;accent-color:#7c3aed;flex:none;margin-right:10px}
+.course-row.check span{flex:1}
+.link{font-size:13px;color:#7c3aed;text-decoration:none}
+.selbar{position:fixed;left:0;right:0;bottom:76px;display:flex;justify-content:space-between;align-items:center;background:#fff;border-top:1px solid #ece7f7;padding:10px 16px;z-index:90;box-shadow:0 -2px 12px rgba(0,0,0,.06);font-size:14px}
+body.has-selbar{padding-bottom:140px}
