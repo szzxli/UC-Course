@@ -1,0 +1,115 @@
+{
+  "brand": {
+    "courses": "🔍 Buscar cursos",
+    "index": "🎓 UC SmartPick",
+    "plan": "🗓️ Planificar horario",
+    "major": "🎓 Requisitos de la carrera"
+  },
+  "courses": {
+    "add": "+ Añadir a mis cursos",
+    "added": "{code} añadido ({n} cursos)",
+    "campusUCI": "UC Irvine · 5,843 cursos",
+    "campusUCSD": "UC San Diego · 6,761 cursos",
+    "detail": "Detalles",
+    "hint2chars": "Escribe al menos 2 caracteres para buscar",
+    "loadFail": "Error al cargar los datos",
+    "noPrereq": "Sin prerrequisitos",
+    "noResult": "Sin resultados — prueba otras palabras",
+    "prereq": "Prerrequisitos: ",
+    "searchLabel": "Buscar cursos (código o título)",
+    "searchPh": "p. ej. CSE 12 / data structures",
+    "units": "unidades",
+    "satisfiesReq": "Cumple el requisito: ",
+    "downstream": "Es prerrequisito de: ",
+    "notInReq": "No está en los requisitos de tu carrera",
+    "noMajorTip": "Selecciona una carrera y aquí se mostrará qué requisito cumple este curso"
+  },
+  "index": {
+    "campusHint": "v0.1 cubre dos campus: UCI y UCSD (datos de cursos cargados).",
+    "campusTitle": "🏫 Tu campus",
+    "footnote": "v0.1: búsqueda de cursos + horario con prerrequisitos. Datos de UCLA/UCB/UCSB en curso.",
+    "go": "Empezar a elegir cursos →",
+    "goalHint": "La misma carrera exige estrategias muy distintas para posgrado o empleo. Elige una y el planificador adaptará sus consejos.",
+    "goalTitle": "🎯 Elige tu meta primero",
+    "grad": "📚 Posgrado / Doctorado",
+    "gradHint": "GPA primero + investigación + cursos de posgrado",
+    "job": "💼 Prácticas / Empleo",
+    "jobHint": "Cursos con proyecto primero + trimestre de reclutamiento ligero",
+    "undecided": "🤔 Aún no lo sé",
+    "undecidedHint": "Planifica por requisitos de graduación; decide antes del tercer año",
+    "majorTitle": "🎓 Carrera deseada",
+    "majorHint": "Con una carrera seleccionada, la búsqueda y planificación mostrarán qué requisito de graduación cumple cada curso.",
+    "noMajor": "Omitir por ahora"
+  },
+  "nav": {
+    "courses": "Cursos",
+    "home": "Inicio",
+    "plan": "Horario",
+    "major": "Carrera"
+  },
+  "plan": {
+    "clear": "Borrar",
+    "confirmClear": "¿Borrar tu lista de cursos?",
+    "empty": "Añade cursos desde la pestaña Cursos",
+    "fall": "Otoño",
+    "gen": "⚡ Generar horario",
+    "maxU": "Límite de unidades por quarter",
+    "myTitle": "📋 Mis cursos",
+    "noCourse": "Añade cursos primero",
+    "remove": "Quitar",
+    "resultNote": "Motor determinista: los prerrequisitos siempre van antes. Los prerrequisitos fuera de tu lista se dan por completados.",
+    "resultTitle": "📅 Tu horario",
+    "spring": "Primavera",
+    "strategy": "Estrategia",
+    "unitCourses": "cursos",
+    "winter": "Invierno",
+    "year": "Año {y}"
+  },
+  "sub": {
+    "index": "Planifica tus cursos UC según tu meta: posgrado / doctorado / empleo — cada meta, una estrategia distinta",
+    "plan": "Horario con prerrequisitos · motor determinista"
+  },
+  "tips": {
+    "grad": [
+      "GPA primero: reparte los cursos difíciles entre quarters — nunca juntes dos muy duros",
+      "Toma 1–2 cursos de posgrado; ayuda en solicitudes de posgrado/doctorado",
+      "Busca investigación con crédito (cursos 199) — vale más que una clase extra"
+    ],
+    "job": [
+      "Cursos con proyecto primero: prioriza lo que va en tu currículum",
+      "Deja ligeros los dos quarters de reclutamiento — reserva tiempo para entrevistas",
+      "Completa prerrequisitos pronto; prioriza las tecnologías que piden las prácticas"
+    ],
+    "names": {
+      "grad": "📚 Posgrado / Doctorado",
+      "job": "💼 Prácticas / Empleo",
+      "undecided": "🤔 Sin decidir"
+    },
+    "undecided": [
+      "Planifica por requisitos de graduación; reparte los cursos difíciles",
+      "Decide antes del tercer año: los dos caminos se separan en cursos superiores"
+    ]
+  },
+  "title": {
+    "courses": "Buscar cursos · UC SmartPick",
+    "index": "UC SmartPick",
+    "plan": "Planificar horario · UC SmartPick",
+    "major": "Carrera · UC SmartPick"
+  },
+  "warn": {
+    "listSep": ", ",
+    "missingPrereq": "{code}: prerrequisitos {list} no están en tu lista (se dan por completados)",
+    "noRoom": "{code} no cabe en {n} quarters (límite de unidades muy justo)"
+  },
+  "major": {
+    "noMajor": "Elige tu carrera en la página de inicio primero",
+    "goHome": "Ir al inicio",
+    "reqRequired": "Obligatorio",
+    "reqElective": "Optativo",
+    "reqPrereq": "Prerrequisito",
+    "pickCount": "Elige {n}",
+    "inPlan": "En mi plan",
+    "addPlan": "Añadir al plan",
+    "sourceNote": "Fuente: catálogo oficial de {campus}, verificado el {date}"
+  }
+}

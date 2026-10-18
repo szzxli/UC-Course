@@ -1,0 +1,115 @@
+{
+  "brand": {
+    "courses": "🔍 Search Courses",
+    "index": "🎓 UC SmartPick",
+    "plan": "🗓️ Plan Schedule",
+    "major": "🎓 Major Requirements"
+  },
+  "courses": {
+    "add": "+ Add to my courses",
+    "added": "{code} added ({n} courses)",
+    "campusUCI": "UC Irvine · 5,843 courses",
+    "campusUCSD": "UC San Diego · 6,761 courses",
+    "detail": "Details",
+    "hint2chars": "Type at least 2 characters to search",
+    "loadFail": "Failed to load data",
+    "noPrereq": "No prerequisites",
+    "noResult": "No matches — try different keywords",
+    "prereq": "Prerequisites: ",
+    "searchLabel": "Search courses (code or title)",
+    "searchPh": "e.g. CSE 12 / data structures",
+    "units": "units",
+    "satisfiesReq": "Satisfies requirement: ",
+    "downstream": "Prerequisite for: ",
+    "notInReq": "Not in your selected major's requirements",
+    "noMajorTip": "Select an intended major and this will show which requirement this course satisfies"
+  },
+  "index": {
+    "campusHint": "v0.1 covers two campuses: UCI and UCSD (course data loaded).",
+    "campusTitle": "🏫 Your campus",
+    "footnote": "v0.1: course search + prerequisite scheduling. UCLA/UCB/UCSB data pipelines in progress.",
+    "go": "Start picking courses →",
+    "goalHint": "The same major calls for very different course strategies for grad school vs. employment. Pick one and the planner will tailor its advice.",
+    "goalTitle": "🎯 Pick a goal first",
+    "grad": "📚 Grad school / PhD",
+    "gradHint": "GPA first + research + graduate-level courses",
+    "job": "💼 Internships / Jobs",
+    "jobHint": "Project courses first + keep recruiting season light",
+    "undecided": "🤔 Not sure yet",
+    "undecidedHint": "Plan by degree requirements first; decide by end of sophomore year",
+    "majorTitle": "🎓 Intended Major",
+    "majorHint": "With a major selected, course search and scheduling will show which graduation requirement each course satisfies.",
+    "noMajor": "Skip for now"
+  },
+  "nav": {
+    "courses": "Courses",
+    "home": "Home",
+    "plan": "Plan",
+    "major": "Major"
+  },
+  "plan": {
+    "clear": "Clear",
+    "confirmClear": "Clear your course list?",
+    "empty": "Add courses from the Courses tab",
+    "fall": "Fall",
+    "gen": "⚡ Generate schedule",
+    "maxU": "Max units per quarter",
+    "myTitle": "📋 My courses",
+    "noCourse": "Add some courses first",
+    "remove": "Remove",
+    "resultNote": "Deterministic engine: prerequisites always come before the courses that need them. Prerequisites outside your list are assumed completed.",
+    "resultTitle": "📅 Your schedule",
+    "spring": "Spring",
+    "strategy": "Strategy",
+    "unitCourses": "courses",
+    "winter": "Winter",
+    "year": "Year {y}"
+  },
+  "sub": {
+    "index": "Goal-driven UC course planning: grad school / PhD / internships — different goals, different schedules",
+    "plan": "Prerequisite-aware scheduling · deterministic engine"
+  },
+  "tips": {
+    "grad": [
+      "GPA first: spread hard courses across quarters — never stack two killers together",
+      "Take 1–2 graduate-level courses; it helps grad/PhD applications",
+      "Find research for credit (199 courses) — worth more than one extra class"
+    ],
+    "job": [
+      "Project courses first: prioritize what goes on your résumé",
+      "Keep the two recruiting-season quarters light — leave time for interviews",
+      "Clear prerequisites early; prioritize the tech-stack courses internships ask for"
+    ],
+    "names": {
+      "grad": "📚 Grad school / PhD",
+      "job": "💼 Internships / Jobs",
+      "undecided": "🤔 Undecided"
+    },
+    "undecided": [
+      "Plan by degree requirements first; spread the hard courses",
+      "Decide by end of sophomore year: the two paths diverge at upper-division courses"
+    ]
+  },
+  "title": {
+    "courses": "Search Courses · UC SmartPick",
+    "index": "UC SmartPick",
+    "plan": "Plan Schedule · UC SmartPick",
+    "major": "Major · UC SmartPick"
+  },
+  "warn": {
+    "listSep": ", ",
+    "missingPrereq": "{code}: prerequisites {list} are not in your list (assumed completed)",
+    "noRoom": "{code} doesn't fit in {n} quarters (unit cap too tight)"
+  },
+  "major": {
+    "noMajor": "Pick your intended major on the home page first",
+    "goHome": "Go to home page",
+    "reqRequired": "Required",
+    "reqElective": "Elective",
+    "reqPrereq": "Prerequisite",
+    "pickCount": "Pick {n}",
+    "inPlan": "In my plan",
+    "addPlan": "Add to plan",
+    "sourceNote": "Source: {campus} official catalog, verified {date}"
+  }
+}

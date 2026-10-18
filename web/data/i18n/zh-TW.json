@@ -1,0 +1,115 @@
+{
+  "brand": {
+    "courses": "🔍 查課",
+    "index": "🎓 UC 智選 UC SmartPick",
+    "plan": "🗓️ 排課",
+    "major": "🎓 專業畢業要求"
+  },
+  "courses": {
+    "add": "＋ 加入我的選課",
+    "added": "{code} 已加入選課（{n} 門）",
+    "campusUCI": "UC Irvine · 5,843 門",
+    "campusUCSD": "UC San Diego · 6,761 門",
+    "detail": "詳情",
+    "hint2chars": "輸入至少 2 個字元開始搜尋",
+    "loadFail": "資料載入失敗",
+    "noPrereq": "無先修要求",
+    "noResult": "沒找到，換個關鍵詞試試",
+    "prereq": "先修：",
+    "searchLabel": "搜尋課程（代碼或標題）",
+    "searchPh": "如 CSE 12 / data structures",
+    "units": "units",
+    "satisfiesReq": "滿足畢業要求：",
+    "downstream": "是這些課的前置：",
+    "notInReq": "這門課不在所選專業的畢業要求裡",
+    "noMajorTip": "選擇意向專業後，這裡會顯示該課滿足哪條畢業要求"
+  },
+  "index": {
+    "campusHint": "v0.1 先上兩校：UCI、UCSD（課程資料已入庫）。",
+    "campusTitle": "🏫 你的校區",
+    "footnote": "v0.1：課程搜尋 + 先修鏈排課。UCLA/UCB/UCSB 資料管線進行中。",
+    "go": "開始選課 →",
+    "goalHint": "同一專業，讀研和就業的選課策略完全不同。選一個，排課時會給你不同的建議。",
+    "goalTitle": "🎯 先定目標，再選課",
+    "grad": "📚 讀研 / 直博",
+    "gradHint": "GPA 優先 + research + graduate-level 課",
+    "job": "💼 實習 / 就業",
+    "jobHint": "專案課優先 + recruiting 季留白",
+    "undecided": "🤔 還沒定",
+    "undecidedHint": "先按畢業要求排，大二前決定",
+    "majorTitle": "🎓 意向專業",
+    "majorHint": "選了專業，查課和排課會告訴你每門課滿足哪條畢業要求。",
+    "noMajor": "暫不選專業"
+  },
+  "nav": {
+    "courses": "查課",
+    "home": "首頁",
+    "plan": "排課",
+    "major": "專業"
+  },
+  "plan": {
+    "clear": "清空",
+    "confirmClear": "清空選課列表？",
+    "empty": "去「查課」頁新增課程",
+    "fall": "Fall",
+    "gen": "⚡ 生成排課",
+    "maxU": "每 quarter 學分上限",
+    "myTitle": "📋 我的選課",
+    "noCourse": "先新增課程",
+    "remove": "移除",
+    "resultNote": "確定性引擎：先修課一定排在後面課程之前。跨 quarter 的先修預設你已修完。",
+    "resultTitle": "📅 排課結果",
+    "spring": "Spring",
+    "strategy": "選課策略",
+    "unitCourses": "門",
+    "winter": "Winter",
+    "year": "Year {y}"
+  },
+  "sub": {
+    "index": "目標驅動的 UC 選課：讀研 / 直博 / 實習，不同目標不同排法",
+    "plan": "先修鏈拓撲排課 · 確定性引擎"
+  },
+  "tips": {
+    "grad": [
+      "GPA 優先：難課分散到不同 quarter，別把兩門硬課放一起",
+      "選 1–2 門 graduate-level 課，申研/直博是加分項",
+      "找 research for credit（199 課），比多上一門課值錢"
+    ],
+    "job": [
+      "專案課優先：能寫進履歷的課排前面",
+      "Recruiting 季（秋招）那兩個 quarter 別排太滿，留時間面試",
+      "先修鏈儘早打通，實習要求的技術棧課優先"
+    ],
+    "names": {
+      "grad": "📚 讀研 / 直博",
+      "job": "💼 實習 / 就業",
+      "undecided": "🤔 未定目標"
+    },
+    "undecided": [
+      "先按畢業要求排，難課分散",
+      "大二結束前決定方向：兩條路的選課分叉點在高階課"
+    ]
+  },
+  "title": {
+    "courses": "查課 · UC 智選",
+    "index": "UC 智選 UC SmartPick",
+    "plan": "排課 · UC 智選",
+    "major": "專業 · UC 智選"
+  },
+  "warn": {
+    "listSep": "、",
+    "missingPrereq": "{code} 的先修 {list} 不在選課列表中（假設已修完）",
+    "noRoom": "{code} 放不進 {n} 個 quarter（學分上限太緊）"
+  },
+  "major": {
+    "noMajor": "先去首頁選擇意向專業",
+    "goHome": "去首頁選擇",
+    "reqRequired": "必修",
+    "reqElective": "選修",
+    "reqPrereq": "前置",
+    "pickCount": "需選 {n} 門",
+    "inPlan": "已在選課計劃",
+    "addPlan": "加入計劃",
+    "sourceNote": "資料來源：{campus} 官方課程目錄，{date} 核對"
+  }
+}
