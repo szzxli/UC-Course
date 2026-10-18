@@ -87,7 +87,15 @@
     "paceLine": "{y}-yr target = {q} quarters → avg {p} units/term",
     "hoursLine": "≈{h} study hrs/wk · {f} free hrs (est.)",
     "bottleneck": "Bottleneck: ",
-    "assessNote": "Pressure is an estimate (1 unit ≈ 3 hrs/wk; 168 − 56 sleep − study = free). Feasibility from prereq chains."
+    "assessNote": "Pressure is an estimate (1 unit ≈ 3 hrs/wk; 168 − 56 sleep − study = free). Feasibility from prereq chains.",
+    "draftTitle": "✏️ Schedule draft",
+    "draftHint": "Tap a course, then tap any term header to move it. Prereq order re-validated on every move.",
+    "moveHere": "move here",
+    "prereqViol": "{code}'s prereq {pre} is scheduled after it",
+    "copyDraft": "📋 Copy schedule text",
+    "copied": "Copied — search by course code in WebReg",
+    "draftNote": "Exports course codes (CCNs are term-specific; look them up on WebReg).",
+    "draftExportHead": "UC SmartPick schedule draft · {campus}"
   },
   "sub": {
     "index": "Goal-driven UC course planning: grad school / PhD / internships — different goals, different schedules",

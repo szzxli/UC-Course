@@ -87,7 +87,15 @@
     "paceLine": "Meta {y} años = {q} trimestres → prom. {p} unidades/tri.",
     "hoursLine": "≈{h} h estudio/sem · {f} h libres (est.)",
     "bottleneck": "Cuello de botella: ",
-    "assessNote": "La presión es estimada (1 unidad ≈ 3 h/sem; 168 − 56 sueño − estudio = libre). Viabilidad según prerrequisitos."
+    "assessNote": "La presión es estimada (1 unidad ≈ 3 h/sem; 168 − 56 sueño − estudio = libre). Viabilidad según prerrequisitos.",
+    "draftTitle": "✏️ Borrador de horario",
+    "draftHint": "Toca un curso y luego el encabezado de un trimestre para moverlo. Se revalida el orden de prerrequisitos.",
+    "moveHere": "mover aquí",
+    "prereqViol": "El prerrequisito {pre} de {code} quedó después",
+    "copyDraft": "📋 Copiar horario",
+    "copied": "Copiado — busca por código en WebReg",
+    "draftNote": "Exporta códigos de curso (los CCN son por trimestre; consúltalos en WebReg).",
+    "draftExportHead": "Borrador UC SmartPick · {campus}"
   },
   "sub": {
     "index": "Planifica tus cursos UC según tu meta: posgrado / doctorado / empleo — cada meta, una estrategia distinta",

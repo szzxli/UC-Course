@@ -87,7 +87,15 @@
     "paceLine": "目标 {y} 年共 {q} 个 quarter → 平均 {p} 学分/学期",
     "hoursLine": "预计每周学习 {h} 小时 · 可支配 {f} 小时（估算）",
     "bottleneck": "瓶颈链：",
-    "assessNote": "压力值为估算（1学分≈每周3小时，168−睡眠56−学习=可支配）；可行性按先修链计算。"
+    "assessNote": "压力值为估算（1学分≈每周3小时，168−睡眠56−学习=可支配）；可行性按先修链计算。",
+    "draftTitle": "✏️ 课表草稿箱",
+    "draftHint": "点一门课，再点任意学期头，把它移过去。每次移动自动校验先修顺序。",
+    "moveHere": "移到这",
+    "prereqViol": "{code} 的先修 {pre} 被排在了后面",
+    "copyDraft": "📋 复制课表文本",
+    "copied": "已复制，去 WebReg 按课程代码搜索抢课",
+    "draftNote": "导出的是课程代码（CCN 是每学期开课才有的，学校官网查）。",
+    "draftExportHead": "UC SmartPick 课表草稿 · {campus}"
   },
   "sub": {
     "index": "目标驱动的 UC 选课：读研 / 直博 / 实习，不同目标不同排法",

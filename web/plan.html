@@ -63,6 +63,91 @@ function fmtWarnings() {
     }
   };
 }
+/* ---- 课表草稿箱：点选课程 → 点学期头移动，自动校验先修 ---- */
+var DRAFT = null, DRAFT_SEL = null;
+function draftUnits(codes) {
+  var mine = Sget("myCourses", []);
+  return codes.reduce(function (s, code) {
+    var m = mine.filter(function (x) { return normCode(x.code) === normCode(code); })[0];
+    return s + (m ? parseUnits(m.u) : 4);
+  }, 0);
+}
+function validateDraft() {
+  var mine = Sget("myCourses", []), have = Sget("have", {});
+  var pos = {};
+  DRAFT.forEach(function (q, i) { q.forEach(function (c) { pos[normCode(c)] = i; }); });
+  var viol = [];
+  mine.forEach(function (c) {
+    var ck = normCode(c.code);
+    if (pos[ck] === undefined || have[ck]) return;
+    (c.pre || []).forEach(function (p) {
+      var pk = normCode(p);
+      if (have[pk]) return;
+      if (pos[pk] !== undefined && pos[pk] >= pos[ck]) viol.push({ code: c.code, pre: p });
+    });
+  });
+  return viol;
+}
+function renderDraft() {
+  var box = document.getElementById("out");
+  var terms = [I18N.t("plan.fall"), I18N.t("plan.winter"), I18N.t("plan.spring")];
+  var U = I18N.t("courses.units");
+  var viol = validateDraft();
+  var violSet = {};
+  viol.forEach(function (v) { violSet[normCode(v.code)] = v.pre; });
+  var h = '<div class="card"><div class="section-title">' + esc(I18N.t("plan.draftTitle")) + '</div>' +
+    '<p class="hint">' + esc(I18N.t("plan.draftHint")) + '</p>';
+  h += DRAFT.map(function (codes, i) {
+    var head = I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3] +
+      " · " + draftUnits(codes) + " " + U;
+    var chips = codes.map(function (c) {
+      var bad = violSet[normCode(c)];
+      return '<button class="dchip' + (DRAFT_SEL === c ? " sel" : "") + (bad ? " bad" : "") + '" data-c="' + esc(c) + '">' +
+        esc(c) + (bad ? " ⚠️" : "") + '</button>';
+    }).join("");
+    return '<div class="qblock" data-q="' + i + '"><h4 data-qhead="' + i + '" style="cursor:pointer">' + esc(head) +
+      (DRAFT_SEL ? ' <span class="tag">' + esc(I18N.t("plan.moveHere")) + '</span>' : "") + '</h4>' +
+      '<div class="dchips">' + (chips || '<span class="hint">—</span>') + '</div></div>';
+  }).join("");
+  if (viol.length) h += viol.map(function (v) {
+    return '<div class="warn">⚠️ ' + esc(I18N.t("plan.prereqViol", { code: v.code, pre: v.pre })) + '</div>';
+  }).join("");
+  h += '<div class="btn-row"><button class="btn sm" id="copyDraftBtn">' + esc(I18N.t("plan.copyDraft")) + '</button></div>' +
+    '<div class="footnote">' + esc(I18N.t("plan.draftNote")) + '</div></div>';
+  box.innerHTML = h;
+  box.querySelectorAll(".dchip").forEach(function (b) {
+    b.addEventListener("click", function () {
+      DRAFT_SEL = (DRAFT_SEL === b.dataset.c) ? null : b.dataset.c;
+      renderDraft();
+    });
+  });
+  box.querySelectorAll("[data-qhead]").forEach(function (hd) {
+    hd.addEventListener("click", function () {
+      if (!DRAFT_SEL) return;
+      var to = +hd.dataset.qhead;
+      DRAFT.forEach(function (q) {
+        var ix = q.indexOf(DRAFT_SEL);
+        if (ix >= 0) q.splice(ix, 1);
+      });
+      DRAFT[to].push(DRAFT_SEL);
+      DRAFT_SEL = null;
+      Sset("draft", DRAFT);
+      renderDraft();
+    });
+  });
+  document.getElementById("copyDraftBtn").addEventListener("click", function () {
+    var lines = [I18N.t("plan.draftExportHead", { campus: Sget("campus", "") })];
+    DRAFT.forEach(function (codes, i) {
+      if (!codes.length) return;
+      lines.push(I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3] +
+        " (" + draftUnits(codes) + "u): " + codes.join(", "));
+    });
+    var text = lines.join("\n");
+    if (navigator.clipboard) navigator.clipboard.writeText(text).then(function () {
+      alert(I18N.t("plan.copied"));
+    });
+  });
+}
 function renderMine() {
   var mine = Sget("myCourses", []);
   document.getElementById("cnt").textContent = mine.length;
@@ -79,6 +164,8 @@ function renderMine() {
       var m = Sget("myCourses", []);
       m.splice(+b.dataset.i, 1);
       Sset("myCourses", m);
+      Sset("draft", []); DRAFT = null;
+      document.getElementById("out").innerHTML = "";
       renderMine();
       renderTimeline();
     });
@@ -167,21 +254,26 @@ I18N.init().then(function () {
       return;
     }
     var r = scheduleQuarters(mine, +document.getElementById("maxU").value, 12, fmtWarnings());
-    var terms = [I18N.t("plan.fall"), I18N.t("plan.winter"), I18N.t("plan.spring")];
-    var html = r.quarters.map(function (q, i) {
-      var head = I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3] + " · " + q.units + " " + U;
-      return '<div class="qblock"><h4>' + esc(head) + '</h4>'
-        + q.courses.map(function (c) { return '<div class="course-row"><span><b>' + esc(c) + '</b></span></div>'; }).join("") + '</div>';
-    }).join("");
-    if (r.warnings.length) html += r.warnings.map(function (w) { return '<div class="warn">⚠️ ' + esc(w) + '</div>'; }).join("");
-    document.getElementById("out").innerHTML = '<div class="card"><div class="section-title">' + esc(I18N.t("plan.resultTitle")) + '</div>' + html
-      + '<div class="footnote">' + esc(I18N.t("plan.resultNote")) + '</div></div>';
+    DRAFT = r.quarters.map(function (q) { return q.courses.slice(); });
+    DRAFT_SEL = null;
+    Sset("draft", DRAFT);
+    renderDraft();
+    if (r.warnings.length) {
+      var box = document.getElementById("out");
+      box.insertAdjacentHTML("beforeend", r.warnings.map(function (w) {
+        return '<div class="warn">⚠️ ' + esc(w) + '</div>';
+      }).join(""));
+    }
     document.getElementById("out").scrollIntoView({ behavior: "smooth" });
   });
   document.getElementById("clearBtn").addEventListener("click", function () {
-    if (confirm(I18N.t("plan.confirmClear"))) { Sset("myCourses", []); renderMine(); renderTimeline(); document.getElementById("out").innerHTML = ""; }
+    if (confirm(I18N.t("plan.confirmClear"))) { Sset("myCourses", []); Sset("draft", []); DRAFT = null; renderMine(); renderTimeline(); document.getElementById("out").innerHTML = ""; }
   });
-  enrichCourses().then(function () { renderMine(); renderTips(); renderTimeline(); });
+  enrichCourses().then(function () {
+    renderMine(); renderTips(); renderTimeline();
+    var d = Sget("draft", null);
+    if (d && d.length) { DRAFT = d; renderDraft(); }
+  });
 });
 </script>
 </body>

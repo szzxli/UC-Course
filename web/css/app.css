@@ -82,3 +82,7 @@ body.has-selbar{padding-bottom:140px}
 .chatinput{display:flex;gap:8px;padding:10px;border-top:1px solid #eee}
 .chatinput input{flex:1;padding:9px 12px;border:1px solid #ddd6f3;border-radius:20px;font-size:14px}
 .chatinput button{border:none;background:#7c3aed;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;font-size:16px}
+.dchips{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.dchip{padding:8px 12px;border:1px solid #ddd6f3;background:#fff;border-radius:20px;font-size:14px;cursor:pointer;color:#333}
+.dchip.sel{background:#7c3aed;color:#fff;border-color:#7c3aed}
+.dchip.bad{border-color:#f59e0b;background:#fffbeb}

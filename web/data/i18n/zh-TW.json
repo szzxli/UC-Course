@@ -87,7 +87,15 @@
     "paceLine": "目標 {y} 年共 {q} 個 quarter → 平均 {p} 學分/學期",
     "hoursLine": "預計每週學習 {h} 小時 · 可支配 {f} 小時（估算）",
     "bottleneck": "瓶頸鏈：",
-    "assessNote": "壓力值為估算（1學分≈每週3小時，168−睡眠56−學習=可支配）；可行性按先修鏈計算。"
+    "assessNote": "壓力值為估算（1學分≈每週3小時，168−睡眠56−學習=可支配）；可行性按先修鏈計算。",
+    "draftTitle": "✏️ 課表草稿箱",
+    "draftHint": "點一門課，再點任意學期頭，把它移過去。每次移動自動校驗先修順序。",
+    "moveHere": "移到這",
+    "prereqViol": "{code} 的先修 {pre} 被排在了後面",
+    "copyDraft": "📋 複製課表文本",
+    "copied": "已複製，去 WebReg 按課程代碼搜索搶課",
+    "draftNote": "導出的是課程代碼（CCN 是每學期開課才有的，學校官網查）。",
+    "draftExportHead": "UC SmartPick 課表草稿 · {campus}"
   },
   "sub": {
     "index": "目標驅動的 UC 選課：讀研 / 直博 / 實習，不同目標不同排法",
