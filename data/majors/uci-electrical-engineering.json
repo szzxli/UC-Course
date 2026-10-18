@@ -1,0 +1,174 @@
+{
+ "campus": "UCI",
+ "major": "Electrical Engineering",
+ "degree": "B.S.",
+ "department": "Department of Electrical Engineering and Computer Science",
+ "school": "The Henry Samueli School of Engineering",
+ "source_url": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofelectricalengineeringandcomputerscience/electricalengineering_bs/",
+ "checked": "2026-10-18",
+ "requirements": [
+  {
+   "id": "math-sci",
+   "name": "Mathematics and Basic Science",
+   "type": "required",
+   "courses": [
+    "CHEM 1A",
+    "EECS 145",
+    "EECS 55",
+    "EECS 70LA",
+    "ENGR 1A",
+    "MATH 2A",
+    "MATH 2B",
+    "MATH 2D",
+    "MATH 2E",
+    "MATH 3A",
+    "MATH 3D",
+    "PHYSICS 51A",
+    "PHYSICS 7C",
+    "PHYSICS 7D",
+    "PHYSICS 7E",
+    "PHYSICS 7LC",
+    "PHYSICS 7LD"
+   ],
+   "note": "ENGR 1A OR CHEM 1A",
+   "options": [
+    [
+     "ENGR 1A"
+    ],
+    [
+     "CHEM 1A"
+    ]
+   ]
+  },
+  {
+   "id": "eng-topics",
+   "name": "Engineering Topics (complete each)",
+   "type": "required",
+   "courses": [
+    "EECS 1",
+    "EECS 10",
+    "EECS 150",
+    "EECS 159A",
+    "EECS 159B",
+    "EECS 160A",
+    "EECS 160LA",
+    "EECS 170A",
+    "EECS 170B",
+    "EECS 170C",
+    "EECS 170LA",
+    "EECS 170LB",
+    "EECS 170LC",
+    "EECS 180A",
+    "EECS 31",
+    "EECS 31L",
+    "EECS 50",
+    "EECS 70A",
+    "EECS 70B",
+    "EECS 70LB"
+   ]
+  },
+  {
+   "id": "tech-electives",
+   "name": "Technical Electives (min 3 courses, >=10 units)",
+   "type": "elective",
+   "courses": [],
+   "count": 3,
+   "note": "Any EECS course not required for the major; at least one outside student's specialization; 4 units of EECS 199 = 1 elective"
+  },
+  {
+   "id": "prof-topics",
+   "name": "Engineering Professional Topics",
+   "type": "required",
+   "courses": [
+    "ENGR 190W"
+   ]
+  },
+  {
+   "id": "spec-electronic-circuit-design",
+   "name": "Specialization: Electronic Circuit Design (requires + select 4)",
+   "type": "elective",
+   "courses": [
+    "EECS 166A",
+    "EECS 170D",
+    "EECS 170E",
+    "EECS 174",
+    "EECS 176",
+    "EECS 179",
+    "EECS 182",
+    "EECS 188"
+   ],
+   "count": 6,
+   "note": "Requires: EECS 170D, EECS 170E; select 4 from pool"
+  },
+  {
+   "id": "spec-semiconductors-and-optoelectronics",
+   "name": "Specialization: Semiconductors and Optoelectronics (requires + select 3)",
+   "type": "elective",
+   "courses": [
+    "EECS 170D",
+    "EECS 174",
+    "EECS 176",
+    "EECS 179",
+    "EECS 180B",
+    "EECS 188",
+    "ENGR 54",
+    "PHYSICS 52A"
+   ],
+   "count": 6,
+   "note": "Requires: EECS 174, EECS 188, PHYSICS 52A; select 3 from pool"
+  },
+  {
+   "id": "spec-rf-antennas-and-microwaves",
+   "name": "Specialization: RF, Antennas and Microwaves (requires + select 3)",
+   "type": "elective",
+   "courses": [
+    "EECS 144",
+    "EECS 170D",
+    "EECS 170E",
+    "EECS 180B",
+    "EECS 182",
+    "EECS 188",
+    "PHYSICS 52A"
+   ],
+   "count": 6,
+   "note": "Requires: EECS 144, EECS 180B, EECS 182; select 3 from pool"
+  },
+  {
+   "id": "spec-digital-signal-processing",
+   "name": "Specialization: Digital Signal Processing (requires + select 3)",
+   "type": "elective",
+   "courses": [
+    "EECS 101",
+    "EECS 112",
+    "EECS 141A",
+    "EECS 141B",
+    "EECS 152A",
+    "EECS 152B",
+    "EECS 20",
+    "EECS 22"
+   ],
+   "count": 6,
+   "note": "Requires: EECS 22, EECS 152A, EECS 152B; select 3 from pool"
+  },
+  {
+   "id": "spec-communications",
+   "name": "Specialization: Communications (requires + select 4)",
+   "type": "elective",
+   "courses": [
+    "EECS 141A",
+    "EECS 141B",
+    "EECS 144",
+    "EECS 148",
+    "EECS 152A",
+    "EECS 152B",
+    "EECS 170E",
+    "EECS 188",
+    "EECS 20",
+    "EECS 22"
+   ],
+   "count": 6,
+   "note": "Requires: EECS 141A, EECS 141B; select 4 from pool"
+  }
+ ],
+ "file": "uci-electrical-engineering.json"
+}
