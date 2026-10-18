@@ -50,8 +50,14 @@ var CCMAP = null, SEL = {};
 function campus() { return Sget("campus", "UCI"); }
 function loadMap() {
   var c = campus().toLowerCase();
-  return fetch("data/credits/ccmap-" + c + ".json").then(function (r) { return r.json(); }).then(function (j) {
-    CCMAP = j; SEL = {};
+  return fetch("data/credits/index.json").then(function (r) { return r.json(); }).then(function (idx) {
+    var files = (idx[campus()] && idx[campus()].ccmap) || ["ccmap-" + c + ".json"];
+    return Promise.all(files.map(function (f) {
+      return fetch("data/credits/" + f).then(function (r) { return r.json(); });
+    }));
+  }).then(function (parts) {
+    CCMAP = {};
+    parts.forEach(function (p) { Object.keys(p).forEach(function (k) { CCMAP[k] = p[k]; }); });
     var sel = document.getElementById("ccSel");
     sel.innerHTML = '<option value="">' + esc(I18N.t("transfer.pickCC")) + '</option>' +
       Object.keys(j).sort().map(function (n) {
