@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>UC 智选 UC SmartPick</title>
+<link rel="stylesheet" href="css/app.css">
+<meta name="theme-color" content="#7c3aed">
+</head>
+<body>
+<div class="topbar"><div class="topbar-in">
+  <div class="brand">🎓 UC 智选 <span style="font-size:13px;font-weight:400">UC SmartPick</span></div>
+  <div class="sub">目标驱动的 UC 选课：读研 / 直博 / 实习，不同目标不同排法</div>
+</div></div>
+<div class="page">
+  <div class="card">
+    <div class="section-title">🎯 先定目标，再选课</div>
+    <p class="hint">同一专业，读研和就业的选课策略完全不同。选一个，排课时会给你不同的建议。</p>
+    <div id="goalBox">
+      <label class="radio-card"><input type="radio" name="goal" value="grad"><span><b>📚 读研 / 直博</b><br><span class="hint">GPA 优先 + research + graduate-level 课</span></span></label>
+      <label class="radio-card"><input type="radio" name="goal" value="job"><span><b>💼 实习 / 就业</b><br><span class="hint">项目课优先 + recruiting 季留白</span></span></label>
+      <label class="radio-card"><input type="radio" name="goal" value="undecided"><span><b>🤔 还没定</b><br><span class="hint">先按毕业要求排，大二前决定</span></span></label>
+    </div>
+  </div>
+  <div class="card">
+    <div class="section-title">🏫 你的校区</div>
+    <p class="hint">v0.1 先上两校：UCI、UCSD（课程数据已入库）。</p>
+    <div class="field"><select id="campus">
+      <option value="UCI">UC Irvine</option>
+      <option value="UCSD">UC San Diego</option>
+    </select></div>
+  </div>
+  <div class="btn-row">
+    <a class="btn" href="courses.html" id="goBtn">开始选课 →</a>
+  </div>
+  <div class="footnote">v0.1：课程搜索 + 先修链排课。UCLA/UCB/UCSB 数据管线进行中。</div>
+</div>
+<nav class="tabbar">
+  <a href="index.html" data-page="index" class="active"><span class="ico">🏠</span>首页</a>
+  <a href="courses.html" data-page="courses"><span class="ico">🔍</span>查课</a>
+  <a href="plan.html" data-page="plan"><span class="ico">🗓️</span>排课</a>
+</nav>
+<script src="js/app.js"></script>
+<script>
+"use strict";
+navActive("index");
+(function () {
+  var g = Sget("goal", null), c = Sget("campus", "UCI");
+  if (g) { var r = document.querySelector('input[name="goal"][value="' + g + '"]'); if (r) { r.checked = true; r.closest(".radio-card").classList.add("sel"); } }
+  document.getElementById("campus").value = c;
+})();
+document.querySelectorAll('input[name="goal"]').forEach(function (r) {
+  r.addEventListener("change", function () {
+    document.querySelectorAll(".radio-card").forEach(function (x) { x.classList.remove("sel"); });
+    r.closest(".radio-card").classList.add("sel");
+    Sset("goal", r.value);
+  });
+});
+document.getElementById("goBtn").addEventListener("click", function () {
+  var g = document.querySelector('input[name="goal"]:checked');
+  Sset("goal", g ? g.value : "undecided");
+  Sset("campus", document.getElementById("campus").value);
+});
+</script>
+</body>
+</html>
