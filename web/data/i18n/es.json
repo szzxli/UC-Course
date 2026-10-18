@@ -39,7 +39,8 @@
     "undecidedHint": "Planifica por requisitos de graduación; decide antes del tercer año",
     "majorTitle": "🎓 Carrera deseada",
     "majorHint": "Con una carrera seleccionada, la búsqueda y planificación mostrarán qué requisito de graduación cumple cada curso.",
-    "noMajor": "Omitir por ahora"
+    "noMajor": "Omitir por ahora",
+    "goMajor": "Ver requisitos de graduación →"
   },
   "nav": {
     "courses": "Cursos",
@@ -110,6 +111,7 @@
     "pickCount": "Elige {n}",
     "inPlan": "En mi plan",
     "addPlan": "Añadir al plan",
-    "sourceNote": "Fuente: catálogo oficial de {campus}, verificado el {date}"
+    "sourceNote": "Fuente: catálogo oficial de {campus}, verificado el {date}",
+    "goPlan": "Planificar cursos →"
   }
 }

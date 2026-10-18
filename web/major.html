@@ -19,6 +19,7 @@
     <div class="btn-row"><a class="btn" href="index.html" data-i18n="major.goHome">去首页选择</a></div>
   </div>
   <div id="reqList"></div>
+  <div class="btn-row" id="goPlanRow" hidden><a class="btn" href="plan.html" data-i18n="major.goPlan">去排课 →</a></div>
   <div class="footnote" id="srcNote"></div>
 </div>
 <nav class="tabbar">
@@ -37,6 +38,7 @@ I18N.init().then(function () {
   navActive("major");
   var campus = Sget("campus", "UCI"), file = Sget("major", "");
   if (!file) { document.getElementById("noMajor").hidden = false; return; }
+  document.getElementById("goPlanRow").hidden = false;
   fetchMajor(campus, file).then(function (md) {
     document.getElementById("majorSub").textContent = md.major + " (" + md.degree + ") · " + campus;
     var mine = Sget("myCourses", []).map(function (c) { return normCode(c.code); });

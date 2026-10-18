@@ -39,7 +39,8 @@
     "undecidedHint": "先按毕业要求排，大二前决定",
     "majorTitle": "🎓 意向专业",
     "majorHint": "选了专业，查课和排课会告诉你每门课满足哪条毕业要求。",
-    "noMajor": "暂不选专业"
+    "noMajor": "暂不选专业",
+    "goMajor": "查看毕业要求 →"
   },
   "nav": {
     "courses": "查课",
@@ -110,6 +111,7 @@
     "pickCount": "需选 {n} 门",
     "inPlan": "已在选课计划",
     "addPlan": "加入计划",
-    "sourceNote": "数据来源：{campus} 官方课程目录，{date} 核对"
+    "sourceNote": "数据来源：{campus} 官方课程目录，{date} 核对",
+    "goPlan": "去排课 →"
   }
 }

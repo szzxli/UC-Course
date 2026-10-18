@@ -39,7 +39,8 @@
     "undecidedHint": "Plan by degree requirements first; decide by end of sophomore year",
     "majorTitle": "🎓 Intended Major",
     "majorHint": "With a major selected, course search and scheduling will show which graduation requirement each course satisfies.",
-    "noMajor": "Skip for now"
+    "noMajor": "Skip for now",
+    "goMajor": "View degree requirements →"
   },
   "nav": {
     "courses": "Courses",
@@ -110,6 +111,7 @@
     "pickCount": "Pick {n}",
     "inPlan": "In my plan",
     "addPlan": "Add to plan",
-    "sourceNote": "Source: {campus} official catalog, verified {date}"
+    "sourceNote": "Source: {campus} official catalog, verified {date}",
+    "goPlan": "Schedule courses →"
   }
 }

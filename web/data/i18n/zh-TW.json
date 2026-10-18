@@ -39,7 +39,8 @@
     "undecidedHint": "先按畢業要求排，大二前決定",
     "majorTitle": "🎓 意向專業",
     "majorHint": "選了專業，查課和排課會告訴你每門課滿足哪條畢業要求。",
-    "noMajor": "暫不選專業"
+    "noMajor": "暫不選專業",
+    "goMajor": "查看畢業要求 →"
   },
   "nav": {
     "courses": "查課",
@@ -110,6 +111,7 @@
     "pickCount": "需選 {n} 門",
     "inPlan": "已在選課計劃",
     "addPlan": "加入計劃",
-    "sourceNote": "資料來源：{campus} 官方課程目錄，{date} 核對"
+    "sourceNote": "資料來源：{campus} 官方課程目錄，{date} 核對",
+    "goPlan": "去排課 →"
   }
 }

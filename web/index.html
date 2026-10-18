@@ -37,7 +37,7 @@
     <div class="field"><select id="majorSel"><option value="" data-i18n="index.noMajor">暂不选专业</option></select></div>
   </div>
   <div class="btn-row">
-    <a class="btn" href="courses.html" id="goBtn" data-i18n="index.go">开始选课 →</a>
+    <a class="btn" href="courses.html" id="goBtn">开始选课 →</a>
   </div>
   <div class="footnote" data-i18n="index.footnote">v0.1：课程搜索 + 先修链排课。UCLA/UCB/UCSB 数据管线进行中。</div>
 </div>
@@ -55,6 +55,12 @@ I18N.init().then(function () {
   I18N.initSwitcher("langSel");
   navActive("index");
   var MAJORS = [];
+  function updateGoBtn() {
+    var hasMajor = !!document.getElementById("majorSel").value;
+    var btn = document.getElementById("goBtn");
+    btn.href = hasMajor ? "major.html" : "courses.html";
+    btn.textContent = I18N.t(hasMajor ? "index.goMajor" : "index.go");
+  }
   function fillMajors(campus) {
     var sel = document.getElementById("majorSel");
     var cur = Sget("major", "");
@@ -66,6 +72,7 @@ I18N.init().then(function () {
       sel.appendChild(o);
     });
     sel.value = cur;
+    updateGoBtn();
   }
   fetch("data/majors/index.json").then(function (r) { return r.json(); }).then(function (j) {
     MAJORS = j;
@@ -95,6 +102,7 @@ I18N.init().then(function () {
   });
   document.getElementById("majorSel").addEventListener("change", function () {
     Sset("major", this.value);
+    updateGoBtn();
   });
 });
 </script>
