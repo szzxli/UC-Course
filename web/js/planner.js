@@ -75,4 +75,32 @@ function scheduleQuarters(courses, maxUnits, maxQuarters, fmt) {
   return { quarters: quarters, warnings: warnings, levels: levels };
 }
 
-if (typeof module !== "undefined") { module.exports = { parseUnits: parseUnits, topoLevels: topoLevels, scheduleQuarters: scheduleQuarters }; }
+if (typeof module !== "undefined") { module.exports = { parseUnits: parseUnits, topoLevels: topoLevels, scheduleQuarters: scheduleQuarters, criticalPath: criticalPath }; }
+
+/* 关键路径：先修链决定的最少 quarter 数 + 最长链条（归一化课号，防环） */
+function criticalPath(courses) {
+  function nc(s) { return String(s || "").trim().replace(/\b0+(\d)/g, "$1").replace(/\s+/g, " "); }
+  var byCode = {}, i;
+  for (i = 0; i < courses.length; i++) byCode[nc(courses[i].code)] = courses[i];
+  var level = {}, prev = {}, visiting = {};
+  function visit(code) {
+    if (level[code] !== undefined) return level[code];
+    if (visiting[code]) return 0;
+    visiting[code] = true;
+    var course = byCode[code], lv = 0, k, p, best = null;
+    if (course && course.pre) {
+      for (k = 0; k < course.pre.length; k++) {
+        p = nc(course.pre[k]);
+        if (byCode[p]) { var l = visit(p); if (l + 1 > lv) { lv = l + 1; best = p; } }
+      }
+    }
+    visiting[code] = false;
+    level[code] = lv; prev[code] = best;
+    return lv;
+  }
+  var maxL = 0, endK = null;
+  Object.keys(byCode).forEach(function (k) { var l = visit(k); if (l > maxL) { maxL = l; endK = k; } });
+  var chain = [], k = endK, guard = 0;
+  while (k && guard++ < 1000) { chain.unshift(byCode[k].code); k = prev[k]; }
+  return { minQuarters: maxL + (chain.length ? 1 : 0), chain: chain };
+}

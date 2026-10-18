@@ -15,6 +15,19 @@
 </div></div>
 <div class="page">
   <div class="card">
+    <div class="section-title" data-i18n="plan.timeline">🎯 毕业时间线</div>
+    <div class="tline-row">
+      <label><span data-i18n="plan.years">目标</span>
+        <select id="tYears"></select></label>
+      <label><span data-i18n="plan.leaveQ">休学</span>
+        <input id="tLeave" type="number" min="0" max="6" value="0" class="numin">
+        <span data-i18n="plan.qunit">个quarter</span></label>
+      <label class="checkwrap"><input type="checkbox" id="tSummer"><span data-i18n="plan.summer">含暑期</span></label>
+    </div>
+    <div id="tAssess" style="margin-top:10px"></div>
+    <p class="hint" data-i18n="plan.assessNote" style="margin-top:8px">压力值为估算（1学分≈每周3小时）；先修链按课程数据计算。</p>
+  </div>
+  <div class="card">
     <div class="section-title"><span data-i18n="plan.myTitle">📋 我的选课</span>（<span id="cnt">0</span> <span data-i18n="plan.unitCourses">门</span>）</div>
     <div id="myList"></div>
     <div class="field"><label for="maxU" data-i18n="plan.maxU">每 quarter 学分上限</label>
@@ -65,6 +78,7 @@ function renderMine() {
       m.splice(+b.dataset.i, 1);
       Sset("myCourses", m);
       renderMine();
+      renderTimeline();
     });
   });
 }
@@ -76,6 +90,54 @@ function renderTips() {
   document.getElementById("goalTips").innerHTML = '<div class="card"><div class="section-title">' + esc(name) + ' · ' + esc(I18N.t("plan.strategy")) + '</div>'
     + tips.map(function (x) { return '<div class="tip">' + esc(x) + '</div>'; }).join("") + '</div>';
 }
+/* 用课程搜索索引补全先修/学分（专业页加入的课程缺 pre） */
+function enrichCourses() {
+  var campus = Sget("campus", "UCI").toLowerCase();
+  return fetch("data/search/" + campus + "/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
+    return Promise.all(m.files.map(function (f) {
+      return fetch("data/search/" + campus + "/" + f).then(function (r) { return r.json(); });
+    }));
+  }).then(function (parts) {
+    var map = {};
+    parts.forEach(function (p) { p.forEach(function (c) { map[normCode(c.code)] = c; }); });
+    var mine = Sget("myCourses", []), changed = false;
+    mine.forEach(function (m) {
+      var e = map[normCode(m.code)];
+      if (e) {
+        if (!m.pre || !m.pre.length) { m.pre = e.pre || []; changed = true; }
+        if (!m.u || m.u === "4") { m.u = e.u; changed = true; }
+      }
+    });
+    if (changed) Sset("myCourses", mine);
+    return mine;
+  }).catch(function () { return Sget("myCourses", []); });
+}
+function renderTimeline() {
+  var box = document.getElementById("tAssess");
+  var mine = Sget("myCourses", []);
+  if (!mine.length) { box.innerHTML = '<p class="hint">' + esc(I18N.t("plan.tEmpty")) + '</p>'; return; }
+  var years = +document.getElementById("tYears").value || 4;
+  var leave = Math.max(0, +document.getElementById("tLeave").value || 0);
+  var summer = document.getElementById("tSummer").checked;
+  var q = years * 3 - leave + (summer ? years : 0);
+  if (q < 1) q = 1;
+  var cp = criticalPath(mine);
+  var units = mine.reduce(function (s, c) { return s + parseUnits(c.u); }, 0);
+  var pace = units / q;
+  var maxU = +document.getElementById("maxU").value || 16;
+  var hrs = Math.round(pace * 3);
+  var free = Math.round(168 - 56 - pace * 3);
+  var v, vk;
+  if (cp.minQuarters > q) { v = "infeasible"; vk = "plan.verdict_infeasible"; }
+  else if (pace > maxU || hrs > 60) { v = "tight"; vk = "plan.verdict_tight"; }
+  else { v = "feasible"; vk = "plan.verdict_feasible"; }
+  var h = '<div class="tverdict ' + v + '">' + esc(I18N.t(vk)) + '</div>';
+  h += '<div class="tstat">' + esc(I18N.t("plan.statLine", { n: mine.length, u: Math.round(units), q: cp.minQuarters })) + '</div>';
+  h += '<div class="tstat">' + esc(I18N.t("plan.paceLine", { y: years, q: q, p: pace.toFixed(1) })) + '</div>';
+  h += '<div class="tstat">' + esc(I18N.t("plan.hoursLine", { h: hrs, f: free })) + '</div>';
+  if (cp.chain.length > 1) h += '<div class="tstat hint">' + esc(I18N.t("plan.bottleneck")) + esc(cp.chain.join(" → ")) + '</div>';
+  box.innerHTML = h;
+}
 I18N.init().then(function () {
   I18N.initSwitcher("langSel");
   navActive("plan");
@@ -83,6 +145,15 @@ I18N.init().then(function () {
   document.getElementById("maxU").innerHTML = [16, 19, 12].map(function (v) {
     return '<option value="' + v + '">' + v + ' ' + esc(U) + '</option>';
   }).join("");
+  document.getElementById("maxU").addEventListener("change", renderTimeline);
+  /* 时间线选择器 */
+  var TY = document.getElementById("tYears");
+  TY.innerHTML = [2, 3, 4].map(function (y) {
+    return '<option value="' + y + '"' + (y === 4 ? " selected" : "") + '>' + esc(I18N.t("plan.yr" + y)) + '</option>';
+  }).join("");
+  ["tYears", "tLeave", "tSummer"].forEach(function (id) {
+    document.getElementById(id).addEventListener("change", renderTimeline);
+  });
   document.getElementById("genBtn").addEventListener("click", function () {
     var mine = Sget("myCourses", []);
     if (!mine.length) {
@@ -103,10 +174,9 @@ I18N.init().then(function () {
     document.getElementById("out").scrollIntoView({ behavior: "smooth" });
   });
   document.getElementById("clearBtn").addEventListener("click", function () {
-    if (confirm(I18N.t("plan.confirmClear"))) { Sset("myCourses", []); renderMine(); document.getElementById("out").innerHTML = ""; }
+    if (confirm(I18N.t("plan.confirmClear"))) { Sset("myCourses", []); renderMine(); renderTimeline(); document.getElementById("out").innerHTML = ""; }
   });
-  renderMine();
-  renderTips();
+  enrichCourses().then(function () { renderMine(); renderTips(); renderTimeline(); });
 });
 </script>
 </body>

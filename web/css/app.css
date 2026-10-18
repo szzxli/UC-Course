@@ -51,6 +51,13 @@ body.has-selbar{padding-bottom:140px}
 .tag.have{background:#fef3c7;color:#92400e}
 [data-havebtn].on{background:#ede9fe;color:#5b21b6}
 .pop{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px}
+.pop[hidden]{display:none!important}
 .pop-card{background:#fff;border-radius:14px;max-width:520px;width:100%;max-height:80vh;overflow:auto;padding:18px}
 .eqrow{font-size:14px;padding:7px 0;border-bottom:1px solid #f0ebfa}
 .eqrow:last-child{border:none}
+.tline-row{display:flex;gap:14px;flex-wrap:wrap;align-items:center;font-size:14px}
+.tline-row .numin{width:56px;padding:8px;border:1px solid #ddd6f3;border-radius:8px;font-size:14px}
+.tline-row .checkwrap{flex:none}
+.tverdict{font-size:16px;font-weight:700;margin:6px 0}
+.tverdict.feasible{color:#15803d}.tverdict.tight{color:#b45309}.tverdict.infeasible{color:#dc2626}
+.tstat{font-size:14px;padding:4px 0}

@@ -1,10 +1,7 @@
 /* UC SmartPick 专业模块：毕业要求索引 + 下游课程索引 */
 "use strict";
 
-/* 课号归一化：MAE 08 -> MAE 8 */
-function normCode(code) {
-  return String(code || "").trim().replace(/\b0+(\d)/g, "$1").replace(/\s+/g, " ");
-}
+var REQ_TYPE_BADGE = { required: "major.reqRequired", elective: "major.reqElective", prereq: "major.reqPrereq" };
 
 function fetchMajor(campus, file) {
   return fetch("data/majors/" + file).then(function (r) { return r.json(); });
@@ -35,5 +32,3 @@ function buildDownstreamIndex(campusIndex) {
   });
   return idx;
 }
-
-var REQ_TYPE_BADGE = { required: "reqRequired", elective: "reqElective", prereq: "reqPrereq" };
