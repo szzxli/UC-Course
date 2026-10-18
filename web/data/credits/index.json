@@ -5,6 +5,9 @@
     ],
     "cc": [
       "cc-uci.json"
+    ],
+    "ccmap": [
+      "ccmap-uci.json"
     ]
   },
   "UCSD": {
@@ -14,6 +17,10 @@
     "cc": [
       "cc-ucsd-a.json",
       "cc-ucsd-b.json"
+    ],
+    "ccmap": [
+      "ccmap-ucsd-a.json",
+      "ccmap-ucsd-b.json"
     ]
   },
   "checked": "2026-10-18"
