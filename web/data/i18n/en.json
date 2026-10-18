@@ -174,5 +174,11 @@
     "tagGradLevel": "🎓 Graduate-level",
     "tagMethod": "📊 Methods course, PhD signal",
     "tagProject": "💼 Project experience"
+  },
+  "chat": {
+    "title": "💬 Help",
+    "placeholder": "Ask, e.g.: what can AP cover?",
+    "hello": "Hi! Ask me about AP/CC credits, prereqs, scheduling, timelines.",
+    "fallback": "No match — try rephrasing (e.g. 'AP', 'prereq', 'double major')."
   }
 }

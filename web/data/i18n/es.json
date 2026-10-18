@@ -174,5 +174,11 @@
     "tagGradLevel": "🎓 Nivel posgrado",
     "tagMethod": "📊 Curso de métodos, señal de doctorado",
     "tagProject": "💼 Experiencia de proyecto"
+  },
+  "chat": {
+    "title": "💬 Ayuda",
+    "placeholder": "Pregunta, p. ej.: ¿qué cubre AP?",
+    "hello": "¡Hola! Pregúntame sobre créditos AP/CC, prerrequisitos, horarios.",
+    "fallback": "Sin resultados — reformula (p. ej. 'AP', 'prerrequisito')."
   }
 }
