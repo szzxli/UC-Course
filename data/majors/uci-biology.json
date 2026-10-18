@@ -1,0 +1,71 @@
+{
+ "campus": "UCI",
+ "major": "Biological Sciences",
+ "degree": "B.S.",
+ "department": "Charlie Dunlop School of Biological Sciences",
+ "school": "Charlie Dunlop School of Biological Sciences",
+ "source_url": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/biologicalsciences_bs/",
+ "checked": "2026-10-18",
+ "requirements": [
+  {
+   "id": "A",
+   "name": "A. Required Major Courses (select 3)",
+   "type": "elective",
+   "courses": [
+    "BIO SCI D103",
+    "BIO SCI D104",
+    "BIO SCI E106",
+    "BIO SCI E109",
+    "BIO SCI M122",
+    "BIO SCI N110"
+   ],
+   "count": 3
+  },
+  {
+   "id": "B",
+   "name": "B. Upper-Division Laboratories (select 2)",
+   "type": "elective",
+   "courses": [
+    "BIO SCI D111L",
+    "BIO SCI E106L",
+    "BIO SCI E112L",
+    "BIO SCI E115L",
+    "BIO SCI E131L",
+    "BIO SCI E140L",
+    "BIO SCI E160L",
+    "BIO SCI E166L",
+    "BIO SCI E179L",
+    "BIO SCI E186L",
+    "BIO SCI M114L",
+    "BIO SCI M116L",
+    "BIO SCI M118L",
+    "BIO SCI M121L",
+    "BIO SCI M128L",
+    "BIO SCI N113L",
+    "BIO SCI N123L"
+   ],
+   "count": 2,
+   "note": "One lab may be satisfied by Excellence in Research in Biological Sciences"
+  },
+  {
+   "id": "C",
+   "name": "C. Upper-Division Biology Electives (select 4 four-unit courses)",
+   "type": "elective",
+   "courses": [
+    "CHEM 132A",
+    "CHEM 132B",
+    "CHEM 132C",
+    "PHRMSCI 170A",
+    "PHRMSCI 170B",
+    "PHRMSCI 171",
+    "PHRMSCI 173",
+    "PHRMSCI 174",
+    "PHRMSCI 177"
+   ],
+   "count": 4,
+   "note": "From BIO SCI D103-D190, E106-E190, M114-M190, N110-N190 ranges plus listed CHEM/PHRMSCI"
+  }
+ ],
+ "notes": "Catalog page lists upper-division major requirements only; lower-division (chem/physics/math/bio series) governed by school-level requirements, not extracted here.",
+ "file": "uci-biology.json"
+}
