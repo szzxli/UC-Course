@@ -48,7 +48,10 @@
     "major2Hint": "Doble carrera: elige otra del mismo campus; la pestaña Carrera calcula el solapamiento.",
     "resumeTitle": "↩️ Continuar",
     "resumeGo": "Continuar →",
-    "resumeCourses": "{n} cursos"
+    "resumeCourses": "{n} cursos",
+    "transferTitle": "🎓 Soy transfer",
+    "transferDesc": "¿Traes créditos de CC? Impórtalos y ve qué te falta.",
+    "transferGo": "Importar créditos →"
   },
   "nav": {
     "courses": "Cursos",
@@ -133,7 +136,8 @@
     "index": "UC SmartPick",
     "plan": "Planificar horario · UC SmartPick",
     "major": "Carrera · UC SmartPick",
-    "traj": "Trayectoria · UC SmartPick"
+    "traj": "Trayectoria · UC SmartPick",
+    "transfer": "Importar créditos - UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -193,5 +197,21 @@
     "placeholder": "Pregunta, p. ej.: ¿qué cubre AP?",
     "hello": "¡Hola! Pregúntame sobre créditos AP/CC, prerrequisitos, horarios.",
     "fallback": "Sin resultados — reformula (p. ej. 'AP', 'prerrequisito')."
+  },
+  "transfer": {
+    "title": "🎓 Importar créditos en un toque",
+    "hint": "Marca los cursos que tomaste en el community college; los cursos UC equivalentes se marcan como completados.",
+    "campus": "Campus destino",
+    "cc": "Community college de origen",
+    "pickCC": "Selecciona un community college…",
+    "pickCCFirst": "Selecciona primero un community college",
+    "searchPh": "Buscar, ej. MATH 1A",
+    "noCourse": "Sin cursos coincidentes",
+    "loadFail": "Error al cargar, reintenta",
+    "import": "{n} seleccionados",
+    "importGo": "Importar como completados →",
+    "backTitle": "¿Aún no te transfieres?",
+    "backDesc": "Planifica tus cursos de CC en TransferOS-China primero, luego vuelve a importar.",
+    "backGo": "Ir a TransferOS-China →"
   }
 }

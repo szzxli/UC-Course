@@ -48,7 +48,10 @@
     "major2Hint": "双专业规划：同一校区再选一个，专业页会算出重叠课程。",
     "resumeTitle": "↩️ 继续上次的规划",
     "resumeGo": "继续 →",
-    "resumeCourses": "已选 {n} 门"
+    "resumeCourses": "已选 {n} 门",
+    "transferTitle": "🎓 我是转学生",
+    "transferDesc": "从 CC 带学分入学？一键导入转学分，看看还差什么课。",
+    "transferGo": "导入转学分 →"
   },
   "nav": {
     "courses": "查课",
@@ -133,7 +136,8 @@
     "index": "UC 智选 UC SmartPick",
     "plan": "排课 · UC 智选",
     "major": "专业 · UC 智选",
-    "traj": "轨迹 · UC 智选"
+    "traj": "轨迹 · UC 智选",
+    "transfer": "转学分导入 - UC 智选"
   },
   "warn": {
     "listSep": "、",
@@ -193,5 +197,21 @@
     "placeholder": "输入问题，如：AP能抵什么课？",
     "hello": "你好！我是选课小助手，问我AP/CC、先修、排课、时间线这些都可以。",
     "fallback": "没找到相关回答，换个问法试试（比如“AP”“先修”“双专业”）。"
+  },
+  "transfer": {
+    "title": "🎓 转学分一键导入",
+    "hint": "勾选你在社区大学修过的课，系统自动把对应的 UC 课程标为「已修」，专业页进度直接更新。",
+    "campus": "目标校区",
+    "cc": "转出的社区大学",
+    "pickCC": "选择社区大学…",
+    "pickCCFirst": "先选择社区大学",
+    "searchPh": "搜课程，如 MATH 1A",
+    "noCourse": "没有匹配的课程",
+    "loadFail": "数据加载失败，请重试",
+    "import": "已选 {n} 门",
+    "importGo": "导入为已修 →",
+    "backTitle": "还没转学？",
+    "backDesc": "先去 TransferOS-China 规划 CC 选课与转学路径，录取后再回来一键导入。",
+    "backGo": "去 TransferOS-China →"
   }
 }

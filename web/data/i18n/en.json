@@ -48,7 +48,10 @@
     "major2Hint": "Double-major planning: pick another in the same campus; the Major tab computes overlap.",
     "resumeTitle": "↩️ Resume planning",
     "resumeGo": "Continue →",
-    "resumeCourses": "{n} courses picked"
+    "resumeCourses": "{n} courses picked",
+    "transferTitle": "🎓 I'm a transfer student",
+    "transferDesc": "Bringing credits from CC? Import them in one tap and see what's left.",
+    "transferGo": "Import transfer credits →"
   },
   "nav": {
     "courses": "Courses",
@@ -133,7 +136,8 @@
     "index": "UC SmartPick",
     "plan": "Plan Schedule · UC SmartPick",
     "major": "Major · UC SmartPick",
-    "traj": "Trajectory · UC SmartPick"
+    "traj": "Trajectory · UC SmartPick",
+    "transfer": "Transfer Credit Import - UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -193,5 +197,21 @@
     "placeholder": "Ask, e.g.: what can AP cover?",
     "hello": "Hi! Ask me about AP/CC credits, prereqs, scheduling, timelines.",
     "fallback": "No match — try rephrasing (e.g. 'AP', 'prereq', 'double major')."
+  },
+  "transfer": {
+    "title": "🎓 One-Tap Transfer Credit Import",
+    "hint": "Check the courses you took at community college; matching UC courses are marked as completed and your major progress updates.",
+    "campus": "Target campus",
+    "cc": "Community college transferred from",
+    "pickCC": "Select a community college…",
+    "pickCCFirst": "Select a community college first",
+    "searchPh": "Search, e.g. MATH 1A",
+    "noCourse": "No matching courses",
+    "loadFail": "Failed to load data, try again",
+    "import": "{n} selected",
+    "importGo": "Import as completed →",
+    "backTitle": "Not transferred yet?",
+    "backDesc": "Plan your CC courses and transfer path in TransferOS-China first, then come back to import.",
+    "backGo": "Go to TransferOS-China →"
   }
 }

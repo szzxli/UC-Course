@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title data-i18n="title.transfer">转学分导入 - UC 智选</title>
+<link rel="stylesheet" href="css/app.css">
+<meta name="theme-color" content="#7c3aed">
+</head>
+<body>
+<div class="topbar"><div class="topbar-in">
+  <div class="brand" data-i18n="brand.index">🎓 UC 智选</div>
+  <div class="sub" data-i18n="sub.index">目标驱动的 UC 选课：读研 / 直博 / 实习，不同目标不同排法</div>
+  <div><select id="langSel" class="langsel" aria-label="language"></select></div>
+</div></div>
+<div class="page">
+  <div class="card">
+    <div class="section-title" data-i18n="transfer.title">🎓 转学分一键导入</div>
+    <p class="hint" data-i18n="transfer.hint">勾选你在社区大学修过的课，系统自动把对应的 UC 课程标为「已修」，专业页进度直接更新。</p>
+    <div class="field"><label data-i18n="transfer.campus">目标校区</label>
+      <select id="campusSel"><option value="UCI">UCI</option><option value="UCSD">UCSD</option></select></div>
+    <div class="field"><label data-i18n="transfer.cc">转出的社区大学</label>
+      <select id="ccSel"><option value="" data-i18n="transfer.pickCC">选择社区大学…</option></select></div>
+    <div class="field"><input id="q" maxlength="40" data-i18n-ph="transfer.searchPh" placeholder="搜课程，如 MATH 1A"></div>
+    <div id="courseList"><p class="hint" data-i18n="transfer.pickCCFirst">先选择社区大学</p></div>
+  </div>
+  <div class="card">
+    <div class="section-title" data-i18n="transfer.backTitle">还没转学？</div>
+    <p class="hint" data-i18n="transfer.backDesc">先去 TransferOS-China 规划 CC 选课与转学路径，录取后再回来一键导入。</p>
+    <div class="btn-row"><a class="btn ghost" href="https://szzxli.github.io/transferos-China/" data-i18n="transfer.backGo">去 TransferOS-China →</a></div>
+  </div>
+</div>
+<div class="selbar" id="importBar" hidden>
+  <span id="importCnt"></span>
+  <button class="btn sm" id="importBtn">导入</button>
+</div>
+<nav class="tabbar">
+  <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
+  <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
+  <a href="major.html" data-page="major"><span class="ico">🎓</span><span data-i18n="nav.major">专业</span></a>
+  <a href="plan.html" data-page="plan"><span class="ico">🗓️</span><span data-i18n="nav.plan">排课</span></a>
+  <a href="trajectory.html" data-page="trajectory"><span class="ico">🛤️</span><span data-i18n="nav.traj">轨迹</span></a>
+</nav>
+<script src="js/app.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/chat.js"></script>
+<script>
+"use strict";
+var CCMAP = null, SEL = {};
+function campus() { return Sget("campus", "UCI"); }
+function loadMap() {
+  var c = campus().toLowerCase();
+  return fetch("data/credits/ccmap-" + c + ".json").then(function (r) { return r.json(); }).then(function (j) {
+    CCMAP = j; SEL = {};
+    var sel = document.getElementById("ccSel");
+    sel.innerHTML = '<option value="">' + esc(I18N.t("transfer.pickCC")) + '</option>' +
+      Object.keys(j).sort().map(function (n) {
+        return '<option value="' + esc(n) + '">' + esc(n) + ' (' + j[n].length + ')</option>';
+      }).join("");
+    document.getElementById("courseList").innerHTML = '<p class="hint">' + esc(I18N.t("transfer.pickCCFirst")) + '</p>';
+    updateBar();
+  }).catch(function () {
+    document.getElementById("courseList").innerHTML = '<p class="hint">' + esc(I18N.t("transfer.loadFail")) + '</p>';
+  });
+}
+function renderList() {
+  var cc = document.getElementById("ccSel").value;
+  var box = document.getElementById("courseList");
+  if (!cc || !CCMAP || !CCMAP[cc]) { box.innerHTML = '<p class="hint">' + esc(I18N.t("transfer.pickCCFirst")) + '</p>'; return; }
+  var q = document.getElementById("q").value.trim().toLowerCase();
+  var rows = CCMAP[cc].filter(function (e) {
+    return !q || e.cc.toLowerCase().indexOf(q) >= 0 || e.uc.toLowerCase().indexOf(q) >= 0;
+  }).slice(0, 200);
+  box.innerHTML = rows.length ? rows.map(function (e) {
+    var k = e.cc + "|" + e.uc, on = SEL[k] ? " checked" : "";
+    return '<label class="chk"><input type="checkbox" data-k="' + esc(k) + '"' + on + '><span><b>' + esc(e.cc) + '</b> → ' + esc(e.uc) + '</span></label>';
+  }).join("") : '<p class="hint">' + esc(I18N.t("transfer.noCourse")) + '</p>';
+  box.querySelectorAll("input[type=checkbox]").forEach(function (c) {
+    c.addEventListener("change", function () {
+      if (c.checked) SEL[c.dataset.k] = true; else delete SEL[c.dataset.k];
+      updateBar();
+    });
+  });
+}
+function updateBar() {
+  var n = Object.keys(SEL).length;
+  document.getElementById("importBar").hidden = !n;
+  document.getElementById("importCnt").textContent = I18N.t("transfer.import", { n: n });
+  document.getElementById("importBtn").textContent = I18N.t("transfer.importGo");
+}
+I18N.init().then(function () {
+  I18N.initSwitcher("langSel");
+  document.getElementById("campusSel").value = campus();
+  document.getElementById("campusSel").addEventListener("change", function () {
+    Sset("campus", this.value); loadMap();
+  });
+  document.getElementById("ccSel").addEventListener("change", renderList);
+  document.getElementById("q").addEventListener("input", renderList);
+  document.getElementById("importBtn").addEventListener("click", function () {
+    var have = Sget("have", {}), n = 0;
+    Object.keys(SEL).forEach(function (k) {
+      var uc = k.split("|")[1], nk = normCode(uc);
+      if (!have[nk]) { have[nk] = true; n++; }
+    });
+    Sset("have", have);
+    Sset("transferCC", document.getElementById("ccSel").value);
+    location.href = "major.html";
+  });
+  loadMap();
+});
+</script>
+</body>
+</html>
