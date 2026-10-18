@@ -45,9 +45,11 @@
   <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
   <a href="major.html" data-page="major"><span class="ico">🎓</span><span data-i18n="nav.major">专业</span></a>
   <a href="plan.html" data-page="plan" class="active"><span class="ico">🗓️</span><span data-i18n="nav.plan">排课</span></a>
+  <a href="trajectory.html" data-page="trajectory"><span class="ico">🛤️</span><span data-i18n="nav.traj">轨迹</span></a>
 </nav>
 <script src="js/app.js"></script>
 <script src="js/i18n.js"></script>
+<script src="js/chat.js"></script>
 <script src="js/planner.js"></script>
 <script>
 "use strict";
@@ -90,8 +92,11 @@ function renderTips() {
   document.getElementById("goalTips").innerHTML = '<div class="card"><div class="section-title">' + esc(name) + ' · ' + esc(I18N.t("plan.strategy")) + '</div>'
     + tips.map(function (x) { return '<div class="tip">' + esc(x) + '</div>'; }).join("") + '</div>';
 }
-/* 用课程搜索索引补全先修/学分（专业页加入的课程缺 pre） */
+/* 用课程搜索索引补全先修/学分（专业页加入的课程缺 pre）；空清单或无需补全时跳过加载 */
 function enrichCourses() {
+  var mine0 = Sget("myCourses", []);
+  var need = mine0.some(function (m) { return !m.pre || !m.pre.length; });
+  if (!mine0.length || !need) return Promise.resolve(mine0);
   var campus = Sget("campus", "UCI").toLowerCase();
   return fetch("data/search/" + campus + "/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
     return Promise.all(m.files.map(function (f) {

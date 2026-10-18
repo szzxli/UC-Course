@@ -70,3 +70,15 @@ body.has-selbar{padding-bottom:140px}
 .wtag{display:inline-block;font-size:12px;background:#f5f3ff;color:#6d28d9;border-radius:6px;padding:2px 8px;margin:2px 4px 2px 0}
 .optgroup{margin:8px 0;padding:8px;background:#faf9ff;border-radius:8px}
 .opthead{margin-bottom:4px;font-size:13px}
+.chatbtn{position:fixed;right:16px;bottom:76px;z-index:300;width:52px;height:52px;border-radius:50%;border:none;background:#7c3aed;color:#fff;font-size:24px;cursor:pointer;box-shadow:0 4px 14px rgba(124,58,237,.4)}
+.chatpanel{position:fixed;right:16px;bottom:140px;z-index:300;width:min(340px,calc(100vw - 32px));height:420px;background:#fff;border-radius:14px;box-shadow:0 8px 30px rgba(0,0,0,.2);display:flex;flex-direction:column;overflow:hidden}
+.chatpanel[hidden]{display:none!important}
+.chathead{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;background:#7c3aed;color:#fff;font-size:15px}
+.chatx{background:none;border:none;color:#fff;font-size:16px;cursor:pointer}
+.chatbody{flex:1;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:8px}
+.chatmsg{max-width:85%;padding:8px 12px;border-radius:12px;font-size:14px;line-height:1.5}
+.chatmsg.bot{background:#f5f3ff;color:#333;align-self:flex-start}
+.chatmsg.me{background:#7c3aed;color:#fff;align-self:flex-end}
+.chatinput{display:flex;gap:8px;padding:10px;border-top:1px solid #eee}
+.chatinput input{flex:1;padding:9px 12px;border:1px solid #ddd6f3;border-radius:20px;font-size:14px}
+.chatinput button{border:none;background:#7c3aed;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;font-size:16px}
