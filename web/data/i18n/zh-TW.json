@@ -51,7 +51,7 @@
   "plan": {
     "clear": "清空",
     "confirmClear": "清空選課列表？",
-    "empty": "去「查課」頁新增課程",
+    "empty": "清單是空的，先加課再排",
     "fall": "Fall",
     "gen": "⚡ 生成排課",
     "maxU": "每 quarter 學分上限",
@@ -64,7 +64,9 @@
     "strategy": "選課策略",
     "unitCourses": "門",
     "winter": "Winter",
-    "year": "Year {y}"
+    "year": "Year {y}",
+    "goMajor": "去專業頁一鍵加入必修課 →",
+    "goIndex": "先去首頁選擇專業 →"
   },
   "sub": {
     "index": "目標驅動的 UC 選課：讀研 / 直博 / 實習，不同目標不同排法",
@@ -116,6 +118,7 @@
     "selectAll": "全選",
     "selectedN": "已選 {n} 門",
     "addSelected": "加入選課清單",
-    "addedN": "已加入 {n} 門，去排課頁查看"
+    "addedN": "已加入 {n} 門，去排課頁查看",
+    "addAllRequired": "一鍵加入全部必修課"
   }
 }

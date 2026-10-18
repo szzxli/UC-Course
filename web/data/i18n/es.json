@@ -51,7 +51,7 @@
   "plan": {
     "clear": "Borrar",
     "confirmClear": "¿Borrar tu lista de cursos?",
-    "empty": "Añade cursos desde la pestaña Cursos",
+    "empty": "Tu lista está vacía; añade cursos primero",
     "fall": "Otoño",
     "gen": "⚡ Generar horario",
     "maxU": "Límite de unidades por quarter",
@@ -64,7 +64,9 @@
     "strategy": "Estrategia",
     "unitCourses": "cursos",
     "winter": "Invierno",
-    "year": "Año {y}"
+    "year": "Año {y}",
+    "goMajor": "Añadir obligatorios de mi carrera →",
+    "goIndex": "Elige una carrera primero →"
   },
   "sub": {
     "index": "Planifica tus cursos UC según tu meta: posgrado / doctorado / empleo — cada meta, una estrategia distinta",
@@ -116,6 +118,7 @@
     "selectAll": "Seleccionar todo",
     "selectedN": "{n} seleccionados",
     "addSelected": "Añadir a mi lista",
-    "addedN": "Añadidos {n}; ver en Planificar"
+    "addedN": "Añadidos {n}; ver en Planificar",
+    "addAllRequired": "Añadir todos los obligatorios"
   }
 }

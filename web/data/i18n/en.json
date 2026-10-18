@@ -51,7 +51,7 @@
   "plan": {
     "clear": "Clear",
     "confirmClear": "Clear your course list?",
-    "empty": "Add courses from the Courses tab",
+    "empty": "Your list is empty — add courses first",
     "fall": "Fall",
     "gen": "⚡ Generate schedule",
     "maxU": "Max units per quarter",
@@ -64,7 +64,9 @@
     "strategy": "Strategy",
     "unitCourses": "courses",
     "winter": "Winter",
-    "year": "Year {y}"
+    "year": "Year {y}",
+    "goMajor": "Add required courses from my major →",
+    "goIndex": "Choose a major first →"
   },
   "sub": {
     "index": "Goal-driven UC course planning: grad school / PhD / internships — different goals, different schedules",
@@ -116,6 +118,7 @@
     "selectAll": "Select all",
     "selectedN": "{n} selected",
     "addSelected": "Add to course list",
-    "addedN": "Added {n}; see the Schedule tab"
+    "addedN": "Added {n}; see the Schedule tab",
+    "addAllRequired": "Add all required courses"
   }
 }

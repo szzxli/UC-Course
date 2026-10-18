@@ -55,7 +55,10 @@ function renderMine() {
   var U = I18N.t("courses.units");
   box.innerHTML = mine.length ? mine.map(function (c, i) {
     return '<div class="course-row"><span><b>' + esc(c.code) + '</b><span class="tag">' + esc(c.u) + ' ' + esc(U) + '</span></span><button class="btn ghost sm" data-i="' + i + '">' + esc(I18N.t("plan.remove")) + '</button></div>';
-  }).join("") : '<p class="hint">' + esc(I18N.t("plan.empty")) + '</p>';
+  }).join("") : '<p class="hint">' + esc(I18N.t("plan.empty")) + '</p>' +
+    (Sget("major", "")
+      ? '<div class="btn-row"><a class="btn" href="major.html">' + esc(I18N.t("plan.goMajor")) + '</a></div>'
+      : '<div class="btn-row"><a class="btn" href="index.html">' + esc(I18N.t("plan.goIndex")) + '</a></div>');
   box.querySelectorAll("button").forEach(function (b) {
     b.addEventListener("click", function () {
       var m = Sget("myCourses", []);
@@ -82,7 +85,11 @@ I18N.init().then(function () {
   }).join("");
   document.getElementById("genBtn").addEventListener("click", function () {
     var mine = Sget("myCourses", []);
-    if (!mine.length) { alert(I18N.t("plan.noCourse")); return; }
+    if (!mine.length) {
+      /* 空清单不死胡同：直接带去该去的地方 */
+      location.href = Sget("major", "") ? "major.html" : "index.html";
+      return;
+    }
     var r = scheduleQuarters(mine, +document.getElementById("maxU").value, 12, fmtWarnings());
     var terms = [I18N.t("plan.fall"), I18N.t("plan.winter"), I18N.t("plan.spring")];
     var html = r.quarters.map(function (q, i) {
