@@ -1,0 +1,3828 @@
+{
+ "ECON 20A": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Antelope Valley College",
+   "course": "ECON 102H",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "ECON 202M",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "ECON 4",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "ECON 201",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "ECON 201H",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "ECON 121",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "ECON 105 C",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "ECON 105HC",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "ECON 2H",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "ECON 221",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "ECON 001",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "ECON 1B",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "ECON 101 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "ECON 101HF",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "ECON G170",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "ECON 121",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "ECON 1H",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "ECON 2H",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "ECON 001",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "ECON 001",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "ECON 001",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "ECON 001",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "ECON 001",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "ECO 8",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "ECO 8H",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "BUSC 1B",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "BUSC 1BH",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "ECO 8",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "ECO 8H",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "ECON A170",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "ECON A170H",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "ECON R201",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "ECON R201H",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "ECON 001B",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "ECON 001BH",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "ECON 102H",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "ECO 8",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "ECO 8H",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "ECON 4",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "ECON 4H",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "ECON 201",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "ECON 201H",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "ECON 121",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "ECON 101H",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "ECON V01B",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "ECON 001",
+   "note": ""
+  }
+ ],
+ "ECON 20B": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Antelope Valley College",
+   "course": "ECON 101H",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "ECON 100",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "ECON 201M",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "ECON 101H",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "ECON 100",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "ECON 200",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "ECON 200H",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "ECON 120",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "ECON 100 C",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "ECON 100HC",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "ECON 1H",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "ECON 220",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "ECON 002",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "ECON 101H",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "ECON 1A",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "ECON 102 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "ECON 102HF",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "ECON 102H",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "ECON G175",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "ECON 120",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "ECON 2H",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "ECON 1H",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "ECON 002",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "ECON 002",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "ECON 002",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "ECON 002",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "ECON 002",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "ECON 1",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "ECO 7",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "ECO 7H",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "BUSC 1A",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "BUSC 1AH",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "ECO 7",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "ECO 7H",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "ECON A175",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "ECON A175H",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "ECON R202",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "ECON R202H",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "ECON 001A",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "ECON 001AH",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "ECON 101H",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "ECO 7",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "ECO 7H",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "ECON 2H",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "ECON 200",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "ECON 200H",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "ECON 120",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "ECON 102H",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "ECON 2",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "ECON 102",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "ECON 100",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "ECON 101",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "ECON V01A",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "ECON 002",
+   "note": ""
+  }
+ ],
+ "EECS 31": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "ENGR 185",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "ENGR 270",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "ENGR 132",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "ENGR 31",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 006",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "CS 130",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "ENG GEN 225",
+   "note": ""
+  }
+ ],
+ "EECS 31L": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "ENGR 185",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "ENGR 31L",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "ENG GEN 225",
+   "note": ""
+  }
+ ],
+ "EECS 70A": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "ENGR 230",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "ENGR 260",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "ENGR 215",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "ENGR 260",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "PH 6A",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "ENGR 210",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "ENGR 210 C",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "ENGR 37",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "ENGIN 230",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "ENG GEN 220",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "ENGR 11",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "ENGR 37",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "ENGR 203 F",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "ENGR 240",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "ENGR G285",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "PSC 210",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "ENGR 70",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "ENGIN 18",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "ENGR 17",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "ENG ELC 220",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "ELECTRN 004A",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "ENG GEN 220",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "ENG GEN 220",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "PHYS 280",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "ENGR 44",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "ENE 39",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "ENGR A285",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "ENGR R160",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "ENGR 210",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "ENGR 016",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "ENGR 217",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "ENE 39",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "ENGR 70",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "ENGE 260",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "ENGR 117",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "ENGR 21",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "ENGR 230",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "ENGR 260",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "ENGR 270",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "ENGR V16",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "ENG GEN 220",
+   "note": ""
+  }
+ ],
+ "I&C SCI 31": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "CS 122",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "CIS 122",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "CIS 181",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "CISPROG 5",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "CS 112",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "CIS 87",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 40",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 41A",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "CS 119",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "CSCI 14",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "C S 2A",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "C S 2B",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "C S 2C",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "C S 3A",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "CS 10",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "CIS 25",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "CIS 25B",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "CIS 36A",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "CIS 36B",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "CS 31",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "CS 119",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "CS 116",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "CS 119",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "CS 216",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "CS 119",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "CS 119",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "CS 138",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "CIS 30A",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A131",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "CNIT R161",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "CSIT 175",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003A",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003AL",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003B",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003BL",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003C",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003CL",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "CS 102",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "CISC 217",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "CS 104",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "CS 87A",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "CIS 122",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "CIS 106",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "CS 119",
+   "note": ""
+  }
+ ],
+ "I&C SCI 45C": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "CS 120",
+   "note": ""
+  },
+  {
+   "cc": "Antelope Valley College",
+   "course": "CS 130",
+   "note": ""
+  },
+  {
+   "cc": "Antelope Valley College",
+   "course": "CS 230",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "CIS 278",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "CS 9",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "CIS 247 C",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "CSCI 123 C",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "CSCI 133 C",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 22A",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 22B",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 29",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "COMSC 110",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "COMSC 165",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "COMSC 200",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "COMSC 210",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "C S 2B",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "C S 2C",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "CSCI 123 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "CSCI 133 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "CSCI 223 F",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "CS G131",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "CS G175",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "CS G179",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "CS G189",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "CSIS 296",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "CSIS 297",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "CIS 25",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "CIS 25B",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "CS 116",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "CS 216",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "CS 116",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "CS 216",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "CS 136",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "CS 216",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "CS 236",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "CIS 17C",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 110",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 140",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "CIS 17C",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A250",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "CSCI 222",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 002",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003A",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 003AL",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 008",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 008L",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "CIT 125",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "CIT 126",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "CIS 17C",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 1A",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 1B",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 1C",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "CS 190",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "CS 104",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "CS 114",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "CS 140",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "CS 52",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "CMPR 131",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "CS 216",
+   "note": ""
+  }
+ ],
+ "I&C SCI 46": [
+  {
+   "cc": "College of San Mateo",
+   "course": "CIS 279",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 22A",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 22B",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "CIS 22C",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "CSCI 2",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "C S 2C",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "CSCI 123 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "CSCI 133 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "CSCI 223 F",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "CS/IS 211",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "CS/IS 212",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "CIS 27",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "CS 136",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "CS 136",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 140",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 220",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 230",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 240",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A200",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 008",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 1D",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "CS 20A",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "CS V15",
+   "note": ""
+  }
+ ],
+ "I&C SCI 51": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "CS 140",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "CIS 20",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "CIS 264",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "CS 8",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "CSCI 240",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "CS 165",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "CSCI 242 C",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "COMSC 260",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "CS/IS 165",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "CS/IS 166",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "CS G242",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "CS 40A",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "CS 40B",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "CS 51",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "CS 130",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "CS 130",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "CS 230",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 150",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A216",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 066",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 066L",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "CS 142",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 3A",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 3B",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "CISC 211",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "CIS 242",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 230",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "CS V19",
+   "note": ""
+  }
+ ],
+ "I&C SCI 53": [
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A253",
+   "note": ""
+  }
+ ],
+ "I&C SCI 6B": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "CS 150",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "CIS 262",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "CIS 185",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "CIS 262",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "CS 240",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "CSCI 252 C",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 22",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 22H",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 272",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 22",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 170 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 171 F",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "CS/IS 125",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "CSIS 240",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "CS 6B",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "CS 131",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "CS 226",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 226",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "CIS 7",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "CIS 7",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A257",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "CS R152",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "MATH R130",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "CS 045",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 022",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "CS 152",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "CIS 7",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 30A",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 30B",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "MATH 245",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "CMPR 149",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "CIS 262",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 265",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "CS V17",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "CS 131",
+   "note": ""
+  }
+ ],
+ "I&C SCI 6D": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "CS 150",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "CIS 262",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "MATH 11",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "CIS 262",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "MATH 268",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "CSCI 200",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "MATH 200",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "MATH 245",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "STAT C1000",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 22",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 22H",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "COMSC 230",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "MATH 195",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 272",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "MATH 210",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 22",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 170 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 171 F",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "CS G262",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "CSIS 240",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "MATH 245",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "STAT C1000",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "CS 6A",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 11",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "MATH 272",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "CS 131",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "CS 226",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 226",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "CSCI 190",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A262",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A230",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 245",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 022",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "CS 30A",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "MATH 30B",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "CS 108",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "CMPR 149",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "CIS 262",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 265",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "CS V17",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "MATH V52",
+   "note": ""
+  }
+ ],
+ "MATH 2A": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "MATH 150",
+   "note": ""
+  },
+  {
+   "cc": "Antelope Valley College",
+   "course": "MATH 150H",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "MATH 16A",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "MATH 3A",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "MATH 170",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "MATH 65A",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "MATH 190",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "MATH 3A",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "MATH 1A",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "MATH 250",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "MATH 250E",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "MATH 178",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "MATH 180",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "MATH 130 C",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "MATH 130PC",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "MATH 150AC",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 12",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 1A",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 1AH",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "MATH 182",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "MATH 192",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 261",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 261S",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "MATH 190",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 1A",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 1AH",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 151 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 151HF",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 103E",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 103E+",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 103EH",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 113",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "MATH G180",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "MATH 178",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "MATH 180",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 3A",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 3AH",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 16A",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 3A",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 60",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 60H",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "MATH 261",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "MATH 261S",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "MATH 265",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "MATH 265S",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "MATH 261",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "MATH 261S",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "MATH 261",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "MATH 261",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "MATH 16A",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "MATH 3A",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 150",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 150H",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "MAT 1A",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "MAT 1AH",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "MATH 180",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "MAT 1A",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "MAT 1AH",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A180",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A180H",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A182H",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "MATH R120",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 140",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 140E",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "BUS 014B",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005A",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005AE",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005AH",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 006A",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 190",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 190H",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "MAT 1A",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "MAT 1AH",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "MATH 3A",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "MATH 3AH",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "MATH 250",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "MATH 150",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "MATH 130",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "MATH 150",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "MATH 7",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 150",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 150S",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 180",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 180H",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 180S",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 121",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 122",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 250",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "MATH V21A",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "MATH 261",
+   "note": ""
+  }
+ ],
+ "MATH 2B": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "MATH 160",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "MATH 16B",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "MATH 3B",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "MATH 252",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "MATH 190",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "MATH 65B",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "MATH 191",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "MATH 3B",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "MATH 252",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "MATH 1B",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "MATH 280",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "MATH 150BC",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 1B",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 1BH",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "MATH 193",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 262",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "MATH 191",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 1B",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 1BH",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 152 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 152HF",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 104E",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 104EH",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "MATH G185",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "MATH 280",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 3B",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 3BH",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 16B",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 3B",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 70",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 70H",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 70S",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "MATH 262",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "MATH 266",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "MATH 262",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "MATH 262",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "MATH 262",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "MATH 16B",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "MATH 3B",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 155",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "MAT 1B",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "MATH 181",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "MAT 1B",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A182H",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A185",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A185H",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "MATH R121",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 141",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 141E",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005B",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005BE",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005BH",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 191",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "MAT 1B",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "MATH 3B",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "MATH 151",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "MATH 160",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "MATH 8",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 185",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "MATH 252",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "MATH V21B",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "MATH 262",
+   "note": ""
+  }
+ ],
+ "MATH 2D": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "MATH 250",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "MATH 3C",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "MATH 253",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "MATH 225",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "MATH 75",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "MATH 210",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "MATH 3C",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "MATH 253",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "MATH 2A",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "MATH 252",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "MATH 281",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "MATH 250AC",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 1D",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 1DH",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "MATH 292",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 263",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "MATH 220",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 1D",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 251 F",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 105",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 105H",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "MATH G280",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "MATH 281",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 4A",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 4AH",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 3C",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 80",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "MATH 263",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "MATH 267",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "MATH 263",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "MATH 263",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "MATH 263",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "MATH 3C",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 260",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "MAT 1C",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "MATH 280",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "MAT 1C",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A280",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A280H",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "MATH R122",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 205",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005C",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 005CH",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 250",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "MAT 1C",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "MATH 3C",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "MATH 252",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "MATH 252",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "MATH 200",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "MATH 11",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 280",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "MATH 253",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 252",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "MATH V21C",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "MATH 263",
+   "note": ""
+  }
+ ],
+ "MATH 3A": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "MATH 220",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "MATH 3E",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "MATH 250",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "MATH 81",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "MATH 212",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "MATH 3E",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "MATH 2B",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "MATH 265",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "MATH 284",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "MATH 250BC",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 2B",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 2BH",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "MATH 194",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 2B",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 172 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 252 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 255 F",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 107",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 107H",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "MATH G285",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "MATH 284",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 26",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 26H",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 3E",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 84",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "MATH 3E",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "MAT 3",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "ENGR 285",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "MATH 260",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "MATH 285",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "MAT 3",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A235",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A285",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A285H",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "MATH R134",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 200",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 010",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 010H",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 260",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "MAT 3",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "MATH 26",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "MATH 265",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "MATH 254",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "MATH 210",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "MATH 13",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 287",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 290",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 254",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "MATH V22",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "MATH 270",
+   "note": ""
+  }
+ ],
+ "MATH 3D": [
+  {
+   "cc": "Antelope Valley College",
+   "course": "MATH 230",
+   "note": ""
+  },
+  {
+   "cc": "Berkeley City College",
+   "course": "MATH 3F",
+   "note": ""
+  },
+  {
+   "cc": "Canada College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "Cerritos College",
+   "course": "MATH 250",
+   "note": ""
+  },
+  {
+   "cc": "Chaffey College",
+   "course": "MATH 85",
+   "note": ""
+  },
+  {
+   "cc": "Citrus College",
+   "course": "MATH 211",
+   "note": ""
+  },
+  {
+   "cc": "College of Alameda",
+   "course": "MATH 3F",
+   "note": ""
+  },
+  {
+   "cc": "College of San Mateo",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "College of the Desert",
+   "course": "MATH 2C",
+   "note": ""
+  },
+  {
+   "cc": "Crafton Hills College",
+   "course": "MATH 266",
+   "note": ""
+  },
+  {
+   "cc": "Cuyamaca College",
+   "course": "MATH 285",
+   "note": ""
+  },
+  {
+   "cc": "Cypress College",
+   "course": "MATH 250BC",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 2A",
+   "note": ""
+  },
+  {
+   "cc": "De Anza College",
+   "course": "MATH 2AH",
+   "note": ""
+  },
+  {
+   "cc": "Diablo Valley College",
+   "course": "MATH 294",
+   "note": ""
+  },
+  {
+   "cc": "East Los Angeles College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "El Camino College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Foothill College",
+   "course": "MATH 2A",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 252 F",
+   "note": ""
+  },
+  {
+   "cc": "Fullerton College",
+   "course": "MATH 260 F",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 108",
+   "note": ""
+  },
+  {
+   "cc": "Glendale Community College",
+   "course": "MATH 108H",
+   "note": ""
+  },
+  {
+   "cc": "Golden West College",
+   "course": "MATH G285",
+   "note": ""
+  },
+  {
+   "cc": "Grossmont College",
+   "course": "MATH 285",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 24",
+   "note": ""
+  },
+  {
+   "cc": "Irvine Valley College",
+   "course": "MATH 24H",
+   "note": ""
+  },
+  {
+   "cc": "Laney College",
+   "course": "MATH 3F",
+   "note": ""
+  },
+  {
+   "cc": "Long Beach City College",
+   "course": "MATH 84",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles City College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Harbor College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Mission College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Pierce College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "Los Angeles Valley College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "Merritt College",
+   "course": "MATH 3F",
+   "note": ""
+  },
+  {
+   "cc": "MiraCosta College",
+   "course": "MATH 265",
+   "note": ""
+  },
+  {
+   "cc": "Moreno Valley College",
+   "course": "MAT 2",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "ENGR 285",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "MATH 285",
+   "note": ""
+  },
+  {
+   "cc": "Mount San Antonio College",
+   "course": "MATH 290",
+   "note": ""
+  },
+  {
+   "cc": "Norco College",
+   "course": "MAT 2",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A285",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "MATH A285H",
+   "note": ""
+  },
+  {
+   "cc": "Oxnard College",
+   "course": "MATH R143",
+   "note": ""
+  },
+  {
+   "cc": "Palomar College",
+   "course": "MATH 206",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 055",
+   "note": ""
+  },
+  {
+   "cc": "Pasadena City College",
+   "course": "MATH 055H",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 251",
+   "note": ""
+  },
+  {
+   "cc": "Rio Hondo College",
+   "course": "MATH 270",
+   "note": ""
+  },
+  {
+   "cc": "Riverside City College",
+   "course": "MAT 2",
+   "note": ""
+  },
+  {
+   "cc": "Saddleback College",
+   "course": "MATH 24",
+   "note": ""
+  },
+  {
+   "cc": "San Bernardino Valley College",
+   "course": "MATH 266",
+   "note": ""
+  },
+  {
+   "cc": "San Diego Mesa College",
+   "course": "MATH 255",
+   "note": ""
+  },
+  {
+   "cc": "Santa Barbara City College",
+   "course": "MATH 220",
+   "note": ""
+  },
+  {
+   "cc": "Santa Monica College",
+   "course": "MATH 15",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 287",
+   "note": ""
+  },
+  {
+   "cc": "Santiago Canyon College",
+   "course": "MATH 295",
+   "note": ""
+  },
+  {
+   "cc": "Skyline College",
+   "course": "MATH 275",
+   "note": ""
+  },
+  {
+   "cc": "Southwestern College",
+   "course": "MATH 253",
+   "note": ""
+  },
+  {
+   "cc": "Ventura College",
+   "course": "MATH V23",
+   "note": ""
+  },
+  {
+   "cc": "West Los Angeles College",
+   "course": "MATH 275",
+   "note": ""
+  }
+ ],
+ "STATS 67": [
+  {
+   "cc": "De Anza College",
+   "course": "MATH 23",
+   "note": ""
+  },
+  {
+   "cc": "Orange Coast College",
+   "course": "CS A263",
+   "note": ""
+  }
+ ]
+}
