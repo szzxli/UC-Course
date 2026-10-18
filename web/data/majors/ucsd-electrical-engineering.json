@@ -1,0 +1,282 @@
+{
+ "campus": "UCSD",
+ "major": "Electrical Engineering",
+ "degree": "B.S.",
+ "department": "Department of Electrical and Computer Engineering",
+ "school": "Jacobs School of Engineering",
+ "source_url": "https://catalog.ucsd.edu/curric/ECE-ug.html",
+ "checked": "2026-10-18",
+ "requirements": [
+  {
+   "id": "lower-ee",
+   "name": "Lower-division EE (24 units)",
+   "type": "required",
+   "courses": [
+    "ECE 25",
+    "ECE 30",
+    "ECE 35",
+    "ECE 45",
+    "ECE 5",
+    "ECE 65"
+   ]
+  },
+  {
+   "id": "lower-prog",
+   "name": "Programming",
+   "type": "required",
+   "courses": [
+    "ECE 15",
+    "ECE 17",
+    "ECE 18"
+   ],
+   "note": "ECE 15 required all depths; + ECE 17 or 18 for comm/systems/ML/signal depths",
+   "options": [
+    [
+     "ECE 15"
+    ],
+    [
+     "ECE 17"
+    ],
+    [
+     "ECE 18"
+    ]
+   ]
+  },
+  {
+   "id": "lower-math",
+   "name": "Mathematics (24 units)",
+   "type": "required",
+   "courses": [
+    "MATH 18",
+    "MATH 20A",
+    "MATH 20B",
+    "MATH 20C",
+    "MATH 20D",
+    "MATH 20E"
+   ]
+  },
+  {
+   "id": "lower-phys",
+   "name": "Physics",
+   "type": "required",
+   "courses": [
+    "PHYS 2A",
+    "PHYS 2B",
+    "PHYS 2C",
+    "PHYS 2D",
+    "PHYS 4A",
+    "PHYS 4B",
+    "PHYS 4C",
+    "PHYS 4D",
+    "PHYS 4E"
+   ],
+   "note": "PHYS 2A-B-C or 4A-B-C (some depths: 2A-B-C-D or 4A-B-C-D-E)",
+   "options": [
+    [
+     "PHYS 2A",
+     "PHYS 2B",
+     "PHYS 2C"
+    ],
+    [
+     "PHYS 4A",
+     "PHYS 4B",
+     "PHYS 4C"
+    ],
+    [
+     "PHYS 2A",
+     "PHYS 2B",
+     "PHYS 2C",
+     "PHYS 2D"
+    ],
+    [
+     "PHYS 4A",
+     "PHYS 4B",
+     "PHYS 4C",
+     "PHYS 4D",
+     "PHYS 4E"
+    ]
+   ]
+  },
+  {
+   "id": "design",
+   "name": "Design course (choose one, C- or better)",
+   "type": "elective",
+   "courses": [
+    "ECE 111",
+    "ECE 115",
+    "ECE 140B",
+    "ECE 190",
+    "ECE 191"
+   ],
+   "count": 1,
+   "note": "Required for graduation; written design project must be submitted"
+  },
+  {
+   "id": "prof-elect",
+   "name": "Professional electives (two upper-division courses)",
+   "type": "elective",
+   "courses": [],
+   "count": 2,
+   "note": "Open pool: any two upper-division courses"
+  },
+  {
+   "id": "depth-communication-systems",
+   "name": "Depth: Communication Systems (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 102",
+    "ECE 107",
+    "ECE 109",
+    "ECE 153",
+    "ECE 155",
+    "ECE 157A",
+    "ECE 158A",
+    "ECE 159",
+    "ECE 161A"
+   ],
+   "count": 11,
+   "note": "All breadth + all 6 depth courses required"
+  },
+  {
+   "id": "depth-computer-system-design",
+   "name": "Depth: Computer System Design (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 102",
+    "ECE 103",
+    "ECE 109",
+    "ECE 111",
+    "ECE 116",
+    "ECE 140A",
+    "ECE 140B",
+    "ECE 141A",
+    "ECE 141B",
+    "ECE 143",
+    "ECE 158A",
+    "ECE 158B",
+    "ECE 165"
+   ],
+   "count": 9,
+   "note": "Breadth all required; any 5 of the depth list (ECE 111 must be taken as depth, tech elective, or design)"
+  },
+  {
+   "id": "depth-electronic-circuits-and-systems",
+   "name": "Depth: Electronic Circuits and Systems (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 102",
+    "ECE 103",
+    "ECE 107",
+    "ECE 109",
+    "ECE 164",
+    "ECE 165",
+    "ECE 166"
+   ],
+   "count": 9,
+   "note": "All breadth + all 3 depth courses required"
+  },
+  {
+   "id": "depth-electronic-devices-and-materials",
+   "name": "Depth: Electronic Devices and Materials (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 102",
+    "ECE 103",
+    "ECE 107",
+    "ECE 109",
+    "ECE 135A",
+    "ECE 135B",
+    "ECE 136L",
+    "ECE 183"
+   ],
+   "count": 10,
+   "note": "All breadth + all 4 depth courses required"
+  },
+  {
+   "id": "depth-machine-learning-and-controls",
+   "name": "Depth: Machine Learning and Controls (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 107",
+    "ECE 109",
+    "ECE 171A",
+    "ECE 171B",
+    "ECE 172A",
+    "ECE 174",
+    "ECE 175A",
+    "ECE 175B"
+   ],
+   "count": 8,
+   "note": "Breadth all required; depth: 171A+174+175A and one of 171B/172A/175B"
+  },
+  {
+   "id": "depth-photonics",
+   "name": "Depth: Photonics (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 103",
+    "ECE 107",
+    "ECE 109",
+    "ECE 181",
+    "ECE 182",
+    "ECE 183",
+    "ECE 184",
+    "ECE 185"
+   ],
+   "count": 9,
+   "note": "Breadth all required; depth: 181+182+183 and either 184 or 185"
+  },
+  {
+   "id": "depth-power-engineering",
+   "name": "Depth: Power Engineering (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 102",
+    "ECE 103",
+    "ECE 107",
+    "ECE 109",
+    "ECE 121A",
+    "ECE 121B",
+    "ECE 125A",
+    "ECE 125B",
+    "ECE 128A",
+    "ECE 128B"
+   ],
+   "count": 10,
+   "note": "Breadth all required; depth: 121A-B+125A+128A and either 125B or 128B"
+  },
+  {
+   "id": "depth-signal-and-image-processing",
+   "name": "Depth: Signal and Image Processing (choose one depth for the major)",
+   "type": "elective",
+   "courses": [
+    "ECE 100",
+    "ECE 101",
+    "ECE 107",
+    "ECE 109",
+    "ECE 153",
+    "ECE 161A",
+    "ECE 161B",
+    "ECE 161C"
+   ],
+   "count": 8,
+   "note": "All breadth + all 4 depth courses required"
+  }
+ ],
+ "notes": "Photonics depth courses beyond ECE 182/183 partially listed on page; technical electives are advisor-approved open pools.",
+ "file": "ucsd-electrical-engineering.json"
+}
