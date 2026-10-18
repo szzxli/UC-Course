@@ -33,9 +33,14 @@ function topoLevels(courses) {
   return level;
 }
 
-/* 排课：贪心，按拓扑层+课程码排序，每门放进先修已满足且学分未超的最早 quarter */
-function scheduleQuarters(courses, maxUnits, maxQuarters) {
+/* 排课：贪心，按拓扑层+课程码排序，每门放进先修已满足且学分未超的最早 quarter
+   fmt: 可选 {missingPrereq(code, list), noRoom(code, n)}，默认中文；调用方按 locale 注入 */
+function scheduleQuarters(courses, maxUnits, maxQuarters, fmt) {
   maxUnits = maxUnits || 16; maxQuarters = maxQuarters || 12;
+  fmt = fmt || {
+    missingPrereq: function (code, list) { return code + " 的先修 " + list.join("、") + " 不在选课列表中（假设已修完）"; },
+    noRoom: function (code, n) { return code + " 放不进 " + n + " 个 quarter（学分上限太紧）"; }
+  };
   var levels = topoLevels(courses);
   var sorted = courses.slice().sort(function (a, b) {
     return (levels[a.code] - levels[b.code]) || (a.code < b.code ? -1 : 1);
@@ -54,7 +59,7 @@ function scheduleQuarters(courses, maxUnits, maxQuarters) {
         need = Math.max(need, placed[pr] + 1);
       }
     });
-    if (missing.length) warnings.push(c.code + " 的先修 " + missing.join("、") + " 不在选课列表中（假设已修完）");
+    if (missing.length) warnings.push(fmt.missingPrereq(c.code, missing));
     var u = parseUnits(c.u), q = need, done = false;
     while (!done && q < maxQuarters) {
       if (!quarters[q]) quarters[q] = { units: 0, courses: [] };
@@ -65,26 +70,9 @@ function scheduleQuarters(courses, maxUnits, maxQuarters) {
         done = true;
       } else { q++; }
     }
-    if (!done) warnings.push(c.code + " 放不进 " + maxQuarters + " 个 quarter（学分上限太紧）");
+    if (!done) warnings.push(fmt.noRoom(c.code, maxQuarters));
   });
   return { quarters: quarters, warnings: warnings, levels: levels };
 }
 
-var GOAL_TIPS = {
-  grad: [
-    "GPA 优先：难课分散到不同 quarter，别把两门硬课放一起",
-    "选 1–2 门 graduate-level 课，申研/直博是加分项",
-    "找 research for credit（199 课），比多上一门课值钱",
-  ],
-  job: [
-    "项目课优先：能写进简历的课排前面",
-    "Recruiting 季（秋招）那两个 quarter 别排太满，留时间面试",
-    "先修链尽早打通，实习要求的技术栈课优先",
-  ],
-  undecided: [
-    "先按毕业要求排，难课分散",
-    "大二结束前决定方向：两条路的选课分叉点在高阶课",
-  ],
-};
-
-if (typeof module !== "undefined") { module.exports = { parseUnits: parseUnits, topoLevels: topoLevels, scheduleQuarters: scheduleQuarters, GOAL_TIPS: GOAL_TIPS }; }
+if (typeof module !== "undefined") { module.exports = { parseUnits: parseUnits, topoLevels: topoLevels, scheduleQuarters: scheduleQuarters }; }

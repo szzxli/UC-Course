@@ -3,46 +3,59 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>排课 · UC 智选</title>
+<title data-i18n="title.plan">排课 · UC 智选</title>
 <link rel="stylesheet" href="css/app.css">
 <meta name="theme-color" content="#7c3aed">
 </head>
 <body>
 <div class="topbar"><div class="topbar-in">
-  <div class="brand">🗓️ 排课</div>
-  <div class="sub">先修链拓扑排课 · 确定性引擎</div>
+  <div class="brand" data-i18n="brand.plan">🗓️ 排课</div>
+  <div class="sub" data-i18n="sub.plan">先修链拓扑排课 · 确定性引擎</div>
+  <div><select id="langSel" class="langsel" aria-label="language"></select></div>
 </div></div>
 <div class="page">
   <div class="card">
-    <div class="section-title">📋 我的选课（<span id="cnt">0</span> 门）</div>
-    <div id="myList"><p class="hint">去「查课」页添加课程</p></div>
-    <div class="field"><label for="maxU">每 quarter 学分上限</label>
-      <select id="maxU"><option value="16">16 units</option><option value="19">19 units</option><option value="12">12 units</option></select></div>
+    <div class="section-title"><span data-i18n="plan.myTitle">📋 我的选课</span>（<span id="cnt">0</span> <span data-i18n="plan.unitCourses">门</span>）</div>
+    <div id="myList"></div>
+    <div class="field"><label for="maxU" data-i18n="plan.maxU">每 quarter 学分上限</label>
+      <select id="maxU"></select></div>
     <div class="btn-row">
-      <button class="btn" id="genBtn">⚡ 生成排课</button>
-      <button class="btn ghost" id="clearBtn">清空</button>
+      <button class="btn" id="genBtn" data-i18n="plan.gen">⚡ 生成排课</button>
+      <button class="btn ghost" id="clearBtn" data-i18n="plan.clear">清空</button>
     </div>
   </div>
   <div id="goalTips"></div>
   <div id="out"></div>
 </div>
 <nav class="tabbar">
-  <a href="index.html" data-page="index"><span class="ico">🏠</span>首页</a>
-  <a href="courses.html" data-page="courses"><span class="ico">🔍</span>查课</a>
-  <a href="plan.html" data-page="plan" class="active"><span class="ico">🗓️</span>排课</a>
+  <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
+  <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
+  <a href="major.html" data-page="major"><span class="ico">🎓</span><span data-i18n="nav.major">专业</span></a>
+  <a href="plan.html" data-page="plan" class="active"><span class="ico">🗓️</span><span data-i18n="nav.plan">排课</span></a>
 </nav>
 <script src="js/app.js"></script>
+<script src="js/i18n.js"></script>
 <script src="js/planner.js"></script>
 <script>
 "use strict";
-navActive("plan");
+function fmtWarnings() {
+  return {
+    missingPrereq: function (code, list) {
+      return I18N.t("warn.missingPrereq", { code: code, list: list.join(I18N.t("warn.listSep")) });
+    },
+    noRoom: function (code, n) {
+      return I18N.t("warn.noRoom", { code: code, n: n });
+    }
+  };
+}
 function renderMine() {
   var mine = Sget("myCourses", []);
   document.getElementById("cnt").textContent = mine.length;
   var box = document.getElementById("myList");
+  var U = I18N.t("courses.units");
   box.innerHTML = mine.length ? mine.map(function (c, i) {
-    return '<div class="course-row"><span><b>' + esc(c.code) + '</b><span class="tag">' + esc(c.u) + ' units</span></span><button class="btn ghost sm" data-i="' + i + '">移除</button></div>';
-  }).join("") : '<p class="hint">去「查课」页添加课程</p>';
+    return '<div class="course-row"><span><b>' + esc(c.code) + '</b><span class="tag">' + esc(c.u) + ' ' + esc(U) + '</span></span><button class="btn ghost sm" data-i="' + i + '">' + esc(I18N.t("plan.remove")) + '</button></div>';
+  }).join("") : '<p class="hint">' + esc(I18N.t("plan.empty")) + '</p>';
   box.querySelectorAll("button").forEach(function (b) {
     b.addEventListener("click", function () {
       var m = Sget("myCourses", []);
@@ -54,31 +67,40 @@ function renderMine() {
 }
 function renderTips() {
   var g = Sget("goal", "undecided");
-  var tips = GOAL_TIPS[g] || GOAL_TIPS.undecided;
-  var names = { grad: "📚 读研/直博", job: "💼 实习/就业", undecided: "🤔 未定目标" };
-  document.getElementById("goalTips").innerHTML = '<div class="card"><div class="section-title">' + names[g] + ' · 选课策略</div>'
-    + tips.map(function (t) { return '<div class="tip">' + esc(t) + '</div>'; }).join("") + '</div>';
+  var tips = I18N.t("tips." + g);
+  if (!tips || !tips.length) { g = "undecided"; tips = I18N.t("tips.undecided"); }
+  var name = I18N.t("tips.names." + g);
+  document.getElementById("goalTips").innerHTML = '<div class="card"><div class="section-title">' + esc(name) + ' · ' + esc(I18N.t("plan.strategy")) + '</div>'
+    + tips.map(function (x) { return '<div class="tip">' + esc(x) + '</div>'; }).join("") + '</div>';
 }
-document.getElementById("genBtn").addEventListener("click", function () {
-  var mine = Sget("myCourses", []);
-  if (!mine.length) { alert("先添加课程"); return; }
-  var r = scheduleQuarters(mine, +document.getElementById("maxU").value, 12);
-  var names = ["Fall", "Winter", "Spring"];
-  var html = r.quarters.map(function (q, i) {
-    var yr = Math.floor(i / 3) + 1, term = names[i % 3];
-    return '<div class="qblock"><h4>Year ' + yr + ' ' + term + ' · ' + q.units + ' units</h4>'
-      + q.courses.map(function (c) { return '<div class="course-row"><span><b>' + esc(c) + '</b></span></div>'; }).join("") + '</div>';
+I18N.init().then(function () {
+  I18N.initSwitcher("langSel");
+  navActive("plan");
+  var U = I18N.t("courses.units");
+  document.getElementById("maxU").innerHTML = [16, 19, 12].map(function (v) {
+    return '<option value="' + v + '">' + v + ' ' + esc(U) + '</option>';
   }).join("");
-  if (r.warnings.length) html += r.warnings.map(function (w) { return '<div class="warn">⚠️ ' + esc(w) + '</div>'; }).join("");
-  document.getElementById("out").innerHTML = '<div class="card"><div class="section-title">📅 排课结果</div>' + html
-    + '<div class="footnote">确定性引擎：先修课一定排在后面课程之前。跨 quarter 的先修默认你已修完。</div></div>';
-  document.getElementById("out").scrollIntoView({ behavior: "smooth" });
+  document.getElementById("genBtn").addEventListener("click", function () {
+    var mine = Sget("myCourses", []);
+    if (!mine.length) { alert(I18N.t("plan.noCourse")); return; }
+    var r = scheduleQuarters(mine, +document.getElementById("maxU").value, 12, fmtWarnings());
+    var terms = [I18N.t("plan.fall"), I18N.t("plan.winter"), I18N.t("plan.spring")];
+    var html = r.quarters.map(function (q, i) {
+      var head = I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3] + " · " + q.units + " " + U;
+      return '<div class="qblock"><h4>' + esc(head) + '</h4>'
+        + q.courses.map(function (c) { return '<div class="course-row"><span><b>' + esc(c) + '</b></span></div>'; }).join("") + '</div>';
+    }).join("");
+    if (r.warnings.length) html += r.warnings.map(function (w) { return '<div class="warn">⚠️ ' + esc(w) + '</div>'; }).join("");
+    document.getElementById("out").innerHTML = '<div class="card"><div class="section-title">' + esc(I18N.t("plan.resultTitle")) + '</div>' + html
+      + '<div class="footnote">' + esc(I18N.t("plan.resultNote")) + '</div></div>';
+    document.getElementById("out").scrollIntoView({ behavior: "smooth" });
+  });
+  document.getElementById("clearBtn").addEventListener("click", function () {
+    if (confirm(I18N.t("plan.confirmClear"))) { Sset("myCourses", []); renderMine(); document.getElementById("out").innerHTML = ""; }
+  });
+  renderMine();
+  renderTips();
 });
-document.getElementById("clearBtn").addEventListener("click", function () {
-  if (confirm("清空选课列表？")) { Sset("myCourses", []); renderMine(); document.getElementById("out").innerHTML = ""; }
-});
-renderMine();
-renderTips();
 </script>
 </body>
 </html>

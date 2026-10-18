@@ -4,6 +4,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei
 .topbar-in{max-width:640px;margin:0 auto}
 .brand{font-size:20px;font-weight:800}
 .sub{font-size:13px;opacity:.85;margin-top:4px}
+.langsel{margin-top:10px;background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.45);border-radius:8px;padding:7px 10px;font-size:13px;cursor:pointer}
+.langsel option{color:#1f1b2d}
 .page{max-width:640px;margin:-12px auto 0;padding:0 12px}
 .card{background:#fff;border-radius:14px;padding:16px;margin:12px 0;box-shadow:0 2px 10px rgba(124,58,237,.07)}
 .section-title{font-size:16px;font-weight:800;margin-bottom:8px}

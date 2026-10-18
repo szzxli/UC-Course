@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title data-i18n="title.major">专业 · UC 智选</title>
+<link rel="stylesheet" href="css/app.css">
+<meta name="theme-color" content="#7c3aed">
+</head>
+<body>
+<div class="topbar"><div class="topbar-in">
+  <div class="brand" data-i18n="brand.major">🎓 专业毕业要求</div>
+  <div class="sub" id="majorSub"></div>
+  <div><select id="langSel" class="langsel" aria-label="language"></select></div>
+</div></div>
+<div class="page">
+  <div id="noMajor" class="card" hidden>
+    <p class="hint" data-i18n="major.noMajor">先去首页选择意向专业</p>
+    <div class="btn-row"><a class="btn" href="index.html" data-i18n="major.goHome">去首页选择</a></div>
+  </div>
+  <div id="reqList"></div>
+  <div class="footnote" id="srcNote"></div>
+</div>
+<nav class="tabbar">
+  <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
+  <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
+  <a href="major.html" data-page="major" class="active"><span class="ico">🎓</span><span data-i18n="nav.major">专业</span></a>
+  <a href="plan.html" data-page="plan"><span class="ico">🗓️</span><span data-i18n="nav.plan">排课</span></a>
+</nav>
+<script src="js/app.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/major.js"></script>
+<script>
+"use strict";
+I18N.init().then(function () {
+  I18N.initSwitcher("langSel");
+  navActive("major");
+  var campus = Sget("campus", "UCI"), file = Sget("major", "");
+  if (!file) { document.getElementById("noMajor").hidden = false; return; }
+  fetchMajor(campus, file).then(function (md) {
+    document.getElementById("majorSub").textContent = md.major + " (" + md.degree + ") · " + campus;
+    var mine = Sget("myCourses", []).map(function (c) { return normCode(c.code); });
+    var box = document.getElementById("reqList");
+    box.innerHTML = (md.requirements || []).map(function (req) {
+      var badge = I18N.t(REQ_TYPE_BADGE[req.type] || "major.reqRequired");
+      var countLine = (req.type === "elective" && req.count) ? " · " + I18N.t("major.pickCount", { n: req.count }) : "";
+      var courses = (req.courses || []).map(function (c) {
+        var inPlan = mine.indexOf(normCode(c)) >= 0;
+        return '<div class="course-row"><span><b>' + esc(c) + '</b>' +
+          (inPlan ? '<span class="tag">' + I18N.t("major.inPlan") + '</span>' : "") +
+          '</span>' + (inPlan ? "" : '<button class="btn ghost sm" data-c="' + esc(c) + '">' + I18N.t("major.addPlan") + '</button>') + '</div>';
+      }).join("");
+      if (!courses) courses = '<p class="hint">' + esc(req.note || "") + '</p>';
+      return '<div class="card"><div class="section-title">' + esc(req.name) +
+        ' <span class="tag">' + esc(badge) + countLine + '</span></div>' +
+        (req.note ? '<p class="hint">' + esc(req.note) + '</p>' : "") + courses + '</div>';
+    }).join("");
+    box.querySelectorAll("button[data-c]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var m = Sget("myCourses", []);
+        if (!m.some(function (x) { return normCode(x.code) === normCode(b.dataset.c); })) {
+          m.push({ code: b.dataset.c, u: "4", pre: [], campus: campus });
+          Sset("myCourses", m);
+        }
+        b.outerHTML = '<span class="tag">' + I18N.t("major.inPlan") + '</span>';
+      });
+    });
+    document.getElementById("srcNote").textContent =
+      I18N.t("major.sourceNote", { campus: campus, date: md.checked || "" });
+  }).catch(function () {
+    document.getElementById("reqList").innerHTML = '<div class="card"><p class="hint">load fail</p></div>';
+  });
+});
+</script>
+</body>
+</html>
