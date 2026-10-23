@@ -39,9 +39,10 @@
 <script>
 "use strict";
 var CAMPUS = "UCI", INDEX = [], cur = null, REQIDX = null, DOWNIDX = null, MAJORNAME = "", OVERLAP = {};
+var CAMPUS_SUB_KEY = { UCI: "courses.campusUCI", UCSD: "courses.campusUCSD", UCSB: "courses.campusUCSB" };
 function setCampusSub() {
   document.getElementById("campusSub").textContent =
-    I18N.t(CAMPUS === "UCI" ? "courses.campusUCI" : "courses.campusUCSD");
+    I18N.t(CAMPUS_SUB_KEY[CAMPUS] || "courses.campusUCI");
 }
 function doSearch() {
   var q = document.getElementById("q").value.trim().toLowerCase();

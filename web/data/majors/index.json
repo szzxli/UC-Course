@@ -82,5 +82,47 @@
   "degree": "B.S.",
   "file": "ucsd-mathematics.json",
   "requirement_count": 5
+ },
+ {
+  "campus": "UCSB",
+  "major": "Computer Science",
+  "degree": "B.S.",
+  "file": "ucsb-computer-science.json",
+  "requirement_count": 7
+ },
+ {
+  "campus": "UCSB",
+  "major": "Electrical Engineering",
+  "degree": "B.S.",
+  "file": "ucsb-electrical-engineering.json",
+  "requirement_count": 3
+ },
+ {
+  "campus": "UCSB",
+  "major": "Biological Sciences",
+  "degree": "B.S.",
+  "file": "ucsb-biology.json",
+  "requirement_count": 14
+ },
+ {
+  "campus": "UCSB",
+  "major": "Psychological & Brain Sciences",
+  "degree": "B.S.",
+  "file": "ucsb-psychology.json",
+  "requirement_count": 7
+ },
+ {
+  "campus": "UCSB",
+  "major": "Economics",
+  "degree": "B.A.",
+  "file": "ucsb-economics.json",
+  "requirement_count": 8
+ },
+ {
+  "campus": "UCSB",
+  "major": "Mathematics",
+  "degree": "B.S.",
+  "file": "ucsb-mathematics.json",
+  "requirement_count": 10
  }
 ]

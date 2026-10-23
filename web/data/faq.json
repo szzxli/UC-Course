@@ -110,7 +110,7 @@
       "q": "What does 'have it' mean?"
     },
     {
-      "a": "UCI and UCSD official catalogs; major requirements from department sites (checked Oct 2026). Always confirm with the official source — this is planning reference.",
+      "a": "UCI, UCSD and UCSB official catalogs; major requirements from the official catalogs (checked Oct 2026). Always confirm with the official source — this is planning reference.",
       "kws": [
         "data",
         "source",
@@ -120,7 +120,7 @@
       "q": "Where is the data from? Is it accurate?"
     },
     {
-      "a": "UCI and UCSD course data is live. UCLA, UCB, UCSB pipelines are in progress.",
+      "a": "UCI, UCSD and UCSB course data is live. UCLA and UCB pipelines are in progress.",
       "kws": [
         "campus",
         "school",
@@ -321,7 +321,7 @@
       "q": "“我有了”是什么意思？"
     },
     {
-      "a": "UCI和UCSD官方课程目录，专业要求来自各系官网（2026年10月核对）。课程变动以学校官方为准，APP只做规划参考。",
+      "a": "UCI、UCSD和UCSB官方课程目录，专业要求来自官方目录（2026年10月核对）。课程变动以学校官方为准，APP只做规划参考。",
       "kws": [
         "数据",
         "哪里",
@@ -332,7 +332,7 @@
       "q": "课程数据哪里来的？准吗？"
     },
     {
-      "a": "目前UCI和UCSD课程数据已入库。UCLA、UCB、UCSB数据管线进行中。",
+      "a": "目前UCI、UCSD和UCSB课程数据已入库。UCLA、UCB数据管线进行中。",
       "kws": [
         "学校",
         "校区",

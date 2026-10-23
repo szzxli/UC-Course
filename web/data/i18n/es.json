@@ -11,6 +11,7 @@
     "added": "{code} añadido ({n} cursos)",
     "campusUCI": "UC Irvine · 5,843 cursos",
     "campusUCSD": "UC San Diego · 6,761 cursos",
+    "campusUCSB": "UC Santa Barbara · 13,555 cursos",
     "detail": "Detalles",
     "hint2chars": "Escribe al menos 2 caracteres para buscar",
     "loadFail": "Error al cargar los datos",
@@ -28,9 +29,9 @@
     "overlapHint": "Cuenta para ambas carreras"
   },
   "index": {
-    "campusHint": "v0.1 cubre dos campus: UCI y UCSD (datos de cursos cargados).",
+    "campusHint": "v0.2 cubre tres campus: UCI, UCSD y UCSB (datos de cursos cargados).",
     "campusTitle": "🏫 Tu campus",
-    "footnote": "v0.1: búsqueda de cursos + horario con prerrequisitos. Datos de UCLA/UCB/UCSB en curso.",
+    "footnote": "v0.2: búsqueda de cursos + horario con prerrequisitos. Datos de UCLA/UCB en curso.",
     "go": "Empezar a elegir cursos →",
     "goalHint": "La misma carrera exige estrategias muy distintas para posgrado o empleo. Elige una y el planificador adaptará sus consejos.",
     "goalTitle": "🎯 Elige tu meta primero",
@@ -208,6 +209,7 @@
     "searchPh": "Buscar, ej. MATH 1A",
     "noCourse": "Sin cursos coincidentes",
     "loadFail": "Error al cargar, reintenta",
+    "noData": "Los datos de equivalencias de este campus aún no están disponibles.",
     "import": "{n} seleccionados",
     "importGo": "Importar como completados →",
     "backTitle": "¿Aún no te transfieres?",

@@ -11,6 +11,7 @@
     "added": "{code} 已加入选课（{n} 门）",
     "campusUCI": "UC Irvine · 5,843 门",
     "campusUCSD": "UC San Diego · 6,761 门",
+    "campusUCSB": "UC Santa Barbara · 13,555 门",
     "detail": "详情",
     "hint2chars": "输入至少 2 个字符开始搜索",
     "loadFail": "数据加载失败",
@@ -28,9 +29,9 @@
     "overlapHint": "同时满足两个专业，一门顶两门"
   },
   "index": {
-    "campusHint": "v0.1 先上两校：UCI、UCSD（课程数据已入库）。",
+    "campusHint": "v0.2 先上三校：UCI、UCSD、UCSB（课程数据已入库）。",
     "campusTitle": "🏫 你的校区",
-    "footnote": "v0.1：课程搜索 + 先修链排课。UCLA/UCB/UCSB 数据管线进行中。",
+    "footnote": "v0.2：课程搜索 + 先修链排课。UCLA/UCB 数据管线进行中。",
     "go": "开始选课 →",
     "goalHint": "同一专业，读研和就业的选课策略完全不同。选一个，排课时会给你不同的建议。",
     "goalTitle": "🎯 先定目标，再选课",
@@ -208,6 +209,7 @@
     "searchPh": "搜课程，如 MATH 1A",
     "noCourse": "没有匹配的课程",
     "loadFail": "数据加载失败，请重试",
+    "noData": "该校区转学分对照数据尚未入库，敬请期待。",
     "import": "已选 {n} 门",
     "importGo": "导入为已修 →",
     "backTitle": "还没转学？",

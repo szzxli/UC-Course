@@ -11,6 +11,7 @@
     "added": "{code} 已加入選課（{n} 門）",
     "campusUCI": "UC Irvine · 5,843 門",
     "campusUCSD": "UC San Diego · 6,761 門",
+    "campusUCSB": "UC Santa Barbara · 13,555 門",
     "detail": "詳情",
     "hint2chars": "輸入至少 2 個字元開始搜尋",
     "loadFail": "資料載入失敗",
@@ -28,9 +29,9 @@
     "overlapHint": "同時滿足兩個專業，一門頂兩門"
   },
   "index": {
-    "campusHint": "v0.1 先上兩校：UCI、UCSD（課程資料已入庫）。",
+    "campusHint": "v0.2 先上三校：UCI、UCSD、UCSB（課程資料已入庫）。",
     "campusTitle": "🏫 你的校區",
-    "footnote": "v0.1：課程搜尋 + 先修鏈排課。UCLA/UCB/UCSB 資料管線進行中。",
+    "footnote": "v0.2：課程搜尋 + 先修鏈排課。UCLA/UCB 資料管線進行中。",
     "go": "開始選課 →",
     "goalHint": "同一專業，讀研和就業的選課策略完全不同。選一個，排課時會給你不同的建議。",
     "goalTitle": "🎯 先定目標，再選課",
@@ -208,6 +209,7 @@
     "searchPh": "搜課程，如 MATH 1A",
     "noCourse": "沒有匹配的課程",
     "loadFail": "數據加載失敗，請重試",
+    "noData": "該校區轉學分對照數據尚未入庫，敬請期待。",
     "import": "已選 {n} 門",
     "importGo": "導入為已修 →",
     "backTitle": "還沒轉學？",

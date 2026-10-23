@@ -1,0 +1,299 @@
+{
+ "campus": "UCSB",
+ "major": "Computer Science",
+ "degree": "B.S.",
+ "department": "Department of Computer Science",
+ "school": "College of Engineering",
+ "source_url": "https://catalog.ucsb.edu/programs/BSCMPSC",
+ "checked": "2026-10-23",
+ "requirements": [
+  {
+   "id": "computer-science-courses",
+   "name": "Computer Science Courses",
+   "type": "prereq",
+   "courses": [
+    "CMPSC 16",
+    "CMPSC 24",
+    "CMPSC 32",
+    "CMPSC 41",
+    "CMPSC 42",
+    "CMPSC 64"
+   ],
+   "note": "To satisfy major requirements, courses taken inside or outside the department of Computer Science, must be taken for a letter grade."
+  },
+  {
+   "id": "mathematics-courses",
+   "name": "Mathematics Courses",
+   "type": "prereq",
+   "courses": [
+    "MATH 3A",
+    "MATH 3B",
+    "MATH 4A",
+    "MATH 4B",
+    "MATH 6A"
+   ]
+  },
+  {
+   "id": "statistics-and-applied-probability-course",
+   "name": "Statistics and Applied Probability Course",
+   "type": "prereq",
+   "courses": [
+    "PSTAT 120A"
+   ]
+  },
+  {
+   "id": "required-courses",
+   "name": "Required Courses",
+   "type": "required",
+   "courses": [
+    "CMPSC 130A",
+    "CMPSC 130B",
+    "ENGR 101"
+   ]
+  },
+  {
+   "id": "major-field-electives",
+   "name": "Major Field Electives",
+   "type": "elective",
+   "courses": [
+    "CMPSC 111",
+    "CMPSC 132",
+    "CMPSC 134",
+    "CMPSC 138",
+    "CMPSC 140",
+    "CMPSC 148",
+    "CMPSC 153A",
+    "CMPSC 154",
+    "CMPSC 156",
+    "CMPSC 160",
+    "CMPSC 162",
+    "CMPSC 165A",
+    "CMPSC 165B",
+    "CMPSC 170",
+    "CMPSC 171",
+    "CMPSC 172",
+    "CMPSC 174A",
+    "CMPSC 174B",
+    "CMPSC 176A",
+    "CMPSC 176B",
+    "CMPSC 176C",
+    "CMPSC 177",
+    "CMPSC 178",
+    "CMPSC 180",
+    "CMPSC 181",
+    "CMPSC 184",
+    "CMPSC 185",
+    "CMPSC 186",
+    "CMPSC 188",
+    "CMPSC 189A",
+    "CMPSC 189B",
+    "CMPSC 190",
+    "CMPSC 192",
+    "CMPSC 196",
+    "CMPSC 196B",
+    "CNCSP 110",
+    "ECE 130A",
+    "ECE 130B",
+    "ECE 130C",
+    "ECE 152A",
+    "ECE 153A",
+    "ECE 153B",
+    "ECE 160",
+    "ECE 178",
+    "ECE 181",
+    "MATH 108A",
+    "MATH 108B",
+    "MATH 119A",
+    "MATH 119B",
+    "MATH 124A",
+    "MATH 124B",
+    "PSTAT 120B",
+    "PSTAT 122",
+    "PSTAT 130",
+    "PSTAT 160A",
+    "PSTAT 160B"
+   ],
+   "note": "Complete a variable number of courses/units from the following list. Four units maximum from CMPSC 192 and 196 combined; only for students with GPA of 3.0 or higher. CMPSC 196B: Only for students who have met the requirements. Please see department advisor for more information. 14 courses selected from the following list (at least 7 courses must be CMPSC courses).",
+   "options": [
+    [
+     "CNCSP 110"
+    ],
+    [
+     "CMPSC 111"
+    ],
+    [
+     "CMPSC 132"
+    ],
+    [
+     "CMPSC 134"
+    ],
+    [
+     "CMPSC 138"
+    ],
+    [
+     "CMPSC 140"
+    ],
+    [
+     "CMPSC 148"
+    ],
+    [
+     "CMPSC 153A",
+     "ECE 153A"
+    ],
+    [
+     "CMPSC 154"
+    ],
+    [
+     "CMPSC 156"
+    ],
+    [
+     "CMPSC 160"
+    ],
+    [
+     "CMPSC 162"
+    ],
+    [
+     "CMPSC 165A"
+    ],
+    [
+     "CMPSC 165B"
+    ],
+    [
+     "CMPSC 170"
+    ],
+    [
+     "CMPSC 171"
+    ],
+    [
+     "CMPSC 172"
+    ],
+    [
+     "CMPSC 174A"
+    ],
+    [
+     "CMPSC 174B"
+    ],
+    [
+     "CMPSC 176A"
+    ],
+    [
+     "CMPSC 176B"
+    ],
+    [
+     "CMPSC 176C"
+    ],
+    [
+     "CMPSC 177"
+    ],
+    [
+     "CMPSC 178"
+    ],
+    [
+     "CMPSC 180"
+    ],
+    [
+     "CMPSC 181",
+     "ECE 181"
+    ],
+    [
+     "CMPSC 184"
+    ],
+    [
+     "CMPSC 185"
+    ],
+    [
+     "CMPSC 186"
+    ],
+    [
+     "CMPSC 188"
+    ],
+    [
+     "CMPSC 189A"
+    ],
+    [
+     "CMPSC 189B"
+    ],
+    [
+     "CMPSC 190"
+    ],
+    [
+     "CMPSC 192"
+    ],
+    [
+     "CMPSC 196"
+    ],
+    [
+     "CMPSC 196B"
+    ],
+    [
+     "ECE 130A"
+    ],
+    [
+     "ECE 130B"
+    ],
+    [
+     "ECE 130C"
+    ],
+    [
+     "ECE 152A"
+    ],
+    [
+     "ECE 153B"
+    ],
+    [
+     "ECE 160"
+    ],
+    [
+     "ECE 178"
+    ],
+    [
+     "MATH 108A"
+    ],
+    [
+     "MATH 108B"
+    ],
+    [
+     "MATH 119A"
+    ],
+    [
+     "MATH 119B"
+    ],
+    [
+     "MATH 124A"
+    ],
+    [
+     "MATH 124B"
+    ],
+    [
+     "PSTAT 120B"
+    ],
+    [
+     "PSTAT 122"
+    ],
+    [
+     "PSTAT 130"
+    ],
+    [
+     "PSTAT 160A"
+    ],
+    [
+     "PSTAT 160B"
+    ]
+   ]
+  },
+  {
+   "id": "science-electives-list-a",
+   "name": "Science Electives - List A",
+   "type": "elective",
+   "courses": [],
+   "note": "Minimum 8 units. See the Computer Science Department for a list of approved courses."
+  },
+  {
+   "id": "science-electives-list-b",
+   "name": "Science Electives - List B",
+   "type": "elective",
+   "courses": [],
+   "note": "Minimum 12 units. See the Computer Science Department for a list of approved courses."
+  }
+ ]
+}

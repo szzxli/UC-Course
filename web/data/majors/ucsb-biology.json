@@ -1,0 +1,648 @@
+{
+ "campus": "UCSB",
+ "major": "Biological Sciences",
+ "degree": "B.S.",
+ "department": "Department of Ecology, Evolution & Marine Biology; Department of Molecular, Cellular & Develop. Biology",
+ "school": "College of Letters and Science",
+ "source_url": "https://catalog.ucsb.edu/programs/BSBIOSC",
+ "checked": "2026-10-23",
+ "requirements": [
+  {
+   "id": "chemistry-requirement",
+   "name": "Chemistry Requirement",
+   "type": "prereq",
+   "courses": [
+    "CHEM 1A",
+    "CHEM 1AL",
+    "CHEM 1B",
+    "CHEM 1BL",
+    "CHEM 1C",
+    "CHEM 1CL",
+    "CHEM 2A",
+    "CHEM 2AC",
+    "CHEM 2AL",
+    "CHEM 2B",
+    "CHEM 2BC",
+    "CHEM 2BL",
+    "CHEM 2C",
+    "CHEM 2CC"
+   ],
+   "note": "To be admitted to full major status, students must fulfill the pre-biology course and grade-point average requirements as described in the General Catalog and Pre-Biological Sciences Major Sheet . At minimum, they must complete eleven designated courses from the Preparation for the Major with a 2.0 or higher UC grade-point average. Grades earned must meet grade prerequisites for the full major. Notes: Hyphens indicate an entire sequence or combination must be completed as shown to fulfill an area requirement. A single course can satisfy only one requirement.",
+   "options": [
+    [
+     "CHEM 1A",
+     "CHEM 1B",
+     "CHEM 1C",
+     "CHEM 2AL",
+     "CHEM 2BL"
+    ],
+    [
+     "CHEM 1A",
+     "CHEM 1AL",
+     "CHEM 1B",
+     "CHEM 1BL",
+     "CHEM 1C",
+     "CHEM 1CL"
+    ],
+    [
+     "CHEM 2A",
+     "CHEM 2AC",
+     "CHEM 2B",
+     "CHEM 2BC",
+     "CHEM 2C",
+     "CHEM 2CC"
+    ]
+   ]
+  },
+  {
+   "id": "lower-division-biology",
+   "name": "Lower-Division Biology",
+   "type": "prereq",
+   "courses": [
+    "EEMB 2",
+    "EEMB 2LL",
+    "EEMB 3",
+    "MCDB 1A",
+    "MCDB 1B",
+    "MCDB 1LL"
+   ]
+  },
+  {
+   "id": "organic-chemistry-and-labs",
+   "name": "Organic Chemistry and Labs",
+   "type": "prereq",
+   "courses": [
+    "CHEM 6AL",
+    "CHEM 109A",
+    "CHEM 109AH",
+    "CHEM 109B",
+    "CHEM 109BH"
+   ],
+   "options": [
+    [
+     "CHEM 109A",
+     "CHEM 109AH"
+    ],
+    [
+     "CHEM 109B",
+     "CHEM 109BH"
+    ]
+   ]
+  },
+  {
+   "id": "mathematics",
+   "name": "Mathematics",
+   "type": "prereq",
+   "courses": [
+    "MATH 3A",
+    "MATH 3B",
+    "MATH 34A",
+    "MATH 34B"
+   ],
+   "options": [
+    [
+     "MATH 3A",
+     "MATH 3B"
+    ],
+    [
+     "MATH 34A",
+     "MATH 34B"
+    ]
+   ]
+  },
+  {
+   "id": "statistics",
+   "name": "Statistics",
+   "type": "prereq",
+   "courses": [
+    "MATH 4A",
+    "PSTAT 5A",
+    "PSTAT 5LS"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "PSTAT 5A"
+    ],
+    [
+     "PSTAT 5LS"
+    ],
+    [
+     "MATH 4A"
+    ]
+   ]
+  },
+  {
+   "id": "physics",
+   "name": "Physics",
+   "type": "prereq",
+   "courses": [
+    "PHYS 6A",
+    "PHYS 6AL",
+    "PHYS 6B",
+    "PHYS 6BL",
+    "PHYS 6C",
+    "PHYS 6CL"
+   ]
+  },
+  {
+   "id": "a-genetics",
+   "name": "A. Genetics",
+   "type": "required",
+   "courses": [
+    "EEMB 101",
+    "EEMB 129",
+    "EEMB 130",
+    "MCDB 101A",
+    "MCDB 101B"
+   ],
+   "note": "Courses listed in more than one area, may be applied to only one area. Courses listed more than once in Areas A through B1-B6 may be applied to only one area. Courses listed in B7 may also satisfy B1-B6 where listed 48 UD units required, distributed as follows Complete 1 of the following. Complete one of the following course sequences",
+   "options": [
+    [
+     "MCDB 101A",
+     "MCDB 101B"
+    ],
+    [
+     "EEMB 129",
+     "EEMB 130"
+    ],
+    [
+     "EEMB 101",
+     "EEMB 129"
+    ]
+   ]
+  },
+  {
+   "id": "b1-physiology",
+   "name": "B1. Physiology",
+   "type": "required",
+   "courses": [
+    "EEMB 157A",
+    "EEMB 157B",
+    "EEMB 157C",
+    "EEMB 165",
+    "MCDB 111",
+    "MCDB 126",
+    "MCDB 132",
+    "MCDB 151"
+   ],
+   "note": "One course or course sequence from each of the following Complete 1 of the following.",
+   "options": [
+    [
+     "MCDB 111"
+    ],
+    [
+     "MCDB 126"
+    ],
+    [
+     "MCDB 132"
+    ],
+    [
+     "MCDB 151"
+    ],
+    [
+     "EEMB 157A"
+    ],
+    [
+     "EEMB 157B"
+    ],
+    [
+     "EEMB 157C"
+    ],
+    [
+     "EEMB 165"
+    ]
+   ]
+  },
+  {
+   "id": "b2-developmental-and-cell-biology",
+   "name": "B2. Developmental and Cell Biology",
+   "type": "required",
+   "courses": [
+    "MCDB 103",
+    "MCDB 112",
+    "MCDB 118",
+    "MCDB 133",
+    "MCDB 135",
+    "MCDB 146",
+    "MCDB 151",
+    "MCDB 152",
+    "MCDB 153"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "MCDB 103"
+    ],
+    [
+     "MCDB 112"
+    ],
+    [
+     "MCDB 118"
+    ],
+    [
+     "MCDB 133"
+    ],
+    [
+     "MCDB 135"
+    ],
+    [
+     "MCDB 146"
+    ],
+    [
+     "MCDB 151"
+    ],
+    [
+     "MCDB 152"
+    ],
+    [
+     "MCDB 153"
+    ]
+   ]
+  },
+  {
+   "id": "b3-biochemistry-and-molecular-biology",
+   "name": "B3. Biochemistry and Molecular Biology",
+   "type": "required",
+   "courses": [
+    "MCDB 108A",
+    "MCDB 110",
+    "MCDB 126B",
+    "MCDB 133",
+    "MCDB 134",
+    "MCDB W 108A"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "MCDB 108A",
+     "MCDB W 108A"
+    ],
+    [
+     "MCDB 110"
+    ],
+    [
+     "MCDB 126B"
+    ],
+    [
+     "MCDB 133"
+    ],
+    [
+     "MCDB 134"
+    ]
+   ]
+  },
+  {
+   "id": "b4-ecology",
+   "name": "B4. Ecology",
+   "type": "required",
+   "courses": [
+    "EEMB 119",
+    "EEMB 120",
+    "EEMB 128",
+    "EEMB 140",
+    "EEMB 142A",
+    "EEMB 147",
+    "EEMB 148",
+    "EEMB 153",
+    "EEMB 155CC",
+    "EEMB 158",
+    "EEMB 159",
+    "EEMB 168",
+    "EEMB 171",
+    "EEMB 179",
+    "ENV S 128",
+    "ENV S 171"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "EEMB 119"
+    ],
+    [
+     "EEMB 120"
+    ],
+    [
+     "EEMB 128",
+     "ENV S 128"
+    ],
+    [
+     "EEMB 140"
+    ],
+    [
+     "EEMB 142A"
+    ],
+    [
+     "EEMB 147"
+    ],
+    [
+     "EEMB 148"
+    ],
+    [
+     "EEMB 153"
+    ],
+    [
+     "EEMB 155CC"
+    ],
+    [
+     "EEMB 158"
+    ],
+    [
+     "EEMB 159"
+    ],
+    [
+     "EEMB 168"
+    ],
+    [
+     "EEMB 171",
+     "ENV S 171"
+    ],
+    [
+     "EEMB 179"
+    ]
+   ]
+  },
+  {
+   "id": "b5-evolution",
+   "name": "B5. Evolution",
+   "type": "required",
+   "courses": [
+    "EARTH 121",
+    "EARTH 141",
+    "EARTH 148",
+    "EEMB 101",
+    "EEMB 102",
+    "EEMB 109",
+    "EEMB 113",
+    "EEMB 113L",
+    "EEMB 127",
+    "EEMB 130",
+    "EEMB 131",
+    "EEMB 136",
+    "EEMB 136L",
+    "EEMB 137",
+    "EEMB 138",
+    "EEMB 180"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "EEMB 101"
+    ],
+    [
+     "EEMB 102"
+    ],
+    [
+     "EEMB 109",
+     "EARTH 148"
+    ],
+    [
+     "EEMB 113",
+     "EEMB 113L"
+    ],
+    [
+     "EEMB 127"
+    ],
+    [
+     "EEMB 130"
+    ],
+    [
+     "EEMB 131",
+     "EARTH 121"
+    ],
+    [
+     "EEMB 136",
+     "EEMB 136L"
+    ],
+    [
+     "EEMB 137",
+     "EARTH 141"
+    ],
+    [
+     "EEMB 138"
+    ],
+    [
+     "EEMB 180"
+    ]
+   ]
+  },
+  {
+   "id": "b6-biodiversity-and-systematics",
+   "name": "B6. Biodiversity and Systematics",
+   "type": "required",
+   "courses": [
+    "EEMB 103A",
+    "EEMB 106",
+    "EEMB 111",
+    "EEMB 112",
+    "EEMB 113",
+    "EEMB 113L",
+    "EEMB 116",
+    "EEMB 118",
+    "EEMB 127",
+    "EEMB 133",
+    "EEMB 144",
+    "EEMB 144L",
+    "EEMB 145",
+    "EEMB 150A",
+    "EEMB 150B",
+    "EEMB 162",
+    "EEMB 163",
+    "ENV S 133",
+    "MCDB 131",
+    "MCDB 139"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "EEMB 103A"
+    ],
+    [
+     "EEMB 106"
+    ],
+    [
+     "EEMB 111"
+    ],
+    [
+     "EEMB 112"
+    ],
+    [
+     "EEMB 113",
+     "EEMB 113L"
+    ],
+    [
+     "EEMB 116"
+    ],
+    [
+     "EEMB 118"
+    ],
+    [
+     "EEMB 127"
+    ],
+    [
+     "EEMB 133",
+     "ENV S 133"
+    ],
+    [
+     "EEMB 144",
+     "EEMB 144L"
+    ],
+    [
+     "EEMB 145"
+    ],
+    [
+     "EEMB 150A"
+    ],
+    [
+     "EEMB 150B"
+    ],
+    [
+     "EEMB 162"
+    ],
+    [
+     "EEMB 163"
+    ],
+    [
+     "MCDB 131"
+    ],
+    [
+     "MCDB 139"
+    ]
+   ]
+  },
+  {
+   "id": "b7-laboratory",
+   "name": "B7. Laboratory",
+   "type": "required",
+   "courses": [
+    "EARTH 111",
+    "EARTH 111L",
+    "EEMB 103A",
+    "EEMB 106",
+    "EEMB 111",
+    "EEMB 112",
+    "EEMB 113",
+    "EEMB 113L",
+    "EEMB 116",
+    "EEMB 119",
+    "EEMB 127L",
+    "EEMB 136",
+    "EEMB 136L",
+    "EEMB 138",
+    "EEMB 140L",
+    "EEMB 142AL",
+    "EEMB 142BL",
+    "EEMB 142CL",
+    "EEMB 144",
+    "EEMB 144L",
+    "EEMB 150A",
+    "EEMB 157C",
+    "EEMB 170",
+    "EEMB 180",
+    "MCDB 101L",
+    "MCDB 103L",
+    "MCDB 112L",
+    "MCDB 126AL",
+    "MCDB 126BL",
+    "MCDB 131L",
+    "MCDB 132L",
+    "MCDB 133L",
+    "MCDB 140L"
+   ],
+   "note": "Complete 1 of the following. Courses listed in this Area and in Areas B1-B6, will also satisfy the area it is originally listed in. Either a select lab course from sections 1-6 above or one of the following MAJOR REGULATIONS PREREQUISITES Check the General Catalog for the prerequisites to all listed courses. P/NP GRADING OPTION Not allowed for major courses (prep or UD), including courses applied to the major from other departments, except up to 8 units of courses that do not allow letter grades. SUBSTITUTIONS In the major requirements permissible only by petition to the department chair and dean. G.P.A REQUIREMENTS At least 2.0 overall UC average in all upper-division major courses and all courses (Prep and UD) for the major. DOUBLE MAJORS With the approval of each department chairperson, up to a total of 8 units may be applied simultaneously to both UD majors.",
+   "options": [
+    [
+     "MCDB 101L"
+    ],
+    [
+     "EEMB 103A"
+    ],
+    [
+     "MCDB 103L"
+    ],
+    [
+     "EEMB 106"
+    ],
+    [
+     "EEMB 111"
+    ],
+    [
+     "EEMB 112"
+    ],
+    [
+     "MCDB 112L"
+    ],
+    [
+     "EEMB 113",
+     "EEMB 113L"
+    ],
+    [
+     "EEMB 116"
+    ],
+    [
+     "EEMB 119"
+    ],
+    [
+     "MCDB 126AL"
+    ],
+    [
+     "MCDB 126BL"
+    ],
+    [
+     "MCDB 131L"
+    ],
+    [
+     "MCDB 132L"
+    ],
+    [
+     "MCDB 133L"
+    ],
+    [
+     "EEMB 136",
+     "EARTH 111"
+    ],
+    [
+     "EEMB 136L",
+     "EARTH 111L"
+    ],
+    [
+     "EEMB 138"
+    ],
+    [
+     "MCDB 140L"
+    ],
+    [
+     "EEMB 144",
+     "EEMB 144L"
+    ],
+    [
+     "EEMB 127L"
+    ],
+    [
+     "EEMB 140L"
+    ],
+    [
+     "EEMB 142AL"
+    ],
+    [
+     "EEMB 142BL"
+    ],
+    [
+     "EEMB 142CL"
+    ],
+    [
+     "EEMB 150A"
+    ],
+    [
+     "EEMB 157C"
+    ],
+    [
+     "EEMB 170"
+    ],
+    [
+     "EEMB 180"
+    ]
+   ]
+  }
+ ]
+}

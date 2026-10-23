@@ -11,6 +11,7 @@
     "added": "{code} added ({n} courses)",
     "campusUCI": "UC Irvine · 5,843 courses",
     "campusUCSD": "UC San Diego · 6,761 courses",
+    "campusUCSB": "UC Santa Barbara · 13,555 courses",
     "detail": "Details",
     "hint2chars": "Type at least 2 characters to search",
     "loadFail": "Failed to load data",
@@ -28,9 +29,9 @@
     "overlapHint": "Counts for both majors"
   },
   "index": {
-    "campusHint": "v0.1 covers two campuses: UCI and UCSD (course data loaded).",
+    "campusHint": "v0.2 covers three campuses: UCI, UCSD and UCSB (course data loaded).",
     "campusTitle": "🏫 Your campus",
-    "footnote": "v0.1: course search + prerequisite scheduling. UCLA/UCB/UCSB data pipelines in progress.",
+    "footnote": "v0.2: course search + prerequisite scheduling. UCLA/UCB data pipelines in progress.",
     "go": "Start picking courses →",
     "goalHint": "The same major calls for very different course strategies for grad school vs. employment. Pick one and the planner will tailor its advice.",
     "goalTitle": "🎯 Pick a goal first",
@@ -208,6 +209,7 @@
     "searchPh": "Search, e.g. MATH 1A",
     "noCourse": "No matching courses",
     "loadFail": "Failed to load data, try again",
+    "noData": "Transfer credit mapping for this campus is not available yet.",
     "import": "{n} selected",
     "importGo": "Import as completed →",
     "backTitle": "Not transferred yet?",

@@ -1,0 +1,172 @@
+{
+ "campus": "UCSB",
+ "major": "Mathematics",
+ "degree": "B.S.",
+ "department": "Department of Mathematics",
+ "school": "College of Letters and Science",
+ "source_url": "https://catalog.ucsb.edu/programs/BSMATH",
+ "checked": "2026-10-23",
+ "requirements": [
+  {
+   "id": "calculus",
+   "name": "Calculus",
+   "type": "prereq",
+   "courses": [
+    "MATH 2A",
+    "MATH 2B",
+    "MATH 3A",
+    "MATH 3B"
+   ],
+   "note": "To be admitted to full major status, students must complete the following pre-major Mathematics courses with a UC grade-point average of 2.5 or higher. All pre-major courses must be completed with a grade of “C” or better. Preparation courses are excluded from the pre-major GPA, but will apply to the overall major GPA. Entry into the pre-major does not guarantee admission to full major status. While completing required preparation, students are classified as pre-majors.",
+   "options": [
+    [
+     "MATH 2A",
+     "MATH 2B"
+    ],
+    [
+     "MATH 3A",
+     "MATH 3B"
+    ]
+   ]
+  },
+  {
+   "id": "linear-algebra-and-differential-equations",
+   "name": "Linear Algebra and Differential Equations",
+   "type": "prereq",
+   "courses": [
+    "MATH 4A",
+    "MATH 4B"
+   ],
+   "note": "Either Math 4A, 4B, 6A, or 6B must be completed with a grade of “B” or better in order to take Math 8."
+  },
+  {
+   "id": "vector-calculus",
+   "name": "Vector Calculus",
+   "type": "prereq",
+   "courses": [
+    "MATH 6A",
+    "MATH 6B"
+   ],
+   "note": "Either Math 4A, 4B, 6A, or 6B must be completed with a grade of “B” or better in order to take Math 8."
+  },
+  {
+   "id": "higher-mathematics",
+   "name": "Higher Mathematics",
+   "type": "prereq",
+   "courses": [
+    "MATH 8"
+   ]
+  },
+  {
+   "id": "computer-programming",
+   "name": "Computer Programming",
+   "type": "prereq",
+   "courses": [
+    "CMPSC 8",
+    "CMPSC 9",
+    "CMPSC 16",
+    "ENGR 3"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "CMPSC 8"
+    ],
+    [
+     "CMPSC 9"
+    ],
+    [
+     "CMPSC 16"
+    ],
+    [
+     "ENGR 3"
+    ]
+   ]
+  },
+  {
+   "id": "physics",
+   "name": "Physics",
+   "type": "prereq",
+   "courses": [
+    "PHYS 1",
+    "PHYS 6A",
+    "PHYS 7A",
+    "PHYS 21"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "PHYS 1"
+    ],
+    [
+     "PHYS 6A"
+    ],
+    [
+     "PHYS 7A"
+    ],
+    [
+     "PHYS 21"
+    ]
+   ]
+  },
+  {
+   "id": "upper-division-major",
+   "name": "UPPER-DIVISION MAJOR",
+   "type": "required",
+   "courses": [
+    "MATH 108A",
+    "MATH 108B",
+    "MATH 111A",
+    "MATH 111B",
+    "MATH 117",
+    "MATH 118A",
+    "MATH 118B",
+    "MATH 122A"
+   ],
+   "note": "With an advisor’s approval, 4 of the 52 UD units may be non-mathematics courses taken as part of a coherent mathematics program. Note: The following courses will NOT apply to the major: Math 100A-B, 193, 195A-B; PSTAT 109, 188, 190, 193."
+  },
+  {
+   "id": "upper-division-major-2",
+   "name": "UPPER-DIVISION MAJOR",
+   "type": "required",
+   "courses": [
+    "MATH 111C",
+    "MATH 118C"
+   ],
+   "note": "Complete one of the following.",
+   "options": [
+    [
+     "MATH 111C"
+    ],
+    [
+     "MATH 118C"
+    ]
+   ]
+  },
+  {
+   "id": "upper-division-major-3",
+   "name": "UPPER-DIVISION MAJOR",
+   "type": "required",
+   "courses": [
+    "MATH 145",
+    "MATH 147A"
+   ],
+   "note": "Complete one of the following.",
+   "options": [
+    [
+     "MATH 145"
+    ],
+    [
+     "MATH 147A"
+    ]
+   ]
+  },
+  {
+   "id": "upper-division-electives",
+   "name": "Upper-Division Electives",
+   "type": "elective",
+   "courses": [],
+   "note": "Minimum 12 units. Course list is defined as a catalog course set; see the official program page for the courses in this area. MAJOR REGULATIONS PREREQUISITES Check the General Catalog for the prerequisites to all listed courses. P/NP GRADING OPTION Not allowed for major courses (prep or UD major), including courses applied to the major from other departments. SUBSTITUTIONS In the major requirements permissible only by petition to the department chair and dean. G.P.A REQUIREMENTS At least 2.0 overall UC average in all upper-division major courses and all courses (Prep and UD) for the major. DOUBLE MAJORS With the approval of each department chairperson, up to a total of 8 units may be applied simultaneously to both UD majors."
+  }
+ ]
+}
