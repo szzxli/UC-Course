@@ -1,0 +1,304 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 199",
+  "title": "Independent Studies in Economics",
+  "units": "0",
+  "description": "Coursework shall consist of academic research supervised by a faculty member. This course is not intended for internships.",
+  "prerequisites_raw": "Upper-division standing in the major; 3.0 UD major GPA and 3.0 GPA in preceding 3 quarters; completion of 2 upper-division courses in Economics; consent of department and instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 199RA",
+  "title": "Independent Research in Economics",
+  "units": "0",
+  "description": "Course work shall consist of faculty supervised research.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Economics; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 204A",
+  "title": "Macroeconomic Theory",
+  "units": "4",
+  "description": "Introduction to modern macroeconomics. Study of economic growth and dynamic optimization. Representative agent, overlapping generations and monetary models will be covered.",
+  "prerequisites_raw": "Economics 210A-B.",
+  "prerequisites_courses": [
+   "ECON 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 204B",
+  "title": "Macroeconomic Theory",
+  "units": "4",
+  "description": "Introduction to dynamic programming. Arrow-Debreu Equilibria, Sequences of Market Equilibria, Recursive Competitive Equilibria. First and second welfare theorems. Real Business Cycles.",
+  "prerequisites_raw": "Economics 204A.",
+  "prerequisites_courses": [
+   "ECON 204A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 204C",
+  "title": "Macroeconomic Theory",
+  "units": "4",
+  "description": "Focus on frictional economics. Topics to include: economies with incomplete markets, private information, search and matching.",
+  "prerequisites_raw": "Economics 204B.",
+  "prerequisites_courses": [
+   "ECON 204B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 205A",
+  "title": "Microeconomic Theory I",
+  "units": "4",
+  "description": "Presents the basic concepts of Microeconomics with a focus on applications. It covers consumer theory, including choice under uncertainty, intertemporal choice, market equilibrium, and information technology.",
+  "prerequisites_raw": "Masters level student standing and knowledge of differential calculus and economic theory. Economics 10A, Economics 100B, Economics 101 and/or equivalent courses.",
+  "prerequisites_courses": [
+   "ECON 10A",
+   "ECON 100B",
+   "ECON 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 205B",
+  "title": "Microeconomic Theory II",
+  "units": "4",
+  "description": "Presents the basic concepts of microeconomics with a focus on applications. It covers producer theory, market structures, asymmetric information, strategic decision making, externalities, and public goods.",
+  "prerequisites_raw": "Masters level student standing and completion of Economics 205A.",
+  "prerequisites_courses": [
+   "ECON 205A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 207A",
+  "title": "COMP ECONOMIC SYSTE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 207B",
+  "title": "COMP ECONOMIC SYSTE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 208",
+  "title": "Topics in Macroeconomic Theory and Policy",
+  "units": "4",
+  "description": "Keynesian, New-Classical, and New-Keynesian theory of income determination,and policy prescriptions thereof. Additional topics include rational expectations and policy effectiveness, introduction to the intertemporal approach in macroeconomics, modern business cycle theory, and theory and evidence on economic growth.",
+  "prerequisites_raw": "Economics 100A-B and 101, or equivalent.",
+  "prerequisites_courses": [
+   "ECON 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 210A",
+  "title": "Theory of Consumption and Production",
+  "units": "4",
+  "description": "Constrained optimization; consumer theory and theory of the firm; uncertainty, risk and expected utility.",
+  "prerequisites_raw": "Mathematics 3A-B-C; and, Economics 104A-B, or Economics 205A-B.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "ECON 205A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 210B",
+  "title": "Game Theory",
+  "units": "4",
+  "description": "Non-cooperative and cooperative game theory; bargaining and auctions; topics in asymmetric information including adverse selection, signaling and screening.",
+  "prerequisites_raw": "Mathematics 3A-B-C; and Economics 104A-B, or Economics 205A-B.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "ECON 205A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 210C",
+  "title": "Markets and Incentives",
+  "units": "4",
+  "description": "Partial and general equilibrium of competitive and non-competitive markets. Topics to include uncertainty; welfare theorems for competitive markets; imperfect competition; externalities and public goods.",
+  "prerequisites_raw": "Economics 210A-B.",
+  "prerequisites_courses": [
+   "ECON 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 213",
+  "title": "American Economic History",
+  "units": "4",
+  "description": "Issues in American economic history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 214A",
+  "title": "Economic Growth and Economic Development",
+  "units": "2",
+  "description": "This course introduces several of the main economic issues that developing countries confront today. The primary focus is on understanding macroeconomic aspects of economic growth through traditional economic growth models. The class examines the theoretical foundations of these models but also examines their validity using relevant data and empirical tests.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 214B",
+  "title": "Beyond Economic Growth",
+  "units": "2",
+  "description": "This course introduces a macroeconomic analysis of demographic changes and changes in the economic structure during the process of economic development. Topics include the demographic transition; the shift from agrarian to industrial economies, including the rise of the service sector; and a macroeconomic analysis of economic growth and income inequality.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 214C",
+  "title": "Behavioral Development Economics",
+  "units": "2",
+  "description": "This course applies theories from behavioral economics to questions related to poverty, inequality and economic development, and asks whether the behavioral economics of poverty and development is different. The course emphasizes the use of empirical designs including field experiments, applied econometric methods and structural estimation to test theory.",
+  "prerequisites_raw": "Second year PhD in Economics graduate student standing, or Second year in Bren PhD EES student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215A",
+  "title": "Mechanism Design",
+  "units": "2",
+  "description": "Studies how to design economic mechanisms or incentives to achieve desired objectives. Topics include: the revelation principle, dominant-strategy mechanisms, Bayesian mechanism design, Gibbard-Satterhwaite theorem, robust mechanism design, and dynamic mechanism design.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215B",
+  "title": "Bounded Rationality",
+  "units": "2",
+  "description": "Studies the behavior of individuals who face limits to their thinking capacity. Topics include: decision theory, costly information acquisition and processing, bounded memory, and bounded rationality in games.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215C",
+  "title": "Repeated Games",
+  "units": "2",
+  "description": "Presents the theoretical basis for the study of repeated strategic interactions. Topics include: games with perfect monitoring, dynamic and stochastic games, games with imperfect public monitoring, games with private monitoring, reputations with short-lived players, reputations with long-lived players, and experimental evidence.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215D",
+  "title": "Contract Theory",
+  "units": "2",
+  "description": "Studies how economic actors construct contractual arrangements in the presence of asymmetric information. Topics include: hidden information (signaling), hidden action (moral hazard), disclosure of private certifiable information, multilateral asymmetric information, repeated bilateral contracting, incomplete contracts, and experimental evidence.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215E",
+  "title": "Auction Theory",
+  "units": "2",
+  "description": "Analysis of how economic agents behave in auction markets and properties of auction markets. Topics include: private value auctions, revenue equivalence principle, auctions with interdependent values, the revenue ranking principle, bidding rings, multiple object auctions, and common value auctions.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215F",
+  "title": "Network Theory",
+  "units": "2",
+  "description": "Introduction to the theoretical analysis of social networks. Topics include: representing and measuring networks, models of network formation, strategic network formation, diffusion through networks, learning and networks, game-theoretic modeling of network formation, and observing and measuring social interaction.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215G",
+  "title": "Learning in Games",
+  "units": "2",
+  "description": "Studies how economic agents interacting strategically evolve to reach equilibrium outcomes as they learn features of the environment. Topics include: fictitious play, replicator dynamics, stochastic fictitious play, self-confirming equilibrium, large population models, sophisticated learning, economic models of social learning.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215H",
+  "title": "Behavioral Economics",
+  "units": "2",
+  "description": "Studies the effects of psychological, social, cognitive and emotional factors on economic decisions of individuals and institutions and the consequences for market prices and the allocation of resources. Topics include: values, preferences and choices, beliefs, heuristics and biases, prospect theory, decision making under risk and uncertainty, mental accounting, hyperbolic discounting, and social preferences.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215I",
+  "title": "Bargaining Theory",
+  "units": "2",
+  "description": "Studies the behavior of agents who must reach an agreement on how to distribute an object or a monetary amount. Topics include: Non-Cooperative game theory of bargaining, Rubinstein-Stahl bargaining, Baron-Ferejohn bargaining, irreversible agreements, reversible agreements, cooperative game theory and bargaining, Shapley value, Nash bargaining.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 215J",
+  "title": "Learning with Misspecified Models",
+  "units": "2",
+  "description": "Studies the behavior of individuals who make repeated decisions while simultaneously learning about their environment. Considers the possibility that the individuals learn using misspecified models. Topics include: Bayesian and non-Bayesian learning, Bandit problems, Markov decision processes, and the extensions to strategic settings with multiple agents.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 216A",
+  "title": "Organization of Industry",
+  "units": "4",
+  "description": "Theoretical and empirical analyses of \"imperfect\" competition. Individual or firm optimization and market equilibrium are considered. Topics include oligopoly, monopolistic competition, information, determinants of market structure, complex pricing, vertical relations. Antitrust, regulatory, and government ownership policies will be examined.",
+  "prerequisites_raw": "2nd Year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ }
+]

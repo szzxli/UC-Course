@@ -1,0 +1,282 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 274",
+  "title": "Neurally Inspired Computing Systems",
+  "units": "4",
+  "description": "Basic understanding of computational principles and information coding in biological brains; biologically plausible neural and synaptic models; neutrally inspired network architectures, learning mechanisms, and training algorithms; hardware architectures and circuits for supporting efficient neutrally inspired learning.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 275",
+  "title": "From Statistical Mechanics to Quantum Computing: A Unified View",
+  "units": "4",
+  "description": "This course intertwines Statistical Mechanics, Probabilistic Graph Models, and Quantum Computing, starting with Boltzmann Law. It delves into machine learning, emphasizing Boltzmann Machines, progressing to quantum computation. This curriculum bridges statistical Machine Learning and Quantum Computing, offering a physics-based perspective.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 276",
+  "title": "Geometric AI: Equivariant, Topological and Geometric Deep Learning",
+  "units": "4",
+  "description": "Introduces students to the extensions of deep learning that analyze complex geometric data types, such as graphs, meshes, shapes, and deformations. We present equivariant, geometric, and topological deep learning to uncover the unifying, geometric principles of artificial intelligence.",
+  "prerequisites_raw": "Knowledge of linear algebra, machine learning, deep learning, and python.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 277",
+  "title": "Pattern Recognition",
+  "units": "4",
+  "description": "Principles and design of pattern recognition systems. Statistical classifiers: discriminant functions; bayes, minimum risk, k-nearest neighbors, perceptrons. Clustering and estimation; criteria; k-means, fuzzy, hierarchal, graph-theoretic, simulated and determininstic annealing; maximum likelihood and bayesian methods: nonparametric methods. Overview of applications.",
+  "prerequisites_raw": "ECE 130C and 139.",
+  "prerequisites_courses": [
+   "ECE 130C",
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 278A",
+  "title": "Digital Image Processing",
+  "units": "4",
+  "description": "Two-dimensional signals and systems. Two-dimension al fourier and z-transforms. Discrete fourier transform, two-dimensional digital filters. Image processing basics, image enhancement and restoration. Special image processing software available for laboratory experimentation.",
+  "prerequisites_raw": "ECE 158 or ECE 178.",
+  "prerequisites_courses": [
+   "ECE 158",
+   "ECE 178"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 278B",
+  "title": "Principles of Biological Microscopy",
+  "units": "4",
+  "description": "Introduction to image acquisition, digital processing and analysis for biological microscopy. Design of modern optical microscopes, Fourier optics, point spread function and resolution, fluorescence principles and applications, spectral unmixing, colocalization, deconvolution, coherent imaging, and super-resolution. Hands-on computer assignments.",
+  "prerequisites_raw": "ECE 158 or ECE 178 or consent of instructor.",
+  "prerequisites_courses": [
+   "ECE 158",
+   "ECE 178"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 278C",
+  "title": "Imaging Systems",
+  "units": "4",
+  "description": "Generalized holography, backward techniques, resolution limit, x-ray tomography, diffraction tomography, NMR imaging, synthetic-aperture radar, active sonar imaging, acoustic microscopy, imaging algorithms, motion estimation and tracking.",
+  "prerequisites_raw": "ECE 158 and 178.",
+  "prerequisites_courses": [
+   "ECE 158",
+   "ECE 178"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 279",
+  "title": "Computer System Performance Evaluation",
+  "units": "4",
+  "description": "Overview of the evaluation of computer system performance. Measurement, simulation, and analytic techniques for performance analysis. System work load characterization. Examples of performance evaluation for system selection, tuning, and design. Evaluation of program performance.",
+  "prerequisites_raw": "ECE 139, ECE 154A, and Computer Science 170.",
+  "prerequisites_courses": [
+   "ECE 139",
+   "ECE 154A",
+   "CMPSC 170"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 281",
+  "title": "Advanced Topics in Computer Vision",
+  "units": "4",
+  "description": "Topics in Computer Vision, including imaging and multi-view geometry; image and video segmentation; object detection, localization, and recognition; video activity recognition; machine learning models and methods applied to computer vision.",
+  "prerequisites_raw": "ECE OR CMPSC 181.",
+  "prerequisites_courses": [
+   "CMPSC 181"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 281B",
+  "title": "Advanced Topics in Computer Vision",
+  "units": "4",
+  "description": "Advanced topics in computer vision: image sequence analysis, spatio- temporal filtering, camera calibration and hand-eye coordination, robot navigation, shape representation, physically-based modeling, regularization theory, multi- sensory fusion, biological models, expert vision systems, and other topics selected from recent research papers.",
+  "prerequisites_raw": "ECE OR CMPSC 181.",
+  "prerequisites_courses": [
+   "CMPSC 181"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 282",
+  "title": "Error Correcting Codes",
+  "units": "4",
+  "description": "Principles and techniques for combating channel errors in data transmission or storage. Introduction to galois fields. Linear blockcodes (particularly hamming, BCH, reed-solomon). Convolutional codes. Encoding and decoding algorithms (including spectral methods, maximum likelihood and viterbi decoding.)",
+  "prerequisites_raw": "ECE 130C or ECE 139.",
+  "prerequisites_courses": [
+   "ECE 130C",
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 283",
+  "title": "MACHINE LEARNING: A SIGNAL PROCESSING PERSPECTIVE",
+  "units": "4",
+  "description": "Machine learning algorithms from a signal processing viewpoint; unsupervised learning (K-means, deterministic annealing, EM algorithm); supervised learning (Support Vector Machines, neural networks); regression; Bayesian inference and tracking using Markov chain Monte Carlo and sequential Monte Carlo (particle filter) techniques.",
+  "prerequisites_raw": "ECE 235.",
+  "prerequisites_courses": [
+   "ECE 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 284",
+  "title": "THEORETICAL MACHINE LEARNING",
+  "units": "4",
+  "description": "This course studies the mathematical foundations of machine learning, and focuses on understanding the trade-offs between statistical accuracy, scalability, and computation efficiency of distributed machine learning and optimization algorithms. Topics include empirical risk, convexity in learning, convergence analysis of gradient descent algorithm, stochastic gradient descent, neural networks, and reinforcement learning.",
+  "prerequisites_raw": "ECE 235 or equivalent.",
+  "prerequisites_courses": [
+   "ECE 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 285",
+  "title": "ADVANCED IMAGE SYNTHESIS",
+  "units": "4",
+  "description": "Theory and design of rendering systems for high-end image synthesis and modeling physically-based light transport. Topics include REYES-style architectures, Monte Carlo algorithms, variance reduction methods, path tracing, photon mapping, reflection and volumetric light transport. Students must have good software engineering skills.",
+  "prerequisites_raw": "Computer Graphics desired but not necessary",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 289",
+  "title": "INTRODUCTION TO ROBOTICS: DYNAMICS AND CONTROL",
+  "units": "5",
+  "description": "Dynamic modeling and control methods for robotic systems. Lagrangian method for deriving equations of motion, introduction to the Jacobian, and modeling and control of forces and contact dynamics at a robotic end effector. Laboratories encourage a problem-solving approach to control.",
+  "prerequisites_raw": "ECE 130A or ME 155A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ME 155A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 295",
+  "title": "Group Studies: Controls, Dynamical Systems, and Computation",
+  "units": "1",
+  "description": "A series of weekly lectures given by university staff and outside experts in the fields of control systems, dynamical systems, and computation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 493",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Offered in conjunction with engineering practice in selected industrial and research firms, under direct faculty supervision.",
+  "prerequisites_raw": "Prior departmental approval needed. ECE majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 502",
+  "title": "Teaching of Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Procedures and techniques for teaching electrical engineering or computer engineering gained through actual teaching of lecture courses, leading discussion sections, and/or teaching engineering laboratories. Meetings will be held as needed to discuss problems, methods, and procedures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594A",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: a. circuits.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594AA",
+  "title": "Micro-Electro-Mechanical Systems",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594B",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594BB",
+  "title": "Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594C",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: c. communication systems.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594CC",
+  "title": "Special Topics in ECE Photonics",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ }
+]

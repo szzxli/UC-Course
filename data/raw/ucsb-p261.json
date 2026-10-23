@@ -1,0 +1,304 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 169B",
+  "title": "African American History",
+  "units": "4",
+  "description": "Surveys African American history from the end of Reconstruction in 1877 to the present. The course emphasizes struggles for economic justice as well as civil rights, examining both key movement leaders and lesser-know activists and grassroots organizations. Topics include labor and labor organizing, policing and mass incarceration, segregation and housing discrimination, politics and political activism, and health and welfare.",
+  "prerequisites_raw": "ANY LOWER-DIVISION COURSE IN HISTORY OR BLACK STUDIES, OR UPPER-DIVISION STANDING.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 169M",
+  "title": "History of Afro-American Thought",
+  "units": "4",
+  "description": "Study of the development of Afro-American thought from the 1860's to the 1960's as reflected in intellectual and popular media.",
+  "prerequisites_raw": "History 169AR or 169BR or 169CR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 169R",
+  "title": "Research Topics in African American and African Diaspora History",
+  "units": "4",
+  "description": "This course is designed to give students an opportunity to write a research paper on a topic in African American and/or African Diaspora history using primary sources. Though you will work independently to conduct your research and write your paper, you will also edit the work of your writing partner, and work collaboratively together in class to discuss research and writing approaches.",
+  "prerequisites_raw": "HIST 9 or HIST 169B or HIST 142S or HIST 149H or HIST 149IA and other relevant courses with instructor approval.",
+  "prerequisites_courses": [
+   "HIST 9",
+   "HIST 169B",
+   "HIST 142S",
+   "HIST 149H",
+   "HIST 149IA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 169S",
+  "title": "Slavery and Black Culture in U.S. Literature",
+  "units": "4",
+  "description": "An examination of novels dealing with historical issues including slavery, racial discrimination, and Black culture in the U.S. Works of Mark Twain, Ishmael Reed, Toni Morrison, Zora Neale Hurston, Chester Himes, and James Baldwin to be discussed.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 170A",
+  "title": "A History of Social Policy in the United States",
+  "units": "4",
+  "description": "Study of the indentification, formation, and consequences of social policy in the United States over the past 200 years. Policies toward poverty, civil rights, family and population, health, education, crime, religion, and urban development are studied, among others.",
+  "prerequisites_raw": "History 7 or 17A or 17B or 17C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 7",
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 170B",
+  "title": "A History of Social Policy in the United States",
+  "units": "4",
+  "description": "Study of the identification formation, and consequences of social policy inthe U.S. over the past 200 years. Policies toward poverty, civil rights, family and population, health, education, crime, religion, and urban development are studied, among others.",
+  "prerequisites_raw": "History 7 or 17A or 17B or 17C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 7",
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 171C",
+  "title": "The United States and the World, 1898-1945",
+  "units": "4",
+  "description": "Analysis of developments in foreign affairs in first half of twentieth century. Formation and execution of foreign policy; interaction between foreign and domestic affairs.",
+  "prerequisites_raw": "A previous history course or upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 171D",
+  "title": "The United States and the World Since 1945",
+  "units": "4",
+  "description": "Analysis of developments in foreign affairs after 1945. Formation and execution of foreign policy; interaction between foreign and domestic affairs.",
+  "prerequisites_raw": "a previous history course or upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 171ME",
+  "title": "The United States and the Middle East Since 1900",
+  "units": "4",
+  "description": "Analysis of developments in US involvement in the Middle East since 1900. Formation and execution of US foreign policy toward the region: interaction between US foreign and domestic affairs; perceptions and actions of nations and peoples of the Middle East.",
+  "prerequisites_raw": "A previous history course or upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 171Q",
+  "title": "Readings and Discussions on Cold War History",
+  "units": "4",
+  "description": "The theory and practice of American foreign policy toward the Communist bloc during the era of the cold war, or approximately 1945 to 1989. The course revolves around a dialogue between students and instuctor based on written analyses of the literature.",
+  "prerequisites_raw": "History 171B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 171R",
+  "title": "Undergraduate Research Seminar in American Diplomacy and Politics",
+  "units": "4",
+  "description": "Focuses on training in historical research methods. Requires a paper on some aspect of American history, most likely in the areas of diplomacy and politics, chosen jointly by the student and the instructor. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 17C or 166C or 171C or 171D or 171ME and upper division standing",
+  "prerequisites_courses": [
+   "HIST 17C",
+   "HIST 166C",
+   "HIST 171C",
+   "HIST 171D",
+   "HIST 171ME"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 172A",
+  "title": "Politics and Public Policy in the United States",
+  "units": "4",
+  "description": "The interaction of politics and public policy from the revolution to the present, focusing upon the key issues of each era in social, economic, cultural, racial, and other policy areas. A particular concern for the policy-making process, ideology, and the cultural origins of politics.",
+  "prerequisites_raw": "History 7, or any two quarters of History 17A-B-C, or upper-division standi",
+  "prerequisites_courses": [
+   "HIST 7",
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 172B",
+  "title": "Politics and Public Policy in the United States",
+  "units": "4",
+  "description": "The interaction of politics and public policy from the revolution to the present, focusing upon the key issues of each era in social, economic, cultural, racial, and other policy areas. A particular concern for the policy-making process, ideology, and the cultural origins of politics.",
+  "prerequisites_raw": "History 7, or any two quarters of History 17A-B-C, or upper-division standi",
+  "prerequisites_courses": [
+   "HIST 7",
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 173C",
+  "title": "AMER ENVIRON HIST",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 173T",
+  "title": "American Environmental History",
+  "units": "4",
+  "description": "Traces the history of American attitudes and behavior toward nature. Focus on wilderness, the conservation movement, and modern forms of environmentalism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 174A",
+  "title": "Wealth and Poverty in America",
+  "units": "4",
+  "description": "Changing patterns and conceptions of inequality, seventeenth century to present. Examines influence of economic transformation, race, gender, class, attitudes towards work and welfare, social movements, social knowledge, law and public policy on opportunity, income, status, and power.Divides at Civil War and World War II.",
+  "prerequisites_raw": "History 17A, B, or C, or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 174B",
+  "title": "Wealth and Poverty in America",
+  "units": "4",
+  "description": "Changing patterns and conceptions of inequality, seventeenth century to present. Examines influence of economic transformation, race, gender, class, attitudes towards work and welfare, social movements, social knowledge, law and public policy on opportunity, income, status, and power.Divides at Civil War and World War II.",
+  "prerequisites_raw": "History 17A, B, or C, or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 174C",
+  "title": "Wealth and Poverty in America",
+  "units": "4",
+  "description": "Changing patterns and conceptions of inequality, seventeenth century to present. Examines influence of economic transformation, race, gender, class, attitudes towards work and welfare, social movements, social knowledge, law and public policy on opportunity, income, status, and power.Divides at Civil War and World War II.",
+  "prerequisites_raw": "History 17A, B, or C, or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 174Q",
+  "title": "Capstone Seminar in Poverty, Inequality, and Social Justice",
+  "units": "4",
+  "description": "Capstone seminar for the Minor in Poverty, Inequality, and Social Justice. Students participate in structured discussion and in-depth reflection of the knowledge acquired through interdisciplinary coursework and internship experiences, to produce a final paper, series of essays or policy briefs, and/or other kinds of creative products in consultation with the course instructor. Students will present their work at a public symposium, providing an opportunity to hone their public speaking skills, while contributing to community understanding of how poverty and inequality can be addressed through purposive social research and action.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 174R",
+  "title": "Undergraduate Research Seminar in Wealth and Poverty in America",
+  "units": "4",
+  "description": "A research seminar for undergraduate students who wish to pursue independent research on social class in America, lives of rich and poor, economic and social policy, the rise and present controversy over the welfare state and related questions. An original and substantial research paper is required.",
+  "prerequisites_raw": "Hist 174A or 174B or 165 or 166A or 166B or 166C or 167CB or 178A or 178B or upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 175A",
+  "title": "American Cultural History",
+  "units": "4",
+  "description": "A study of dominant and alternative representations of American values and identity in high and popular culture.",
+  "prerequisites_raw": "A previous course in History.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 175B",
+  "title": "American Cultural History",
+  "units": "4",
+  "description": "A study of dominant and alternative representations of American values and identity in high and popular culture.",
+  "prerequisites_raw": "A previous course in History.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 175C",
+  "title": "AMER CULT HISTORY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 175D",
+  "title": "American Family History",
+  "units": "4",
+  "description": "Examines how race, ethnicity, and class have shaped changing attitudes toward and experiences of sex roles, sexuality, child rearing, work patterns, and relationships among men, women, and children. Also explores changing conceptions of the state's role in family life.",
+  "prerequisites_raw": "History 17A or 17B or 17C.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 175R",
+  "title": "Undergraduate Research Seminar in American Consumer Culture",
+  "units": "4",
+  "description": "Research seminar that examines the history of consumption and consumer cultures in the United States. Students will conduct historical research in a seminar context, using both primary and secondary sources, to produce an original research paper.",
+  "prerequisites_raw": "History 175A or 175B or 175D or a previous course in History and upper division standing.",
+  "prerequisites_courses": [
+   "HIST 175A",
+   "HIST 175B",
+   "HIST 175D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 176A",
+  "title": "The American West",
+  "units": "4",
+  "description": "The west as a frontier and as a region, in transit from the Atlantic seaboard to the Pacific, and from the seventeenth century to the present.",
+  "prerequisites_raw": "Any lower-division course in History or upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 177",
+  "title": "Comparative Environmental Politics",
+  "units": "4",
+  "description": "Course is structured around the major issues in environmental politics, for example: global warming, nuclear waste, deforestation, and chemical pollution. The roles of economics, technology and social organization are each considered as explanatory variables for understanding environmental problems.",
+  "prerequisites_raw": "Environmental Studies 1 or Political Science 6",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 178",
+  "title": "Politics of the Environment",
+  "units": "4",
+  "description": "Analysis of environmental policy issues and their treatment in the political process. Discussion of the interplay of substantive issues, ideology, institutions, and private groups in the development, management, protection, and preservation of natural resources and the natural environment.",
+  "prerequisites_raw": "Political Science 12 or Environmental Studies 3; upper-division standing.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 179",
+  "title": "Natural Resource Economics",
+  "units": "4",
+  "description": "Theory and capital theory applied to problems of conservation and management of natural resources. Analysis of public policy with special emphasis on nonrenewable resources, management of forests, deforestation and species extinction, and use of fish and game resources.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 180",
+  "title": "Global Environmental Movements",
+  "units": "4",
+  "description": "Examines historical and contemporary environmental and human rights movements around the world. Subject matter includes: policy-driven/reformist environmental movements, radical underground and militant movements, indigenous peoples movements, environmental movements in the Global South, and coalitions and transnational advocacy networks focused on confronting climate change and resource extraction associated with industrial agriculture, mining, timber harvesting, hydroelectric dam construction, fracking, oil and tarsands, and the international hazardous waste trade. Students learn theories and concepts from the social sciences and environmental humanities.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 181",
+  "title": "Power, Justice, and the Environment",
+  "units": "4",
+  "description": "Introduces students to the theoretical and historical foundations of research on environmental racism and environmental inequality. Examines social scientific evidence concerning these phenomena and the efforts by community residents, activists, workers, and governments to combat it. Considers the social forces that create environmental inequalities so that we may understand their causes, consequences, and the possibilities for achieving environmental justice. Students will master social scientific theories and concepts related to the subject matter.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 182",
+  "title": "Seminar in Community and Personal Resilience",
+  "units": "4",
+  "description": "A meaningful introduction to community and personal resilience through collective problem-solving and transformative action. Topics include ecological crisis, social equity, intersectionality, and regenerative economy, bringing new perspectives, struggles, and voices into dialogue with environmental problems and visions for the future. Particular attention is paid to the inherent knowledge, wisdom, and experience of each student participant, with the goal of deepening personal resilience, environmental action, and community engagement.",
+  "prerequisites_raw": "Not Open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 183",
+  "title": "Film, Representation, and the Environment",
+  "units": "4",
+  "description": "Introduces students to a series of films representing a range of environmental issues, ideas, and interventions. Topics include energy, water, agriculture, biodiversity, and climate change as well as the ecological impacts of media production and consumption. Special attention is paid to the ways in which film and media affect our imaginations of the world around us and impact our thoughts and actions toward human and non-human environments. Students work collaboratively on creative film projects.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 184",
+  "title": "Gender and the Environment",
+  "units": "4",
+  "description": "A philosophical, evolutionary, and cross-cultural analysis of the ways women and men may relate differently to their environment resulting in the design of gender-sensitive and sustainable policies for planning and development in both the developing and the developed world.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 185",
+  "title": "Human Environmental Rights",
+  "units": "4",
+  "description": "Introduction to human environmental rights. Examines the expansion of human rights to include human environmental rights, abuses of human environmental rights, associated social conflicts, and emergent social movements including environmental justice and transnational advocacy networks.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ANTH 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 186",
+  "title": "Development, Displacement, and Environmental Justice",
+  "units": "4",
+  "description": "A look at policies and actions by international development agencies and governments, reviewing critiques of their systemic weaknesses, failures, and impacts on local communities and environments. Focuses on case studies of forced displacement, as well as examples from around the world where communities, activists, citizens, and scholars are advocating for alternative policies and actions to promote human rights and social and environmental justice.",
+  "prerequisites_raw": "Upper-division standing required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 187",
+  "title": "Green Building Design & Operations",
+  "units": "4",
+  "description": "Introduction to Green Building best practices and foundational principles in sustainable design and operations. Students learn about LEED and the U. S. Green Building Council as well as other institutions currently leading the effort in sustainable development. This course utilizes technical audits, business writing, and critical thinking to develop a broad understanding of how sustainability is implemented in the built environment while preparing students for their LEED Green Associate credential.",
+  "prerequisites_raw": "Upper-division standing required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 188",
+  "title": "Ethics in the Anthropocene",
+  "units": "4",
+  "description": "Survey of emerging global environmental-ethical issues in the Anthropocene and technological responses to them. Major topics include: climate change and geoengineering, extinction and de-extinction, assisted evolution, biopolitics, wilderness preservation, and social and environmental justice.",
+  "prerequisites_raw": "Environmental Studies 1 or 3; and one course from the following: Environmental Studies 70, Black Studies 4, Feminist Studies 50, Linguistics 50, Philosophy 4, Political Science 1.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENV S 70",
+   "BL ST 4",
+   "FEMST 50",
+   "LING 50",
+   "PHIL 4",
+   "POL S 1",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 189",
+  "title": "Religion And Ecology In The Americas",
+  "units": "4",
+  "description": "An overview of the growing field of religion and ecology in the Americas. Focus on spiritual traditions and landbased knowledge indigenous to the Western hemisphere.",
+  "prerequisites_raw": "Upper-division standing or instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 190",
+  "title": "Colloquium On Current Topics In Environmental Studies",
+  "units": "1",
+  "description": "A series of weekly lectures by distinguished guest speakers designed to offer insight into current research and issues in the diverse intellectual fields that constitute environmental studies. Colloquium themes vary quarter to quarter. Regular attendance and a brief written evaluation of each lecture is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 191",
+  "title": "Nature and Science Education Practicum",
+  "units": "4",
+  "description": "Offered in conjunction with CCBER's Kids in Nature environmental education program, students gain hands-on experience teaching ecology and environmental science while receiving instruction from professionals on topics ranging from science education, teaching strategies, lesson plan development, and public speaking.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 192",
+  "title": "Internships In Environmental Studies",
+  "units": "0",
+  "description": "Opportunities to learn about practical approaches to environmental problem solving by working under faculty direction as interns with local, state, and federal agencies, non-governmental organizations, or private business concerned with the environment. Periodic and final reports will be part of the internship.",
+  "prerequisites_raw": "Minimum sophomore standing, 2.75 overall G.P.A., and be declared an Environmental Studies or Hydrologic Sciences major; or consent by department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193",
+  "title": "Special Topics In Environmental Studies.",
+  "units": "0",
+  "description": "One-time course taught by lecturers or guest professors on a special area of interest in environmental studies. Specific course titles and topics to be announced by the Environmental Studies program each quarter.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193AF",
+  "title": "Ancestral Foods",
+  "units": "0",
+  "description": "Long before Environmental Studies was a formal discipline, numerous cultures encoded ecological knowledge and values within their cuisines. In the face of ecological imbalances from our gut microbiome to our climate many of these ancestral foods are now being researched and revived as living traditions. In this intensive, hands-on field course, we will study the art of the meal, as a means of enacting and celebrating reciprocal relationships to place.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193AW",
+  "title": "Applied Water Management",
+  "units": "0",
+  "description": "Students are introduced to watershed management, with a focus on understanding the working professional landscape of various resource, land, and watershed managers/practitioners. The course provides an overview of basic processes and procedures of how management strategies/projects evolve from an idea to on-the-ground implementation. Topics include habitat restoration, basin-wide watershed management, flood control, urban and upslope management, and watershed careers. Course highlights include guest lectures by professionals from private, governmental, and non-profit sectors and 2-3 field trips to showcase real-world projects and facilitate interaction with practicing professionals.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193CB",
+  "title": "Consumer Behavior and the Environment",
+  "units": "0",
+  "description": "What can we really do as consumers to reduce our environmental impact? This course investigates the environmental impacts of household consumption and the opportunities for change through the lens of sustainable consumer behavior. Students are introduced to current research in the fields of sustainable consumption, industrial ecology, and environmental economics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193CE",
+  "title": "Waste Not: New Perspectives on Reducing, Reusing, and Recycling",
+  "units": "0",
+  "description": "ENVS 193CE will evaluate the emerging concept of circular systems within the capitalist economy to eliminate the concept of waste and promote more sustainable consumption. Course will examine the theory of a circular economy, the ways in which products and materials could be designed to eliminate waste across the life of products and materials, the systems that could facilitate repair, remanufacture, recovery and recycling and potentially make circular systems possible, and practical applications.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

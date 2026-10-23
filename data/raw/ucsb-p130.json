@@ -1,0 +1,270 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 131",
+  "title": "CalTeach, Secondary Science Education",
+  "units": "4",
+  "description": "Introduction to learning and teaching science in grade 7-12. The course requires attending a weekly on-campus seminar and participating in 15 hours of field placement in a local school.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 132",
+  "title": "Innovative Practices for English Language Learners in K-12 Mathematics and Science Classrooms",
+  "units": "4",
+  "description": "Introduces undergraduate students to the experiences and perspectives of English language learners (ELLs) in mathematics and science classrooms and ways in which teachers can support these students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 133",
+  "title": "Physics and Everyday Thinking",
+  "units": "4",
+  "description": "Develops ideas about physics content, the nature of scientific inquiry and about learning science through inquiry-based activities.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 134",
+  "title": "Advanced Problem Solving in Mathematical, Historical and Pedagogical Contexts",
+  "units": "4",
+  "description": "Focuses on the strategies, representations, and language learners use to conceptualize and develop fundamental ideas of mathematics. Includes advanced mathematical problem solving and its implications for teaching and learning at the secondary level. Especially suitable for prospective middle school and high school teachers.",
+  "prerequisites_raw": "Mathematics 8 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 135",
+  "title": "Advanced Problem Solving in Mathematical, Historical and Pedagogical Contexts",
+  "units": "4",
+  "description": "Continuation of Math 181A or ED 134. Focuses on the representations, strategies, and language learners use to conceptualize and develop fundamental ideas of mathematics. Includes advanced mathematical problem solving and its implications for teaching and learning at the secondary level. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Math 181A or ED 134 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 181A",
+   "ED 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 136",
+  "title": "Green Works- Exploring Technology and the Search for Sustainability",
+  "units": "4",
+  "description": "A multi-disciplinary class examining the interplay of technology, society, science, and history. Investigate green technologies in an interactive class format designed to encourage discussion and debate. Innovative science and social science labs provide hands-on learning.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 137",
+  "title": "Equity in STEM Education",
+  "units": "4",
+  "description": "Designed to study equity issues in the teaching and learning of STEM disciplines in P-20 education. Theory and practice is emphasized to understand some of the complexities and challenges in addressing issues of equity in STEM.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 138",
+  "title": "Computer Programming and Engineering Design in Elementary School",
+  "units": "4",
+  "description": "This course focuses on computer programming skills, computational thinking, and engineering design as they apply to the learning of elementary school students. It also includes a focus on how children learn computer science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 139",
+  "title": "Community Based Coastal Literacies: Exploring Culturally Responsive Texts and Tools for a Maritime Learning Community",
+  "units": "4",
+  "description": "The undergraduate course focuses on local K-12 learning and building a critical, culturally responsive framework for developing textual materials and assessments related to the following topics: oceanic/aquatic life and sustainability, environmental studies, marine biology, and local environmental issues and sustainability.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 140",
+  "title": "Seminar and Practicum in Early Care and Education",
+  "units": "0",
+  "description": "Introduction to early childhood education programs and a variety of design influences ranging from government mandates to child development theory. Topics include conflict resolution, language, literacy,and play in infant, toddler and preschool settings. Students reflect on application through observation, field-note taking and practicum experience.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 141",
+  "title": "Early Childhood Care and Education: Introduction to Curriculum and Pedagogy",
+  "units": "0",
+  "description": "Introduction of conceptual framework for developing, implementing and assessing curriculum and pedagogy in programs for children ages birth through 5 years. Topic areas will include regulatory requirements, mandates and socialpolicy issues, anti-bias curriculum, inclusion, family alliances and intentional teaching practice.",
+  "prerequisites_raw": "Consent of instructor; upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 142",
+  "title": "Development of Play, Language and Literacy in Early Childhood and Care Settings.",
+  "units": "4",
+  "description": "Examines the nature of language (grammar, semantics, pragmatics, discourse). Topics include theoretical accounts of grammar and language acquisition, and topics of language and literacy development in early care settings, including child peer discourse, and grammar and literacy development in play.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 143",
+  "title": "The Young Child in the Family and Community",
+  "units": "4",
+  "description": "An introduction to the dynamics of child development and socialization in a culturally pluralistic society. Examines childhood socialization with an emphasis on the influences of family living and cultural patterns on the child, school-family relationships, and community resources and services that support and strengthen families.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 144",
+  "title": "Using Literature with Young Children",
+  "units": "4",
+  "description": "Introducing students interested in working with young children to the world of literature intended for young children and the ways in which it may be used in daycare and preschool settings. Topics include history, evaluating literature for young children, and introduction to different genres of children's literature.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 145",
+  "title": "Introduction to Research Methods",
+  "units": "4",
+  "description": "Provides an overview of methods used to conduct educational research. Skills learned help students conduct their own research projects. No previous coursework or research experience is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 146",
+  "title": "Community-Based Research and Outreach",
+  "units": "4",
+  "description": "Community psychology and other ecologically-oriented psychologies strive to understand reciprocal relationships between individuals and their social contexts. Students learn about Ecological Systems theories to understand the experiences of children and their families in the communities we are working with and how to sustain reciprocal University-Community relationships. Students work directly at a site in the community to further understand social and educational dynamics. This is a 4-unit practicum course that applies to the Education Minor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 147",
+  "title": "Evaluating Programs and Policies",
+  "units": "4",
+  "description": "Provides students with an understanding of how large-scale policies or small-scale programs can be evaluated. Students learn various evaluation approaches to help determine the effectiveness, efficiency, and impact of public policies and social programs in education.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 148",
+  "title": "Supporting Multilingual Language and Literacy Development and Home Language Maintenance in Early Childhood Settings",
+  "units": "4",
+  "description": "Provides UCSB students with guiding principles for designing teaching activities to help young children build multilingual language and literacy skills in their home languages and English. Students conduct bilingual activities with bi/multilingual children at a local preschool.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor. Students are required to have skills in a language other than English matched to home languages of children at the participating preschools. Prior or concurrent course in child development such as ED 111 or ED 123 is recommended.",
+  "prerequisites_courses": [
+   "ED 111",
+   "ED 123"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 150",
+  "title": "Teaching and Teachers",
+  "units": "4",
+  "description": "Provides a basic foundation for understanding both (a) the nature of teaching as a specialized human activity (as distinct from other human activities) and (b) the organization and conduct of teaching in contemporary U.S. schools.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 173",
+  "title": "Introduction to Leadership Development",
+  "units": "4",
+  "description": "This course is an overview of theoretical constructs and practical applications of leadership. Through lectures, readings, discussions, and projects, the course will assist students in developing individual approaches to effective leadership.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 176B",
+  "title": "Practicum in Individual Differences",
+  "units": "4",
+  "description": "Students study and discuss important educational policy issues while tutoring with elementary school students with learning problems in mathematics, reading, and language development.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 183",
+  "title": "GRP LDRSHP THRY PRA",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 190",
+  "title": "Introduction to Autism",
+  "units": "4",
+  "description": "Overview of diagnostic, clinical, and educational approaches used for autism. Intervention procedures in clinical, school, and family settings are discussed in relation to language development, social development, and self-stimulatory behavior, self-injury, and pivotal behaviors related to a favorable prognosis.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 191A",
+  "title": "Sex and Relationships",
+  "units": "4",
+  "description": "Internship training in sexual health, life skills (i.e., self-awareness and assertive communication); health skills; and peer education skills (i.e., group facilitation and motivational interviewing). Enrollment into ED 191D (Peer Health Education Internship) will be based on performance in ED 191A, ED 191B, ED 191C, and ED 191W. S",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 191B",
+  "title": "Alcohol and Drugs",
+  "units": "4",
+  "description": "Internship training in alcohol and drugs, life skills (i.e., self-awareness and assertive communication); health skills; and peer education skills (i.e., group facilitation and motivational interviewing). Enrollment into ED 191D (Peer Health Education Internship) will be based on performance in ED 191A, ED 191B, ED 191C, and ED 191W. S",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 191C",
+  "title": "Healthy Eating and Living",
+  "units": "4",
+  "description": "Internship training in healthy eating and living (HEAL), life skills (i.e., self-awareness and assertive communication); health skills; and peer education skills (i.e., group facilitation and motivational interviewing). Enrollment into ED 191D (Peer Health Education Internship) will be based on performance in ED 191A, ED 191B, ED 191C, and ED 191W.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,278 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 131",
+  "title": "North American Indians",
+  "units": "4",
+  "description": "The origins, development, and attainments of New World aboriginal cultures north of Mexico. Some emphasis is given to California groups such as the Chumash.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 131CA",
+  "title": "California Indigenous Peoples",
+  "units": "4",
+  "description": "Investigation of the diversity of California Indian societies at the beginning of European colonization, including social organization, economy, material culture, and ideology. Also considered are origins and historic changes. Emphasis is placed on central and southern California.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 132",
+  "title": "Anthropology of Law",
+  "units": "4",
+  "description": "Examines the way the law and legal apparatuses binds subjects (human and otherwise) to the material world. It does so by conceptually analyzing what the law is and the experiences it creates as they are depicted in legal discourse, the historical archive, and ethnography. Topics include rights, freedoms, and entitlements; crime and punishment; slavery and servitude; the formation of constitutional power; status laws and the logic of race that undergirds them; and the subterranean political, social, and economic desires that the law seeks to exploit and animate within “the people.”",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 132TS",
+  "title": "Ceramic Analysis in Archaeology",
+  "units": "4",
+  "description": "An overview of how ceramics are used in archaeology. Topics include pottery manufacture, classification, stylistic and functional analysis, scientific analysis, chronology, production and exchange, ceramic consumption and socio-political organization.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 133",
+  "title": "Cultural Development in Mesoamerica",
+  "units": "4",
+  "description": "The rise and fall of various ancient civilizations such as those of the Maya, Aztecs, Toltecs, Teotihuacanos, and Olmec as well as their cultural antecedents. This course uses self-paced audiovisual modules as well as traditional lecture format.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 134",
+  "title": "Cultural Anthropology of Latin America",
+  "units": "4",
+  "description": "Contemporary issues of rural and urban societies in the Caribbean, and Central and South America. Examination of continuities and changes in cultural institutions and values; inequality, colonialism, settler colonialism, state formation, indigenous social movements, race, gender, class and ethnicity, urbanization, extractivism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 134A",
+  "title": "Interdisciplinary Approaches to the History and Societies of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues central to the study of Latin America and Iberia across the social sciences and history. Topics include nationalism, revolution, politics and the state, economic development and international relations, labor, popular culture, race, gender, religion, migration, environment, imperialism, and colonialism.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 135",
+  "title": "Cultural Anthropology of Mexico",
+  "units": "4",
+  "description": "An examination of contemporary issues in Mexico through an anthropological lens. Topics may include race, class, gender, and sexuality, nation-state formation, settler colonialism, decolonization, social movements, and political economy.",
+  "prerequisites_raw": "ANTH 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 136MJ",
+  "title": "Language and Social Signs",
+  "units": "4",
+  "description": "Explores a tradition of anthropological inquiry that builds an account of language as a system of socially intelligible signs. Often referred to as semiotics, this class examines how signs and language become the conduits for thinking about and understanding our relationship with the world, our shared social and political ecologies, and how our interpretation of such signs is expressive of larger structures that lie inside of us. Topics and concepts for exploration include the relationship between language, signs, and symbols; structuralism and poststructuralism; performativity and performance; practice and action; ontology and metaphysics; discourse and discursive agency; and speech and communicative rationality.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 137",
+  "title": "The Ancient Maya",
+  "units": "4",
+  "description": "The splendiferous Maya civilization as it waxed and waned during ancient times.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 138",
+  "title": "Anthropology of Environmental Health",
+  "units": "4",
+  "description": "A sociocultural medical anthropological approach to explore how environmental hazards, many of them human-influenced, shape health and illness around the world. Topics include environmental risk and perception, industrial toxics, disasters, environmental justice, and chronic disease.",
+  "prerequisites_raw": "ANTH 2 or equivalent introduction to sociocultural anthropology",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 138TS",
+  "title": "Archaeology of Egypt",
+  "units": "4",
+  "description": "Selected topics on the archaeology of ancient Egypt, placing the monuments of this great civilization in the context of its rise and development. Emphasis on ancient Egyptian material culture as a source for understanding Egyptian political, social, and economic dynamics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 139",
+  "title": "Indigeneity and Sovereignty",
+  "units": "4",
+  "description": "Survey of indigenous societies worldwide. Topics may include sovereignty; settler colonialism; resistance and decolonization; assimilationist narratives and policies; indigenous political movements; ethnocide and ecocide; indigenous epistemologies and cosmologies; gender and sexuality; effects of globalization and more.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 139CH",
+  "title": "Landback, Reparations, and Solidarity Economies",
+  "units": "4",
+  "description": "An introduction to two related topics that have become increasingly central in the US and beyond in recent years: rising demands for, and concrete steps toward, the return of lands to present day descendants of Native and Indigenous peoples who previously occupied these lands [colloquially known as \"land back\"]; and the payment of reparations [either monetary or in kind] to descendants of enslaved peoples, as partial compensation for the trauma, social suffering and economic loss of enslavement. We critically examine the arguments put forth to justify both flows of thought and action; we study actual cases where these actions have been taken; and we ask what can be learned.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 141",
+  "title": "Agriculture and Society in Mexico: Past and Present",
+  "units": "4",
+  "description": "The evolution of rural Mexico: from origins of Mesoamerican agriculture to the rise of high civilization; from the establishment of the colonial system to the demise of colonial agricultural institutions; from the revolution of 1910 to the enactment of land reform and development programs. Emphasis will be made on the role of peasantry in the making of the modern state.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 142",
+  "title": "Cultural Anthropology of South Asia",
+  "units": "4",
+  "description": "Survey of anthropological topics in South Asia, such as regional space and society; family, kin, and village life; caste and colorism; class and social organization; religion; urbanization; agriculture; colonial and postcolonial states.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 143",
+  "title": "Introduction to Contemporary Social Theory",
+  "units": "4",
+  "description": "Introduction to the main themes and concerns that preoccupy contemporary social theorists. The underlying purpose is to stress the importance of social theory in providing insights and posing questions critical for informed and innovative research in the social sciences.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 143F",
+  "title": "Ethics in Archaeology",
+  "units": "4",
+  "description": "An analysis of ethics in contemporary archaeology. Topics include reburial and repatriation, interpretation of the archaeological record in the context of historically oppressed groups, ethnic minorities, and non-western societies. The course also includes the ethics of collecting and managing cultural property.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 144",
+  "title": "The Archaeology of Warfare",
+  "units": "4",
+  "description": "Tracks cross-cultural ethnographic research and archaeological case studies of violence to provide a historically contextualized and data-rich exploration of violence in the ancient world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 145",
+  "title": "Anthropological Demography and Life History",
+  "units": "4",
+  "description": "Introduces students to anthropologic applications of demography and life history theory. Focuses on ecological approaches to population dynamics, birth and death processes, and policy implications in light of population \"problems\" among traditional and modern societies.",
+  "prerequisites_raw": "Anthropology 5 or 7 or upper-division standing; or Environmental Studies 2 or 3.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ENV S 2",
+   "ANTH 7",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 146",
+  "title": "Anthropology of Development",
+  "units": "4",
+  "description": "An introduction to the discourse and practice of development as it has taken shape during the modern period. Topics include conceptual linkages among economic, political, social and cultural aspects of development; governmental and non-governmental institutions of development; philanthropy; growth and degrowth; gender and development and more.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 147",
+  "title": "Water and Society",
+  "units": "4",
+  "description": "Covers the longstanding debate over the relation between irrigation and state formation, as well as current developments in the study of water and society. Emphasis is placed on people living in arid and semi-arid environments.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ANTH 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 148",
+  "title": "Ecological Anthropology",
+  "units": "4",
+  "description": "Focuses on the complex and dynamic interactions between human beings and their physical environment. Examines ecological thinking in anthropology and the various theoretical approaches within the discipline that have developed from the coalescence of natural and social sciences.",
+  "prerequisites_raw": "Anthropology 2; upper-division standing.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 148A",
+  "title": "Race, Racism and Anti-racism",
+  "units": "4",
+  "description": "Race is an idea about essential human differences that has no scientific foundation in biology, but which nevertheless organizes society and culture at all scales. This course takes a critical look at the race concept, the forms of inequality it organizes and justifies, as well as anti-racist projects in anthropology and beyond.",
+  "prerequisites_raw": "Anthropology 2 or 5.",
+  "prerequisites_courses": [
+   "ANTH 2",
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 148MH",
+  "title": "Aesthetic Anthropology",
+  "units": "4",
+  "description": "Contrasts different forms of artistic production and criticism in a range of societies. Considers how art and aesthetics are defined in cultural context; investigates political, economic and socio-cultural dimensions of aesthetic practice, including visual arts, music performance, body art.",
+  "prerequisites_raw": "Anthropology 2 or 116.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ }
+]

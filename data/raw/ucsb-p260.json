@@ -1,0 +1,320 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 165",
+  "title": "America in the Gilded Age, 1876 to 1900",
+  "units": "4",
+  "description": "The responses of American people and institutions to the opportunities and problems of industrialization and rapid social change in the late nineteenth century.",
+  "prerequisites_raw": "History 17B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 165S",
+  "title": "Political and Legal Scandals in U.S. History",
+  "units": "4",
+  "description": "Examines the history of political and legal scandals in the United States. Focuses primarily on scandals during the 20th and early 21st centuries, including Teapot Dome, Watergate, the \"Keating Five,\" Iran-Contra, Iraq-Gate, Clinton-Lewinsky, Enron, waterboarding and mistreatment of Iraq war prisoners, and the various Trump-related scandals. We explore theoretical approaches to scandal analysis, similarities and differences between the scandals, and future prospects in American politics.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 166A",
+  "title": "United States in the Twentieth Century",
+  "units": "4",
+  "description": "Political, cultural, social, and economic development of the United States from 1900 to the present: A. 1900-1929",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 166B",
+  "title": "United States in the Twentieth Century",
+  "units": "4",
+  "description": "Political, cultural, social, and economic development of the United States from 1900 to the present: B. 1930-1959",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 166C",
+  "title": "United States in the Twentieth Century",
+  "units": "4",
+  "description": "Political, cultural, social, and economic development of the United States from 1900 to the present: C. 1960-present",
+  "prerequisites_raw": "History 17C or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 166D",
+  "title": "United States History Since Watergate",
+  "units": "4",
+  "description": "The history of American politics since Watergate.",
+  "prerequisites_raw": "HIST 17C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 166LB",
+  "title": "American Legal History",
+  "units": "4",
+  "description": "The history of the U.S. Supreme Court, legal thought, legal education and the legal profession since the late nineteenth century.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 166R",
+  "title": "Undergraduate Research Seminar in 20th Century U.S. History",
+  "units": "4",
+  "description": "A undergraduate research seminar on US history designed to guide students in doing research. Each student will produce a substantial research paper on some aspect of American politics and/or culture since 1900.",
+  "prerequisites_raw": "At least one quarter of History 166A or HIST 166B or HIST 166C or HIST 166D or HIST 166LB.",
+  "prerequisites_courses": [
+   "HIST 166A",
+   "HIST 166B",
+   "HIST 166C",
+   "HIST 166D",
+   "HIST 166LB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 167CA",
+  "title": "History of the American Working Class, 1800-1900",
+  "units": "4",
+  "description": "A survey of the origins an formation of the American working class from thecolonial period to the late nineteenth century. Topics include workers and community, the coming of the industrial order, the 1877 labor strike, and workers and the trade union movement.",
+  "prerequisites_raw": "History 17A or 17B or sophomore or junior or senior standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 167CB",
+  "title": "Capital and Class in 20th Century America",
+  "units": "4",
+  "description": "A survey of American workers from the turn of the century to the present period. Topics include workers and American socialism, the 1919 steel strike, the rise of the CIO, labor and the cold war, and deindustrialization and workers.",
+  "prerequisites_raw": "History 17C or sophomore or junior or senior standing.",
+  "prerequisites_courses": [
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 167E",
+  "title": "Studies in Work, Labor, and Political Economy",
+  "units": "4",
+  "description": "From an historical and public standpoint. Examines key issues confronting the U.S. working class. These include globalization of production, wage inequality, the fate of the unions, racial and gender identities at work, and the future of the welfare state.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 167Q",
+  "title": "Labor Studies Internship Research Seminar",
+  "units": "4",
+  "description": "Readings and assignments assist students in using historical/social science methods to develop a 20-page research paper on some aspect of their internship.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 167R",
+  "title": "Undergraduate Research Seminar in American Working Class History",
+  "units": "4",
+  "description": "A research and writing seminar in American working class history with emphasis on the twentieth century period. A major research paper will be required on a seminar-related topic. Students will conduct historical and field research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 17A or 17B or 17C or 167CB or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C",
+   "HIST 167CB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168A",
+  "title": "History of the Chicanos",
+  "units": "4",
+  "description": "The history of the Chicanos from the indigenous/colonial past to 1900. Explores the evolving history of Mexican descent people during the Pre-Columbian, Spanish, Mexican, and the U.S. periods.",
+  "prerequisites_raw": "History 17A or 17B or 17C or Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "CH ST 1A",
+   "HIST 17B",
+   "HIST 17C",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168B",
+  "title": "History of the Chicanos",
+  "units": "4",
+  "description": "The history of the Chicanos from 1900 to the present. Explores issues such as immigration, second-generation experience, civil rights struggles, the Chicano Movement, the post-Chicano Movement, the role of women in Chicano history, and the new Latino millennials of the 21st century.",
+  "prerequisites_raw": "History 17A or 17B or 17C or Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "CH ST 1A",
+   "HIST 17B",
+   "HIST 17C",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168C",
+  "title": "Asian American History, 1850-1965",
+  "units": "4",
+  "description": "History of Asian Americans to 1965. Asian backgrounds to emigration; migrations of various Asian groups; settlement and employment patterns; racial harassment, restriction, and imprisonment; responses to oppression; family, community, and culture in the first, second, and third generations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168CR",
+  "title": "Undergraduate Research Seminar in Chicano History",
+  "units": "4",
+  "description": "Studies in selected aspects of Chicano history and the United States-Mexico borderlands with an emphasis on social and economic history.",
+  "prerequisites_raw": "History 56 or 168A or 168B or CH ST 168A or CH ST 168B and upper division standing.",
+  "prerequisites_courses": [
+   "HIST 56",
+   "CH ST 168A",
+   "CH ST 168B",
+   "HIST 168A",
+   "HIST 168B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168D",
+  "title": "Asian American History Since 1965",
+  "units": "4",
+  "description": "Asian backgrounds to emigration; migrations of various Asian groups; settlement and employment; anti-Asian actions; family systems; community organization; education and cultural life; formation of Asian American panethnicity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168E",
+  "title": "History of the Chicano Movement",
+  "units": "4",
+  "description": "An examination of the Chicano movement in the United States from the mid-1960s to the mid-1970s. Topics will include the student movement, the farmworker movement, the Plan de Aztlan, the Raza Unida Party, Chicana feminists, the anti-war movement, and chicano studies.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168G",
+  "title": "Autobiography in American History",
+  "units": "4",
+  "description": "This course will examine the autobiography as a specific historical genre. Autobiographies involving a range of Americans and including class, race, ethnic, and gender issues will be examined as a way of interpreting the history of the United States.",
+  "prerequisites_raw": "Any quarter of History 17A-B-C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168GQ",
+  "title": "Minority Autobiography and U.S. History",
+  "units": "4",
+  "description": "Seminar utilizes autobiographical or life-story texts by U.S. minority writers to better understand the diversity of U.S. history and the racialized ethnic experience.",
+  "prerequisites_raw": "History 17A or 17B or 17C or Chicana/o Studies 1A or 1B or 1C.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168LA",
+  "title": "History of Chicano Workers from the Nineteenth Century to the Early 1930's",
+  "units": "4",
+  "description": "History of Chicano workers from the late nineteenth century to the early Great Depression, focusing on immigration, regional labor migrations, class formation, unionization, and work lives. The history of Chicano workers is examined within the framework of U.S. labor history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168LB",
+  "title": "History of Chicano Workers from the late 1930's to the Present Era",
+  "units": "4",
+  "description": "History of Chicano workers from the late 1930's to the present era, focusing on labor struggles, union organization, civil rights politics, migration and immigration, and work. The history of Chicano workers is examined within the framework of U.S. labor history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168M",
+  "title": "Middle Eastern Americans",
+  "units": "4",
+  "description": "The history of migration to the United States by Arabs, Persians, and other peoples of the Middle East; the communities they have built; their families, social, cultural, and religious lives; relationships with other Americans; and ongoing links to the Middle East.",
+  "prerequisites_raw": "Upper-division standing or History 45 or 46 or 145A or 145B or 145D or 145Por 145Q or 146A or 146B or 146P or 146T or 146PW or 146W.",
+  "prerequisites_courses": [
+   "HIST 145A",
+   "HIST 145B",
+   "HIST 145D",
+   "HIST 146T",
+   "HIST 146W"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168N",
+  "title": "Interracial Intimacy",
+  "units": "4",
+  "description": "Historical, sociological, and psychological exploration of several interconnecting phenomena, including interracial and interethnic romance and marriage, and changing identities and social positions of multiracial and multiethnic individuals. Concentrates mainly on the United States, with selected international comparisons.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 168T",
+  "title": "Latino Religious Traditions in Historical Perspective",
+  "units": "4",
+  "description": "Focuses on the role of religion in the Chicano/Latino historical experience. Includes pre-Columbian traditions, Spanish colonial traditions, religion of the U.S.-Mexico borderlands, immigrant religious traditions, the changing nature of Latino religions in the twentieth century.",
+  "prerequisites_raw": "A previous course in History or Chicano Studies.",
+  "prerequisites_courses": []
+ }
+]

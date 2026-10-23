@@ -1,0 +1,334 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 218A",
+  "title": "Seminar in Policy History",
+  "units": "4",
+  "description": "Readings in the fundamentals of policy history including selections in social theory, governance, political economy, knowledge production, political culture and comparative analysis. Offered as a foundations course for students with a broad range of more specialized policy interests.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 218B",
+  "title": "Seminar in Policy History",
+  "units": "4",
+  "description": "A two-quarter research seminar on select topics in policy history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 218C",
+  "title": "Seminar in Policy History",
+  "units": "4",
+  "description": "A two-quarter research seminar on select topics in policy history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 219A",
+  "title": "Research Seminar in Gender and History",
+  "units": "4",
+  "description": "A two-quarter research seminar involving gender analysis of late nineteenthand twentieth century topics in U.S. history.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 219B",
+  "title": "Research Seminar in Gender and History",
+  "units": "4",
+  "description": "A two-quarter research seminar involving gender analysis of late nineteenthtwentieth century topics in U.S. history.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 219C",
+  "title": "Research Seminar in Gender and Public Policy",
+  "units": "4",
+  "description": "A two-quarter research seminar involving gender analysis of public policy issues in the United States.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 219D",
+  "title": "Research Seminar in Gender and Public Policy",
+  "units": "4",
+  "description": "A two-quarter research seminar involving gender analysis of public policy issues in the United States.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 220A",
+  "title": "Seminar in Renaissance-Reformation",
+  "units": "4",
+  "description": "A two-quarter research seminar, stressing problems in comparative European social and intellectual history, 1450 to 1650.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 220B",
+  "title": "Seminar in Renaissance-Reformation",
+  "units": "4",
+  "description": "A two-quarter research seminar, stressing problems in comparative European social and intellectual history, 1450 to 1650.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 221A",
+  "title": "Research Seminar in Transnational Empire",
+  "units": "4",
+  "description": "A two-quarter research seminar that explores the history of modern empire from a transnational perspective. Open to graduate students in any area field.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 221B",
+  "title": "Research Seminar in Transnational Empire",
+  "units": "4",
+  "description": "A two-quarter research seminar that explores the history of modern empire from a transnational perspective. Open to graduate students in any area field.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 221LM",
+  "title": "Love and Money in Renaissance Italy",
+  "units": "4",
+  "description": "Seminar in Italy between 1250 and 1500. Topics include marriage, sexual mores, economic exploitation, the just price, usury, death, artistic patronage, peace, the common good, public and private virtues and vices andthe effectiveness of moral teaching.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 223A",
+  "title": "Seminar in Modern European History",
+  "units": "4",
+  "description": "A research seminar in selected topics in the history of Europe, 1815 to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 223B",
+  "title": "Seminar in Modern European History",
+  "units": "4",
+  "description": "A research seminar in selected topics in the history of Europe, 1815 to thepresent.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 224A",
+  "title": "Research Seminar in Race, Gender, and Inequality: United States",
+  "units": "4",
+  "description": "A two-quarter research seminar focusing on race, gender, and inequality in U.S. history and beyond. This is the first class of the two-quarter sequence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 224B",
+  "title": "Research Seminar in Race, Gender, and Inequality: United States",
+  "units": "4",
+  "description": "A two-quarter research seminar focusing on race, gender, and inequality in U.S. history and beyond. This is the second class of the two-quarter sequence.",
+  "prerequisites_raw": "History 224A",
+  "prerequisites_courses": [
+   "HIST 224A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 226",
+  "title": "Research Seminar in Women and Nationalism",
+  "units": "4",
+  "description": "Exploration of both the direct roles women have played in nationalist movements in different parts of the world, east and west, as well as the diverse ways the symbol of woman has been appropriated by such movements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 232",
+  "title": "War Studies",
+  "units": "4",
+  "description": "A one-quarter reading seminar on topics in war, the state, and society since 1789. Origins and consequences of wars and the political, social, and economic aspects of both land and sea warfare are considered.",
+  "prerequisites_raw": "Open to qualified undergraduates with consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 232A",
+  "title": "War Studies",
+  "units": "4",
+  "description": "A two-quarter research seminar on topics in war, the state, and society since 1789. Origins and consequences of wars and the political, social, andeconomic aspects of both land and sea warfare will be considered.",
+  "prerequisites_raw": "Open to qualified undergraduates with consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 232B",
+  "title": "War Studies",
+  "units": "4",
+  "description": "A two-quarter research seminar on topics in war, the state, and society since 1789. Origins and consequences of wars and the political, social, andeconomic aspects of both land and sea warfare will be considered.",
+  "prerequisites_raw": "Open to qualified undergraduates with consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 240A",
+  "title": "Seminar in Tudor-Stuart History",
+  "units": "4",
+  "description": "Research seminar in Tudor-Stuart history; selected topics requiring use and interpretation of primary sources.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 240B",
+  "title": "Seminar in Tudor-Stuart History",
+  "units": "4",
+  "description": "Research seminar in Tudor-Stuart history; selected topics requiring use andinterpretation of primary sources.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 243A",
+  "title": "Research Seminar in Renaissance and Early Modern Europe",
+  "units": "4",
+  "description": "A research seminar on selected topics in European history, from the fourteenth to seventeenth centuries.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 243B",
+  "title": "Research Seminar in Renaissance and Early Modern Europe",
+  "units": "4",
+  "description": "A research seminar on selected topics in European history, from the fourteenth to seventeenth centuries.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 244A",
+  "title": "Research Seminar in African History",
+  "units": "4",
+  "description": "A two-quarter research seminar on selected topics in African history.",
+  "prerequisites_raw": "History 201.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 244B",
+  "title": "Research Seminar in African History",
+  "units": "4",
+  "description": "A two-quarter research seminar on selected topics in African history.",
+  "prerequisites_raw": "History 201.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 245",
+  "title": "Special Topics in Islamic History",
+  "units": "4",
+  "description": "Research topics in Islamic and Middle Eastern history which can be completed within a one-quarter framework.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 245A",
+  "title": "Seminar in Islamic History",
+  "units": "4",
+  "description": "Research seminar on selected topics in the social and political history of the Islamic Middle East between A.D. 600 and 1700. Language requirements will vary.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 245B",
+  "title": "Seminar in Islamic History",
+  "units": "4",
+  "description": "Research seminar on selected topics in the social and political history of the Islamic Middle East between A.D. 600 and 1700. Language requirements will vary.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 246A",
+  "title": "Postcolonial and Postmodern Discourses on Africa and the Middle East: Points of Contention",
+  "units": "4",
+  "description": "A two-quarter seminar focusing on the writings of major postcolonial and postmodern theorists in the context of Middle Eastern and African history. Students will suggest materials for the reader and will lead weekly discussions. One term paper is required.",
+  "prerequisites_raw": "One upper-division course in African or Middle Eastern history.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 246B",
+  "title": "Postcolonial and Postmodern Discourses on Africa and the Middle East: Points of Contention.",
+  "units": "4",
+  "description": "A two-quarter seminar focusing on the writings of major postcolonial and postmodern theorists in the context of Middle Eastern and African history. Students suggest materials for the reader and lead weekly discussions. One term paper is required.",
+  "prerequisites_raw": "One upper-division course in African or Middle Eastern history.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 246ME",
+  "title": "Sex, Marriage, and Religion in the Middle East 1400-1900",
+  "units": "4",
+  "description": "Examines the gendered history, politics, and culture of several Middle Eastern and North African (MENA) societies. Topics include gender roles in pre-Islamic and early Islamic Arabia; representations of women in medieval Arabic, Turkish, and Persian texts; contraception and sexuality in medieval MENA; modern Muslim women's movements and interactions with nationalism, socialism, and radical Islamism in North Africa, Egypt, and Iran; contemporary controversies over the practice of veiling; and gender representations in MENA's cinema.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 248A",
+  "title": "Graduate Research Seminar in African History",
+  "units": "2",
+  "description": "This is a two-quarter graduate seminar in histories of any part of the continent covering the 19th-20th centuries. The seminar will help students to focus their attention on closely reading and utilizing primary sources for a clearly-defined output, e.g., a dissertation chapter or a journal article. In addition to the primary materials, we will collectively assemble and read together a set of crucial books on areas of the students' research interest. We will also invite local and outside guests to talk about their own research and lead seminars. Students earn 2 units per quarter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

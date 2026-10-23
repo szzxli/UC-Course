@@ -1,0 +1,172 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193CO",
+  "title": "Where's My Beach? Law, Policy and Politics at the CA Coastal Commission",
+  "units": "0",
+  "description": "A new or one-time course focusing on a special area of interest in environmental studies. ENVS 193CO will provide an overview of the history, policy priorities, legal structure and implementation of the CA Coastal Act. Will introduce the history and makeup of the Commission, its governing laws and procedures, the role of staff, advocates for the public, property owners, and local government in the planning and permit process, and the view from the dais.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193CS",
+  "title": "Peoples Science: An introduction to citizen and community science",
+  "units": "0",
+  "description": "A one-time course on a special area of interest in environmental studies. Whether the public assists scientists or controls the research, citizen/community science (CS) partnerships between the public and professional scientists are growing rapidly, generating new knowledge, and stimulating important discussions about science, power and community. ENVS 193CS introduces CS theory and practices, with hands-on experience in local projects. If you work in environmental justice, climate change, government, non-profits or academia, CS will be part of the job!",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193DD",
+  "title": "Data Science for Environmental Studies",
+  "units": "0",
+  "description": "Students will be introduced to basic computing and data management, manipulation, and visualization using examples from environmental studies. Students will conduct hands-on exercises in class using current data science tools. No background in computing or coding is required, and new learners of both skills are especially welcome. Basic understanding of biological and environmental concepts would provide necessary context for class exercises.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193DS",
+  "title": "Statistics for Environmental Science",
+  "units": "0",
+  "description": "Course includes descriptive statistics, analyzing differences between populations, hypothesis testing, regression analysis, and types of bias. Basic concepts and associated skills are taught drawing on examples and data from environmental science topics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193EB",
+  "title": "Ethnobotany and Economic Botany: Human Uses of Plant",
+  "units": "0",
+  "description": "Course explores the human uses of plants for food, fiber, medicine, and spirituality among the Worlds cultures. Ethnobotany draws from among several disciplines, including botany, anthropology, ecology, geography, and chemistry. Areas of investigation include the Neolithic revolution, plant domestication, medicinal and psychotropic plants, shamanism, paleoethnobotany, extinction in the Anthropocene, ethnolinguistics, bioprospecting, and methods of traditional and modern agriculture. We examine the ethnobotany of cultures in coastal California and the Amazon Basin.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193EI",
+  "title": "Environmental Innovation and Entrepreneurship",
+  "units": "0",
+  "description": "This course will equip students to think critically about the forces that shape innovation and entrepreneurial change, and how they factor into the possible trajectories to a low-carbon future. We will conceptualize ventures such as Tesla, Orsted, and Beyond Meat. Are they mirages, isolated exceptions, or the vanguard of low-carbon enterprises that will outcompete carbon-intensive incumbents? In preparation, we will familiarize ourselves with the conditions that bulwark the status quo - such as economic lock-in, policy inertia, and cultural norms - and the ways innovators contend with them. Are there patterns that this dynamic takes on, some in which new paradigms gain momentum and others in which business-as-usual prevails?",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193EM",
+  "title": "Applied Energy Management",
+  "units": "0",
+  "description": "Course will equip students with the technical, analytical, and strategic skills used by real-world energy managers; bridging theory and application, and showing how energy is generated, delivered, measured, and managed across buildings, campuses, and portfolios. Students learn to analyze and normalize data, benchmark performance using EUI, and understand building science, HVAC systems, controls, and operations. Topics include energy cost drivers, GHG accounting basics, efficiency and electrification strategies, financial analysis, and Zero Net Energy planning. Using real datasets students complete a capstone energy management plan that integrates technical analysis, financial modeling, carbon impacts, and stakeholder communication.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193FE",
+  "title": "Field Exploration of Local Ecology",
+  "units": "0",
+  "description": "Explores the ecology of local ecosystems through weekly field trips. Through field-based observation, students will learn about the natural history of organisms comprising ecological communities in each ecosystem. Additionally, explores the ecological, sociological, and historical context for each field site through readings and discussion. All students interested in field-based courses are welcome, and students who are new to fieldwork are especially encouraged.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193GS",
+  "title": "Environmental Issues in the Global South",
+  "units": "0",
+  "description": "Course adopts a place-based approach to environmental practices and policies and seeks to understand how historical and cultural contexts shape nature-society interactions in marginalized communities across the world. Specific topics include encounters between resource extraction and environmental protection, gender and indigenous identities in environmental activism, contributions of informal and small-scale livelihoods to environmental resilience, and global and local strategies for climate change adaptation and mitigation.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193GW",
+  "title": "Groundwater Analyses and the Environment",
+  "units": "0",
+  "description": "Course introduces students to the fundamentals of groundwater hydrology by exploring the following topics: groundwater and the hydrologic cycle; tectonic and geologic settings of groundwater aquifers; the principles of groundwater flow and storage within the Earth system; groundwater management with an emphasis on California groundwater policy and the characterization of physical basin conditions. Students should be prepared to perform quantitative analyses. Completion of Math 34 A/B or 3 A/B are strongly encouraged.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193ML",
+  "title": "Material Lives: Consumption, Accumulation, and The Environment",
+  "units": "0",
+  "description": "Our things make up the tangible artifacts of our lives and account for much of our impact on the planet. At a larger scale, our possessions, and how we use, store, and discard them, offer key insights into our society’s relationship with nature. In this course we use quantitative and qualitative approaches to study how household-level consumption and accumulation have changed over time. We examine how industrialization, globalization, and capitalism have enabled these changes at the societal level, and explore the emotional dimensions, considering how societal narratives shape individuals’ desires, expectations, and behavior and what these may reveal about broader societal anxieties.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193PE",
+  "title": "Political Ecology",
+  "units": "0",
+  "description": "Political ecology enables an interdisciplinary understanding of environment-society relations. Focusing on power and inequalities, this course will provide theoretical and methodological tools to critically analyze historical and contemporary ecological practices, agricultural livelihoods, and urban development. In the process, it will support the construction of equitable and resilient solutions to local and global environmental problems.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193PS",
+  "title": "The Art of Public Speaking for the Environment",
+  "units": "0",
+  "description": "A one-time course on a special area of interest in environmental studies. ENVS 193PS introduces students to the art of public speaking on environmental, climate justice and sustainability issues. Throughout the quarter students develop and deliver talks of various formats, ranging from short elevator speeches and idea pitches to persuasive appeals and longer presentations. Students explore content, technique, style and mindset with weekly practice in small group and full class presentations.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193RE",
+  "title": "Religion and Ecology",
+  "units": "0",
+  "description": "Course explores Western religious and philosophical roots of human separation from, and assumed superiority to, nature and non-human beings that underlie contemporary extractivism (drilling, mining, deforestation, industrial fisheries, etc.). Via selected texts from the ancient world through the “Scientific Revolution” we locate patterns of belief that, for many, persist into the present. We then explore the time of the “Great Dying” in the Americas following European conquest, turning to alternate religious orientations to the natural world. Our particular focus will be on Indigenous worldviews and practices that enmesh human beings within a “covenant of reciprocity” with ancestors, with other living beings, and with the land.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193RU",
+  "title": "Environmental Implications of Rural-Urban Transitions",
+  "units": "0",
+  "description": "Course examines relationships between urban and rural environments to build an integrated understanding of contemporary landscape and livelihood transformations. When urban and rural spaces are contiguous, the loss of farmland and forests due to urban sprawl is more visible, and rural concerns emerge in urban spaces as community agriculture and local food movements. In contrast, when urban and rural spaces are distant, the dependence of urbanization on rural resource extraction often remains hidden from everyday experiences. By focusing on rural-urban transitions, this course seeks to highlight the uneven environmental consequences of contemporary development, and contribute to strategies for achieving equity across the urban-rural divide.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193SI",
+  "title": "Sustainability and Innovation",
+  "units": "0",
+  "description": "Innovation is a key factor in global efforts to build a more sustainable world. Examines innovation as an ideal and in practical applications in industry, government, academia, and non-profit sectors in pursuit of sustainability goals. Students explore innovative technologies, services, and public policies in the context of existing organizations and startups that have potential to contribute to sustainability at the local, regional, or global level.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 193ST",
+  "title": "Sea Turtle Conservation Science and Management",
+  "units": "0",
+  "description": "Students first learn the biology of sea turtles (evolution, physiology, anatomy, behavior, life history and population dynamics), conservation status and ecological roles in coastal and marine ecosystems. Then the socio-ecological systems that link human connections to sea turtles, the ocean and governance. Emerging research and technology (marine spatial planning tools & satellite telemetry) will be integrated with national and international law and policy to learn about management of endangered and migratory species.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

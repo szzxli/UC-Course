@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 236",
+  "title": "Geophysics Seismology",
+  "units": "5",
+  "description": "Wave propagation in an elastic medium; reflection and refraction, attenuation. Physics of the earthquake source, magnitude, seismic moment and focal mechanisms.",
+  "prerequisites_raw": "One year of college level calculus and physics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 237",
+  "title": "Quantitative Geomorphology",
+  "units": "5",
+  "description": "Basic quantitative understanding of processes shaping Earth's surface. In-depth evaluation of hill slope diffusion, mass wasting, and fluvial processes. Applications of quantitative methods are emphasized throughout class. Laboratory provides understanding of isotopic, physical, and remote sensing data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 239",
+  "title": "Origin of the Earth",
+  "units": "4",
+  "description": "Origin of the Earth from the perspective of planetary genesis and the history of the Solar Nebula. Geochemistry and cosmochemistry of ancient solar system materials; accretion and earliest history of the Earth-moon system.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 240A",
+  "title": "Mineralogical Thermodynamics",
+  "units": "4",
+  "description": "Derivation of thermodynamic equations of state for minerals and fluids. Thermodynamics of ideal and nonideal crystalline solutions. Development and application of thermodynamic data bases. Characterization of physical conditions for metamorphic and igneous rocks.",
+  "prerequisites_raw": "Elementary thermodynamics or physical chemistry.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 241",
+  "title": "Plant Paleobiology",
+  "units": "4",
+  "description": "Examination of the history of land plants; the systematics, morphology, and phylogeny of major groups. Major evolutionary and biogeographic patterns. Extra readings and paper.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 243",
+  "title": "The Early Evolution of Life and its Environmental Context",
+  "units": "4",
+  "description": "The first 3.5 billion years of life and the environmental context in which it evolved. Highly multidisciplinary, drawing on evidence from geology, geochemistry, paleontology, and comparative biology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 244",
+  "title": "Invertebrate Paleobiology",
+  "units": "4",
+  "description": "Important topics in paleobiology are discussed in the context of the evolutionary history of invertebrate animal life. These include macroevolutionary theory, diversification and extinction events, ecological and geobiological interactions through time, and the incompleteness of the fossil record.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 245",
+  "title": "Sequence Stratigraphy",
+  "units": "4",
+  "description": "Fundamental concepts of sequence stratigraphy. Students will learn how to use seismic lines, core data, and stratigraphic columns to create a sequence stratigraphic framework for a basin and apply that framework to different geological problems. Fieldtrips will be required.",
+  "prerequisites_raw": "Earth 122 or 222 or equivalent",
+  "prerequisites_courses": [
+   "EARTH 122",
+   "EARTH 222"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 247",
+  "title": "Seminar in Quaternary Geology",
+  "units": "4",
+  "description": "Selected topics in quaternary geology. Subject matter changes from year to year.",
+  "prerequisites_raw": "Earth 117.",
+  "prerequisites_courses": [
+   "EARTH 117"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 248",
+  "title": "Vertebrate Paleontology",
+  "units": "4",
+  "description": "Introduction to the history of vertebrate life, with emphasis on the phylogenetic relationships of the major vertebrate groups. Paper required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 249",
+  "title": "History of Mammals",
+  "units": "4",
+  "description": "Introduction to the diversity of fossil and living mammals from phylogenetic, stratigraphic, and paleobiogeographic perspectives. Required research paper.",
+  "prerequisites_raw": "EARTH 3 or 7 or 11 or 30, or MCDB 5A-AL.",
+  "prerequisites_courses": [
+   "EARTH 3",
+   "MCDB 5A",
+   "EARTH 7",
+   "EARTH 11",
+   "EARTH 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 250",
+  "title": "Petroleum Geology",
+  "units": "4",
+  "description": "Study of petroleum systems including origin, generation, migration, and trapping hydrocarbons. Guest speakers from industry. Field trip to active petroleum basin in California. Required written report.",
+  "prerequisites_raw": "Eartch 14 or 114 or 114A-B; and Earth 102B.",
+  "prerequisites_courses": [
+   "EARTH 102B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 251A",
+  "title": "Matrix Analysis and Computation",
+  "units": "4",
+  "description": "Graduate level-matrix theory with introduction to matrix computations. SVD's, pseudoinverses, variational characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 251B",
+  "title": "Numerical Simulation",
+  "units": "4",
+  "description": "Linear multistep methods and Runge-Kutta methods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equations. Numerical solution of boundary value problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 251C",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Difference Methods",
+  "units": "4",
+  "description": "Finite difference methods for hyperbolic, parabolic and elliptic PDE's, with application to problems in science and engineering. Convergence, consistency, order and stability of finite difference methods. Dissipation and dispersion. Finite volume methods. Software design and adaptivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 251D",
+  "title": "Numerical Solution of Partial Differential Equations - Finite Element Methods",
+  "units": "4",
+  "description": "Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptic partial differential equations, with application to problems in science and engineering. Error estimates. Standard and discontinuous Galerkin methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 252",
+  "title": "Seminar in Structure and Tectonics",
+  "units": "0",
+  "description": "Topical structural geology and tectonics.",
+  "prerequisites_raw": "Earth 201A",
+  "prerequisites_courses": [
+   "EARTH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 253",
+  "title": "Mineral Separations Practicum",
+  "units": "2",
+  "description": "Learn to prepare high purity mineral separates (e.g., zircon, apatite, monazite, K-feldspar, mica, plagioclase) from rocks or sediments for geochronologic or petrologic purposes. Crushing, grinding, sieving, magnetic and density separations, acid treatments. Design safe and efficient separation strategies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 254",
+  "title": "Advanced Seismology Seminar",
+  "units": "2",
+  "description": "Reading and class discussion of basic concepts and methods of seismology, current discoveries and unsolved problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 255",
+  "title": "Advanced Geophysics",
+  "units": "4",
+  "description": "Selected topics in advanced geophysics, including seismology, seismo-acoustics and infrasound, gravity, magnetism, geodynamics, volcano geophysics, and the application of techniques for geophysical analysis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 256",
+  "title": "Geophysical Inverse Theory",
+  "units": "4",
+  "description": "Introduction to basic concepts of inverse theory such as resolution, error and its trade-off. Application to Earth structure study, earthquake source,geodetic data and magnetic field. Reading on key papers. Term paper.",
+  "prerequisites_raw": "Earth 136 and consent of instructor.",
+  "prerequisites_courses": [
+   "EARTH 136"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 257",
+  "title": "Plate Tectonics Seminar",
+  "units": "4",
+  "description": "Read recent related articles. Students present and discuss selected topics in separate seminar. Complete term paper and/or problem sets for three or four units.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 258",
+  "title": "Advanced Structural Geology",
+  "units": "5",
+  "description": "Analysis of geologic-structures--theory and practice. Rock deformation as a function of crustal environment. Fault mechanics and earthquakes; mineral deformation mechanisms; microstructures, and tectonite fabrics. Finite strain measurement and interpretation of kinematic indicators. Regional structural styles. Includes one to two field trip(s) lasting 1-4 days.",
+  "prerequisites_raw": "Earth 103 and 104B.",
+  "prerequisites_courses": [
+   "EARTH 103",
+   "EARTH 104B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 259",
+  "title": "Advanced Stratigraphic and Geomorphic Field Methods",
+  "units": "4",
+  "description": "Development of field observational skills and analytical techniques for both stratigraphic and geomorphic studies. Topics covered will include measuring stratigraphic sections, making 2- or 3-d stratigraphic panels and hierarchical analysis, facies and paleocurrent analysis; river discharge gauging, sediment discharge, topographic profiling/surveying, scarp diffusion, basin analysis in a paleomagnetic temporal framework, glacial geomorphology, channel initiation on hillslopes, and impacts of fire on slope stability and sediment delivery. Laboratories will focus on analysis of aerial photos, digital topography, and detrital ages. The course includes two 3-day field trips; a 1-day trip, and three half-day trips.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 260",
+  "title": "Seminar in Geology",
+  "units": "1",
+  "description": "Presentation and discussion of current research, and reviews of the literature on selected geologic concepts. Students present material reflecting their interests in geology for critical appraisal, of both content and manner of presentation, by selected members of the seminar. Emphasis is placed on assisting students in developing professional speaking style.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 260OR",
+  "title": "Earth Science Outreach",
+  "units": "1",
+  "description": "Active participation in an outreach program for local schools, presenting Earth Science concepts, demonstrations, samples and experiments to a diverse group of K-12 students, with the mission to ignite their interest in STEM, and make scientists more approachable.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 261",
+  "title": "Marine Stratigraphy",
+  "units": "3",
+  "description": "Extensive reading and class discussion of concepts and methods of marine stratigraphy. Included are lithostratigraphy, biostratigraphy, chemostratigraphy, magnetostratigraphy, chronostratigraphy, and chronology. Stratigraphic nomenclature. Problems and advances in correlation and dating of sediments including the Pacific, California, and Europe. Term paper.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 262",
+  "title": "Marine Micropaleontology and Paleobiology",
+  "units": "4",
+  "description": "A survey of the major marine microfossil groups of the cenozoic and mesozoic; with particular reference to classification, preservation, evolution, stratigraphic utility, paleobiology, biogeography, paleoceanographic relations, and sediment accumulation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 263",
+  "title": "Organic Matters",
+  "units": "4",
+  "description": "An introduction to the chemistry of natural organic matter in the ocean, biosphere, and geosphere. Topics include marine organic carbon production and export, fossil fuel formation, tools for identifying ancient life and paleo-environmental conditions (biomarkers, isotopes), and the global impacts of organic carbon burial on global biogeochemical cycles. Some offerings will include a 1 day field trip.",
+  "prerequisites_raw": "CHEM 1C",
+  "prerequisites_courses": [
+   "CHEM 1C"
+  ]
+ }
+]

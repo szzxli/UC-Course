@@ -1,0 +1,274 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 257",
+  "title": "Advanced Santa Barbara County Agrifood System",
+  "units": "4",
+  "description": "Investigates current agricultural system and potential benefits and costs of localization. Covers theory, data collection, analysis methods, key indicators (greenhouse gas emissions, biodiversity, migrant labor, nutrition, community health), policies and actions for change. Students conduct and present research at advanced level.",
+  "prerequisites_raw": "Graduate level and instructor approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 263B",
+  "title": "Global Water Management and Policy",
+  "units": "4",
+  "description": "Water underpins all aspects of development. To manage water resources effectively, we need to understand anthropogenic drivers of change and water policy, in addition to water supply and demand. This class focuses on water tradeoffs and opportunities for management, with the expectation that students have some foundation in water supply and demand. The class is an advanced class, integrating undergraduate students and graduate students, with the expectation that students will complete a significant amount of readings, actively participate in class, and engage in all independent and group assignments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 270",
+  "title": "From Rain to River: Advanced Modeling of Watershed Dynamics",
+  "units": "4",
+  "description": "Provides hands-on training in the modeling of watershed and river processes that shape freshwater systems and influence water resources management. Students learn to build, visualize, and interpret both data and models of hydrologic flow, erosion, sediment transport, and river hydraulics using open-source and agency tools (e.g., SWAT, HEC-RAS, InVEST, and R/Python workflows). Emphasis is placed on (1) developing process understanding, (2) learning modeling tools and modeling best practices and (3) visualizing and communicating results. Students will design, apply, and communicate modeling workflows to analyze hydrologic and geomorphic processes and their management under change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 293",
+  "title": "Advanced Special Topics in Environmental Studies",
+  "units": "0",
+  "description": "Graduate seminar focusing on special topics of current importance in Environmental Studies. Course content will vary. Information on course may be obtained from the Environmental Studies office.",
+  "prerequisites_raw": "Graduate standing and consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 293DE",
+  "title": "Critical and Decolonial Ecologies",
+  "units": "0",
+  "description": "Course explores key concepts from critical ecologies including indigenous and decolonial science, multispecies ethics, and more. We will focus on concepts applied to land, water, and food systems, and their implications for our research.",
+  "prerequisites_raw": "Graduate standing and consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 293EJ",
+  "title": "Seminar in Energy Justice",
+  "units": "0",
+  "description": "This graduate seminar focuses on the ways in which participation of activists, scholars and other actors shape, reinforce, and challenge energy justice histories and futures.",
+  "prerequisites_raw": "Graduate standing and consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 293ES",
+  "title": "Advanced Special Topics in Environmental Studies",
+  "units": "0",
+  "description": "Graduate seminar focusing on special topics of current importance in Environmental Studies. Course content will vary. Information on course may be obtained from the Environmental Studies office.",
+  "prerequisites_raw": "Graduate standing and consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 293GS",
+  "title": "Advanced Special Topics in Environmental Studies",
+  "units": "0",
+  "description": "Graduate seminar focusing on special topics of current importance in Environmental Studies. Course content will vary. Information on course may be obtained from the Environmental Studies office.",
+  "prerequisites_raw": "Graduate standing and consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 293SP",
+  "title": "Advanced Special Topics in Environmental Studies",
+  "units": "0",
+  "description": "Graduate seminar focusing on special topics of current importance in Environmental Studies. Course content will vary. Information on course may be obtained from the Environmental Studies office.",
+  "prerequisites_raw": "Graduate standing and consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 500",
+  "title": "Teaching Assistant Training",
+  "units": "1",
+  "description": "Examines effective teaching methods and professional conduct and responsibilities. Emphasis on teaching aids, examination preparation, and grading. Includes general orientation regarding the University of California and UCSB campus; various pertinent regulations; and services available to teaching assistants and to students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 501",
+  "title": "Teaching Assistant Practicum",
+  "units": "4",
+  "description": "Students gain practical experience in teaching while coordinating one or more discussion/lab sections. Responsibilities include analyses of course texts/materials, discussion/lab sections, and formulation of topics/ questions for papers and examinations. Evaluations are completed by members of the class sections.",
+  "prerequisites_raw": "Concurrent appointment as a teaching assistant in environmental studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Hours and credit by arrangement with an individual faculty member in environmental studies. Written proposal for each tutorial must be approved by the instructor and the department chair.",
+  "prerequisites_raw": "Enrolled graduate student at UCSB; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ERG",
+  "code": "ERG 201",
+  "title": "SECONDARY SCH CURRI",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ERG",
+  "code": "ERG 207",
+  "title": "ENVIRONMENTAL PHYS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ERG",
+  "code": "ERG 218",
+  "title": "PHYSIOLOGY OF AGING",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ERG",
+  "code": "ERG 252",
+  "title": "CRITICAL ISSUES",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ERG",
+  "code": "ERG 260",
+  "title": "SEM CONTEMP RESEARC",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ERG",
+  "code": "ERG 276",
+  "title": "FUNDS OF RESEARCH",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ES 1-",
+  "code": "ES 1- 15A",
+  "title": "Introduction to Yoga",
+  "units": "0.5",
+  "description": "Introduction to Yoga principles, techniques and poses that address physical and emotional wellbeing will be presented.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ES 1-",
+  "code": "ES 1- 15B",
+  "title": "Intermediate Yoga",
+  "units": "0.5",
+  "description": "Presentation and practice of a variety of yoga techniques (yoga flow, yoga sculpt) addressing muscular strength, core conditioning and flexibility.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ES 1-",
+  "code": "ES 1- 15C",
+  "title": "Advanced Yoga",
+  "units": "0.5",
+  "description": "An advanced level course including a variety of yoga techniques. Advanced poses are introduced to challenge balance, core strength, and flexibility.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ES 1-",
+  "code": "ES 1- 17",
+  "title": "Introduction to Capoeira - Brazilian Martial Art",
+  "units": "0.5",
+  "description": "An introduction to the Afro-Brazilian martial art that presents elements of self-defense, acrobatics, music, dance and ritual. Students will improve their body's physical strength, power and flexibility, as well as their mind's concentration, self-confidence, courage and creativity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ES 1-",
+  "code": "ES 1- 99",
+  "title": "Lifetime Activities Interest Class",
+  "units": "0.5",
+  "description": "This class makes it possible for a student to take instruction beyond the elementary, intermediate, and advanced levels of any physical activities 1- class.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 201",
+  "title": "Ecology of Managed Ecosystems",
+  "units": "3",
+  "description": "Provides future environmental managers with an understanding of (1) principles, concepts, and theories that are the scientific basis for conservation policy and preservation of biodiversity and ecosystem services, (2) how scientific knowledge is applied to major societal and scientific issues, especially those related to human impacts on the functioning, productivity and sustainability of ecosystems at local to global scales, and (3) how and why humans impact and manage all of Earth’s ecosystems, and how this can be done in more sustainable ways.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 202",
+  "title": "Environmental Biogeochemistry",
+  "units": "3",
+  "description": "This course trains future environmental managers regarding human‐driven disturbances to biogeochemical cycling of carbon, nitrogen, phosphorus, sulfur, and trace elements in relationship to greenhouse gas-driven climate change, ocean acidification, stratospheric ozone depletion, acid rain, acid mine drainage, air/water/soil pollution, and human and ecological health, among other issues. Additional topics include persistent organic pollutants, pesticides, emerging contaminants, microplastics and other chemicals. The course covers basic principles with applications to environmental problems, human and ecological toxicological implications, and available technical and policy solutions including potential unintended consequences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 203",
+  "title": "Earth System Science",
+  "units": "3",
+  "description": "Provides a foundation in the tools and terminology of system science, their application to Earth’s systems, their use in environmental problem solving, and their relevance to environmental management. Students will (1) apply principles of mass, energy, and momentum balance to understand the dynamics of the Earth system; (2) learn to explain critical observations and methods that guide our empirical understanding of global change; (3) be introduced to the basics of environmental physics, including important principles of radiative transfer, fluid dynamics, and heat flow as they pertain to atmospheric and oceanic dynamics, land surface processes, and their connections to the energy, carbon, and water balance of our planet.",
+  "prerequisites_raw": "Geography 3 or equivalent; graduate standing in ESM.",
+  "prerequisites_courses": [
+   "GEOG 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 204",
+  "title": "Economics of Environmental Management",
+  "units": "3",
+  "description": "Provides a foundation for understanding the origins of and solutions to environmental problems from an economics perspective. Many environmental problems are caused by economic activity (e.g., carbon emissions, overharvesting renewable resources) and have differentiated effects on diverse populations (e.g., the global poor are more vulnerable to climate change, air pollution disproportionately affects minority communities). Solutions to these problems often involve policies that steer economic activity towards effective and equitable environmental protection. This course examines various policy approaches and the unequal burden of both environmental problems and their proposed solutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

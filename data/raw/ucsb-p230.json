@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 150",
+  "title": "Geography of the United States",
+  "units": "4",
+  "description": "Intensive study of the physical and cultural processes that have shaped and are shaping the landscapes of the United States.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 152",
+  "title": "Health Geography",
+  "units": "4",
+  "description": "Geographic approaches to health, disease, and well-being, with an emphasis on health disparities and inequalities. Topics include social determinants of health, migration, the natural and built environment, vaccines, development, and globalization and health.",
+  "prerequisites_raw": "Geography 5 or 6",
+  "prerequisites_courses": [
+   "GEOG 5",
+   "GEOG 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 153A",
+  "title": "Behavioral Geography",
+  "units": "4",
+  "description": "Examines aspects of the human-environment interface, emphasizing behavioral processes in spatial contexts including spatial choice and decision making, consumer behavior, migration and other episodic movements, time budgets, spatial cognition, cognitive mapping.",
+  "prerequisites_raw": "Geography 5",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 153B",
+  "title": "Introduction to Spatial Decision Making and Behavior",
+  "units": "4",
+  "description": "Gateway for the spatial decision making and behavior field. Includes environmental cognition; consumer spatial behavior; migration; space-time budgeting; destination and mode choice; risk and hazard perception; spatial preference. Laboratory sessions involve locational and city management simulation games.",
+  "prerequisites_raw": "Geography 5.",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 153C",
+  "title": "Environmental Perception and Cognition",
+  "units": "4",
+  "description": "Research and theory on human perception and cognition of environments: how we perceive and learn about spatial layouts of environments, how we remember and reason about environments, how we communicate symbolically about environments, how we perceive aesthetic and hazardous properties of environments, and so on.",
+  "prerequisites_raw": "Geography 5.",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 153D",
+  "title": "Spatial Decisions in Retailing",
+  "units": "4",
+  "description": "Applications of spatial decision-making and behavior to retail systems: site selection, site evaluation, trade area estimation, spatial dimensions of retailing, and bricks vs. clicks retailing.",
+  "prerequisites_raw": "Geography 5 or consent of instructor.",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 155",
+  "title": "Geography of Latin America",
+  "units": "4",
+  "description": "El Pueblo, a vila, li tenamit: however you call where you live, geography matters. How and why are human and physical patterns inscribed where they are on the Latin American landscape?",
+  "prerequisites_raw": "Geography 5 or Global Studies 1 or 2 or Environmental Studies 1 or 2 or 3.",
+  "prerequisites_courses": [
+   "GEOG 5",
+   "GLOBL 1",
+   "ENV S 1",
+   "GLOBL 2",
+   "ENV S 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 158",
+  "title": "Introduction to Marine Resources",
+  "units": "4",
+  "description": "Introduction to the marine resources of the California coast. The interplay of oceanographic, climatic, biogeochemical and geologic factors and the influences of humankind will be addressed. Topics include: climate, circulation, biogeography, fisheries, marine mammals, petroleum, pollution and exploration history.",
+  "prerequisites_raw": "Geography 3 or 3A and Geography 3B or 4.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 159",
+  "title": "Geography of Europe",
+  "units": "4",
+  "description": "A systematic approach to the study of the human and physical resources of Europe. Special emphasis placed on the spatial aspects of urban, economic, and social processes.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 160",
+  "title": "Ocean Remote Sensing",
+  "units": "5",
+  "description": "Physical principles and tools required for processing active and passive remote sensing data for coastal and ocean applications. Topics include remote sensing of phytoplankton, sea surface temperature, ocean winds and currents, and sea ice. Lab includes analysis of optical, thermal infrared, passive microwave, and radar data.",
+  "prerequisites_raw": "GEOG 115A",
+  "prerequisites_courses": [
+   "GEOG 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 161",
+  "title": "Food, Agriculture, and the Environment",
+  "units": "4",
+  "description": "Our global food system is in crisis. Responsible for approximately a third of global greenhouse gas emissions, it leaves over a quarter of the worlds people suffering from moderate or severe food insecurity. Yet the food system also holds some of the most promising opportunities for just transition to a more sustainable and equitable society. This survey course introduces the history and structure of the global food system, pressing current challenges, and exciting potential solutions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 162",
+  "title": "Environmental Water Quality",
+  "units": "4",
+  "description": "Study of physio-chemical and biological characteristics of natural waters, analysis of water pollution and treatment, water-quality regulations. Laboratory: independent and supervised research on water pollutants and treatment, quantitative analysis of water-quality data and one-day field work.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 163",
+  "title": "Ocean Circulation",
+  "units": "4",
+  "description": "Examination of the general circulation of the oceans and its impact on global climate and climate change. Topics include properties of seawater, forces driving ocean currents, wind and buoyancy generation of basin scale circulations, and their impact on global climate.",
+  "prerequisites_raw": "Geography 3 or 3A or Earth Science 4.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "EARTH 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 165",
+  "title": "Waves and Tides in the Ocean",
+  "units": "4",
+  "description": "Examination of waves and tides in the ocean. Topics include surface waves, wave generation, internal waves, tides, and tide raising forces. Measurement techniques are also discussed.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 166",
+  "title": "Ocean Carbon Cycle and Climate",
+  "units": "4",
+  "description": "Examination of the ocean carbon cycle and its influence on Earth's climate and climate change. Topics include carbonate system chemistry, photosynthesis and respiration, anthropogenic carbon, and climate change. Current research in carbon cycle and climate is also discussed.",
+  "prerequisites_raw": "Chemistry 1A; and Geography 3 or 104 or Earth Science 4",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "GEOG 3",
+   "EARTH 4",
+   "GEOG 104"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 167",
+  "title": "Biogeography: The Study of Plant and Animal Distributions",
+  "units": "4",
+  "description": "Basic processes governing geographic distribution patterns of biota, including migration, evolution, isolation, and endemism. Biogeographic regions and their histories and an introduction to island biogeography. Emphasis on plants and plant geography. One all-day field trip.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4 or Environmental Studies 2 or EEMB 2 or Earth Science 2.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "ENV S 2",
+   "EEMB 2",
+   "EARTH 2",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 168",
+  "title": "Field Studies in Biogeography",
+  "units": "4",
+  "description": "Intensive field and laboratory course on ecological and biogeographical phenomena, including plant and soil processes, and microclimates. Course utilizes UC Natural Reserve sites. Field measurements are taught, including vegetation and soil sampling, dendrochronology, ecophysiology, and basic micrometeorology.",
+  "prerequisites_raw": "Geography 167 or consent of instructor.",
+  "prerequisites_courses": [
+   "GEOG 167"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 172",
+  "title": "Intermediate Geographical Data Analysis",
+  "units": "5",
+  "description": "Quantitative methods for the analysis of geographical data. Topics include spatial clustering, spatial auto-correlation, spatial regression, and introductory methods for analyzing point, area (lattice), and continuous data. Lab includes the use of statistical software for exploratory spatial data analysis.",
+  "prerequisites_raw": "Statistics and Applied Probability 5AA-ZZ or Ecology, Evolution & Marine Biology 30 or Psychology 5 or Communication 87.",
+  "prerequisites_courses": [
+   "COMM 87"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 175",
+  "title": "Measuring our Environment",
+  "units": "5",
+  "description": "Introduction to measurement and interpretation of physical-environmental data (temperature, humidity, precipitation) and integrated environmental measures (e.g. potential evapotranspiration). Working with micrometeorological towers deployed across an environmental gradient, students develop and test hypothesis using real-time tower data.",
+  "prerequisites_raw": "Geography 3 or 3A and 3B or 4.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 176A",
+  "title": "Introduction to Geographic Information Systems and Science",
+  "units": "4",
+  "description": "Comprehensive overview of Geographic Information Systems and Science. Topics span the nature of geographic information and the procedures for operating GIS. Labs provide hands-on experience with GIS and related software.",
+  "prerequisites_raw": "Upper Division Unit Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 176B",
+  "title": "Technical Issues in Geographic Information Systems",
+  "units": "5",
+  "description": "Study of the technical issues underlying geographic information systems, including coordinate systems and analytic geometry, database models and structures, algorithms and analytical procedures. Laboratory analysis of digital geographic information from physical and social sources.",
+  "prerequisites_raw": "A minimum grade of C in Geography 176A.",
+  "prerequisites_courses": [
+   "GEOG 176A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 176C",
+  "title": "GIS Design and Applications",
+  "units": "5",
+  "description": "Applying GIS theory and techniques to solve problems in land and resource management, utilities, and municipal government. Covers all stages of a GIS project: planning, design, analysis, and presentation. Students collaborate to design, develop, and present a GIS pilot study.",
+  "prerequisites_raw": "Geography 176B with a minimum grade of C.",
+  "prerequisites_courses": [
+   "GEOG 176B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 178",
+  "title": "Conceptual Modeling and Programming for the Geo-Sciences",
+  "units": "5",
+  "description": "A project-based course introducing major conceptual modeling paradigms and object oriented programming from a Geoinformatics perspective. The class is intended for undergraduate students from Geography and the broader Geo-Sciences who have limited (or no previous) experience in software engineering.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 181A",
+  "title": "GIScience Research",
+  "units": "4",
+  "description": "Introduction to GIScience as an academic research field, conducted through review, discussion, and presentation of seminal works from leading journals. Labs reinforce and develop students' existing techniques on problems of research-level difficulty in spatial analysis, cognition, and mobile GIS.",
+  "prerequisites_raw": "Geography 176A.",
+  "prerequisites_courses": [
+   "GEOG 176A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 181B",
+  "title": "GIScience Studies",
+  "units": "4",
+  "description": "Builds on previous course through in-depth examination of topics chosen by interests of leading professor. Labs emphasize development of advanced spatial analytical skills, cutting edge visualization techniques and spatio-temporal modeling. Course concludes with an individual GIScience project.",
+  "prerequisites_raw": "Geog 181A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 182",
+  "title": "Global Cities in the Information Age",
+  "units": "4",
+  "description": "Study of the economic, social, and political networks that link together cities of global importance. Specializations and roles of global cities in the information age economy. Examination of individual cities at the top tiers of the global urban hierarchy.",
+  "prerequisites_raw": "Geography 5.",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ }
+]

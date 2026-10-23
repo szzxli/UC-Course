@@ -1,0 +1,347 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 128",
+  "title": "Topics in Film, Television, & Digital Comedy",
+  "units": "4",
+  "description": "Topics in this series examine various genres and forms of comedy produced for film, television, or other media, with attention to relevant sources, themes, performance styles, comic structures, creative figures, and social and historical contexts.",
+  "prerequisites_raw": "FAMST 46 or 70 or Upper Division Standing",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 70"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 128A",
+  "title": "Silent Film Comedy",
+  "units": "4",
+  "description": "The study of silent film comedy forms and themes, encompassing the work of Mack Sennett, Mabel Normand, Charlie Chaplin, Buster Keaton, Harold Lloyd, and other contemporaries, within the context of American culture in the 1910s and 1920s.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 129",
+  "title": "Media, Culture, and Society in Latin America and Iberia",
+  "units": "4",
+  "description": "Introduces students to Latin American theories, practices and representations about the media, analyzing from a cross-cultural and comparative perspective various cultural productions of the Spanish-speaking world that cross the domains of word, image, and sound.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 130B",
+  "title": "Russian Cinema",
+  "units": "4",
+  "description": "Introduction to the development of Soviet cinema from the early days to thepresent. A focal point will be the interaction between politics/ideology and film in Russia. Major directors such as Eisenshtein and Tarkovski will be treated extensively. Readings and lectures in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 134",
+  "title": "French and Francophone Cinema",
+  "units": "4",
+  "description": "Addresses the interaction between the institutions of French and francophone culture through cinema. The shifting terms of French identity in France and among French-speaking communities are examined through national, regional, and immigrant discourse. In English.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 140",
+  "title": "The Western",
+  "units": "4",
+  "description": "Establishes the forms and rituals of the western genre, and reflects on changes they have undergone. Attention will also be given to the trend toward realism, and the new moral and political revisions of the western's view of society.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 142",
+  "title": "The War Film",
+  "units": "4",
+  "description": "A study of films depicting and/or discussing warfare from World War I to Vietnam and beyond. Special emphasis on the relationship between the periods in which the films were made and the manner in which the wars were depicted.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 143",
+  "title": "Science Fiction Film",
+  "units": "4",
+  "description": "Examines the evolution and shifting limits of the genre from the dawn of narrative cinema through the heyday of the fifties' science fiction thriller through the recent high-tech revival in an age of media transformation.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 144",
+  "title": "The Horror Film",
+  "units": "4",
+  "description": "Study of the horror film genre and the reasons for its popularity, including new interest in psychoanalysis and reaction to modern mass society and consumerism. Covers issues of sacrifice, simulated catastrophicloss, and other themes of catharsis.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 147",
+  "title": "The Thriller",
+  "units": "4",
+  "description": "Study of the genre from the gangster to the science-fiction thriller, involving primarily American films but with a look at the parallel international cinema. Course centers on detection and investigation, exploring suspense and other intense forms of spectator involvement.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 148",
+  "title": "Special Topics in Film Aesthetics",
+  "units": "4",
+  "description": "Exploration in detail, of a single aspect of the film experience in relation to aesthetic and analytical issues. Topics may include the sound track, camera movement, mise-en-scene, color, music, widescreen, acting, narrative, time, art design, editing.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 148FM",
+  "title": "Special Topics in Film Aesthetics: Film Music",
+  "units": "4",
+  "description": "An exploration of the functions of music in classical Hollywood narrative film. Student projects will utilize both descriptive and listener-based, empirically generated analyses of sound track elements. Familiarity with basic Western musical notation is recommended, but not required.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150AD",
+  "title": "Topics In Film Genre: Adaptation",
+  "units": "4",
+  "description": "This film criticism course examines the adaptation of literary works for both film and television. Considering plays, novels, childrens literature, and graphic novels and their screen adaptations, we explore key scholarly questions about adaptation theory, such as fidelity to source text. Works studied may include: William Shakespeares Hamlet (including Haider), Jane Austens Emma, Arthur Conan Doyles Sherlock Holmes series, Shirley Jacksons The Haunting of Hill House, J.K. Rowlings Harry Potter series, and Black Panther.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150AG",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150AI",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150BB",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150CB",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150CC",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150CF",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or consent of instructor or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150CM",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150CR",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150CY",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150FB",
+  "title": "Flesh and Blood",
+  "units": "4",
+  "description": "Once considered low and marginal, the horror genre is an integral component of todays popular media culture with the formerly reviled and exiled revenant (the animated corpse) now part of the family of stock characters routinely encountered on film and TV, the internet and gaming world. This course will explore the cultural and psychological implications of the current fixation on post-apocalyptic scenarios and the return of the dead.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150FT",
+  "title": "Fairy Tale Cinema",
+  "units": "4",
+  "description": "This course addresses a select number of fairy tales and related films. It examines the multiple ways in which tales of wonder provide a metaphoric context for human adaptation & interpretation. Fairy tales evoke themes of childhood, development, & home, as well as critical methods including structuralism & psychoanalysis. Through a focus on films, presented weekly for screening along with relevant descriptive, theoretical & literary texts, we take a critical approach to fairy tales.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150GD",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150HB",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "An in-depth study of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150JH",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or consent of instructor or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 150LA",
+  "title": "Topics In Film Genre",
+  "units": "4",
+  "description": "A study in depth of one or two film genres, including historical, theoretical, and social issues. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ }
+]

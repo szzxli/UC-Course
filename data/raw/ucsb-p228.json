@@ -1,0 +1,287 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 7",
+  "title": "Energy, Water, and Climate",
+  "units": "4",
+  "description": "Oil and water are two key strategic resources dominating the international scene. This class provides an overview of global distributions of oil and water resources and analyzes some of the social, economic, and geopolitical ramifications of these distributions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 8",
+  "title": "Introduction to Global Warming",
+  "units": "5",
+  "description": "Overview of global warming and climate change processes. Description of complex relationships between scientific, technological, economic, social, political, and historical facets of global warming and climate change. Introduction to the concept and practice of climate modeling.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 12",
+  "title": "Maps and Spatial Reasoning",
+  "units": "5",
+  "description": "Surveys properties of maps, emphasizing map use and interpretation. Lecture topics include map abstraction, generalization, map projections, and symbolization. Special purpose maps, thematic maps, and the display of quantitative and qualitative information is considered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 13",
+  "title": "Introduction to Programming in Geographical Sciences",
+  "units": "5",
+  "description": "Introduction to computer programming for students with little to no programming experience. Covers basic programming concepts, variables and expressions, data and control structures, algorithms, debugging and programming design. Additionally, the course covers object-oriented programming, libraries and modules. Emphasis is on hands-on experience and exercises using Python as the programming language.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 20",
+  "title": "Geography of Surfing",
+  "units": "5",
+  "description": "Social and physical science concepts manifested in the sport of surfing. Topics include wave generation and forecasting, economics of the surf industry, spatial search, strategic behavior under crowding, territorialism, and the generation/diffusion of regional surf cultures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 20H",
+  "title": "Field Studies in Surfing",
+  "units": "1",
+  "description": "Field study methods from physical, human, and regional geography applied to surfing. Physical methods focus on coastal engineering: hydrographic surveys, wave measurement, etc. Human methods include spatial population distribution, attitude surveys, etc. Project or term paper, and presentation required.",
+  "prerequisites_raw": "Concurrent enrollment in Geography 20.",
+  "prerequisites_courses": [
+   "GEOG 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 35S",
+  "title": "Intense Mock Environmental Summit",
+  "units": "4",
+  "description": "Mock summit in which students act as representatives of different countries participating in environmental treaty negotiations. This three-week course immerses students in the topic of global change and its associated policies thereby mimicking the pressures and intensity that exist at a real environmental summit.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 101",
+  "title": "Transportation Futures",
+  "units": "4",
+  "description": "Introduction to transportation problems involving energy, the environment, congestion, infrastructure, and future trends. Historical perspective on transportation innovations and their impacts on urban form. Reviews current problems, including the movement of freight and the development of transit-oriented neighborhoods.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 102",
+  "title": "Introduction to Environmental Optics in Physical Geography",
+  "units": "5",
+  "description": "Basic physical principles of electromagnetic radiation in the environment and their application to physical geography and remote sensing. Radiative transfer in the atmosphere, oceans, snow and ice, inland waters, rock, soil, and vegetation. Spectral signatures in remote sensing.",
+  "prerequisites_raw": "Geography 3A or 3 and 3B or 4, and 115A.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 4",
+   "GEOG 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 104",
+  "title": "Physical Geography of the World's Oceans",
+  "units": "4",
+  "description": "Introduction to the processes which control the circulation of the world's oceans. Topics include: wind driven circulation, thermohaline circulation, water masses, waves, and tides.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 108",
+  "title": "Urban Geography",
+  "units": "4",
+  "description": "Introduction to the study of the economic geography of cities and regions and its relation to planning: urbanization, internal structure of cities, settlement systems, regional growth and development, migration, transportation, housing.",
+  "prerequisites_raw": "Geography 5.",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 109",
+  "title": "Economic Geography",
+  "units": "4",
+  "description": "Introduction to the study of spatial economic theories with applications at the urban, regional, and global scales. Topics include settlement system dynamics and regional development, land economics and land use policies, and regional inequality and poverty.",
+  "prerequisites_raw": "upper-division standing only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 110",
+  "title": "Introduction to Meteorology",
+  "units": "4",
+  "description": "An introduction to the dynamics of the earth's atmosphere. Topics include: energy exchange mechanisms, energy balance, condensation and precipitation processes, the dynamics of pressure and wind systems, and the distributions of weather disturbances.",
+  "prerequisites_raw": "GEOG 3 or 3A or ENVS 3 or EARTH 2 or 4; and Math 2A-B or 3A-B; and PHYS 1 or 6A; and upper division standing",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "EARTH 2",
+   "MATH 2A",
+   "PHYS 1",
+   "EARTH 4",
+   "MATH 3A",
+   "PHYS 6A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 111A",
+  "title": "Transportation Planning and Modeling",
+  "units": "4",
+  "description": "Issues, problems, technologies, policies, plans, programs, and the transportation-environment relationship. Transportation systems simulation, trip-based and activity data collection and modeling. Applications in planning, design and operations. Lab: Critically examine transportation plans and programs; explore and analyze travel surveys.",
+  "prerequisites_raw": "Upper Division Unit Standing or Consent of Instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 111B",
+  "title": "Transportation Modeling and Simulation",
+  "units": "4",
+  "description": "Acquire basic knowledge of time-use, activity analysis, and travel behavior with emphasis on their relationship with social and technological trends. Review modeling and simulation in cities/regions and gain hands-on experience in analyzing behavioral data. Lab section will include hands-on behavioral data analysis using R.",
+  "prerequisites_raw": "Geography 111A or approval by instructor.",
+  "prerequisites_courses": [
+   "GEOG 111A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 111C",
+  "title": "Smart Green Cities",
+  "units": "4",
+  "description": "Smart Cities promote social and human capital, support a more competitive economy, expand participation in government, increase access to opportunities, and protect natural resources. Smart technology, including self-driving cars, can help us save lives, decrease pollutant emissions, and use resources in a sustainable way. Which technologies are smart and can they achieve sustainable pathways? Which cities have done this and how? Are Smart Cities sustainable and resilient? This course will answer these questions by examining real-life experiments, review current technologies, and explore future developments using scientific papers, popular press, and online media.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 112",
+  "title": "Environmental Hydrology",
+  "units": "4",
+  "description": "Analysis of the water cycle with emphasis on land-atmosphere interactions, precipitation-runoff, flood, snow melt, and infiltration processes.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 113",
+  "title": "Polar Environments",
+  "units": "4",
+  "description": "An examination of the geography of Arctic and Antarctic environments, including climate, hydrology, cryosphere, oceans, economics, ecosystems, and cultures. A variety of polar issues will be addressed, including improvements in long term monitoring, climate change process studies, modeling and analyses of impacts on ice sheets, sea ice, natural resources, indigenous peoples and society. Much of the course is concerned with the identification of the state of our understanding of past and present interactions of cryosphere and changing environments.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4; or, Environmental Studies 1 or 2; or, Earth Science 1",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "ENV S 1",
+   "EARTH 1",
+   "GEOG 4",
+   "ENV S 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 114A",
+  "title": "Principles of Soil Science",
+  "units": "4",
+  "description": "Explores core introductory concepts in soil science and how soils relate to global environmental challenges. Includes study of soil physical, biological, and chemical properties, soil development, and fertility, as well as the critical role of soils in fostering thriving communities. Incorporates independent projects and soils excursions.",
+  "prerequisites_raw": "Environmental Studies 15A and 15B or Chemistry 1A-B; and Geography 3 or 4 or Earth Science 2 or 4 or 20",
+  "prerequisites_courses": [
+   "ENV S 15A",
+   "CHEM 1A",
+   "GEOG 3",
+   "EARTH 2",
+   "ENV S 15B",
+   "GEOG 4",
+   "EARTH 4",
+   "EARTH 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 114B",
+  "title": "Soils of California: Formation, Morphology, and Management",
+  "units": "5",
+  "description": "Course dives into soil genesis, classification, and sustainable land use in the context of California’s diverse soils. Connects soil characteristics and landscapes to communities, conservation, ecological relationships, agriculture, and climate change. Covers field safety, soil descriptions, and field methods via hands-on field experiences during lab.",
+  "prerequisites_raw": "Environmental Studies 114A or Geography 114A or Earth Science 184A with a grade C or higher.",
+  "prerequisites_courses": [
+   "ENV S 114A",
+   "GEOG 114A",
+   "EARTH 184A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 115A",
+  "title": "Remote Sensing of the Environment 1",
+  "units": "5",
+  "description": "Introduction to theory and methods of aerial photography and satellite remote sensing for studying Earths environment, from natural vegetation to urban areas. Lab develops fundamental skills in the acquisition, interpretation, and analysis of digital remote sensing imagery.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 115B",
+  "title": "Remote Sensing of the Environment 2",
+  "units": "5",
+  "description": "Properties of satellite imagery and tools required to process data from remote sensing systems. Topics include spectral and spatial enhancement, image classification, geometric and radiometric correction, with emphasis on applications. Lab includes analysis of optical, thermal, Lidar, and radar data.",
+  "prerequisites_raw": "Geography 115A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "GEOG 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 115C",
+  "title": "Remote Sensing of the Environment 3",
+  "units": "5",
+  "description": "Advanced image processing, including data fusion and resampling techniques, atmospheric corrections, global navigation satellite systems, and hyperspatial sensors with emphasis on applications. Lab is centered around projects (e.g., glacial and vegetation changes in mountain environments) with poster presentation of results.",
+  "prerequisites_raw": "Geography 115B with a minimum grade of C.",
+  "prerequisites_courses": [
+   "GEOG 115B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 116",
+  "title": "Groundwater Hydrology",
+  "units": "5",
+  "description": "Analysis of groundwater flow in complex geologic environments, aquifer properties, wells and groundwater contamination, surface water-groundwater interactions. Laboratory: basic groundwater experiments, Darcy's law, flow nets, solute dispersion, field measurements of bedrock groundwater, analysis of pumping-test data.",
+  "prerequisites_raw": "GEOG 3B or 4 or EARTH 2; or consent of instructor.",
+  "prerequisites_courses": [
+   "GEOG 3B",
+   "EARTH 2",
+   "GEOG 4"
+  ]
+ }
+]

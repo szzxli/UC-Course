@@ -1,0 +1,319 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 361W",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "1",
+  "description": "Goal is to prepare educators who can articulately advocate for and enact effective educational practices to ensure English language proficiently and academic progress for student who are designated as English learners.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 362",
+  "title": "Exceptional Children, Inclusive Classrooms",
+  "units": "0",
+  "description": "A survey course in special education for students preparing to teach at the elementary school level. Topics include educational policy, instructional modifications and the role of the teaching in supporting children with special needs.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 363",
+  "title": "Exceptional Adolescents, Inclusive Classrooms",
+  "units": "0",
+  "description": "A survey course in special education for students preparing to teach at the high school level. Topics include educational policy, instructional modification, and the role of the teacher in supporting adolescents with special needs.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 364",
+  "title": "Assistive Technology for Students with Accessibility Needs",
+  "units": "0",
+  "description": "Offers teacher candidates exposure to adaptive and assistive technologies, as well as state-of-the-art software and hardware used by and for children with exceptional learning needs. Students learn hands-on skills of designing technology-based instructional materials for children with disabilities.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program OR The Department of Education; ED 222A.",
+  "prerequisites_courses": [
+   "ED 222A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 370",
+  "title": "Professional Seminar in Teaching: Elementary",
+  "units": "0",
+  "description": "This seminar focuses on practice-based issues linked to student teaching and includes such topics as classroom environmental, assessment centered teaching, lesson design, integration of the arts, and uses around school policy. Topics differ each quarter, building on student teachers developing expertise.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 380",
+  "title": "Teaching Strategies for Bilingual/Cross-Cultural Education: Elementary",
+  "units": "4",
+  "description": "Intensive examination of effective teaching methods for Spanish Spanish- English classroom with particular emphasis on language arts area. Students explore curriculum materials and also learn instructional strategies for teaching in bilingual settings.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 381",
+  "title": "Teaching Strategies for Bilingual/Cross-Cultural Education",
+  "units": "0",
+  "description": "Intensive examination of effective teaching methods for bilingual Spanish-English classroom with particular emphasis on language arts. Students explore curriculum materials and applications and also learn instructional strategies for teaching in bilingual settings.",
+  "prerequisites_raw": "Admission to Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 381A",
+  "title": "Methods and Inquiry in Bilingual Education: Social, Historical, and Cultural Influences on Latinx Students' Education in the U.S.",
+  "units": "0",
+  "description": "Teacher candidates apply the knowledge of language acquisition gained in ED 381 to understand how to best utilize students' cultural and linguistic funds of knowledge to facilitate the further development of their entire linguistic repertoire.",
+  "prerequisites_raw": "Admission to teaching credential program and Education 381.",
+  "prerequisites_courses": [
+   "ED 381"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 381B",
+  "title": "Methods and Assessment in Bilingual Education: Social, Historical, and Cultural Influences on Latinx Students' Education in the U.S.",
+  "units": "0",
+  "description": "Teacher candidates learn about bilingual instructional models, instructional strategies and materials, as well as assessment practices. All of which will then allow students to plan, develop, implement and assess standards-aligned content instruction in the primary and target language.",
+  "prerequisites_raw": "Admission to teaching credential program, Education 381 and Education 381A.",
+  "prerequisites_courses": [
+   "ED 381",
+   "ED 381A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 594",
+  "title": "Graduate Group Studies in Education",
+  "units": "0",
+  "description": "Limited to small groups whose interest and needs determine the central focus.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial in doctoral and masters' degree subprogram special fields.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 597",
+  "title": "Individual Study for Comprehensive Examinations",
+  "units": "0",
+  "description": "Preparation for master's or Ph.D. comprehensive examinations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Supervised research and writing of the thesis in doctoral and masters' degree subprograms.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Supervised research and writing of dissertation in doctoral degree subprograms.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED A",
+  "code": "ED A 321F",
+  "title": "Secondary Visual Art Methods",
+  "units": "3",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning visual arts at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED A",
+  "code": "ED A 321M",
+  "title": "Secondary Visual Arts Methods",
+  "units": "1",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning visual arts at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED A",
+  "code": "ED A 341",
+  "title": "Student Teaching: Visual Arts Secondary",
+  "units": "0",
+  "description": "Supervised fieldwork in secondary Visual Arts classrooms (grades 7-12).",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED A",
+  "code": "ED A 371",
+  "title": "Professional Issues in Teaching Visual Art: Secondary",
+  "units": "1",
+  "description": "Seminar in which secondary teacher candidates in visual art share and discuss their field experience, explore further avenues of teaching content, and investigate more effective ways of engaging and supporting students.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED DA",
+  "code": "ED DA 292A",
+  "title": "STD TCH D ART",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED DA",
+  "code": "ED DA 292B",
+  "title": "STD TCH D ART",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED DA",
+  "code": "ED DA 292C",
+  "title": "STD TCH D ART",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED DA",
+  "code": "ED DA 292D",
+  "title": "STD TCH D ART",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED E",
+  "code": "ED E 321",
+  "title": "Secondary English/Language Arts Methods",
+  "units": "0",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning English Language Arts at the secondary level.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED E",
+  "code": "ED E 321M",
+  "title": "Secondary English/Language Arts Methods",
+  "units": "2",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning English Language Arts at the secondary level.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED E",
+  "code": "ED E 341",
+  "title": "Student Teaching: English/Language Arts Secondary",
+  "units": "0",
+  "description": "Supervised fieldwork and student teaching in secondary English/Language Arts classrooms (grades 7-12).",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED E",
+  "code": "ED E 371",
+  "title": "Professional Issues in Teaching English/Language Arts: Secondary",
+  "units": "0",
+  "description": "Seminar in which teacher candidates in English/Language Arts share and discuss their field experience, explore further avenues of teaching content, and investigate more effective ways of engaging and supporting students.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED E",
+  "code": "ED E 391HW",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "1",
+  "description": "Course focuses on the education of English learners. Primary goal is to prepare professional educators who can articulately advocate for and enact effective educational practices for students who are acquiring English as a new language. Designed to help MST credential candidates begin to develop skills and understanding necessary to make decisions regarding instruction that ensure English language proficiency and academic progress for each student.",
+  "prerequisites_raw": "Enrollment in Multiple Subject Teaching Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 320S",
+  "title": "Elementary Social Studies Teaching Methods",
+  "units": "0",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning at the elementary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 320W",
+  "title": "Elementary Social Studies Teaching Methods",
+  "units": "0",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning at the elementary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 321",
+  "title": "Secondary History/Social Science Methods",
+  "units": "0",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning History/Social Science at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 321M",
+  "title": "Secondary History/Social Science Methods",
+  "units": "2",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning History/Social Science at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ }
+]

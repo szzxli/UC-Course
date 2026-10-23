@@ -1,0 +1,302 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 136W",
+  "title": "Women and Revolution",
+  "units": "4",
+  "description": "Examines women's experiences in activism and revolutions in the United States and Latin America. A key question we will focus on throughout the course is: How do women's experiences intersect with revolutions? Our readings, lectures, and discussions will engage topics such as race, class, work, motherhood, war, family, space, culture and political activism.",
+  "prerequisites_raw": "History 9 or 8 or 17A or 168B.",
+  "prerequisites_courses": [
+   "HIST 9",
+   "HIST 17A",
+   "HIST 168B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 137A",
+  "title": "The Origins of Contemporary France",
+  "units": "4",
+  "description": "Transformation of a tradition-bound rural society into a leading industrialpower, 1815 to World War I.",
+  "prerequisites_raw": "History 2C or 4C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 137B",
+  "title": "The Origins of Contemporary France",
+  "units": "4",
+  "description": "Transformation of a tradition-bound rural society into a leading industrialpower, World War I to the present.",
+  "prerequisites_raw": "History 2C or 4C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 138FM",
+  "title": "The Middle Ages in Film",
+  "units": "4",
+  "description": "Addresses how the Ancient World & the Middle Ages have been portrayed in popular culture & film. Did certain films influence our views of the past and how much we know or think we know about the Ancient World & the Middle Ages? Do these movies influence the way we see the past? We will view films in class & discuss them. Among the topics of these films will be the fall of the Roman Empire, the Crusades and Joan of Arc.",
+  "prerequisites_raw": "History 4A or 4B or 2B or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 4A",
+   "HIST 4B",
+   "HIST 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 138X",
+  "title": "Italy from Dante to Petrarch 1250-1400",
+  "units": "4",
+  "description": "Focus on the political, sexual, social, economic, religious, and cultural-ethical ideas and practices in Italy between 1250 and 1400, roughly the lives of Dante and Petrarch. Conducted primarily as a discussion seminar and will be based on assigned readings. There will be films, contextual lectures, and presentations at the beginnings of some meetings.",
+  "prerequisites_raw": "History 2A or 4A or 4B or 2B and upper division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A",
+   "HIST 4B",
+   "HIST 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 140A",
+  "title": "Early Modern Britain",
+  "units": "4",
+  "description": "A history of England from the late middle ages to the eighteenth century.",
+  "prerequisites_raw": "History 2A or 2B or 4A or 4B or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 2B",
+   "HIST 4A",
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 140AH",
+  "title": "Early Modern Britain",
+  "units": "1",
+  "description": "A weekly, one-hour section, open to any students who would like to supplement the material of the lecture course with additional readings and discussion.",
+  "prerequisites_raw": "Concurrent enrollment in History 140A; consent of instructor.",
+  "prerequisites_courses": [
+   "HIST 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 140B",
+  "title": "Early Modern Britain",
+  "units": "4",
+  "description": "A history of England from the late Middle Ages to the eighteenth century.",
+  "prerequisites_raw": "History 2A or 2B or 4A or 4B or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 2B",
+   "HIST 4A",
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 140BH",
+  "title": "Early Modern Britain",
+  "units": "1",
+  "description": "A weekly, one-hour section, open to any students who would like to supplement the material of the lecture course with additional readings and discussion.",
+  "prerequisites_raw": "Concurrent enrollment in History 140B; consent of instructor.",
+  "prerequisites_courses": [
+   "HIST 140B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 140R",
+  "title": "Undergraduate Research Seminar in Early Modern British History",
+  "units": "4",
+  "description": "Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper. Topics addressed: defining a research problem, identifying on original topic, conducting research, citing sources, and presenting results. Intensive writing required.",
+  "prerequisites_raw": "History 140A or 140B or 140IA or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 140A",
+   "HIST 140B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 141A",
+  "title": "Nineteenth-Century Britain",
+  "units": "4",
+  "description": "The rise of Britain as an industrial, urban, and imperial nation. Topics include the nature of industrialization, urbanization, and class formation,the role of gender and race in cultural society, the arts, and the construction of Victorian identities.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 141B",
+  "title": "Twentieth-Century Britain",
+  "units": "4",
+  "description": "Culture, society, and politics in Britain since 1914. Topics include the impact of war on society, the economy and empire; the welfare state and changing roles of women, consumer and youth cultures; the new left and new right.",
+  "prerequisites_raw": "History 2C or 4C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 141C",
+  "title": "The British Empire: Past and Present",
+  "units": "4",
+  "description": "Examines how and why a small nation in the North Atlantic developed and lost a vast empire whose influence was felt across the globe and is still detected today. Also examines the role of violence, slavery and other systems of unfree labor, state politics, gender and race, as well as the exchange of commodities, ideas and people in forging and breaking imperial ties. Considers shifting power dynamics between colonizer and colonized and the nature of local experiences in the colonies. By focusing on imperial encounters in the Americas, Africa, Asia, Europe and the Pacific, we ask how Britain and its colonies shaped each others histories before, during and long after the heyday of European overseas empire.",
+  "prerequisites_raw": "History 2C, 4C or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 141R",
+  "title": "Undergraduate Research Seminar in Modern British History",
+  "units": "4",
+  "description": "Research in modern British social, cultural, economic, and political history. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 141A or 141B or 141C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 141A",
+   "HIST 141B",
+   "HIST 141C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 142AL",
+  "title": "American Legal & Constitutional History",
+  "units": "4",
+  "description": "The U.S. Supreme Court has weighed in on the nations most significant social questions ranging from segregation to same-sex marriage and womens work. Designed to put these and other decisions in proper context, this course covers U.S. legal history from the founding period to the present, with special attention to the evolution of legal conceptions of property, race and gender, civil rights, and criminal justice. Students must read critically and make arguments based on evidence.",
+  "prerequisites_raw": "HIST 17B or HIST 17C",
+  "prerequisites_courses": [
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 142E",
+  "title": "FROM SLAVERY TO CITIZENSHIP: AFRICAN AMERICAN HISTORY FROM 1848 TO 1896",
+  "units": "4",
+  "description": "Beginning with the antebellum period and ending with the arrival of Jim Crow, this course focuses on emancipation as a moment of transition as one step in the long and difficult process of transforming the nation from half slave to fully free. We address several key themes from this period, including (1) the experience of African Americans as slaves and freedpeople; (2) the role of American law in defining slavery and shaping citizenship; and (3) the politics and economics of slavery, secession, the Civil War, and Reconstruction.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 142G",
+  "title": "Race and Gender in 20th-Century US and the World",
+  "units": "4",
+  "description": "This course invites students to consider how race, gender, and sexuality as categories of difference and identity shape US history in the 20th century. Students learn how these concepts have shaped US empire, law and order, surveillance, citizenship and social movements by reading case studies, listening to podcasts, and viewing films.",
+  "prerequisites_raw": "HIST 17B and HIST 17C.",
+  "prerequisites_courses": [
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 142R",
+  "title": "Research Seminar in 19th Century US History",
+  "units": "4",
+  "description": "This course asks students to research and write about topics in 19th Century US History. Themes might include slavery/abolition, development of racial ideologies, political history, legal history, etc.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 142S",
+  "title": "Slavery and the Creation of African America: 1550-1861",
+  "units": "4",
+  "description": "Why is slavery Americas peculiar institution? This course seeks to answer this question by addressing two interrelated themes: the development of slavery as an institution, and the rise of African American culture and society in what is now the United States. We will explore these themes by turning to both primary sources and historical monographs, and examining slavery from a variety of perspectives. These include, but are not limited to, law, custom, labor, political economy, and gender.",
+  "prerequisites_raw": "A prior course in History and upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 144B",
+  "title": "Immigration and the U.S.-Mexico Border",
+  "units": "4",
+  "description": "Examines the social and cultural construction of the United States and Mexico border.",
+  "prerequisites_raw": "HIST 17A or 17B or 17C or 8 or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 144C",
+  "title": "Chicanas and Latinas in U.S. History",
+  "units": "4",
+  "description": "Examines the historical experiences of Chicanas and Latinas in the U.S., focusing on racial, gender, and class inequality, labor and political activism, migration and family formation, and struggles for civil rights and gender equality.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 144F",
+  "title": "A History of the U.S.-Mexico Border Through Film",
+  "units": "4",
+  "description": "Using historical and contemporary films, this class examines and analyzes interpretations of the U.S.-Mexico border as well as the myriad of characters who roam the borderlands, including migrants, border patrol agents, smugglers, and humanitarians. The films include English- and Spanish-language popular films, independent films, and documentaries.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 144J",
+  "title": "Race and Juvenile Justice in U.S. History",
+  "units": "4",
+  "description": "Examines the rise of the juvenile justice system in U.S. history, paying attention to the origins of youth incarceration in the eighteenth and nineteenth centuries with the establishment of asylums, orphanages, and reformatories. Attention is then paid to the twentieth century and the spread of the juvenile court movement. The course ends with a close look at recent developments, including In re Gault (1967) and racial and gender disparities.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 144L",
+  "title": "Locked up in America: A History of Detention and Incarceration",
+  "units": "4",
+  "description": "Examines and analyzes the rise of incarceration in the United States, from the colonial period through to the contemporary era, paying attention to the ideas and ideologies shaping the evolution and practices of detention. Major themes include the rise of asylums and poor houses, houses of refuge and juvenile reformatories, adult prisons and convict lease system, slavery and Jim Crow, state mental hospitals, and immigrant detention centers.",
+  "prerequisites_raw": "HIST 17A, 17B, or 17C",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ }
+]

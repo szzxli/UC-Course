@@ -1,0 +1,278 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 235D",
+  "title": "Modern Asset Pricing",
+  "units": "4",
+  "description": "Course covers: traditional asset pricing by deriving basic asset pricing model from representative agent model under the assumption of complete markets (Consumption based CAPM). Also discussed will be its empirical fit, the puzzles it raises and touch briefly on estimation using GMM. This general model will be applied to models used in practice: factor capital asset pricing model (CAPM), Fama-French 3-factor model, extensions to C-CAPM related to habit formation and Epstein-Zin recursive preferences, and incomplete markets.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 240A",
+  "title": "Introduction to Probability and Statistics for Econometrics",
+  "units": "4",
+  "description": "Review of probability and statistics with focus on the tools needed for regression theory. Univariate and multivariate distributions. Hypothesis testing.",
+  "prerequisites_raw": "PSTAT 5E or PSTAT 120, and Masters level student standing.",
+  "prerequisites_courses": [
+   "PSTAT 5E",
+   "PSTAT 120"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 240B",
+  "title": "Econometric Methods",
+  "units": "4",
+  "description": "Application of multiple regression and related techniques. Estimation and hypothesis testing. Extensions (varies) to ARMA models, instrumental variables, and limited dependent variable models. Monte Carlo simulation.",
+  "prerequisites_raw": "Economics 240A and Masters level student standing.",
+  "prerequisites_courses": [
+   "ECON 240A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 240C",
+  "title": "Econometrics With an Emphasis on Time Series and Forecasting",
+  "units": "4",
+  "description": "Time series econometrics with an emphasis on business forecasting. Study of various methods of econometric forecasting including statistical decision theory, Box-Jenkins, adaptive methods, single and simultaneous structural equation models.",
+  "prerequisites_raw": "Economics 140A, 240B, or 241C.",
+  "prerequisites_courses": [
+   "ECON 140A",
+   "ECON 240B",
+   "ECON 241C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 241A",
+  "title": "Econometrics",
+  "units": "4",
+  "description": "Elements of probability and statistics for econometrics. Probability density functions, moment-generating functions, central limit theorems, method of maximum likelihood.",
+  "prerequisites_raw": "Mathematics 3A-B-C or equivalent.",
+  "prerequisites_courses": [
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 241B",
+  "title": "Econometrics",
+  "units": "4",
+  "description": "The intuition and theory underpinning estimation of single and multiple equation regression models.",
+  "prerequisites_raw": "Economics 241A.",
+  "prerequisites_courses": [
+   "ECON 241A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 241C",
+  "title": "Econometrics",
+  "units": "4",
+  "description": "Econometric foundations and practical aspects of some of the most commonly used empirical research methods including instrumental variables, GMM, panel data and nonlinear models.",
+  "prerequisites_raw": "Economics 241B.",
+  "prerequisites_courses": [
+   "ECON 241B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 242",
+  "title": "Advanced Game Theory",
+  "units": "4",
+  "description": "Cournot-Nash equilibrium, bargaining theory, value, and their modern variations including Bayesian-Nash equilibrium and evolutionary stable strategy. Nonequilibrium solution concepts (dominance and rationalizability). Applications to oligopoly, signaling, principal-agent problem, and orgainization of firms.",
+  "prerequisites_raw": "Economics 210B-C, or Mathematics 118.",
+  "prerequisites_courses": [
+   "ECON 210B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 244",
+  "title": "Mathematical Economics",
+  "units": "4",
+  "description": "Topics include bargaining, search, matching, mechanism design, voting, auctions, adaptive control, learning dynamics, and recent developments in game theory and mathematical economics.",
+  "prerequisites_raw": "Economics 210A-B-C-D, Economics 249, and Mathematics 118A-B-C.",
+  "prerequisites_courses": [
+   "ECON 210A",
+   "ECON 249",
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245A",
+  "title": "Econometric Theory",
+  "units": "4",
+  "description": "The logic and structure of empirical work. In order: How to quantify theory; sources of data; methods of estimation; informative reporting of results.",
+  "prerequisites_raw": "Economics 241C and Second year and above Ph.D. Graduate standing.",
+  "prerequisites_courses": [
+   "ECON 241C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245B",
+  "title": "Econometric Theory",
+  "units": "4",
+  "description": "Specification and estimation of time series models. Topics include ARMA models, trending variables (with attention paid to unit root models), and extension to multivariate (VAR and Related) models.",
+  "prerequisites_raw": "Economics 245A. Second year Ph.D. graduate student standing.",
+  "prerequisites_courses": [
+   "ECON 245A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245C",
+  "title": "Econometric Theory",
+  "units": "4",
+  "description": "Specification and estimation of models for cross-section data. Topics include models of individual choice (with attention paid to nonparametric estimators) and models for panel data.",
+  "prerequisites_raw": "Economics 245A and 245B. Second year Ph.D. graduate student standing.",
+  "prerequisites_courses": [
+   "ECON 245A",
+   "ECON 245B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245D",
+  "title": "Workshop in Econometrics",
+  "units": "4",
+  "description": "Reading and discussion of selected topics and recent literature in econometrics. Emphasis on the development of dissertation research topics. Student presentations required. Course outline and readings will vary.",
+  "prerequisites_raw": "Economics 245A and 245B, consent of instructor and Second year Ph.D. graduate student standing.",
+  "prerequisites_courses": [
+   "ECON 245A",
+   "ECON 245B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245E",
+  "title": "Introduction to Bayesian Econometrics",
+  "units": "4",
+  "description": "Provides a graduate level introduction to Bayesian Econometrics. We begin with a basic introduction to the Bayesian approach, and then examine how familiar estimation problems can be recast in a Bayesian light. Emphasis is practical technique, rather than philosophical questions.",
+  "prerequisites_raw": "Economics 241C and Economics 245A. Second year Ph.D. graduate student standing.",
+  "prerequisites_courses": [
+   "ECON 241C",
+   "ECON 245A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245F",
+  "title": "Generalized Method of Moments and Instrumental Variables",
+  "units": "2",
+  "description": "We begin by introducing the generalized method of moments, and overidentification tests. We then discuss instrumental variables, a quasi-experimental methodology to estimate treatment effects. Under the assumption that the treatment effect is constant, the generalized method of moments can be used for estimation with instrumental variables, and overidentification tests can be used to test instruments validity. In a model with heterogeneous effects, overidentification tests break down, but two-stage least squares regressions can be used to identify the treatment effect among units that comply with the instrument. Finally, we discuss recent developments in the instrumental variable literature.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245G",
+  "title": "Panel Data and Difference-in-Differences",
+  "units": "2",
+  "description": "How to control for endogeneity through the analysis of panel data. We begin with fixed (and random) effects models. We then treat approaches developed for experimental settings difference-in-differences and synthetic controls. These two approaches are examples of matrix completion problems and we discuss the appropriate completion methods in light of the underlying norm, or loss function.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245H",
+  "title": "Clustering, Bootstrapping, and Multiple Comparisons",
+  "units": "2",
+  "description": "Accurate hypothesis testing with focus on best procedures for estimating standard errors and approximating the distribution of test statistics. Central focus on linear models with a wide range of correlation structures, including cluster correlation. Use of the bootstrap to produce finite sample approximations of test statistics. Multiple comparison tests.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245I",
+  "title": "Regression Discontinuity",
+  "units": "2",
+  "description": "Covers both classical results and recent advances in identification, estimation and inference for regression discontinuity (RD) designs. Provides rigorous econometric foundations to understand how to conduct and improve empirical practice (e.g., how to find an optimal bandwidth, construct valid confidence intervals, etc). Along the course, ideas are illustrated using a collection of software packages specifically designed to incorporate these recent advances in RD into applied research.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245J",
+  "title": "Field Experiments",
+  "units": "2",
+  "description": "Reviews several topics related to the analysis of field experiments. How to handle attrition, and differential attrition in field experiments? How to estimate heterogeneous treatment effects in field experiments? How to select the controls that should be included in the estimation of the treatment effect? How to estimate spillover effects on untreated units? How to estimate standard errors in field experiments where randomization occurs within pairs of units?",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245K",
+  "title": "Structural Estimation",
+  "units": "2",
+  "description": "Reviews several topics in structural econometrics. How to recover utility parameters from choice data? How to estimate production functions? How to analyze data arising from auctions?",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245L",
+  "title": "Nonparametric Econometrics",
+  "units": "2",
+  "description": "An introduction to nonparametric econometrics. The goal is to learn how to estimate parameters of interest by \"letting the data speak\", that is, imposing as few modeling assumptions as possible. The course starts with simple density and distribution function estimators, and then moves on to methods for nonparametric and semiparametric regression such as kernel regression, local polynomials and series estimators.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245M",
+  "title": "Economics Data Wrangling",
+  "units": "2",
+  "description": "Organize, filter, and clean data. Estimate statistical models and learn to create reproducible research results. Course includes instruction in the R language.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 245N",
+  "title": "Causal Machine Learning",
+  "units": "4",
+  "description": "This course will bring students to the cutting edge in causal inference using machine learning, giving them a solid theoretical understanding and ready-to-deploy tools for research. Using machine learning for estimation and inference of treatment effects has become an important part of modern academic economics. Students will learn to implement deep learning and conduct semiparametric inference using double machine learning. Students in this class will learn the theoretical underpinnings of this material as well as how to carefully and correctly apply the techniques in research. The course will prepare students for both theoretical and applied dissertation research.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 249",
+  "title": "Dynamic Optimization",
+  "units": "4",
+  "description": "An introduction to the dynamic optimization techniques of the calculus of variations and optimal control theory. Focus on continuous time planning problems in a deterministic setting. Applications include natural resource extraction, energy production, human capital accumulation, and insurance.",
+  "prerequisites_raw": "Economics 210B or Mathematics 118.",
+  "prerequisites_courses": [
+   "ECON 210B"
+  ]
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594D",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: d. control systems.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594E",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: e. signal processing.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594F",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: f. solid state.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594I",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics ar coded as follows: i. microwave.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594K",
+  "title": "Special Topics in Electrical and Computer Engineering.",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: k. digital systems design",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594N",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594Q",
+  "title": "Special Topics in Electrical and Computer Engineering: Imaging Systems and Image Processing",
+  "units": "0",
+  "description": "Instruction in these courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594R",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by acombination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows:r. general.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594T",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in thesevariable unit courses may be carried out by lecture, by laboratory, or by acombination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: t. robotics.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594U",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594V",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594W",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering. Special topics are coded as follows: w. computer network.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 594Z",
+  "title": "Nanotechnology",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor and graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in researc group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595B",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. B. systems theory.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595C",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. C. communication systems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595E",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. E. signal processing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595F",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. F. solid state",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595G",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. G. fields and waves.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595GP",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in researc group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595H",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. H. quantum electronics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595I",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. I. microwave electronics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595K",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering.K. digital systems design.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595L",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. L. computer architecture.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595O",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering.O. microprocessors and microprocessor based systems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595Q",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. Q. imaging systems and image processing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595R",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. R. general.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

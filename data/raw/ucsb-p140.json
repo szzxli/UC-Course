@@ -1,0 +1,284 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 211",
+  "title": "Team Science, Collaborative Analysis and Project Management",
+  "units": "2",
+  "description": "Science in general, and data science in particular, are more and more requiring team science approaches to addressing the most pressing questions. Managing team science projects is therefore becoming an increasingly important skill for any scientist. This course explores the principles and practical tools available for effective and efficient project management.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 212",
+  "title": "Essential Math for Environmental Data Science",
+  "units": "2",
+  "description": "Quantitative skills and understanding are critical when working with, understanding, analyzing and gaining insights from environmental data. In the intensive EDS 212 course, students will refresh fundamental skills in basic math (algebra, uni- and multivariate functions, units and unit conversions), derivative and integral calculus, differential equations, linear algebra, and reading, writing and evaluating logical operations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 213",
+  "title": "Databases and Data Management",
+  "units": "4",
+  "description": "Teaches students how to store and manage environmental information. The course focuses on relational database structure, schemas and data relationships, and introduces SQL as a means to create and query databases. Also covers the concept of metadata as well as archiving data products on data repositories to make them available to the broader community.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 214",
+  "title": "Analytical Workflows and Scientific Reproducibility",
+  "units": "2",
+  "description": "The generation and analysis of environmental data is often a complex, multi-step process that may involve the collaboration of many people. Increasingly, data scientists use tools that document and help to organize workflows to ensure reproducibility, shareability, and transparency of the results. The goal of this course is to enable MEDS students to collaboratively create reproducible analyses. Essential skills and concepts are: 1) Automate the steps in an analytical workflow using scripts, 2) Organize workflow components modularly, 3) Document individual components and their relationships, 4) Scale workflows for computational performance and large datasets, 5) Collaborate in a team to develop a workflow.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 216",
+  "title": "Meta-analysis and Systematic Reviews",
+  "units": "2",
+  "description": "Synthesis tools in environmental science are rapidly evolving and becoming standard, formalized tools for review and assessment. Synthesis can include data aggregation, narrative reviews, systematic reviews, and meta-analysis. Meta-analyses in particular are often viewed as the gold-standard methodology to quantitatively estimate the state-of-the-art of a research domain. The analytics and assumptions have changed significantly within the last 5 years. Key topics covered in this course include effect sizes, scope of inference, and statistical analyses using weighted measures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 217",
+  "title": "Python for Environmental Data Science",
+  "units": "4",
+  "description": "This course teaches the fundamentals of programming in Python. Students learn foundational skills and concepts including data structures, programming basics, and how to clean, subset, aggregate, transform and visualize data. Course materials demonstrate the application of these techniques for environmental data analysis and problem solving.",
+  "prerequisites_raw": "None required",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 220",
+  "title": "Working with Environmental Data",
+  "units": "4",
+  "description": "Introduces students to the broad range of data sets used to monitor and understand human and natural systems. Covers field and station data, remote sensing products, and large-scale climate datasets including climate model projections. Skills include evaluating data collection and quality control methods used in existing datasets, and working with existing databases of time-series and spatial information including cloud computing databases and new repositories of environmental datasets. Students learn basic workflows for selecting, obtaining, and visualizing datasets, and best practices for reliable data intercomparisons.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 221",
+  "title": "Scientific Programming Essentials",
+  "units": "4",
+  "description": "This course teaches scientific programming skills and demonstrates the application of these techniques to environmental data analysis and problem solving. Topics include fundamental programming concepts, transforming and visualizing data, and exposure to modern data science tools. The course will be taught in R.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 222",
+  "title": "Statistics for Environmental Data Science",
+  "units": "4",
+  "description": "Teaches a variety of statistical techniques commonly used to analyze environmental data sets and quantitatively address environmental questions with empirical data. Covers fundamental statistical concepts and tools, including sampling and study design, linear regression, inference, and time series analysis, as well as foundational concepts of spatial and space-time dependency and associated impacts on inference.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 223",
+  "title": "Geospatial Analysis and Remote Sensing",
+  "units": "4",
+  "description": "Introduces the spatial modeling and analytic techniques of geographic information science to data science students. The emphasis is on deep understanding of spatial data models and the analytic operations they enable. Recognizing remotely sensed data as a key data type within environmental data science, this course also introduces fundamental concepts and applications of remote sensing. In addition to this theoretical background, students become familiar with libraries, packages, and APIs that support spatial analysis in R.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 230",
+  "title": "Modeling Environmental Systems",
+  "units": "4",
+  "description": "Computer-based modeling and simulation for practical environmental problem solving and environmental research. The course covers both the selection and application of existing models and best practices for designing new models. Topics include conceptual models, static and dynamic models, spatial models, and models of diffusion, growth and disturbance. Techniques include sensitivity analysis, calibration and model scenario design.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 231",
+  "title": "Text and Sentiment Analysis for Environmental Problems",
+  "units": "2",
+  "description": "Covers foundations and applications of natural language processing. Problem sets and class projects leverage common and emerging text-based data sources relevant to environmental problems, including but not limited to social media feeds (e.g., twitter) and text documents (e.g., agency reports), and builds capacity and experience in common tools, including text processing and classification, semantics, and natural language parsing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 232",
+  "title": "Machine Learning in Environmental Science",
+  "units": "4",
+  "description": "Machine learning (ML) can help process big or complex data and extract knowledge. It forms one of the foundations in data science. This course provides a broad introduction to classic machine learning and statistical pattern recognition. Topics include supervised learning (decision trees, random forest, support vector machines, neural networks) and unsupervised learning (clustering, dimensionality reduction). Problems and exercises are framed within environmental science applications. The course will be taught using Python.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 240",
+  "title": "Data Visualization and Communication",
+  "units": "4",
+  "description": "Effectively communicating your work in a responsible, accessible and visually-pleasing way is often (if not, always) a central part of data science. This course focuses on the basic principles for effective communication through data visualization and using technical tools and workflows for creating and sharing data visualizations with diverse audiences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 241",
+  "title": "Environmental Policy Evaluation",
+  "units": "4",
+  "description": "This course presents state of the art program evaluation techniques necessary to evaluate the impact of environmental policies. The program evaluation methods presented aim at identifying and measuring the causal effect of policies, regulations, and interventions on environmental outcomes of interest. Students learn the research designs and methods for estimating causal effects with experimental and non-experimental data. This will prepare students for interpreting and conducting high-quality empirical research, with applications in cross-sectional data and panel data settings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 242",
+  "title": "Ethics & Bias in Environmental Data Science",
+  "units": "2",
+  "description": "This course focuses on ethical considerations in collecting, using, and reporting environmental data, and how to recognize and account for biases in algorithms, training data, and methodologies. Students also examine the human and societal implications of these issues within environmental data science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 296",
+  "title": "Advanced Special Topics in Environmental Data Science",
+  "units": "99",
+  "description": "Advanced, special topics in environmental data science. May be repeated for credit with changes in content.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 411A",
+  "title": "Capstone Project",
+  "units": "4",
+  "description": "First quarter of a two-quarter group study/analysis of how to apply data science and tools to an environmental problem. In this quarter, students are expected to work with their project client to finalize project plans, develop a project plan and deliverables, and make significant headway on implementing those plans.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 411B",
+  "title": "Capstone Project",
+  "units": "4",
+  "description": "Second quarter of a two-quarter group study/analysis of how to apply data science and tools to an environmental problem. In this quarter, students are expected to complete all project plans and deliverables, develop and submit a project repository and technical documentation, and present the research to a general audience.",
+  "prerequisites_raw": "EDS 411A",
+  "prerequisites_courses": [
+   "EDS 411A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EDS",
+  "code": "EDS 430",
+  "title": "Workshop in Environmental Data Science",
+  "units": "1",
+  "description": "Workshops to develop professional skills for careers in Environmental Data Science",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 4",
+  "title": "ENGR-UNIV-SOCIETY",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 136A",
+  "title": "ELECTRONICS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 136B",
+  "title": "ELECTRONICS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 139B",
+  "title": "NETWORK THEORY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 144A",
+  "title": "ELECTRO FLDS WAVES",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 144B",
+  "title": "ELECTRO FLDS WAVES",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 155",
+  "title": "SOL ST PWR DEVICES",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 204A",
+  "title": "ADV ENGR ANALYSIS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

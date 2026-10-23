@@ -1,0 +1,360 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 110A",
+  "title": "Introduction to Old English Language and Literature",
+  "units": "4",
+  "description": "Introduction to Old English language and literature. Students learn to read and translate a selection of prose and verse works. A full description for any given quarter will be available on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 110B",
+  "title": "Old English Literature: Beowulf",
+  "units": "4",
+  "description": "Reading, analysis, and interpretation of the Old English poem Beowulf in the original language. Acquaints students with a variety of critical approaches to the poem. A full course description for any given quarter will be available on the English Departments website.",
+  "prerequisites_raw": "English 110A.",
+  "prerequisites_courses": [
+   "ENGL 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 110C",
+  "title": "Readings in Old English Literature",
+  "units": "4",
+  "description": "Study of Old English literature, in the original language. Course contents vary from quarter to quarter. To see what is being taught in any particular quarter, students should consult the course listings on the English Departments website.",
+  "prerequisites_raw": "English 110A.",
+  "prerequisites_courses": [
+   "ENGL 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 110T",
+  "title": "Old English Literature in Translation",
+  "units": "4",
+  "description": "Study of Old English prose and verse texts in translation. Considers the history, theory and practice of translating Old English literature. Course contents vary from quarter to quarter: to see what is being taught in any particular quarter, students should consult the course listings on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 111",
+  "title": "The History of the English Language",
+  "units": "4",
+  "description": "English in its old, middle, and modern forms. Such introductory topics as language families and change; etymology, semantics; grammars; syntax; oral,written; groundwork for such methods of literary analysis as stylistics.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 112",
+  "title": "Practical Criticism",
+  "units": "4",
+  "description": "A combined writing and criticism course for students of literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 112PJ",
+  "title": "Sharing Private Journaling: A Writing Paradox",
+  "units": "1",
+  "description": "In this special one-unit course, Professor Shirley Lim will guide students in the craft of journaling. Students who aspire to record and listen to themselves, and, if they wish, to share their Muses' little and large observations will find a safe space in this small seminar. Students will approach why, what, when, where, and how to journal as singular voices whose collective work will be shared in a course publication.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 113",
+  "title": "Studies in Literary Theory and Criticism",
+  "units": "4",
+  "description": "Explorations in traditions and innovations of critical theory, literary interpretation, and philosophy. Topics vary from quarter to quarter, but will focus on the major critical figures or movements (from Aristotle to the present) that have shaped our notion of literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 113LC",
+  "title": "Studies in Literary Theory and Criticism",
+  "units": "4",
+  "description": "Explorations in traditions and innovations of critical theory, literary interpretation, and philosophy. Topics vary from quarter to quarter, but will focus on the major critical figures or movements (from Aristotle to the present) that have shaped our notion of literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 113MI",
+  "title": "Studies in Literary Theory and Criticism",
+  "units": "4-12",
+  "description": "Explorations in traditions and innovations of critical theory, literary interpretation, and philosophy. Topics vary from quarter to quarter, but will focus on the major critical figures or movements (from Aristotle to the present) that have shaped our notion of literature.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. repeat credit up to 12 units will be given",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 113PS",
+  "title": "Studies in Literary Theory and Criticism",
+  "units": "4-12",
+  "description": "Explorations in traditions and innovations of critical theory, literary interpretation, and philosophy. Topics vary from quarter to quarter, but will focus on the major critical figures or movements (from Aristotle to the present) that have shaped our notion of literature.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. repeat credit up to 12 units will be given",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114",
+  "title": "Women and Literature",
+  "units": "4-28",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114AA",
+  "title": "Women and Literature",
+  "units": "4",
+  "description": "Women and Literature. The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature. Course outline booklet.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. course may be repeated an unlimited number",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114AF",
+  "title": "Women and Literature",
+  "units": "4-99",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114BW",
+  "title": "Women and Literature",
+  "units": "4",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. course may be repeated an unlimited number",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114EM",
+  "title": "Early Modern Women Writers",
+  "units": "4",
+  "description": "This course looks at writing by women published between 1650 and 1780. We’ll read and talk about a range of genres: poems, novels, scandal memoirs, a few essays. A guiding question: when did the idea of ‘women’s writing’ emerge, and how was it defined — and is the category still relevant for how we write and publish today?",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114FE",
+  "title": "Women and Literature",
+  "units": "4-28",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114GT",
+  "title": "Women and Literature",
+  "units": "4-28",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114MW",
+  "title": "Medieval Women's Writing",
+  "units": "4",
+  "description": "This course focuses on works of medieval women's writing from the twelfth to the fifteenth century. We consider the ways that these texts work in and against premodern structures of gendered power, and the new formal and aesthetic possibilities opened up by the marginalized positions that these writers occupied. Core texts include Marie de France's Fables, The Wooing of Our Lord, Julian of Norwich's Revelations of Divine Love, and The Book of Margery Kempe.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114PC",
+  "title": "Women and Literature",
+  "units": "4-99",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114RW",
+  "title": "Women and Literature",
+  "units": "4-12",
+  "description": "Women and literature. The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. course may be repeated an unlimited number",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114TN",
+  "title": "The Voyage In Arab Women's Travel Narratives",
+  "units": "4",
+  "description": "The Voyage In Arab Women's Travel Narratives",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114WC",
+  "title": "Women and Literature",
+  "units": "4-99",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 114WR",
+  "title": "Women and Literature",
+  "units": "4",
+  "description": "The courses offered will include at different times such subjects as feminist theory, women writers, and women in literature.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. course may be repeated an unlimited number",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 115",
+  "title": "Medieval Literature",
+  "units": "4",
+  "description": "Survey of medieval English literature, including such texts as Beowulf, The Canterbury Tales, Morte d'Arthur, Piers Plowman, and Sir Gawain and the Green Knight.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 116A",
+  "title": "Biblical Literature: Hebrew Bible",
+  "units": "4",
+  "description": "A literary approach to the Hebrew scriptures and the Apocyrpha.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 116AS",
+  "title": "Seminar for Biblical Literature: The Old Testament",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 116A designed to enrich the large lecture experience for the motivated student. Course includes either supplementary readings or more intensive study of the English 116A reading list, as well as supplementary writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; concurrent enrollment in English 116Aupper-division standing; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "ENGL 116A",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ }
+]

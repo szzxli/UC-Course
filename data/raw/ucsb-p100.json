@@ -1,0 +1,316 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 104A",
+  "title": "Field Studies in Geological Methods",
+  "units": "5",
+  "description": "Introduction to the methods of geological observations and interpretations, with an emphasis on understanding earth processes in the field and reconstructing the physical history of the earth; the stratigraphic, petrologic, and structural relations of rocks. Lecture, lab and field trips. The field trip portion consists of 6–8 one day trips and commonly an overnight trip lasting 3-4 days.",
+  "prerequisites_raw": "Earth 2; consent of department.",
+  "prerequisites_courses": [
+   "EARTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 104AH",
+  "title": "Field Studies Honors Tutorial",
+  "units": "1",
+  "description": "Adjunct tutorial course with Earth 104A; emphasis on comprehensive report preparation, writing, illustration related to geologic mapping in the field.",
+  "prerequisites_raw": "Honors standing; consent of instructor; concurrent enrollment in Earth 104A.",
+  "prerequisites_courses": [
+   "EARTH 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 104B",
+  "title": "Field Methods",
+  "units": "4",
+  "description": "Geologic mapping on topographic maps and aerial photographs; use of geologic field instruments; field techniques; preparation of geologic maps and reports. Field work is completed during the break and between winter and spring quarters and consists of a 8-10 day overnight field trip.",
+  "prerequisites_raw": "Earth 114 and 103. All with a C- or better.",
+  "prerequisites_courses": [
+   "EARTH 114",
+   "EARTH 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 104G",
+  "title": "Digital Analysis and Interpretation of Field Data",
+  "units": "4",
+  "description": "Introduction to commonly used computer programs and techniques for analyzing and visualizing surface and subsurface spatial and structural data in the Earth Sciences. Local site visits involve hands-on demonstrations in geologic data collection. Introduction to scientific writing. Lecture and Lab. This course includes 2–3 local afternoon field trips.",
+  "prerequisites_raw": "Earth 2",
+  "prerequisites_courses": [
+   "EARTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 105",
+  "title": "Earths Climate: Past and Present",
+  "units": "4",
+  "description": "Description and quantitative analysis of climate processes and paleoclimate proxies. Processes include radiation and the Earths energy budget, the influence of orbital cycles, ocean circulation, monsoons, ENSO, and ice sheets. Paleoclimate reconstructions from tectonic-scale to the last millennium, with emphasis on glacial cycles and Plio-Pleistocene climate evolution.",
+  "prerequisites_raw": "Earth 2 or 3 or 4.",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 3",
+   "EARTH 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 106",
+  "title": "Introduction to Climate Modeling",
+  "units": "4",
+  "description": "An introduction to climate models and their application to studies of past, modern, and future climate. Students will learn fundamental modeling concepts, gain experience running several kinds of models, and read/evaluate recent modeling papers. A variety of models will be introduced, with emphasis on atmosphere-ocean General Circulation Models (GCMs) and \"simple\"(zero-dimensional) models. No previous modeling or programming experience is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 107",
+  "title": "Climate Change: Lessons from the Past",
+  "units": "4",
+  "description": "Introduction to the fundamental forces that shape and modulate the Earth's climate. Learning about climate forcings (solar insolation, albedo, greenhouse effect, ocean circulation) will provide a scientific basis to understand past, current, and future climate changes.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 108",
+  "title": "Clastic Depositional Environments",
+  "units": "4",
+  "description": "Emphasis on tectonically active settings, topics change yearly. Clastic depositional models for alluvial fan, fan delta, and turbidite fans. Volcaniclastic successions, including subaerial- to deepwater-erupted pyroclastic rocks and lava flows, as well as volcanic mudflows and sandstones. Field work completed on weekends or over spring break.",
+  "prerequisites_raw": "Earth 102A, Earth 114, and Earth 122 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EARTH 102A",
+   "EARTH 114",
+   "EARTH 122"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 109",
+  "title": "Geology of California",
+  "units": "4",
+  "description": "Introduction to the geology, geologic history, tectonic evolution, and landscape development of California. A brief survey of California's petroleum, mineral, geothermal, and water resources. This course includes one or two overnight field trip(s) consisting of 2-5 days.",
+  "prerequisites_raw": "Earth 104A; Sophomore standing or higher",
+  "prerequisites_courses": [
+   "EARTH 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 111",
+  "title": "Principles of Paleontology",
+  "units": "4",
+  "description": "The ecological structure and evolution of the biosphere as illustrated by the fossil record.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 111L",
+  "title": "Principles of Paleontology Laboratory",
+  "units": "2",
+  "description": "Exercises and projects in the identification and interpretation of fossil taxa and fossil communities.",
+  "prerequisites_raw": "Earth 111 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EARTH 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 113",
+  "title": "Engineering and Environmental Geology",
+  "units": "4",
+  "description": "Application of geologic and environmental principles to civil engineering problems. Includes: rock and soil mechanics; landslides; hydrology; earthquakes; and professional practice. Some offerings include a 1-2 day field trip.",
+  "prerequisites_raw": "Mathematics 3A-B or 2A-B or 34A-B ; and, Physics 1 or 6A or 7A or 21; upper-division standing.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "PHYS 1",
+   "MATH 2A",
+   "MATH 34A",
+   "PHYS 6A",
+   "PHYS 7A",
+   "PHYS 21"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 114",
+  "title": "Geomaterials",
+  "units": "5",
+  "description": "Examination of geomaterials at atomic level. Atomic structure, states of matter, bonding, elementary phase equilibria. Composition and structure of atmosphere, hydrosphere, crust, mantle and core. Structure and composition of important geochemical compounds emphasizing rock-forming minerals.",
+  "prerequisites_raw": "Earth 2",
+  "prerequisites_courses": [
+   "EARTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 115",
+  "title": "Analytical Methods in Geomaterials",
+  "units": "5",
+  "description": "Optical properties of inorganic crystals; techniques of mineral identification using the polarizing microscope; strategies for studying rocks in thin section. Fundamental theory and application of electron and ion-beam instruments in quantitative characterization of geomaterials. Laboratory sessions include lectures as appropriate. Some offerings include a one day field trip.",
+  "prerequisites_raw": "Earth 114 with a grade of C or better",
+  "prerequisites_courses": [
+   "EARTH 114"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 117",
+  "title": "Earth Surface Processes and Landforms",
+  "units": "4",
+  "description": "Introduction to the theory of landscape evolution and the study of the processes that create and modify landforms. Offerings sometimes include a 1-2 day field trip.",
+  "prerequisites_raw": "Earth 1 or 2 or Geography 3B.",
+  "prerequisites_courses": [
+   "EARTH 1",
+   "EARTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 118",
+  "title": "Summer Field Geology",
+  "units": "8",
+  "description": "Intensive hands-on training in the collection, interpretation, and presentation of geologic field data. Preparation of geologic maps, sections, and a professional report as tools to understanding geologic processes. Area and focus of investigation changes each year. This is a 6 week field course out of the Santa Barbara area.",
+  "prerequisites_raw": "Earth 104A or 104G; and Earth 103, 104B, and 122. All prerequisites require a grade of C- or better.",
+  "prerequisites_courses": [
+   "EARTH 104A",
+   "EARTH 103",
+   "EARTH 104G",
+   "EARTH 104B",
+   "EARTH 122"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 119",
+  "title": "Field Investigations in Geology",
+  "units": "0",
+  "description": "Selected field areas are investigated as research problems. Content varies from year to year. This is a 6 week field course out of the Santa Barbara area.",
+  "prerequisites_raw": "Earth 104A or 104G; and Earth 103, 104B, and 122. All prerequisites require a grade of C- or better.",
+  "prerequisites_courses": [
+   "EARTH 104A",
+   "EARTH 103",
+   "EARTH 104G",
+   "EARTH 104B",
+   "EARTH 122"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 120",
+  "title": "Field Paleobiology",
+  "units": "0",
+  "description": "Paleontologic field studies in selected areas. Studies include the collection, identification, and description of fossils, their systematics, paleoecology, and biostratigraphy.",
+  "prerequisites_raw": "Earth 111 and 111L or equivalent.",
+  "prerequisites_courses": [
+   "EARTH 111",
+   "EARTH 111L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 121",
+  "title": "Principles of Evolution",
+  "units": "4",
+  "description": "A foundation course concerning the mechanisms of evolution at micro- and macroevolutionary levels, and interpretation of the resulting patterns of adaptation and organic diversity.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3 or EARTH 2 and 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 2",
+   "EARTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 122",
+  "title": "Sedimentation and Stratigraphy: Processes and Products",
+  "units": "5",
+  "description": "Transport/depositional processes, sedimentary textures and structures. Sedimentary environments, using facies models for observation & prediction. Principles of lithostratigraphy, biostratigraphy, chronostratigraphy, and magnetostratigraphy. Seismic stratigraphy and sequence stratigraphic principles. Controls of tectonics, sediment supply and eustacy on sedimentation. Lab, lecture and field trip(s). The field component consists of some 1 day field trips and may include a 2-4 day overnight trip.",
+  "prerequisites_raw": "Earth 2; and Earth 104A; and Earth 114. Field trip required.",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 104A",
+   "EARTH 114"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 123",
+  "title": "The Solar System",
+  "units": "4",
+  "description": "The nature and evolution of the planets of the solar system. Elementary treatment of cosmochemistry, meteoritics, and comparative planetology with special reference to current ideas on solar system evolution.",
+  "prerequisites_raw": "Sophomore standing or higher",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 124E",
+  "title": "Environmental Geochemistry",
+  "units": "4",
+  "description": "This course focuses on geochemical principles of key processes at Earth's surface environment. Course materials cover topics including the carbon cycle, mineral-water interactions, soil systems, erosion and weathering, and hydrological cycles. Students learn foundational theories, applications, and recent research progress to gain a comprehensive understanding of Earth's environment through the geochemical lens.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 124G",
+  "title": "Geochronology",
+  "units": "2",
+  "description": "Principles of radiogenic isotope geochronology, and applications of the major geochronological methods to terrestrial and extraterrestrial problems ranging from global climate change to petrology to tectonics to solar system evolution. This is a five week course.",
+  "prerequisites_raw": "Chemistry 1A; and, Earth 2, or 3, or 4.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "EARTH 2",
+   "EARTH 3",
+   "EARTH 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 124I",
+  "title": "Biogeochemistry of Stable and Cosmogenic Isotopes",
+  "units": "4",
+  "description": "Introduction to stable isotope biogeochemistry, including kinetic and thermodynamic fractionation of stable isotopes during evapo-precipitation, photosynthesis, and biogenic calcification. Applications of stable isotope in environmental sciences, Quarternary geology, paleoclimate, archeology. Introduction to mass spectrometry, cosmogenic and radiogenic isotopes and their application in paleoclimatology/paleoceanography.",
+  "prerequisites_raw": "Chemistry 1C; Mathematics 2A or 3A; Earth 2 or 3 or 4.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "MATH 2A",
+   "EARTH 2",
+   "MATH 3A",
+   "EARTH 3",
+   "EARTH 4"
+  ]
+ }
+]

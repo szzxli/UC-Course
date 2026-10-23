@@ -1,0 +1,234 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 172",
+  "title": "International Organizations and Global Governance",
+  "units": "4",
+  "description": "Analyzes the evolution of and role played by international, governmental, and non-governmental organizations in global governance, including the United Nations and its specialized agencies, World Bank, IMF, WTO, European Commission and global non-governmental organizations and transnational corporations.",
+  "prerequisites_raw": "Upper Division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 173",
+  "title": "Energy in Global Societies",
+  "units": "4",
+  "description": "The course examines how energy choices are made and investigates our views of nature, society and markets. Students will read both historical and contemporary accounts of energy politics to understand linkages between the global and the local. Students will learn to think critically and creatively about energy.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 174",
+  "title": "Global Perspectives on Environment and Society",
+  "units": "4",
+  "description": "Introduces interdisciplinary approaches to analyzing societal interactions with the environment, and highlights political, economic and cultural processes that shape (and are shaped by) the environment. Topical coverage includes conservation, food, energy, climate, pollution and global industrial production. The class assignments emphasize critical evaluation of specific social-environmental problems and the ideas, policies and practices that people engage in addressing them.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 175",
+  "title": "Technology, Inequality, and Globalization",
+  "units": "4",
+  "description": "This course is a critical and historical examination of the ways in which technology operates as a historical force in the history of the modern world. From the role of European imperial expansion in 19th century industrialization and mechanization to the development of transportation, nuclear, digital and information technologies in the 20th century, we consider the mutually constitutive relationship between technology, dynamics of globalization and capitalism, and social difference (race, gender, class, and sexuality).",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 176",
+  "title": "Labor and Globalization",
+  "units": "4",
+  "description": "We are witnessing a major restructuring of the global economy and the world of work. Over the past decade there has been an upsurge of protest by working people worldwide taking a variety of forms from workplace and mass strikes to street protest. This course is devoted to (1) theoretical debates on the link between the restructuring of the global economy, labor conditions and collective mobilization, and (2) substantive analysis of key cases of labor unrest and social protest in countries across Asia, Africa, and the Americas.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 177",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Special Topics in Global Studies. Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 177SJ",
+  "title": "Special Topics: Internship in Poverty, Inequality, and Social Justice",
+  "units": "4",
+  "description": "Student must be in Poverty, Inequality, and Social Justice minor to enroll. Opportunities to gain practical experience, cultivate problem-solving, communication, organizational, and interpersonal skills needed to work effectively in institutional or collectively organized settings and to gain exposure to professional, post-graduate educational and training, and related career opportunities in anti-poverty and social justice fields. Students work under faculty supervision to produce reports, a research paper, or other types of creative material based on their experiences.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 178",
+  "title": "Global Politics of Climate Change",
+  "units": "4",
+  "description": "How do societies understand and transform their environments? How do we evaluate whether societies are sustainable? What will it take for us to achieve sustainable development? This course approaches these questions during a difficult time—the Anthropocene—an era in which human activities are reshaping the global physical-environmental basis of human civilization and the survival of thousands of non-human species.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 179",
+  "title": "Global Urbanization",
+  "units": "4",
+  "description": "Cities and urbanization are global in context. This course is an introduction to interdisciplinary Global Urban Studies. Topics to be addressed across world regions may include: urban political economy, environment, inequality, migration, housing, planning, and infrastructure.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 180A",
+  "title": "Introduction to Women, Culture, and Development",
+  "units": "4",
+  "description": "Critical examination of the interrelationships between women, culture and development. Topics include colonialism, violence, globalization and the state, health and reproduction, religion and nationalism, sustainable development, biotechnology, representation, and resistance movements.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 180B",
+  "title": "Seminar in Women, Culture, and Development",
+  "units": "4",
+  "description": "Critical examination of the interrelationships among women, culture, and development through individual research projects.",
+  "prerequisites_raw": "Global Studies 180A; upper-division standing.",
+  "prerequisites_courses": [
+   "GLOBL 180A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 181",
+  "title": "Women, Society, and Gender Representation in South Asia",
+  "units": "4",
+  "description": "In this course we look historically at womens lives, gender norms, and representations in societies of South Asia, from social norms of womens representation in some early Buddhist and Brahmanical texts, through the medieval and early modern period, and into its colonial history. With the growth of the nationalist surge, as questions of the place of women in society, or how gender relations were to be organized in the nascent nation became salient. Topics discussed include: customs like sati, widowhood, and age of marriage; representations of same-sex relations; alternative religious movements; increased participation in education and print culture. The course focuses on women as active subjects and agents of history.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 182",
+  "title": "Gender in South Asia",
+  "units": "4",
+  "description": "This course studies historical and contemporary gender issues in South Asia through the colonial, modern, and postcolonial worlds. Among them are questions like: How do Hindu epics and its complex characters, along with the figure of the sati, configure gendered imaginaries? What are the reasons for skewed sex ratios in parts of South Asia? How are modern marriages made? What role does caste play in shaping lives? How traditional transgender communities understood today? How are same-sex and queer desires shaped? How have different communities from the colonial period onwards constructed modern subjectivities through notions of social reform? How do transnational and global Diasporas of South Asians shape and transform gender norms?",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 183",
+  "title": "Global Middle East",
+  "units": "4",
+  "description": "This seminar explores the global history and politics of the Middle East and North Africa. It focuses on the region’s global connections and futures. The main themes are global political ideologies that defined borders and identities in the region since the nineteenth century; transnational migration, including voluntary emigration and forced displacement; and contemporary diasporas and their cultures in and outside of the region.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 190",
+  "title": "Departmental Honors Research",
+  "units": "1",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Consent of instructor and admission to Global Studies departmental Honors program",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 190AH",
+  "title": "Honors Research & Writing Part 1",
+  "units": "1",
+  "description": "This course, designed for accepted departmental Honors program participants , is devoted to planning and designing students’ Honors research projects. In this course, students will produce an abstract, description of project, and an annotated bibliography.",
+  "prerequisites_raw": "Consent of instructor and admission to Global Studies departmental Honors program",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 190BH",
+  "title": "Honors Research & Writing Part 2",
+  "units": "1",
+  "description": "After the successful completion of GLOBL 192AH, this course is devoted to carrying out research and writing a departmental Honors thesis (generally at least 35 pages in length) or developing a significant community studies project, collaborative publicly-engaged research project, or artistic endeavor.",
+  "prerequisites_raw": "Consent of instructor and admission to Global Studies departmental Honors program",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 190CH",
+  "title": "Honors Research & Writing Part 3",
+  "units": "1",
+  "description": "After the successful completion of GLOBL 192AH and 192BH, this course is reserved for completing the departmental Honors thesis or project. Honors students will receive substantial feedback for revisions. Honors students will also prepare for the annual end-of-year Undergraduate Spring Colloquium.",
+  "prerequisites_raw": "Consent of instructor and admission to Global Studies departmental Honors program",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 191",
+  "title": "Global Societies Journal",
+  "units": "4",
+  "description": "For members of the editorial board of the Global Societies Journal at UCSB. Participants develop submission criteria and select articles for publication, edit, proof-read, do layout and publicity.",
+  "prerequisites_raw": "upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 192",
+  "title": "Research & Writing",
+  "units": "4",
+  "description": "Introduces research and writing with respect to global issues. Topics include how to design a research project, what is a research paper, using theoretical and analytical frameworks, applying multi-method approaches. Also provides advice on how to apply to graduate school.",
+  "prerequisites_raw": "Upper Division",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 193",
+  "title": "Capstone Seminar in Poverty, Inequality, and Social Justice",
+  "units": "4",
+  "description": "Capstone seminar for the Minor in Poverty, Inequality, and Social Justice. Students participate in structured discussion and in-depth reflection of the knowledge acquired through interdisciplinary coursework and internship experiences, to produce a final paper, series of essays or policy briefs, and/or other kinds of creative products in consultation with the course instructor. Students will present their work at a public symposium, providing an opportunity to hone their public speaking skills, while contributing to community understanding of how poverty and inequality can be addressed through purposive social research and action.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 194",
+  "title": "Group Studies",
+  "units": "4",
+  "description": "Themes will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing; open to Global Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 195",
+  "title": "Seminar in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing; open to Global Studies majors only.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,257 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 171HH",
+  "title": "Special Topics in Asian American Studies - Social Science and History",
+  "units": "4",
+  "description": "Focuses on various social science and history topics not offered in other Asian American studies courses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 172",
+  "title": "Asian American and Women of Color Speculative Fiction and Film",
+  "units": "4",
+  "description": "We study speculative fiction and film (sci fi, fantasy, etc.) to address contemporary environmental, social, and health crises and imagine individual and collective antidotes. We identify new forms of resistance and worldmaking that can lead to feminist futures.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 173",
+  "title": "Poetics of Decoloniality",
+  "units": "4",
+  "description": "An in-depth look into the poetics of decoloniality by African, Arab, Asian, Caribbean, Chicanx, Indigenous, Latin American, and Pacific Islander writers such as Aimé Césaire, Edward Said, Frantz Fanon, Haunani-Kay Trask, and María Lugones. It asks: What is decolonization, decolonial theory, and decolonial feminism, and are we truly 'post-colonial'? How may a decolonial poetics help us understand our current existence in a time of ongoing genocide, settler colonialism, and endless war?",
+  "prerequisites_raw": "Sophomore standing or higher",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 175",
+  "title": "Theory and Method in Asian American Studies",
+  "units": "4",
+  "description": "Exploration of the main theoretical orientations that have shaped Asian American studies; race and ethnicity, diasporas, international labor migration, etc. Introduction to several methodologies, including historiography, quantitative social science, literary criticism and ethnography.",
+  "prerequisites_raw": "Upper-division standing. Instructor approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 181",
+  "title": "Human Centered Design for Equity",
+  "units": "4",
+  "description": "Training in the methods, rationale, and background of Human Centered Design. Practical experience applying this method to address an equity issue in today's world as defined by the students and faculty. Class is collaborative and project-based.",
+  "prerequisites_raw": "Consent of department or instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 182",
+  "title": "Asian American Academic Rhetoric",
+  "units": "4",
+  "description": "Advanced workshop for refining academic writing skills. Students will assess scholarly essays from various disciplines in Asian American studies. Course will refine mechanics of argumentation and analysis, but especially use of language, to produce academic prose that is rigorous: precise, concise, clear.",
+  "prerequisites_raw": "Junior standing or higher. Instructor approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 183",
+  "title": "From Guantánamo to Gaza: Critical Approaches to War, Detention, and Empire",
+  "units": "4",
+  "description": "This practicum-based seminar examines how carceral practices such as immigration detention, border policing, and racialized violence are central to US empire and militarism in domestic and transnational contexts. Topics include ICE detention, immigration rights/justice, Guantánamo, and Palestine.",
+  "prerequisites_raw": "Upper-division standing and instructor approval required to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 183AA",
+  "title": "Asian-Americans and the Black Radical Imagination",
+  "units": "4",
+  "description": "An analysis of the political, economic, geographic, biographical, methodological, and/or racial/ethnic comparative contexts in which Asian and African grassroots politics and social movements arose and influenced one another in the United States and globally.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 184",
+  "title": "Introductory Asian American Performance Workshop",
+  "units": "4",
+  "description": "An introductory performance workshop focusing on Asian American themes. Students write original pieces, learn the basic techniques of stage performance, and participate in presenting a public performance at the end of the quarter.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 185",
+  "title": "Asian American Creative Writing",
+  "units": "4",
+  "description": "A creative writing workshop focusing on Asian American themes. Different genres are emphasized depending on the instructor's preference and expertise.",
+  "prerequisites_raw": "Upper Division Standing required",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 186",
+  "title": "Creating AAS Open Educational Resources",
+  "units": "4",
+  "description": "Asian American Studies should reach far beyond academia. How do we make it more accessible? In this course, we will make open educational resources (OER) about Asian Americans and Pacific Islanders for high school, college and lifelong learners. As Ethnic Studies courses become integrated into K-12 education, we need to ensure that there are public educational resources. In this course, we will build on and deepen our knowledge about Asian American Studies to collectively create Asian American Studies OER projects.",
+  "prerequisites_raw": "A prior Upper Division course in Asian American Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 187",
+  "title": "Doing Research on Asian American Activism",
+  "units": "4",
+  "description": "Through this class, we will contribute to the recovery of Asian American activism by studying and producing knowledge on grassroots movements for liberation. We will read research studies on Asian American political movements and conduct original research on Asian American activism. Students will produce a research paper and a public intellectual project.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 191AA",
+  "title": "Research Seminar in Asian American History",
+  "units": "4",
+  "description": "A research seminar exploring historical approaches to studying Asian American experiences. Students have the opportunity to collect, analyze, and evaluate historical documents and manuscripts. Students will carry out a research project and produce a research paper.",
+  "prerequisites_raw": "Asian American Studies 1 or 2.",
+  "prerequisites_courses": [
+   "AS AM 1",
+   "AS AM 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 192A",
+  "title": "Research Seminar in Asian American History",
+  "units": "4",
+  "description": "Exploration of Asian American history from 1850 to the present. Students collect, analyze, and evaluate primary sources and work closely with the instructor to write research papers on selected aspects of Asian American history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 192B",
+  "title": "Research Seminar in Asian American History",
+  "units": "4",
+  "description": "Exploration of Asian American history from 1850 to the present. Students collect, analyze, and evaluate primary sources and work closely with the instructor to write research papers on selected aspects of Asian American history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 193A",
+  "title": "Research Seminar in Asian American Social Movements",
+  "units": "4",
+  "description": "Exploration of the study of Asian American social movements and research methodologies. Students work closely with the instructor to conduct original research and write a research paper on selected aspects of Asian American social movements.",
+  "prerequisites_raw": "Upper division only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 193B",
+  "title": "Research Seminar in Asian American Social Movements",
+  "units": "4",
+  "description": "Exploration of the study of Asian American social movements and research methodologies. Students work closely with the instructor to conduct original research and write a research paper on selected aspects of Asian American social movements.",
+  "prerequisites_raw": "Asian American Studies 193A; upper-division standing.",
+  "prerequisites_courses": [
+   "AS AM 193A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 194A",
+  "title": "Ethic Studies Teacher Education Seminar",
+  "units": "2",
+  "description": "Designed for students who are Black Studies, Chicana/o Studies, Asian American and/or Feminist Studies majors in the XITO (Educational eXcellence and Inclusion Training Opportunities) program. Central to the year-long seminar will be preparations for students pursuit for a career as K-12 Ethnic Studies educators. Students will have direct assistance for preparing and applying to Masters/Teacher Education Programs as well as professionalization workshops.",
+  "prerequisites_raw": "At least one course in one of these departments: Asian American Studies, Black Studies, Chicana/o Studies, Feminist Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 194B",
+  "title": "Ethnic Studies Teacher Education Seminar",
+  "units": "2",
+  "description": "Designed for students who are Black Studies, Chicana/o Studies, Asian American and/or Feminist Studies majors in the XITO (Educational eXcellence and Inclusion Training Opportunities) program. Central to the year-long seminar will be preparations for students pursuit for a career as K-12 Ethnic Studies educators. Students will have direct assistance for preparing and applying to Masters/Teacher Education Programs as well as professionalization workshops.",
+  "prerequisites_raw": "At least one course in one of these departments: Asian American Studies, Black Studies, Chicana/o Studies, Feminist Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 194C",
+  "title": "Ethnic Studies Teacher Education Seminar",
+  "units": "2",
+  "description": "Designed for students who are Black Studies, Chicana/o Studies, Asian American and/or Feminist Studies majors in the XITO (Educational eXcellence and Inclusion Training Opportunities) program. Central to the year-long seminar will be preparations for students pursuit for a career as K-12 Ethnic Studies educators. Students will have direct assistance for preparing and applying to Masters/Teacher Education Programs as well as professionalization workshops.",
+  "prerequisites_raw": "At least one course in one of these departments: Asian American Studies, Black Studies, Chicana/o Studies, Feminist Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 195H",
+  "title": "Senior Honors Project",
+  "units": "4",
+  "description": "Offers an opportunity for students who meet the prerequisites to do independent research and to write an honors thesis or produce an honors film/video or performance.",
+  "prerequisites_raw": "Open only to Asian American Studies majors, Junior standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 196",
+  "title": "Career Development Seminar in Asian American Studies",
+  "units": "1",
+  "description": "Course is for majors and other interested students who wish to explore career options under the supervision of a faculty member.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 197",
+  "title": "Field Studies",
+  "units": "0",
+  "description": "Students will conduct independent field work in Asian American communities. Specific projects include working with community agencies and organizations to evaluate programs, implement new or modified services, and develop community resources.",
+  "prerequisites_raw": "Open to students who 1) have attained upper-division standing, 2) have at least a 3.0 grade-point average for the preceding three quarters, 3) have completed at least two upper-division course in Asian American Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent study of topics not covered in the regular curriculum under the guidance of approved faculty member.",
+  "prerequisites_raw": "A lower-division Asian American Studies course and 2 upper-division courses; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 199RA",
+  "title": "Independent Research Assistance in Asian American Studies",
+  "units": "0",
+  "description": "Coursework consists of faculty supervised research assistance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

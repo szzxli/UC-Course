@@ -1,0 +1,222 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST W",
+  "code": "HIST W 80",
+  "title": "Chinese Civilization",
+  "units": "5",
+  "description": "A survey of the history of Chinese civilization from 2,000 BCE to the present, focusing on the origins and later development of political, social, economic, philosophical, religious, and cultural traditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST W",
+  "code": "HIST W 121A",
+  "title": "Renaissance Italy, 1300-1550",
+  "units": "4",
+  "description": "The cultural, political, social, and gender history of the Italian city republics and court societies. Examination of how contemporaries viewed their own society, in an attempt to answer the intriguing question of what was the Italian Renaissance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 10",
+  "title": "Transitioning to Academic Excellence",
+  "units": "2",
+  "description": "This course bridges the experiential and cognitive transitions necessary for academic success at UCSB. Lectures address the practical skills and tools necessary to achieve academic success while also addressing the affective impact of adjusting to the expectations, norms, and rigor of a research university.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 20",
+  "title": "Introduction to The Research University",
+  "units": "2",
+  "description": "Through reading, videos, and writing, students in this course are introduced to disciplines and activities at the core of the research university. Students learn about the form and function of the research university; understand how natural science, social science, humanities and fine arts, and interdisciplinary programs are situated, and develop a plan for engaging in undergraduate research as part of their UCSB experiences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 24",
+  "title": "Spotlight Seminars",
+  "units": "2",
+  "description": "Spotlight Seminars cultivate creative, innovative thinking by engaging students directly with world- renowned thought leaders and changemakers from diverse fields (e.g. media, arts, science, technology). Students will explore a specific research area, developing their critical thinking and confidence to tackle big challenges. Through direct exposure to visionary minds, students learn breakthrough thinking is accessible. Participants are also eligible to receive faculty mentorship and access to apply for funding to pursue independent research related to the seminar topic.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 30",
+  "title": "The First-Generation College Student Experience",
+  "units": "2",
+  "description": "This course engages with the first-generation college student experience. Being the first in one's family to attend a university is a major achievement. The course provides a dedicated space to explore the first-generation identity and the diverse backgrounds students bring to campus. Together we will review some of the latest research on the first-generation college student experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 33",
+  "title": "Discovery Seminar",
+  "units": "3",
+  "description": "Discovery Seminars provide opportunity to learn more about focused subjects with UCSBs distinguished faculty. Each Discovery Seminar will include three faculty from different disciplines who will share with students their perspectives on the subject, and also help students understand how faculty within their disciplines do the work of asking and investigating questions about these subjects. Students in the seminars will both develop their knowledge of the subject, and develop deeper understandings of how learning about disciplinary interests and perspectives can help them to become more effective learners.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 33G",
+  "title": "Brave New World: Perspectives on Gene Manipulation",
+  "units": "3",
+  "description": "Genetically Modified Organisms (GMOs), genome editing, and gene therapy have proven to be exceptionally controversial recently. Explores the benefits and pitfalls of these new technologies, especially the new method of genome editing called CRSPR-CAS, as well as their moral implications.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 33H",
+  "title": "Looking Under the Hood: Studying the University",
+  "units": "3",
+  "description": "The goal of this seminar is to learn about research in a university by doing research on the university. The subject of study is UCSB itself. Through reading, discussion, field trips, and discussion with faculty from across the campus, students will investigate questions about what makes UCSB a university, what makes one discipline different from another, and what are connections between disciplinary identities and knowledge.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 33J",
+  "title": "Justice",
+  "units": "3",
+  "description": "This seminar considers how justice is envisioned, represented, and studied in the fields of sociology, literature, and the arts. We focus especially on instances in which justice in the wake of extreme violence is pursued or denied, delayed or compromised. The seminar is organized around three case studies: US slavery, the dirty wars in Latin America during the Cold War, and the US war on terror.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 33S",
+  "title": "Sexuality, Ethnicity, and Contemporary Theater",
+  "units": "3",
+  "description": "How do writers and artists grapple with and represent questions of secrecy, visibility, violence, ethnicity and identity? An in-depth, behind the scenes investigation of Theatre UCSBs production of Lydia, by Octavio Solis, directed by Irwin Appel, co-professor of this seminar. Students study the play and observe all of the aspects of the production itself, including acting, casting, design, and direction. Culminates with the viewing of a performance in the Performing Arts Theater, along with a post-play discussion with actors and crew.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 33T",
+  "title": "Trust",
+  "units": "3",
+  "description": "How do you know if people or data are trustworthy? Trust represents an expectation of honesty and credibility; it allows us to work collaboratively with others. From the perspectives of Communication and Environmental Informatics, this course will examine trust in both people and information that defines social and professional life.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 34",
+  "title": "The Humanities Lab: Experiential Pathways to the Arts and Humanities",
+  "units": "4",
+  "description": "As part of the Arnhold Arts and Humanities Commons, Humanities Lab courses offer immersive opportunities to explore the arts and humanities. Students participate in interdisciplinary, innovative, and hands-on learning experiences designed to open pathways into the world of the arts and humanities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 34LE",
+  "title": "Literature and Experience",
+  "units": "4",
+  "description": "This Humanities Lab course funded by the Arnhold Arts and Humanities Commons offers immersive and experiential opportunities to explore world literature and culture. Students participate in interdisciplinary, innovative and hands-on learning experiences designed to open pathways into the humanities. Scheduled experiential events may include exploring cultures through writing in different scripts, learning about the nervous system through somatic experiencing, and attuning with our companion animals, as well as active learning experiences in the classroom through different media, with peers, and outside the classroom on field trips.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 35",
+  "title": "Exploring the Arts and Humanities",
+  "units": "8",
+  "description": "Courses in this series provide students an immersive experience that combines focus on a particular discipline in the Humanities with research and a performing and/or fine art or other additive experience. This integrative approach introduces students to how various disciplines explore, contextualize and creatively articulate the human experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 35DI",
+  "title": "Digging in: Exploring Asian-American Plays",
+  "units": "8",
+  "description": "A professor from Theater and a professor from East Asian Studies team up to teach a course about the anatomy of Asian-American plays. We study and interact with living playwrights including a writer in residence working with theDepartment of Theater & Dances LAUNCH PAD Summer Reading Series. A mix of scholarly research and embodied practice, the course encourages students to interpret plays through discussion, writing and performance projects, and playgoing. We also examine the complex issues surrounding ethnicity andidentity in producing theater.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 35DS",
+  "title": "The Past Haunts the Present: Ancient Values and Modern Interactions",
+  "units": "8",
+  "description": "An interdisciplinary exploration of significant issues in antiquity and the means by which they continue to inform modern attitudes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 35HD",
+  "title": "History of Disease and Epidemiology",
+  "units": "8",
+  "description": "Covers the history of disease both as a subject of scientific inquiry and a cultural and religious phenomenon. Students will study the historical background and key scientific ideas necessary for studying diseases and understanding their cultural impact.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 35LT",
+  "title": "Experiencing Shakespeare",
+  "units": "8",
+  "description": "This innovative 8-unit course brings together faculty from the departments of English and Theater & Dance to offer students an immersive experience of Shakespeare that combines performance, literary study, and research. As part of the course, students will attend a live theatrical production of Naked Shakes' Much Ado About Nothing, directed by Irwin Appel, one of the professors of the course. Students can expect Shakespeare to come to life on page and stage as we experience these multi-faceted plays from avariety of perspectives.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36",
+  "title": "Engaging Humanities Learning Community",
+  "units": "4",
+  "description": "Courses focused on innovative topics, ways of thinking, and career applications of humanities disciplines. Students engage in extensive reading, writing, and collaborative activity to explore ideas and develop their own thinking.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36BH",
+  "title": "Writing About, For, and With Bodies",
+  "units": "4",
+  "description": "Explores how we write about, for, and with bodies. We begin by looking at how bodies are written about, including how the meanings and standards of bodies are created by cultures (including various institutions and popular culture). Then, we think about how we write for bodies, particularly differently abled bodies, through advocacy and legislation. Finally, we explore how we write with our bodies, by thinking about writing as an embodied practice--that is, we write from particular identities, spaces, and situations--and how we write about our own bodies.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36CC",
+  "title": "Celebrating the City: Carnivals, Processions, and Other Urban Rituals",
+  "units": "4",
+  "description": "This course will introduce urban rituals, examining their intimate ties with the cultures and histories of the cities they celebrate. We will move through processions, carnivals, sacrifices, secret cults, funerary rites, and Worlds Fairs, from ancient Rome through the French Revolution to present-day Mumbai, Rio, and Istanbul. In looking for points of comparison across such a broad canvas, well draw on eclectic sources, including ethnographic, archaeological, and historical texts, graphic images, music, and film. And well collaborate to enact--and experience--one ourselves!",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

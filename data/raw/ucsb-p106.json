@@ -1,0 +1,362 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 264",
+  "title": "Petrotectonics",
+  "units": "4",
+  "description": "Analysis of orogenic belts using petrography, thermochronology, and thermobarometry. Subject material changes each year.",
+  "prerequisites_raw": "Earth 102C.",
+  "prerequisites_courses": [
+   "EARTH 102C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 264L",
+  "title": "Petrotectonics Laboratory",
+  "units": "0",
+  "description": "Analysis of orogenic belts using petrography, structural petrology, thermochronology, and thermobarometry.",
+  "prerequisites_raw": "Earth 102C.",
+  "prerequisites_courses": [
+   "EARTH 102C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 266",
+  "title": "Chemical Oceanography",
+  "units": "4",
+  "description": "An introduction to the chemistry of the oceans. Topics include composition and chemical equilibria of seawater, biogeochemical cycling, sediment chemistry, atmospheric exchange, circulation and rates of mixing based on chemical tracers, and the impact of ocean chemistry on climate change.",
+  "prerequisites_raw": "Chemistry 1C; graduate standing.",
+  "prerequisites_courses": [
+   "CHEM 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 267",
+  "title": "Climates of the Past",
+  "units": "3",
+  "description": "Introduction to climate and ocean history. Techniques used to reconstruct terrestrial, oceanic and atmospheric conditions. Evolution of climate over the last million years. Theories of climate change, including Milankovich hypothesis, greenhouse effect and internal feedback. Anthropogenic climate change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 268",
+  "title": "Seminar in Geology-Presentation",
+  "units": "1",
+  "description": "Presentation of research topics to meeting of Earth 260.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 269",
+  "title": "Tracer and Contaminant Hydrology",
+  "units": "4",
+  "description": "Introduction to principles of chemical and isotope tracer hydrology. Emphasis on methods of groundwater dating, the use of tracers as management tools, and contaminate plume monitoring. Research paper required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270AS",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270CJ",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270CM",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270DB",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270DV",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270FM",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270FS",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270GL",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270JC",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270KM",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270LM",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270MJ",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270MR",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270PG",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270RM",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270RR",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270SP",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270SW",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270TT",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 270ZE",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 272",
+  "title": "Special Topics In Earth Science",
+  "units": "4",
+  "description": "Lecture-based exploration and review of special topics in Earth Science. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 274",
+  "title": "Computational Approaches for Geological and Biological Sciences",
+  "units": "4",
+  "description": "This course offers a comprehensive introduction to data analysis using Python and R. Students will not only learn the fundamentals of coding but also develop skills in basic statistical analysis, data visualization, data management, and machine learning. Lab sessions will be designed to reinforce the concepts learned through hands-on practice. No coding experience is required. For graduate students, the course places additional emphasis on applying computational techniques and relevant software to analyze biological data, particularly in genomics. Graduate students will also engage in the development of a final project of their choice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 276",
+  "title": "Geological Oceanography",
+  "units": "4",
+  "description": "Morphology, formation, and evolution of ocean basins; crustal structure and composition of ocean margins; source and composition of marine sediments; marine sediment as repository of paleoclimate and paleo-ocean circulation records. Paleoceanographic changes in relation to tectonics and changes in orbital parameters, links between changes in ocean circulation and climate changes.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 277",
+  "title": "Ore Deposits and Mineral Resources",
+  "units": "5",
+  "description": "Distribution and characteristics of major classes of mineral deposits - their geologic framework, mineralogy, and structure. Lectures explore petrogenetic models for ore-formation. Laboratory exercises and field trips stress recognition of ore and accessory minerals, zoning, and exploration strategies. The field trip ranges from 1-4 days long",
+  "prerequisites_raw": "Earth 2; Earth 114 and 115",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 114",
+   "EARTH 115"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 280",
+  "title": "Seminar in Field Geology",
+  "units": "0",
+  "description": "Field trips of one day or more, organized as opportune. Appropriate report required for each trip.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 281",
+  "title": "Field Trips in Earth Science",
+  "units": "0",
+  "description": "Opportunity to see classic geological localities in the field. Locations vary depending on instructor(s). Lectures through the quarter cover background material needed to understand what is being observed/studied in the field. This material includes specified readings, homework assignments, exercises and exams. Lab work may also be required. Lecture, 3 hours; field, up to 6 weeks.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 282A",
+  "title": "Field Studies in Marine Bio/Geochemistry",
+  "units": "0",
+  "description": "Studies in marine bio/geochemistry with the opportunity of going to sea or into the field on land. Lectures cover techniques of seafloor mapping using bottom photography, marine bio/geochemical sampling, and methods of data reduction and sample analysis. Labs include analysis of data/samples collected.Lecture, 3 hours; lab, up to 7 hours; field, up to 6 weeks.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 282B",
+  "title": "Field Studies in Marine Bio/Geochemistry",
+  "units": "0",
+  "description": "Studies in marine bio/geochemistry with the opportunity of going to sea or into the field on land. Lectures cover techniques of seafloor mapping using bottom photography, marine bio/geochemical sampling, and methods of data reduction and sample analysis. Labs include analysis of data/samples collected.Lecture, 3 hours; lab, up to 7 hours; field, up to 6 weeks.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

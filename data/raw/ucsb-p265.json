@@ -1,0 +1,302 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200G",
+  "title": "Historical Literature - Women, Gender, and Sexuality",
+  "units": "4",
+  "description": "A reading course in a general area of history, specifically designed to prepare M.A. candidates for their comprehensive examination fields, but also appropriate for Ph.D. students seeking broad preparation. Introduction to the sources, historiography, and genereral literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200HS",
+  "title": "Historical Literature",
+  "units": "4",
+  "description": "A reading course in a general area of history, specifically designed to prepare M.A. candidates for their comprehensive examination fields, but also appropriate for Ph.D. students seeking broad preparation, introduces the student to the sources, historiography, and general literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200ME",
+  "title": "Historical Literature: Middle East",
+  "units": "4",
+  "description": "A reading course in a general area of history, specifically designed to prepare M.A. candidates for their comprehensive examination fields, but also appropriate for Ph.D. students seeking broad preparation. Introduces the student to the sources, historiography, and general literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200WD",
+  "title": "Historical Literature: World",
+  "units": "4",
+  "description": "A reading course in a general area of history, specifically designed to prepare M.A. candidates for their comprehensive exam fields, but also appropriate for Ph.D. students seeking broad preparation. Introduces the student to the sources, historiography, and general literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200WN",
+  "title": "Historical Literature: Women",
+  "units": "4",
+  "description": "A reading course in a general area of history, specifically designed to prepare M.A. candidates for their comprehensive exam fields, but also appropriate for Ph.D. students seeking broad preparation. Introduces the student to the sources, historiography, and general literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201AF",
+  "title": "Advanced Historical Literature: Africa",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. AF. Africa.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201AM",
+  "title": "Advanced Historical Literature: United States",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. AM. America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201AS",
+  "title": "Advanced Historical Literature: Asia",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. (Usually offered quarterly.)",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201AW",
+  "title": "Advanced Historical Literature: Atlantic World",
+  "units": "4",
+  "description": "Readings and discussion on comparative empires of the Atlantic World 1400-1800.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201C",
+  "title": "Advanced Historical Literature: Comparative",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces students to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201CA",
+  "title": "Advanced Historical Literature Early China",
+  "units": "4",
+  "description": "A reading course in a field of Chinese History, 2000 BCE-220 CE. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201CB",
+  "title": "Advanced historical Literature Middle Period China",
+  "units": "4",
+  "description": "A reading course in a field of Chinese History, 220 CE- 1571 CE. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201CC",
+  "title": "Advanced Historical Literature Late Imperial and Modern China",
+  "units": "4",
+  "description": "A reading course in a field of Chinese History, 1572 CE-present day. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201DH",
+  "title": "Theories and Practices of 'Digital History'",
+  "units": "4",
+  "description": "The advent of the world wide web and the development of tools to digitize massive amounts of historical source material are augmenting and changing the ways historians find and analyze sources, as well as how they present their work. This reading seminar explores recent literature on these developments. It includes practice in using the internet to gather sources, collaborate with amateur and professional historians, present one's findings, and interact with consumers of historical representations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201E",
+  "title": "Advanced Historical Literature: Europe",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. E. Europe.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201EH",
+  "title": "Readings in Environmental History",
+  "units": "4",
+  "description": "An introduction to some fundamental themes, questions, and methods in environmental history. To allow for an effective sampling of this diverse and capacious field of research, the chronological and geographic parameters of this course are wide open. By completing this course, students will have acquired a new set of tools to understand and investigate history, especially in regards to the interactions between human and other-than-human agents and realms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201G",
+  "title": "Advanced Historical Literature -- Gender",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces students to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201HS",
+  "title": "Advanced Historical Literature: History of Science",
+  "units": "4",
+  "description": "This graduate level readings seminar provides a survey of key works in the history of science. Introduces the student to the sources and literature of the field. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201HT",
+  "title": "Advanced Historical Literature: History of Technology",
+  "units": "4",
+  "description": "This graduate level readings seminar provides a survey of key works in the history of technology. Introduces the student to the sources and literature of the field. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201LA",
+  "title": "Advanced Historical Literature: Latin America",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. LA. Latin America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201ME",
+  "title": "Advanced Historical Literature: Middle East",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. ME. Middle East.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201OH",
+  "title": "Advanced Historical Literature: Oral History",
+  "units": "4",
+  "description": "Readings in a field of the professor's specialty. Introduction to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201PH",
+  "title": "Advanced Historical Literature",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201RE",
+  "title": "Advanced Historical Literature: Race and Ethnicity",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. RE. Race and Ethnicity",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201S",
+  "title": "Topics in the History of Science",
+  "units": "4",
+  "description": "Intensive study of specific problems in the history of science. Topics vary from year to year, and students may therefore repeat the course for credit.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201SA",
+  "title": "Advanced Historical Literature - South Asia",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor. SA South Asia",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201W",
+  "title": "Historical Writing",
+  "units": "4",
+  "description": "Professional writing: dissertations, conference papers, essays, articles, chapters, books, and other contributions. Graduate students bring previously prepared materials for perfection in organization, clarity, grammar, punctuation, vocabulary, documentation, footnote and bibliography forms, foreign languages and charts.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201WD",
+  "title": "Advanced Historical Literature: World",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 201WN",
+  "title": "Advanced Historical Literature - Women",
+  "units": "4",
+  "description": "A reading course in a field of the professor's specialty. Introduces the student to the sources and literature of the field in question. Written work as prescribed by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 202",
+  "title": "Historical Methods",
+  "units": "4",
+  "description": "A general introduction to selected historiographical issues and historical methods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

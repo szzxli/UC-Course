@@ -1,0 +1,310 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 217B",
+  "title": "Analyzing and Validating Measures",
+  "units": "4",
+  "description": "Covers foundational issues in the design, evaluation, and use of measurement instruments in education and psychology, including basic treatment of psychometrics, and in particular, item response theory (IRT).",
+  "prerequisites_raw": "ED 217A or consent of instructor",
+  "prerequisites_courses": [
+   "ED 217A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 217C",
+  "title": "Philosophy of Measurement",
+  "units": "4",
+  "description": "Introduction to the philosophical foundations of measurement theory, with a focus on applications in the social sciences. Explores how different philosophical perspectives affect the way in which measurement results are used and interpreted. Also provides an introduction to validity theory.",
+  "prerequisites_raw": "ED 217A and ED 217B OR consent of instructor.",
+  "prerequisites_courses": [
+   "ED 217A",
+   "ED 217B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 218",
+  "title": "Questionnaire Design: A Practical Guide From Conceptualization to Administration",
+  "units": "4",
+  "description": "Participants learn a survey design process by developing their own survey scale. The process includes: a literature review, interviews/focus groups, synthesizing key indicators, writing items according to best practices, conducting an expert review, cognitive pre-testing items, and small-scale pilot testing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 219B",
+  "title": "Research on Classroom Teaching",
+  "units": "4",
+  "description": "Introduction to various genre of research that have attempted to understand and improve classroom teaching over the past thirty years. Exploration of contemporary research programs and their results.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 220",
+  "title": "Introduction to Program Evaluation",
+  "units": "4",
+  "description": "This course is an overview of the field of program evaluation and its various aspects (planning, collecting, analyzing information, and reporting), as well as various evaluation strategies (i.e., qualitative, quantitative, formative, and summative), including those employing experimental and quasi-experimental designs.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221A",
+  "title": "Introduction to Qualitative Research Methods",
+  "units": "4",
+  "description": "Provides an introduction to qualitative research methods, including techniques for data collection and analysis within various disciplinary perspectives, experience participating in field research methods, and qualitative data analysis programs.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221B",
+  "title": "Qualitative Interviewing",
+  "units": "4",
+  "description": "Provides an introduction to qualitative interviewing traditions, including ethnographic interviews, life history interviews, cognitive interviews, and focus group interviews. Includes examination of the nuts and bolts of conducting and analyzing interviews as well.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221CC",
+  "title": "Observational Research",
+  "units": "4",
+  "description": "Explores theory used in observations, the kinds of field notes used during observations, how to organize field notes to create scenes, and how to complete analysis of observations through memos, coding, and moving between theory and data.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221D",
+  "title": "Video Analysis",
+  "units": "4",
+  "description": "Examines ways of analyzing classroom ethnography data, sociolinguistic and ethnographic approaches to data analysis, and issues in data analysis. Involves participants in the process of video data analysis.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221EE",
+  "title": "Discourse Analysis in Educational Settings",
+  "units": "4",
+  "description": "Examines the nature of discourse, linguistic constructs, and how they apply to student discourse in educational settings. Includes issues in transcribing and analyzing classroom talk.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221F",
+  "title": "Community Ethnography",
+  "units": "4",
+  "description": "Explores how to carry out ethnographic research in order to investigate the relationships among schools, families, and communities.",
+  "prerequisites_raw": "Education 221a or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221GG",
+  "title": "Case Study Methods: Research and Practice",
+  "units": "4",
+  "description": "Focuses on case study methodology. Students learn the different types of case studies and the value of using a multiple case design. Also provides students with tools for preparing their dissertation proposal.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221H",
+  "title": "Design-Based Research and Research-Based Design",
+  "units": "4",
+  "description": "Examines the concurrent design of learning contexts and research on learning. Combines many different research methods. The readings and topics are subject to change based on students' interest.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 221I",
+  "title": "Qualitative Analysis",
+  "units": "4",
+  "description": "This course aims to build students’ understanding of the relationship among qualitative research design, theoretical frameworks, data collection, and analysis and introduce a range of qualitative data analytic strategies that students will use to analyze their own data.",
+  "prerequisites_raw": "ED 221A (Intro to Qualitative Research) or permission of instructor",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 222A",
+  "title": "Introduction to Exceptional Children",
+  "units": "4",
+  "description": "Overview of the historical, social, and legislative foundations of the education of the exceptional pupil. Survey of the range and nature of disabilities requiring special education.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 222B",
+  "title": "Academic and Cognitive Characteristics of Learners with Mild to Moderate Support Needs",
+  "units": "4",
+  "description": "Study of the academic and cognitive characteristics of children who are at risk or have mild disabilities. Interventions for these students will also be covered.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 222C",
+  "title": "Social and Affective Characteristics of Students with Mild Disabilities.",
+  "units": "4",
+  "description": "Study of the affective and social characteristics of children who are at risk or have mild disabilities. Interventions for these students will also be covered.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 222D",
+  "title": "Law, Ethics, and History of Special Education",
+  "units": "4",
+  "description": "Intensive look at the laws governing special education and civil rights for people with disabilities in the U.S. The ethics of special education and key historical developments are also covered. Topics include current controversies and historical trends.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 222E",
+  "title": "Developmental Behavioral Genetics",
+  "units": "4",
+  "description": "Provides an overview of the field of developmental behavioral genetics. Topics covered include basic principles of genetics, mechanisms of genetics transmission, chromosomal abnormalities, behavior genetics methodologies, and the genetics of specific behavioral disorders in children and adults.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 222F",
+  "title": "Inclusive Education",
+  "units": "4",
+  "description": "Explores critical issues in inclusive education, the participation of students with disabilities in general education settings. The class explores the history of inclusion within social justice movements, Multi-Tiered Systems of Support (MTSS) and Universal Design for Learning.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 223H",
+  "title": "Education Policy for Special Populations",
+  "units": "4",
+  "description": "Focus on federal and state education policy that addresses education problems of special populations those characterized in terms of ability, socioeconomic status, or ethno-linguistic differences or veterans status. Particular attention is given to the Elementary and Secondary Education Act, originally intended to compensate for the negative effects of economic disadvantage, and the Individuals with Disabilities Education Act, originally intended to provide equal access and opportunity for preschoolers, children, and youth with disabilities. Discussions will involve different perspectives on policy-making, policy analysis, policy research, and policy analysis research. M.A. or M.Ed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 224AA",
+  "title": "Interactional Ethnography",
+  "units": "4",
+  "description": "Examines the pre-fieldwork and fieldwork phase of ethnography in school and classroom settings, including issues of entry and access, theoretical frameworks, indexing data, and the processes of data collection and analysis.",
+  "prerequisites_raw": "Education 221A and Education 221EE or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A",
+   "ED 221EE"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 224B",
+  "title": "Narrative Analysis",
+  "units": "4",
+  "description": "Explores linguistic/stylistic and thematic/content analyses, and structural approaches of classic narrative theory. Explores also how narratives are used to shape personal shared reality and social relationships; have power; are embedded in conversations; and differ across gender and culture.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 224CC",
+  "title": "Textual Analysis",
+  "units": "4",
+  "description": "Examines principles and practice in methods of investigating writing; applicability and adaptations of qualitative and quantitative research methods; problems of assessing writing test, skills, and processes in research; and use of research techniques for reflective practice of teachers and writers.",
+  "prerequisites_raw": "Education 221A or consent of instructor.",
+  "prerequisites_courses": [
+   "ED 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 225",
+  "title": "Evaluation Procedures",
+  "units": "4",
+  "description": "Evaluation practice integrated of three facets: 1) program context, 2) evaluator skills, and 3) evaluation methods. This class is designed to illustrate how these three facets connect when designing an evaluation that is theoretically grounded, feasible, and useful.",
+  "prerequisites_raw": "ED 220",
+  "prerequisites_courses": [
+   "ED 220"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 227",
+  "title": "Mixed Methods",
+  "units": "4",
+  "description": "This course provides an overview of mixed methods research and consists of defining mixed methods research, describing its history and foundations. We examine the types of mixed methods designs available along with how and when to utilize them.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228A",
+  "title": "Learners with Extensive Support Needs: Skills Instruction",
+  "units": "4",
+  "description": "Learning and motivational characteristics, assessments for screening, diagnosis, instructional planning, and functional analysis of behavioral problems. Procedures for teaching functional skills and recent research arecovered.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228B",
+  "title": "Learners with Extensive Support Needs: Communication",
+  "units": "4",
+  "description": "Teaching and research on instruction of communication and language competence and social competance. Research theory, and instructional practice are covered. The course is designed for masters and doctoral students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

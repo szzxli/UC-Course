@@ -1,0 +1,310 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 4H",
+  "title": "Introduction to Asian American Popular Culture",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in AS AM 4; consent of instructor.",
+  "prerequisites_courses": [
+   "AS AM 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 5",
+  "title": "Introduction to Asian American Literature",
+  "units": "5",
+  "description": "Selected major themes in literary texts from Asian American communities, including Japanese, Chinese, Korean, Filipino and Southeast Asian Americans: dislocation/relocation; finding/inventing a usable past; poetics/politics in language; identities/ethnicities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 5H",
+  "title": "Introduction to Asian American Literature Honors Section",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in AS AM 5; consent of instructor.",
+  "prerequisites_courses": [
+   "AS AM 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 7",
+  "title": "Globalization, Gender and Social Inequality in Asian America",
+  "units": "4",
+  "description": "Survey of contemporary social scientific theories and empirical studies of globalization through the experiences of Asian Americans. Major themes include global capitalism, labor, colonialism, modernity, pop culture, diaspora, race, gender, sexuality and cultural difference.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 8",
+  "title": "Introduction to Asian American Gender and Sexuality",
+  "units": "5",
+  "description": "Introduction of gendered analysis and intersectionality in the study of Asian Americans from sociological, psychological, and historical perspectives. Major themes include social construction of femininities and masculinities, family formation, productive and reproductive labor, global capitalism, violence regulating gender and sexuality.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 8H",
+  "title": "Introduction to Asian American Gender and Sexuality.",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in AS AM 8; consent of instructor.",
+  "prerequisites_courses": [
+   "AS AM 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 9",
+  "title": "Race and Resistance: Asian American, Black, Chicana/o and Indigenous Freedom Struggles",
+  "units": "5",
+  "description": "Studies US race-based freedom struggles, emphasizing the 1960s-70s, within the context of global decolonization and the study of the long movement from the 1930s to the present. Examines how social movements are studied historically.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 9H",
+  "title": "Asian American Freedom Struggles and Third World Resistance",
+  "units": "1",
+  "description": "History of Asian American freedom struggles, organizations, leadership models, ideologies, and solidarities, with a particular focus on the 1960s-70s period. The Asian American Movement is studied in the context of US and world history, especially the US Black and Third World decolonization movements.",
+  "prerequisites_raw": "Concurrent enrollment in AS AM 9",
+  "prerequisites_courses": [
+   "AS AM 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 11",
+  "title": "Community Studies Organizing for Change",
+  "units": "5",
+  "description": "This course examines various aspects of community organizing for equity and justice. The course will introduce models for social change and approaches to leadership development. It will examine case studies of campaigns for justice, within the context of social movement histories.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 71",
+  "title": "Introduction to Asian American Religions",
+  "units": "5",
+  "description": "Survey of the major themes and issues in Asian American religious history, belief, and practice. Topics include the problem of orientalism; Buddhism and race; Asian American forms of Christianity; religion's role in immigrant and second-generation identity; Asian American contextual theologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 79",
+  "title": "Introduction to Dramatic Writing",
+  "units": "5",
+  "description": "A intensive introduction to playwriting for beginning dramatists. Students will read and analyze the structure of plays, write and stage their own short plays, and gain experience acting in and directing each other's work. Homework for the course includes a series of written and performance-based assignments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 99",
+  "title": "Independent Research Assistant",
+  "units": "8",
+  "description": "Coursework consists of faculty-supervised research assistance for students with Freshmen and Sophomore standing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100",
+  "title": "Specific Asian Ethnic Groups",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100AA",
+  "title": "Chinese Americans",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups: Chinese Americans 100AA.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100BB",
+  "title": "Japanese Americans",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups: Japanese Americans 100BB.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100CC",
+  "title": "Filipino Americans",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups: Filipino Americans.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100DD",
+  "title": "Korean Americans",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups: Korean Americans (100DD).",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100EE",
+  "title": "Vietnamese Americans",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups: Vietnamese Americans (100EE).",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100FF",
+  "title": "South Asian Americans",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups: South Asian Americans (100FF),",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100HH",
+  "title": "Southeast Asian Americans",
+  "units": "4",
+  "description": "The historical and contemporary experiences of specific Asian ethnic groups: Southeast Asian Americans (100HH).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 100JJ",
+  "title": "Arab and Muslim Americans: Roots, Representation, Resistance",
+  "units": "4",
+  "description": "Critically analyzes the historical, social, political, and cultural formations and racialized regimes of power that characterize Arabs and Muslims in the US, drawing from interdisciplinary fields such as Ethnic Studies, Asian & Arab American Studies, Decolonial Theory, and Feminist Studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 101C",
+  "title": "Teaching 4 Social Justice",
+  "units": "4",
+  "description": "This interdisciplinary course will highlight how a curriculum focusing on racial, ethnic, gender, and LGBTQ studies is central to teaching and learning within diverse societal contexts. This grounding is essential for K-12 teachers in History and English/Literature. Through a social justice framework, students will learn how classrooms are enhanced by Ethnic and Feminist Studies, placing graduates within the forefront of educational initiatives that position teaching and learning within an inclusive and equitable paradigm.",
+  "prerequisites_raw": "At least one course in one of these departments: Asian American Studies, Black Studies, Chicana/o Studies, Feminist Studies",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 102",
+  "title": "Sociology of Asian America",
+  "units": "4",
+  "description": "This course critically examines contemporary Asian American experiences within a larger social and historical context. Using an Ethnic Studies lens, we will engage sociological understandings of the social, political, and economic conditions that structure the roots of Asian America.",
+  "prerequisites_raw": "One previous course in Asian American Studies or Upper-Division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 107",
+  "title": "Third World Social Movements",
+  "units": "4",
+  "description": "Racial comparative analysis of Third World social movements. Study of impact of historical context, political economy, racial formation, and gender dynamics on activism of Asian, Black, Chicana/o, Indigenous, Puerto Rican communities in the United States; also attention to global struggles.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 109",
+  "title": "Gender and Labor in Transnational Asian America",
+  "units": "4",
+  "description": "Examines Asian American women and the politics of labor. Will equal pay for equal work resolve long-standing inequities? Why are women of color over-represented in certain kinds of jobs? We will examine women's experiences in the gendering of labor.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 110",
+  "title": "Transnational Asian America",
+  "units": "4",
+  "description": "Focuses on \"deterritorialized\" processes that have emerged due to intensified globalization. Emphasis on three distinct schools of thought (diasporic studies, cultural globalization, and transmigration) that illuminate how people, goods, and ideas intersect across multiple spaces and times.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 111",
+  "title": "Contemporary Asian American Activism",
+  "units": "4",
+  "description": "Historical formation of Asian immigrant communities and their social structures and functions; impact of post-1965 Asian immigration on existing communities; issues facing Asian Americans today including education, employment, discrimination, civil rights, political participation, media stereotypes, and anti-Asian violence.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 112",
+  "title": "Intimacies in Asian America",
+  "units": "4",
+  "description": "Considers varieties of intimacies in Asian America; deconstructs non-Western formulations of experience and lifestyle. Theories/empirical studies of love, emotions, sexualities, gender, and interracial/ inter-ethnic experiences; institutions like the state, marriage, and culture. Sources include ethnography, film, testimony, and memoirs.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 113",
+  "title": "Asian Americans and the Long Civil Rights Movement",
+  "units": "4",
+  "description": "Examines the Asian American Movement of the 1960s-70s in the long Civil Rights Movement framework, connecting with earlier and later activism. Focuses on leadership development, pan-Asian identity, Third World solidarities, feminism, education, housing, and antiwar, among other critical issues.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 114",
+  "title": "Asian Americans and Public Policy",
+  "units": "4",
+  "description": "Presents formal justifications for using racial categories in American public policy. Course presents racial theories about other groups, with particular attention to Asians. Covers period from 1850 to 1990.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ }
+]

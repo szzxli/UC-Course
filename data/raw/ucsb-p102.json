@@ -1,0 +1,292 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 156",
+  "title": "Tectonic Controls on Sedimentation",
+  "units": "4",
+  "description": "Integrates sedimentology, volcanology, structural geology, petrology, and geophysics in the study of basins. Overview of divergent, convergent, and strike slip margins, with textbook readings. Journal readings and field trip to case study area, which changes yearly. Field work completed on weekends and over spring break.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 157",
+  "title": "Plate Tectonics",
+  "units": "4",
+  "description": "Introduction to sea floor spreading, plate tectonics, and continental drift. Geometry and evolution of present day plates. Measurement and calculation of plate motions. Geophysical and geological implications of resulting relative motions at plate boundaries.",
+  "prerequisites_raw": "Earth 2; upper-division standing.",
+  "prerequisites_courses": [
+   "EARTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 157X",
+  "title": "Advanced Plate Tectonics Seminar",
+  "units": "4",
+  "description": "Discuss current research in plate tectonics. Supplements material covered in Earth 157.",
+  "prerequisites_raw": "Earth 157 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EARTH 157"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 158",
+  "title": "Advanced Structural Geology",
+  "units": "5",
+  "description": "Analysis of geologic-structures--theory and practice. Rock deformation as a function of crustal environment. Fault mechanics and earthquakes; mineral deformation mechanisms; microstructures, and tectonite fabrics. Finite strain measurement and interpretation of kinematic indicators. Regional structural styles. Includes one to two field trip(s) lasting 1-4 days.",
+  "prerequisites_raw": "Earth 103.",
+  "prerequisites_courses": [
+   "EARTH 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 159",
+  "title": "Origin of the Earth",
+  "units": "4",
+  "description": "Origin of the Earth from the perspective of planetary genesis and the history of the solar nebula. Geochemistry and cosmochemistry of ancient solar system materials; accretion and earliest history of the Earth-moon system.",
+  "prerequisites_raw": "Earth 123; and, Physics 6A or 1 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EARTH 123",
+   "PHYS 6A",
+   "PHYS 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 160",
+  "title": "Seminar in Geology",
+  "units": "1",
+  "description": "Attendance at departmental \"journal club\" (Earth 260, seminar in geology) and brief written evaluations of the three papers which, in the student's judgement, were the best of the quarter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 161",
+  "title": "Earth Resources, Energy and the Environment",
+  "units": "4",
+  "description": "An overview of the energy resources that sustain our economies and their environmental impact. Explores the full life cycle of each resource including its geological origins, methods used to explore and develop it, uses in our economies, and the environmental impacts of these activities.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 162",
+  "title": "Marine Micropaleontology and Paleobiology",
+  "units": "4",
+  "description": "A survey of the major marine microfossil groups of the Cenozoic and Mesozoic; with particular reference to classification, preservation, evolution, stratigraphic utility, paleobiology, biogeography, paleoceanographic relations and sediment accumulation.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 163",
+  "title": "Organic Matters",
+  "units": "4",
+  "description": "An introduction to the chemistry of natural organic matter in the ocean, biosphere, and geosphere. Topics include marine organic carbon production and export, fossil fuel formation, tools for identifying ancient life and paleo-environmental conditions (biomarkers, isotopes), and the global impacts of organic carbon burial on global biogeochemical cycles. Some offerings will include a 1 day field trip.",
+  "prerequisites_raw": "CHEM 1C",
+  "prerequisites_courses": [
+   "CHEM 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 164B",
+  "title": "Earth System Ocean-Atmosphere",
+  "units": "4",
+  "description": "An introduction to the chemistry of the ocean and atmosphere. Topics include composition of seawater, biogeochemical cycling, sediment chemistry, chemical tracers of circulation, ocean-atmosphere exchange, atmospheric photochemistry and pollution, and the impact of Earth system chemical changes on climate.",
+  "prerequisites_raw": "Chemistry 1C.",
+  "prerequisites_courses": [
+   "CHEM 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 164C",
+  "title": "Earth System History",
+  "units": "4",
+  "description": "Examination of the evolution of the Earth's environmental system from Cretaceous to present day; interactions between plate tectonics and orogeny (lithosphere) and changes in ocean circulation (hydrosphere), climate (atmosphere), ice sheets (cryosphere), and life (biosphere). Global change theories.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 168",
+  "title": "Aqueous Transport of Pollutants",
+  "units": "4",
+  "description": "Focus on the behavior of dissolved species in rivers. Examination of the basic advection-diffusion model. Particular emphasis on field data.",
+  "prerequisites_raw": "Mathematics 2B or 3B and Chemistry 1A-B-C.",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "CHEM 1A",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 169",
+  "title": "Tracer and Contaminant Hydrology",
+  "units": "4",
+  "description": "Introduction to principles of chemical and isotope tracer hydrology. Emphasis on methods of groundwater dating, the use of tracers as management tools, and contaminate plume monitoring.",
+  "prerequisites_raw": "Mathematics 2B or 3B and Chemistry 1A-B-C.",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "CHEM 1A",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 173",
+  "title": "Groundwater Hydrology",
+  "units": "5",
+  "description": "Analysis of groundwater flow in complex geologic environments, aquifer properties, wells and groundwater contamination, surface water-groundwater interactions. Laboratory: basic groundwater experiments, Darcy's law, flow nets, solute dispersion, field measurements of bedrock groundwater, analysis of pumping-test data.",
+  "prerequisites_raw": "GEOG 3B or 4 or EARTH 2; or consent of instructor.",
+  "prerequisites_courses": [
+   "GEOG 3B",
+   "EARTH 2",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 174",
+  "title": "Computational Approaches for Geological and Biological Sciences",
+  "units": "4",
+  "description": "This course offers a comprehensive introduction to data analysis using Python and R. Students will not only learn the fundamentals of coding but also develop skills in basic statistical analysis, data visualization, data management, and machine learning. Lab sessions will be designed to reinforce the concepts learned through hands-on practice. No coding experience is required.",
+  "prerequisites_raw": "Earth 134",
+  "prerequisites_courses": [
+   "EARTH 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 175",
+  "title": "Introduction to MATLAB for Earth Scientists",
+  "units": "4",
+  "description": "A 10-week introduction to coding in MATLAB including: basic programming, analysis using vectors and matrices, logical operations and indexing, data import/export, visualization and plotting, designing functions and packages, interactive user interface, and debugging.",
+  "prerequisites_raw": "Earth 2 OR Earth 4 OR Upper division standing",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 176",
+  "title": "Geological Applications of GIS",
+  "units": "4",
+  "description": "An intensive introduction to Geographic Information Systems (GIS) with an emphasis on geological applications, including geologic mapping, topographic analysis, modeling surface processes and river networks, importation and interpolation of field data, and spatial analysis and correlation of multiple geologic datasets. Short Lectures are interspersed with the lab exercises.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 177",
+  "title": "Ore Deposits and Mineral Resources",
+  "units": "5",
+  "description": "Distribution and characteristics of major classes of mineral deposits - their geologic framework, mineralogy, and structure. Lectures explore petrogenetic models for ore-formation. Laboratory exercises and field trips stress recognition of ore and accessory minerals, zoning, and exploration strategies. The field trip ranges from 1-4 days long.",
+  "prerequisites_raw": "Earth 2; Earth 114 and 115",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 114",
+   "EARTH 115"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 181",
+  "title": "Field Trips in Earth Science",
+  "units": "0",
+  "description": "Opportunity to see classic geological localities in the field. Locations vary depending on instructor(s). Lectures through the quarter cover background material needed to understand what is being observed/studied in the field. This material includes specified readings, homework assignments, exercises and exams. Lab work may also be required. Lecture, 3 hours; field, up to 6 weeks.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 182A",
+  "title": "Field Studies in Marine Bio/Geochemistry",
+  "units": "0",
+  "description": "Marine bio/geochemistry with the opportunity of going to sea or into the field on land. Lectures cover techniques of sea-floor mapping using bottom photography, marine bio/geochemical sampling, and method of data reduction and sample analysis. Labs include analysis of data/samples collected.Lecture, 3 hours; labs, up to 7 hours; field, up to 6 weeks.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 182B",
+  "title": "Field Studies in Marine Bio/Geochemistry",
+  "units": "0",
+  "description": "Marine bio/geochemistry with the opportunity of going to sea or into the field on land. Lectures cover techniques of sea-floor mapping using bottom photography, marine bio/geochemical sampling, and method of data reduction and sample analysis. Labs include analysis of data/samples collected.Lecture, 3 hours; lab, up to 7 hours; field, up to 6 weeks.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 183",
+  "title": "Advanced Field Mapping and Geologic Investigations",
+  "units": "4",
+  "description": "Research-oriented mapping projects to solve outstanding problem(s) in a geologically significant area. Two weeks in the field, followed by compilation and complementary laboratory studies. Weekly meetings to discuss results.",
+  "prerequisites_raw": "Earth 118 or equivalent.",
+  "prerequisites_courses": [
+   "EARTH 118"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 184A",
+  "title": "Principles of Soil Science",
+  "units": "4",
+  "description": "Explores core introductory concepts in soil science and how soils relate to global environmental challenges. Includes study of soil physical, biological, and chemical properties, soil development, and fertility, as well as the critical role of soils in fostering thriving communities. Incorporates independent projects and soils excursions.",
+  "prerequisites_raw": "Environmental Studies 15A and 15B or Chemistry 1A-B; and Geography 3 or 4 or Earth Science 2 or 4 or 20",
+  "prerequisites_courses": [
+   "ENV S 15A",
+   "CHEM 1A",
+   "GEOG 3",
+   "EARTH 2",
+   "ENV S 15B",
+   "GEOG 4",
+   "EARTH 4",
+   "EARTH 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 184B",
+  "title": "Soils of California: Formation, Morphology, and Management",
+  "units": "5",
+  "description": "Course dives into soil genesis, classification, and sustainable land use in the context of California’s diverse soils. Connects soil characteristics and landscapes to communities, conservation, ecological relationships, agriculture, and climate change. Covers field safety, soil descriptions, and field methods via hands-on field experiences during lab.",
+  "prerequisites_raw": "Environmental Studies 114A or Geography 114A or Earth Science 184A with a grade C or higher.",
+  "prerequisites_courses": [
+   "ENV S 114A",
+   "GEOG 114A",
+   "EARTH 184A"
+  ]
+ }
+]

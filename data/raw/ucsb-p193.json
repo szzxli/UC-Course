@@ -1,0 +1,343 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 95",
+  "title": "Internship in Film/Television",
+  "units": "2",
+  "description": "An opportunity for training, career sampling, and contacts in the film or television industry. Required are approximately 100 hours of work per quarter, a final five-page report, and a supervisor's letter of verification.",
+  "prerequisites_raw": "Film and Media Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 96",
+  "title": "Advanced Film Analysis",
+  "units": "5",
+  "description": "A study of the basic formal dimensions of cinema: narration, space, time, and sound.",
+  "prerequisites_raw": "Film and Media Studies 46 and 70 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 70"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 99",
+  "title": "Independent Studies.",
+  "units": "0",
+  "description": "Selected research under the direction of a faculty member.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101A",
+  "title": "History of Cinema: The Silent Film",
+  "units": "5",
+  "description": "International film history from the camera obscura to the close of the silent era in the late 1920's. Historical accounts of film as an aesthetic form, a social force, an economic institution, and a technology are considered.",
+  "prerequisites_raw": "FAMST 96 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101AH",
+  "title": "History of Cinema: The Silent Film - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated Letters and Science Honors Students.",
+  "prerequisites_raw": "Student must be concurrently enrolled in Film and Media Studies 101A",
+  "prerequisites_courses": [
+   "FAMST 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101B",
+  "title": "History of Cinema: The Development of Sound Film",
+  "units": "5",
+  "description": "International film history from the advent of talkies through the late 1950s. Historical accounts of film as an aesthetic form, a social force, an economic institution, and a technology is considered.",
+  "prerequisites_raw": "Film and Media Studies 96 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101BH",
+  "title": "History of Cinema: The Development of Sound - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated Letters and Science Honors Students.",
+  "prerequisites_raw": "Student must be concurrently enrolled in Film and Media Studies 101B",
+  "prerequisites_courses": [
+   "FAMST 101B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101C",
+  "title": "History of Cinema: New Waves and Beyond",
+  "units": "5",
+  "description": "International film history since 1959. Historical accounts of film as an aesthetic form, a social force, an economic institution, and a technology is considered.",
+  "prerequisites_raw": "Film and Media Studies 96 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101CH",
+  "title": "History of Cinema: New Waves and Beyond",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated Letters and Science Honors Students.",
+  "prerequisites_raw": "Student must be concurrently enrolled in Film and Media Studies 101C",
+  "prerequisites_courses": [
+   "FAMST 101C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101D",
+  "title": "History of Electronic Media: Telegraphy to Early Television",
+  "units": "5",
+  "description": "International history of electronic media and broadcasting from telegraphy to early television. Historical accounts of telegraphy, radio, and early television as cultural forms, communications technologies, and social political and economic institutions are considered.",
+  "prerequisites_raw": "Film and Media Studies 96 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101E",
+  "title": "History of Electronic Media: Network TV to the Digital Era",
+  "units": "5",
+  "description": "International history of electronic media from the 1960s through the present day. Historical accounts of broadcasting, cable, satellites and digital media as cultural forms, communications technologies and social, political and economic institutions are considered.",
+  "prerequisites_raw": "Film and Media Studies 96 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101F",
+  "title": "Film History: International Cinema from 1989-Present",
+  "units": "5",
+  "description": "International film history since 1989. Focuses on the expansion of independent and corporate-backed filmmaking around the world after the end of the Cold War as well as on a wide range of industrial, technological, cultural, and aesthetic changes.",
+  "prerequisites_raw": "FAMST 96 with a grade of C or better.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 101FH",
+  "title": "Film History: International Cinema from 1989-Present - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated FAMST majors.",
+  "prerequisites_raw": "Student must be concurrently enrolled in Film and Media Studies 101F",
+  "prerequisites_courses": [
+   "FAMST 101F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 102",
+  "title": "Acting and Directing Workshop",
+  "units": "4",
+  "description": "Designed as an introduction to the fundamentals and interaction of acting and directing in the creative process of producing a film or video. Every student will write, perform in, direct, and record on video a short work.",
+  "prerequisites_raw": "Film and Media Studies 46; and consent of instructor; upper-division film and majors only",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 103",
+  "title": "Project Development",
+  "units": "4",
+  "description": "A workshop approach to the development of a short film project. Course covers writing, budget preparation, and preproduction, with particular attention to final distribution needs.",
+  "prerequisites_raw": "Film and Media Studies 46; and, Film and Media Studies 104, or 106A-B; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 104",
+   "FAMST 106A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 104",
+  "title": "Introduction to Production Technology",
+  "units": "5",
+  "description": "An introduction to video production and technology, focusing on the fundamental concepts of the moving image including core aspects of shooting, lighting, sound-recording & editing. Lectures complement the hands-on labs by covering key concepts, dissecting various productions, and learning the workflow from pre to post-production.",
+  "prerequisites_raw": "Film and Media Studies 46; open to film and media majors only.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 105",
+  "title": "Historic Production",
+  "units": "4",
+  "description": "Teaches film history as a production workshop. Students will be introduced to the primary technologies and working methods used during three distinct eras in the development of the motion picture. The class will write and produce scenes on 16mm film reflecting the styles and techniques of the silent era.",
+  "prerequisites_raw": "Film and Media Studies 46; open to film studies majors only.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 106A",
+  "title": "Crew Production Part One",
+  "units": "5",
+  "description": "Instruction in the basic techniques of filmmaking via the production of crew projects over two consecutive quarters. Pre-production through principal photography.",
+  "prerequisites_raw": "Film Studies 46; and, 102 or 104 or 107; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 102",
+   "FAMST 104",
+   "FAMST 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 106B",
+  "title": "Crew Production part two",
+  "units": "5",
+  "description": "Instruction in the basic techniques of filmmaking via the production of crew projects over two consecutive quarters. Post-production through exhibition.",
+  "prerequisites_raw": "Film Studies 46; and, 102 or 104 or 107; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 102",
+   "FAMST 104",
+   "FAMST 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 107",
+  "title": "Introduction to Animation",
+  "units": "5",
+  "description": "A look at the techniques and history of animation with emphasis on the major styles and methods of production, including cel, direct, photo, three-dimensional and computer. Close examination of significant films combined with production of a class project.",
+  "prerequisites_raw": "Film and Media Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 107S",
+  "title": "Contemporary Animation",
+  "units": "4",
+  "description": "Covers the basics of both classical and computer animation from a practical and theoretical point of view. Field trips are taken.",
+  "prerequisites_raw": "Film Studies 107.",
+  "prerequisites_courses": [
+   "FAMST 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 108",
+  "title": "Short Project Production",
+  "units": "4",
+  "description": "A workshop approach to the production of individual, short projects. Each student produces a project by the end of the quarter. Admission to this course is determined by creative portfolio.",
+  "prerequisites_raw": "Film and Media Studies 46 or consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109AR",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109C",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109EA",
+  "title": "Special Topics in Film Production: Impact Media",
+  "units": "4",
+  "description": "Compelling story telling drives social and environmental change. The aim of this course is to develop the skills of a multi-platform producer. Students learn how to create professional media and impact strategies that influence behavior and drive innovation on contemporary media platforms from instagram to the big screen.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109EM",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109EP",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ }
+]

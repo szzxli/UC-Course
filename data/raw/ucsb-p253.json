@@ -1,0 +1,366 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 110F",
+  "title": "Frozen: A Global History of Ice, 12000BCE-2100CE",
+  "units": "4",
+  "description": "Before the onset of the present-day anthropogenic climate crisis, the world had a different problem with ice. Some had too much of it, others could not have enough of it. How did people in the past overcome the challenges ice posed as a hindrance to mobility? How did they exploit it as a useful resource? As a coveted luxury? Is icebreaking no longer relevant in an age of global warming and melting polar icecaps, or does it still concern us today? In this course, we will explore how the history of ice can be understood as a history of how human beings not only adapt to natural environments but alter them for various ends amidst changes in the climates they inhabit.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 110Q",
+  "title": "Seminar in Medical History",
+  "units": "4",
+  "description": "Topics in Asian, African, European, and American medical systems focusing on their historical evolution in the nineteenth and twentieth centuries.",
+  "prerequisites_raw": "Hist 20 or 110 or 110D (may be taken concurrently)",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111A",
+  "title": "History of Greece",
+  "units": "4",
+  "description": "Early Greece, 3000-750 B.C.",
+  "prerequisites_raw": "History 2A or 4A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111B",
+  "title": "History of Greece",
+  "units": "4",
+  "description": "Archaic and Classical Greece, 750-323 B.C.",
+  "prerequisites_raw": "History 2A or 4A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111C",
+  "title": "History of Greece",
+  "units": "4",
+  "description": "The Hellenistic Word, 323-31 B.C.",
+  "prerequisites_raw": "History 2A or 4A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111E",
+  "title": "The Eastern Greek World, 750-330BCE",
+  "units": "4",
+  "description": "History of the eastern Aegean and western Anatolia from the rise of the Greek polis to the conquests of Alexander. Topics include Greek colonization, Anatolian state formation, interaction between Greeks and non-Greeks, changes in warfare, and the effects of empire.",
+  "prerequisites_raw": "History 2A or 4A.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111F",
+  "title": "Achaemenid Persia, 559-330BCE",
+  "units": "4",
+  "description": "History of the Persian Empire from its formation under Cyrus II of Anshan (r. 559-530 BCE) to the conquests of Alexander III of Macedon (356-323 BCE).",
+  "prerequisites_raw": "History 2A or 4A",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111Q",
+  "title": "Readings in Greek History",
+  "units": "4",
+  "description": "Undergraduate reading seminar on ancient Greek history. Topics may vary from quarter to quarter.",
+  "prerequisites_raw": "2A or 4A or upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111R",
+  "title": "Undergraduate Research Seminar in Greek History",
+  "units": "4",
+  "description": "Undergraduate research seminar focusing on ancient Greece and West Asia. Students select research topic in consultation with instructor, conduct individual research, write multiple paper drafts, and submit final research paper of 15-20 pages.",
+  "prerequisites_raw": "At least one class from 111 series (111A,B,C,E,F,T), or permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 111T",
+  "title": "Topics in Greek History",
+  "units": "4",
+  "description": "Undergraduate lecture course on ancient Greek history. Topics will vary from quarter to quarter",
+  "prerequisites_raw": "HIST 2A or HIST 4A",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 112",
+  "title": "THE ANCIENT AEGEAN",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 112A",
+  "title": "Roman Imperialism",
+  "units": "4",
+  "description": "Examines the topic of imperialism under the Roman Republic by examining the circumstances and motivations that encouraged Rome to become an imperial power. The justifications for Roman imperialism and some of its consequences are explored.",
+  "prerequisites_raw": "History 2A or 4A or upper division standing",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 112C",
+  "title": "Disaster and Reform in Rome",
+  "units": "4",
+  "description": "Explores the topic of the Roman Empires response to crisis by exploring the extent to which the more autocratic form of late imperial government was a response to the invasions, persecutions and civil wars of the third century.",
+  "prerequisites_raw": "History 2A or 4A or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 112D",
+  "title": "The Roman World in Late Antiquity",
+  "units": "4",
+  "description": "Focusing primarily on the rise of the Byzantine and Islamic empires, with some attention to the Germanic kingdoms, this course analyzes the process by which the late Roman Empire divided into three chief cultural, religious and political entities between the fifth and eighth centuries.",
+  "prerequisites_raw": "History 2A or 4A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 112E",
+  "title": "The History of Roman Law",
+  "units": "4",
+  "description": "Explores Roman law from the archaic 12 Tables through Justinian's 6th century CE Corpus Civilis, analyzing these developments within the broader historical context. Also addresses the influence of Roman law on medieval scholarship and later legal systems.",
+  "prerequisites_raw": "HIST 2A or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 112Q",
+  "title": "Readings in Ancient History",
+  "units": "4",
+  "description": "Focuses on exploring and researching key themes or historical problems in ancient history. Topics differ from year to year.",
+  "prerequisites_raw": "HIST 112A or 112B or 112C or 112D or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 112A",
+   "HIST 112C",
+   "HIST 112D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 112R",
+  "title": "Undergraduate Research Seminar in Roman History",
+  "units": "4",
+  "description": "Students produce a research paper on a topic of their choice in the history of either the republic or empire. From time to time, a seminar might be devoted to aspects of a particular topic. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 112A or 112B or 112C or 112D or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 112A",
+   "HIST 112C",
+   "HIST 112D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 114A",
+  "title": "History of Christianity: Beginning to 800",
+  "units": "4",
+  "description": "The history of Christian communities and doctrines from the first through the eighth centuries. Special emphasis on Christians' evolving relationships with pagan and Jewish communities throughout the Mediterranean world.",
+  "prerequisites_raw": "History 2A or 4A or Religious Studies 80A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "RG ST 80A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 114B",
+  "title": "History of Christianity",
+  "units": "4",
+  "description": "The history of Christian communities and doctrines from 800 to 1300.",
+  "prerequisites_raw": "History 2B or 4B or Religious Studies 80B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2B",
+   "RG ST 80B",
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 114C",
+  "title": "History of Christianity",
+  "units": "4",
+  "description": "The history of Christian communities and doctrines from 1300 to 1648.",
+  "prerequisites_raw": "History 2B or 4B or Religious Studies 80B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2B",
+   "RG ST 80B",
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 115",
+  "title": "The Fall of Rome and the Birth of Europe, 300 to 1050",
+  "units": "4",
+  "description": "The political, economic, and cultural evolution of Europe from the time of Constantine to the mid-eleventh century.",
+  "prerequisites_raw": "History 2A or 4A.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 115A",
+  "title": "The Worlds of Medieval Italy",
+  "units": "4",
+  "description": "Explores the rich multicultural worlds of medieval Italy, 1000-1300: the Greek south and Muslim Sicily; Norman military conquest and their extraordinary multiethnic aristocratic courts; the commercial revolution and the fluid society of the towns; papal monarchy and religious reactions: saints and heretics; the brutal factional wars of the thirteenth century; popular stories and poetry. The course ends with Dantes Inferno.",
+  "prerequisites_raw": "History 2B or 4B or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 2B",
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 115B",
+  "title": "The Worlds of Renaissance Italy, 1300-1500",
+  "units": "4",
+  "description": "Explores the overlapping worlds of Renaissance Italy, 1300-1500: the vibrant merchant culture; the elegant courts of princes; intellectual circles like the Platonic Academy; famed mercenary captains and their troops; the underworld of male same sex relations, of criminality and prostitution; the lives of women in marriages, in convents and in poorhouses; the workshops and homes of the laboring poor. One central theme is the culture of patronage and the production of extraordinary art.",
+  "prerequisites_raw": "History 2B or 4B or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 2B",
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 115Q",
+  "title": "Special Studies in Medieval European History",
+  "units": "4",
+  "description": "Study of specified topics in medieval European history. A research paper will be required.",
+  "prerequisites_raw": "History 115 or 116 or Upper-Division Standing.",
+  "prerequisites_courses": [
+   "HIST 115",
+   "HIST 116"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 115R",
+  "title": "Undergraduate Research Seminar in Medieval European History",
+  "units": "4",
+  "description": "Students will conduct historical research in a seminar context, using both primary and secondary source materials. Topics addressed: defining a research problem, identifying an original topic, conducting research, citing sources, and presenting results. Intensive writing required.",
+  "prerequisites_raw": "Any one of the following: History 115, 115X, 118A, 118B, 125 or 130 or upper division standing or consent of instructor.",
+  "prerequisites_courses": [
+   "HIST 115",
+   "HIST 115X",
+   "HIST 118A",
+   "HIST 118B",
+   "HIST 125",
+   "HIST 130"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 115X",
+  "title": "Medieval Scandals",
+  "units": "4",
+  "description": "Explores medieval European politics and culture through a look at notorious scandals: Pope Joan, Heloise and Abelard, the persecution of the Templars, and the Fourth Crusade.",
+  "prerequisites_raw": "History 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 116",
+  "title": "The Civilization of the High Middle Ages, 1050 to 1350",
+  "units": "4",
+  "description": "European civilization during the high Middle Ages. The struggle between church and state, the rise of feudal monarchies, the revival of commerce, and the flowering of medieval culture.",
+  "prerequisites_raw": "History 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 117A",
+  "title": "Towns, Trade, and Urban Culture in the Middle Ages",
+  "units": "4",
+  "description": "The social and cultural history of medieval towns from the sixth through the sixteenth century: Roman survivals; dark age commerce; transition from gift to money economy; social unrest; the emergence of urban classesand urban culture.",
+  "prerequisites_raw": "History 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 117C",
+  "title": "Women, The Family, and Sexuality in the Middle Ages",
+  "units": "4",
+  "description": "Family structure; perceptions and ideals of intimate and familial relations; status, perceptions, and experiences of women in Western Europe c. 400-1400 A.D. Special attention on social, political, and religious contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

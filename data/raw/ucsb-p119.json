@@ -1,0 +1,353 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 107B",
+  "title": "History of Economics",
+  "units": "4",
+  "description": "Economic thought from Karl Marx to the present, with emphasis on public policy, institutions, and historical circumstances. In addition to Marx economists who are emphasized include John Maynard Keynes, Friedrich Hayek, and Milton Friedman. Features discussions of capitalism, socialism, and communism and student presentations. Other foci include the Great Depression and economic policy and thought in the Reagan administration to the present.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 112",
+  "title": "ECON HIST OF EUROPE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 112A",
+  "title": "European Economic History to 1850",
+  "units": "4",
+  "description": "Analysis of the economic development of Europe from the Middle Ages through the English Industrial Revolution.",
+  "prerequisites_raw": "Economics 10A",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 112B",
+  "title": "European Economic History Since 1850",
+  "units": "4",
+  "description": "Analysis of the economic development of Europe since the English Industrial Revolution.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 113A",
+  "title": "Economic History of the United States to 1900",
+  "units": "4",
+  "description": "Key issues and episodes in American economic history, such as the sources of economic growth, slavery, and the nineteenth-century southern economy. Populism and the rise of regulation, as well as macroeconomic history.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 113B",
+  "title": "Twentieth-Century United States Economic History",
+  "units": "4",
+  "description": "A survey of U.S. economic development in the twentieth century with emphasis on issues related to the growth, instability, and distribution of income. The impact of public policy on economic growth, instability, and income distribution will be an important theme of the course.",
+  "prerequisites_raw": "Economics 10A",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 114A",
+  "title": "Economic Development",
+  "units": "4",
+  "description": "Microeconomic issues of developing nations. Applications of analytical tools to the microeconomic problems of developing nations. Topics include poverty and income distributions, population, rural-urban migration, education, nutrition, labor supply, and poverty wages.",
+  "prerequisites_raw": "Economics 10A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 114B",
+  "title": "Economic Development",
+  "units": "4",
+  "description": "Macroeconomic issues of developing nations. Applications of analytical tools to the growth of developing nations. The theoretical relationship between factor accumulation, productivity, and growth are examined. Topics include Solow growth model, institutions, culture, and geography.",
+  "prerequisites_raw": "Economics 10A or 104A",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 115",
+  "title": "Environmental Economics",
+  "units": "4",
+  "description": "provides a rigorous treatment of environment economics. Topics include welfare analysis, ethical dimensions of economic criteria for protecting the environment, measuring the demand for environmental goods, property rights, economic incentives, including marketable permits and emission fees, and regulating risk.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 116A",
+  "title": "Industrial Organization Principles",
+  "units": "4",
+  "description": "Analysis of competition, monopolistic competition, oligopoly, and monopoly theories and practices.",
+  "prerequisites_raw": "Economics 100B or 104B and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 116B",
+  "title": "Economic Regulation",
+  "units": "4",
+  "description": "Natural monopoly and the theory of its regulation, including incentive compatible mechanisms. Review of regulatory practice in industries such as electric power generation and distribution, trucking and rail transport, and telecommunications. Franchise bidding mechanisms in cable television and cellular telephony.",
+  "prerequisites_raw": "Economics 100B or 104B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 116C",
+  "title": "Antitrust Economics",
+  "units": "4",
+  "description": "The antitrust treatment of monopoly and monopolization, including both horizontal and vertical market arrangements and controls, and in-depth analysis of major antitrust decisions.",
+  "prerequisites_raw": "Economics 100B or 104B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 117",
+  "title": "THE SOVIET ECONOMY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 117A",
+  "title": "Law and Economics I",
+  "units": "4",
+  "description": "Application of economic analysis to the law. Includes an introduction to common law, constitutional law, and legal processes. Topics may include property law, contract law, and tort law.",
+  "prerequisites_raw": "Economics 100B or 104B and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 118",
+  "title": "Financial Accounting Analysis and Planning",
+  "units": "4",
+  "description": "An economic analysis of financial statements in a macroeconomic environment. Topics include evaluation of short term and long term liquidity, profitability, capital structure and the forecast of earnings and financial position using financial and economic models.",
+  "prerequisites_raw": "Economics 136C",
+  "prerequisites_courses": [
+   "ECON 136C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 118H",
+  "title": "Financial Accounting Analysis and Planning - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 118.",
+  "prerequisites_courses": [
+   "ECON 118"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 120",
+  "title": "Urban and Regional Economics",
+  "units": "4",
+  "description": "Economic analysis applied to current urban and regional problems.",
+  "prerequisites_raw": "Economics 100B and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 122",
+  "title": "Natural Resource Economics",
+  "units": "4",
+  "description": "Microeconomic theory and capital theory applied to problems of conservation and management of natural resources. Analysis of public policy with special emphasis on nonrenewable energy resources, management of forests, deforestation and species extinction, and use of fish and game resources.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 127",
+  "title": "Climate Change",
+  "units": "4",
+  "description": "Economic and policy issues underlying threat of global climate change, in particular, role of economics in designing efficient climate policy. Present some of scientific methods in assessing climate change processes. Topics include externalities, taxation, valuation, discounting, and cost-benefit analysis.",
+  "prerequisites_raw": "Econ 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 130",
+  "title": "Public Finance",
+  "units": "4",
+  "description": "Fiscal theory and policy. Incidence and effects of taxation, government expenditure programs, and benefit cost analysis.",
+  "prerequisites_raw": "Economics 100B or 104B; and 101 or 105.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 132A",
+  "title": "Auditing",
+  "units": "4",
+  "description": "Developing an understanding of concepts and practices for audits of financial statements. Studying professional standards, ethics, and legal liability. The audit process is covered in-depth: planning, internal control, audit risk, materiality, evidence, program design, sampling, completing the audit, and reporting.",
+  "prerequisites_raw": "Economics 136B.",
+  "prerequisites_courses": [
+   "ECON 136B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 132AH",
+  "title": "Auditing - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 132A.",
+  "prerequisites_courses": [
+   "ECON 132A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 132B",
+  "title": "Fraud and Forensic Accounting",
+  "units": "4",
+  "description": "Application of special skills in accounting, auditing, finance, quantitative methods, certain areas of the law, research, and investigative skills for the purpose of resolving financial issues in a manner that meets standards required by courts of law. Topics include accounting and legal fundamentals, tools and techniques, and selected applications: financial statement fraud, fraud against the organization, tax fraud, bankruptcy, divorce, and identity theft, organized crime and terrorism investigation, business valuation, and dispute resolution and litigation services. Case studies and guest speakers are used.",
+  "prerequisites_raw": "Economics 136B",
+  "prerequisites_courses": [
+   "ECON 136B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 132BH",
+  "title": "Forensic Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 132B.",
+  "prerequisites_courses": [
+   "ECON 132B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 133",
+  "title": "Topics in Macroeconomic Theory",
+  "units": "4",
+  "description": "Topics may include fiscal policy and government budget deficits, monetary policy and inflation, investment and economic growth, theories of the business cycle, rational expectations and the Lucas critique, optimal taxation and the time consistency of government policies. Content may vary from year to year.",
+  "prerequisites_raw": "Economics 100B or 104B, and 101 or 105.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 134A",
+  "title": "Financial Management",
+  "units": "4",
+  "description": "Discounting of certain future cash flows. Principles of evaluation of investment projects. Demand and supply of investment funds. Risk and the valuation of asset prices. Analysis of a firm's debt and dividend policies;the effect of taxes and inflation on these policies.",
+  "prerequisites_raw": "Economics 100B or 104B, and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 134B",
+  "title": "Financial Management",
+  "units": "4",
+  "description": "Course is devoted to the testing and application of theories developed in Economics 134A. The specific characteristics and uses of warrants, options, futures, bonds, and stocks are studied. The microcomputer lab may be used for homework projects.",
+  "prerequisites_raw": "Economics 134A.",
+  "prerequisites_courses": [
+   "ECON 134A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 134C",
+  "title": "Behavioral Finance",
+  "units": "4",
+  "description": "Describes several puzzles in financial markets, including phenomena that are hard to explain using standard economic models. Develops several alternatives to standard economic models in which agents make errors or have preferences that differ from those typically assumed by economists. These \"behavioral models\" are motivated by evidence from psychology, lab experiments in economics, and field experiments, some of which are reviewed. Explores how such behavioral models can explain puzzles both at the level of individual investing and at an aggregate level (market volume and pricing).",
+  "prerequisites_raw": "Economics 134A",
+  "prerequisites_courses": [
+   "ECON 134A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 135",
+  "title": "Monetary Economics",
+  "units": "4",
+  "description": "Survey of monetary theory, the banking system and the supply of money, monetary policy, and current issues.",
+  "prerequisites_raw": "Economics 100B and 101.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 101"
+  ]
+ }
+]

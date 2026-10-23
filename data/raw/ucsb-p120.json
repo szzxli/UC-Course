@@ -1,0 +1,343 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 136A",
+  "title": "Intermediate Accounting",
+  "units": "5",
+  "description": "An in-depth analysis of recognition, measurement, classification, and valuation issues in financial reporting within the framework of generally accepted accounting principles. Case studies and microcomputer analysis software will be integrated into the course.",
+  "prerequisites_raw": "Economics 3B; and, Economics 10A or 100A; and, Economics 5 or PSTAT 109 or PSTAT 120A.",
+  "prerequisites_courses": [
+   "ECON 3B",
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 109",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 136AH",
+  "title": "Intermediate Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 136A.",
+  "prerequisites_courses": [
+   "ECON 136A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 136B",
+  "title": "Intermediate Accounting",
+  "units": "4",
+  "description": "An in-depth analysis of recognition, measurement, classification, and valuation issues in financial reporting within the framework of generally accepted accounting principles. Case studies and microcomputer analysis software will be integrated into the course.",
+  "prerequisites_raw": "Economics 136A.",
+  "prerequisites_courses": [
+   "ECON 136A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 136BH",
+  "title": "Intermediate Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 136B.",
+  "prerequisites_courses": [
+   "ECON 136B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 136C",
+  "title": "Intermediate Accounting",
+  "units": "4",
+  "description": "An in-depth analysis of recognition, measurement, classification, and valuation issues in financial reporting within the framework of generally accepted accounting principles. Case studies and microcomputer analysis software will be integrated into the course.",
+  "prerequisites_raw": "Economics 136A-B.",
+  "prerequisites_courses": [
+   "ECON 136A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 136CH",
+  "title": "Intermediate Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 136C.",
+  "prerequisites_courses": [
+   "ECON 136C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 137A",
+  "title": "Managerial Accounting",
+  "units": "4",
+  "description": "A two quarter series covering the theory and application of managerial accounting concepts. The course investigates the interaction between economic theory, financial accounting, and management decision making for planning and control.",
+  "prerequisites_raw": "Economics 3B; and, Economics 10A or 100A; and, Economics 5 or PSTAT 109 or PSTAT 120A.",
+  "prerequisites_courses": [
+   "ECON 3B",
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 109",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 137AH",
+  "title": "Managerial Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 137A.",
+  "prerequisites_courses": [
+   "ECON 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 137B",
+  "title": "Managerial Accounting",
+  "units": "4",
+  "description": "A two-quarter series covering the theory and application of managerial accounting concepts. The course investigates the interaction between economic theory, financial accounting, and management decision making for planning and control.",
+  "prerequisites_raw": "Economics 137A.",
+  "prerequisites_courses": [
+   "ECON 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 137BH",
+  "title": "Managerial Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent with Econ 137B.",
+  "prerequisites_courses": [
+   "ECON 137B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 138A",
+  "title": "Income Taxation",
+  "units": "4",
+  "description": "An introduction to taxation. The basic theories, concepts, and general rules of federal income tax and their interrelationships with personal, business, and financial transactions. The course provides an understanding of tax policies and the interrelationship between tax and financial decisions.",
+  "prerequisites_raw": "Economics 3B; and, Economics 10A or 100A; and, Economics 5 or PSTAT 109 or PSTAT 120A.",
+  "prerequisites_courses": [
+   "ECON 3B",
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 109",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 138AH",
+  "title": "Income Taxation - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 138A.",
+  "prerequisites_courses": [
+   "ECON 138A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 138B",
+  "title": "Income Taxation",
+  "units": "4",
+  "description": "An introduction to taxation. The basic theories, concepts, and general rules of federal income tax and their interrelationships with personal, business, and financial transactions. The course provides an understanding of tax policies and the interrelationship between tax and financial decisions.",
+  "prerequisites_raw": "Economics 138A.",
+  "prerequisites_courses": [
+   "ECON 138A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 139",
+  "title": "Advanced Accounting",
+  "units": "4",
+  "description": "Accounting for business combinations and preparation of consolidated financial statements, principles of fund accounting (governmental and non-profit entities), foreign currency translation and transactions, partnership formation, operation, and liquidation.",
+  "prerequisites_raw": "Economics 136A-B.",
+  "prerequisites_courses": [
+   "ECON 136A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 139H",
+  "title": "Advanced Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent with Econ 139.",
+  "prerequisites_courses": [
+   "ECON 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 140A",
+  "title": "Introduction to Econometrics",
+  "units": "4",
+  "description": "Introduction to econometrics for data analysis in economics and social sciences. The goal of the course is to learn how to use simple and multivariate linear regression for analyzing the relationship between economic variables, for prediction and for causal inference, understanding its underlying assumptions, advantages and pitfalls.",
+  "prerequisites_raw": "Economics 10A or 100A; and, Economics 5 or PSTAT 109 or PSTAT 120A.",
+  "prerequisites_courses": [
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 109",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 140B",
+  "title": "Introduction to Econometrics",
+  "units": "4",
+  "description": "Topics in econometrics including regression specification, time series econometrics, panel data, and instrumental variables.",
+  "prerequisites_raw": "Economics 140A.",
+  "prerequisites_courses": [
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 140C",
+  "title": "Machine Learning and Artificial Intelligence",
+  "units": "4",
+  "description": "An introduction to core machine learning and nonparametric tools for economics, emphasizing prediction, classification, and causal inference. Students learn how to build, tune, and evaluate modern methods such as partitioned regression and splines, binned scatter plots, LASSO and ridge regression, decision trees, random forests, and neural networks. Time permitting the course covers embeddings, transformers, and attention. Computation using R is emphasized using real-world data.",
+  "prerequisites_raw": "Economics 140A.",
+  "prerequisites_courses": [
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 141",
+  "title": "Econometric Methods",
+  "units": "4",
+  "description": "A formal introduction to econometric methods centered on multiple regression and extensions. Emphasis on both theoretical background and applications. Students will learn both analytic mathematical methods and computational approaches.",
+  "prerequisites_raw": "PSTAT 109 or PSTAT 120A with a grade of B or better; and Math 4A with a grade of B or better.",
+  "prerequisites_courses": [
+   "PSTAT 109",
+   "PSTAT 120A",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 145",
+  "title": "Data Wrangling for Economics",
+  "units": "5",
+  "description": "Students develop skills in organizing economic data, learning how to summarize and display data to answer substantive economic questions. Emphasis is placed on communication of results.",
+  "prerequisites_raw": "Open to ECON and ECACC majors or by consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 150",
+  "title": "LABOR ECONOMICS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 150A",
+  "title": "Labor Economics",
+  "units": "4",
+  "description": "Analyzes the determinants of labor supply, labor demand, equilibrium, and the structure of wages. Topics include compensating differentials, education, labor mobility, and discrimination.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 151",
+  "title": "Economics of Gender",
+  "units": "4",
+  "description": "Addresses issues of gender and family in the economy from a theoretical and empirical perspective. Economic models of marriage, divorce, and fertility with the goal of understanding the large changes in family structure that have occurred in the US will be studied. Womens behavior in the labor force, and issues of poverty and gender gaps in labor market outcomes will be examined. Current policy issues of teen childbearing, parental leave, welfare reform and child support will be discussed.",
+  "prerequisites_raw": "Economics 100B and 140A",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 152",
+  "title": "Personnel Economics",
+  "units": "4",
+  "description": "Studies the allocation and pricing of labor within firms. Topics covered include employee selection, design of optimal piece rates, advantages and disadvantages of seniority-based pay, tournaments and promotions, and incentives in team production.",
+  "prerequisites_raw": "Economics 100B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 153",
+  "title": "Economics of Education",
+  "units": "4",
+  "description": "Economic theory, basic econometric techniques as they apply to economics of education. Specific areas of focus include production and financing of education, contribution of education to economic growth and development, organization of education industry, and bias and discrimination in education.",
+  "prerequisites_raw": "Econ 10A or 100A or 104A, and 140A.",
+  "prerequisites_courses": [
+   "ECON 10A",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 154",
+  "title": "Economics of the Family",
+  "units": "4",
+  "description": "Addresses topics in the economics of families and households from both a theoretical and an empirical perspective. Structure and economic functioning of families have important implications for the well being of men and women, labor productivity, investments in children and economic growth. Considers economic models of marriage and divorce, specialization and household production, fertility, and intergenerational relations, and analyzes the effects of policies such as parental leave, divorce laws, compulsory schooling, and initiatives promoting female empowerment in developing countries.",
+  "prerequisites_raw": "Economics 100B or 104B, and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 155",
+  "title": "Using Big Data to Address Social and Economic Problems",
+  "units": "4",
+  "description": "This course uses modern empirical methods applied to large datasets to address pressing social and economic questions. The course covers the following topics: intergenerational mobility and equality of opportunity, education, health, environmental and social justice issues. Classes mostly cover relatively recent research papers addressing these questions. Students learn how to identify social and economic issues, assess their magnitude, think about possible policies to address them, and ways to evaluate these policies.",
+  "prerequisites_raw": "Economics 100B; and Economics 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ }
+]

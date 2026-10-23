@@ -1,0 +1,269 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 196",
+  "title": "Field Studies in Global and International Studies",
+  "units": "4",
+  "description": "On site examination of organizations, agencies, or locales in a region of the world relevant to the student's field of study involving the application of methods and techniques of investigation in global and international studies.",
+  "prerequisites_raw": "Consent of instructor; open to Global Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 196A",
+  "title": "Study Abroad Field Research Fellowship Seminar 1",
+  "units": "4",
+  "description": "The Study Abroad Field Research Seminar focuses on preparing students to engage sensitively and ethically as they design research projects to implement during an Education Abroad Program (EAP). This course familiarizes undergraduate researchers in a mix of global approaches that involve students in thinking about the challenges of socio-economic and cross-cultural differences, and gaining ethical reflexivity while they conduct research in a setting that will challenge their cultural assumptions and expectations.",
+  "prerequisites_raw": "Consent of instructor; student will need to apply to the course and be actively preparing to attend an EAP (Education Abroad Program) for a portion of the year following the 3-part research seminar series (GLOBL 196A, B, and C). More information about the course and program can be found at https://global.ucsb.edu/undergrad/abroad .",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 196B",
+  "title": "Study Abroad Field Research Fellowship Seminar 2",
+  "units": "4",
+  "description": "Follows GLOBL 196A and will introduce students to aspects of research design and training in specialized field methods. Students will begin to put together a preliminary research proposal, build research networks and partners, and pair with an on-campus advisor. Includes readings as well as presentations by guest faculty members and other relevant research-mentors.",
+  "prerequisites_raw": "Completion of GLOBL 196A and consent of instructor (students who have not completed GLOBL 196A may be granted permission to enroll on a case-by-case basis); Student needs to be actively preparing to attend an EAP (Education Abroad Program) for a portion of the year following the 3-part research seminar series (GLOBL 196A, B, and C). More information about the course and program can be found at https://global.ucsb.edu/undergrad/abroad.",
+  "prerequisites_courses": [
+   "GLOBL 196A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 196C",
+  "title": "Study Abroad Field Research Fellowship Seminar 3",
+  "units": "4",
+  "description": "In this EAP Research Prep Seminar, students will build on the previous courses 196A and 196B, drafting a detailed research plan and fine tuning the proposal and project. Students will continue establishing stronger connections with mentors and advisors, organize a conference, and connect with scholars and contacts in their country of interest. At the end of the quarter, students will give a final presentation on their research proposal. Upon completion of this course, students will be recognized as Orfalea Research Fellows.",
+  "prerequisites_raw": "Completion of GLOBL 196A and GLOBL 196B and consent of instructor (students who have not completed GLOBL 196A and 196B may be granted permission to enroll on a case-by-case basis); Student needs to be actively preparing to attend an EAP (Education Abroad Program) for a portion of the year following the 3-part research seminar series (GLOBL 196A, B, and C). More information about the course and program can be found at https://global.ucsb.edu/undergrad/abroad.",
+  "prerequisites_courses": [
+   "GLOBL 196A",
+   "GLOBL 196B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 196SJ",
+  "title": "Internship in Poverty, Inequality, and Social Justice",
+  "units": "4",
+  "description": "Students gain practical experience by working in organizations or initiatives engaged in addressing poverty and inequality through policy analysis, advocacy, direct social provision, community action, and/or political organizing. Opportunities to cultivate problem-solving, communication, organizational, and interpersonal skills needed to work effectively in institutional or collectively organized settings and to gain exposure to professional, post-graduate education and training, and related career opportunities in anti-poverty and social justice fields. Students work under faculty supervision to produce reports, a research paper, or other types of creative material based on their experiences.",
+  "prerequisites_raw": "HIST 74. Consent of Instructor.",
+  "prerequisites_courses": [
+   "HIST 74"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197A",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197B",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197C",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197D",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197E",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197F",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197G",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197H",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197I",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197J",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197K",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197L",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197M",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197N",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 197O",
+  "title": "Special Topics in Global and International Studies",
+  "units": "4",
+  "description": "Topics will vary according to instructor; please visit global.ucsb.edu/undergrad/course-registration to view the Global 197 topics document for current topic and descriptions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent studies in global and international studies. Students must be majors in global and international studies or present justification to the program for diverting from this norm.",
+  "prerequisites_raw": "Upper-division standing; consent of program (department) and instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 201",
+  "title": "Gateway Seminar",
+  "units": "4",
+  "description": "Provides an overview of globalization while at the same time reflecting the specific concerns and key debates within the participating disciplines.Seminar is led by one participating faculty member responsible for content and continuity but involves faculty from participating disciplines.",
+  "prerequisites_raw": "For graduate students doing the Ph.D. emphasis in Global Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 210",
+  "title": "Global Racial Justice",
+  "units": "4",
+  "description": "The course critically examines the origins & reproduction of racialized inequality/oppression and counter-movements for racial justice from a global, comparative-historical and interdisciplinary perspective. Relevant topics include debates about the relationship between capitalism and race, ethnicity and indigeneity; comparative history of political, social, & economic inequalities linked to race, caste and ethnicity; intersectional critiques of global inequality; global racialization of poverty and racialization of other global socioeconomic processes such as labor, migration, & environmental injustice. The course further explores how movements from below worldwide have shaped an intersectional theory and practice of racial justice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 220",
+  "title": "History and Theory of Globalization",
+  "units": "4",
+  "description": "Overview of the basic ideas and major writings that have influenced the field of global and international studies. This is an interdisciplinary reading seminar intended as a foundational course for the MA program, required of all first year students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 221",
+  "title": "Global Political Economy, Development, and Environment",
+  "units": "4",
+  "description": "Critical examination of the political and economic aspects of globalization, focusing on the prospects and challenges of an economic development that is both socially equitable and environmentally sustainable. This specialization gateway course is required of all first year students.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ }
+]

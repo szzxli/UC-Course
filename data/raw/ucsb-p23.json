@@ -1,0 +1,322 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 186SV",
+  "title": "Seminar in Modern Architecture",
+  "units": "4",
+  "description": "Advanced studies in modern architecture. Topics will vary. This course requires weekly readings and discussion, and the writing of a research seminar paper.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 186T",
+  "title": "Seminar in Photographic History",
+  "units": "4",
+  "description": "Advanced studies in photographic history. Topics will vary. This course requires weekly readings and discussion, and the writing of a research seminar paper.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 186V",
+  "title": "Seminar: Theory, Method & Historiography",
+  "units": "4",
+  "description": "Advanced studies in art theory. Topics will vary. This course requires weekly readings and discussion, and the writing of a research seminar paper.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 186X",
+  "title": "Seminar in Modern Design",
+  "units": "4",
+  "description": "Industrial design, graphic arts, fashion and architecture in America after World War II. Students give oral reports and write a paper on a topic in the history of twentieth-century commercial design.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 186Y",
+  "title": "Seminar in Architecture and Environment",
+  "units": "4",
+  "description": "Advanced studies in architecture and environment. Topics vary including active archival research. The course requires weekly readings and discussions, and the writing of a research seminar paper.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 187A",
+  "title": "Approaches to Objects",
+  "units": "4",
+  "description": "This seminar introduces students to the potential and different approaches of object-based scholarship drawing on multidisciplinary perspectives and analytic techniques from art history, archaeology, anthropology, object conservation, and the history of collecting and display. Topics and format will vary.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 187B",
+  "title": "Public Art",
+  "units": "4",
+  "description": "This seminar explores the history and development of public art and monuments. Together we study examples of various types of public art and consider their purposes, sites, audiences, patronage, and financing. We also discuss important controversies that public art has provoked. Using the background we develop in class, students work on individual projects addressing issues that we examine.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 187C",
+  "title": "Museum Theory: Collections and Cultural Politics",
+  "units": "4",
+  "description": "Why do museums (whether of art, culture, history, science, religion, technology or otherwise) seem to generate unending controversies concerning ethics, cultural politics, authenticity and ownership? Through the lens of wide-ranging readings in museum theory, this seminar examines the museum as an institution and a set of cultural practices, exploring recent museum controversies and debating the merits of theexhibitions and the efficacy of the responses.",
+  "prerequisites_raw": "Upper-division standing; art history majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 187H",
+  "title": "Museums in Transition: From the Early Modern to the Modern Period",
+  "units": "4",
+  "description": "Examines a range of issuesart historical, cultural, political, practical, and theoreticalthat conditioned the development of museums and collections, primarily in Europe, from the Renaissance to the present day. Topics and format will vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 187W",
+  "title": "Coming Home: The House Museum as Cultural Encounter",
+  "units": "4",
+  "description": "This seminar studies the political and cultural history of the house museum in the United States, from its antebellum beginnings in the nineteenth century to the present. Explores a variety of issues related to the house museum, including curatorial and design choices, visitor experiences, and the House Museum Movement.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 187Z",
+  "title": "Museum Studies Seminar",
+  "units": "4",
+  "description": "Examines a range of historical, theoretical, and practical issues with which the field of Museum Studies is engaged. Topics and format will vary.",
+  "prerequisites_raw": "Upper-division standing; art history majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 192A",
+  "title": "University Art Museum Internship",
+  "units": "0",
+  "description": "Under supervision of History of Art & Architecture faculty, students may obtain credit for work in the University Art Museum. Students earn one unit for every 30 hours of work in their internship. Regular meetings, a final evaluation session, and a written report are required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 192B",
+  "title": "Architecture and Design Collective Internship",
+  "units": "0",
+  "description": "Under supervision of History of Art & Architecture faculty, students may obtain credit for work in the Architecture and Design Collection. Students earn one unit for every 30 hours of work in their internship. Regular meetings, a final evaluation session, and a written report are required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 192C",
+  "title": "Visual Technologies Internship",
+  "units": "0",
+  "description": "The internship in the Material / Image Research Lab offers an immersive opportunity to develop advanced visual technology skills essential for history of art and architectural history research and digital humanities/digital scholarship. With a commitment of one to three units (total 30 hours/unit), interns may work on innovative projects such as 3D object scanning and the Central Coast Native American Modern to Contemporary Art Archive, for example. Written report required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 192D",
+  "title": "On Campus Internship in the History of Art & Architecture",
+  "units": "0",
+  "description": "Under supervision of History of Art & Architecture faculty, students may obtain credit for internship work on UCSB's campus (excluding ARTHI 192A, 192B, and 192C). Students earn one unit for every 30 hours of work in their internship. Regular meetings, a final evaluation session, and a written report are required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 192E",
+  "title": "Off Campus Internship in the History of Art & Architecture",
+  "units": "0",
+  "description": "Under supervision of History of Art & Architecture faculty, students may obtain credit for work in a museum, gallery, or architecture firm. Students earn one unit for every 30 hours of work in their internship. Regular meetings, a final evaluation session, and a written report are required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 194S",
+  "title": "Student Facilitated Group Studies Project",
+  "units": "0",
+  "description": "Independent Art History research conducted under the guidance of Art History faculty. Topic and scope varies, to be specified by student and supervisory faculty member prior to registration.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 198",
+  "title": "Independent Readings in Art History",
+  "units": "0",
+  "description": "Intended for students who know their own reading needs. Normally requires regular meetings with the instructor.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Advanced individual problems.Each unit requires 30 hours per quarter of work from the student.",
+  "prerequisites_raw": "Upper-division standing; two upper-division courses in art history; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 199RA",
+  "title": "Undergraduate Research Assistant",
+  "units": "0",
+  "description": "Undergraduate research assistant.Each unit requires 30 hours per quarter of work from the student.",
+  "prerequisites_raw": "Upper-division standing; two upper-division courses in art history; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 200A",
+  "title": "Proseminar: Introduction to Art-Historical Methods",
+  "units": "4",
+  "description": "Introduction to art-historical methods, with emphasis on the historical development of current practices, critical theory, debates within the field, and cross-disciplinary dialogues.",
+  "prerequisites_raw": "Graduate standing. Art History majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 251A",
+  "title": "Seminar: Topics in African & African-American Art",
+  "units": "4",
+  "description": "Special research in African & African-American art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 251B",
+  "title": "Seminar: Topics in African Arts in Context",
+  "units": "4",
+  "description": "Special research on African art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 252B",
+  "title": "Seminar: Topics in Roman Architecture and Urbanism",
+  "units": "4",
+  "description": "Special research in Roman and late antique architecture.",
+  "prerequisites_raw": "Graduate standing or senior art history majors with consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 253D",
+  "title": "Seminar: Topics in Medieval Architecture & Sculpture",
+  "units": "4",
+  "description": "Special research in Romanesque and/or Gothic architecture and sculpture.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 254",
+  "title": "Seminar: Topics in Pre-Columbian/Colonial Latin American Art",
+  "units": "4",
+  "description": "Special research in pre-Columbian and colonial Latin American art topics.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 255A",
+  "title": "Seminar: Topics in Renaissance Art",
+  "units": "4",
+  "description": "Special research in Renaissance art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 255D",
+  "title": "Seminar: Topics in 15th & 16th C. Art in Northern Europe",
+  "units": "4",
+  "description": "Special research in northern Renaissance figurative arts of the fifteenth and/or sixteenth centuries.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 255G",
+  "title": "Seminar: Studies in the History and Theory of Museums",
+  "units": "4",
+  "description": "Special research in museum history and theory.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 256",
+  "title": "Topics in Early Modern Iberian Art",
+  "units": "4",
+  "description": "This seminar explores a variety of topics in the arts and visual cultures of the Iberian world at large, from 1450 to 1700.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 257A",
+  "title": "Seminar: Topics in Seventeenth-Century European Art",
+  "units": "4",
+  "description": "Special topics in seventeenth-century European Art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 258A",
+  "title": "Seminar: Topics in Eighteenth-Century Art",
+  "units": "4",
+  "description": "Special research in eighteenth-century art with special emphasis on painting and prints.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

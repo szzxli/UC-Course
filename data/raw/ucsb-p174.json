@@ -1,0 +1,368 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 193S",
+  "title": "Seminar on Detective Fiction",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 193 designed to enrich the large lecture experience for the motivated student. Course includes either supplemental readings or a more intensive study of the English 193 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 193; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 193"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 194",
+  "title": "Research Seminar in Literature and Culture of Information",
+  "units": "4",
+  "description": "Team based independent research under the supervision of a faculty member on issues related to contemporary or historical cultures of technology, media, and information including the topics covered in English 146AA-ZZ, 147AA-ZZ, and 148AA-ZZ. Student work in teams and conduct research using methods that involve online and library research; simulations, hypertexts, games, videos, and other experimental ways of modeling literary works; exploring immersive online worlds; etc. Results are put online in a course wiki, blog or other publication medium managed by the English department.",
+  "prerequisites_raw": "A prior course in English 146AA-ZZ or 147AA-ZZ or 148AA-ZZ series. (If you have taken lower-division courses in the Literature and Culture of Information specialization, including English 10LCI and English 25, and would like to use those as your prerequisite, please consult the instructor.",
+  "prerequisites_courses": [
+   "ENGL 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 195I",
+  "title": "Internship in English",
+  "units": "0",
+  "description": "Under supervision of English Department faculty, English majors may obtain credit for work without pay in publishing, editing, journalism, or other employment related to English literature. Required are work hours, weekly meeting with professor, and a final paper or journal.",
+  "prerequisites_raw": "Upper-division standing; English majors only; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 196",
+  "title": "Honors English Senior Thesis",
+  "units": "4",
+  "description": "For students in the English department's honors program only. English 196, which is taken after English 198H in the honors program, focuses on the writing of a 35+ page senior thesis.",
+  "prerequisites_raw": "Writing 2 or upper-division standing; consent of department; successful completion of English 198H.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 198H"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 197",
+  "title": "Upper-Division Seminar",
+  "units": "4",
+  "description": "Content will vary with each instructor. Students will be asked to do a project that acquaints them with some of the resources of the library and results in their reading beyond the primary course materials. A full description for any given quarter will be available on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 198H",
+  "title": "Honors English Senior Thesis Preparation",
+  "units": "4",
+  "description": "The Honors Seminar is a one-term course that exposes students to the standards and best practices of research-level literary scholarship while also preparing the ground for the students' intended research topics.",
+  "prerequisites_raw": "Writing 2 or upper-division standing; consent of department.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 199",
+  "title": "Independent Studies in English",
+  "units": "0",
+  "description": "Reading and conference for students with upper-division standing.",
+  "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in English; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 199RA",
+  "title": "Independent Research Assistant in English",
+  "units": "0",
+  "description": "Independent research assistance in English. Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; two upper-division courses in English; consent of instructor; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 200",
+  "title": "Methods of Literary Study",
+  "units": "4",
+  "description": "Course on literary theory and critical methods required for all graduate students in the department. Specific authors and topics vary from class to class.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 205A",
+  "title": "Old English",
+  "units": "4",
+  "description": "Introduction to the language, prose, and shorter poems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 205B",
+  "title": "Old English",
+  "units": "4",
+  "description": "Beowulf.",
+  "prerequisites_raw": "Graduate standing; English 205a.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 205C",
+  "title": "Old English",
+  "units": "4",
+  "description": "Topics in Old English literature.",
+  "prerequisites_raw": "English 205A; graduate standing.",
+  "prerequisites_courses": [
+   "ENGL 205A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 206",
+  "title": "The History of the English Language",
+  "units": "4",
+  "description": "The history of the english language.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 230",
+  "title": "Studies in Medieval Literature",
+  "units": "4",
+  "description": "Content of the course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 231",
+  "title": "Studies in Renaissance Literature",
+  "units": "4",
+  "description": "Content of course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 232",
+  "title": "Studies in Restoration and Eighteenth Century Literature",
+  "units": "4",
+  "description": "Course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 233",
+  "title": "Studies in Nineteenth-Century Literature",
+  "units": "4",
+  "description": "Content of course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 234",
+  "title": "Studies in Twentieth-Century Literature",
+  "units": "4",
+  "description": "Content of course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 235",
+  "title": "Studies in American Literature",
+  "units": "4",
+  "description": "Content of course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 236",
+  "title": "Studies in Literary Criticism and Theory",
+  "units": "4",
+  "description": "Content of course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 236AC",
+  "title": "Affect, Creativity, and the Writing Self (Inventions of the Self)",
+  "units": "4",
+  "description": "This course asks concentric questions about the relationship between emotion and self-writing: How do emotions enter the domains of consciousness and language? How does a stable selfhood emerge from the flux of emotional life, consciousness and memory? How do writers experiment with the concept of the self? Our objective is to examine the logic of experimental 'auto-fiction' as a function of the biological and psychological mechanisms underpinning our sense of self. Rather than turning to existing cognitive or psychoanalytic literary criticism, in this course we discuss primary texts on the neuroscience of emotion and contemporary psychoanalysis alongside literary works, enabling you to envisage your own interdisciplinary approach.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 237",
+  "title": "Studies in Genres, Themes, Approaches",
+  "units": "4",
+  "description": "Content of course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 238",
+  "title": "Studies in Media, Technology, and Information",
+  "units": "4",
+  "description": "Content of course will vary from quarter to quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265BM",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265BP",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265CL",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265CR",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265DC",
+  "title": "Decolonization: theory, narrative, & praxis",
+  "units": "4",
+  "description": "Since colonization began it has been resisted by visions of a world beyond the colonizer-colonized relationship. This course considers the long history of struggles against colonialism and empire through the lens of Indigenous and non-Western thought. We examine creative and theoretical texts that pose social, material, and epistemological questions raised by the possibility of an end to empire, violence, extraction, othering, and domination. We also consider the breadth of Indigenous and decolonial narrative, theory, and praxis from the personal to the political as we locate internal tensions, contradictions, synergies, and moments of generative possibility for literary production, activism, and theory.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265GW",
+  "title": "Proseminar on Grants, Fellowships, and Scholarships",
+  "units": "4",
+  "description": "This professional development seminar, or Proseminar, focuses on major scholarships, fellowships, and grants applications. It is designed for graduate students and advanced undergraduates in the humanities, qualitative social sciences, and education. The Proseminar is designed as a workshop, and has been developed over two decades of teaching and consulting at multiple institutions, in addition to insights from past and recent award recipients and foundation referees. Drawing upon the creative writing workshop models attention to genre, style, and the revision process, as well as the research seminars practice of meta-critical interrogation, Proseminar activities are designed to optimize each component of an application.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265HS",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265ID",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265IS",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265LM",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265OO",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

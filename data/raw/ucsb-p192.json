@@ -1,0 +1,261 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ESS",
+  "code": "ESS 160",
+  "title": "Current Issues in Sport Management",
+  "units": "4",
+  "description": "Investigates contemporary sport management issues with emphasis on the administrative principles of planning, organizing, leading and evaluating. Facilities construction and maintenance, financial concerns and the structure and function of the NCAA are studied.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESS",
+  "code": "ESS 176",
+  "title": "Methods and Principles of Muscular Fitness Instruction",
+  "units": "3",
+  "description": "Training to teach muscular strength, muscular endurance, and flexibility classes. Skills and knowledge are applied to the use of free weights, machines, stability balls, bands, gravity, or other resistive equipment. Focus on isolated muscular contraction and extension.",
+  "prerequisites_raw": "ESS 47; ESS 101 and 149; Exercise Studies 1-43A or 1-43B or 1-43E.",
+  "prerequisites_courses": [
+   "ESS 47",
+   "ESS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESS",
+  "code": "ESS 193",
+  "title": "Internship in Exercise Science, Physical Education, and Sport",
+  "units": "0",
+  "description": "Designed to provide students in the minor with practical experience by working under expert supervision in the field. Internships may be completed in public or private agencies whose focus is exercise, physical education, or sport.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESS",
+  "code": "ESS 199",
+  "title": "Independent Studies in Exercise Science, Physical Education and Sport",
+  "units": "0",
+  "description": "Provides an opportunity for students in the minor to pursue a particular area of interest under the guidance of a selected faculty member. Course culminates in a report summarizing the inquiry.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor; completion of 2 upper-division courses in Exercise Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESS W",
+  "code": "ESS W 3",
+  "title": "Nutrition for Health",
+  "units": "3",
+  "description": "This course introduces students to the principles and practices associated with proper nutrition.Emphasis will be placed on food selection, dietary trends and the making of healthy food choices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESS W",
+  "code": "ESS W 9",
+  "title": "Principles of Health Promotion",
+  "units": "2",
+  "description": "Examines lifestyle factors and influences which decrease the possibility of premature disease and death and promote a longer and healthier life. Emphasis is placed on understanding the practices which have the most profound impact on health. The purpose of this course is to provide an overview of major issues in health promotion and disease prevention. Including an examination of lifestyle choices that have the greatest impact on promoting health and wellness and preventing disease within the context of college life and beyond. This course provides a detailed exploration of the specific causes of premature mortality and introduces activities and practices that can be applied to a lifestyle to improve health and help prevent disease.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 46",
+  "title": "Introduction to Cinema",
+  "units": "5",
+  "description": "An introduction to the study of film as an aesthetic and social phenomenon, and to various methods of critical analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 46H",
+  "title": "Introduction to Cinema - Honors",
+  "units": "1",
+  "description": "Students receive one unit credit for the honors seminar. Intended for highly motivated Letters and Science Honors students.",
+  "prerequisites_raw": "Must be taken concurrently with Film and Media Studies 46.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 46MS",
+  "title": "Major Seminar",
+  "units": "2",
+  "description": "Designed for Film and Media Studies majors and students contemplating a major or concentration in film. An intensive introduction to the study of film and to various methods of critical analysis.",
+  "prerequisites_raw": "Concurrent enrollment in Film and Media Studies 46.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 54",
+  "title": "Hollywood: Anatomy of an Industry",
+  "units": "2",
+  "description": "In-depth analysis of the changing world of the motion picture and television industries through dialogues with distinguished Hollywood guests. A range of areas such as directing, producing, screenwriting, acting, etc. are covered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 55",
+  "title": "Media Arts: The High and the Low",
+  "units": "4",
+  "description": "Expands the study of the arts beyond classical paradigms and canons, to include media and communication technologies, industries, and aesthetics in the domains of radio, film, television, music, and digital media. Versions of the course will explore to what extent contemporary media arts uphold or challenge the boundaries between culture and industry, art and commerce, avant garde and mass cultures, or high and low tastes.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 55AI",
+  "title": "Media Industries and AI",
+  "units": "4",
+  "description": "A focus on the impact of Artificial Intelligence on all aspects of the Media Industries, from sports and social media to video games, animation, television, film, and talent representation. We will host a wide range of industry guests and visiting scholars each week to address vital topics and transformations in (pre- and post-)production, distribution, exhibition, and marketing across numerous domains of media.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 55BE",
+  "title": "Media Arts: The High and the Low: The Beatles",
+  "units": "4",
+  "description": "Course explores the music and lives of The Fab Four from their early days as The Quarrymen to The Beatles and post-Beatles bands and solo careers through narrative movies, documentaries, videos, short films and special guests.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 55CY",
+  "title": "Media Arts: The High and the Low: From Robots to Cyborgs",
+  "units": "4",
+  "description": "Born as industrial artifacts, robots, androids, and cyborgs have become representations of our fears, our hopes, and our expectations of the future. This course looks at the historical representation of human-like creations, from robots to cyborgs, and discuss media technology, techno-militarization, trans-humanism and posthumanism in the context of science-fiction cinema, literature, and new media.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 55DD",
+  "title": "Directors on Directing",
+  "units": "4",
+  "description": "Expands the study of the arts beyond classical paradigms and canons, to include media and communication technologies, industries, and aesthetics in the domains of radio, film, television, music, and digital media. Versions of the course will explore to what extent contemporary media arts uphold or challenge the boundaries between culture and industry, art and commerce, avant garde and mass cultures, or high and low tastes.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 55QM",
+  "title": "Media Arts: The High and the Low: Queen",
+  "units": "4",
+  "description": "This course uses the British progressive rock band Queen to examine a wide range of music, media, and cultural forms as well as global and LGBTQIA+ history from the 1940s to the contemporary moment.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 55SF",
+  "title": "Shakespeare + Film",
+  "units": "4",
+  "description": "This critical studies class examines screen adaptations of Shakespeare’s plays. It does not assume any prior knowledge of film studies or Shakespeare studies but rather serves as an interdisciplinary introduction to both methods.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 56",
+  "title": "Media Cultures and Thought",
+  "units": "4",
+  "description": "Versions of this course will explore social concerns that emerge, or take on a new urgency, within media cultures. Topics may include: audiences and media publics; documentary evidence; risk cultures; pandemic media; cinema and the apocalyptic imagination; online privacy; obscenity; interactivity; piracy; queer and camp; right to information; cultures of dissidence; exploitation media.",
+  "prerequisites_raw": "No Prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 56AI",
+  "title": "Media Culture and Thought: Critical AI",
+  "units": "4",
+  "description": "This course delves into the intersection of Artificial Intelligence (AI) and Machine Learning (ML) from a humanities perspective. The course aims to foster a nuanced understanding of AI's entanglement with media, encouraging students to think critically about its implications. Topics include the historical context of AI/ML, ethical considerations, algorithm bias, and the impact on human experience. Practical aspects of media production related to AI will also be explored, providing a holistic view of AI in the media landscape.",
+  "prerequisites_raw": "No Prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 56FR",
+  "title": "Film and Revolution",
+  "units": "4",
+  "description": "An international exploration of cinema's role in revolutionary movements from the 20th to the early 21st century. This course delves into film as a tool for social and political change, considering its influence and interaction with worldwide revolutions. The course studies the function of film in propaganda and its transformation by revolutionary aesthetics and narratives. The role of digital technology in contemporary revolutionary movements is also examined. Students will acquire skills to critically interpret films within their historical and political milieu and analyze the connection between film production and societal transitions. Prior background in film studies is beneficial but not required.",
+  "prerequisites_raw": "No Prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 56MR",
+  "title": "Media Cultures and Thought: Media Risk",
+  "units": "4",
+  "description": "This course interrogates mediations of risk, uncertainty, and speculation, to theorize the concept of risk media. Among its primary concerns are 1) risk as the taming of uncertainty, 2) risk, as coming harm, requiring mediation to become legible, and 3) radical uncertainty inspiring speculative media.",
+  "prerequisites_raw": "No Prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 56ZM",
+  "title": "Media Cultures and Thought: GenZ Media",
+  "units": "4",
+  "description": "GenZ is the first generation to grow up with and to be active users and producers of social media. GenZ Media explores representations of and commentary about social media. In keeping with a distinguishing characteristic of social media, the class includes interactive media components. GenZ is generally defined as people born between the late 1990s and early 2010s.",
+  "prerequisites_raw": "No Prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 70",
+  "title": "Media Criticism",
+  "units": "5",
+  "description": "Develop the analytical tools required for a critical understanding of the interrelationship between media, culture, and society in America. Special attention given to how social structures shape media and how media products in return affect our cultural practices and patterns.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 70H",
+  "title": "Media Criticism - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated Letters and Science honors students.",
+  "prerequisites_raw": "Must be taken concurrently with Film and Media Studies 70",
+  "prerequisites_courses": [
+   "FAMST 70"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 75",
+  "title": "Introduction to Environmental Media",
+  "units": "4",
+  "description": "Explores the ways media and the environment influence, structure and inhabit one another. How do environmental issues figure in documentary and feature films, advertising, and the internet, among other media forms? How does media affect the environment, e.g., the problem of e-debris?",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

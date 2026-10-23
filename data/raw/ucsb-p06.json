@@ -1,0 +1,274 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 194",
+  "title": "Field Training Archaeology",
+  "units": "0",
+  "description": "Introduction to design of research projects and techniques of data collection in archaeology. The number of units taken in one course will depend on the amount of training and experience received.",
+  "prerequisites_raw": "Anthropology 3 or 3SS; and, Anthropology 100.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 100",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 194FT",
+  "title": "Practicum in Primate Field Research",
+  "units": "0",
+  "description": "An applied course based in Uganda that emphasizes the acquisition of practical skills in primatological fieldwork and research. Projects will vary depending on the type of ongoing research in progress and students will work in collaborative teams.",
+  "prerequisites_raw": "ANTH 5; consent of instructor.",
+  "prerequisites_courses": [
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 194P",
+  "title": "Practicum in Field and Laboratory Analysis",
+  "units": "0",
+  "description": "An applied course emphasizing acquisition of practical skills in archaeological field work and laboratory analysis. Projects will vary depending on the type of archaeological research in progress and may include artifact processing, cataloguing, field excavation and preparation of research results.",
+  "prerequisites_raw": "Anthropology 100; consent of instructor.",
+  "prerequisites_courses": [
+   "ANTH 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 195A",
+  "title": "Anthropology Honors Program: Research Design",
+  "units": "4",
+  "description": "Formal classroom seminar to prepare students for the ANTH 195B and 195C Anthropology honors thesis sequence. This course guides students in formulating a research problem that they will pursue in ANTH 195B and 195C, including planning a research agenda and conducting background research that will frame their honors thesis project. Project completion will be carried out individually during ANTH 195B and 195C.",
+  "prerequisites_raw": "Admission to Anthropology honors program; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 195B",
+  "title": "Anthropology Honors Program: INDIVIDUAL STUDY PART I",
+  "units": "4",
+  "description": "Individual research under the supervision of an Anthropology faculty member which will result in an honorsthesis. This course concentrates on reading and gathering of materials for thesis.",
+  "prerequisites_raw": "Admission to Anthropology Honors Program; consent of instructor; ANTH 195A",
+  "prerequisites_courses": [
+   "ANTH 195A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 195C",
+  "title": "Anthropology Honors Program: INDIVIDUAL STUDY PART II",
+  "units": "4",
+  "description": "Individual research under the supervision of an Anthropology faculty member which results in an honors thesis. Writing the thesis will be completed in this course. Final course in progress series.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 196",
+  "title": "Archaeology of Religion",
+  "units": "4",
+  "description": "An analysis and survey of the ways in which archaeologists have approached religious beliefs and other intangibles in ancient societies. Emphasis on multidisciplinary perspectives, ethnographic analogy, and the impact of science on the study of ancient religion.",
+  "prerequisites_raw": "Anthropology 3.",
+  "prerequisites_courses": [
+   "ANTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197AC",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197BA",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197BW",
+  "title": "Biology of Women",
+  "units": "4",
+  "description": "An exploration of female and womxn’s reproductive lives from an evolutionary and biocultural perspective. We will focus on physiological, ecological, and social aspects of womxn’s development across cultures from before birth, through reproductive processes like pregnancy, birth, lactation, menopause, and aging. Examples will be drawn from contemporary human societies, including many small-scale societies, although non-human primates will also be considered occasionally. This class will include lectures, discussion in multiple formats, and other modes of learning. Recommended Prep: ANTH 5 or Equivalent ANTH Majors: Take for Letter Grade to apply for Major Requirements",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197CO",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197CT",
+  "title": "Caring for Transformation: The Affect of Social Justice",
+  "units": "4",
+  "description": "This course recognizes the emotional effects of oppression. Recently, more attention shows how systemic mistreatment of people affects the social and economic wellbeing of communities (both systematically targeted by racism and colonization and those enforcing these systems). We will practice, reflect, discuss, and explore what healing from oppression looks like. We explore the emotional dimensions of oppression and justice while being aware that the history of injustice is full of intense emotions. How do we connect the personal, academic, and political experience of living and researching through these experiences? How do we analyze and heal the effects of injustice and mistreatment and support our academic practice and activist work?",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197DB",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197DJ",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197DK",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197DL",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197EB",
+  "title": "Ethnobotany and Economic Botany: Human Uses of Plants",
+  "units": "4",
+  "description": "Explores the human uses of plants for food, fiber, medicine, and spirituality among the Worlds cultures. Ethnobotany draws from among several disciplines, including botany, anthropology, ecology, geography, and chemistry. Areas of investigation include the Neolithic revolution, plant domestication, medicinal and psychotropic plants, shamanism, paleoethnobotany, extinction in the Anthropocene, ethnolinguistics, bioprospecting, and methods of traditional and modern agriculture. We examine the ethnobotany of cultures in coastal California and the Amazon Basin.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197EE",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197ER",
+  "title": "Sensory Ecologies",
+  "units": "4",
+  "description": "This seminar critically examines how sensory experiences mediate various kinds of relationships, including between humans, nonhumans, and environments. Drawing from anthropology, science and technology studies (STS), environmental humanities, art theory and practice, and sensory ethnography, the course explores how ecologies are lived, perceived, created, and contested through embodied practice. We will analyze how sensory regimes are shaped by power hierarchies, labor, infrastructures, and histories, and how they inform knowledge production, governance, resistance, refusal, and creative endeavors. Students will engage multimodal methods to investigate how ecological relations, broadly conceived, are felt, negotiated, and made meaningful.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197ES",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197EW",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197FM",
+  "title": "Field Methods in Biocultural Anthropology",
+  "units": "4",
+  "description": "Research design and data collection are skills that are necessary for all researchers to propose and conduct successful research projects. The primary aims of this course are (1) to familiarize students with the process of designing a research project, (2) to introduce students to a variety of data collection methods typically used by cultural and biological anthropologists, as well as other social scientists, and (3) to provide students with hands-on experience and thorough feedback on designing and conducting their own projects.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197FS",
+  "title": "Special Courses",
+  "units": "4",
+  "description": "Intensive studies or projects focused on special problems related to Anthropology which are not covered by other courses.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197GI",
+  "title": "Introduction to Geographic Information Systems and Spatial Analysis for Anthropology",
+  "units": "4",
+  "description": "An overview of concepts and techniques of Geographic Information Systems (GIS) useful in Anthropological research. Weekly lab assignments guide students through the use of GIS software in order to understand processes of cartography, spatial database design, image processing, and basic spatial analysis. The labs are based on resource material taken from GIS applications in each of the anthropological subfields.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 197IL",
+  "title": "Pathways of Indigenous Laws in Mexico",
+  "units": "4",
+  "description": "In this seminar, students take part in the research design of a survey research project in collaboration with an Organization of Indigenous Lawyers in Oaxaca. We analyze the interviews and fieldnotes of research conducted during June 2025 in Oaxaca, with indigenous authorities and other state authorities. In the class, students learn about the legal system in Mexico, Indigenous Customary Law, the discrimination faced by indigenous people in the legal system, and conflict resolution. Along with text analysis, coding and survey design.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

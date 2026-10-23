@@ -1,0 +1,319 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 30B",
+  "title": "Major Works in European Literature",
+  "units": "5",
+  "description": "A survey of European literature. Renaissance and Neoclassical literature from Petrarch to Diderot.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 34NA",
+  "title": "Animacy and the Speaking Earth: The Power of Native Story",
+  "units": "4",
+  "description": "Designed to serve as a preparatory entry to the American Indian and Indigenous Minor, this course is open to all aspiring English majors and students pursuing the AII Minor. We feature the power of story as a maker of culture, different ways of culturally informed reading, and the practice of reading through a knowledge of from Indigenous, intra-tribal and inter-tribal perspectives. In addition to learning the history and the narrative sinews of peoples, English 34NA includes novels, stories, comics, poetry, rap, painting, film, and memoir, honoring a deep drive into some of the most vital creative work of the late 20th and 21st centuries. Authors may include but are not limited to Miranda, Hogan, Orange, Owens, and Silko.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 34S",
+  "title": "Seminar on Pan-Latinx Literatures of Transformation",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 34 designed to enrich the large lecture experience for the motivated student. The course includes either supplementary readings or a more intensive study of the English 34 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 35",
+  "title": "Introduction to Literature and the Environment",
+  "units": "4",
+  "description": "Examines the complex relationship between the American environment and American culture, offering environmentally informed readings of literary landscapes. Syllabus includes significant American writers from the colonial period through the twentieth century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 36",
+  "title": "Global Humanities",
+  "units": "5",
+  "description": "What do literature and critical theory contribute to the reflection on human rights and the analysis of their violation? Inquiry into different ways in which the humanities can re-frame the debate on human rights and act as a social force.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 37",
+  "title": "Law in Everyday Life",
+  "units": "5",
+  "description": "This interdisciplinary course highlights the importance of the humanities to questions of law and justice, law and culture, and law and empire, as well as the implications of each of these pairings for our understanding of rights, protections, exclusions, violence, and oppression. The course pays particular attention to the ways in which marginalized individuals and groups have wielded law to promote justice and transform culture. Students interrogate the humanities from the perspective of law, as well as the intellectual and cultural contexts through which the law has become a complex practice and knowledge.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 38A",
+  "title": "Introduction to African-American Literature (Part 1)",
+  "units": "5",
+  "description": "African-American literature from colonial times through the Harlem Renaissance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 38AS",
+  "title": "Honors Seminar on African-American Literature (Part 1)",
+  "units": "1",
+  "description": "Seminar course for a select group of students enrolled in English 38A designed to enrich the large lecture experience for the motivated student. Course includes supplementary readings or more intensive study of the English 38A reading list, and supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 38A; consent of instructor",
+  "prerequisites_courses": [
+   "ENGL 38A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 38B",
+  "title": "Introduction to African-American Literature (Part II)",
+  "units": "4",
+  "description": "African-American literature from the 1930s to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 38BS",
+  "title": "Honors Seminar on African-American Literature (Part 2)",
+  "units": "1",
+  "description": "Seminar course for a select group of students enrolled in English 38B designed to enrich the large lecture experience for the motivated student. Course includes supplementary readings or more intensive study of the ENGL 38B reading list, and supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 38B; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 38B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 39",
+  "title": "Pan-Latinx Literatures of Transformation",
+  "units": "5",
+  "description": "Surveys a wide range of literary genres by authors from various Latina/o populations: Salvadoran, Guatemalan, Dominican, Chicanx, Puerto Rican, and self-identified mixed-heritage. Texts explore historical and ongoing transformations of Latina/o culture, identity, and politics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 39S",
+  "title": "Seminar for Pan-Latinx Literatures of Transformation",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 39 designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of the English 39 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Must be enrolled in ENGL 39",
+  "prerequisites_courses": [
+   "ENGL 39"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 40BA",
+  "title": "Studies in Race and Ethnic Literatures- Black Literature in the early periods",
+  "units": "5",
+  "description": "This class examines the early period of African American and Black Diasporic Literature and the concepts and forms it introduces. Study may focus on the development of literary and cultural expression in materials both from and that address eras such as the colonial period, American slavery, the revolutionary and post-bellum period, the turn of the century, and early 20th century in survey and/or thematic formats.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 40BB",
+  "title": "African American Literature 1930s-Present",
+  "units": "5",
+  "description": "This course examines the relationship between working-class and/or grassroots activism and the development of African American literature from the 1930s to the present. Introduces students to key African American political and literary movements of the 20th and 21st centuries including the Black Left and urban realism, Civil Rights Movement and Black modernism, Black Power and the Black Arts Movement, the Black Feminist Movement and Black Women's literature, and The Movement for Black Lives and Afrofuturism. Students will read relevant authors and engage associated theories from each period.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 46A",
+  "title": "SURVEY OF ENG LIT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 46B",
+  "title": "SURVEY OF ENG LIT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 46C",
+  "title": "SURVEY OF ENG LIT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 46GB",
+  "title": "Games as Stories: Introduction to Interactive and Digital Storytelling",
+  "units": "4",
+  "description": "Explores how games tell stories across diverse play experiences such as computer games, interactive film, role playing games, \"pick a path\" gamebooks, board & card games, and escape rooms. Includes exercises in interactive writing for game design. Students will learn to analyze games as narrative using diverse methods from literary studies and game studies, and will develop an appreciation for games as art, including an understanding of the historical development of different game forms and genres and how games as stories both reflect, comment on, and shape their cultural contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 48",
+  "title": "MOD CONTINENTAL LIT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 50",
+  "title": "Introduction to Comparative Ethnic Literatures",
+  "units": "5",
+  "description": "Designed to introduce students to critical approaches to the study of ethnic literatures and cultures from the long twentieth century. In its different iterations, the course takes a comparative approach, surveying a wide range of literary genres by authors from Asian American, Black, Chicanx, Latinx, multiracial, Native American and other diverse communities. Students build an analytical foundation for examining literary production and learn to link form, artistry, and concept to histories and politics of colonialism, identity, migration, nationhood, race, and segregation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 50S",
+  "title": "Seminar on Introduction to Comparative Ethnic Literatures",
+  "units": "1",
+  "description": "Seminar course for a select group of students enrolled in English 50 designed to enrich the large lecture experience for the motivated student. Course includes supplementary readings or more intensive study of the English 50 reading list, and supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 50; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65",
+  "title": "Topics in Literature",
+  "units": "5",
+  "description": "Topics will vary from quarter to quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65AA",
+  "title": "Topics in Literature",
+  "units": "5",
+  "description": "Topics will vary from quarter to quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65AC",
+  "title": "Topics in Literature",
+  "units": "4",
+  "description": "Topics will vary from quarter to quarter.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65AL",
+  "title": "Survey of AfroLatinx Literature and Art",
+  "units": "4",
+  "description": "Surveys 20th & 21st Century AfroLatinx literature across genre and form. The course focuses on the diverse range of AfroLatinx subjectivities articulated through primary materials such as poetry, theater, performative genres (e.g., slam poetry), prose (e.g., fiction and various non-fiction genres and forms), as well as mixed-genre works across time, place, and population.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65AN",
+  "title": "Topics in Literature",
+  "units": "4",
+  "description": "Topics will vary from quarter to quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65BB",
+  "title": "Topics in Literature",
+  "units": "4",
+  "description": "Topics will vary from quarter to quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65BP",
+  "title": "Topics in Literature",
+  "units": "4",
+  "description": "Topics will vary from quarter to quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 65EM",
+  "title": "Topics in Literature",
+  "units": "4",
+  "description": "Topics will vary from quarter to quarter.",
+  "prerequisites_raw": "Writing 2 or its equivalent.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ }
+]

@@ -1,0 +1,374 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 248B",
+  "title": "Graduate Research Seminar in African History",
+  "units": "4",
+  "description": "This is a two-quarter graduate seminar in histories of any part of the continent covering the 19th-20th centuries. The seminar helps students to focus their attention on closely reading and utilizing primary sources for a clearly-defined output, e.g., a dissertation chapter or a journal article. In addition to the primary materials, we collectively assemble and read together a set of crucial books on areas of the students' research interest. We also invite local and outside guests to talk about their own research and lead seminars.",
+  "prerequisites_raw": "HIST 248A.",
+  "prerequisites_courses": [
+   "HIST 248A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 250A",
+  "title": "Foundations of Latin American History: Pre-Columbian and Colonial Periods",
+  "units": "4",
+  "description": "Seminar introduces the important issues, themes, and literature in Latin American history during the pre-Columbian and colonial periods.",
+  "prerequisites_raw": "Graduate standing; Spanish reading ability.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 250B",
+  "title": "Foundations of Latin American History: the Nineteenth Century",
+  "units": "4",
+  "description": "Seminar introduces the important issues, themes, and literature in Latin American history, from the independence movements to the end of the nineteenth century.",
+  "prerequisites_raw": "Graduate standing; Spanish reading ability.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 250C",
+  "title": "Foundations of Latin American History: the Twentieth Century to the Present",
+  "units": "4",
+  "description": "Seminar introduces the important issues, themes, and literature in Latin American history during the twentieth and twenty first centuries.",
+  "prerequisites_raw": "Graduate standing; Spanish reading ability.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 251A",
+  "title": "Seminar in Latin American History",
+  "units": "4",
+  "description": "A two-quarter research seminar on a given topic. Students will produce a chapter-length paper or publishable article.",
+  "prerequisites_raw": "Graduate standing, Spanish reading ability.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 251B",
+  "title": "Seminar in Latin American History",
+  "units": "4",
+  "description": "A two-quarter research seminar on a given topic. Students will produce a chapter-length paper or publishable article.",
+  "prerequisites_raw": "Graduate standing, Spanish reading ability.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 253A",
+  "title": "Special Seminar in Latin American History",
+  "units": "4",
+  "description": "A two-quarter special seminar on a given topic. Students will produce a chapter-length paper or publishable article.",
+  "prerequisites_raw": "Graduate standing. Spanish reading ability.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 253B",
+  "title": "Special Seminar in Latin American History",
+  "units": "4",
+  "description": "A two-quarter special seminar on a given topic. Students will produce a chapter-length paper or publishable article.",
+  "prerequisites_raw": "Graduate standing, Spanish reading ability.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 254A",
+  "title": "Latin America, Spain, and Portugal",
+  "units": "4",
+  "description": "Individual reading, research, and writing in the history of Spain, Portugal, and their empires in the Americas, Africa, and Asia. For Brazil and Mexico, national periods included.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 254B",
+  "title": "Latin America, Spain, and Portugal",
+  "units": "4",
+  "description": "Individual reading, research, and writing in the history of Spain, Portugal, and their empires in the Americas, Africa, and Asia. For Brazil and Mexico, national periods included.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 256",
+  "title": "Topics in Mexican History",
+  "units": "4",
+  "description": "Selected topics in Mexican history.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 260A",
+  "title": "Seminar in American South",
+  "units": "4",
+  "description": "Research in nineteenth- and twentieth-century Southern history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 260B",
+  "title": "Seminar in American South",
+  "units": "4",
+  "description": "Research in nineteenth- and twentieth-century Southern history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 261A",
+  "title": "Seminar in Colonial America, the Frontier, and the Indian",
+  "units": "4",
+  "description": "Seminar in colonial America, the frontier, and the Indian.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 261B",
+  "title": "Seminar in Colonial America, the Frontier, and the Indian",
+  "units": "4",
+  "description": "Seminar in colonial America, the frontier, and the Indian.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 263A",
+  "title": "Research Seminar in 19th Century U.S. History",
+  "units": "4",
+  "description": "This is a two-quarter graduate seminar on any aspect of U.S. history during the long 19th century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 263B",
+  "title": "Research Seminar in 19th Century U.S. History",
+  "units": "4",
+  "description": "This is a two-quarter graduate seminar on any aspect of U.S. history during the long 19th century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 264IA",
+  "title": "American Immigration",
+  "units": "4",
+  "description": "Research seminar in the history of American immigration particularly during the nineteenth and early twentieth centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 264IB",
+  "title": "American Immigration",
+  "units": "4",
+  "description": "Research seminar in the history of American immigration particularly duringthe nineteenth and early twentieth centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 265A",
+  "title": "Seminar in American Political and Social History",
+  "units": "4",
+  "description": "Research in American political and social history of the nineteenth and early twentieth centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 265B",
+  "title": "Seminar in American Political and Social History",
+  "units": "4",
+  "description": "Research in American political and social history of the nineteenth and early twentieth centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 266A",
+  "title": "Research Seminar in Recent U.S. History",
+  "units": "4",
+  "description": "Research seminar in recent U.S. history. A research seminar for graduate students interested in any aspect of recent U.S. history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 266B",
+  "title": "Research Seminar in Recent U.S. History",
+  "units": "4",
+  "description": "A research seminar for graduate students interested in any aspect of recent U.S. history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 267A",
+  "title": "Seminar in American Economic History",
+  "units": "4",
+  "description": "Seminar in American economic history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 267B",
+  "title": "Seminar in American Economic History",
+  "units": "4",
+  "description": "Seminar in American economic history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 268A",
+  "title": "Seminar on Ethnicity and Community: United States",
+  "units": "4",
+  "description": "A two-quarter research seminar on historical development of ethnic communities in the United States. Focus on community institutions such as the family, the church, voluntary associations, and the ethnic press. Particular research emphasis will be on Santa Barbara and Southern California ethnic communities.",
+  "prerequisites_raw": "Open to qualified undergraduates with instructor's approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 268B",
+  "title": "Seminar on Ethnicity and Community: United States",
+  "units": "4",
+  "description": "A two-quarter research seminar on historical development of ethnic communities in the United States. Focus on community institutions such as the family, the church, voluntary associations, and the ethnic press. Particular research emphasis will be on Santa Barbara and Southern California ethnic communities.",
+  "prerequisites_raw": "Open to qualified undergraduates with instructor's approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 268CA",
+  "title": "Seminar in Chicano History",
+  "units": "4",
+  "description": "This two-quarter research seminar explores various facets of Chicano history, but concentrates on the twentieth century. Examination of literature and projects covering immigration, labor, women, the Mexican-American generation, and the Chicano movement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 268CB",
+  "title": "Seminar in Chicano History",
+  "units": "4",
+  "description": "This two-quarter research seminar explores various facets of Chicano history, but concentrates on the twentieth century. Examination of literature and projects covering immigration, labor, women, the Mexican-American generation, and the Chicano movement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 268D",
+  "title": "Topics in Asian American History",
+  "units": "4",
+  "description": "An assessment of the major works in Asian American historiography. Topics include emigration from Asia, immigration into the United States, and the immigrants' social, cultural, economic, and political life.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 270",
+  "title": "Seminar in Tangible Resources - Environmental History",
+  "units": "4",
+  "description": "Study of the value and management of the visible past. Emphasis on the wayspublic agencies like the national park service designate and display historic buildings, trails, villages, and ways of life. Mandatory and optional field trips. Career opportunities stressed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 271A",
+  "title": "Seminar in Diplomatic and Political History of the United States",
+  "units": "4",
+  "description": "A two-quarter research seminar on modern American diplomatic and political history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 271B",
+  "title": "Seminar in Diplomatic and Political History of the United States",
+  "units": "4",
+  "description": "A two-quarter research seminar on modern American diplomatic and political history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 272A",
+  "title": "Seminar in American Political and Intellectual History",
+  "units": "4",
+  "description": "General research seminar on the history of politics and ideas in the United States, broadly conceived.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 272B",
+  "title": "Seminar in American Political and Intellectual History",
+  "units": "4",
+  "description": "General research seminar on the history of politics and ideas in the United States, broadly conceived.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 275A",
+  "title": "American Cultural History",
+  "units": "4",
+  "description": "American cultural history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 275B",
+  "title": "American Cultural History",
+  "units": "4",
+  "description": "American cultural history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

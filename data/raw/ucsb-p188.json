@@ -1,0 +1,250 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 251",
+  "title": "Writing Skills for Environmental Professionals",
+  "units": "4",
+  "description": "This course is a survey of writing genres students will encounter in environmental jobs. Each week will have a unique technical or creative focus, with units spanning science storytelling, literature reviews, policy writing, grant proposals, social media campaigns, environmental poetry and more. Students will read and reflect on examples of effective environmental writing while building their own portfolio of pieces. In lab sections, students will participate in peer review to practice giving and receiving feedback. ESM 251 is designed and recommended for first year MESM students, but is open to all MESM, MEDS, and PhD students at Bren and other departments. Undergraduates with writing experience may petition to enroll.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 252",
+  "title": "Public Speaking Skills for Environmental Professionals",
+  "units": "4",
+  "description": "An introduction to public speaking skills for environmental professionals. Students learn how to give a professional talk for a conference or public presentation considering story framework, visual aids, audience, tone, and Q&A. Students practice these skills through individual and group active learning exercises. Students are introduced to examples of effective environmental public speaking ranging from podcasts to TED talks. Students complete class assignments before weekly labs, where they practice speaking in front of peers and receive constructive feedback. Students give a three-minute condensed version of their final presentation and submit two revised lab assignments as part of their public speaking portfolio.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 254",
+  "title": "Community-based Management of Small-scale Fisheries",
+  "units": "4",
+  "description": "Examines the science of fisheries conservation for management. Most of the world’s fisheries are small-scale and data-limited, executed without much support from local governments. Students will explore theory and learn techniques to manage small-scale, data-limited marine fisheries, receiving training necessary for practitioners able to organize communities, conduct quantitative assessments, and assist in implementing sustainable fisheries practices and related institutions. These objectives will be met mainly by learning the Length-Based Spawning Ratio (LBSPR) process, a life-history based approach that includes aspects of fish ecology, physiology, population dynamic modeling, and social science, especially Change Management.",
+  "prerequisites_raw": "ESM 201, 203, and 202 (may be concurrent).",
+  "prerequisites_courses": [
+   "ESM 201",
+   "ESM 203",
+   "ESM 202"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 256A",
+  "title": "Problem Discovery and Ideation",
+  "units": "2",
+  "description": "Learn the basics of customer discovery research, develop analytical skills, and acquire an agile mindset for solving environmental problems. Working in teams, students identify opportunities, brainstorm potential solutions, and determine a direction based on insight gained through their discovery research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 257",
+  "title": "Coastal Marine Policy & Management",
+  "units": "4",
+  "description": "Overview of international, U.S. and California coastal and marine policy and management, including case studies and tools that can be used to inform and shape current and future policy and management actions",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 258",
+  "title": "Business Model Development for New Environmental Ventures",
+  "units": "",
+  "description": "Teaches students how to practice evidence-based entrepreneurship and rigorously evaluate a business idea that could make a positive and measurable environmental impact. Students test their assumptions and gather evidence to reduce risk and uncertainty, in order to develop a viable business model.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 260",
+  "title": "Applied Marine Ecology",
+  "units": "4",
+  "description": "The application of ecological principles and methods to environmental problems in marine ecosystems. Emphasis is placed on design and execution of field sampling and experiments to access biological impacts of antheiopogenic disturbances and restoration activities. Concepts illustrated with case studies.",
+  "prerequisites_raw": "ESM 201.",
+  "prerequisites_courses": [
+   "ESM 201"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 261",
+  "title": "Management of Scientific Data",
+  "units": "2",
+  "description": "Theory, techniques, and tools for managing heterogeneous scientific information. Database architectures and data models. Metadata standards and data characterization. Design and use of relational databases. Aspects of the science data life cycle: collection, storage, retrieval, analysis, presentation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 262",
+  "title": "Computing for Environmental Science and Management",
+  "units": "4",
+  "description": "Introduction to computing for environmental applications. Provides MESM students with the basic computing and programming skills used in data science. Topics include the programming language concepts (data types, operations and control structures, and functions), program design and workflows, and data science best practices (modularity, documentation, reproducibility, testing and code sharing).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 263",
+  "title": "Geographic Information Systems",
+  "units": "4",
+  "description": "Advanced introduction to Geographic Information System (GIS) theory and technology, emphasizing spatial analysis and cartographic presentation. Typical algorithms and data structures. Role of GIS in environmental information management. Integration of GIS with other analytical tools.",
+  "prerequisites_raw": "Graduate standing in ESM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 266",
+  "title": "Remote Sensing of the Environment",
+  "units": "4",
+  "description": "Advanced introduction to remote sensing theory, technology, and applications in environmental science and management. Survey of principles and analytical methods throughout the electromagnetic spectrum. Integration of remote sensing with other tools.",
+  "prerequisites_raw": "ESM 203.",
+  "prerequisites_courses": [
+   "ESM 203"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 267",
+  "title": "Advanced GIS: Tools and Techniques",
+  "units": "4",
+  "description": "Intensive lab sessions focused on advanced GIS tools and techniques. Emphasis on using open-source tools and scripting languages to ingest and manage real-world data, orchestrate complex analyses, and communicate spatial information.",
+  "prerequisites_raw": "ESM 263 or instructor permission.",
+  "prerequisites_courses": [
+   "ESM 263"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 269",
+  "title": "Environmental Survey Design",
+  "units": "2",
+  "description": "Issues of survey design, including sampling, questionnaire design, data collection and data processing. Students will design and field an original survey, analyze the survey data and report the results.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 270",
+  "title": "Conservation Planning and Priority Setting",
+  "units": "4",
+  "description": "Analytical approaches that can be used to direct energy and resources toward conservation that yields the greatest return on investment. Case studies of how government agencies, international multilateral institution and non-governmental agencies identify where to invest their conservation efforts.",
+  "prerequisites_raw": "Environmental Science and Management 201 and 263.",
+  "prerequisites_courses": [
+   "ESM 201",
+   "ESM 263"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 270P",
+  "title": "Conservation Planning Practicum",
+  "units": "4",
+  "description": "In depth development and analysis of a specific conservation plan, from start (goal setting) to finish (spatially explicit recommendations). Practical application of theory and tools from ESM 270. If appropriate, MESM Group Project locations can be used as the case study.",
+  "prerequisites_raw": "ESM 263; Concurrent enrollment in ESM 270",
+  "prerequisites_courses": [
+   "ESM 263",
+   "ESM 270"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 271",
+  "title": "Carbon footprints and Carbon Accounting",
+  "units": "4",
+  "description": "Using the BSIs PAS 2050, the WRIs GHG Protocols, and the ISO14067, basic skills and knowledge necessary to establish corporate carbon accounts and to calculate carbon footprints will be covered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 272",
+  "title": "Energy and Resource Productivity",
+  "units": "4",
+  "description": "Options for improving energy and resources productivity are evaluated from technology, economics, and policy point of view. Energy, housing, transportation and agro-food sectors will be elaborated, and energy-resource nexus will be discussed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 273",
+  "title": "Life Cycle Assessment",
+  "units": "4",
+  "description": "Advanced introduction to life cycle assessment (LCA) tools and practice. Students will conduct an LCA according to ISO 14040/44 (2006) using professional LCA software. Goal and scope definition, parametric life cycle inventory modeling, impact assessment, sensitivity analysis, reporting.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 275",
+  "title": "Principles and Practice of Environmental Planning",
+  "units": "4",
+  "description": "Principles, concepts, and techniques of environmental planning at the state, regional, and local government levels, with emphasis on emerging trends in addressing environmental problems. Green plans, sustainable communities, coastal planning, agricultural land preservation, smart development, new urbanism, and mitigation monitoring.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 277",
+  "title": "International Environmental Law",
+  "units": "2",
+  "description": "This short course provides a general introduction to international environmental law and policy. After reviewing the rise of the international environment agenda, the course concentrates on how societies have responded to global-scale environmental challenges, including biodiversity loss, climate change, ozone depletion, and the loss of living marine resources. The principal response to date has been in the area of international environmental law and policy, where a major new field of law and diplomacy has developed and new multilateral institutions created.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 278",
+  "title": "Natural Resources Law and Policy",
+  "units": "2",
+  "description": "Examines the law and policy of how nature's resources are used-- from forests and fisheries to biodiversity and parks. Special attention is paid to the historical and political origins of humanity's competing ideas of why nature matters and what should be done with it, from economically productive use and outdoor recreation to preserving the natural world for its own sake. The complicated interplay of science and law is also examined.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 279",
+  "title": "Financial Management and Environmental Accounting",
+  "units": "4",
+  "description": "Corporate financial management and reporting and environmental accounting. Function of stock markets, discounted cash flows, investment appraisal and decisions, valuation of bonds and stocks, the capital structure decision, the accounting model, management and control of enterprises, financial reporting and financial statement analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 280",
+  "title": "Practical Solutions in Business and Sustainability",
+  "units": "2",
+  "description": "Introduces students to practical applications of business sustainability across a range of companies and problems. For the class sessions, students will be presented with an environmental problem currently faced by a corporate environmental manager. Students will prepare potential solutions and workshop the problem with the manager during the class session, looking for creative ways to help solve the problem.",
+  "prerequisites_raw": "ESM 210",
+  "prerequisites_courses": [
+   "ESM 210"
+  ]
+ }
+]

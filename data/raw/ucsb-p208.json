@@ -1,0 +1,272 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 188SC",
+  "title": "Short Form Comedy",
+  "units": "4",
+  "description": "A fast-paced, writing-intensive dive into the world of sketch-writing, digital shorts, monologues, and stand-up comedy. We explore the foundational principals of scene-structure, joke-structure, and comedic voice through analysis of classic and contemporary examples, with an emphasis on developing your own unique point-of-view. Through in-class collaboration and a supportive “room-writing” environment, writers practice pitching, punching-up, producing, and performing individual, team, and group-generated material on a professional deadline, culminating in a performance/portfolio of written work, as well as tools to take a funny idea from concept to completion.",
+  "prerequisites_raw": "Consent of instructor, upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 188SS",
+  "title": "Storytelling for the Screen",
+  "units": "4",
+  "description": "Part one of a two-part program. Aimed at students who already have basic screenwriting strengths, and are in the intermediate-to-advanced skill range. While focus will depend on the writer-in-residence, the course will include sessions in plot and structure, character and dialogue, tension and conflict, tone and symbolism, and revision strategies.",
+  "prerequisites_raw": "Consent of instructor, writing sample, upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 188TV",
+  "title": "Writing for Television",
+  "units": "4",
+  "description": "Introduction to fundamentals of writing for television including: the situation comedy, the hour-long drama, the MOW, the miniseries, and children's programming. Investigation of the practical and creative tools necessary for programming. Investigation of the practical and creative tools necessary for navigating successful television scripts.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 188WR",
+  "title": "The Writers Room",
+  "units": "4",
+  "description": "A writing-intensive practicum in creative collaboration. Working together, students will develop skills of improvisation, team-ideation, and room-writing to harness the power of diverse perspectives as we conceptualize, develop, and generate scripted material.",
+  "prerequisites_raw": "FAMST 188A; Upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 188A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 188WS",
+  "title": "Workshop for the Screen",
+  "units": "4",
+  "description": "Part two of a two-part program. Team workshop structure will allow students to expand their screenwriting skills through a fundamental and intensive story-writing experience, an immersive and craft-focused writing calendar, with access to seasoned writers. Emphasis on multiple rounds of table-readings and group critiques.",
+  "prerequisites_raw": "Consent of instructor, writing sample, upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to globalization, feminist aesthetics, critical race theories, technologies, algorithms, and the writings of key authors.",
+  "prerequisites_raw": "Film and Media Studies 46 or 70",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 70"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189AA",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 146 and 192 and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 192"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189AC",
+  "title": "Topics in Contemporary Media Theory: Algorithms and Culture",
+  "units": "4",
+  "description": "In this seminar, students take a critical design approach to analyze various algorithms (i.e., Search, PageRank), their relationship with their structured data (i.e., tweets), and their impact on contemporary infrastructures and social flows.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189AH",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 96; and 192A or 192B; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189AM",
+  "title": "Alternative Media Futures",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189AR",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 96; and 192A or 192B; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189CD",
+  "title": "Topics in Contemporary Media Theory: Contemporary Documentary",
+  "units": "4",
+  "description": "Documentaries are proliferating around the world, as are modes of documentary practice and studies. With screenings including theatrical, web-based, and interactive works from mainstream, alternative, and Indigenous perspectives, readings and discussion probe pressing issues of fact, fiction, and advocacy; and the media production of social spaces.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189CG",
+  "title": "Cozy Games",
+  "units": "4",
+  "description": "Provides an opportunity to probe deeply into the genre of “cozy” games, which came to prominence during the COVID-19 pandemic with games like Animal Crossing: New Horizons (2020). We consider not only how gentle, wholesome, and domestic games predated the “cozy” label, but also how the moniker “cozy” predates cozy games (for instance, in cozy mysteries). In addition to questioning the typical gender coding of these games and their players, we will read and play extensively in order to think about the genre’s contested boundaries and why its classic themes of comfort, domesticity, and interpersonal relations often dovetail with (implied) violence, nature and the outdoors, and even death.",
+  "prerequisites_raw": "Film and Media Studies 46 or 70",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 70"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189CL",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189CT",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 146 and 192 and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 192"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189DM",
+  "title": "Topics in Contemporary Media Theory: Disability and Media",
+  "units": "4",
+  "description": "This course introduces students to the central models within Disability Studies and their application to the field of Film and Media Studies, focusing especially on issues of representation, disability stardom, as well as media access.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189EV",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 96; and 192A or 192B; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189F",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 96; and 192A or 192B; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189FC",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189FT",
+  "title": "Topics in Contemporary Media Theory: FemTech Lab",
+  "units": "4",
+  "description": "FemTech Lab is a theory/practice seminar on feminism, cyberfeminism, and feminist theories of technology. We engage the political potency of feminist media practicethe use of installations, performance, public engagements, and web-based platforms appealing for change or hacking systemic bias.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189FX",
+  "title": "Topics in Contemporary Media Theory Special Effects: Spectacular Technologies and the Body",
+  "units": "4",
+  "description": "This course focuses on special effects technologies in film, with an emphasis on their material natures and relationship(s) to the body including the bodies of viewers and of the many bodies involved in the effects production. Students learn theoretical tools from film and media theory, STS, and queer and environmental critique with which to engage with these biotechnical assemblages onscreen.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189GN",
+  "title": "Topics in Contemporary Media Theory: Global News Media",
+  "units": "4",
+  "description": "Fake news, the corporate media, alternative facts. This class explores contemporary conversations about crises in news media forms by examining the histories, technologies, industries, policies, and cultural norms that shape global and local news cultures, specifically focusing on moving-image news and investigative content.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189HK",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 146 and 192 and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 192"
+  ]
+ }
+]

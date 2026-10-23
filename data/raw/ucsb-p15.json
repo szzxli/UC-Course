@@ -1,0 +1,392 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 194",
+  "title": "Special Group Studies",
+  "units": "0",
+  "description": "A means of making special studies or meeting special curricular problems.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 196",
+  "title": "Honors Seminar",
+  "units": "4",
+  "description": "Seminar designed to focus on criticism of current art work. A total of 12 units in this course required to complete honors program. Completion of seminar units followed by public exhibition of work accomplished.",
+  "prerequisites_raw": "L&S and CCS Art majors only; upper-division standing; acceptance into department honors program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent studies. Advanced independent or collaborative work in consultation with individual faculty; individual tutorial.",
+  "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in Art; consent of instructor and department required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 199RA",
+  "title": "Independent Research Assistance in Art",
+  "units": "0",
+  "description": "Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division students only; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 213",
+  "title": "Experimental Video & Animation",
+  "units": "4",
+  "description": "The development of independent, innovative projects that utilize digital and/or post-production and hybrid means to create video-works for screens and surfaces, including projection, installation, distributed platforms. Projects may employ a variety of strategies and methodologies in concept, production, and presentation. Broad exposure to contemporary and pioneering video/film, with an emphasis on experimentation in substance and form.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 242",
+  "title": "Reading and Research in Art",
+  "units": "4",
+  "description": "Readings and research in topics of a historical and contemporary nature.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 244",
+  "title": "Graduate Seminar in Critique",
+  "units": "4",
+  "description": "A seminar focusing on criticism of current art work.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 245",
+  "title": "Graduate Theory Seminar",
+  "units": "4",
+  "description": "In-depth look at contemporary media and art discourse framed through a wide range of theoretical approaches: formalism, structuralism, phenomenology, psychoanalysis, Marxism, gender and queer studies, poststructuralism, postcolonial theory, deconstruction, issues of authorship, narratology, and multiculturalism. Specific content varies with instructor.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 246",
+  "title": "Post MFA",
+  "units": "4",
+  "description": "Seminar will address strategies for sustaining creative practice and dialog for graduating MFAs. The politics and poetics of interfacing with institutions, art professionals, peers and community groups through direct and indirect means. The presentation, distribution, and/or sale of your work through commercial and non-commercial means. The business of being an artist including taxes, insurance, studio space. Featuring faculty and guest speakers.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 250A",
+  "title": "METH ART HIST-RSRCH",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 251B",
+  "title": "SEM AFR ART CONTEXT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 252",
+  "title": "SEM IN ANCIENT ART",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 254",
+  "title": "SEM IN PRE-COLM ART",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 260",
+  "title": "Graduate Seminar in Visual Arts",
+  "units": "4",
+  "description": "A means of making special studies and meeting special curricular problems.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 261",
+  "title": "All Faculty Graduate Seminar",
+  "units": "2",
+  "description": "Symposium format course presents contemporary artists' creative projects in relation to recent developments in art and cross-disciplinary practices. Lectures by faculty from UCSB's Art Department supplemented by distinguished guests invited to expand on art, theory and cultural production.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 265",
+  "title": "SEM ARCHITECT HIST",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 501",
+  "title": "Teaching Assistant Practicum",
+  "units": "0",
+  "description": "Practice of teaching art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 591A",
+  "title": "Directed Study in Visual Arts Education",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 593MS",
+  "title": "M.F.A. Thesis Project",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 594",
+  "title": "Special Studies in Art",
+  "units": "4",
+  "description": "A means of making special studies and meeting special curricular problems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 595",
+  "title": "Direct Historical Reading and Research",
+  "units": "0",
+  "description": "Independent research involving extensive reading and written essay on a particular period, artist, or body of work with a historical context.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 2",
+  "title": "Themes",
+  "units": "0",
+  "description": "Drawing and painting in sequences, and according to themes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Art.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 10",
+  "title": "Graphic Study of the History of Graphic Ideas: Drawing",
+  "units": "0",
+  "description": "The surviving works of art from the paleolithic period until now constitutean existing order that may be considered the proper material for study by aspiring draughtsmen and painters. Art CS 10 emphasizes drawing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 11",
+  "title": "Graphic Study of the History of Graphic Ideas: Painting",
+  "units": "0",
+  "description": "The surviving works of art from the paleolithic period until now constitutean existing order that may be considered the proper material for study by aspiring draughtsmen and painters. Art CS 11 emphasizes painting.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 15",
+  "title": "Art Colloquium",
+  "units": "0",
+  "description": "Students receiving credit will present talks in their field on material arranged in consultation with the instructor. Credit assigned by the instructor will reflect the extent and quality of participation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 21",
+  "title": "BRONZE CASTING",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "CONSENT OF INSTRUCTOR. MAY BE TAKEN AS OFTEN AS ONCE EACH QUARTER.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 101",
+  "title": "Drawing and Painting",
+  "units": "0",
+  "description": "Emphasis on the practice and development of making paintings and drawings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 102",
+  "title": "Themes",
+  "units": "0",
+  "description": "Drawing and painting in sequences, and according to themes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 104",
+  "title": "Prints",
+  "units": "0",
+  "description": "Emphasis on letterpress printing using metal and wooden type; typography; various relief print methods and materials utilized will be determined by particular faculty interest.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 105",
+  "title": "Book Arts",
+  "units": "0",
+  "description": "The study and practice of the book arts; artists' books; typography; letterpress printing; both traditional and experimental uses of the printing press.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 106",
+  "title": "Art Symposium",
+  "units": "0",
+  "description": "A continuing series of lectures and presentations by artists and professionals closely associated with the arts.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 107",
+  "title": "History, Theory, and Criticism",
+  "units": "0",
+  "description": "Non-studio emphasis on historical, theoretical, and contemporary ideas and issues. A range of concepts will be discussed, from various approaches,according to the particular interests of faculty and students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 112",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "This special studies course allows faculty to design and execute courses that reflect their particular research and teaching.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 120",
+  "title": "Sculpture",
+  "units": "0",
+  "description": "Practice in the design and development of making a sculpture using various materials as determined by particular faculty interest.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 125",
+  "title": "Sculpture-Related Studies",
+  "units": "0",
+  "description": "Non-studio emphasis on generation and development of images, ideas, and imagination through field trips, slides, presentations, and videos. Primarily for sculptors.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 150",
+  "title": "Elements of Filmmaking/Video",
+  "units": "0",
+  "description": "Practice in theory and technique of filmmaking or video. Students will learn to use the basic equipment, and will make films or videos both individually and in collaboration. Medium utilized will be determined by particular faculty interest.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 192",
+  "title": "Internship",
+  "units": "0",
+  "description": "Academic credit for professional experience with an approved organization or individual.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART CS",
+  "code": "ART CS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in art with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

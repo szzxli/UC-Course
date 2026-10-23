@@ -1,0 +1,232 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 205",
+  "title": "Environmental Justice",
+  "units": "2",
+  "description": "This course provides an overview and foundational knowledge of environmental justice (EJ) activism, research, and policy solutions. It introduces key concepts, definitions, debates, theories, methods, tools, regulatory actions, and case studies that contribute to our understanding of environmental injustices at the local, regional, national, and global scales. An important emphasis is placed on exploring: (1) causes and consequences of unequal distributions of environmental risks and benefits; (2) governmental responses to EJ issues; and (3) data sources and methodologies for conducting EJ assessments. Students will also gain practical experience with using internet-based mapping and screening tools for analyzing environmental injustices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 206",
+  "title": "Data Analysis for Environmental Science and Management",
+  "units": "4",
+  "description": "Provides conceptual, technical, and communication skills to investigate and answer environmental questions using data. Topics include data manipulation, exploratory data analysis, descriptive statistics, regression, hypothesis testing, uncertainty, and data visualization. Skills for data exploration, analysis, and project management will be developed through analysis of real‐world datasets using R and RStudio while building tools for and understanding of computational reproducibility and collaboration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 206A",
+  "title": "Data Analysis for Environmental Science and Management",
+  "units": "2",
+  "description": "Develop skills and conceptual framework to effectively use data to solve practical problems. Topics include descriptive statistics, hypothesis testing, experimental design, exploratory data analysis, probability and uncertainty, time series analysis, and spatial stats. Emphasis on case studies from environmental problems.",
+  "prerequisites_raw": "Mathematics 3A-B-C or equivalent.Passing score on the statistics assessment.",
+  "prerequisites_courses": [
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 206B",
+  "title": "Data Analysis for Environmental Science and Management",
+  "units": "2",
+  "description": "Develop skills and conceptual framework to effectively use data to solve practical problems. Topics include descriptive statistics, hypothesis testing, experimental design, exploratory data analysis, probability and uncertainty, time series analysis, and spatial stats. Emphasis on case studies from environmental problems.",
+  "prerequisites_raw": "Mathematics 3A-B-C or equivalent.Passing score on the statistics assessment.",
+  "prerequisites_courses": [
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 207",
+  "title": "Environmental Law and Policy",
+  "units": "3",
+  "description": "Environmental law is equal part environment and equal part law. While environmental law courses traditionally focus solely on the significant laws and cases, this course will place equal emphasis on the scientific, political, and economic issues driving environmental conflicts. Students will strengthen skills in reading legal cases, regulations and statutes; writing client memos; thinking on your feet; acting as an advocate for both sides of an issue; and understanding the legal structure and strategies for environmental protection.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 208",
+  "title": "Environmental Politics and Policy",
+  "units": "2",
+  "description": "Introduces students to politics and environmental policy making. Students will learn who are the actors in government, what are their responsibilities, and why governments do what they do. The course will improve students’ professional skills as advocates, advisors, and analysts. Students will learn to apply abstract ideas to real‐world problems, interpret meaning and significance of policy analysis, and communicate results. Students will identify policy barriers, analyze electoral strategy, develop approaches to build coalitions, design effective messaging, and create political strategies to pass policies. Students will gain knowledge of their own responsibility of being actors in the policy process.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 210",
+  "title": "Business and Sustainability",
+  "units": "3",
+  "description": "Provides an understanding of how businesses can become more sustainable and how accountability is ensured with external stakeholders. Students examine sustainability from multiple stakeholder perspectives: finding opportunities in compliance, increasing efficiencies in the value chain, and designing, marketing and selling more sustainable products and services. Topics include ESG reporting, risk management, carbon footprints, sustainability certifications, life cycle assessment, green design principles, greenwashing, science-based targets, and organizational behavior. Through project- and case-based learning, students will develop cross-sector leadership skills and gain experience in stakeholder communications.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 211",
+  "title": "Applied Population Ecology",
+  "units": "4",
+  "description": "Examination of the application of population ecology to conservation of rare species and management of harvested populations. Topics include population regulation, population viability analysis, fisheries management, metapopulation dynamics, and population monitoring.",
+  "prerequisites_raw": "ESM 206",
+  "prerequisites_courses": [
+   "ESM 206"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 212",
+  "title": "Biological Community Survey and Analysis",
+  "units": "4",
+  "description": "Design and execution of field sampling campaigns to characterize, map, and inventory plant and animal communities. Includes review of basic sampling theory, measurements for terrestrial vegetation, vertebrate and invertebrate survey methods, multivariate analysis of community data, vegetation and species habitat mapping and modeling.",
+  "prerequisites_raw": "ESM 201.",
+  "prerequisites_courses": [
+   "ESM 201"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 213",
+  "title": "Ecotoxicology",
+  "units": "4",
+  "description": "Ecotoxicology will examine the biochemistry and biology of the responses of organisms in ecosystems to the presence of substances in the environment that can cause adverse effects upon the organisms. The course will also present case studies from recent literature.",
+  "prerequisites_raw": "ESM 201 and 202.",
+  "prerequisites_courses": [
+   "ESM 201",
+   "ESM 202"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 214",
+  "title": "Biological Waste Treatment",
+  "units": "5",
+  "description": "Concepts and approaches to prevent and alleviate the effects of environmental pollution using biological processes. Physical, chemical, and biological processes used in wastewater treatment. Extension of principles to hazardous waste treatment and pollution remediation. Exposure to real treatment installations to demonstrate applications.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 214L",
+  "title": "Laboratory in Biological Waste Treatment",
+  "units": "1",
+  "description": "Introduction to systems used for biologically treating non-hazardous and hazardous wastes and pollution through site visits to real installations or through laboratory exercises to demonstrate basic principles.",
+  "prerequisites_raw": "ESM 214 must be taken concurrently.",
+  "prerequisites_courses": [
+   "ESM 214"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 215",
+  "title": "Landscape Ecology",
+  "units": "4",
+  "description": "Relationship between spatial patterns in landscape structure (physical, biological, and cultural) and ecological processes. Role of ecosystem pattern in mass and energy transfers, disturbance regimes, species' persistence, and applications of remote sensing and GIS for landscape characterization and modeling.",
+  "prerequisites_raw": "ESM 201.",
+  "prerequisites_courses": [
+   "ESM 201"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 216",
+  "title": "Science and Management for Forest Sustainability",
+  "units": "4",
+  "description": "Graduate-level introduction to forest sustainability from an applied interdisciplinary research and environmental problem-solving perspective. The course meets weekly, with each week covering a different aspect of forest science (e.g., forest ecohydrology) or management (e.g., wildfire policy). The material will be covered through readings as well as lectures and discussions led by faculty experts from the Bren School and beyond. Students will also develop a research proposal or analysis (as relevant to their degree) that is related to forest sustainability. Students will present their proposals/projects in the final week of the course; proposals may form the basis of subsequent MESM Group Projects or PhD research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 217",
+  "title": "Planetary Health",
+  "units": "4",
+  "description": "Introduces the multidisciplinary field of planetary health, which is concerned with the health of human civilization and the state of the natural systems on which it depends. Explores linkages and feedbacks between environmental degradation, global change and human health and well-being, including infectious and non-infectious disease, diets and nutrition, and mental health, among other topics. Students learn how to analyze and quantify these linkages between human health and environmental change through course assignments. Finally, the course explores proposed solutions to jointly improve environmental and human health outcomes.",
+  "prerequisites_raw": "Completion of, or concurrent enrollment, in ESM 201, ESM 206, and ESM 263.",
+  "prerequisites_courses": [
+   "ESM 201",
+   "ESM 206",
+   "ESM 263"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 219",
+  "title": "Microbial Processes in the Environment",
+  "units": "5",
+  "description": "Environmental microbiology: microbial diversity, habitat, and function related to nutrient cycling and pollution fates; pathogens in the environment; microbial biotechnology for solutions to environmental problems. Lecture integrated with laboratory-based exercises for detecting, describing, and quantifying what microbes do in natural and polluted samples.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 219L",
+  "title": "Laboratory in Microbial Processes",
+  "units": "1",
+  "description": "Introduction to laboratory based tools and techniques for enumerating and characterizing microbes in environmental samples, and for quantifying microbial processes related to nutrient cycling and biodegradation.",
+  "prerequisites_raw": "ESM 219 must be taken concurrently.",
+  "prerequisites_courses": [
+   "ESM 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 222",
+  "title": "Pollution Risk Management",
+  "units": "4",
+  "description": "In modern society we use thousands of chemicals in consumer products, food and clothing, living spaces, transportation, energy generation and many of the underlying industrial and agricultural activities. The course covers the key aspects throughout a chemicals life cycle to understand its health risks (human and ecological) as well as its footprint. The course covers tools to estimate their use and release, fate in indoor and outdoor environments, and end of life.",
+  "prerequisites_raw": "Completion of, or concurrent enrollment in ESM 202.",
+  "prerequisites_courses": [
+   "ESM 202"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 223",
+  "title": "Management of Soil and Groundwater Quality",
+  "units": "4",
+  "description": "Focuses on protection and remediation of contaminated soil, vadose zone and groundwater, including site and basin characterization, planning, and methods for corrective action. Discussion includes the determination of groundwater quality objectives based on risk assessment, technology development and testing, and cost evaluation of management strategies.",
+  "prerequisites_raw": "ESM 202 and 203 and 222.",
+  "prerequisites_courses": [
+   "ESM 202",
+   "ESM 203",
+   "ESM 222"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 223L",
+  "title": "Laboratory in Management of Soil and Groundwater Quality",
+  "units": "1",
+  "description": "A hands-on approach to learning how to sample and treat contaminated soil and groundwater. The series of lab modules cover soil and groundwater unit treatment processes. Students are presented with state-of-the-art technologies for dealing with water contamination.",
+  "prerequisites_raw": "ESM 223 (may be taken concurrently); and, ESM 222.",
+  "prerequisites_courses": [
+   "ESM 223",
+   "ESM 222"
+  ]
+ }
+]

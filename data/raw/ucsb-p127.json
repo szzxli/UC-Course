@@ -1,0 +1,236 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260J",
+  "title": "Environmental Macroeconomics",
+  "units": "2",
+  "description": "Reviews key applications of macroeconomic methods in environmental economics. These include theoretical and quantitative dynamic general equilibrium environment-economy models, optimal taxation and dynamic public finance, directed technical change and endogenous growth models, plus select applications (depending on student interest and concurrent course offerings) such as from finance and asset pricing, real business cycles, trade, and/or structural unemployment models.Also reviews empirical approaches that have been used in an effort to inform this macro work, and the frontier between these empirical and macro-structural approaches in the field.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260K",
+  "title": "Environmental and Development Economics",
+  "units": "2",
+  "description": "The intersection of environmental and development economics raises new theoretical and empirical questions. This course examines the causes and consequences of poor environmental quality in low and middle income countries, including poverty, weak state capacity, political economy and incomplete markets. Students gain exposure to recent literature, new and unanswered research questions, and applications of empirical research methods.",
+  "prerequisites_raw": "Second year PhD in Economics graduate student standing, or Second year in Bren PhD EES student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 271",
+  "title": "Introduction to Game Theory",
+  "units": "4",
+  "description": "Covers a rigorous study of strategic interaction. Topics include, but are not limited to; normal and extensive form games, existence and uniqueness of equilibrium, randomization, mini-max, dynamics and equilibrium selection, auctions and bargaining, principle-agent incentives, voting, private contributions to public goods, oligopoly competition, market entry and burning money, wars of attrition.",
+  "prerequisites_raw": "Masters level student standing and successful completion of Economics 205A and Economics 205B.",
+  "prerequisites_courses": [
+   "ECON 205A",
+   "ECON 205B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 273A",
+  "title": "Managerial Accounting",
+  "units": "4",
+  "description": "A course concerned with the financial statements that are made available to creditors, stockholders, and other interested parties. The goal is to engender a knowledge of the measurement methods used by accountants and the ability to evaluate these methods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 274",
+  "title": "Managerial Economics and Accounting",
+  "units": "4",
+  "description": "Applying microeconomic analysis to managerial decisions and contrasting with managerial accounting techniques to analyze managerial decisions. Emphasis placed on marginal decisions from economic and accounting perspectives. These relevant costs and financial information help managers make correct profit maximizing decisions.",
+  "prerequisites_raw": "Masters graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 275",
+  "title": "Political Economy",
+  "units": "4",
+  "description": "Explores core topics in political economy and their connection to other fields. Core topics involve modeling: elections, constitutions, special interest groups, committees and political parties. Presents theoretical models, empirical tests (using survey and experimental data) and applications in other fields.",
+  "prerequisites_raw": "2nd year Economics Ph.D. standing or 2nd year Political Science Ph.D. standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 276",
+  "title": "Experimental Economics",
+  "units": "4",
+  "description": "Research in experimental economics. Exposure to basic material with further study in individual areas of interest. Professor to meet individually to discuss designing experiments that address the key questions, with student designing final experiment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 276A",
+  "title": "Experimental Economics I",
+  "units": "4",
+  "description": "Research methodology in experimental economics. The main lectures introduce conceptual, statistical and practical tools used in the design and conduct of economics experiments. Students present and prepare reviews of important recent papers in the field and, for a final project, complete a new experimental design.",
+  "prerequisites_raw": "Completion of first year of Economics Ph.D. program and 2nd year Economics Ph.D. Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 276B",
+  "title": "Experimental Economics II",
+  "units": "4",
+  "description": "Topics in Experimental Economics. An introduction to several of the most important topics and literatures in Experimental Economics. The course also recaps and continues methodological discussions begun in Economics 276A. Students will prepare a final paper presenting a new experimental design.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 277A",
+  "title": "Behavioral Theory",
+  "units": "4",
+  "description": "Course explores ways to formally model the findings of psychological, experimental-economic, and other research demonstrating departures from perfect rationality, self interest, and other classical assumptions of economics.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278",
+  "title": "Experimental Economics",
+  "units": "4",
+  "description": "Provides experimental tools used for centuries in the natural sciences, but in a social science setting. Focus is on interactive experiments in the classroom, along with a research paper. Once in-class experiments are completed, related theory and classroom discussion are used to understand human behavior better.",
+  "prerequisites_raw": "Masters level student standing and completion of Economics 240B.",
+  "prerequisites_courses": [
+   "ECON 240B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278A",
+  "title": "Experimental Methods",
+  "units": "2",
+  "description": "Introduction to the methodology of Experimental Economics. Topics include: motivations for experiments in economics, types of experimental designs, inducing preferences and beliefs, designing experiments with inference in mind, calibration of parameters, implementing an experiment, implementing moves by nature, elicitation techniques, framing, dealing with risk aversion in the laboratory, cognition tests, design of payments.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278B",
+  "title": "Games in the Laboratory",
+  "units": "2",
+  "description": "Focuses on experimental tests of behavior in games. Topics include: dictator, ultimatum and trust games, bargaining games, coordination problems, communication in games, cooperation in games, signaling games, public goods games, behavioral mechanism design, behavior in auctions, and behavior in games of oligopolistic competition.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278C",
+  "title": "Individual Decision Making in the Laboratory",
+  "units": "2",
+  "description": "Focuses on experimental tests of individual decision-making problems. Topics include: tests of bounded rationality, perception and memory biases, tests of Bayesian updating, confirmation bias, expectations formation, testing the axioms of expected utility, the Allais paradoxes, subjective expected utility and the Ellsberg paradox, choice over time, endowment effects and framing effects.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278D",
+  "title": "Market Experiments",
+  "units": "2",
+  "description": "Focuses on the use of experimental data to study market outcomes. Topics include: the double auction, properties of adjustment in double auction markets, properties of posted offer processes, call markets and sealed bids, alternative market institutions (the Walrasian auction, the matching market institution, tatonnement), and general equilibrium models in the laboratory.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278E",
+  "title": "Social Preferences",
+  "units": "2",
+  "description": "Presents experimental findings on other-regarding preferences. Topics include: explicit models of other regarding preferences (Bolton-Ockenfels, Fehr-Schmidt, Charness-Rabin), social preferences versus difference aversion, models incorporating reciprocity/intentions, the investment/trust game, social preferences and the dictator game, procedural fairness, and gift exchange experiments.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278F",
+  "title": "Experiments on Learning",
+  "units": "2",
+  "description": "Discusses empirical evidence on how people learn in games and decision problems and also empirical tests of long-run predictions of learning theory. Topics include: reinforcement learning, belief learning, experience-weighted attraction models, estimation of learning models, and empirical applications of self-confirming equilibrium and related notions.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278G",
+  "title": "Games: Repeated Interactions",
+  "units": "2",
+  "description": "Focuses on the use of experimental data to study behavior in repeated games. Topics include: finitely and infinitely repeated prisoners dilemma under perfect monitoring, public and private monitoring, techniques to elicit strategies and to infer strategies, strategy frequency elicitation method, dynamic games, and test of Markov perfection in the laboratory.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 278H",
+  "title": "Attention and Perception",
+  "units": "2",
+  "description": "Individuals face limitations in their ability to process all relevant information and they are very sensitive to the way this information is framed. A growing literature on attention and perception in economics, psychology, and neuroscience has documented these bounds and biases and has begun to incorporate them into alternative models of decision-making and strategic interaction. This course reviews the evidence (from the lab and field) on individual departures from the standard economic paradigm, analyzes these phenomena with rigorous formal models, and discusses how these biases impact markets and allocations.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 280A",
+  "title": "Theory of International Trade",
+  "units": "4",
+  "description": "Topics include the sources of gains from trade and comparative advantage, trade under increasing returns to scale and imperfect competition, strategic trade policy, political economy of trade policy, and trade and environment issues.",
+  "prerequisites_raw": "Successful completion of Econ 204A, Econ 204B, and Econ 204C. Second year Ph.D. student standing.",
+  "prerequisites_courses": [
+   "ECON 204A",
+   "ECON 204B",
+   "ECON 204C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 280B",
+  "title": "International Finance",
+  "units": "4",
+  "description": "Topics include current account dynamics, international risksharing, the transmission of business cycles, the determination of exchange rates, and sovereign debt.",
+  "prerequisites_raw": "Economics 204A.",
+  "prerequisites_courses": [
+   "ECON 204A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 282",
+  "title": "International Finance",
+  "units": "4",
+  "description": "Covers the balance of payments; foreign exchange markets; fiscal and monetary policies under alternative exchange rate regimes; and short- and long-run connections between exchange rates, inflation, interest rates, and domestic output. Examines current policy issues in open-economy macroeconomics/international finance using theoretical models explored in class.",
+  "prerequisites_raw": "Masters student level standing and enrolled in UCSB Economics M.A. degree program and completion of Economics 100B or 104B, and 101 or 105, or equivalent level course at other undergraduate university.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 101"
+  ]
+ }
+]

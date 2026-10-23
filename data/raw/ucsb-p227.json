@@ -1,0 +1,322 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 231D",
+  "title": "The Historical Imagination",
+  "units": "4",
+  "description": "With the French Revolution, European culture became obsessed with the past. From Balzac to Aragon, the novel became an engine of historical understanding and social change. Reading of the social and cultural theories that seek to understand the past.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 231E",
+  "title": "Poetics and Politics of Place",
+  "units": "4",
+  "description": "Investigation of literary representation of place, focusing on texts where the evocation of place goes beyond mere setting or background, playing a central role in meaning of the work. Theoretical inquiry into epistemological and ideological issues that influence representation of place.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 231F",
+  "title": "World Literature: the Intellectual and the Republic of Letters",
+  "units": "4",
+  "description": "Studies in the contribution of French thought to the world of ideas, from Montaigne, Pascal, Descartes, Montesquieu, Rousseau, Stal, Tocqueville, Zola, Bergson, Sartre, Weil, Beauvoir, Barthes, Foucault, among others.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 231G",
+  "title": "Questioning Animality",
+  "units": "4",
+  "description": "Analyses of literary, historical and philosophical readings that have shaped the ways in which French and European writers represent the human experience of time and space. Close look at the political, moral, and philosophical functions of art and literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 231J",
+  "title": "Cultural Studies and Intellectual History",
+  "units": "4",
+  "description": "Analyses of literary, historical and philosophical readings that have shaped the ways in which French and European writers represent the human experience of time and space. Close look at the political, moral, and philosophical functions of art and literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 231NN",
+  "title": "Europe's Visions of the Orient",
+  "units": "4",
+  "description": "Analyses of literary, historical and philosophical readings that have shaped the ways in which French and European writers represent the human experience of time and space. Close look at the political, moral, and philosophical functions of art and literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232",
+  "title": "Literature, Science, and the Arts",
+  "units": "4",
+  "description": "Interdisciplinary studies of the cross-fertilization between literature, the performative and visual arts,and other disciplines.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232A",
+  "title": "Topics in Theater Studies",
+  "units": "4",
+  "description": "Transhistorical approach to the texts, criticism, and performance of theater with special emphasis on the interrelations of French and other national traditions. Varying topics might include theater and theatricality of law, politics, pedagogy, etc.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232B",
+  "title": "Literature and the Visual Arts",
+  "units": "4",
+  "description": "Focus on the cross-fertilization between literature and the visual arts in various periods. Topics include the rhetoric of images; the connections that link image and text in high and popular art; poetry and painting; art criticism, and hybrid forms such as comic strips.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232C",
+  "title": "The Medieval Book as Literary Artifact",
+  "units": "4",
+  "description": "Study of the materiality of books as critical to understanding literary works, especially during, but not limited to, the Middle Ages. Emphasis on the dynamic interaction between text and paratext, between writers and patrons, between authors, scribes and editors.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232D",
+  "title": "French Film and Theory",
+  "units": "4",
+  "description": "Analysis of French film that attempts to integrate a cultural-historical approach together with some theoretical considerations.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232E",
+  "title": "Literature and Science",
+  "units": "4",
+  "description": "Literature and science.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232F",
+  "title": "Music and Literature",
+  "units": "4",
+  "description": "Music and literature.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 232GG",
+  "title": "Desire in French",
+  "units": "4",
+  "description": "Interdisciplinary studies of the cross-fertilization between literature, the performative and visual arts,and other disciplines.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 233",
+  "title": "Applied Linguistics, Instructional Theory, Professional Training",
+  "units": "4",
+  "description": "Theoretical and practical issues in critical reading and writing research with a particular focus on the development of advanced academy literacy skills.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 233A",
+  "title": "Advanced Critical Writing",
+  "units": "4",
+  "description": "Workshop on the style, structure, and ideology of crafting persuasive critical arguments and creating authority in writing (in French or English). Focus on introductions, conclusions, definitions, proofs, refutation, and interaction with sources, through analysis, critique, practice, and peer review.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 233C",
+  "title": "Literary Theory and Literacy",
+  "units": "4",
+  "description": "Course examines a variety of literary theories and their implications for literacy. How do different approaches to texts influence current definitions of literacy? Is literacy exclusive to print texts? Does modern literacy also require multimodal forms of critical reading ability?",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 279",
+  "title": "Contemporary Theory in Translation",
+  "units": "4",
+  "description": "Survey of contemporary theory: structuralism and poststructuralism; psychoanalysis and trauma studies; gender and queer studies; ethnic, indigenous, post-colonial, and transnational studies; cognition, emotion, affect; the biological and the ecological turns. In English.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 299",
+  "title": "Topics in Applied Linguistics",
+  "units": "4",
+  "description": "Specialized topics in the study of applied linguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 500",
+  "title": "Apprentice Teaching",
+  "units": "4",
+  "description": "Includes orientation week, weekly meetings with supervisor, preparation of examinations, class visitations and discussions, and occasional workshops.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Instructor is usually student's thesis advisor. Students doing initial research on the doctoral dissertation may sign up for this course.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 596SS",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Instructor is usually student's major professor. Students doing initial research on the doctoral dissertation may sign up for this course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 597",
+  "title": "Independent Study",
+  "units": "4",
+  "description": "Individual research projects, supervised by a faculty member. Requires permission of graduate adviser to enroll.",
+  "prerequisites_raw": "Consent of graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 598SS",
+  "title": "Master's Thesis",
+  "units": "0",
+  "description": "Under the supervision of the director, third-summer student will write a thesis incorporating written works produced and approved during the previous two summers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 599",
+  "title": "Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Reserved for writing of the doctoral dissertation once the student has advanced to candidacy. Instructor should be chair of student's doctoral committee. A progress report must be turned in in order to receive a satisfactory grade for the course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEN SCS",
+  "code": "GEN SCS 10",
+  "title": "Group Interdisciplinary Studies",
+  "units": "0",
+  "description": "Group studies in an interdisciplinary area. Supervised by a member of the faculty of the college of creative studies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 1",
+  "title": "Earth + Humans",
+  "units": "5",
+  "description": "The relationship between people and the planet is complicated. Humans are changing the Earths environment at an alarming rate and negative impacts are disproportionately felt by already underserved populations. With an emphasis on climate change and social justice, in this course we explore issues facing Earth and humans and learn how geographers are working towards solutions. Topics include: oceans and coasts, health, food and water, forests and fire, cities and transportation, and diversity and conservation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 2",
+  "title": "World Regions",
+  "units": "5",
+  "description": "An examination of the interdependency, connectivity and diversity that characterizes world regions. The course explores the interactions of processes of global change with the environmental and social identities of individual landscapes, cities and peoples.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 3",
+  "title": "Oceans and Atmosphere",
+  "units": "5",
+  "description": "Introduction to the oceans and atmosphere and their role in the Earth's climate and its weather patterns. Focus on the flows of solar energy through the ocean and atmosphere systems. Human impacts of the Earth's climate are also introduced.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 4",
+  "title": "Land, Water and Life",
+  "units": "5",
+  "description": "Study of the interactions among water, landforms, soil, and vegetation that create and modify the surface of the Earth. Impacts of physical environment on human societies and humans as agents of environmental change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 5",
+  "title": "People, Place, and Environment",
+  "units": "5",
+  "description": "Survey of spatial differentiation and organization of human activity and interaction with the Earth's biophysical systems. Sample topics include human spatial decision-making behavior, migration, population growth, economic development, industrial location, urbanization, and human impacts on the natural environment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 6",
+  "title": "Sex, Drugs, & Geography",
+  "units": "5",
+  "description": "An examination of the interrelationships between people, place, and the environment as they apply to contemporary public health challenges in our society. Case studies such as HIV and other sexually transmitted infections, and the opioid epidemic, will be used to illustrate social, spatial, and temporal patterns of health.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

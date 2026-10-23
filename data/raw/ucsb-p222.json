@@ -1,0 +1,325 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 5",
+  "title": "Intermediate French",
+  "units": "5",
+  "description": "A continuation of French 4. Discussion encouraged through oral reports on such topics as Impressionist art and French film. Readings include poetry, plays, and short stories. Web-based activities add to the interest of the course. Four days a week; in French.",
+  "prerequisites_raw": "French 4.",
+  "prerequisites_courses": [
+   "FR 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 5H",
+  "title": "INTER FRENCH HONORS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 6",
+  "title": "Intermediate French",
+  "units": "5",
+  "description": "Continuation of French 5. Students complete their grammar review. Continued emphasis on speaking and writing through an examination of contemporary French culture, with exposure to some of the important trends in French intellectual history, notably Existentialism. Four days a week; in French.",
+  "prerequisites_raw": "French 5.",
+  "prerequisites_courses": [
+   "FR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 6GS",
+  "title": "Intermediate French for Global Studies and Political Science",
+  "units": "5",
+  "description": "Students complete review of French grammar. Continued emphasis on speaking, reading, and writing through study of French and Francophone history, politics, language policy, and culture within a global and larger European context. Four days a week; in French.",
+  "prerequisites_raw": "French 5 or equivalent.",
+  "prerequisites_courses": [
+   "FR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 6H",
+  "title": "INTER FRENCH HONORS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 10B",
+  "title": "Biological Topics in French",
+  "units": "1",
+  "description": "Introduces students of French with an interest in the biological sciences to the vocabulary and discursive conventions necessary to communicate effectively with French speakers in the life sciences, including medicine. Students work in groups on a collaborative project under the guidance of the instructor, resulting in an oral and written report. Final projects are presented in an event open to fellow students and professors. All sessions are conducted in French, and all work is to be completed in French.",
+  "prerequisites_raw": "French 4 or higher. Must be enrolled in another French class while taking French 10B.",
+  "prerequisites_courses": [
+   "FR 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 11A",
+  "title": "French for Graduate Students",
+  "units": "4",
+  "description": "A service course for graduate students from other departments who need to satisfy language requirements. Divided into two levels: 11A (elementary) for those who have no, or hardly any knowledge of French; 11B (intermediate) open to students who have an appropriate level of knowledge of the language and to continuing students from 11A. Class meets twice weekly. Focus is on grammatical preparation and translation skills, not spoken fluency.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 11B",
+  "title": "French for Graduate Students",
+  "units": "4",
+  "description": "(Intermediate) open to students who have an appropriate level of knowledge of the language and to continuing students from French 11A. Class meets twice weekly. Focus is on grammatical preparation and translation skills, not spoken fluency.",
+  "prerequisites_raw": "French 11A or consent of instructor.",
+  "prerequisites_courses": [
+   "FR 11A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 16A",
+  "title": "French for Romance Language Speakers 1",
+  "units": "5",
+  "description": "Intensive introductory sequence in French covering the first half of the first full year of French grammar and exposure to French and Francophone culture. Uses grammatical structures of the Romance languages as a point of departure and comparison. Proficiency in all areas of French (reading, writing, listening, speaking) is emphasized. Meets four days per week.",
+  "prerequisites_raw": "1 year of high school French; or 3 years of high school Spanish or Portuguese or Italian or Latin; or be a native or heritage speaker of Spanish or Portuguese or Italian.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 16B",
+  "title": "French for Romance Language Speakers 2",
+  "units": "5",
+  "description": "Intensive introductory sequence in French covering the second half of the first full year of French grammar and exposure to French and Francophone culture. Uses grammatical structures of the Romance languages as a point of departure and comparison. Proficiency in all areas of French (reading, writing, listening, speaking) is emphasized. Meets four days per week.",
+  "prerequisites_raw": "FRENCH 16A with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "FR 16A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 18A",
+  "title": "ADV FR CONVERSATION",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "FRENCH 6 OR 8C. A GOOD PROFICIENCY IN SPOKEN FRENCH TO BE JUDGED BY THE IN-STRUCTOR.",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 18B",
+  "title": "ADV FR CONVERSATION",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "FRENCH 6 OR 8C. A GOOD PROFICIENCY IN SPOKEN FRENCH TO BE JUDGED BY THE IN-STRUCTOR.",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 34",
+  "title": "Literature of the Americas",
+  "units": "5",
+  "description": "An introduction to the diverse literary traditions of the Americas through an examination of selected works. Regional focus on North America, the Caribbean, and Latin America varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 40X",
+  "title": "Memory: Bridging the Humanities and Neurosciences",
+  "units": "4",
+  "description": "Neurosciences now ask some of the same profound questions posed by writers, artists and philosophers for centuries, thus opening surprising perspectives on memory and morality, dreams and perception, identity and agency. This course explores this emerging concordance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 50AX",
+  "title": "Tales of Love in the Western Tradition",
+  "units": "5",
+  "description": "A comparative and interdisciplinary approach to the literatures and philosophies of love, desire, and sexuality in the western world, in antiquity, the Middle Ages, and the Renaissance. In English.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 50BX",
+  "title": "Tales of Love in the Western Tradition",
+  "units": "5",
+  "description": "A comparative and interdisciplinary approach to the literatures and philosophies of love, desire, and sexuality in the western world in the 17th and 18th centuries. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 50CX",
+  "title": "Tales of Love in the Western Tradition",
+  "units": "5",
+  "description": "A comparative and interdisciplinary approach to the literatures and philosophies of love, desire, and sexuality in the western world in the 19th and 20th centuries. In English.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 50H",
+  "title": "Tales of Love Honors",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors seminar, which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in French 50AX or 50BX or 50CX; honors students only; consent of instructor.",
+  "prerequisites_courses": [
+   "FR 50AX",
+   "FR 50BX",
+   "FR 50CX"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 99",
+  "title": "Independent Study",
+  "units": "0",
+  "description": "Individual research project, supervised by a faculty member.",
+  "prerequisites_raw": "French 3 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "FR 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 100",
+  "title": "Advanced Composition",
+  "units": "4",
+  "description": "Transitional course between lower-division language and upper-division literature/advanced culture courses. Students develop their writing and speaking skills through the study of contemporary French and Francophone literature, art and film. Includes a review of grammar. Prerequisite to all other upper-division courses taught in French.",
+  "prerequisites_raw": "French 6; or French 6GS; or equivalent.",
+  "prerequisites_courses": [
+   "FR 6",
+   "FR 6GS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 101A",
+  "title": "Foundations of French and Francophone Culture",
+  "units": "4",
+  "description": "An introductory, interdisciplinary approach to the literary and cultural history of France and Francophone world from the Middle Ages and the Renaissance. Readings of poetry, drama, and fiction. Focus on advanced discussion and writing in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 101B",
+  "title": "Foundations of French and Francophone Culture",
+  "units": "4",
+  "description": "An introductory, interdisciplinary approach to the literary and cultural history of France and Francophone world from the seventeenth century and the Enlightenment. Readings of poetry, drama, and fiction. Focus on advanced discussion and writing in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 101C",
+  "title": "Foundations of French and Francophone Culture",
+  "units": "4",
+  "description": "An introductory, interdisciplinary approach to the literary and cultural history of France and the Francophone world from the nineteenth to the twenty-first century. Readings of poetry, drama, and fiction. Focus on advanced discussion and writing in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 104A",
+  "title": "Critical Writing in French",
+  "units": "5",
+  "description": "This advanced composition course focuses on enhancing students’ analytical skills through an examination of French argumentative modes and critical reading of texts (literature, journalistic essays, political and philosophical works). The goal for students is to develop a clear, persuasive argument on specific works and major issues both orally and in writing. Course includes a comprehensive analysis of complex grammatical structures and the enhancement of French vocabulary for a range of communicative contexts.",
+  "prerequisites_raw": "French 6, 6GS, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 6",
+   "FR 6GS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 104B",
+  "title": "Writing the Self",
+  "units": "5",
+  "description": "Readings in twentieth-century autobiography serving as models for creative writing. Coursework involves analysis of literary works and a long-term ‘autobiographical project’ that may be factual or fictionalized. Course includes a practice of complex grammatical structures and the enhancement of French vocabulary.",
+  "prerequisites_raw": "French 6, 6GS, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 6",
+   "FR 6GS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 104C",
+  "title": "Advanced French Grammar",
+  "units": "5",
+  "description": "Course is designed to provide a thorough review of the rules of French grammar and to situate the discussions within linguistic and cultural contexts, covering topics such as semantics, syntax, and inclusive writing. Explores linguistic features and political contexts of domestic and global varieties of the language. Additional foci include continued vocabulary enrichment, increased syntactic accuracy, and composition skills in French.",
+  "prerequisites_raw": "French 6, 6GS, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 6",
+   "FR 6GS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 104D",
+  "title": "Problems in French Linguistics",
+  "units": "4",
+  "description": "A few selected problems in the linguistic analysis of French are studied in depth. The specialized focus changes from year to year. Lectures and readings in French.",
+  "prerequisites_raw": "French 100 or French 26.",
+  "prerequisites_courses": [
+   "FR 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 104E",
+  "title": "Business Communication and Cultural Affairs",
+  "units": "5",
+  "description": "Study of specific vocabulary, formulae, and writing strategies useful for individual career objectives in the business world. Students will acquire a foundation in contemporary business and professional French, developed through the analysis and application of business concepts and the composition of analytic essays and business documents.",
+  "prerequisites_raw": "French 6, 6GS, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 6",
+   "FR 6GS"
+  ]
+ }
+]

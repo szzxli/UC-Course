@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 113A",
+  "title": "Seventeenth Century Art in Southern Europe",
+  "units": "4",
+  "description": "Painting and sculpture from Italy and Spain as well as France and Flanders examined in its cultural, political, and religious contexts with particular attention to relationships between regional traditions and international trends. Artists studied include Caravaggio, Bernini, Velazquez, Poussin, and Rubens.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 113B",
+  "title": "Seventeenth Century Art in Italy I",
+  "units": "4",
+  "description": "Italian painting, sculpture, architecture, and urbanism from the late sixteenth to late seventeenth centuries examined in its cultural, political, and religious contexts, with emphasis on the relationship between the arts. Focus on the earlier seventeenth century, including the work of Caravaggio, Carracci, and the young Bernini.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 113F",
+  "title": "Bernini and the Age of the Baroque",
+  "units": "4",
+  "description": "Examines the life and work of Gianlorenzo Bernini, best known as a brilliant and innovative sculptor, in their historical context. Also considered is the international influence that Bernini exerted on seventeenth- and eighteeth-century art.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 114",
+  "title": "Special Topics in Seventeenth Century Southern European Art",
+  "units": "4",
+  "description": "Special topics in Southern European art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 115A",
+  "title": "Eighteenth-Century Art: 1685 to 1750",
+  "units": "4",
+  "description": "Painting, sculpture, and architecture in Europe. Topics will change, but may include art and court culture, the Rococo, the rise of popular art and media.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 115B",
+  "title": "Eighteenth-Century Art: 1750 to 1810",
+  "units": "4",
+  "description": "Painting, sculpture, and architecture in Europe from 1760 to 1810. Topics will change but may include art and the French Revolution and neoclassicism.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 115D",
+  "title": "Eighteenth-Century Art in Italy: The Age of the Grand Tour",
+  "units": "4",
+  "description": "In the eighteenth-century Grand Tourists flocked to Italy to see the great works of the past, while contemporary art flourished. This course examines the works of artists such as Piranesi and Tiepolo, important building programs, and early public museums.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 115E",
+  "title": "The Grand Tour: Experiencing Italy in the Eighteenth Century",
+  "units": "4",
+  "description": "In the eighteenth century Italy was a mecca for European travelers who sought to enjoy its culture, diversions, landscape, and society. This course will examine the multifaceted experiences of these travelers and the ways in which they constitute the beginnings of the phenomenon of modern tourism.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 116",
+  "title": "Special Topics in Eighteenth Century Art",
+  "units": "4",
+  "description": "Special topics in eighteenth century art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 116EE",
+  "title": "Theory and Historiography of Art",
+  "units": "4",
+  "description": "Why bother to study art history? Why is art history taught? What does art history have to say about the world we live in? Looking at the ways these questions have been answered from the 18th century to the present.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 117B",
+  "title": "Nineteenth-Century Art: 1848-1900",
+  "units": "4",
+  "description": "Painting, sculpture, and architecture in Europe. Topics will change, but may include art in the Industrial Revolution, Impressionism, and Post-Impressionism.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 117F",
+  "title": "Impressionism and Post-Impressionism",
+  "units": "4",
+  "description": "Impressionist and Post-Impressionist movement in France from 1863 through the first decade of the twentieth century and the advent of Cubism. Includes the work of Monet, Manet, Degas, Renoir, Pissarro, Van Gogh, Cezanne, Gauguin, and Seurat.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 118",
+  "title": "Special Topics in Nineteenth Century Art",
+  "units": "4",
+  "description": "Special topics in nineteenth century art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 119B",
+  "title": "Contemporary Art",
+  "units": "4",
+  "description": "Study of recent artistic developments, from pop to contemporary movements in painting, sculpture, and photography. Movements studied include minimal art, post-minimalism, process art, conceptual art, earthworks, pluralism, neoexpressionism, and issues of postmodern art and criticism.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 119C",
+  "title": "Expressionism to New Objectivity: Early Twentieth Century German Art",
+  "units": "4",
+  "description": "Survey of modernist art movements in Germany, beginning with the expressionist phase around 1905 and concluding with the Bauhaus and New Objectivity phase up to 1933. Special emphasis on the historical and cultural context of German art, and its interaction with the international art scene.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 119D",
+  "title": "Art in the Post-Modern World",
+  "units": "4",
+  "description": "An examination of the concepts of Post-Modernism in Euro-American visual arts, including painting, sculpture, architecture, graphic arts, and new experimental genres from the 1970's to the present.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 119E",
+  "title": "Early Twentieth Century European Art, 1900-1945",
+  "units": "4",
+  "description": "Introduction to the major movements of European modern art in the first half of the twentieth century. This course critically addresses the formation of avant-garde groups and movements in relation to political and social issues.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 119F",
+  "title": "Art of the Post-War Period, 1945-1968",
+  "units": "4",
+  "description": "An examination of major artistic developments in Europe and the United States after the Second World War. Includes such movements as Abstract Expressionism, Neo-Dada, and Pop Art. Explores such artistic practices as performance art, feminist art, and conceptual art.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 119G",
+  "title": "Critical Approaches to Visual Culture",
+  "units": "4",
+  "description": "Critical ways of approaching and understanding a wide range of visual materials and images (paintings, ads, videos, etc.). Analytic approaches to culture and representation are used as a means of developing descriptive and interpretive skills.",
+  "prerequisites_raw": "A prior course in art history; not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 120",
+  "title": "Special Topics in Twentieth-Century Modern Art",
+  "units": "4",
+  "description": "Special topics in twentieth-century modern art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 120AA",
+  "title": "Special Topics in Twentieth-Century Modern Art",
+  "units": "4",
+  "description": "Special topics in twentieth-century modern art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 120BB",
+  "title": "Special Topics in Twentieth-Century Modern Art",
+  "units": "4",
+  "description": "Special topics in twentieth-century modern art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 120CC",
+  "title": "Special Topics in Twentieth-Century Modern Art",
+  "units": "4",
+  "description": "Special topics in twentieth-century modern art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 120CV",
+  "title": "Coloring Vision: The Meanings and Markings of Color in Modern Culture",
+  "units": "4",
+  "description": "The meanings of color as it appears in everything from marketing strategies to artistic expression, and how these meanings shift across time. Students examine the way color is woven into the cultural fabric of societies, and how vision registers color in a myriad of ways.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 120DD",
+  "title": "Special Topics in Twentieth-Century Modern Art",
+  "units": "4",
+  "description": "Special topics in twentieth-century modern art.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 121A",
+  "title": "American Art from Revolution to Civil War: 1700-1860",
+  "units": "4",
+  "description": "Painting, sculpture, architecture and decorative arts in the original 13 colonies, through the formation of the United States, to the crisis of the Civil War. Particular attention paid to environmental and social issues.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 121B",
+  "title": "Early American Modernism",
+  "units": "4",
+  "description": "Covering topics in US art from the Civil War (1861) to World War I (1917), with a particular focus on the arts of the American West and California. Students will learn about a wide range of media and movements in painting, photography, sculpture, the decorative arts, and performance.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 121C",
+  "title": "Twentieth-Century American Art: Modernism and Pluralism, 1900-Present",
+  "units": "4",
+  "description": "American painting in the twentieth-century, from the advent of modernism to yesterday.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 121D",
+  "title": "African American Art and the African Legacy",
+  "units": "4",
+  "description": "Examination of the three centuries of African-American art in North America, the Carribean, and Brazil, stressing the African legacy. Colonial metalwork and pottery, folk or outsider genres, and mainstream nineteenth-and twentieth-century work are among traditions studied.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 121E",
+  "title": "Three-Dimensional Arts of the United States: Meaning, Context, Reception",
+  "units": "4",
+  "description": "From Puritan gravestones to park fountains to war memorials, American sculpture has been a barometer of the political, cultural, religious and artistic trends of our society. Covers the carvings of the first settlements, figural sculpture of colonial America, and the various art movements and sculptural forms of the nineteenth and twentieth centuries as well as current controversies surrounding public art.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 121F",
+  "title": "Re-Reading American Photography",
+  "units": "4",
+  "description": "A focus on the history of photography in the United States starting in 1839 and how contemporary artists are responding to this history now. Students learn about different photographic processes, major historical debates, and important themes that continue to shape our visual world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

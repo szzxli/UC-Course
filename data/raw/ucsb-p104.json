@@ -1,0 +1,272 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 200",
+  "title": "Introduction to Geophysics",
+  "units": "5",
+  "description": "Survey of major topics in geophysics at an elementary level; the figure of the earth, its gravitational and magnetic fields, seismology and the deep structure of the earth, heat flow, methods of geophysical exploration. The geophysical basis of plate tectonics and sea floor spreading. Term paper.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 201A",
+  "title": "Graduate Research and Field Seminar",
+  "units": "4",
+  "description": "Field, laboratory, and analytical projects serve as an introduction to diverse research foci and techniques in Earth Science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 201B",
+  "title": "Graduate Research Seminar",
+  "units": "4",
+  "description": "Conducting research in Earth science: identifying significant problems; designing effective studies; obtaining funding; writing and evaluating research proposals; following scientific ethics; using numerical estimation; and making effective oral and written presentations.",
+  "prerequisites_raw": "Earth Science 201A; graduate standing in the department of Earth Science.",
+  "prerequisites_courses": [
+   "EARTH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 201C",
+  "title": "Mathematical Methods in Earth Science",
+  "units": "4",
+  "description": "Introduces Matlab for plotting and analyzing geologic data and modeling geologic systems. Each student will select data relevant to his/her research for computer exercises. Topics include statistics, Monte Carlo simulations, time series analysis, principal component analysis (EOF), and box models.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 202",
+  "title": "Writing for Publication in Earth Science",
+  "units": "4",
+  "description": "Reading assignments and discussion will focus on how to write articles for publication in peer-reviewed journals, particularly with respect to style and organization. Students will submit weekly writing assignments and receive feedback from the professor and their peers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 205",
+  "title": "Earths Climate: Past and Present",
+  "units": "4",
+  "description": "Description and quantitative analysis of climate processes and paleoclimate proxies. Processes include radiation and the Earths energy budget, the influence of orbital cycles, ocean circulation, monsoons, ENSO, and ice sheets. Paleoclimate reconstructions from tectonic-scale to the last millennium, with emphasis on glacial cycles and Plio-Pleistocene climate evolution.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 206",
+  "title": "Introduction to Climate Modeling",
+  "units": "4",
+  "description": "An introduction to climate models and their application to studies of past, modern, and future climate. Students will learn fundamental modeling concepts, gain experience running several kinds of models, and read/evaluate recent modeling papers. A variety of models will be introduced, with emphasis on atmosphere-ocean General Circulation Models (GCMs) and \"simple\" (zero-dimensional) models. No previous modeling or programming experience is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 208",
+  "title": "Clastic Depositional Environments",
+  "units": "4",
+  "description": "Emphasis on tectonically active settings, topics change yearly. Clastic depositional models for alluvial fan, fan delta, and turbidite fans. Volcaniclastic successions, including subaerial- to deepwater-erupted pyroclastic rocks and lava flows, as well as volcanic mudflows and sandstones. Field work completed on weekends and over spring break.",
+  "prerequisites_raw": "Earth 102B.",
+  "prerequisites_courses": [
+   "EARTH 102B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 209",
+  "title": "Tectonic Controls of Sedimentation",
+  "units": "5",
+  "description": "Integrates sedimentology, volcanology, structural geology, petrology, and geophysics in the study of basins. Overview of divergent, convergent, and strike slip margins, with textbook readings. Journal readings and field trip to case study area, which changes yearly. Field work completed on weekends or over spring break.",
+  "prerequisites_raw": "Geology 2, 102A-B-C, and 122.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 210",
+  "title": "Paleoecology",
+  "units": "0",
+  "description": "Reading and discussion of the interactions of organisms and organisms, and of organisms and the environment, in the fossil record. Specific topics vary. Term paper required if taken for four units.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 215",
+  "title": "Isotope Geochemistry",
+  "units": "4",
+  "description": "Course will develop isotopic systems as tracers of Earth processes, with a particular focus placed on developing radiogenic isotopic systems. The isotopic tools will be used to establish the chronology of the earliest terrestrial events and the formation and evolution of different reservoirs in the Earth. Applications of isotopic systems to solid Earth evolution, petrology, paleoclimate and ocean chemistry will be explored.",
+  "prerequisites_raw": "EARTH 124IG or equivalent",
+  "prerequisites_courses": [
+   "EARTH 124IG"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 216",
+  "title": "Advanced Topics in Stable Isotopy",
+  "units": "4",
+  "description": "Directed reading and weekly seminar in the misuses of stable isotopy, especially in its application to biology, archaeology, geology, paleontology, and paleoecology. The larger issue of misuses of numeric data is also addressed.",
+  "prerequisites_raw": "Geological Sciences 124SI or 224SI or a similar course in stable isotopy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 217",
+  "title": "Tectonic Geomorphology",
+  "units": "4",
+  "description": "Interactions among geomorphic processes that shape the Earth's surface and tectonic processes that deform the upper crust. Use of new tools for geochronology, geodesy, structural geology, and landform analysis. Field trips and projects in Southern California.",
+  "prerequisites_raw": "Earth 103 or 117 or equivalent.",
+  "prerequisites_courses": [
+   "EARTH 103",
+   "EARTH 117"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 222",
+  "title": "Sedimentation and Stratigraphy: Processes and Products",
+  "units": "4",
+  "description": "Transport/depositional processes, sedimentary textures and structures. Sedimentary environments and use of facies models for observation and prediction. Principles of lithostratigraphy, biostratigraphy, chronostratigraphy, and magnetostratigraphy. Seismic stratigraphy and sequence stratigraphic principles. Controls of tectonics, sediment supply and eustacy on sedimentation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 224E",
+  "title": "Environmental Geochemistry",
+  "units": "4",
+  "description": "This course focuses on geochemical principles of key processes at Earth's surface environment. Course materials cover topics including the carbon cycle, mineral-water interactions, soil systems, erosion and weathering, and hydrological cycles. Students will learn foundational theories, applications, and recent research progress to gain a comprehensive understanding of Earth's environment through the geochemical lens. The grad version of this course will contain advanced content in assignments that involve more quantitative materials and rigorous coding work for reproducing important results in classical literatures, and a full term project and a writing report.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 224G",
+  "title": "Geochronology",
+  "units": "2",
+  "description": "Principles of radiogenic isotope geochronology, and applications of the major geochronological methods to terrestrial and extraterrestrial problems ranging from global climate change to petrology to tectonics to solar system evolution. This is a five week course.",
+  "prerequisites_raw": "Chemistry 1A; and, Earth 2, or 3, or 4, or 4S.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "EARTH 2",
+   "EARTH 3",
+   "EARTH 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 224I",
+  "title": "Biogeochemistry of Stable and Cosmogenic Isotopes",
+  "units": "4",
+  "description": "Introduction to stable isotope biogeochemistry, including kinetic and thermodynamic fractionation of stable isotopes during evapo-precipitation, photosynthesis, and biogenic calcification. Applications of stable isotope in environmental sciences, Quarternary geology, paleoclimate, archeology. Introduction to mass spectrometry, cosmogenic and radiogenic isotopes and their application in paleoclimatology/paleoceanography.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 224IG",
+  "title": "Introduction to Geochemistry",
+  "units": "4",
+  "description": "Fundamental concepts of geochemistry including radiometric dating, inorganic chemistry, and biogeochemical cycling are introduced. The class examines how chemical principles can be used to solve geological and environmental problems. These concepts are illustrated using classical geology, global change, and hydrology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 224T",
+  "title": "Introductory Thermodynamics",
+  "units": "2",
+  "description": "Introduction to thermodynamics and kinetics of rock-water systems. Calculation of mineral equilibria as a function of pressure temperature and fluid compositions. Applied problems at surface and subsurface conditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 225",
+  "title": "Advanced Igneous Petrology",
+  "units": "5",
+  "description": "The study of magma dynamics and igneous rocks including petrogeny with an emphasis on petrography, physical chemistry, and dynamics.",
+  "prerequisites_raw": "Earth 240A or equivalent.",
+  "prerequisites_courses": [
+   "EARTH 240A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 226",
+  "title": "Chemical Thermodynamics for Geoscientists",
+  "units": "4",
+  "description": "Classical chemical thermodynamics with a focus on applications to practical problems in the geosciences, environmental sciences, and planetary sciences. This class provides a rigorous theoretical foundation while also proving beneficial for Earth and planetary scientists seeking a review of thermodynamic principles and their application to geological problems.",
+  "prerequisites_raw": "Chemistry 1C; Mathematics 3B; Earth 114.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "MATH 3B",
+   "EARTH 114"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 227",
+  "title": "Field Petrology",
+  "units": "4",
+  "description": "Field-based study of igneous, metamorphic and tectonic processes. Investigates different topics in igneous and metamorphic petrology each year, centered around field trips to key localities. Includes lectures, review of scientific literature, on-campus labs and field-based observations and measurements. The field trip for this course ranges from 4-18 days long and varies each offering.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 231",
+  "title": "Geophysical Time-Series Analysis",
+  "units": "5",
+  "description": "Time-series analysis and digital-signal processing for geophysicists. Course combines theory with practical application using MATLAB and/or Python. Topics include: Sampling, the discrete Fourier transform, aliasing, convolution, filtering, power spectral density estimation, multivariate time-series analysis, and array processing. Students taking the class for graduate credit must complete an extra project (term paper).",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 232",
+  "title": "Introduction to Computing for Earth Science",
+  "units": "4",
+  "description": "Introduction to computing and common software tools in geophysics and related disciplines. Topics include: UNIX, Python and/or MATLAB, Fortran 90, Generic Mapping Tools (GMT), LaTeX, HTML and CSS web pages, etc.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 235",
+  "title": "Advanced Geophysics",
+  "units": "5",
+  "description": "Application of geophysics principles to processes in the Earth. Use of gravity, elasticity theory, fluid dynamics, geomagnetism, and theory of heat transfer. Term paper required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

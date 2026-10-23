@@ -1,0 +1,274 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 137AA",
+  "title": "Special Topics in Architecture",
+  "units": "4",
+  "description": "Special topics in architecture.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 137GA",
+  "title": "Architecture and Theory in Germany and Austria (1770-1870)",
+  "units": "4",
+  "description": "Between 1770 and 1871, the German speaking lands of Europe experienced both political unification and an astounding cultural rebirth (Kant, Hegel, Goethe, Beethoven, Brahms, Wagner, Marx, Nietzsche...). This blossoming extended to architecture and town planning as well, as the region transformed itself into one of Europe's most vibrant laboratories for theory and design. This course will examine this remarkable period of change by examining architecture, town planning, and some architectural theory (in translation) in their larger cultural and political contexts.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 138B",
+  "title": "Contemporary Photography",
+  "units": "4",
+  "description": "American and European post-World War II photography considered as a living art form.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 138C",
+  "title": "Social Documentary Photography",
+  "units": "4",
+  "description": "This course traces the interrelationship between photographic art history and social history. Topics include American Indian tribes, metropolitan slums, Dust Bowl farm conditions, and present-day minorities such as Blacksand women.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 138G",
+  "title": "The Social Production of Art: Patrons, Dealers, Critics, Museums",
+  "units": "4",
+  "description": "In contrast to the usual focus on the artist's creative activity, this course explores the crucial contributions made to the production of art by agencies such as markets, museums, exhibitions, reproductions, criticism, patronship, advertisement, etc.",
+  "prerequisites_raw": "Two prior upper-division art history courses.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 139",
+  "title": "Special Topics in Photographic History",
+  "units": "4",
+  "description": "Specialized classes exploring questions of methodology, as well as significant themes and major figures in the history of photography. Emphasis on intensive investigation of research issues as opposed to extensive period coverage.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 139A",
+  "title": "Special Topics in Photographic History",
+  "units": "4",
+  "description": "Specialized classes exploring questions of methodology, as well as significant themes and major figures in the history of photography. Emphasis on intensive investigation of research issues as opposed to extensive period coverage.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 140E",
+  "title": "Landscape Design History",
+  "units": "4",
+  "description": "Explore the significance of landscape design through social, political, and artistic influences and interpret humanity's control over Nature and how this affects our views of nature. Discover how and why landscape design canons were formed.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 141A",
+  "title": "Museum Practices and Techniques",
+  "units": "4",
+  "description": "Discussion of various aspects of museum work: management principles, the cataloging and care of art objects, exhibitions and acquisitions, administrative procedures, museum architecture. Specialist lectures and visits of museums and their facilities.",
+  "prerequisites_raw": "Not open to freshmen; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 141C",
+  "title": "Visual Technologies Internship",
+  "units": "0",
+  "description": "An internship in the Visual Resource Collection to develop skills in the visual technologies relevant to art history teaching and research. Three hours per week per unit (total 30 hours/unit), plus weekly meetings and final evaluation session. Written report required.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 141D",
+  "title": "Birth of the Modern Museum",
+  "units": "4",
+  "description": "Course examines the emergence and development of museums of art in eighteenth-century Europe, tracing their origins to the private collections from which they evolved and studying the practices, such as tourism, that stimulated their growth.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 141G",
+  "title": "The Architecture of Museums and Galleries from c. 1800 to the Present",
+  "units": "4",
+  "description": "Discusses the history of museums and galleries as distinct modern building types by analyzing their architectural developments from approximately 1800 to the present. Beside architectural design issues (sequence of galleries, display of exhibits, lighting, visitor routes, etc.), the course analyzes museums as sites of memory, their intersections with the modern city, and their roles in cultural and societal debates. Geographically, the course focuses on both the museums origin in Europe and its contemporary universal presence.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 141GH",
+  "title": "The Architecture of Museums and Galleries from c. 1800 to the Present Honors Section",
+  "units": "1",
+  "description": "Honors section to explore in greater depth topics and issues covered by ARTHI 141G. Requires concurrent enrollment in ARTHI 141G.",
+  "prerequisites_raw": "Concurrent enrollment in ARTHI 141G.",
+  "prerequisites_courses": [
+   "ARTHI 141G"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 141H",
+  "title": "Curating Contemporary Art",
+  "units": "4",
+  "description": "Examines the history and practices of curating exhibitions and other forms of contemporary curatorial practice; expands the field by including diverse practices as educational programming, large-scale collaborations, and the commissioning of art works. Considers both institutional and independent programming, with the focus from the 1960s to the present. How do curatorial projects produce meaning? How do they conceive, shape and create communicative spaces? What kind of authorship do they imply?",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 141MH",
+  "title": "Museums and History",
+  "units": "4",
+  "description": "Examines the 20th century museums engagement with history. Explores curatorial strategies for telling stories about the past through historical objects, written narratives, photography, performance, architecture, and art.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 142A",
+  "title": "Architecture and Planning in Seventeenth-Century Europe",
+  "units": "4",
+  "description": "How did major changes in politics, science, and religion (absolutism, Scientific Revolution, Counter Reformation) manifest themselves in contemporary architecture and town planning? Architects include Bernini, Borromini, Wren, Mansart. Focus on Rome, Turin, Paris, and London.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 142B",
+  "title": "Architecture and Planning in Rome: Napoleon to Mussolini",
+  "units": "4",
+  "description": "Transformation of Rome from a pre-modern to a modern city. Napoleonic occupations of 1798-1814; papal initiatives from 1815-70; Rome transformed into the new national capital 1870-1922; Mussolini's massive public works in the 1920s and 30s.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 142C",
+  "title": "Paris and Rome in the Nineteenth Century",
+  "units": "4",
+  "description": "Comparative history of how two great cities were transformed from pre-modern to modern; focus on architecture and design as well as politics, economics, and culture; emergence of new ideas about the very concept of \"the city.\"",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 142D",
+  "title": "Gardens, Land, and Landscape in the West: Renaissance to 1900",
+  "units": "4",
+  "description": "Changing nature of garden and landscape design from the Renaissance to NYC's Central Park, studied as a function of the changing functions and status of land during the long passage from feudalism to industrial capitalism.",
+  "prerequisites_raw": "not open to freshmen",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 142E",
+  "title": "Architecture, Planning, and Culture in Eighteenth-Century Paris",
+  "units": "4",
+  "description": "Paris (and Versailles) from the Sun King to the Revolution, rococo, neoclassicism, origins of urbanism; extensive use of primary texts in translation to study architectural debates in the press and their connection to contemporary political battles.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 142F",
+  "title": "Architecture, Theory & Town Planning in 19th Century France",
+  "units": "4",
+  "description": "The French Revolution inspired a total rethinking: one that aspired to construct a new world and make new sense of the past. This rethinking encompassed politics, religion, history, science, technology, economics, government, philosophy - all of which are aspects of architecture, architectural theory, and town planning. This course will approach the history of 19th-century French architectural thought and practice as a lens through which to discern the broader ways in which the world changed in the wake of 1789.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 143E",
+  "title": "Adaptive Reuse and Art",
+  "units": "4",
+  "description": "Most public places, buildings, galleries, and museums are transformed to varying degrees over the course of their history. This lecture explores how contemporary architects and artists rethought and repurposed historic structures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 143F",
+  "title": "Architectural Criticism and Exhibitions: Exploring the Holdings of the Architecture & Design Collections",
+  "units": "4",
+  "description": "Designed to give an introduction to archival research and highlight the differences between the physical and the virtual. The museum holdings will accompany us on the quest of understanding the difference between the material qualities of the architects work and their impact on culture at large.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 144A",
+  "title": "The Avantgarde in Russia",
+  "units": "4",
+  "description": "The Russian avantgarde in its European context. The avantgarde and the revolution of 1917. Analysis of key figures and movements within the Russian avantgarde. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 144C",
+  "title": "Contemporary Art in Russia and Eastern Europe",
+  "units": "4",
+  "description": "Study of central intellectual and aesthetic trends in the late Soviet period and in contemporary post-Soviet Russia and Eastern Europe. Analysis of literary texts and the visual arts. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 144D",
+  "title": "Russian Art",
+  "units": "4",
+  "description": "Introduction to Russian art and aesthetic theory from the beginning to the present. Readings and lectures in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 148A",
+  "title": "Contemporary Art History: 1960-2000",
+  "units": "4",
+  "description": "Study of recent artistic developments from 1960 until 2000. Movements studied include minimalism, conceptual art, earthworks, feminist art, AIDS activism, identity politics, the use of new media and technology (video, digital media) in contemporary art, along with issues related to sexuality and difference.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ }
+]

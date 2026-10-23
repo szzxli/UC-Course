@@ -1,0 +1,275 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 114MJ",
+  "title": "Structuralism and Structural Functionalism",
+  "units": "4",
+  "description": "Outlines a segment of the history of anthropological theory through the 20th century ethnological traditions of structuralism and structural functionalism. Foregrounds select anthropologists who have contributed to these traditions, including Emile Durkheim, E.E. Evans-Pritchard and Eduardo Viveros de Castro; their critics: Judith Butler, Saba Mahmood, and Marilyn Strathern. The goal of the course is to organize the discursive structure around which these thinkers cohere and to question the place of these traditions in contemporary anthropology. Topics of interest include institutions/agency; nature/culture; subsistence, desire, and need; language and semiotics; magic/religion; gender/sexuality; and ontology/metaphysics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 115",
+  "title": "Language, Culture, and Place",
+  "units": "4",
+  "description": "Focuses on the dialectical interplay between humans and the environment and how people use language to classify, make sense of, and attribute moral and symbolic meaning to places and landscapes.",
+  "prerequisites_raw": "ANTH 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 116A",
+  "title": "Myth, Ritual and Symbol",
+  "units": "4",
+  "description": "Uses ethnographic case studies, films and performance videos to explore myth, ritual, and symbolism cross-culturally. Compares and contrasts the symbolic dimensions of gender and ethnic identity, world view, social and political organization and change in different societies.",
+  "prerequisites_raw": "Anthropology 2.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 116B",
+  "title": "Anthropological Approaches to Religion",
+  "units": "4",
+  "description": "Exploration of anthropology's distinctive approaches to religion using theoretical works, historical and ethnographic case studies, film, and performance video. Topics include sociopolitical dimensions of religion; ritual structure, and experience; cognitive, aesthetic, and semiotic approaches to religion.",
+  "prerequisites_raw": "Anthropology 2 and upper-division standing.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 116C",
+  "title": "Anthropology of Religion Practicum",
+  "units": "4",
+  "description": "In this course, students acquire basic methodological skills in cultural anthropology by carrying out ethnographic field research with local religious communities.",
+  "prerequisites_raw": "Anthropology 2 and upper-division standing.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 117",
+  "title": "Borders and Borderlands",
+  "units": "4",
+  "description": "The theoretical concept of \"borderlands\" examined through a discussion of the societies, economics and cultures that form on geopolitical borders. The Mexico-U.S. border will be discussed in detail.",
+  "prerequisites_raw": "Anthropology 2.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 118",
+  "title": "Archaeological Biogeochemistry",
+  "units": "6",
+  "description": "Introduces stable isotope biogeochemistry and XRF compositional analysis and their application to ancient and modern humans, faunal bones and teeth. Corresponding lab sections will teach sample preparation and hypothesis building to reconstruct aspects of climate, diet, mobility, and health.",
+  "prerequisites_raw": "ANTH 3, 5, 9 OR CHEM 1, 2, 6 OR EARTH 2, 3, 8 OR GEOG 5, 12 OR EEMB 21, 55",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "CHEM 1",
+   "EARTH 2",
+   "GEOG 5",
+   "EEMB 21",
+   "ANTH 5",
+   "ANTH 9",
+   "EARTH 3",
+   "EARTH 8",
+   "GEOG 12",
+   "EEMB 55"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 118TS",
+  "title": "Archaeology of the Ancient Near East",
+  "units": "4",
+  "description": "This course combines archaeology and history to trace the development of the cultures of the ancient Near East from the origins of civilization through the rise of empires, ending with the conquest of Alexander the Great in c. 300 BCE.",
+  "prerequisites_raw": "Anthropology 3 or 3SS or MES 45.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "MES 45",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 119",
+  "title": "Household Archaeology",
+  "units": "4",
+  "description": "Household Archaeology plays a central role in the analysis of a wide range of anthropological issues, such as wealth, status, economic risk, gender, political networks, and ethnicity. Focuses on how to integrate household data into abstract general theories of social process.",
+  "prerequisites_raw": "Anth 3 or Anth 3SS",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 120MJ",
+  "title": "Psychological and Phenomenological Anthropology",
+  "units": "4",
+  "description": "Examines a subfield of anthropology whose conceptual frameworks rely on traditions of phenomenology, psychoanalysis, and psychology. The course focuses on the emergence of this subfield, its texts and discourses, and its importance for anthropological inquiry. It also explores the themes it foregrounds, including medicine, the body, the imagination, existence, therapeutic worlds, addiction, gender and sexuality, religious traditions, shamanism, and colonialism. Throughout our readings we also consider the deep affinities between anthropology, phenomenology, and psychoanalysis, how they have historically intersected, and their relevance for contemporary anthropological analysis.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 121",
+  "title": "Human Evolution",
+  "units": "4",
+  "description": "The nature and results of the evolutionary processes responsible for the formation and differentiation of human populations.",
+  "prerequisites_raw": "Anthropology 5.",
+  "prerequisites_courses": [
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 121T",
+  "title": "Genetics, Natural Selection, and Human Evolution",
+  "units": "4",
+  "description": "An introduction to the nature and role of genes in evolution, in natural selection, in sexual reproduction, in cellular regulation, in human development, in structuring universal human adaptive design, and in creating individual and intergroup similarities and differences.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 122MJ",
+  "title": "Anthropology of Security",
+  "units": "4",
+  "description": "Examines the infrastructures, practices, and concepts that emerge from securitization. Critically analyzes how security becomes entangled with the state as a legal, political, and social form and how securitization marks a new mode of power and governance irreducible to the demands of sovereignty. Topics include the relationship between freedom, rights, and protection; surveillance and its technologies; material and immaterial violence; global networks and the international; force and coercion; policing and law enforcement; and the politics of borderlands and migration.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 123",
+  "title": "Feeding Ecology of Primates and Humans",
+  "units": "4",
+  "description": "Foraging and feeding patterns in primates with some discussion of human patterns. Topics include digestive physiology; measurement of energy flows and food availability; foraging theory; and the evolutionary context of human diets.",
+  "prerequisites_raw": "ANTH 5 and ANTH 153T",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 153T"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 123MG",
+  "title": "Data Analysis for the Social Sciences with R",
+  "units": "4",
+  "description": "An introduction to the scientific process and data analysis using the programming language R. Students harness fundamentals of data manipulation, visualization, and research workflows to refine and present hypotheses and results on social science datasets. Introduces modeling methods.",
+  "prerequisites_raw": "Anthropology 9 or equivalent.",
+  "prerequisites_courses": [
+   "ANTH 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 124",
+  "title": "Capitalism",
+  "units": "4",
+  "description": "This course presents the contribution of Marxist analysis to anthropology. Among the topics explored are: the commodity; accumulation; reproduction; class; peasants and capital; land and labor; hegemony.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 125",
+  "title": "Anthropology of Gender",
+  "units": "4",
+  "description": "The cross-cultural study of gender from a feminist perspective. Topics may include gender, race, and class; gender and nature; gender and the division of labor; gender and kinship; gender and subjectivity; gender and sexuality; gender and the state; gender and knowledge/discourse.",
+  "prerequisites_raw": "ANTH 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 126",
+  "title": "Laboratory Methods and Biomarkers for the Social Sciences",
+  "units": "4",
+  "description": "This course spans a broad range of theory and methods involved in using biomarkers in the social sciences. Theory comes from areas of behavioral research including, behavioral endocrinology, behavioral ecology, evolutionary medicine, and public health. Methods focus on but are not limited to biomarker sampling (saliva, urine, feces, blood), quality controls and processing, and the principles of immunoassays used to measure biomarker concentrations.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 127MJ",
+  "title": "Anthropology of Racial Slavery",
+  "units": "4",
+  "description": "Examines the world-building and world-destroying structures produced from the transatlantic slave trade. While the primary focus is the formation of slavery in the United States, readings will also consider the place of Africa and Latin America in relation to the transatlantic slave trade. Fundamentally, the course introduces students to the numerous mechanisms used to maintain the being of the slave as slave through the law, political economy, criminal justice, and in the organization of political and social life. We will pay attention to the encounters slavery made possible between intersecting worlds and the concepts that underly this relationship between worlds: including debt, freedom, race, rights, the human, and value.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 128",
+  "title": "The Archaeology of Gender",
+  "units": "4",
+  "description": "The development of gender as a research focus in archaeology over the past several decades. Examine case studies that consider the identification and understanding of past gender relations, specifically how gender relations are materialized in the archaeological record.",
+  "prerequisites_raw": "Anthropology 3",
+  "prerequisites_courses": [
+   "ANTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 129",
+  "title": "Ethnographic Research Methods: Ethics and Engagement",
+  "units": "4",
+  "description": "Interrogation of ethnographic research, its development and its ethical implications. Weighing approaches such as participatory action research, engaged and collaborative research, and decolonized methodologies. Students will develop projects based on a critical reading of these models.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 129MG",
+  "title": "Behavioral Ecology of Hunter Gatherers",
+  "units": "4",
+  "description": "A thorough introduction using a behavioral ecology approach to the diversity of behaviors found among foragers in Africa, South America, Southeast Asia, and Australia. Topics include: diet and subsistence, mating, demography, social behavior, mobility and settlement patterns, gender, indigenous rights, and conservation.",
+  "prerequisites_raw": "Anthropology 5 or 7.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 130",
+  "title": "International Development and Population Health",
+  "units": "4",
+  "description": "Considers the distribution and determinants of well being in human populations, with an emphasis on low-income nations and the actions of the international development sector. Focus is placed on cultural/social determinants of health, including issues of gender equality. Takes a critical perspective on the tools used to measure population health and the design and evaluation of development policy and interventions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

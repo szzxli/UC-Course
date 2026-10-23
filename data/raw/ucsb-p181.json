@@ -1,0 +1,294 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 160",
+  "title": "Literature of Animals, Food, and the Environment",
+  "units": "4",
+  "description": "Course explores big questions about animals and the environment through the lens of post-1900 U.S. literature. We will pay particular attention to interactions between human and nonhuman animals in uniquely American productions. A number of pressing topics will be discussed, including species extinction, climate change, animal agriculture, environmental justice, and interspecies ethics such as how we view animals and increasingly wish to see them as subjects of their own lives and not objects for literal and symbolic use by humans. Themes that will repeatedly appear in the course include animal studies, climate change, environmental racism, marine justice, and the place of the arts in debates about science and policy.",
+  "prerequisites_raw": "Environmental Studies 1 or 2 or 3 or English 10; and Writing 2 or 2E or 2LK or one course from Writing 105A-Z, 107A-Z, or 109AA-ZZ.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENGL 10",
+   "WRIT 2",
+   "ENV S 2",
+   "ENV S 3",
+   "WRIT 2E",
+   "WRIT 2LK",
+   "WRIT 107A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 161",
+  "title": "Environmental Communications: Contemporary Strategies and Tactics",
+  "units": "4",
+  "description": "Surveys strategies and tactics for communicating about the environment and sustainability in various organizational, political, cultural, business, mass media and social media contexts. Students will analyze, evaluate and practice communications methods using a spectrum of communications channels.",
+  "prerequisites_raw": "Environmental Studies 1 or 2 or 3 and upper-division standing.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENV S 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 162",
+  "title": "Environmental Water Quality",
+  "units": "4",
+  "description": "Study of physio-chemical and biological characteristics of natural waters, analysis of water pollution and treatment, water-quality regulations. Laboratory: independent and supervised research of water pollutants and treatment, quantitative analysis of water-quality data and one-day field work.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 163A",
+  "title": "Global Water Resources: Water Supply and Demand",
+  "units": "4",
+  "description": "Water underpins all aspects of development. To evaluate water resources quantitatively, it is critical to understand water availability and water demand. How much water is there, and how is it distributed in space and time? How much water do humans and the environment need? And, how do these components translate into water scarcity? This course addresses these topics, providing a strong foundation in water resources.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Political Science 12; Environmental Studies 40 (may be taken concurrently); Math 2A or 3A or 34A; Pstat 5A or 5LS or 109 or Economics 5.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "POL S 12",
+   "ENV S 40",
+   "MATH 2A",
+   "ECON 5",
+   "ENV S 3",
+   "MATH 3A",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 163B",
+  "title": "Global Water ResourcesWater Management and Policy",
+  "units": "4",
+  "description": "Water underpins all aspects of development. To manage water resources effectively, we also need to understand anthropogenic drivers of change and water policy. This class builds on topics of how to evaluate water resource supply and demand covered in 163A, focusing on water tradeoffs and opportunities for management. Students will complete a significant amount of readings, actively participate in class, and engage in independent and group assignments.",
+  "prerequisites_raw": "Environmental Studies 163A; Environmental Studies 40 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "ENV S 163A",
+   "ENV S 40"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 164",
+  "title": "Introduction to Collecting, Coding, and Exploring Water Data",
+  "units": "4",
+  "description": "An introduction to big data with water resources applications. This is an introductory coding-based course promoting a basic understanding of WATER data using RStudio. The class focuses on finding valuable data, cleaning data, and preparing data for analyses, and on the critical steps that proceed statistical analyses —the steps that are fundamental to the quality of our analyses. The class focuses on water resources only.",
+  "prerequisites_raw": "Math 2B or 3B or 34B or Environmental Studies 25.",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "ENV S 25",
+   "MATH 3B",
+   "MATH 34B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 165A",
+  "title": "Environmental Impact Analysis",
+  "units": "4",
+  "description": "Analyzes the historical and theoretical approaches to environmental assessment methodology and procedures for preparing and reviewing environmental impact reports. Explores strengths and weaknesses of current public policy context.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 165B",
+  "title": "Advanced Environmental Impact Analysis",
+  "units": "4",
+  "description": "Advanced seminar during which students prepare their own focused environmental impact report on a specific development project. Includes in-depth discussion of baseline, mitigation, impacts, and public comments. Assignments based on research and fieldwork provide reality professional environmental planning experience.",
+  "prerequisites_raw": "Environmental Studies 165A.",
+  "prerequisites_courses": [
+   "ENV S 165A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 166DC",
+  "title": "Diet and Global Climate Change",
+  "units": "4",
+  "description": "Course investigates the potential of diet change to mitigate anthropogenic global climate change via production, processing and transport of food, and by improved nutrition and health. The potential for eaters to change diets and policy makers to promote diet change will also be examined.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 167",
+  "title": "Biogeography: The Study of Plant and Animal Distributions",
+  "units": "4",
+  "description": "Basic processes governing geographic distribution patterns of biota, including migration, evolution, isolation, and endemism. Biogeographic regions and their histories and an introduction to island biogeography. Emphasis on plants and plant geography. One all-day field trip.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4 or Environmental Studies 2 or EEMB 2 or Earth Science 2.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "ENV S 2",
+   "EEMB 2",
+   "EARTH 2",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 168",
+  "title": "Aqueous Transport of Pollutants",
+  "units": "4",
+  "description": "Focus on the behavior of dissolved species in rivers. Examination of the basic advection-diffusion model. Particular emphasis on field data.",
+  "prerequisites_raw": "Mathematics 2B or 3B and Chemistry 1A-B-C.",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "CHEM 1A",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 169",
+  "title": "Tracer and Contaminant Hydrology",
+  "units": "4",
+  "description": "Introduction to principles of chemical and isotope tracer hydrology. Emphasis on methods of groundwater dating, the use of tracers as management tools, and contaminate plume monitoring.",
+  "prerequisites_raw": "Mathematics 2B or 3B and Chemistry 1A-B-C.",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "CHEM 1A",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 170",
+  "title": "From Rain to River: Advanced Modeling of Watershed Dynamics",
+  "units": "4",
+  "description": "Provides hands-on training in the modeling of watershed and river processes that shape freshwater systems and influence water resources management. Students learn to build, visualize, and interpret both data and models of hydrologic flow, erosion, sediment transport, and river hydraulics using open-source and agency tools (e.g., SWAT, HEC-RAS, InVEST, and R/Python workflows). Emphasis is placed on (1) developing process understanding, (2) learning modeling tools and modeling best practices and (3) visualizing and communicating results. Students will design, apply, and communicate modeling workflows to analyze hydrologic and geomorphic processes and their management under change.",
+  "prerequisites_raw": "Math 3A and 3B or 34A and either 34B or Environmental Studies 25; PSTAT 5A or 5LS or 120A or Economics 5; and one of the following which may be taken concurrently: Environmental Studies 154 or Earth Sciences 176 or Geography 176A.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "ENV S 25",
+   "PSTAT 5A",
+   "ECON 5",
+   "ENV S 154",
+   "GEOG 176A",
+   "MATH 3B",
+   "MATH 34A",
+   "MATH 34B",
+   "PSTAT 5LS",
+   "PSTAT 120A",
+   "ENV S 176"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 171",
+  "title": "Ecosystem Processes",
+  "units": "4",
+  "description": "An examination of the key processes that regulate ecosystem productivity and function in terrestrial ecosystems. Specific foci include: plant- soil linkages including decomposition and nutrient supply, and the role of above- and below-ground community composition on element cycles.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, and 1C or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 172",
+  "title": "Waste Management: Product Stewardship, Recycling and Renewable Energy",
+  "units": "4",
+  "description": "Overview of policy, technology, and economic dimensions of managing wastes in the twenty-first century. Covers the emergence of product stewardship, domestic and international recycling, composting of organic materials, conversion of organic materials to renewable energy, waste incineration and land filling.",
+  "prerequisites_raw": "Environmental Studies 1 or 2 or 3.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENV S 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 173",
+  "title": "American Environmental History",
+  "units": "4",
+  "description": "Traces the history of American attitudes and behavior toward nature. Focus on wilderness, the conservation movement, and modern forms of environmentalism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 174",
+  "title": "Environmental Policy And Economics",
+  "units": "4",
+  "description": "Introductory course on economic analysis of environmental policy. Topics include market failure, the evaluation of environmental policy, energy sources, population growth, sustainable development, the optimal levels of biodiversity and pollution, and dispute resolution.",
+  "prerequisites_raw": "Environmental Studies 30 or Economics 1 or 2 or 9.",
+  "prerequisites_courses": [
+   "ENV S 30",
+   "ECON 1",
+   "ECON 2",
+   "ECON 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 175",
+  "title": "Environmental Economics",
+  "units": "4",
+  "description": "Provides a rigorous treatment of environmental economics. topics include welfare analysis, ethical dimensions of economic criteria for protecting the environment, measuring the demand for environmental goods, property rights, economic incentives, including marketable permits and emission fees, and regulating risk.",
+  "prerequisites_raw": "Economics 10A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 176",
+  "title": "Energy Politics and Policy",
+  "units": "4",
+  "description": "Introduces students to the politics and policy of the contemporary global energy system. Covers major public policies and politics related to both the electricity and transportation systems. Students learn energy technologies characteristics and understand contemporary political debates over the energy system.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Political Science 6 or 12.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "POL S 6",
+   "ENV S 3",
+   "POL S 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 176A",
+  "title": "Water Policy in the West: Linking Science with Environmental and Economic Values",
+  "units": "4",
+  "description": "Examines water supply and use, the science of water systems and watersheds, key concepts in water policy, and the basics of water law as a fundamental element of the history and context for water policy in the West.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 176B",
+  "title": "Advanced Study of Water Policy",
+  "units": "4",
+  "description": "Students are in the field full-time for approximately two weeks to study watersheds and water systems including Yosemite/Hetch Hetchy, Mono Lake, and the state and federal water systems in California.",
+  "prerequisites_raw": "Environmental Studies 176A.",
+  "prerequisites_courses": [
+   "ENV S 176A"
+  ]
+ }
+]

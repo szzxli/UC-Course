@@ -1,0 +1,320 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 172",
+  "title": "Colonialism and Power",
+  "units": "4",
+  "description": "Anthropological approaches to colonialism, post-colonialism and power. Sites and regions covered differ depending on instructor. Topics include relations between colonialism and capitalism; rise of nationalism; race and racialization; gender, sexuality, intersectionality; resistance and refusal; modernization and development regimes; postcolonial critique and theory.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 173",
+  "title": "The Anthropology of Disaster",
+  "units": "4",
+  "description": "Examines how disasters transform people and societies. We survey natural, biological, environmental, and social catastrophes and explore their impacts on different vulnerable communities. Case studies of resilience and regeneration complement course content on calamity.",
+  "prerequisites_raw": "Anthropology 2, 3, and 5.",
+  "prerequisites_courses": [
+   "ANTH 2",
+   "ANTH 3",
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 174",
+  "title": "Amazonia",
+  "units": "4",
+  "description": "Focuses on the people, environment, and history of Amazon basin. Topics of study include human-environment interactions across time; social and cultural groups; representations in film, media, and literature; and contemporary social, political, and environmental issues facing the region.",
+  "prerequisites_raw": "Anthropology 2.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 175",
+  "title": "Medical Anthropology",
+  "units": "4",
+  "description": "This sociocultural anthropology course is focused on the social construction of health, risk, illness, and disease in the US and around the globe and research methods used to study them. Topics include health inequality and its social production, critical analysis of biomedicine and power, technologies of diagnosis and treatment, stigma and disability, gender, bodies and health, mental health and illness, medicalization and pharmaceuticalization, and global health and humanitarian care.",
+  "prerequisites_raw": "ANTH 2 (or equivalent). Upper division standing.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 176",
+  "title": "Representations of Sexuality in Modern Japan",
+  "units": "4",
+  "description": "The main ideologies guiding the establishment of various representations of sexuality from prewar scientific writings to contemporary popular culture.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 176TS",
+  "title": "Ancient Egyptian Religion",
+  "units": "4",
+  "description": "Examination of Ancient Egyptian religion from massive temples and pyramids to modest offerings and simple burials. The interaction of sacred and secular is considered through examination of the individual, society, and the state in shaping religious beliefs.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 177",
+  "title": "Infrastructural Inequalities",
+  "units": "4",
+  "description": "Explores the relationships between inequality and urban infrastructure. Focuses on how infrastructures reflect, create, and sometimes even remedy social inequalities.",
+  "prerequisites_raw": "ANTH 2 or permission of instructor",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 177AB",
+  "title": "Human Reproduction Ecology and Endocrinology",
+  "units": "4",
+  "description": "Regulation of reproductive function by diet, energy balance, lactation, and social context. The role of hormones in the regulation of human reproduction, behavior, and physiology. Hormonal changes with parenting and pregnancy in men and women.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 178",
+  "title": "Internship in Archaeological Record-Keeping and Collections",
+  "units": "0",
+  "description": "Interns serve as assistants in the department's Central Coast Information Center or Repository for Archaeological Collections or both.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 179",
+  "title": "The Anthropology of Disaster",
+  "units": "4",
+  "description": "Examines how disasters transform people and societies. We survey natural, biological, environmental, and social catastrophes and explore their impacts on different vulnerable communities. Case studies of resilience and regeneration compliment course content on calamity.",
+  "prerequisites_raw": "Anth 2, Anth 3, & Anth 5",
+  "prerequisites_courses": [
+   "ANTH 2",
+   "ANTH 3",
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 180",
+  "title": "Archaeology of Ethnicity & Race",
+  "units": "4",
+  "description": "Concepts of ethnicity and race are catalyzing forces today. Exploring the changing definitions and resonances of these categories in an archaeological context, we examine how these concepts shifted in antiquity and modern scholarship, with particular reference to Egypt, Nubia, and the Mediterranean.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 180A",
+  "title": "Osteology",
+  "units": "4",
+  "description": "Designed to teach students in archaeology and physical anthropology the basic skills necessary to identify and analyze the remains of animals recovered from archaeological excavations. Emphasis is placed on laboratory work with actual archaeological collections and testing hypotheses about prehistoric human behavior.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 180B",
+  "title": "Osteology",
+  "units": "4",
+  "description": "Continuation of Anthropology 180A with the development of a research project.",
+  "prerequisites_raw": "Anthropology 180A; consent of instructor.",
+  "prerequisites_courses": [
+   "ANTH 180A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 181",
+  "title": "Methods and Techniques of Field Archaeology",
+  "units": "4",
+  "description": "Introduction to archaeological research designs and field techniques of data collection, including survey, excavation, and site data recording. Coursework entails fieldwork all day Saturday.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 182",
+  "title": "Quantitative Data Analysis in Archaeology",
+  "units": "4",
+  "description": "This course is an introduction to the practical analysis of commonly encountered archaeological data using simple quantitative and statistical procedures such as exploratory data analysis, sampling, regression, and spatial analysis. The course is taught in a computer-assisted (mutimedia) format.",
+  "prerequisites_raw": "Anthropology 3 or 3SS or 100.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS",
+   "ANTH 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 182M",
+  "title": "Introduction to Lithic Analysis",
+  "units": "4",
+  "description": "This course gives students an introduction to the anthropology and archaeology of making and using stone tools. Practical experience in making tools and using them experimentally is emphasized.",
+  "prerequisites_raw": "Anthropology 3 or 3SS or 100.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS",
+   "ANTH 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 183",
+  "title": "Internship in Archaeological Resource Management",
+  "units": "0",
+  "description": "Interns serve as assistants or trainees in the archaeological programs of a governmental agency, a museum, or a private firm in the local area. In collaboration with the instructor and an extramural archaeologist, the student conceives a set of activities for the internship.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 184",
+  "title": "Settlement Pattern Analysis in Archaeology",
+  "units": "4",
+  "description": "How the arrangement of archaeological sites across the landscape indicates aspects of human culture, including subsistence strategies and socio-political complexity. Methods of obtaining and interpreting settlement data.",
+  "prerequisites_raw": "Anthropology 3; not open to freshmen.",
+  "prerequisites_courses": [
+   "ANTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 186",
+  "title": "Lab Course in Paleoethnobotany",
+  "units": "4",
+  "description": "Study of archaeological plant remains, including field/lab methodology, the reconstruction of ancient environment and the subsistence, spatial and temporal analysis, quantitative methods, and taxonomy. Divided between lecture, discussion, and labwork, involving microscopic identification of paleoethnobotanical remains.",
+  "prerequisites_raw": "Anth 3",
+  "prerequisites_courses": [
+   "ANTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 186Z",
+  "title": "Lab Course in Zooarchaeology",
+  "units": "4",
+  "description": "Study of archaeological faunal remains, including field/lab methodology, the reconstruction of ancient environment and the subsistence, spatial and temporal analysis, quantitative methods, and taxonomy. Divided between lecture, discussion, and labwork, involving identification of zooarchaeological remains.",
+  "prerequisites_raw": "Anthropology 3",
+  "prerequisites_courses": [
+   "ANTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 188",
+  "title": "The Seacoast in Prehistory",
+  "units": "4",
+  "description": "An examination of maritime adaptations in world prehistory, emphasizing the integration of marine resources into economies of varying degrees of complexity. Course will cover New and Old World culture areas and the Santa Barbara region.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 189",
+  "title": "Problems in European Prehistory",
+  "units": "4",
+  "description": "Seminar in selected problems in the archaeology of Europe.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 190",
+  "title": "Cultural Anthropology Internship",
+  "units": "0",
+  "description": "Students serve as interns in various settings such as museums, governmental agencies, and health organizations to gain exposure to different cultures. In collaboration with the instructor and an extramural anthropologist, the student conceives a set of activities for the internship.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 191A",
+  "title": "Prehistoric and Early Historic Artifacts: Technology of Their Manufacture and Use",
+  "units": "4",
+  "description": "Consideration of how prehistoric and early historic peoples manufactured and used all major classes of artifacts found in North America archaeological sites, and how archaeologists manage artifact collections and reconstruct technology through artifact analysis.",
+  "prerequisites_raw": "Anthropology 3.",
+  "prerequisites_courses": [
+   "ANTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 191B",
+  "title": "Analysis of Archaeological Materials",
+  "units": "2",
+  "description": "An advanced applied course focused on the analysis and interpretation of prehistoric artifacts from archeological sites in California. Research design, data recording, simple statistical analysis and interpretation are covered as the site analysis progresses through the quarter.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 192AB",
+  "title": "Developmental Plasticity and Evolution",
+  "units": "4",
+  "description": "Explores how organisms develop differently in different environments; how developmental plasticity facilitates evolution; adaptive landscapes; genetic accommodation of phenotypic variation; reaction norms; variation and flexibility in immune function, growth, behavior. Emphasis on humans but with examples and applicability to other species.",
+  "prerequisites_raw": "Anthropology 5 or 7 with a minimum grade of C or Ecology Evolution and Marine Biology (EEMB) 2 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 7",
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 193",
+  "title": "After graduation: Preparing for Graduate School and the Job Market",
+  "units": "4",
+  "description": "This course is designed to guide students: (1) through the graduate school application process, and (2) in how to prepare for the job market. We will consider all steps and components of applying to graduate school. The second half of class will focus on best practices for finding jobs after graduation.",
+  "prerequisites_raw": "Juniors and Seniors only; limited to Anthropology Majors/Minors",
+  "prerequisites_courses": []
+ }
+]

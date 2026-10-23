@@ -1,0 +1,192 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36DL",
+  "title": "Disease, Ideas, and the Law",
+  "units": "4",
+  "description": "During the past (almost) two years, the novel COVID-19 virus has travelled through the social body and inflamed many of its fractures. The crisis has prompted important medical and scientific questions, but it has also raised key issues related to society, religion, and the law. These include problems of inequality, the relationship between individuals and the state, ideas about bodies, and the role of ritual and belief questions that have also emerged in previous crises. This course examines how people in colonial Latin America (16th and 17th centuries) and in the modern United States (20th and 21st centuries) made sense of these questions when their own social bodies were afflicted with disease and epidemics.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36GS",
+  "title": "How Games Tell Stories (and What We Learn From Them)",
+  "units": "4",
+  "description": "How are game narratives designed, how they are experienced, and what do they do? In this course we consider a wide variety of games from a wide variety of game forms and genres: text-based and visual novels, learning games and casual games, indie and triple-A. You will write about games and you will create your own simple prototypes and playable essays. Throughout the process of playing, studying, writing about, and creating games, we will work together to discover what we learn from games, and how they change us. The course will involve writing workshops and exercises in which you learn to use basic code on interactive writing platforms and tools such as Twine, Inky, Inklewriter, or Inform. This course requires no coding experience.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36IA",
+  "title": "Inventing Attention",
+  "units": "4",
+  "description": "We hear about attention a lot but what is it and what roles does it play in our lives? In this seminar well investigate this everywhere present but sometimes less studied question of attention using models, methods, and artifacts from the humanities. Well explore different approaches to attention as a form of play, experiment with ideas of attention from different historical periods and the present. Well also design (and potentially create!) attention devices that take our class thinking and creativity into account.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36KX",
+  "title": "Disability Aesthetics and Politics in Chinese Literature and Western Music",
+  "units": "4",
+  "description": "Uses the lens of disability to re-examine musical and literary histories and challenge some fundamental assumptions regarding aesthetics, ableism, care, and embodiment. We construe disability beyond the medical model as an identity and experience in order to understand its social-political origins; to that end, we adopt a comparative and cross-cultural approach and use Western music and Chinese literature as two case studies. We hope that this course will generate historical, critical, and cross-cultural insights that help us imagine disability otherwise and create a more inclusive world in which we all thrive.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36LH",
+  "title": "Listening in the Humanities: Sound Studies @UCSB",
+  "units": "4",
+  "description": "What can we learn about people, communities, environments, and ourselves by listening closely? As we pursue this question, we'll travel from the studio, to the archives, around campus and Isla Vista, and out to sea. You will learn to approach sound as both a method of research and as an object of study. By listening and also paying close attention to how we listen, this class will learn innovative approaches to humanities research. The class will also collaboratively create audio projects that explore the relationships between our communities, bodies, and environments.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36MM",
+  "title": "Moors, Mongols, and the Monstrous: Race and Racism in the Middle Ages",
+  "units": "4",
+  "description": "Until fairly recently, most scholars distinguished the concept of race and racism as strictly modern phenomena. Race, in other words, in the estimate of most modern theorists of race, wasn't a consideration in the Middle Ages. Likewise, despite all evidence to the contrary, medieval Europe has been enshrined in the popular imagination as ethnically homogenous and white. We will take an interdisciplinary approach to premodern discourses concerning human difference and ideas of race, considering its intersections with concepts such as ethnicity, religion, monstrosity, and epidermal color, as well as looking at the lived experience of people of color in medieval Europe.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 36TS",
+  "title": "Intersections: Theater Artists and Scholars",
+  "units": "4",
+  "description": "Focuses on the study and production of theater through the lenses of acting, directing, and theater studies. A mix of scholarly research and embodied practice, the course dives into play analysis through reading, discussion, research, writing, and performance projects. In exploring three plays, students create a research notebook, write an introduction to the play that might appear in a program, and participate in a short scene from the play. Finally, students research and write a piece of theatre scholarship on one of the three plays, with the goal of understanding how scholars carry out their investigations.",
+  "prerequisites_raw": "Freshman standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 37UD",
+  "title": "Utopian Dreaming: History, Science Fiction, and Isla Vista",
+  "units": "5",
+  "description": "Examines the utopian dream through history, literature, philosophy, and public memory. Starting with a historical and philosophical background of the concepts, the course will then turn to focus more narrowly on our own planned community of Isla Vista. Students will engage with public history and memory to trace the ideals and the reality of our surrounding community. Finally, in the last part of the survey, students will look at the future, focusing first on fictional accounts of utopia and dystopias, before writing their own speculative fiction as a final project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 37VR",
+  "title": "Religion and Technology",
+  "units": "5",
+  "description": "With the aid of virtual reality (VR) headsets, this course takes place mostly in VR, but also via Zoom and in person. VR headsets will be lent to those who need them. Course introduces students to the complex interaction of religion and technology. Possible topics include religions based on new technologies, religious early adopters of technology, religion-based resistance to technology, ideas of the human that technology challenges and enables, utopian and dystopian futurism, and the social and spiritual implications of Artificial Intelligence. Students attend lectures, discuss readings, go on field trips, and conduct independent research in virtual space. Students will also learn to build virtual spaces by doing it themselves.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 38",
+  "title": "Designing ePortfolios: Reflection, Integration, and Presentation",
+  "units": "2",
+  "description": "Students in the Engaging Humanities program create ePortfolios that translate between their identities as students and their emerging identities as professionals. Students will collect artifacts and organize those artifacts to feature skills and expertise. Then, students will reflect upon their coursework and the skills developed in curricular and extracurricular activities. Then, students will organize, compose, and design professional ePortfolios that feature their unique skills, expertise, and experience for professional audiences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 45",
+  "title": "Study Abroad Leadership Practicum",
+  "units": "1",
+  "description": "Students develop their leadership skills in the study abroad field through weekly group meetings, problem solving, and project development. They will focus on assessing current and future co-curricular activities offered by the UC Education Abroad Program. Examples of topics include making academic planning and advising more effective, student finances, experiential learning opportunities, developing marketing strategies, enhancing diversity, inclusion, and equity. Students reflect on their experiential learning about leadership through dialogue and ongoing reflective practice. Required activities include project development and implementation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 64",
+  "title": "Career Development and Decision Making Theory and Practice",
+  "units": "2",
+  "description": "Provides an overview of theoretical constructs of career development and practical applications from college across the lifespan. Through lectures, readings, discussions, and projects, the course assists students in developing an effective life plan while exploring majors at college and career choices.",
+  "prerequisites_raw": "Freshman standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 77",
+  "title": "Social Justice Medicine and Public Health",
+  "units": "2",
+  "description": "Through an equity and social justice lens, this course will explore how the medical and public health needs of vulnerable, underserved populations are met in Santa Barbara County and beyond; careers in service of vulnerable, underserved populations; and the politics of underserved medicine and public health, including intersectionality. Student learning outcomes will include increased understanding of the social and political drivers of health and of career opportunities for pursing pathways for being of service to underserved populations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 84",
+  "title": "Introductory Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "Provides an introduction to research and scholarship on current issues of national and/or international concern.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 84AA",
+  "title": "Introductory Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "Provides an introduction to research and scholarship on current issues of national and/or international concern.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 84AB",
+  "title": "Introductory Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "Provides an introduction to research and scholarship on current issues of national and/or international concern.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 84AC",
+  "title": "Honors Seminar: Attorney Communication in the Courtroom",
+  "units": "2",
+  "description": "This course will require students to observe attorneys in the courtroom, at trial, in the Santa Barbara courthouse. The students may choose to focus on a number of topics relevant to effective communication.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 84AD",
+  "title": "Law and Disobedience",
+  "units": "2",
+  "description": "This seminar explores various forms of disobedience in American public law, primarily in circumstances involving people of color.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 84AE",
+  "title": "Latin American Cinema and Revolution",
+  "units": "2",
+  "description": "An exploration of film and revolutionary movements in Latin America, and how cinema has been used as a tool for militancy, propaganda, and critique. We will also examine the legacy of revolutionary projects—what they mean today and what lessons the US can learn from Latin American history and politics.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program.",
+  "prerequisites_courses": []
+ }
+]

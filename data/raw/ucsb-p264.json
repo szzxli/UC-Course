@@ -1,0 +1,337 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 195IB",
+  "title": "Senior Thesis - Public Policy",
+  "units": "4",
+  "description": "A two-quarter individual research project, under the direction of a history professor selected with the advice of the departmental adviser to public policy students.",
+  "prerequisites_raw": "Major in History of Public Policy, and completion of junior-year studies; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 196",
+  "title": "Internship in History",
+  "units": "0",
+  "description": "Course enables students to obtain credit for history-related internship experience, such as in the Capitol Hill or Sacramento programs.",
+  "prerequisites_raw": "Upper-division standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 196HS",
+  "title": "Internship in Historical Skills",
+  "units": "4",
+  "description": "This quarter-long internship gives students the chance to connect their studies in History with hands-on experience in applying historical skills to projects such as documentation, design, heritage sector non-profits, digitization, public outreach, advocacy, history-related programming, alumni outreach, and data visualization among others. Working with the History Associates and other affiliated organizations in Santa Barbara, students will complete fixed hours of hybrid volunteer work while developing applied historical skills. Biweekly meetings with faculty and community partners will include trainings, practical demonstrations, mentorship, and support for putting training into practice in local venues.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 196JA",
+  "title": "Internship in Scholarly Publishing",
+  "units": "2",
+  "description": "Through this year-long internship, students work under faculty direction to produce an issue of the UCSB History Departments Undergraduate Journal. Students meet every two weeks and gain practical experience in scholarly publishing disseminating calls for papers, soliciting undergraduate contributions, locating peer reviewers, facilitating revisions with authors, and bibliographic and copywriting work. They also gain a working knowledge of the UCSB Librarys online publication platform, which will host the journal. Students utilize various digital humanities tools - podcasts, social media, and websites - to promote the undergraduate research being published in Journal as well as host an annual showcase of scholars work.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 196JB",
+  "title": "Internship in Scholarly Publishing",
+  "units": "2",
+  "description": "Through this year-long internship, students work under faculty direction to produce an issue of the UCSB History Departments Undergraduate Journal. Students meet every two weeks and gain practical experience in scholarly publishing disseminating calls for papers, soliciting undergraduate contributions, locating peer reviewers, facilitating revisions with authors, and bibliographic and copywriting work. They also gain a working knowledge of the UCSB Librarys online publication platform, which will host the journal. Students utilize various digital humanities tools - podcasts, social media, and websites - to promote the undergraduate research being published in Journal as well as host an annual showcase of scholars work.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 196JC",
+  "title": "Internship in Scholarly Publishing",
+  "units": "2",
+  "description": "Through this year-long internship, students work under faculty direction to produce an issue of the UCSB History Departments Undergraduate Journal. Students meet every two weeks and gain practical experience in scholarly publishing disseminating calls for papers, soliciting undergraduate contributions, locating peer reviewers, facilitating revisions with authors, and bibliographic and copywriting work. Students also gain a working knowledge of the UCSB Librarys online publication platform, which hosts the journal. Students utilize various digital humanities tools - podcasts, social media, websites - to promote the undergraduate research being published in Journal as well as host an annual showcase of scholars work.",
+  "prerequisites_raw": "HIST 196JA and HIST 196JB",
+  "prerequisites_courses": [
+   "HIST 196JA",
+   "HIST 196JB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 196LS",
+  "title": "Internship in Labor Studies",
+  "units": "4",
+  "description": "Students learn from first-hand experience by working in organizations or initiatives committed to representing and serving the needs of working people through labor and community organizing, research and policy analysis, and advocacy. Opportunities to build problem-solving, communication, organizational, and interpersonal skills needed to work effectively in institutional or collectively organized settings and to gain exposure to professional, post-graduate educational and training, and related career opportunities in the labor movement and social justice fields. Students work under faculty supervision to produce reports, a research paper, or other types of creative material based on their experiences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 196SJ",
+  "title": "Internship in Poverty, Inequality, and Social Justice",
+  "units": "4",
+  "description": "Students gain practical experience by working in organizations or initiatives engaged in addressing poverty and inequality through policy analysis, advocacy, direct social provision, community action, and/or political organizing. Opportunities to cultivate problem-solving, communication, organizational, and interpersonal skills needed to work effectively in institutional or collectively organized settings and to gain exposure to professional, post-graduate education and training, and related career opportunities in anti-poverty and social justice fields. Students work under faculty supervision to produce reports, a research paper, or other types of creative material based on their experiences.",
+  "prerequisites_raw": "HIST 74. Consent of Instructor.",
+  "prerequisites_courses": [
+   "HIST 74"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197CH",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197CW",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197DR",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197EE",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197GP",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197IV",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197JL",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197KM",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197LA",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197LE",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197MC",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197MD",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197MG",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197P",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197Q",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197R",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197SF",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197ST",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 197TK",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Content varies with each instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member. Exceptional students are offered an opportunity to undertake independent or collaborative research or to act as interns for faculty-directed research projects.",
+  "prerequisites_raw": "Upper-division standing; two upper-division courses in History; Major in History or consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Faculty supervised research. Written work is usually required.",
+  "prerequisites_raw": "Upper-division standing; 2 upper-division courses in history; Major in History or consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200AM",
+  "title": "Historical Literature: America",
+  "units": "4",
+  "description": "A reading course in a general area of history specifically designed to prepare M.A. candidates for their comprehensive examination fields, but also appropriate for Ph.D. students seeking broad preparation. Introduces the student to the sources, historiography, and general literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200AS",
+  "title": "Historical Literature: Asia",
+  "units": "4",
+  "description": "A reading course in a general area of history, specifically designed to prepare M.A. candidates for their comprehensive examination fields, but also appropriate for Ph.D. students seeking broad preparation. Introduces the student to the sources, historiography, and general literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 200E",
+  "title": "Historical Literature: Europe",
+  "units": "4",
+  "description": "A reading course in a general area of history specifically designed to prepare M.A. candidates for their comprehensive examination fields, but also appropriate for Ph.D. students seeking broad preparation. Introduces the student to the sources, historiography, and general literature of the field in question.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

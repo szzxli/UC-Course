@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 104F",
+  "title": "Finance and Marketing in French",
+  "units": "5",
+  "description": "Students study essential aspects of the conduct of business in France, as well as specific features of the French language, both spoken and written, commonly encountered in business practice. Prepares students to take the (optional) competency exam for the Diplôme de français professionnel B2, which is offered annually by the Chambre de Commerce et d'Industrie de Paris (CCIP). The continuation of Business French 1, but not limited to students who have taken that course.",
+  "prerequisites_raw": "French 6, 6GS, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 6",
+   "FR 6GS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 106",
+  "title": "Conversational French",
+  "units": "2",
+  "description": "Concurrently offered with French 116A, this two-unit version offers ongoing opportunities to speak French. Students prepare the oral and written work (interviews, readings/videos, short quizzes, assiduous class participation), but are dispensed from such major assignments as the extensive oral presentation.",
+  "prerequisites_raw": "FR 6 or equivalent",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 107X",
+  "title": "Second Language Acquisition",
+  "units": "4",
+  "description": "An introduction to the theories and principles of how adults acquire a language other than their mother tongue; why it is more difficult than acquiring their first language, and what needs to be learned from linguistic, psychological and social perspectives.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 109X",
+  "title": "SURVY-FR LIT TRANSL",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "MAY NOT BE TAKEN FOR MAJOR, MINOR, OR GRADUATE CREDIT.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 109Y",
+  "title": "SURVY-FR LIT TRANSL",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "MAY NOT BE TAKEN FOR MAJOR, MINOR, OR GRADUATE CREDIT.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 109Z",
+  "title": "SURVY-FR LIT TRANSL",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "MAY NOT BE TAKEN FOR MAJOR, MINOR, OR GRADUATE CREDIT.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 110",
+  "title": "Rhetoric of Social Change",
+  "units": "4",
+  "description": "From a transhistorical perspective (medieval to modern times), the study and analysis of French and Francophone authors who sought to change the world through their writings (political, legal, journalistic, literary, educational, etc.). In French.",
+  "prerequisites_raw": "French 100.",
+  "prerequisites_courses": [
+   "FR 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 111",
+  "title": "Greatest French Speeches",
+  "units": "4",
+  "description": "Rhetorical analysis of the history, theory, and practice of public speaking in France through texts and videos of great speeches that shaped French and Francophone culture (and beyond). Students also practice delivering their own speeches. In French.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F, or French 6 with an A grade or above.",
+  "prerequisites_courses": [
+   "FR 104A",
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 116A",
+  "title": "Intensive French Conversation",
+  "units": "4",
+  "description": "Concurrently offered with French 106, this four-unit version includes such assignments as oral interviews, readings/videos, short quizzes, and assiduous class participation; in addition to which, each participant leads the discussion in an extensive presentation on a subject of their choice.",
+  "prerequisites_raw": "Fr 6, French 6GS, or equivalent.",
+  "prerequisites_courses": [
+   "FR 6GS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 116B",
+  "title": "Public Speaking in French",
+  "units": "4",
+  "description": "Participants develop multiple opportunities to practice eloquent oral communication in the French language (e.g. for the classroom, sociopolitical advocacy, the workplace). Extensive work in rhetorical analysis provides the basis for their own enhanced professional fluency and development. In French.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 147A",
+  "title": "French and Francophone Poetry",
+  "units": "4",
+  "description": "Study of poetic materials and technique. Analysis of the masterpieces of French poetry, including the French Renaissance with the cole de Lyon and the Pliade; Romanticism; Symbolist, Cubists, and Surrealist aesthetics. Content will vary from quarter to quarter. In French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 147B",
+  "title": "French and Francophone Theater",
+  "units": "4",
+  "description": "Study of the French theater from the seventeenth century to the present, with plays by Molire, Beaumarchais, Hugo, Musset, Ionesco, Beckett, and other playwrights. In French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 147C",
+  "title": "French and Francophone Prose Fiction",
+  "units": "4",
+  "description": "Introduction to the techniques of literary analysis for prose fiction. Study of the novel as a cultural form staging the major transformations in French-speaking literature and culture in the broad context of European and World history. In French.",
+  "prerequisites_raw": "1 course from French 101A-B-C, or equivalent, (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 147D",
+  "title": "Literary Translation: Theory and Practice",
+  "units": "4",
+  "description": "Exploration of the various theories of translation. Offers a practical component where students work on a specific translation project. Examination of literary, philosophical, linguistic and theoretical texts by Jakobson, Benjamin, Steiner, Derrida and others.",
+  "prerequisites_raw": "1 course from French 104A-B-C-E-F, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 148A",
+  "title": "Law and Literature in the Middle Ages",
+  "units": "4",
+  "description": "Not only does medieval literature represent and stage constant juridical proceedings (trials, ordeals, executions); law itself is often perceived as entertainment. Analyzing representative epic, theatrical, and legal texts, this course investigates the veritable spectacle of jurisprudence (including its contemporary ramifications).",
+  "prerequisites_raw": "1 course from French 101A-B-C, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 148B",
+  "title": "Trials of Desire in the Middle Ages",
+  "units": "4",
+  "description": "From Knightly jousting to romantic monologues to lyric debates about fidelity, numerous medieval characters fight about love. Focusing on Chretien de Troyes and the Troubadours, exploration of the literary and cultural ramifications of the representation of love as violent.",
+  "prerequisites_raw": "1 course from French 101A-B-C, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 148C",
+  "title": "Women in the Middle Ages",
+  "units": "4",
+  "description": "A study of the socio-political role of women in France from the twelfth to the fifteenth centuries through an examination of their image in literary texts written by both sexes. Lectures and readings in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 148D",
+  "title": "The New Individual in Renaissance Europe",
+  "units": "4",
+  "description": "Discuss new ways of representing the individual, from Petrarch to Montaigne, and the values of the modern world that emerged with the Renaissance, which brought far-reaching changes in European culture from the fourteenth to the sixteenth centuries.",
+  "prerequisites_raw": "1 course from French 101A-B-C, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 148E",
+  "title": "The Age of Louis XIV",
+  "units": "4",
+  "description": "The development of literary genres between 1660 and 1680. Pascal, Racine, Moliere, La Fontaine, La Rochefoucauld, Mme de La Fayette studied as examples of that ideal which attempts a balance, through tension of mannerism and classicism. Discussions of art and architecture will supplement literary analysis. Lectures and readings in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 149A",
+  "title": "The French Enlightenment",
+  "units": "4",
+  "description": "A reading of basic Enlightenment texts, stressing the fundamental works of Rousseau, Voltaire, Diderot, Laclos, and other major figures of the century. Lectures and reading in French.",
+  "prerequisites_raw": "1 course from French 101A-B-C, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 149C",
+  "title": "Reading Paris (1830-1890)",
+  "units": "4",
+  "description": "This course explores the literary and artistic representations of Paris and its Haussmannization. In works by Balzac, Baudelaire, Zola, Manet and the Impressionists, we explore the painting of modern life, Paris as revolution, and the rise of consumer culture.",
+  "prerequisites_raw": "1 course from French 101A-B-C, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 149D",
+  "title": "French Postmodern Literature",
+  "units": "4",
+  "description": "This course is devoted to aspects of French poetry, fiction, and film since World War II, beginning with the New Novel and cinematic New Wave and then focusing on more contemporary writers of the late 20th and early 21st century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 149E",
+  "title": "Belgian Literature and Art",
+  "units": "4",
+  "description": "A study of selected texts of nineteenth- and twentieth-century Belgian literature in relation to the visual arts of the period. Works by Maeterlinck, Verhaeren, Ghelderode. Lectures and readings in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 149F",
+  "title": "Littratures de la Francophonie",
+  "units": "4",
+  "description": "Literature in French by writers outside France. Material includes representative authors and literary movements of Canada, Haiti, Senegal, Zaire, etc. discussion of questions of national identity and literary relations. Lectures and readings in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151A",
+  "title": "Medieval Urban Legends",
+  "units": "4",
+  "description": "Spanning history, fiction, theology, folklore, and popular culture, urban legends remain an intriguing and enduring tradition. We explore and interpret French medieval legends (e.g., monsters and \"snuff\" drama) which reveal some surprising connections with their modern counterparts. In French.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151B",
+  "title": "Gender and Sexuality in France",
+  "units": "4",
+  "description": "Role of gender and the function of sexuality in the formation of identities in French culture. Themes of family, love, marriage, political and interpersonal relationships in literary texts, films, paintings, and diverse media.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151C",
+  "title": "French and Francophone Cinema",
+  "units": "4",
+  "description": "Explore French-speaking cinema through a variety of social, geographic and philosophical themes. Topics may include the representation of history, and the counterpoint of text and image. Contents will vary according to the instructor.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ }
+]

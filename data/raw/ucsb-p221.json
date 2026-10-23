@@ -1,0 +1,396 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 260",
+  "title": "Feminist Approaches to Social Research",
+  "units": "4",
+  "description": "Examines feminist methodologies for knowledge construction and interdisciplinary social research. Includes practicum on central feminist methods such as ethnography, interviewing, focus groups and oral histories. Considers usefulness of quantitative tools. Develops research proposals for students' own graduate research projects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 270",
+  "title": "Feminist Epistemologies",
+  "units": "4",
+  "description": "Acquaints students with the scope and range of feminist epistemological critiques across disciplines and pursues issues relevant to problematizing of knowledge seeking, such as theories of agency rooted in gender, race, class, and sexuality.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 280",
+  "title": "Research Practicum",
+  "units": "4",
+  "description": "A cross-disciplinary seminar in which fundamental questions in contemporaryfeminist research practice are considered in light of students own graduateprojects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 280A",
+  "title": "Research Seminar",
+  "units": "4",
+  "description": "A seminar to provide experience in the research, writing, and critique of scholarly papers based on original research in the interdisciplinary area of feminist studies. Students will either develop a research proposal or work on a M.A. thesis, dissertation proposal, dissertation chapter, or article.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 280B",
+  "title": "Research Seminar",
+  "units": "4",
+  "description": "A seminar to provide experience in the research, writing, and critique of scholarly papers based on original research in the interdisciplinary area of feminist studies. Students who have taken FEMST 280A will complete the research project, and other students will work on a M.A. thesis, dissertation proposal, dissertation chapter, or article.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 501",
+  "title": "Apprentice Teaching in Feminist Studies",
+  "units": "4",
+  "description": "Students will receive faculty supervision as they lead discussion sections, assist in the preparation and evaluation of exams, and advise on written assignments. Attention will be given to the challenges posed by multidisciplinary materials and perspectives. Weekly meetings with instructor required.",
+  "prerequisites_raw": "Teaching assistant.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 592",
+  "title": "Nanotechnology Social Research Lab",
+  "units": "0",
+  "description": "Course provides weekly instruction, discussion, training, reading, and research writing for graduate researchers engaged in collaborative interdisciplinary and intersectional research on nanotechnology in society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594",
+  "title": "Special Topics in Feminist Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594BE",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594BT",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594CB",
+  "title": "Special Topics in Feminist Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594EB",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594EG",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594EH",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594GC",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594HC",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594HE",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594HH",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594HT",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594JT",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594LO",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594LR",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594PT",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594SG",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594TB",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest. Special Topics in Women's Studies",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 594TM",
+  "title": "Special Topics in Women's Studies",
+  "units": "4",
+  "description": "Special seminar on research topics of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 595",
+  "title": "Conversations for Change",
+  "units": "0",
+  "description": "Colloquium series in which Feminist Studies PhD students attend lectures and engage in discussion of topics central to the discipline and participate in professional development activities, such as presenting papers, evaluating arguments, and advancing interdisciplinary knowledge.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial relevant to M.A. or Ph.D projects. Plan of study must be approved by program chair.",
+  "prerequisites_raw": "Instructor approval; current graduate enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 597",
+  "title": "Independent Study for PhD Examinations",
+  "units": "0",
+  "description": "Independent study for PhD Examinations",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 598",
+  "title": "M.A. Thesis Research and Preparation",
+  "units": "0",
+  "description": "Open to graduate students conducting master's research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 599",
+  "title": "PhD Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Open to graduate students conducting doctoral research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMSTW",
+  "code": "FEMSTW 20",
+  "title": "Gender and Power: Introduction to Feminist Studies",
+  "units": "5",
+  "description": "Introduction to central concepts and issues in feminist studies from the perspective of the social sciences. Explores the construction of gender and sexuality and the lives of diverse groups of women in the contemporary U.S. within a global context.Online version of FEMST 20.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMSTW",
+  "code": "FEMSTW 80",
+  "title": "Introduction to LGBTQ Studies",
+  "units": "5",
+  "description": "An overview of the interdisciplinary field of lesbian, gay, bisexual, transgender, and queer studies, including historical and cross-cultural perspectives on same-sex sexuality, queer theory, intersectionality, gender and sexual identities, communities, culture, contemporary social policy, and LGBTQ movements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMSTW",
+  "code": "FEMSTW 150",
+  "title": "Sex, Love, and Romance",
+  "units": "4",
+  "description": "An examination from historical and global perspectives of sex, love, desire, and intimate relationships in diverse cultures in the contemporary U.S. Online version of FEMST 150.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 1",
+  "title": "Elementary French",
+  "units": "5",
+  "description": "Introductory course for students with no prior exposure to French. Grammar, vocabulary, speaking, reading, and writing taught entirely in French through interactive presentations and activities. Exposure to French and Francophone culture is a hallmark of the program. Four days a week.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 2",
+  "title": "Elementary French",
+  "units": "5",
+  "description": "A continuation of French 1. Targets students' developing knowledge of the fundamentals of French language, focusing on speaking, reading, and writing abilities through a focus on French and Francophone culture. Meets four days a week; in French.",
+  "prerequisites_raw": "French 1.",
+  "prerequisites_courses": [
+   "FR 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 3",
+  "title": "Elementary French",
+  "units": "5",
+  "description": "A continuation of French 2. By course end, students are exposed to the fundamentals of French and have acquired a solid working vocabulary. Writing and speaking encouraged through class discussion and web-based and creative projects. Four days a week; in French.",
+  "prerequisites_raw": "French 2.",
+  "prerequisites_courses": [
+   "FR 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 4",
+  "title": "Intermediate French",
+  "units": "5",
+  "description": "First in the three-quarter intermediate French series. Builds on foundation established in first-year and includes thorough review of French grammar. Speaking and writing skills developed through exposure to French and Francophone culture, literature, and film. Four days a week; in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 4H",
+  "title": "INTER FRENCH HONORS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

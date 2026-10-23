@@ -1,0 +1,255 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 100NA",
+  "title": "Honors Seminar",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in one of the following courses: English 113AA-ZZ, 114AA-ZZ, 122AA-ZZ, 128AA-ZZ, 131-134AA-ZZ, 165AA-ZZ, 182AA-ZZ, and 187AA-ZZ. Designed to enrich the lecture experience for the motivated student. Course includes either supplementary readings or more extensive study of the reading lists as well as supplementary writing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 100SO",
+  "title": "Honors Seminar",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in one of the following courses: English 113AA-ZZ, 114AA-ZZ, 128AA-ZZ, 131-134AA-ZZ, 165AA-ZZ, 182AA-ZZ, and 187AA-ZZ. Designed to enrich the lecture experience for the movtivated student. Course includes either supplementary readings, or more extensive study of the reading lists as well as supplementary writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing; consent ofinstructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 101",
+  "title": "Literatures & Cultures, pre-1500",
+  "units": "4",
+  "description": "Introduction to literatures and cultures before the year 1500. A wide range of possible courses fall under this larger rubric. A full description of the particular iteration of the course in any given quarter will be available on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 101ML",
+  "title": "British Literature before 1500",
+  "units": "4",
+  "description": "Introduction to British literature and culture before 1500. Students will read a wide variety of texts from this period while developing their broader knowledge of premodern literary cultures, including issues of media and materiality, medieval literary theory, and cultural contexts. Students will learn to read Middle English texts in the original language; texts from other languages (Old English, Latin, insular French) will be encountered in translation. Authors studied will include Chaucer, the Beowulf-poet, and Marie de France.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 101MM",
+  "title": "Medieval Monsters",
+  "units": "4",
+  "description": "From cannibal giants to fairy queens, one of the defining characteristics of medieval literature is its monsters. Far from simply being marginal grotesques, representations of monsters and monstrousness were central to the construction of individual and cultural identity in the Middle Ages. This seminar considers representations of monsters in imaginative literature (for example, in various romance texts, the Beowulf-manuscript, Geoffrey of Monmouth, Marie de France) alongside pivotal medieval thinkers on monstrosity and contemporary theorists on alterity, gender, the body, etc.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 101S",
+  "title": "Seminar on English Literature from the Medieval Period to 1650",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 101 designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of English 101 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 101; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 102",
+  "title": "Literatures & Cultures, 1500-1700",
+  "units": "4-24",
+  "description": "Introduction to literatures and cultures of the early modern period, from 1500 to 1700. A wide range of possible courses fall under this larger rubric. A full description of the particular iteration of the course in any given quarter will be available on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 102BA",
+  "title": "Royalists, Radicals, and the Transformation of the Transatlantic Anglophone World",
+  "units": "4",
+  "description": "Readings in key texts representing the dramatic transformation of England and its American colonies from absolute monarchy to the emergence of a modern constitutional state. The course examines poetry by Spenser, Milton, and Bradstreet, philosophical essays by Hobbes and Locke, and narratives by Rowlandson and Franklin in the context of the Puritan Revolt, the Glorious Revolution, and King Philips War. Emphasis on critical reading of texts relevant to the construction of racial, sexual, and religious identities in an era of conflicting ideals.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 102QA",
+  "title": "Algorithmic Poetry: Quantitative Approaches to Literary Analysis and the Sonnet",
+  "units": "4",
+  "description": "How have forms and formulas for composing poetry like the sonnet been dictated by patterns? How does thinking of a poem as a sequence of words or combination of symbols detract from or enhance our understanding? How does an artificial intelligence read and replicate writing style without reference to the outside world? This introductory course offers an entry into reading and understanding poetry in the years 1500-1700 through pattern recognition, quantitative reasoning and natural language processing techniques, and would be equally suited for those interested in reevaluating literature from a new perspective and those seeking to learn to apply digital humanities skills, systemic thinking and quantitative methods to literary analysis.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 102S",
+  "title": "Seminar on English and American Literature from 1650 to 1789",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 102 designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings, or more intensive study of English 102 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 102; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 102WR",
+  "title": "Did Women Have a Renaissance?",
+  "units": "4",
+  "description": "Surveys the major literary movements of the Renaissance through texts written by women. As we learn about uniquely early modern forms, including sonnets, romances, and closet dramas, we will consider how women innovate or conform to genres that were dominated by men. Assigned readings include a number of “firsts” in England. We will discuss works by Isabella Whitney, the first woman to make writing her profession, Queen Elizabeth I, who ruled England by herself for over forty years, and Aphra Behn, one of the first women to write for the public stage. Throughout the course, we will challenge the periodization of the Renaissance by considering if this term accurately captures women’s literary achievements.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103",
+  "title": "Literatures & Cultures, 1700-1900",
+  "units": "4-24",
+  "description": "Introduction to literatures and cultures between the years 1700-1900. A wide range of possible courses fall under this larger rubric. A full description of the particular iteration of the course in any given quarter will be available on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103A",
+  "title": "American Literature from 1789 to 1900",
+  "units": "4",
+  "description": "Introduction to American literature from 1789 to 1900. The organizing thread of this course, and the selection of texts to be studied, vary from quarter to quarter. Consult the department's Course Description Booklet to see what will be taught in any particular quarter.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103AS",
+  "title": "Seminar on American Literature from 1789 to 1900",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 103A designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of English 103A reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 103; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103B",
+  "title": "British Literature from 1789 to 1900",
+  "units": "4",
+  "description": "Introduction to British literature from 1789 to 1900. The organizing thread of this course and the selection of texts to be studied vary from quarter to quarter. Consult the department's Course Description Booklet to see what will be taught in any particular quarter.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103BS",
+  "title": "Seminar on British Literature from 1789 to 1900",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 103B designed to enrich the large lecture experience for the motivated student. Course includes either supplementary readings or more intensive study of English 103B reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 103B; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 103B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103LL",
+  "title": "Law & Literature of the 1st Civil Rights Movement",
+  "units": "4",
+  "description": "When you think of the Civil Rights Movement, who comes to mind? Martin Luther King, Jr.? Rosa Parks? Fannie Lou Hamer? Why not James Forten, David Walker, Frederick Douglass, Harriet Jacobs, Harriet and Dred Scott, and Sallie J. Robinson? And what exactly are civil rights, anyway?We usually associate the Civil Rights Movement with the 1950s and 60s. But historians now argue that the first Civil Rights Movement coincided with the nations founding. Indeed, early Black activists gave legal and cultural meaning to civil rights - which were not constitutionalized until the end of the Civil War. This course analyzes the court cases and literature through which Black activists not only fought for, but defined, civil rights in the U.S.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103SH",
+  "title": "The Secret History of Eighteenth-Century Literature",
+  "units": "4",
+  "description": "This course looks at the underside of eighteenth-century literature to uncover the major concerns of the period, and how they continue to affect us today. While it has conventionally been known as the Age of Enlightenment, with an ideology of secular, rational progress, the long eighteenth century was also marked by intense political factions, belief in superstition and sorcery, a precarious social and economic situation for women, the growth of chattel slavery, and a cult of individual feeling and emotion. Much like today, new genres of writing made it difficult for readers to know whom and what to trust, and how to distinguish fact from fiction.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ }
+]

@@ -1,0 +1,310 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 281",
+  "title": "Advanced Business and Sustainability",
+  "units": "4",
+  "description": "This course prepares students to use creatively conceptual tools and management strategies to improve the environmental performances of firms. Corporate, societal, and political barriers to implementing these innovative strategies will be analyzed and methods for overcoming these constraints discussed.",
+  "prerequisites_raw": "ESM 210",
+  "prerequisites_courses": [
+   "ESM 210"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 282",
+  "title": "Pollution Prevention",
+  "units": "4",
+  "description": "An alternative to pollution control or remediation is to prevent it in the first place. This can be achieved through increased efficiency, material and technology substitution, and reuse and recycling. This course introduces pollution prevention through theory building and case studies. It also teaches and applies pertinent concepts and tools from industrial ecology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 283",
+  "title": "Environmental Negotiation",
+  "units": "4",
+  "description": "Negotiation is a primary skill necessary for working collaboratively toward solutions to complex environmental problems affecting many different types of stakeholders. This course provides students with skills required to conduct principled environmental negotiations and craft sustainable agreements. Students learn how to set realistic agendas, establish fact-finding strategies, frame flexible approaches, and seek enduring solutions. The course actively engages students through their participation in both domestic (US) and international case studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 284",
+  "title": "Sustainable Product Development",
+  "units": "4",
+  "description": "Product development includes conceptualization of customer needs and product ideation, user-based market research, competitive benchmarking, and consideration of product specifications, supply chains, and production characteristics to launch successful products. This course leverages this approach but with the application of environmental criteria, metrics, and impact estimation to identify product solutions that address both market and environmental needs, including through the use of materials and process environmental datasets, life-cycle and systems thinking, green design principles, comparative analysis, and the leveraging and application of environmental certification criteria.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 286",
+  "title": "Energy Economics and Markets",
+  "units": "4",
+  "description": "The energy sector is undergoing a profound transition as we move towards lower carbon resources, phase out fossil fuels, and increasingly electrify end-uses. The direction and pace of this transition to a large extent, will depend on the evolving economics of different energy technologies and fuels, and the markets and regulations that govern different energy subsectors. Drawing on concepts, methods, and examples from engineering and economics, we will cover a range of topics including wholesale electricity and fossil fuel markets, electric power systems, energy project valuation, electricity planning and resource adequacy, auctions, retail rate design, externalities, and energy equity and justice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 287",
+  "title": "Energy Demand Analysis",
+  "units": "4",
+  "description": "Develop an in-depth understanding of past and future societal demand for energy across major end use sectors (buildings, transport, industry); develop and apply fundamental analysis techniques and systems modeling skills to construct energy demand forecasts and alternative scenarios considering possible technological, behavioral, and policy interventions for more sustainable energy use.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 288",
+  "title": "Energy, Technology and the Environment",
+  "units": "4",
+  "description": "Covers the main physical principles of energy conversion and the environmental impacts related to it. Also explores the balance between resource availability and demand, and the relationship between energy use and technology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 289",
+  "title": "Environmental Law in Practice",
+  "units": "1",
+  "description": "Features a series of in-depth presentations and the opportunity to engage in discussion with leading environmental lawyers. Students write short response papers on the topics presented in lectures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 292",
+  "title": "Advanced Special Topics in Environmental Communication",
+  "units": "99",
+  "description": "Covers advanced special topics in environmental communication.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 293",
+  "title": "Advanced Special Topics in Climate and Energy",
+  "units": "0",
+  "description": "Advanced topics in climate and energy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 294",
+  "title": "Advanced Special Topics in Environmental Law",
+  "units": "0",
+  "description": "Advanced topics in environmental law.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 295",
+  "title": "Advanced Topics in Environmental Justice",
+  "units": "4",
+  "description": "Explores contemporary issues and objects of Environmental Justice (EJ) concern through case studies, guest speakers, and student presentations. Potential topics include the EJ implications of air pollution, hazardous waste, heat waves, natural disasters, nuclear power, toxic chemicals, urban green space, and water pollution. The course also provides an overview of emerging movements and topics related to EJ, such as climate justice, energy justice, and food justice. Additionally, students will learn about methodologies and web-based tools for analyzing environmental and social injustices associated with specific issues of EJ concern, as well as policy solutions for addressing such injustices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 296",
+  "title": "Advanced Special Topics in Environmental Management",
+  "units": "0",
+  "description": "Covers advanced special topics in environmental management.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 297",
+  "title": "Advanced Special Topics in Environmental Policy",
+  "units": "0",
+  "description": "Advanced advanced special topics in environmental policy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 298",
+  "title": "Advanced Special Topics in Environmental Innovation & Entrepreneurship",
+  "units": "0",
+  "description": "Covers advanced special topics in environmental innovation and entrepreneurship.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 299",
+  "title": "Advanced Special Topics in Environmental Science",
+  "units": "0",
+  "description": "Advanced topics in environmental science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 401A",
+  "title": "Group Project in Environmental Science and Management",
+  "units": "4",
+  "description": "First quarter of a year-long group study of an environmental problem. Includes in-class training sessions to develop skills necessary to efficiently and effectively conduct the study.",
+  "prerequisites_raw": "Graduate standing. MESM students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 401B",
+  "title": "Group Project in Environmental Science and Management",
+  "units": "4",
+  "description": "Second quarter of a year-long group study of an environmental problem.",
+  "prerequisites_raw": "ESM401A - MESM students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 401C",
+  "title": "Group Project in Environmental Science and Management",
+  "units": "4",
+  "description": "Third quarter of a year-long group study of an environmental problem. Requires completion of a final report and defense.",
+  "prerequisites_raw": "ESM401A, ESM401B. MESM students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 401D",
+  "title": "Group Project in Environmental Science and Management",
+  "units": "2",
+  "description": "Final quarter of a year-long group study of an environmental problem. Requires completion of a policy brief, poster, and public presentation.",
+  "prerequisites_raw": "ESM 401A, 401B, and 401C. Graduate standing in ESM.",
+  "prerequisites_courses": [
+   "ESM 401A",
+   "ESM 401B",
+   "ESM 401C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 402A",
+  "title": "Business Model Development for New Environmental Ventures",
+  "units": "4",
+  "description": "Teaches students how to practice evidence-based entrepreneurship and rigorously evaluate a business idea that could make a positive and measurable environmental impact. Students test their assumptions and gather evidence to reduce risk and uncertainty, in order to develop a viable business model.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 402B",
+  "title": "Masters Eco-E Project",
+  "units": "4",
+  "description": "Second quarter of a year-long team project to develop a new environmental venture.",
+  "prerequisites_raw": "ESM402A - MESM students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 402C",
+  "title": "Masters Eco-E Project",
+  "units": "4",
+  "description": "Third quarter of a year-long team project to develop a new environmental venture. Requires completion of a final report and public presentation.",
+  "prerequisites_raw": "ESM402A and ESM402B. MESM students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 402D",
+  "title": "Masters Eco-E Project",
+  "units": "2",
+  "description": "Final quarter of a year-long team project to develop a new environmental venture. Requires completion of marketing communication materials and a public presentation.",
+  "prerequisites_raw": "ESM402A,402B and 402C. MESM students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 410",
+  "title": "Internship Practicum",
+  "units": "1",
+  "description": "Students complete a summer internship, prepare a short paper, and present internship experiences to the Bren School community through an informal presentation.",
+  "prerequisites_raw": "Completion of a Summer internship.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 425",
+  "title": "Communications Workshop",
+  "units": "0",
+  "description": "Special workshops to help Bren students strengthen communication skills.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 430",
+  "title": "Workshop in Environmental Science and Management",
+  "units": "1",
+  "description": "Workshops to develop professional skills for careers in environmental science and management.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 441",
+  "title": "Intro to Enviro Media Production",
+  "units": "3",
+  "description": "Hands-on course designed to give students the core skills needed to conceptualize, capture, edit, and deliver short-form environmental documentaries. The basic tools of film-making --cinematography, lighting, sound, and editing -- are covered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 442",
+  "title": "Communication for Civic Engagement and Grassroots Organizing",
+  "units": "2",
+  "description": "Reviews the role and effectiveness of grassroots environmental efforts on local, statewide, and national scales. Students will explore organizing strategies and tactics based on various theories of change, addressing topics such as community outreach and collaboration, policy campaigning and more.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 444",
+  "title": "Writing about the Environment for the Public",
+  "units": "2",
+  "description": "Explores written genres for scientists to educate and influence public audiences. Students will analyze and practice message/story development with emphasis on interviewing, analyzing and framing environmental issues in news. Students will complete course with media-ready work.",
+  "prerequisites_raw": "ESM 440",
+  "prerequisites_courses": [
+   "ESM 440"
+  ]
+ }
+]

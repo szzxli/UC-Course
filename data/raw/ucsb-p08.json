@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 214",
+  "title": "The Origins and Intensification of Agriculture",
+  "units": "4",
+  "description": "Focuses on the origins and intensification of agriculture, by examining the shifts from foraging to farming to intensive food production. We consider issues of risk and uncertainty, timing relative to political complexity, population increase/nucleation, warfare, among other issues.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 215",
+  "title": "Resource Intensification",
+  "units": "4",
+  "description": "This course considers the topic of resource intensification for foraging and agricultural societies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 217",
+  "title": "Biotechnology, Food, and Agriculture",
+  "units": "4",
+  "description": "Social, cultural, ethical, biological, and environmental issues surrounding biotechnology (BT) and the food system. Includes theory and methods of BT; scientific, social, and political control of BT; effect of BT on genetic diversity, small-scale farmers, the environment, food supply, consumer health.",
+  "prerequisites_raw": "Environmental Studies 149 or Anthropology 149 or Anthropology 204.",
+  "prerequisites_courses": [
+   "ENV S 149"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 218",
+  "title": "Problems in Andean Archaeology",
+  "units": "4",
+  "description": "A problem-oriented approach to major issues in Andean archaeology. Focus is on the Middle Horizon of the Andean prehistory, especially the Wari and Tiwanaku cultures. Conducted on a seminar basis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 219",
+  "title": "Anthropology and Risk",
+  "units": "4",
+  "description": "Seminar will examine and discuss the uses of the concept of risk of anthropological, social and psychological theory and in case analyses of cultural values, environmental health and hazard, and illness and disease.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 222",
+  "title": "Ethnicity and Race in the Americas",
+  "units": "4",
+  "description": "Identifies different racial projects, of how \"ethnicity\" and \"race\" are understood in specific contexts. Special attention is put on the ideas of mestizaje, indigenismo and development, and the role that played in the racial projects of Latin America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 226",
+  "title": "Religion, Media, and Culture",
+  "units": "4",
+  "description": "Deals with the intersection of religion, culture and media in the context of contemporary, global transformations in religion. Topics may include indigenous media, televangelism, cyber-religion, new religious movements, proselytic media, neo-traditionalist fundamentalisms.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 228",
+  "title": "Culture and Spatial Practice",
+  "units": "4",
+  "description": "Exploration of the sociocultural production of built form and the impact ofsocial space on human action. Readings drawn from cultural anthropology, cultural geography, art history, and social theory. Assessment based on weekly essays, participation, and final project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 232",
+  "title": "Graduate Proseminar",
+  "units": "1",
+  "description": "Exposes all first and second year students to examples of current research in the different subfields of anthropology, to provide opportunities to meet with eminent scholars from other institutions, and to provide a forum for collegial interactions among faculty members and graduate students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 233",
+  "title": "Liberalism and War",
+  "units": "4",
+  "description": "The course begins from the assumption that liberalism is a paradigmatic condition that defines the boundaries between life and death through its inextricable relationship to war. The course proceeds to explore this condition structurally, focusing on the economic, legal, political, and social forms generated from liberalism’s war power. This includes forms expressed in the flows of capital, the legal binds of secularism, securitization and counterinsurgency, the formation of the police power, and the management of the impending ecological catastrophe. Course topics examine foundational concepts that collocate war and liberalism: including sovereignty, value, freedom, human life, rights, secularization, force, and the state form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 234",
+  "title": "Advanced Theory and Method in Evolutionary Psychology",
+  "units": "4",
+  "description": "Interdepartmental research practicum in evolutionary psychology, biology, and anthropology for students and faculty planning or working on evolutionary research projects. Focus on experimental design, cross-cultural methods, organism design theory, new adaptationist hypotheses, and the criteria for testing them.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 235A",
+  "title": "Foundations of Modern Social Theory",
+  "units": "4",
+  "description": "Seminar introduces major post-enlightenment debates on social life and modernity. Selections from Marx, Durkheim, Weber, Freud as well as major responses, revisions and critiques in critical and subaltern theory, cultural studies, structuralism and poststructuralism. Close readings of primary texts emphasized.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 235B",
+  "title": "Issues in Contemporary Anthropology",
+  "units": "4",
+  "description": "Survey of major theoretical trends since the 1960's. Topics include: political economy and Marxism; evolution, history, and anthropology; symbolic anthropology; development studies; gender studies; colonialism and nationalism; structuralism/post-structuralism; modernity and post-modernity; ecological anthropology. Topics may vary with each professor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 236",
+  "title": "Graduate Seminar in Evolution of Religion",
+  "units": "4",
+  "description": "Graduate seminar in recent developments in the evolution of religion, religiosity, spirituality, myth, or altered states of consciousness. Includes evolutionary psychology, neuroscience, and approaches from cultural and biological anthropology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 239A",
+  "title": "Research Design and Writing in Archaeology",
+  "units": "4",
+  "description": "How to design a fieldwork project and write a dissertation research proposal; the search for funding agencies; how to deal with funding institutions, professional organizations, publishers and employers; issues of a career in anthropology.",
+  "prerequisites_raw": "Graduate standing in archaeology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 240A",
+  "title": "Research Methods in Cultural Anthropology",
+  "units": "4",
+  "description": "Designed to give students a solid grounding in basic research methods in cultural anthropology. Focus on the role of fieldwork, preparation for field research (ethics, health, and gender), systematic data collection, qualitative data base management and analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 240B",
+  "title": "Research Design and Writing in Sociocultural Anthropology",
+  "units": "4",
+  "description": "How to design a fieldwork project and write a dissertation research proposal; the search for funding agencies; how to deal with funding institutions, professional organizations, publishers and employers; issues of a career in anthropology.",
+  "prerequisites_raw": "Graduate standing in sociocultural anthropology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 240C",
+  "title": "Research Seminar in Cultural Anthropology",
+  "units": "4",
+  "description": "Required research and writing seminar during which second-year graduate students write individual MA papers.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 241",
+  "title": "Contemporary Topics in Biological Anthropology",
+  "units": "1",
+  "description": "Read and discuss professional literature in biological anthropology and related fields: evolutionary and life history theory, human biology, paleoanthropology, biomedical science and primatology. Course keeps students abreast of key developments in the field.",
+  "prerequisites_raw": "Graduate standing in Anthropology or a related field.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 241A",
+  "title": "Current Findings in Biological Anthropology",
+  "units": "2",
+  "description": "Open to graduate students in biological anthropology and allied fields, this course reviews research findings in human evolutionary studies.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 241B",
+  "title": "Current Methods in Biological Anthropology",
+  "units": "2",
+  "description": "Open to graduate students in biological anthropology and allied fields, this course reviews research methods in human evolutionary studies.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 243",
+  "title": "Archaeology of Warfare",
+  "units": "4",
+  "description": "A survey of archaeological research on the topic of interpersonal violence and warfare. Particular attention is given to the causes and consequences of warfare.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 244",
+  "title": "Pedagogical Methods and Strategies in Biological Anthropology",
+  "units": "1",
+  "description": "Primarily for graduate students in other subfields of anthropology, to help them master effective methods for teaching biological anthropology at the undergraduate level.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 245",
+  "title": "Anthropological Demography and Life History",
+  "units": "4",
+  "description": "Core concepts of demography are covered, including theory and methods related to fertility, mortality and population dynamics. Themes include aging, maternal and child health, demographic and epidemiological transitions. Lecture with class discussions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 245A",
+  "title": "Quantitative Data Analysis Archaeology",
+  "units": "4",
+  "description": "This course is and introduction to the practical analysis of commonly-encountered archaeological data using simple quantitative and statistical procedures, such as exploratory data analysis, sampling, regression, and spatial analysis. The course is taught in a computer-assisted (multimedia) format.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 245B",
+  "title": "Quantitative Data Analysis in Archaeology",
+  "units": "4",
+  "description": "A working knowledge of quantitative methods that aid recognition of patterns in archaeological data; an understanding of the sorts of archaeological problems that can be attacked quantitatively; and experience in research designs which yield data that can be effectively analyzed.",
+  "prerequisites_raw": "Anthropology 245A.",
+  "prerequisites_courses": [
+   "ANTH 245A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 245IA",
+  "title": "Evolutionary Anthropology Lab",
+  "units": "2",
+  "description": "Weekly discussion of IAS faculty and graduate student work in progress",
+  "prerequisites_raw": "Anthropology Graduate Students",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250AB",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250AJ",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

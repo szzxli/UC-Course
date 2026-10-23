@@ -1,0 +1,345 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209D",
+  "title": "Research Seminar in Human Development",
+  "units": "0",
+  "description": "Seminar for students engaged in the conceptualization, conduct, or analysis of research on child and adolescent development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209E",
+  "title": "Seminar in Human Development",
+  "units": "4",
+  "description": "In-depth consideration of emerging topics in human development. Course content may vary.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209G",
+  "title": "Ethnic Identity",
+  "units": "4",
+  "description": "Seminar examines the development of ethnic and racial identity among children and adolescents. Topics include self-concept, family socialization, language, peers, and inter-and-intra group relations. Specific attention given to theories pertinent to this area of development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209H",
+  "title": "Physical Development and Health",
+  "units": "4",
+  "description": "Examines the physical changes moving the individual from childhood into adolescence, and the prevention of behaviors that can lead to health problems. Interventions designed to reduce adolescent risk-taking behavior and enhance the adoption of health-promoting behavior will be discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209I",
+  "title": "Cognitive Perspectives on Achievement Motivation",
+  "units": "4",
+  "description": "Course examines the role of individual cognitions, interpersonal interaction, and environmental characteristics in the development of achievement motivation. We will discuss key cognitive constructs that are implicated in the development of achievement motivation, including perceived competence, self-efficacy, self-worth, stereotype threat, and intrinsic motivation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 210",
+  "title": "Introduction to Learning, Teaching, and Teacher Education",
+  "units": "4",
+  "description": "Provides an overview of critical issues in teaching, learning, and teacher education, including: the role of schools in U.S. society; analysis of learners in school; seminal learning theories and their applications to content learning and teaching theory; and teacher learning.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 210A",
+  "title": "Advances in the Learning Sciences and Education",
+  "units": "4",
+  "description": "Survey of contemporary theoretical approaches and empirical findings in the areas of learning, instruction, cognitive processes, situated cognition, cultural models of education,and innovative applications of information technology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 210B",
+  "title": "Introduction to Children's Thinking",
+  "units": "4",
+  "description": "Presents a broad perspective of cognitive development and focuses on topics such as perception; problem solving; meta cognition; etc. The educational application of cognitive research is also covered.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 210D",
+  "title": "Seminar in Cultural Perspectives of Education",
+  "units": "0",
+  "description": "In-depth consideration of emerging topics in cultural perspectives of education.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 210E",
+  "title": "Foundations of Sociocultural Learning Theory",
+  "units": "4",
+  "description": "Examination of founding theoretical texts of sociocultural theory of learning in both Russia and the West and their application to current issues in education.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 210F",
+  "title": "Cultural Psychology: Contemporary Socio-Cultural Learning Theory",
+  "units": "4",
+  "description": "An examination of contemporary developments in cultural psychology and applications to education and learning in diverse sociocultural settings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 210G",
+  "title": "Crosscultural Psychology",
+  "units": "4",
+  "description": "Investigation of current issues in social and cognitive psychology with a crosscultural perspective.",
+  "prerequisites_raw": "Consent of instuctor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 211A",
+  "title": "Proseminar: Introduction to Human Development",
+  "units": "4",
+  "description": "Introduction to on-going human development pursued by education faculty. Emphasis on current theory and methods guiding research in human development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 211B",
+  "title": "Development: Infancy and Early Childhood",
+  "units": "4",
+  "description": "Theoretical bases and empirical findings on the development of children from conception through pre-school age across various areas of competency; such as social, language, moral, cognitive, and motor.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 211C",
+  "title": "Development: Middle Childhood to Adolescence",
+  "units": "4",
+  "description": "Theoretical bases and empirical findings on the development of children from age six to adolescence across various areas of competency, such as social, language, moral, cognitive, and motor.",
+  "prerequisites_raw": "Education 211B.",
+  "prerequisites_courses": [
+   "ED 211B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 211D",
+  "title": "Development: Adolescence to Adulthood",
+  "units": "4",
+  "description": "Theory and research about development during adolescence. Discussion of transitions and adaptations during adolescence considering social development, cognitive development, personality development, biological development, and important contexts of adolescent development (e.g. families, schools, peer groups, work and communities).",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 211G",
+  "title": "Theories of Human Development",
+  "units": "4",
+  "description": "Course presents a comprehensive overview of the major theoretical perspectives that guide research and thinking on human growth and change across cultures and contexts. Students will discuss and analyze selected theories guiding the scientific study of cognitive development, social development, and lifespan development.",
+  "prerequisites_raw": "Consent of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 212",
+  "title": "Quantitative Methods in the Social Sciences Colloquium",
+  "units": "2",
+  "description": "Required course for students in the Interdisciplinary Quantitative Methods in the Social Science emphasis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 214A",
+  "title": "Introductory Statistics",
+  "units": "4",
+  "description": "Introduction to the application of descriptive and and basic inferential statistics in educational research. Topics include experimental and survey design principles, measures of central tendency and variability, elementary probability concepts, basic hypothesis testing, and procedures for testing the difference between two means.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 214B",
+  "title": "Inferential Statistics",
+  "units": "4",
+  "description": "Hypothesis testing and interval estimation techniques for application of educational research. Includes bivariate correlation and regression, one-way analysis of variance, and elementary techniques for categorical data analysis.",
+  "prerequisites_raw": "Education 214A.",
+  "prerequisites_courses": [
+   "ED 214A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 214C",
+  "title": "Linear Models for Data Analysis",
+  "units": "4",
+  "description": "Intermediate data analysis methods, all of which can be considered to be instances of a general linear model. Selected topics in multiple regression and analysis of variance (ANOVA), including regression with qualitative independent variables, logistic regression models, one- and two-way ANOVA models and analysis of covariance.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 215",
+  "title": "CURR THRY & DYNAMIC",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 215B",
+  "title": "Psychometrics",
+  "units": "4",
+  "description": "Introduction to classical test theory and item response theory which provide tools for understanding and analyzing data from educational and psychological tests. Topics include test scoring, validity, reliability, test bias and the development of tests and questionnaires.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 215D",
+  "title": "Special Topics in Psychometrics",
+  "units": "4",
+  "description": "Exploration of an advanced or specialized topic in psychometrics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 216A",
+  "title": "Advanced Multivariate Statistics",
+  "units": "4",
+  "description": "The theory and application of multivariate statistics, including multivariate analysis of variance, discriminant analysis, and canonical correlation. Instruction in the necessary matrix algebra will be provided.",
+  "prerequisites_raw": "Education 214A, 214B, 214C.",
+  "prerequisites_courses": [
+   "ED 214A",
+   "ED 214B",
+   "ED 214C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 216B",
+  "title": "Factor Analysis",
+  "units": "4",
+  "description": "The theory and application of exploratory and confirmatory factor analysis models.",
+  "prerequisites_raw": "Education 214A, 214B, 214C, and 216A.",
+  "prerequisites_courses": [
+   "ED 214A",
+   "ED 214B",
+   "ED 214C",
+   "ED 216A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 216C",
+  "title": "Hierarchical Linear Models",
+  "units": "4",
+  "description": "Many educational phenomena operate at multiple levels, such as the effects of school characteristics on student achievement. This course introduces students to statistical techniques for estimating linear models involving multilevel data, including time periods, individuals, and institutions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 216D",
+  "title": "Seminar in Quantitative Research Methods",
+  "units": "4",
+  "description": "Exploration of an advanced or specialized topic in statistics or reserch methodology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 216E",
+  "title": "Nonparametric Statistics",
+  "units": "4",
+  "description": "Analysis of data using techniques that are appropriate when assumptions of traditional normal-theory statistical procedures are not met. Includes the Wilcoxon and Kruskal-Wallis tests, Spearman Correlation, Kendall's Tau,and methods for the analysis of frequency data.",
+  "prerequisites_raw": "Education 214A and 214B.",
+  "prerequisites_courses": [
+   "ED 214A",
+   "ED 214B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 216F",
+  "title": "Structural Equation Models",
+  "units": "4",
+  "description": "The theory and application of structural equation modeling (also called analysis of covariance structures).",
+  "prerequisites_raw": "Education 214A, 214B, and 214C.",
+  "prerequisites_courses": [
+   "ED 214A",
+   "ED 214B",
+   "ED 214C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 216G",
+  "title": "Introduction to Applied Mixture Modeling",
+  "units": "4",
+  "description": "This course provides an introduction to the theory and practice of mixture modeling.",
+  "prerequisites_raw": "ED 216B and ED 216F.",
+  "prerequisites_courses": [
+   "ED 216B",
+   "ED 216F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 217A",
+  "title": "Constructing Measures",
+  "units": "4",
+  "description": "Covers foundational issues in the design and evaluation of measurement instruments in education and psychology. Students design and pilot-test an instrument (e.g. an academic test, attitudinal survey, observation protocol, etc.) and evaluate its reliability and validity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

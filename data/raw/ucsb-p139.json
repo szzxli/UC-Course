@@ -1,0 +1,322 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 321S",
+  "title": "Secondary History/Social Science Methods",
+  "units": "1",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning History/Social Science at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 321W",
+  "title": "Secondary History/Social Science Methods",
+  "units": "1",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning History/Social Science at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 341",
+  "title": "Student Teaching: History/Social Science Secondary",
+  "units": "0",
+  "description": "Supervised fieldwork in secondary History/Social Science classrooms (grades 7-12).",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED HSS",
+  "code": "ED HSS 371",
+  "title": "Professional Issues in Teaching History/Social Science: Secondary",
+  "units": "0",
+  "description": "Seminar in which secondary teacher candidates in history/social science share and discuss their field experience, explore further avenues of teaching content, and investigate more effective ways of engaging and supporting students.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED IA",
+  "code": "ED IA 321",
+  "title": "Secondary Industrial Technology Methods",
+  "units": "4",
+  "description": "Teacher candidates will experience, discuss, research, and practice a variety of teaching methods for technology arts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED L",
+  "code": "ED L 321F",
+  "title": "Reading and Writing in Content",
+  "units": "2",
+  "description": "This course is designed to provide credential candidates with the knowledge and skills necessary to design and enact comprehensive English Language Arts instruction in self-contained, integrated and inclusive K-14 classrooms.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED L",
+  "code": "ED L 321M",
+  "title": "Reading and Writing in Content",
+  "units": "1",
+  "description": "This course is designed to provide credential candidates with the knowledge and skills necessary to design and enact comprehensive English Language Arts instruction in self-contained, integrated and inclusive K-14 classrooms.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED L",
+  "code": "ED L 321W",
+  "title": "Reading and Writing in Content",
+  "units": "1",
+  "description": "This course is designed to provide credential candidates with the knowledge and skills necessary to design and enact comprehensive English Language Arts instruction in self-contained, integrated and inclusive K-14 classrooms.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED LA",
+  "code": "ED LA 320F",
+  "title": "Elementary Reading and Language Arts Teaching Methods",
+  "units": "0",
+  "description": "This course is designed to provide ESC and MST credential candidate with the knowledge and skills necessary to design and enact comprehensive English Language Arts instruction in self-contained, integrated and inclusive K-14 classrooms.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED LA",
+  "code": "ED LA 320W",
+  "title": "Elementary Reading and Language Arts Teaching Methods",
+  "units": "0",
+  "description": "This course is designed to provide ESC and MST credential candidate with the knowledge and skills necessary to design and enact comprehensive English Language Arts instruction in self-contained, integrated and inclusive K-14 classrooms.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED M",
+  "code": "ED M 190A",
+  "title": "PIANO PEDAGOGY",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED M",
+  "code": "ED M 190B",
+  "title": "PIANO PEDAGOGY",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED M",
+  "code": "ED M 320",
+  "title": "Elementary Mathematics Teaching Methods",
+  "units": "0",
+  "description": "The application of research and theory to classroom practice in the teaching of mathematics.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED M",
+  "code": "ED M 321",
+  "title": "Secondary Mathematics Methods",
+  "units": "0",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning Mathematics at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED M",
+  "code": "ED M 321M",
+  "title": "Secondary Mathematics Methods",
+  "units": "2",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning Mathematics at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED M",
+  "code": "ED M 341",
+  "title": "Student Teaching: Mathematics Secondary",
+  "units": "0",
+  "description": "Supervised fieldwork in secondary Mathematics classrooms (grades 7-12).",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED M",
+  "code": "ED M 371",
+  "title": "Professional Issues in Teaching Mathematics: Secondary",
+  "units": "0",
+  "description": "Seminar in which secondary teacher candidates in mathematics share and discuss their field experience, explore further avenues of teaching content, and investigate more effective ways of engaging and supporting students.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED P",
+  "code": "ED P 190",
+  "title": "TEACH PROCED IN PE",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED P",
+  "code": "ED P 195",
+  "title": "PE IN ELEM SCHOOL",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED R",
+  "code": "ED R 390AS",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "1",
+  "description": "A core methods course required for SST Credential designed to help SST Credential candidates develop knowledge, skills, and understanding necessary in decision making regarding instruction insuring proper ESL proficiency and progress for each student.",
+  "prerequisites_raw": "Admisssion into the Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED S",
+  "code": "ED S 320",
+  "title": "Elementary Science Teaching Methods",
+  "units": "0",
+  "description": "An application of research and theory to classroom practice in the teaching of science.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED S",
+  "code": "ED S 321",
+  "title": "Secondary Science Methods",
+  "units": "0",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning Science at the secondary level.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED S",
+  "code": "ED S 321M",
+  "title": "Secondary Science Methods",
+  "units": "2",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning science at the secondary level.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED S",
+  "code": "ED S 341",
+  "title": "Student Teaching: Science Secondary",
+  "units": "0",
+  "description": "Supervised fieldwork and student teaching in secondary Science classrooms (grades 7-12).",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED S",
+  "code": "ED S 371",
+  "title": "Professional Issues in Teaching Science: Secondary",
+  "units": "0",
+  "description": "Seminar in which teacher candidates in Science share and discuss their field experience, explore further avenues of teaching content, and investigate more effective ways of engaging and supporting students.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED ST",
+  "code": "ED ST 393S",
+  "title": "Seminar in Teaching Science",
+  "units": "2",
+  "description": "Seminar covers problems related to student teaching.",
+  "prerequisites_raw": "Admission to Single Subject Credential Program. Taken concurrently with supervised teaching in science.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED W",
+  "code": "ED W 119",
+  "title": "Framework for Teaching and Learning in K-12 Public School Classrooms",
+  "units": "4",
+  "description": "ED W 119 provides students the opportunity to consider and prepare for the K-12 teaching profession by examining six core responsibilities of K-12 educators: Knowing Your Students, Creating Learning Environments, Organizing Subject Matter, Designing Instruction, Assessing Student Learning, and Professional Development.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED W",
+  "code": "ED W 125",
+  "title": "Schooling in the U.S.",
+  "units": "4",
+  "description": "Study of the relationship between school and society. Social and political influences on education historically and currently will be examined as well as schools as complex organizations and their unique roles in society.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED WL",
+  "code": "ED WL 321",
+  "title": "Secondary World Language Methods",
+  "units": "0",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning world language at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED WL",
+  "code": "ED WL 321M",
+  "title": "Secondary World Language Methods",
+  "units": "2",
+  "description": "Development of pedagogical content knowledge, methods, curriculum design, research, and theory related to teaching and learning world language at the secondary level.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED WL",
+  "code": "ED WL 341",
+  "title": "Student Teaching: World Language Secondary",
+  "units": "0",
+  "description": "Supervised fieldwork in secondary World Language classrooms (grades 7-12).",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED WL",
+  "code": "ED WL 371",
+  "title": "Professional Issues in Teaching World Language: Secondary",
+  "units": "0",
+  "description": "Seminar in which secondary teacher candidates in world language share and discuss their field experience, explore further avenues of teaching content, and investigate more effective ways of engaging and supporting students.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ }
+]

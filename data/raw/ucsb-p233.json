@@ -1,0 +1,291 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 237",
+  "title": "Quantitative Geomorphology",
+  "units": "5",
+  "description": "Basic quantitative understanding of processes shaping Earth's surface. In-depth evaluation of hill slope diffusion, mass wasting, and fluvial processes. Applications of quantitative methods are emphasized throughout class. Laboratory provides understanding of isotopic, physical, and remote sensing data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 241A",
+  "title": "Population Geography",
+  "units": "4",
+  "description": "Advanced substantive investigation of the geography of human population. The geographical dimensions of fertility, mortality, and migration are explored. Important recent and classic demographic literature is reviewed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 241B",
+  "title": "Population, Development, and the Environment",
+  "units": "4",
+  "description": "Exploration of global and regional patterns of demographic change especially as they relate to significant economic development or environmental issues. Course readings are selected to provide a broad overview of current research frontiers in addition to classic readings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 241C",
+  "title": "Spatial Demography",
+  "units": "4",
+  "description": "An introduction to mathematical and statistical demography. Primary emphasis is on spatially-explicit methods: multiregional life tables, multiregional projection, spatial statistics/econometrics applied to population, and life course analysis of migration. Matlab and SAS are used for applications.",
+  "prerequisites_raw": "Geography 210A, 210B, and 210C or equivalent.",
+  "prerequisites_courses": [
+   "GEOG 210A",
+   "GEOG 210B",
+   "GEOG 210C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 243",
+  "title": "Vegetation-Atmosphere Interactions",
+  "units": "4",
+  "description": "Graduate seminar on fundamental processes that determine how terrestrial vegetation affects water, energy, and carbon exchanges at Earth's surface, from plant leaves, to individuals, landscapes, and the globe. Integration of this knowledge with land-surface biophysical models and remote sensing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 244",
+  "title": "Society and Hazards",
+  "units": "4",
+  "description": "Reviews of the contribution of human geography to the study of hazard risk, vulnerability, mitigation and adaptation. Classic and new theoretical and empirical literature is explored, emphasizing the connection between development processes, social equity and hazard vulnerability.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 246",
+  "title": "Advanced Hydrologic Modeling",
+  "units": "3",
+  "description": "Quantitative and computational study of surface water and groundwater processes, regional groundwater systems and solute transport.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 249",
+  "title": "Earth System Science: Ocean-Atmosphere Dynamics",
+  "units": "4",
+  "description": "Present basic and modified equations of motion for rotating fluids to explain large-scale ocean and atmosphere motions. Topics include: geostrophic approximation; conservation of potential vorticity; Ekman transport and pumping; quasi-geostrophic approximation baroclinic instability; Rossby and Kelvin waves.",
+  "prerequisites_raw": "Mathematics 5C, Geography 104, and Geography 110, or equivalent.",
+  "prerequisites_courses": [
+   "GEOG 104",
+   "GEOG 110"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 253",
+  "title": "Global Warming: Causes and Consequences",
+  "units": "4",
+  "description": "Physical processes involved in global warming: carbon dioxide increase and uptake; role of clouds, oceans and biosphere; consequences: sea level changes, hydrological cycle intensification, etc. Climate modeling and predictions.",
+  "prerequisites_raw": "Geography 134.",
+  "prerequisites_courses": [
+   "GEOG 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 254",
+  "title": "Demography",
+  "units": "4",
+  "description": "Core concepts of demography are covered, including theory and methods relating to migration, fertility, and mortality. Thematic topics include internal and international migration, maternal and child health, and aging. Local and regional, historical and contemporary demographic transition dynamics are explored. Lecture with class discussions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 255",
+  "title": "Geography of Latin America",
+  "units": "4",
+  "description": "Graduate seminar supplements Geography 155 with further exploration of primary texts probing historical and spatial patterns of society, politics, and demographics with emphasis on human-environment interactions. Students discuss assigned reading and present in class, and write a term paper.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 258",
+  "title": "Conceptual Modeling and Programming for the Geo-Sciences",
+  "units": "5",
+  "description": "A project-based course introducing major conceptual modeling paradigms and object oriented programming from a Geoinformatics perspective. The class is intended for graduate students from Geography and the broader Geo-Sciences who have limited (or no previous)experience in software engineering.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 260",
+  "title": "Global Biogeochemical Cycles",
+  "units": "4",
+  "description": "Examination of the global cycles of carbon, oxygen, nitrogen, and water with an emphasis on terrestrial environments; exploration of the techniques and approaches employed to measure, understand, and model global element cycles; study of interactions of humans with these global cycles.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 261",
+  "title": "Ocean Optics",
+  "units": "4",
+  "description": "An examination of the optical properties and radiative transfers in natural waters. Applications discussed include modeling of solar radiation penetration, reflection and transmittance at the air-sea interface and ocean color remote sensing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 262",
+  "title": "Ocean Dynamics and Modeling",
+  "units": "4",
+  "description": "Covers topics in oceanic fluid dynamics through the lens of theory and computer simulation. The course blends theoretical treatment of oceanic dynamical regimes (e.g., gyres, coastal upwelling) with hands-on experience designing and analyzing simulations. Topics may vary, but can include: the primitive equations, numerical techniques, gyre-scale circulation, quasi-geostrophic and mesoscale dynamics, internal waves, coastal processes, and boundary layer turbulence. Students gain experience running a community-standard ocean circulation model in a high-performance computing environment. Class sessions comprise lectures, student-led discussion of papers or topics, and dedicated time for simulation design and analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 263",
+  "title": "Introduction to Physical Oceanography",
+  "units": "4",
+  "description": "A graduate-level introduction to physical oceanography. Topics discussed include: properties of sea water, derivation and application of the equations of motion for a rotating planet, and the dynamics of wind- and buoyancy-driven general circulation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 264",
+  "title": "Seminar in Oceanography",
+  "units": "2",
+  "description": "Graduate seminar in physical, optical, biogeochemical,and biological oceanography",
+  "prerequisites_raw": "Geography 163 or 263; and, Geography 265; or permission of instructor",
+  "prerequisites_courses": [
+   "GEOG 163",
+   "GEOG 265",
+   "GEOG 263"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 265",
+  "title": "Mixing & Transport in Coastal Waters",
+  "units": "4",
+  "description": "Application of environmental fluid mechanics to problems of pollutant and particle transport and mixing in the coastal environment, including rivers, estuaries, and the continental shelf. Mathematical models and theories of advection, diffusion, and dispersion are applied to understand applications of scientific interest in the coastal environment.",
+  "prerequisites_raw": "Geography 263",
+  "prerequisites_courses": [
+   "GEOG 263"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 266",
+  "title": "Introduction to Atmospheric Sciences",
+  "units": "4",
+  "description": "Fundamentals in atmospheric processes that are important for understanding the role of the atmosphere in earth's climate and biogeochemistry. Graduate-level introduction to radiation, dynamics, clouds, chemistry, and how they interact.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 267",
+  "title": "Chemical Oceanography",
+  "units": "4",
+  "description": "An introduction to the chemistry of the oceans. Topics include composition and chemical equilibria of seawater,biogeochemical cycling, sediment chemistry, atmospheric exchange, circulation and rates of mixing based onchemical tracers, and the impact of ocean chemistry on climate change.",
+  "prerequisites_raw": "Chemistry 1C; graduate standing.",
+  "prerequisites_courses": [
+   "CHEM 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 268",
+  "title": "Seminar in Ocean Biogeochemistry",
+  "units": "4",
+  "description": "Discussion of current or seminal papers or selected topics in the field of marine biogeochemistry. Content may vary depending on student interest. Student presentations required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 271",
+  "title": "Ocean Biogeochemical Modeling",
+  "units": "4",
+  "description": "Introduction to numerical modeling of ocean biogeochemical cycles. Topics to be covered include transport matrix calculations, boundary value problems, steady-state and transient simulations, nonlinear models and Newton's method. Students will design, code, and run a numerical model of an element of their choice",
+  "prerequisites_raw": "Geography 210 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 273",
+  "title": "Trait-Based Vegetation Modeling",
+  "units": "4",
+  "description": "This seminar spans foundational publications in forest modeling up to current state-of-the-art vegetation models with a focus on the theory of how to represent forest structure and scaling assumptions in computer models. Class activities include reading the scientific literature, model experimental design, and running a trait-based vegetation model.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 274",
+  "title": "Advanced Topics in Conservation GIS",
+  "units": "4",
+  "description": "Application of GIS theory and methods to conservation issues related to the ecology, biology, geography, and socio-economic influences of regional preserves and protected areas. Participants will assist with designing solutions for real-world projects and should have demonstrated competency in basic GIS skills for acquiring, organizing, and managing real world data and ability to orchestrate complex analyses and communicate spatial information.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 275",
+  "title": "Seminar in Geographical Information Systems",
+  "units": "4",
+  "description": "Study of current trends in geographically oriented information processing systems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 276",
+  "title": "Geographical Time Series Analysis",
+  "units": "3",
+  "description": "Introduction to time series analysis in geography. Topics include spatial and temporal sampling, fast Fourier transform techniques, linear systems, and digital filtering.",
+  "prerequisites_raw": "Geography 172.",
+  "prerequisites_courses": [
+   "GEOG 172"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 277",
+  "title": "Spatial Environmental Modeling",
+  "units": "4",
+  "description": "Seminar covering topics in spatial environmental modeling. Integrates techniques such as remote sensing and GIS into the modeling of spatial processes. Topics include biogeochemical cycles, hydrology, species distribution and habitat disturbance.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

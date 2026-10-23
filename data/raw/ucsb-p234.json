@@ -1,0 +1,304 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 278",
+  "title": "Practice of Geostatistical Modeling of Spatial Data",
+  "units": "5",
+  "description": "Practice of geostatistics on large environmental data sets using MATLAB. Methods for modeling spatial patterns, integrating spatial data across multiple spatial scales, and simulating complex spatial distributions.",
+  "prerequisites_raw": "Geography 172 or equivalent, and Geography 274.",
+  "prerequisites_courses": [
+   "GEOG 172",
+   "GEOG 274"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 279",
+  "title": "Seminar in Applied Statistical Methods for Geography",
+  "units": "3",
+  "description": "Research frontiers in geostatistics, and innovative application of spatial statistics to the analysis of geographical data.",
+  "prerequisites_raw": "Geography 210B or equivalent.",
+  "prerequisites_courses": [
+   "GEOG 210B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 280",
+  "title": "Climate Research Meetings",
+  "units": "2",
+  "description": "Seminars in topics related to Climate Sciences and Climate Change. Seminars are presented by Faculty, Researchers, Invited Speakers and Graduate Students",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 281",
+  "title": "The Coupled Model Intercomparison Project (CMIP): Experimental design and working with model output",
+  "units": "4",
+  "description": "This seminar covers the history of coupled climate earth system models, experimental design of the Coupled Model Intercomparison Project, and how to work with CMIP model output (with a focus on land surface variables). Students perform individually directed class projects working with CMIP data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 281A",
+  "title": "GIScience Research",
+  "units": "4",
+  "description": "Introduction to GIScience as an academic research field, conducted through review, discussion, and presentation of seminal works from leading journals. Labs reinforce and develop students' existing techniques on problems of research-level difficulty in spatial analysis, cognition and mobile GIS.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 281B",
+  "title": "GIScience Studies",
+  "units": "4",
+  "description": "Builds on previous course through in-depth examination of topics chosen by interests of leading professor. Labs emphasize development of advanced spatial analytical skills, cutting edge visualization techniques and spatio-temporal modeling. Course concludes with an individual GIScience project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 286",
+  "title": "ANALYSIS AND MODELING OF MOVEMENT",
+  "units": "4",
+  "description": "Many geographic, social, and natural systems involve dynamic processes or movement of individuals in space and time. Examples include animal migration, human mobility, disease diffusion, and natural disasters like hurricanes and wildfires. Movement is key to understanding these dynamic processes. This course reviews computational methods for analysis, modeling and simulation of movement in ecological and human systems. Students gain an understanding of spatiotemporal processes and patterns, and develop computational skills to process trajectory data, analyze movement patterns, and apply movement models. Through a final capstone project, students study a spatiotemporal problem in depth and write a research paper.",
+  "prerequisites_raw": "Geography 12/W12 or 176A or 176B; or Environmental Studies 154; or Earth Science 176; and, Computer Science 8; or equivalent coursework; or consent of instructor",
+  "prerequisites_courses": [
+   "GEOG 12",
+   "ENV S 154",
+   "EARTH 176",
+   "CMPSC 8",
+   "GEOG 176A",
+   "GEOG 176B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 287",
+  "title": "Seminar in Climate Sciences and Climate Change",
+  "units": "4",
+  "description": "Seminars in topics related to Climate Sciences and Climate Change. Course covers key concepts and research methods related to climate, climate variability and change and impacts. Lectures consist of guest seminars primarily from Faculty participating in the Climate Sciences & Climate Change PhD Emphasis; the course serves as a venue to foster interaction among graduate students participating in the Emphasis, Researchers and Faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288AF",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288AM",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288AT",
+  "title": "Seminar on Trait-Based Forest and Earth System Modeling",
+  "units": "0",
+  "description": "Reading and discussion of journal papers in the area of vegetation modeling. This seminar spans foundational publications in forest modeling up to current state-of-the-art vegetation models with a focus on the theory of how to represent forest structure and scaling assumptions in computer models.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288CJ",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288DC",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288EA",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288EC",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288HC",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288IW",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288JK",
+  "title": "Preparing Future Faculty in the Bio-Geo-Sciences",
+  "units": "0",
+  "description": "This “special topics” graduate seminar is focused on preparing advanced graduate students to teach at the college-level in bio- and geo-science fields. We will discuss pedagogy in geographical, ecological, and geoscience fields through readings, observation, discussion, guest speakers, writing, and peer-feedback. This preparing future faculty course is intended to support advanced graduate students who are interested in pursuing careers in academia.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288JM",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288KB",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288KC",
+  "title": "Special Topics in Geography",
+  "units": "99",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288KG",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288KJ",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288LC",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288LW",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288NN",
+  "title": "Seminar in Physical Oceanography",
+  "units": "0",
+  "description": "Discussion and computation of physical oceanography problems. 2.0 units.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288PK",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Couse number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288SC",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ }
+]

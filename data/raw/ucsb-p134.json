@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228C",
+  "title": "Learners with Extensive Support Needs: Inclusion",
+  "units": "4",
+  "description": "Functional academics and social academics as well as managerial aspects of inclusion. Along with practical skills, students learn key theories and review recent research on social and academic inclusion.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228D",
+  "title": "Direct Instruction and Strategy Instruction",
+  "units": "4",
+  "description": "Theory, practice, effectiveness and controversy. Two of the major research-based approaches to teaching academic skills to students with learning disabilities are covered.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228E",
+  "title": "Families and Disabilities",
+  "units": "4",
+  "description": "An overview of theories about the family, contemporary research regarding family issues, and home-school interactions. Designed for doctoral students who are interested in research and masters students who want to learn practical school-related methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228F",
+  "title": "Topics in Family and Disability Research",
+  "units": "4",
+  "description": "Focus on one important aspect of family life among families of children with disabilities. Research study on selected topics. Best suited for doctoral students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228H",
+  "title": "Working with Families and Educational Partners in Special Education",
+  "units": "4",
+  "description": "Provides special educators with information and skills for working with the many stakeholders in special education. Content includes how to communicate with parents, administrators, paraprofessionals, and teachers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228I",
+  "title": "Assessment Issues in Special and Inclusive Education",
+  "units": "4",
+  "description": "Introduces measurement principles and procedures and application of norm referenced, criterion referenced, and classroom-based assessments for students with disabilities. It also presents procedures for designing, selecting, administering, scoring and interpreting various informal assessment measures in schools.",
+  "prerequisites_raw": "ED 222A; or an equivalent course on Intro to Special Education",
+  "prerequisites_courses": [
+   "ED 222A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228J",
+  "title": "Individualized Education Programs, Assessment, and Transitions in Special Education",
+  "units": "4",
+  "description": "This course provides special educators applied and background knowledge in Individualized Education Programs for students with disabilities in schools, as well as information on related issues of assessment and transitions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228K",
+  "title": "Including Students with Disabilities in Meaningful Mathematics",
+  "units": "0",
+  "description": "Designed for teacher candidates in special education. Topics include: socioemotional and identity development in mathematics; developmental sequence, how children learn mathematics; standards for mathematical practice; instructional routines; intervention in mathematics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228L",
+  "title": "Assessment for Special Educators",
+  "units": "4",
+  "description": "Course topics include: procedures to assess academic achievement, psycho-perceptual processes, and environmental factors; assessing core academic skills; how to communicate a variety of tests used to measure academic achievement; making data-based decisions to evaluate or develop academic programs or interventions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228M",
+  "title": "Research in Teaching, Learning, and Assessment in Special Education I",
+  "units": "4",
+  "description": "Students explore research in teaching, learning and assessment in educational research with a focus on students with Extensive Support Needs, such as intellectual disabilities, traumatic-brain injury, Cerebral Palsy, Autism, Downs Syndrome, and other developmental disabilities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 228N",
+  "title": "Research in Teaching, Learning, and Assessment in Special Education II",
+  "units": "4",
+  "description": "Students will explore research in teaching, learning and assessment in educational research with a focus on students with disabilities such as learning disabilities/dyslexia, Attention Deficit Hyperactivity Disorder, speech and language, and emotional disabilities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 229C",
+  "title": "Practicum in Special Education",
+  "units": "0",
+  "description": "Supervised field-based practicum in instruction and management of special education programs for severely handicapped pupils.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 229D",
+  "title": "Applied Systematic Instruction and Assessment",
+  "units": "0",
+  "description": "Students read research and best practice studies, discuss current work in practicum placements, and develop documentation of performance and knowledge competencies.",
+  "prerequisites_raw": "Concurrent enrollment in Education 229C or Education E392; consent of instructor.",
+  "prerequisites_courses": [
+   "ED 229C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 230",
+  "title": "Developmental Behavioral Genetics",
+  "units": "4",
+  "description": "Overview of the field of developmental behavioral genetics. Topics include basic principles of genetics, mechanisms of genetic transmission, chromosomal abnormalities, behavioral genetic methodologies, and the genetics of specific behavioral disorders in children and adults.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 232",
+  "title": "CLNCL DIAG DEVL REA",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 234",
+  "title": "Linguistics for Teachers",
+  "units": "0",
+  "description": "Linguistic theory and its applications to the teaching of language and reading skills. The course will survey topics in phonetics, syntax, semantics, and pragmatics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 236C",
+  "title": "Research Methods and Practice: Case Studies",
+  "units": "4",
+  "description": "Focuses on case study methodology as one form of qualitative research design. Students learn the different types of case studies and the value of using a multiple case design. The course also provides students with the tools for preparing their dissertation proposal. Meets research requirements for ELO and ASC Tier II.",
+  "prerequisites_raw": "Ph.D. or Ed.D students who have completed at least two quarters of qualitative research methods and have identified a research problem; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 237",
+  "title": "Preschool Administration: Organization and Leadership",
+  "units": "4",
+  "description": "Organizational concepts to help guide the understanding of how organizations operate as well as organizational issues that might exist in pre-K institutions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 240A",
+  "title": "Education Policy",
+  "units": "4",
+  "description": "An introduction to education policy that will examine both the process of education policy and a series of substantive issues that are commonly the focus of education policy at the state and federal levels.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 241",
+  "title": "Economics of Education",
+  "units": "4",
+  "description": "Covers the following topics: supply/demand in education; the role of human capital; production, costs, and financing of education; teachers and teacher labor markets; education markets, school choice, and incentives.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 242A",
+  "title": "Organizational Theories",
+  "units": "4",
+  "description": "Survey of prominent theories about how organization function, how and why some organizations flourish while others might flounder, how organizations encourage as well as discourage innovation and creativity, and how different theories project different realities about organizations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 242B",
+  "title": "Small Groups in Education and Other Workplace Settings",
+  "units": "4",
+  "description": "Explores observational methods and small group analysis. Provides insight into the range of methods, the thinking behind individual methods, the issues addressed by different methods, research agendas that developed as a result, and implications for social research in educational settings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 242C",
+  "title": "Theories of Organizational Change and Development",
+  "units": "4",
+  "description": "An overview of organizational change and development theories, with special focus on the concepts of organizational complexity and learning andthe problems of change. Students analyze and apply theories through class papers and projects.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 243",
+  "title": "The Social Side of School: From Principles and Practices to Policies",
+  "units": "4",
+  "description": "Students will apply social psychological theories and principles to personally relevant settings to develop or adapt practices that help improve student or educator outcomes. Then they devise ways of evaluating the efficacy of these new practices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 245A",
+  "title": "Educational Finance",
+  "units": "4",
+  "description": "An introduction to the financing of education at the school, district, county, state, and federal levels. Emphasis will be given to the economic foundations of school financing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 246C",
+  "title": "Testing Students",
+  "units": "4",
+  "description": "Introduction to student testing with special emphasis on three major schools - measurement, evaluation, assessment.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 247A",
+  "title": "Educational Leadership",
+  "units": "4",
+  "description": "Systematic analysis of the antecedents and consequences of administrator behavior in a variety of educational settings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 250A",
+  "title": "Doctoral Seminar in Policy and Leadership",
+  "units": "4",
+  "description": "A seminar for post-comprehensive exam students with the intent of helping to define areas, problems, specific questions, and methodologies for doctoral research. Topics and instructors may vary from quarter to quarter.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 250B",
+  "title": "Doctoral Seminar in Policy and Leadership",
+  "units": "4",
+  "description": "A seminar for post-comprehensive exam students with the intent of helping to define areas, problems, specific questions, and methodologies for doctoral research. Topics and instructors may vary from quarter to quarter.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 250C",
+  "title": "Doctoral Seminar in Policy and Leadership",
+  "units": "4",
+  "description": "A seminar for post-comprehensive exam students with the intent of helping to define areas, problems, specific questions, and methodologies for doctoral research. Topics and instructors may vary from quarter to quarter.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

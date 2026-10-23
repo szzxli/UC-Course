@@ -1,0 +1,356 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 176B",
+  "title": "The American West",
+  "units": "4",
+  "description": "The American West as a frontier and as a region, in transit from the Atlantic seaboard to the Pacific, and from the seventeenth century to the present.",
+  "prerequisites_raw": "Any lower division History course or upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 176R",
+  "title": "Undergraduate Research Seminar in the History of Drugs and Alcohol",
+  "units": "4",
+  "description": "A research seminar that explores the role of alcohol and other drugs in everyday life; why different societies have regulated certain drugs more stringently than others; and how contested moralities have shaped conflict over drug regulation and enforcement. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "One previous course in History or consent of the instructor and upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 177",
+  "title": "History of California",
+  "units": "4",
+  "description": "California as a case study of national trends, and as a unique setting withits special problems and culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 177R",
+  "title": "Undergraduate Research Seminar in California History",
+  "units": "4",
+  "description": "A research seminar that explores topics involving the history of California. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "HIST 17A or 17B or 17C or HIST 177 and upper division standing or permission of the instructor.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 177",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 178A",
+  "title": "American Urban History",
+  "units": "4",
+  "description": "A study of the political, economic, social, and intellectual impact of the city upon American history, and the impact of history upon the growth of American urbanization.",
+  "prerequisites_raw": "Any two quarters of History 17A-B-C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 178B",
+  "title": "American Urban History",
+  "units": "4",
+  "description": "A study of the political, economic, social, and intellectual impact of the city upon American history, and the impact of history upon the growth of American urbanization.",
+  "prerequisites_raw": "Any two quarters of History 17A-B-C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 178R",
+  "title": "Undergraduate Research Seminar in American Urban History",
+  "units": "4",
+  "description": "A research seminar that explores topics involving American urban history. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 17B or 17C or 172A or 172B or 174B or 174C or 178A or 178B or consent of the instructor and upper division standing.",
+  "prerequisites_courses": [
+   "HIST 17B",
+   "HIST 17C",
+   "HIST 172A",
+   "HIST 172B",
+   "HIST 174B",
+   "HIST 174C",
+   "HIST 178A",
+   "HIST 178B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 179A",
+  "title": "Native American History to 1838",
+  "units": "4",
+  "description": "A lecture course on the history of the indigenous peoples of North America from European contact to Cherokee removal. The course stresses comparative cultural responses to European colonization and from American history from a native point of view.",
+  "prerequisites_raw": "History 17A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 179B",
+  "title": "Native American History, 1838 to the Present",
+  "units": "4",
+  "description": "A lecture course on the history of the indigenous peoples of North America from Cherokee removal to the present. The course stresses native history, relations with the U.S. Government and offers American history from a native point of view.",
+  "prerequisites_raw": "History 17B or C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 179R",
+  "title": "Undergraduate Research Seminar in Native American History",
+  "units": "4",
+  "description": "A research seminar that explores topics involving the history of Native Americans in North America. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 17A or 179A or 179B and upper division standing or permission of the instructor.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 179A",
+   "HIST 179B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 183Q",
+  "title": "Readings in the the History of Central Asia",
+  "units": "4",
+  "description": "Central Asian history from the pre-Islamic period to the present. Topics include the interaction of nomadic and sedentary populations, the rise of Islam, the empires of Chingis Khan and Timur, responses to colonial conquest, and the emergence of independent nation-states.",
+  "prerequisites_raw": "History 2B or 2C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2B",
+   "HIST 2C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 184A",
+  "title": "History of China",
+  "units": "4",
+  "description": "Ancient China to 589ce.",
+  "prerequisites_raw": "History 2A or 2B or 2C or 80 or EACS 80 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "EACS 80",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 184B",
+  "title": "History of China",
+  "units": "4",
+  "description": "Sixth to seventeenth centuries.",
+  "prerequisites_raw": "History 2A or 2B or 2C or 80 or EACS 80 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "EACS 80",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 184E",
+  "title": "History of Trans-Eurasian Exchanges",
+  "units": "4",
+  "description": "Eurasia is the largest geographical feature on earth. It gave birth to the earliest civilizations and fostered the antecedents of many modern cultures. Yet, in much historical writing, the regions of Eurasia are treated as isolated units with independent trajectories. This is an artifact of nationalism and ignores the key role that trans-Eurasian interaction played in world history. This course investigates the movement of people, technology, ideas, and images across Eurasia from 3,000 BC to the present. It encourages one to think of a past world without national boundaries, a vast interconnected organism inside which materials and ideas were transmitted in all directions, adapted to the cultural and environmental needs of specific areas.",
+  "prerequisites_raw": "History 2A, or 2B, or 2C, or 4A, or 4B, or 4C, or 80",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 4A",
+   "HIST 4B",
+   "HIST 4C",
+   "HIST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 184M",
+  "title": "China's Historical Minorities",
+  "units": "4",
+  "description": "China has always been multiethnic. The nomenclature Chinese is a collective designation of multiple peoples who have resided in and contributed to the makeup of the Middle Kingdom (Chinese name for China). This class offers an introduction to Chinas minority populations from the classical times through 1600s.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 184R",
+  "title": "Undergraduate Research Seminar in Early Chinese History",
+  "units": "4",
+  "description": "Specific topics will differ from year to year. Through readings anddiscussion students will explore a topic or problem in the history ofPre-Modern China. The course will culminate with a 10-20 page researchpaper.",
+  "prerequisites_raw": "Upper Division Standing, History 80 or EACS 80 or History 184A or History 184B or Chinese 184A or Chinese 184B.",
+  "prerequisites_courses": [
+   "HIST 80",
+   "EACS 80",
+   "HIST 184A",
+   "HIST 184B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 184T",
+  "title": "History of Traditional Chinese Thought",
+  "units": "4",
+  "description": "A study of traditional Chinese thought from the classical period to the beginning of the last imperial dynasty (500 BCE -1700 CE).",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 185A",
+  "title": "Qing Empire",
+  "units": "4",
+  "description": "The Qing period saw the doubling of China's territory, the enormous population growth, and the many encounters with the West. We will examine the politics, cultures, social norms, and different peoples, with a focus on the problem of modernization.",
+  "prerequisites_raw": "A prior course in History or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 185B",
+  "title": "Modern China (Since 1911)",
+  "units": "4",
+  "description": "The fall of the dynastic system, the revolution against traditional values, the rise of the Nationalist Party, the challenge from the Communists, the founding of the People's Republic, and the Post-Mao reform, focusing on the theme of revolution.",
+  "prerequisites_raw": "Any lower-division course in History or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 185CQ",
+  "title": "Reading Seminar on the Chinese Cultural Revolution (1966-1976)",
+  "units": "4",
+  "description": "No understanding of contemporary China is possible without understanding the ramifications of the Great Proletarian Cultural Revolution. This course seeks to consider the tumultuous episode as a field of historical research and conceptual inquiry. We create this class together.",
+  "prerequisites_raw": "History 2C or 80 or 184A or 184B or 185A or 185B or EACS 4A or EACS 4B or Chin 184A or Chin 184B or Chin 185A or Chin 185B.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "EACS 4A",
+   "EACS 4B",
+   "HIST 80",
+   "HIST 184A",
+   "HIST 184B",
+   "HIST 185A",
+   "HIST 185B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 185R",
+  "title": "Undergraduate Research Seminar on Modern China",
+  "units": "4",
+  "description": "Research seminar in the history of modern China. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 185A or 185B or Chin 185A or Chin 185B or HIST 185CQ or CHIN 185CQ and upper division standing.",
+  "prerequisites_courses": [
+   "HIST 185A",
+   "HIST 185CQ",
+   "CHIN 185CQ",
+   "HIST 185B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 185T",
+  "title": "History of Modern Chinese Thought",
+  "units": "4",
+  "description": "Leads students to understand some of the most important ideas, theories, and concepts in Modern China.",
+  "prerequisites_raw": "HIST 2A-B-C or HIST 80 or HIST/CHIN 184A-B or HIST/CHIN 185A-B or EACS 4A-B",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 80",
+   "CHIN 184A",
+   "CHIN 185A",
+   "EACS 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 187A",
+  "title": "Japan Under the Tokugawa Shoguns",
+  "units": "4",
+  "description": "A survey of Japanese social and cultural history from the mid-sixteenth century to the nineteenth century.",
+  "prerequisites_raw": "History 2A or 2B or 2C or 9 or 87 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 9",
+   "HIST 87"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 187B",
+  "title": "Modern Japan",
+  "units": "4",
+  "description": "A survey of Japanese history from the early nineteenth century until World War II, in an effort to explain how, and at what price, Japan became the first successful modernizer in the nonwestern world.",
+  "prerequisites_raw": "History 2A or 2B or 2C or 9 or 87 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 9",
+   "HIST 87"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 187C",
+  "title": "Recent Japan",
+  "units": "4",
+  "description": "The history of Japan since World War II, dealing with the American occupation, economic recovery and growth, social change, and political development.",
+  "prerequisites_raw": "History 2A or 2B or 2C or 9 or 87 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 9",
+   "HIST 87"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 187R",
+  "title": "Undergraduate Research Seminar in Japanese History",
+  "units": "4",
+  "description": "A research seminar on Japanese History. Course culminates in a 10-20 page research paper. Topics vary by quarter.",
+  "prerequisites_raw": "History 87 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 87"
+  ]
+ }
+]

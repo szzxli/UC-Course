@@ -1,0 +1,305 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 116B",
+  "title": "Biblical Literature: The New Testament",
+  "units": "4",
+  "description": "A literary approach to the New Testament.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 116BS",
+  "title": "Seminar for Biblical Literature: The New Testament",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 116B designed to enrich the large lecture experience for the motivated student. Course includes either supplementary readings or more intensive study of the English 116B reading list, as well as supplementary writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; concurrent enrollment in English 116Bupper-division standing; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "ENGL 116B",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 116C",
+  "title": "Biblical Literature: An Introduction",
+  "units": "4",
+  "description": "Biblical literature: an introduction. Literary approaches to the Hebrew Scriptures and the New Testament.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 116CS",
+  "title": "Seminar for Biblical Literature: An Introduction",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 116C designed to enrich the large lecture experience for the motivated student. Course includes either supplementary readings or more intensive study of the English 116C reading list, as well as supplementary writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10; concurrent enrollment in English 116Cupper-division standing; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "ENGL 116C",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 119",
+  "title": "Studies in Medieval Literature",
+  "units": "4",
+  "description": "Topics will vary from quarter to quarter. To see what is being taught in any particular quarter, students should consult the department's course outline booklet.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 119X",
+  "title": "Medieval Literature in Translation",
+  "units": "4",
+  "description": "A study of one or more major medieval works in translation such as The Song of Roland, the romances of Chretien de Troyes, the Lais of Marie de France,or The Romance of the Rose.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 120",
+  "title": "How to Read a Poem",
+  "units": "4",
+  "description": "Advanced studies in the close reading of poems from the seventh century to the present day, with a focus on the intricacies of poetic sound, language, and form. For a fuller description, consult the course listings on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 121",
+  "title": "The Art of Narrative",
+  "units": "4",
+  "description": "An exploration of traditions and functions of story-telling; may include a range of forms from the anecdote to the novel.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 121S",
+  "title": "Seminar on the Art of the Narrative",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 121 designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of the English 121 reading list as well as supplemental writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing; concurrentenrollment in English 121; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "ENGL 121",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122",
+  "title": "Cultural Representations",
+  "units": "4-28",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122AA",
+  "title": "Cultural Representations",
+  "units": "4",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122AP",
+  "title": "Cultural Representations",
+  "units": "4-28",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122BC",
+  "title": "Cultural Representations",
+  "units": "4",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122BH",
+  "title": "Cultural Representations",
+  "units": "4-28",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122CD",
+  "title": "Cultural Representations",
+  "units": "4-28",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122CF",
+  "title": "Cultural Representations",
+  "units": "4-28",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122CL",
+  "title": "Climate Fiction and Imagination",
+  "units": "4",
+  "description": "We will develop a literary approach to climate change by examining varied cli-fi stories, in genres that include post-apocalypse, fantasy, fairy tales, science fiction, and utopia/ solarpunk. Literature is often said to bring imagination to climate change. We will consider the possibilities of imagination, including in terms of escapism, solace, critical thinking, and the invention of worlds with different climates.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122CM",
+  "title": "Cultural Representations: Climate Media",
+  "units": "4",
+  "description": "This course is a practicum in climate media. Not only will we be studying media that attempts to make a difference in the climate crisis, but students in the class will also be generating media interventions of their own. There are two tracks to the course, as students have the following options for their final project: 1) generate a short-form (i.e. Youtube) video or 2) serve as a segment producer for an audio podcast episode.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122CS",
+  "title": "Cosmopolitan Modernisms / Global Modernities",
+  "units": "4",
+  "description": "This course studies cosmopolitanism, diaspora, displacement, and cultural hybridity in the context of the postcolonial and globalized 20th and 21st centuries. The displaced, and often dissident protagonist leaves home in search of cultural, political, or racial freedom abroad. This encounter often produces a deep contradiction in the identity and experience of the emigrant (Nella Larsen, Jean Rhys, Tsitsi Dangarembga). In the second part of the 20th century, the time of global flows, the cosmopolitan aspirations of the traveling modernist will change into the search for the survival of the contemporary migrant and the refugee, as authors Zadie Smith, Junot Diaz, Mohsin Hamid among others, portray in their work.",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122CU",
+  "title": "Cultural Representations",
+  "units": "4",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122EA",
+  "title": "Environmental Activism",
+  "units": "4",
+  "description": "This course is an experiment. It begins with the assumption that global climate change is real and that its causes are anthropogenic (i.e. human caused). Consequently, solutions will not be just technological, or even mostly so, but will also need to involve profound changes to our human beliefs, practices, and styles of life. The difficulty in bringing this about is not only that a broad swathe of Americans are skeptical of climate change, even if this is acknowledged, the causes and solutions to the problem are being fiercely debated on the public stage. It has also, sadly, become a political issue dividing our nation. This course will carefully look at the rhetoric of these debates.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122EC",
+  "title": "Elemental Cities",
+  "units": "4",
+  "description": "Focuses on the ecological imprints of atmospheric and organic elements on urban space. Explores how the hybrid and deeply entangled cultural politics of elements such as earth, air, water, fire, etc. have impacted the lived experience of urban spaces across ages. Our exploration of the elements will lead us to consider questions of genre. In the readings for this course, we will see how natural elements have refused to stay put and have disrupted the politics of planning in cities like London, Calcutta, New Delhi, Beijing, Warsaw, New York, and Dublin.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122EE",
+  "title": "British Comedy and the End of Empire",
+  "units": "4-28",
+  "description": "What are the connections between the end of the British Empire and the emergence of a distinctly British form of comedy? How might we read classic texts of decolonization as comedic? And is there a distinct comedy of what became known as multiculturalism that emerges in London in the 1990s? Reading novels and some essays, and viewing television and radio episodes, this class aims to address these questions, amongst others. How also are we to understand the strange links between the imperialist family histories of famous perhaps the most famous British comedians Peter Cook and Spike Milligan? Finally, we might ask, is the breakdown of empire the foundation of 20th century British satire itself?",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ }
+]

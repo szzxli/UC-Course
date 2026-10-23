@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 243",
+  "title": "Biological Oceanography",
+  "units": "4",
+  "description": "Current concepts in biological oceanography focusin on the coupling of biotic processes to ocean physics, chemistry and sedimentation. Emphasis on areas of active research with critical evaluation of current and seminalliterature.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 244",
+  "title": "Marine Microbiology",
+  "units": "4",
+  "description": "Exploration of evolution, ecology, biochemistry, and genetics of marine bacteria. Topics include: historical perspective, molecular approaches in in microbial ecology, trophic interactions/biogeochemistry, physiological adaptations, and biochemistry and genetics of selected systems (bioluminescence, deep-sea adaptations, cell-surface interactions, starvation survival).",
+  "prerequisites_raw": "MCDB 1A-AL; and, MCDB 1B-BL or EEMB 2-2L; and, EEMB 3-3L; and, MCDB 110, 13EEMB 145A-B-C; and, Chemistry 1A-B-C; or equivalents.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "MCDB 110",
+   "EEMB 145A",
+   "CHEM 1A",
+   "EEMB 2L",
+   "EEMB 3L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 244L",
+  "title": "Marine Microbiology Laboratory",
+  "units": "2",
+  "description": "A laboratory survey of the diversity, physiology and ecology of marine prokaryotes, and methods used to identify, quantify and measure their activities.",
+  "prerequisites_raw": "MCDB 1A-AL; and, MCDB 1B-BL or EEMB 2-2L; and, EEMB 3-3L; and, EEMB 144 (mube taken concurrently) or EEMB 145A; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EEMB 144",
+   "EEMB 145A",
+   "EEMB 2L",
+   "EEMB 3L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 245",
+  "title": "Advanced Population Biology",
+  "units": "4",
+  "description": "An in depth look at selected aspects of population and community dynamics of organisms. Extensive reading of original papers.",
+  "prerequisites_raw": "One course in ecology and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 247",
+  "title": "Quantitative Methods in Biology",
+  "units": "3",
+  "description": "A review of quantitative methods required to develop models of biological and ecological systems. Topics illustrated through computer exercises.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 248",
+  "title": "Ecology of Running Waters",
+  "units": "4",
+  "description": "Review of literature on the physics, chemistry, and biology of running water ecosystems.",
+  "prerequisites_raw": "EEMB 145B or consent of instructor.",
+  "prerequisites_courses": [
+   "EEMB 145B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 249",
+  "title": "Mariculture: Research Frontiers in Farming the Sea",
+  "units": "4",
+  "description": "Recent progress and new directions in research increasing production of valuable marine animals, plants and microorganisms. Control of reproduction, development, growth and disease in marine species; problems encountered in commercializing production; regional and biological solutions; the role of modern biotechnology.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 250",
+  "title": "Phytoplankton Photoecology",
+  "units": "3",
+  "description": "How sunlight controls all aspects of phytoplankton biolgy, thus affecting many large scale ocean processes where phytoplankton play a central role; primarily production, biogeochemcial cycling, impacts of climate change on oceans due to global warming and ozone depletion. Topics include photosynthesis, photoadaptation, photoinhibition and photoregulation of metabolism, behavior and survival strategies. The evolutionary similarities and differences between taxonomic groupings of photoplankton are examined as well as the present photoecology of harmful algal blooms, picophytoplankton and microalgal symbionts of corals and other marine animals. Different criteria and more sophisticated assignments for grads.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 250A",
+  "title": "Microbial Diversity I",
+  "units": "4",
+  "description": "An investigation of the metabolic diversity of bacteria and archaea with an emphasis on microbial evolution, energetics, and the ecological implications of diversity. Required laboratory is an inquiry-based introduction to classical methods of enrichment and isolation of diverse microbes from the environment and molecular identification of isolates. Basic introduction to bioinformatic analysis of microbial phylogeny using sequence data generated in the course.",
+  "prerequisites_raw": "Graduate Student standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 253",
+  "title": "Ecology of Lakes and Wetlands",
+  "units": "4",
+  "description": "An examination of ecological aspects of lakes, wetlands and their physical coupling and population and community ecology. Applications of remote sensing and ecological models; human-caused impacts and their management.",
+  "prerequisites_raw": "EEMB 142B; and, EEMB 142A or EEMB 120 or equivalent.",
+  "prerequisites_courses": [
+   "EEMB 142B",
+   "EEMB 142A",
+   "EEMB 120"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 262",
+  "title": "Fungi & Enterprise",
+  "units": "3",
+  "description": "Explores how fungal biology, physiology, and ecology contribute to innovation across industries like textiles, aerospace, pharmaceuticals, and agriculture. This course examines fungi’s critical role in sustainability, product development, and scientific breakthroughs, revealing their hidden influence in modern enterprise. Students will engage with real-world applications, connecting mycology to industrial solutions that address today’s challenges.",
+  "prerequisites_raw": "Graduate standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 264",
+  "title": "Marine Pharmacology",
+  "units": "4",
+  "description": "History and scope of the use of natural product probes in biology and theirrelationship to physiology, chemistry, and biochemistry.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 265",
+  "title": "Field Studies in Marine Ecological Physiology",
+  "units": "4",
+  "description": "An integration of field and laboratory approaches to questions in marine ecological physiology. Using local coastal field sites, participants conduct a team project. Participants collect, analyze, and present the results. Involves occassional field trips and lab work.",
+  "prerequisites_raw": "MCDB 1A-B, EEMB 2 and 3.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 266",
+  "title": "Biology of Reproduction",
+  "units": "4",
+  "description": "Examination of hormonal mechanisms regulating initiation/maintenance of reproductive function in vertibrates. Review of regulation of fertilization/pregnancy/parturition. Endocrine aspects do not duplicate topics covered in EEMB 155, and provide background in physiology for MCDB 226B.",
+  "prerequisites_raw": "MCDB 1A-AL; and, MCDB 1B-BL or EEMB 2-2L; and, EEMB 3-3L or equivalents.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EEMB 2L",
+   "EEMB 3L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 271",
+  "title": "Ecosystem Processes",
+  "units": "4",
+  "description": "An examination of carbonand nutrient cycling in terrestrial ecosystems. Specific foci will include plant-soil linkages including decomposition and nutrient supply, and the role of above- and below-ground community composition on element cycles.",
+  "prerequisites_raw": "Environmental Studies 13 or MCDB 1B-BL or EEMB 2-2L.",
+  "prerequisites_courses": [
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 2L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 272",
+  "title": "Theoretical Population Ecology",
+  "units": "4",
+  "description": "Examine the ecological theory pertaining to population dynamics, species interactions, and community properties, and explore how mathematical and computer modeling has influenced the development of ecological theory. Includes case studies and computer exercises",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 274",
+  "title": "Advanced Biostatistics using Bayesian Methods",
+  "units": "4",
+  "description": "A model-based approach to modern methods in data analysis. Comparison of statistical approaches including frequentist, likelihood, and Bayesian techniques. Methods for simulating data, estimating parameters for single variable models, constructing multivariate and hierarchical models, model comparison using information criteria, and model suitability using posterior predictive analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 275",
+  "title": "Environmental Adaptation",
+  "units": "3",
+  "description": "Introduction to the concepts and literature concerning mechanisms underlying physiological and evolutionary adaptations that allow animals to exploit various environments and adapt to environmental change. Open to graduate students from various disciplines. Lectures and student presentations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 275L",
+  "title": "Biochemical Adaptation to the Environment Laboratory",
+  "units": "1",
+  "description": "Laboratory techniques in the study of biochemical adaptation to the environment, including preparation of buffers and reagents, tissue preparation, enzyme assays, and measurement of respiration rates using subcellular preparations and whole animals. Students are required to read the primary literature in the areas covered, present a lecture based on the literature in the specific area, and summarize the talk in a short paper to be submitted at the end of the course.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 279",
+  "title": "Ecological Modeling",
+  "units": "4",
+  "description": "An introduction to mathematical and computer models in studies of the natural environment with emphasis on population dynamics and species interactions. Case studies of interacting physical, chemical and biological phenomena.",
+  "prerequisites_raw": "Mathematics 34A-B or 3A-B or 2A-B or equivalent.",
+  "prerequisites_courses": [
+   "MATH 34A",
+   "MATH 3A",
+   "MATH 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 280",
+  "title": "Evolutionary theory and models of behavioral processes",
+  "units": "5",
+  "description": "",
+  "prerequisites_raw": "Graduate student standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 281",
+  "title": "Science in the Media",
+  "units": "2",
+  "description": "Critical look at science stories in the popular media.Students will learn to read and present scientific papers, write about science, and interpret research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 285",
+  "title": "Field Work in Oceanography",
+  "units": "0",
+  "description": "Participation as a member of the scientific part on Scripps institution (UCSD), NMFS, and UCSB oceanographic cruises. Cruise duration is variable (7 to 60 days), and course units will vary with cruise duration. Supervision by scientific party leader. Report required.",
+  "prerequisites_raw": "Upper-division courses in aquatic biology and/or geology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 288RE",
+  "title": "Restoration Ecology Seminar",
+  "units": "1",
+  "description": "Seminar explores current topics in restoration ecology including model projects, techniques, structured research, performance criteria, political and philosophical issues and may include site visits.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 290",
+  "title": "Introduction to Faculty Research",
+  "units": "2",
+  "description": "Presentation and discussion of current EEMB faculty research. Informal discussions follow weekly faculty member research presentations. This seminar exposes graduate students to the breadth of departmental research, facilitates graduate-faculty interaction, and offers an intellectual setting for student interaction.",
+  "prerequisites_raw": "Strongly encouraged for all first year graduate students; open to continuingraduate students. Undergraduates by consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 292",
+  "title": "Advanced Special Topics in Biological Sciences",
+  "units": "0",
+  "description": "Special topics of current importance in biological sciences. Course content will vary. Information on course content may be obtained in the department office.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

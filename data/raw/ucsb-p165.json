@@ -1,0 +1,231 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147DM",
+  "title": "Media History and Theory",
+  "units": "0-28",
+  "description": "Studies in historical and contemporary media systems including orality, writing, print electronic media (telegraph, phone, radio, film, TV video, satellite communications), and digital media (the Internet, word-processing, etc.) in their relation to literary or cultural expression. Example topics include Enlightenment media, modern literature, and graphic design, film and literature, twentieth century media theory.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147GM",
+  "title": "Global Media - Media History and Theory",
+  "units": "4",
+  "description": "Studies of media globalization analyze communications technologies and infrastructures that ford national borders and intensify connections across the planetary space. This course focuses on globalizing media forms and formats, platforms, and infrastructures that deepen connectivities and penetrate everyday life, attending to the tensions and conflicts arising around them. Thinking along these two trackshow are media global? and how is the global medial?we read a series of media scholars, listen to/view relevant texts, and discuss our findings to unpack \"global media.\"",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147MC",
+  "title": "Media History and Theory",
+  "units": "0",
+  "description": "Studies in historical and contemporary media systems including orality, writing, print electronic media (telegraph, phone, radio, film, TV video, satellite communications), and digital media (the Internet, word-processing, etc.) in their relation to literary or cultural expression. Example topics include Englightenment meida, modern literature, and graphic design, film and literature, twentieth century media theory.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147OM",
+  "title": "Ocean Media",
+  "units": "0",
+  "description": "This course explores how to think about the ocean as represented in media forms, and the ocean as a medium. Taught as a comparative media course, we examine a variety of representations of the ocean and sea life (literary fiction, nonfiction, documentary film, digital visualizations, artwork). By the end of this course, students should develop a critical vocabulary to talk about textual/visual/digital media & the environment.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147SM",
+  "title": "Media History and Theory",
+  "units": "0-12",
+  "description": "Studies in historical and contemporary media systems including orality, writing, print electronic media (telegraph, phone, radio, film, TV video, satellite communications), and digital media (the Internet, word-processing, etc.) in their relation to literary or cultural expression. Example topics include Englightenment meida, modern literature, and graphic design, film and literature, twentieth century media theory.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147SS",
+  "title": "Media History and Theory",
+  "units": "0-12",
+  "description": "Studies in historical and contemporary media systems including orality, writing, print electronic media (telegraph, phone, radio, film, TV video, satellite communications), and digital media (the Internet, word-processing, etc.) in their relation to literary or cultural expression. Example topics include Englightenment meida, modern literature, and graphic design, film and literature, twentieth century media theory.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147VN",
+  "title": "Visual Narrative",
+  "units": "0",
+  "description": "Visual Narrative considers the media history and theories of visual storytelling, with an emphasis on comics, graphic novels, webcomics, motion comics, and interactive comics.Unit topics include: Defining Visual Narrative, Sequential Art, Vocabularies of Style, Medium and Design, Visualization and Mapping, Interaction and Media Adaptation, and Remediating History. Example theoretical readings may include works such as The Medium is the Massage (McCluhan and Fiore), Exercises in Style (Queneau), 99 Ways to Tell a Story (Matt Madden), Understanding Comics (McCloud), and selected essays on information visualization, infographics, and maps by Tufte, Manovich, Lima, and others.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147VP",
+  "title": "Media History and Theory",
+  "units": "0-12",
+  "description": "Studies in historical and contemporary media systems including orality, writing, print electronic media (telegraph, phone, radio, film, TV video, satellite communications), and digital media (the Internet, word-processing, etc.) in their relation to literary or cultural expression. Example topics include Englightenment meida, modern literature, and graphic design, film and literature, twentieth century media theory.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147WT",
+  "title": "Media History and Theory",
+  "units": "0-28",
+  "description": "Studies in historical and contemporary media systems including orality, writing, print electronic media (telegraph, phone, radio, film, TV video, satellite communications), digital media (the Internet, word-processing) in their relation to literary or cultural expression. Topics include Enlightenment media, modern literature, graphic design, film and literature, twentieth century media theory.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148",
+  "title": "Society, Culture, and Information",
+  "units": "4-28",
+  "description": "Courses on the social, political, legal, economic, gender, race, and other aspects of information technology and its institutions as these affect or are affected by the realm of cultural or symbolic expression, including literature and art. Topics include free speech and censorship from print to the Internet, globalism.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148AV",
+  "title": "Society, Culture, and Information",
+  "units": "4-28",
+  "description": "Courses on the social, political, legal, economic, gender, race, and other aspects of information technology and its institutions as these affect or are affected by the realm of cultural or symbolic expression, including literature and art. Topics include free speech and censorship from print to the Internet, globalism.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148EN",
+  "title": "Epidemiology Narratives: How We Tell Stories About Disease",
+  "units": "4",
+  "description": "Epidemiology represents the current paradigm for thinking about disease through exposure, transmission, spread, morbidity and mortality. These concepts are primarily narrativized through data visualizations, exemplified by John Hopkins University or the CDC. At odds with the historical, journalist, or literary narratives students might associate with the medical humanities, examining epidemiological data visualization as the prevailing narrative of disease enables us to ask new and pressing questions. This course is designed to help students think through data visualizations not as representations of abstract truth, but as objects constructed within distinct ideological frameworks which serve larger cultural narratives.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148KC",
+  "title": "Keyword Cultures",
+  "units": "4",
+  "description": "The oldest definition of keyword defines it as a key to a cipher or code. Today, keywords are encoded into our digital lives, most prominently in tools like Google. In this course, we explore the persistent cultural importance of keywords: first, in traditional literary or rhetorical analysis; second, in digital humanities methods; and finally, as a cultural unit that shapes our social and political landscape, on- and offline. Through our work together, we respond creatively, theoretically, and practically to questions such as:How do search engines understand human language using keywords?What do our search queries reveal about us?What can we learn about literature and culture through textual analysis?",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148PG",
+  "title": "Society, Culture, and Information",
+  "units": "4-28",
+  "description": "Courses on the social, political, legal, economic, gender, race, and other aspects of information technology and its institutions as these affect or are affected by the realm of cultural or symbolic expression, including literature and art. Topics include free speech and censorship from print to the Internet, globalism.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148RD",
+  "title": "Reading Data: A Humanist's Guide to Information Culture",
+  "units": "4-28",
+  "description": "Equips students with tools to analyze and evaluate different kinds of data from multiple perspectives. Aimed at humanities majors and STEM majors interested in interdisciplinary. Students learn hands-on technical and interpretive skills, and develop a unique form of digital literacy that is increasingly relevant in our current cultural climate.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148RP",
+  "title": "Society, Culture, and Information",
+  "units": "4-28",
+  "description": "Courses on the social, political, legal, economic, gender, race, and other aspects of information technology and its institutions as these affect or are affected by the realm of cultural or symbolic expression, including literature and art. Topics include free speech and censorship from print to the Internet, globalism.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 148RS",
+  "title": "Society, Culture, and Information",
+  "units": "4",
+  "description": "Courses on social, political, legal, economic, gender, race, and other aspects of information technology and its institutions as these affect or are affected by the realm of cultural or symbolic expression, including literature and art. Topics include free speech and censorship from print to the Internet, globalism.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 149",
+  "title": "Decoding Digital Literature (Critical Code Studies)",
+  "units": "4",
+  "description": "A cornerstone of criticism and interpretation is the question of meaning in text, whether a novel, poem, or play... or indeed, in any cultural text, whether an advertisment, campaign speech, or news article, et cetera. This course explores how we can apply this search for meaning and this process of interpretation to computers, software, and code. What is the plain, subtle, or hidden meanings in the source code of a digital story or a video game? For that matter, what about in the code of a computer virus, a space shuttle, or a predictive policing algorithm? What are the narratives, what are the poetics, what are the values and ethics and assumptions?",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ }
+]

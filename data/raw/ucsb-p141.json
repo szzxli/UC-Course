@@ -1,0 +1,375 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 204B",
+  "title": "ADV ENGR ANALYSIS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 204C",
+  "title": "ADV ENGR ANALYSIS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 210",
+  "title": "SPECIAL TOPICS-EE",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 236A",
+  "title": "LINEAR ACTIVE CIR",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 236B",
+  "title": "LINEAR ACTIVE CIR",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 236C",
+  "title": "LINEAR ACTIVE CIR",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 252A",
+  "title": "SEQ MACH & AUTO TH",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 260B",
+  "title": "PRIN QUANTUM ELECT",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 275A",
+  "title": "COMP PROGR DESN APP",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 275B",
+  "title": "COMP PROGR DESN APP",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EE",
+  "code": "EE 275C",
+  "title": "COMP PROGR DESN APP",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 2",
+  "title": "Introductory Biology II--Ecology and Evolution",
+  "units": "3",
+  "description": "Introduction to population and community ecology, and evolution.",
+  "prerequisites_raw": "MCDB 1A with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 2L",
+  "title": "Introductory Biology Laboratory II",
+  "units": "1",
+  "description": "Laboratory investigations illustrate basic principles of animal and plant physiology, ecology, and evolution.",
+  "prerequisites_raw": "MCDB 1A; concurrent enrollment in EEMB 2 and MCDB 1B.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 2LL",
+  "title": "Introductory Biology Laboratory II",
+  "units": "1.5",
+  "description": "Laboratory investigation s illustrate basis principles of ecology, evolution and biodiversity.",
+  "prerequisites_raw": "Grade of C- or better in EEMB 2 (maybe taken concurrently).",
+  "prerequisites_courses": [
+   "EEMB 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 2Z",
+  "title": "Selected Topics from EEMB 2",
+  "units": "1",
+  "description": "Designed for transfer students who have completed part of EEMB 2 through transfer work. Topics will be selected by the department, as appropriate, to fulfill the introductory biology requirement at UCSB.",
+  "prerequisites_raw": "Consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 3",
+  "title": "Introductory Biology III",
+  "units": "3",
+  "description": "Introduction to the major groups of microbes, plants, and animals.",
+  "prerequisites_raw": "MCDB 1A-B and EEMB 2 with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 3L",
+  "title": "Introductory Biology Laboratory III",
+  "units": "1",
+  "description": "The diversity of microbes, plants, and animals is examined using living and preserved materials.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B; and, concurrent enrollment in EEMB 3. Completion of MCDB 1BL or EEMB 2L with a grade of D- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3",
+   "MCDB 1BL",
+   "EEMB 2L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 3Z",
+  "title": "Selected Topics from EEMB 3",
+  "units": "0",
+  "description": "Designed for transfer students who have completed part of EEMB 3 through transfer work. Topics will be selected by the department, as appropriate, to fulfill the introductory biology requirement at UCSB.",
+  "prerequisites_raw": "Consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 4FS",
+  "title": "Freshman Seminar",
+  "units": "1",
+  "description": "Selected topics of special interest designed to display the broad diversityof the biological sciences. This course is strongly recommended for freshmen and/or prospective majors within the biological sciences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 7",
+  "title": "Principles of Evolution and Animal Physiology for Brain Sciences",
+  "units": "3",
+  "description": "Introduction to the principles of evolution and animal physiology. Topics in evolution include the evidence for evolution, the process of microevolution, macroevolution, and basic phylogeny. Topics in animal physiology include tissues and organ systems, neural control, sensory perception, endocrine control, structural support and movement, circulation, immunity, respiration, digestion, reproduction, and development. This course is designed for psychological and brain sciences majors.",
+  "prerequisites_raw": "MCDB 6 or MCDB 1A all with a grade of C- or better",
+  "prerequisites_courses": [
+   "MCDB 6",
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 10",
+  "title": "Applying Mathematics in the Life Sciences",
+  "units": "2",
+  "description": "This course for first-year Pre-Bio majors supplements MATH 2A, MATH 3A, and MATH 34A. Weekly course discussions apply calculus concepts to biological models of topics such as metabolism, population growth, and disease dynamics. Students are taught how to code and evaluate mathematical models and introduced to research in mathematical ecology and evolution.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 11",
+  "title": "Biology Mentoring and Engagement I",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. Focus is on developing scientific study skills and fostering the confidence and motivation involved in higher cognitive learning. Students will engage in peer mentoring activities, problem-solving exercises and relevant discussion promoting academic success.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1A or Chemistry 2A.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 12",
+  "title": "Biology Mentoring and Engagement II",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. Emphasis on developing critical thinking skills by utilizing interactive panel discussions ascertaining why biologists care about subjects like chemistry and math. Deliberation on biology news articles designed to get students thinking like scientists.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1B or 2B.",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 13",
+  "title": "Biology Mentoring and Engagement III",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. Active learning enhancement via topics exploring students' self-identifying themselves as scientists, conversation on careers within the sciences and health professions, and discussion regarding the research process in order spark motivation and questions.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1C or Chemistry 2C.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 2C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 14",
+  "title": "Biology Mentoring and Engagement IV",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. A laboratory course designed to be a research experience for undergraduate students where they learn to apply the scientific method, critical thinking and experimental design to test relevant hypotheses in molecular biology.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1C or Chemistry 2C.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 2C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 21",
+  "title": "General Botany",
+  "units": "4",
+  "description": "Unifying principles of biology, utilizing plants as exemplary material; correlation of structure and function; genetics, selection, and evolution; energy transformation; growth of populations and the relation of plants to man; conservation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 22",
+  "title": "Concepts and Controversies in the Biological Sciences",
+  "units": "4",
+  "description": "Introduction to the principles of evolution, physiology and ecology; emphasizing fundamental concepts and processes such as natural selection and speciation, photosynthesis and cellular respiration, animal and plant interactions, population dynamics, community structure, and biodiversity. Examines perspectives on currently relevant and biologically based topics such as evolution / scientific creationism, sociobiology, biotechnology, reproductive rights, pandemic disease, climate change, exobiology, and overpopulation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 23",
+  "title": "Human Development and Reproductive Physiology",
+  "units": "4",
+  "description": "Human development with emphasis on events occurring prior to parturition. Hormonal devices involved in human reproduction. Comments on senescence and carcinogenesis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 40",
+  "title": "Ecology of Infectious Disease",
+  "units": "4",
+  "description": "Uses topical examples of emerging and resurgent diseases to illustrate key principles in ecology and epidemiology. Examines how changing disease ecology influences disease prevalence and how such changing patterns of disease have influenced human history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 50",
+  "title": "Biology of Non-Infectious Disease",
+  "units": "4",
+  "description": "An overview of both the biology and the history of the major non-infectious diseases affecting humans. Diseases covered will include cancer, heart disease, and diabetes. An emphasis will be on changing patterns of disease.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 55",
+  "title": "Global Change Biology",
+  "units": "4",
+  "description": "A general overview of the physical science of environmental change but with an emphasis on living organisms, the ecosystems in which they live, and the biological consequences of a changing planet. The course will cover terrestrial and aquatic systems wtih special emphasis on ocean and critical marine ecosystems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 84",
+  "title": "Internship in Biological Sciences",
+  "units": "0",
+  "description": "Opportunity to obtain practical biological-related research experience by working under faculty direction as an intern with local, state, federal, or private agencies. A written report will be submitted for evaluation.",
+  "prerequisites_raw": "Lower-division standing; instructor and departmental approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 90",
+  "title": "EEMB Colloquium",
+  "units": "1",
+  "description": "Exposes students to current research in ecology, evolution, behavioral ecology, evolutionary ecology, physiological ecology, and marine biology, by eminent and nationally and internationally well-known biologists. Students attend the EEMB departmental seminar each week and participate in a discussion of the seminar research. Students complete a short weekly quiz regarding the content of each seminar presentation.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 90A",
+  "title": "Getting into the Environment: Introduction to Ecological Science and Careers",
+  "units": "2",
+  "description": "Part of a NSF funded grant focused on improving STEM at Hispanic Serving Institutes (HSIs), called FUERTE, the course supports students as they transition into college, helps them choose their major and direction of study at UCSB, and forms a learning community. It also serves as an introduction to the FUERTE program, presents logistical information regarding program scheduling and requirements, and introduces students to ecological research, and research methods and tools.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

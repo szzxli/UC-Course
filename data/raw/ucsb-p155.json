@@ -1,0 +1,293 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 103UD",
+  "title": "Transatlantic English Lit 1660-1789: The World Upside Down",
+  "units": "4",
+  "description": "We read, discuss, and write about Transatlantic literature in English, 1660-1789",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 104",
+  "title": "Literatures & Cultures, post-1900",
+  "units": "4-24",
+  "description": "Introduction to literatures and cultures from 1900 to the present day. A wide range of possible courses fall under this larger rubric. A full description of the particular iteration of the course in any given quarter will be available on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 104A",
+  "title": "American Literature from 1900 to Present",
+  "units": "4",
+  "description": "Introduction to American literature from 1900 to present. The organizing thread of this course and the selection of texts to be studied, vary from quarter to quarter. Consult the department's Course Description Booklet to see what will be taught in any particular quarter.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 104AS",
+  "title": "Seminar on American Literature from 1900 to Present",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 104A designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings, or more intensive study of English 104A reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 104A; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 104B",
+  "title": "British Literature from 1900 to Present",
+  "units": "4",
+  "description": "Introduction to British literature from 1900 to present. The organizing thread of this course and the selection of texts to be studied, vary from quarter to quarter. Consult the department's Course Description Booklet to see what will be taught in any particular quarter.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 104BS",
+  "title": "Seminar on British Literature from 1900 to Present",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 104B designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of English 104B reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 104B; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 104B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 104LC",
+  "title": "Literature, Culture, and Society: the 20th and 21st Century",
+  "units": "4",
+  "description": "Modern and postmodern literature by British, Irish, African, Indian, and Caribbean writers, who challenge the norms of power, culture, and gender as they found them. Key themes for the class: colonialism and primitivism, the formation of the Irish nation, new gender definitions and new sexualities, the city, technology and work, post-WWII youth cultures and new masculinities in England, British national identity at the time of the Cold War (James Bond as national icon), empire, decoloniality, and migration. Readings by Conrad, Chinua Achebe, Ngugi wa Thiongo, Yeats, Joyce, Virginia Woolf, Katherine Mansfield, Stevie Smith, Seamus Heaney, Chimamanda Ngozi Adichie, Angela Carter, Kazuo Ishiguro, Hanif Kureishi.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 105A",
+  "title": "Shakespeare, Poems and Earlier Plays",
+  "units": "4",
+  "description": "Major poems and plays of Shakespeare, 1593-1602, including such works as the Sonnets, Hamlet, A Midsummmer Night's Dream, Henry the Fourth, Twelfth Night.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 105AS",
+  "title": "Seminar on Shakespeare: Poems and Earlier Plays",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 105A designed to enrich the large lecture experience for the motivated student. Course includes either supplementary reading or more intensive study of the English 105A reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Consent of instructor; concurrent enrollment in English 105A.",
+  "prerequisites_courses": [
+   "ENGL 105A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 105B",
+  "title": "Shakespeare, Later Plays",
+  "units": "4",
+  "description": "Major works of Shakespeare from 1603-1613, including such plays as King Lear, Macbeth, Antony and Cleopatra, Othello, The Tempest.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 105BS",
+  "title": "Seminar on Shakespeare: Later Plays",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 105B designed to enrich the large lecture experience for the motivated student. Course includes either supplementary reading or more intensive study of the English 105B reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Consent of instructor; concurrent enrollment in English 105B.",
+  "prerequisites_courses": [
+   "ENGL 105B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 105C",
+  "title": "Shakespeare, Advanced Studies",
+  "units": "4",
+  "description": "Advanced study of Shakespeare topics.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 106",
+  "title": "Creative Writing",
+  "units": "4",
+  "description": "Writing in such forms as the short story, poetry, and fiction.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 106A",
+  "title": "Playwriting Workshop",
+  "units": "4",
+  "description": "An exploration of the essential components of playwriting. Exercises focus on writing dialogue, monologue, creating three-dimensional characters, building effective story structures, and developing action through language and stage images. A series of written assignments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 106B",
+  "title": "Advanced Playwriting Workshop",
+  "units": "4",
+  "description": "A continued exploration of the essential components of playwriting. Writing exercises in dialogue, monologue, character, story structure, action and stage images. Students focus on developing their individual writing voice. A series of written assignments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 106CW",
+  "title": "Catalyst Writing Collective",
+  "units": "4",
+  "description": "An introduction to techniques of creative writing, editing, design, presentation, and production, culminating in the quarterly publication of the English Department Literary and Arts magazine, The Catalyst. This class is a collaborative faculty-student seminar group featuring creative writing and design workshops, and facilitating the production of a dossier of creative work in both the literary and visual arts. Students who have taken the class at least once may apply during the spring quarter to be part of the editorial team for the following academic year. Contact the professor at https://catalyst.english.ucsb.edu/.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 107",
+  "title": "The Craft of Fiction",
+  "units": "4",
+  "description": "This course focuses on the essential elements of fiction writing. Students learn the basics of characterization, plotting, perspective, thematics, placement, and style. They will explore the power of oral, visual, and written narrative as an individual and communal act. What is at stake in creating a believable fictional world? How does fiction express the truth of reality? How do stories imagine and create new political and social worlds? Coursework involves a combination of written assignments, peer workshops, and public readings.",
+  "prerequisites_raw": "Writing 2, or 50, or 109, or English 10 or upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 107S",
+  "title": "Seminar in Fiction Writing",
+  "units": "4",
+  "description": "Advanced seminar in fiction writing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 108CC",
+  "title": "Creative-Critical Writing - A Creative Nonfiction Course",
+  "units": "4",
+  "description": "This course emphasizes the study and practice of writing that contains a public and private story, navigating an intimate and institutional world. Student writers will serve as public chroniclers whose subjective point of view and experience attempt to provide a truth greater/deeper than what the facts might offer. In-class and take-home writing exercises. Additional lab hours in the form of peer workshops may be required. Course culminates in public readings of students short selected works.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 108LP",
+  "title": "Latinx Performance - An Acting and Writing Workshop",
+  "units": "4",
+  "description": "This is a practicum course, where the basic tenets and evolving politic and philosophies of Latinx theater are examined through recorded and written performance texts, and direct actorly engagement with theatrical forms, including: social protest and agitprop, myth and ritual, scripting through improvisation, in-depth character and solo work, collective conceptualization and more. The course emphasizes Latinx performance works produced from the margins of the mainstream theater, which serve as a kind of dramatized political forum for Latinx artists, reflective of some of the most transgressive explorations of queer and national/ethnic identities in the U.S today. The course culminates in a public performance of students work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 108MG",
+  "title": "Mixed Genre Creative Writing",
+  "units": "4",
+  "description": "This course immerses students in African American approaches to the short story and creative autobiography. Selected authors include, but are not limited to, Langston Hughes, Ann Petry, Richard Wright, Audre Lorde, James Baldwin, Charles Mingus, and Toni Morrison. Students examine how different Black social movements conceptualized, defined, and thought about the role, function, and importance of writing. Students use these authors critical and creative work as a model for writing their own short story and creative autobiography.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 109",
+  "title": "The Craft of Poetry",
+  "units": "4",
+  "description": "Focuses on the essential elements of poetry writing. Students learn the basics of diction, figuration, meter, lineation, rhyme, rhythm, and voice. Students explore the power of oral and written verse as an individual and communal act. What is at stake in choosing to write poetry? How does poetry express the truth of reality? How do poems imagine and create new political and social worlds? Coursework involves a combination of written assignments, peer workshops, and public readings.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 109S",
+  "title": "Seminar in Verse Writing",
+  "units": "4",
+  "description": "Advanced seminar in verse writing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 110",
+  "title": "Methods of Literary Study",
+  "units": "4",
+  "description": "Advanced consideration of methods, techniques, and discipline of literary study. Further acquaints students with strategies of reading, contextualization, and a range of contemporary critical approaches. Topics and course content vary by term.",
+  "prerequisites_raw": "English 10.",
+  "prerequisites_courses": [
+   "ENGL 10"
+  ]
+ }
+]

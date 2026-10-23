@@ -1,0 +1,281 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB W",
+  "code": "EEMB W 22",
+  "title": "Concepts and Controversies in the Biological Sciences",
+  "units": "4",
+  "description": "Introduction to the principles of evolution, physiology and ecology; emphasizing fundamental concepts and processes such as natural selection and speciation, photosynthesis and cellular respiration, animal and plant interactions, population dynamics, community structure, and biodiversity. Examines perspectives on currently relevant and biologically based topics such as evolution / scientific creationism, sociobiology, biotechnology, reproductive rights, pandemic disease, climate change, exobiology, and overpopulation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB W",
+  "code": "EEMB W 146",
+  "title": "Biometry",
+  "units": "4",
+  "description": "Linear models and least squares fitting: simple and multiple linear regression; analysis of variance (fixed, random and mixed models; crossed and nested effects; balanced and unbalanced designs); analysis of covariance, factorial designs; incomplete layouts; use of transformations.",
+  "prerequisites_raw": "Mathematics 2A-B or 3A-B or 34A-B or 34LA-LB; and PSTAT 5A or PSTAT 5LS or PSTAT 109 or Math 4A or Psy 5; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "PSTAT 5A",
+   "PSTAT 5LS",
+   "PSTAT 109",
+   "MATH 4A",
+   "MATH 3A",
+   "MATH 34A",
+   "MATH 34LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 1A",
+  "title": "FIRST YR READ & COM",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 1B",
+  "title": "FIRST YR READ & COM",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 10",
+  "title": "Introduction to Literary Study",
+  "units": "5",
+  "description": "Acquaints students with purposes and tools of literary interpretation. Introduces techniques and vocabulary of analytic discussion and critical writing. Some emphasis on poetry with attention also to drama, essay, and the novel.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 10AC",
+  "title": "Introduction to Literary Study - Exploring American Cultures",
+  "units": "4",
+  "description": "Acquaints students with purposes and tools of literary interpretation. Introduces techniques and vocabulary of analytic discussion and critical writing. Emphasis is on American identities and global crisis. The class introduces students to the American Cultures and Global Contexts Center located within the English Department.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 10EM",
+  "title": "Introduction to Literary Study - Exploring Early Modern Studies",
+  "units": "4",
+  "description": "Acquaints students with purposes and tools of literary interpretation. Introduces techniques and vocabulary of analytic discussion and critical writing. Emphasis is on early modern studies. The class also introduces students to the Early Modern Center located within the English Department.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 10LC",
+  "title": "Introduction to Literary Study - Exploring Literature and the Culture of Information",
+  "units": "4",
+  "description": "Acquaints students with purposes and tools of literary interpretation. Introduces techniques and vocabulary of analytic discussion and critical writing. Emphasis is on literature and the culture of information. Introduces students to the Transcriptions Project located within the English Department.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 10S",
+  "title": "Seminar for Introduction to Literature",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 10 designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of the English 10 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 10; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 11",
+  "title": "Literature and its Uses",
+  "units": "4",
+  "description": "Introduces students to literary studys unique perspectives on social knowledge, public issues, ethics, and global developments. Special emphasis on how literary practice serves as a gateway to the professions, including writing, teaching, law, journalism, counseling, business, medicine, and technological fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 15",
+  "title": "Introduction to Shakespeare as Popular Culture",
+  "units": "5",
+  "description": "Shakespeare's plays are designed to entertain. They were written for the popular stage, and over the last four centuries they have been taken up in a variety of media for audiences all around the world. This course investigates Shakespeare's art in relation to the commercial theater for which he wrote and the popular culture of the modern world: film, theater, and radio, but also graphic novels, tv shows, and pop music. As we discuss these plays and their creative reworkings, we will touch on topics ranging from the politics of voice to the performance of mind and emotion, from the ethics of revenge to the fluidity of gendered identity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 15S",
+  "title": "Seminar on Shakespeare",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 15 designed to enrich the large lecture experience for the motivated student. Course includes either supplementary reading or more intensive study of the English 15 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 15; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 15SH",
+  "title": "Shakespeare as Popular Culture",
+  "units": "4",
+  "description": "Shakespeare's plays are designed to entertain. They were written for the popular stage, and over the last four centuries they have been taken up in a variety of media for audiences all around the world. This course investigates Shakespeare's art in relation to the commercial theater for which he wrote and the popular culture of the modern world: film, theater, and radio, but also graphic novels, tv shows, and pop music. As we discuss these plays and their creative reworkings, we will touch on topics ranging from the politics of voice to the performance of mind and emotion, from the ethics of revenge to the fluidity of gendered identity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 18",
+  "title": "Public Speaking",
+  "units": "5",
+  "description": "Practical and historical introduction to public speaking in context (e.g., legal, political, professional). Focuses on critical rhetorical analysis of speeches. Students write and deliver original speeches while offering feedback on those of their peers. Students also write an analytical essay.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 22",
+  "title": "Introduction to Literature and the Environment",
+  "units": "4",
+  "description": "Beginning with The Epic of Gilgamesh, one of the Wests earliest texts, this course surveys nearly 5000 years of literature in order to explore the literary history of the relationship we have with our planet, as well as to better understand our current environmental beliefs.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 22S",
+  "title": "Seminar on Literature and the Environment",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 22 designed to enrich the large lecture experience for the motivated student. Course includes either supplementary reading or more intensive study of the English 22 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 22; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 22"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 23",
+  "title": "The Climate Crisis: What It Is And What Each of Us Can Do About It",
+  "units": "4",
+  "description": "Employing a cultural approach, this course explores why our climate is changing and what each of us can do about it. Considers issues such as housing, transportation, diet, consumer products, as well as different forms of climate activism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 23S",
+  "title": "Seminar on the Climate Crisis",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 23 designed to enrich the large lecture experience for the motivated student. Course includes either supplementary reading or more intensive study of the English 23 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 24",
+  "title": "The Climate Crisis: Local and Global Perspectives",
+  "units": "4",
+  "description": "Designed to introduce students to a variety of perspectives on the climate crisis. It is an unusual course, as more than twenty scholars and activists will speak to the class about a host of issues related to the climate crisis. These range from Bill McKibben, whom the Boston Globe called probably the nation's leading environmentalist, to UCSB students who are dedicated climate activists. There are also be weekly readings and documentaries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 24G",
+  "title": "Ghosts of the Gothic",
+  "units": "4",
+  "description": "Reading short fiction: the tale, ghost story, and even Freud's case studies, \"Ghosts of the Gothic\" maps the popular narrative obsession with the unknown in works by Austen, James, Poe, Chesnutt, and others.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 24GS",
+  "title": "Seminar on Ghosts of the Gothic",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 24G designed to enrich the large lecture experience for the motivated student. Course includes either supplementary reading or more intensive study of the English 24G reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 24G; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 24G"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 24S",
+  "title": "Seminar on The Climate Crisis",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 24 designed to enrich the large lecture experience for the motivated student. The course includes either supplementary reading or more intensive study of the English 24 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 24; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 24"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 25",
+  "title": "Literature and the Information, Media, and Communication Revolutions",
+  "units": "5",
+  "description": "How have language, reading, and literature responded to revolutions in media, communication, and information technology? This course introduces the history and theory of the major changes in human discourse that have led up to our current information age. Readings in literary and artistic works exemplify the creative artist's response to these changes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 25S",
+  "title": "Seminar on Literature and the Culture of Information",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 25 designed to enrich the large lecture experience for the motivated student. Course includes either supplementary reading or more intensive study of the English 25 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in English 25; consent of instructor.",
+  "prerequisites_courses": [
+   "ENGL 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 30",
+  "title": "Introduction to American Literature",
+  "units": "4",
+  "description": "Introduction to major works and themes of American literature designed for lower-division students and non-majors. Topics vary from one quarter to another.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

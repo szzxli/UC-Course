@@ -1,0 +1,304 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189SS",
+  "title": "Software and Society",
+  "units": "4",
+  "description": "If “data is the new oil”—a phrase often championed by venture capitalists, Big Tech advocates, and engineers—then software might be likened to refineries that transform raw data into commodities, video games, and social media platforms. But what exactly is software, and how does it interact with social, political, and cultural forces? This course explores these questions by tracing software's history from the mid-20th century to today’s Artificial Intelligence systems. We will examine primary and secondary sources to understand software’s role in everything from surveillance and warfare to art and finance. Our central goal will be to develop our understanding of how, as one popular commentary puts it, “software is eating the world.”",
+  "prerequisites_raw": "Film and Media Studies 46 or 70",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 70"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189SW",
+  "title": "Topics in Contemporary Media Theory: Sounding the World",
+  "units": "4",
+  "description": "Explores theories, technologies, and practices of sound making and reception, particularly as ways of knowing built and natural environments and multispecies relationships. Introduces work in sound studies, science and technology studies, animal studies, and media art.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189TF",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, and Wollen.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189TM",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189TT",
+  "title": "Topics in Contemporary Media Theory: Taps & Traps: Surveillance, Observation, Capture",
+  "units": "4",
+  "description": "Examines the relationships between media, spectacle, and surveillance, moving from discourses of visual power and control in classic surveillance theory, to contemporary heuristics for understanding the digital era of data collection and tracking technologies. In the context of such technological developments, the class moreover urges students to think about the uneven operations of surveillance in relation to race, gender, economic status, power, and empowerment.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189TV",
+  "title": "Television Studies - Technologies, Theories, and Methods",
+  "units": "4",
+  "description": "This advanced seminar functions as an intro to TV Studies thru an analysis of the key developments, formats, genres, &infrastructures of the televisual medium. As a medium w/ continually shifting meanings&in relation to an ever-changing landscape of technologies, examining TV in a global context offers a chance to think thru the cultural, political, aesthetic, &technological structures which function on the level of region&intersect w/ transnational &global media trends. Drawing from infrastructural studies, globalization studies, cultural studies,&media industry approaches, this class will provide a critical examination of the history &structures of TV, as well as the discipline of TV Studies thru an interdisciplinary&intersectional lens",
+  "prerequisites_raw": "Film and Media Studies 46 or 70",
+  "prerequisites_courses": [
+   "FAMST 46",
+   "FAMST 70"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189TW",
+  "title": "Topics in Contemporary Media Theory: The Wire: TV in Focus",
+  "units": "4",
+  "description": "Examines HBOs crime drama television series, The Wire (2002-2008). Discusses the series through critical, historical, and theoretical approaches from fields like urban studies and television studies. Students work on projects related to city media of their choice.",
+  "prerequisites_raw": "Film and Media Studies 96",
+  "prerequisites_courses": [
+   "FAMST 96"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189VT",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 146 and 192 and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 192"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 189XX",
+  "title": "Topics in Contemporary Media Theory",
+  "units": "4",
+  "description": "Topics vary each year and may include such problems as the relation of film and other media to structuralism, semiotics, metaphor/metonymy, point of view, and the writings of Burch, Barthes, Metz, Heath, Bordwell, Willemen, Wollen.",
+  "prerequisites_raw": "Film Studies 146 and 192 and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 192"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190AD",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190AW",
+  "title": "Studies in Film, Media and the Other Arts: Anti-War Media",
+  "units": "4",
+  "description": "In this seminar, we focus on global and local oppositional media and crafts practices that seek to prevent, stop, and undermine the death-making of war, offering ways to sustain life for civilians, heal the survivors, and commemorate the dead: From memoirs and photographs to zines and social media, from carpets and cooking recipes to apps and video games. By Interrogating warfare through anti-war media, we closely engage with the ethics of witnessing, limits of representation, and militarization of everyday life. Simultaneously, by studying media through anti-war frameworks we consider less-discussed aspects, kinds, and practices of media such as failure and repair, handmade and low-tech, and tactical and communal.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190CC",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190DA",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190DT",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190FT",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190IS",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190PC",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190SC",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190SE",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing; and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190ST",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190TN",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190TS",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190TV",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190VA",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ }
+]
