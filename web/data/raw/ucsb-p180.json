@@ -1,0 +1,255 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 140",
+  "title": "Ecology and Management of Wildland Fire",
+  "units": "4",
+  "description": "Investigates the causes and consequences of wildland fire across scales including influences on soils, plants, animals, streams, air quality, and homes. It considers how fire regimes are changing, the interaction of fire and climate and the interaction of human societies, management and fire events and regime shifts. Participation in two weekend field trips is required.",
+  "prerequisites_raw": "Upper-division standing and Environmental Studies 2 or 60 or EEMB 2.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "EEMB 2",
+   "ENV S 60"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 141",
+  "title": "Chemistry of Global Change",
+  "units": "4",
+  "description": "Examines the fate of fossil fuel carbon dioxide within the context of the global carbon cycle. Addresses questions such as: Which reservoirs have adsorbed the emitted fossil fuel carbon dioxide? Why has so little of the emitted carbon dioxide entered the ocean? Why and how will the ocean chemistry change? What are the expected effects on the marine ecosystem? Includes a term paper, problem sets, and in-class exams.",
+  "prerequisites_raw": "Chemistry 1B and Math 2B or 3B or Math 34B or Environmental Studies 25.",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "MATH 2B",
+   "MATH 34B",
+   "ENV S 25",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 142",
+  "title": "Microbes and the Human Environment",
+  "units": "4",
+  "description": "The Earth is a microbial planet. Most life on earth is microbial: bacteria, fungi, single-celled algae. Microbes control the climate and drive ecosystems. They also control human society: disease, enabling agriculture, and producing valued materials. Course will involve modules exploring how microorganisms influence the human environment: Microbes in the Earth System, Agriculture, Industry, and Disease. In each module, we will explore important current news stories and develop some of the essential background science.",
+  "prerequisites_raw": "Chemistry 1A or Environmental Studies 15A; and Environmental Studies 60 or MCDB 20 or EEMB 22 or EEMB 2.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "ENV S 15A",
+   "ENV S 60",
+   "MCDB 20",
+   "EEMB 22",
+   "EEMB 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 143",
+  "title": "Endangered Species Management",
+  "units": "4",
+  "description": "Examination of the protection and management of endangered species through analysis of the state and federal endangered species acts. Topics include biodiversity, speciation and extinction rates, the history of endangered species legislation, and selected species' case studies.",
+  "prerequisites_raw": "Environmental Studies 2 and 1 or 3.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "ENV S 1",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 144",
+  "title": "Form, Process And Human Use Of Rivers",
+  "units": "4",
+  "description": "Basic understanding of fluvial (river) hydrology. In-depth evaluation of channel form and fluvial processes and impact of human use of rivers.",
+  "prerequisites_raw": "Mathematics 2A-2B or 3A-3B or 34A-B.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 2B",
+   "MATH 3A",
+   "MATH 3B",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 145",
+  "title": "Climate Change Mitigation Strategies",
+  "units": "4",
+  "description": "An introduction to cross-sector strategies that reduce GHG emissions and sequester carbon by comparing their climate change mitigation potential, challenges in implementation, costs, and co-benefits. Provides the analytical tools and frameworks for estimating costs and socio-environmental tradeoffs that can be used to design or evaluate portfolios of climate change mitigation strategies.",
+  "prerequisites_raw": "Upper-division Standing, Environmental Studies 2, and either Math 2B, 3B, 34B or Math 34A and Environmental Studies 25.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "MATH 2B",
+   "MATH 34A",
+   "ENV S 25",
+   "MATH 3B",
+   "MATH 34B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 146",
+  "title": "Animals in Human Society: Ethical Issues of Animal Use",
+  "units": "4",
+  "description": "An exploration of the ethical issues which arise when humans interact with other animals, and an examination of conflicting attitudes toward the valueof animal life in such specific areas as food production, recreational activities, research and environmental protection.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 147",
+  "title": "Air Quality and the Environment",
+  "units": "4",
+  "description": "Types, sources, effects, and control of air pollution. Topics include gaseous pollutants particulates, toxic contaminants, atmospheric dispersion, photochemical smog, acid rain control measures, the clean air act and regulatory trends, indoor air.",
+  "prerequisites_raw": "Mathematics 2A or 3A or 34A or Environmental Studies 25; and, Chemistry 1A and 1B, or Environmental Studies 15A and 15B.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "ENV S 25",
+   "CHEM 1A",
+   "ENV S 15A",
+   "MATH 3A",
+   "MATH 34A",
+   "CHEM 1B",
+   "ENV S 15B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 148",
+  "title": "Transforming Food Systems",
+  "units": "4",
+  "description": "In this intensive field seminar, we learn directly from the people and organizations on the frontlines of cultivating more just and sustainable food systems in California and the United States. Designed for students exploring a career or significant civic engagement in the food system, and introduces students to the diverse sectors and approaches in this dynamic field.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 149",
+  "title": "Food, Agriculture, and the Environment",
+  "units": "4",
+  "description": "Our global food system is in crisis. Responsible for approximately a third of global greenhouse gas emissions, it leaves over a quarter of the worlds people suffering from moderate or severe food insecurity. Yet the food system also holds some of the most promising opportunities for just transition to a more sustainable and equitable society. This survey course introduces the history and structure of the global food system, pressing current challenges, and exciting potential solutions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 150",
+  "title": "Agroecology",
+  "units": "4",
+  "description": "Agroecology is a scientific discipline rooted in indigenous land stewardship and food production practices. It uses traditional ecological knowledge and insights from multiple academic disciplines to design, manage, and evaluate agricultural systems that are productive and also resource conserving, community building, and resilient in the face of climate change. This introductory agroecology course includes a field component in which students gain hands-on experience with ecological food production.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 151",
+  "title": "Environmental Anthropology",
+  "units": "4",
+  "description": "Examines the ways that humans interact with, use, and perceive the environment and nature, with a focus on the cultural, political, and economic features of human environment relationships across time and in different parts of the world. Through readings, in-class activities and discussions, field trips, and research projects, students will gain a better understanding of how anthropological theory, research, and applications can be used to address contemporary environment topics and problems.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ANTH 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 152",
+  "title": "Applied Marine Ecology",
+  "units": "5",
+  "description": "Introduction to the application of ecological principles and methods to environmental problems in marine habitats. Focus on problems that are local, regional, and global in scale. Concepts illustrated with case studies.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 153",
+  "title": "Ecosystem Change In The Anthropocene",
+  "units": "4",
+  "description": "Humans are dramatically reshaping Earth's ecosystems at an unprecedented rate. This solutions-oriented course delves into the complex drivers of ecosystem change and explores a diversity of strategies to mitigate biodiversity loss. Students will immerse themselves in ecological theories of ecosystem change, discover how scientists evaluate and measure change, and explore local ecosystem change through a group project. This course equips students with critical ecological insights and practical experience, empowering them to make meaningful contributions towards addressing today's biodiversity and climate crises.",
+  "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently) and Environmental Studies 2 or 60 or EEMB 2.",
+  "prerequisites_courses": [
+   "ENV S 40",
+   "ENV S 2",
+   "EEMB 2",
+   "ENV S 60"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 154",
+  "title": "Geographic Information Systems (GIS) for Environmental Applications",
+  "units": "4",
+  "description": "Explores how Geographic Information Systems (GIS) can help environmental researchers and professionals analyze and communicate the spatial patterns underpinning a wide variety of environmental concerns. Introduces students to the basic theory and application of GIS through hands-on application of the technology to environmental questions.",
+  "prerequisites_raw": "Environmental Studies 2 or Geography 4 or Earth Sciences 2; and either Environmental Studies 1 or 3.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "GEOG 4",
+   "ENV S 1",
+   "GEOG 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 155",
+  "title": "The Built World: Infrastructure and Environmental Change",
+  "units": "4",
+  "description": "Introduces students to the built environment from a global perspective and explores the ways in which infrastructural arrangements are shaped by politics, technologies, ecologies, and ideas. Case studies include hydroelectric dams, nuclear power plants, pipelines, electrical grids, undersea cables, roads, bridges, canals, seawalls, and more. Students build on course concepts to research possibilities for ecologically adaptive and resilient cities in the age of climate change.",
+  "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "ENV S 40"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 156",
+  "title": "Pathways to Sustainable Water Infrastructure",
+  "units": "4",
+  "description": "Dams, reservoirs, and other large water infrastructure play a critical role in meeting human water needs and generating hydropower. However, they also profoundly reshape river systems, disrupt ecosystems, and impact human communities—often with disproportionate effects on marginalized groups. This course takes a holistic look at the benefits and challenges of water infrastructure through case studies of major river basins. We explore quantitative methods for assessing environmental, social, and cultural impacts, and approaches for balancing development with sustainability. Students analyze the legacy of past infrastructure projects and consider pathways for more sustainable water infrastructure paradigms in the future.",
+  "prerequisites_raw": "Environmental Studies 2; Environmental Studies 40 (may be taken concurrently); Mathematics 2B, or 3B, or 34B, or Mathematics 34A and Environmental Studies 25.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "ENV S 40",
+   "MATH 2B",
+   "MATH 34A",
+   "ENV S 25",
+   "MATH 3B",
+   "MATH 34B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 159",
+  "title": "America's Public Lands and Waters - Law and Policy",
+  "units": "4",
+  "description": "Explores the policies, history, law, science and ethics of public lands and waters at the national, state and local levels, including the examination of past, current and future problems and solutions. Readings, interactive class lectures, guest speakers, and writing assignments study how our vast and significant public lands and waters are managed, created, modified, celebrated, and threatened.",
+  "prerequisites_raw": "Upper-division Standing is required.",
+  "prerequisites_courses": []
+ }
+]

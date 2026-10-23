@@ -1,0 +1,402 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 190",
+  "title": "EEMB Colloquium",
+  "units": "1",
+  "description": "Exposes students to current research topics in ecology and evolutionary biology. Students will attend the EEMB departmental seminar each week and participate in a discussion of the seminar research, critiquing the presentation and the content, and drawing parallels with topics from other courses. Students will write a term paper describing and critiquing one seminar.",
+  "prerequisites_raw": "Consent of Instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 192",
+  "title": "Special Topics in Biological Sciences",
+  "units": "0",
+  "description": "Special topics of current importance in biological sciences. Course contentwill vary. Information may be obtained from the department office.",
+  "prerequisites_raw": "Upper-division standing in EEMB or MCDB and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194",
+  "title": "Group Studies for Advanced Students",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194AA",
+  "title": "Evolutionary Ecology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194AL",
+  "title": "Energetics of Animal Locomotion",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194B",
+  "title": "Manipulating Reproduction",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194BC",
+  "title": "Advanced Community Ecology",
+  "units": "2",
+  "description": "Readings and discussions of contemporary topics in community ecology",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194BD",
+  "title": "Special topics in Microbial Ecology & Physiology",
+  "units": "2",
+  "description": "In depth study of physiology and ecology of microorganisms with a focus on bacteria and archaea. Source material will be a mixture of graduate-level texts, review articles and primary literature. Weekly meetings will be interactive and student-led. Our focus will be on fundamental processes in the metabolism and interactions of microbes (from foundational knowledge to recent discoveries), but we will also analyze the methods used to study these processes in diverse natural ecosystems (e.g. sequencing, bioinformatics, microscopy, stable isotopes).",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194BN",
+  "title": "Behavioral Neurobiology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194C",
+  "title": "Systematics",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194CA",
+  "title": "Construction and Analysis of Ecological Models",
+  "units": "2",
+  "description": "Students will design, construct, code, and analyze novel ecological models.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194CB",
+  "title": "Conservation Biology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194CE",
+  "title": "Community Ecology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194CM",
+  "title": "Trends in Climate Change Mitigation",
+  "units": "2",
+  "description": "A critical review of research in carbon dioxide removal with a focus on the marine environment.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194CO",
+  "title": "Collection-Based Research: Principles and Practices in Biodiversity Science",
+  "units": "2",
+  "description": "Explores the use of biological collections—such as herbaria, vertebrate and invertebrate museums, and paleontological —in biodiversity research. Globally, biological collections house around 3 billion specimens that provide historical and geographic context that can enhance studies in ecology and evolution. Topics include emerging specimen-based research methods (e.g., CT scanning, isotopes, ancient DNA, machine learning), and practical consideration in specimen uses (e.g., permits and regulations, destructive sampling, data curation). Students will gain practical skills for accessing, analyzing, and contributing to collections-based science using both traditional and emerging techniques.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194D",
+  "title": "Plant Ecology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194DD",
+  "title": "Endocrinology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194DL",
+  "title": "Contemporary Approaches to Marine Biology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194EE",
+  "title": "Symbiosis",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194EG",
+  "title": "Evolutionary Genetics",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194EN",
+  "title": "Environmental Endocrinology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194ET",
+  "title": "Ecological Toxicology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194EV",
+  "title": "Evolutionary Biology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194FF",
+  "title": "Photosynthesis",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194GC",
+  "title": "Global Change and Ecology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194GE",
+  "title": "Topics in Genomics and Epigenomics",
+  "units": "2",
+  "description": "This course will provide knowledge on the field of genomics and epigenetics, with implications on many areas of molecular, cell and developmental biology.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194GG",
+  "title": "Evolutionary Morphology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194H",
+  "title": "Group Studies for Advanced Students",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194J",
+  "title": "Evolutionary and Behavioral Ecology of Vertibrates",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194M",
+  "title": "Reproductive Ecology and Evolution",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194ME",
+  "title": "Marine Community Ecology",
+  "units": "2",
+  "description": "This seminar covers new and emerging topics in marine community ecology. Students read and discuss scientific literature, collaborate on data analyses, and give scientific presentations.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194MF",
+  "title": "Group Studies for Advanced Students",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194MM",
+  "title": "Marine Microbiology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194MR",
+  "title": "Metabolic Regulation",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194MS",
+  "title": "Group Studies for Advanced Students",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194NV",
+  "title": "Natural Variation",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194O",
+  "title": "Ecological Genetics",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194P",
+  "title": "Population Ecology",
+  "units": "2",
+  "description": "Review of research in population ecology",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194PE",
+  "title": "Plant Evolution & Genomics",
+  "units": "2",
+  "description": "Course provides an overview of fundamental concepts in evolution and genomics and discussion of recent works on these subjects. Topics include population genetic structure, genetic diversity, adaptation, genetic causes of adaptation, genome evolution, conservation genomics and landscape genetics.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194Q",
+  "title": "Aquatic Biology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

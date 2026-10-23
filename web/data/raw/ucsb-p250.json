@@ -1,0 +1,266 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 17HC",
+  "title": "The American People-Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (17HC) in addition to four units for HIST 17C, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 17C; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 20",
+  "title": "Science and the Modern World",
+  "units": "5",
+  "description": "Explores how science, technology and/or medicine have helped shape modern societies (roughly 1850-present). Themes include formation of scientific and technical communities, the interactions of science with political and popular culture, and the social context of knowledge production.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 20H",
+  "title": "Science and the Modern World - Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (20H) in addition to four units for HIST 20, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 20; honors standing.",
+  "prerequisites_courses": [
+   "HIST 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 22",
+  "title": "Technology and the Modern World",
+  "units": "5",
+  "description": "As much as religion or politics, technology has played a central, yet often overlooked role, in the shaping of the modern world. This lower-division undergraduate course presents a social history of technology from roughly the 17th century to the early 21st century. This course is based around a framework of the individuals, issues, and ideas that shaped the development of different technologies and the ways these interacted with one another across time, space, and peoples. In studying this history, we do not accept technology uncritically. Rather, we learn how its use has acted as a powerful force in modern society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 25",
+  "title": "Violence and the Japanese State",
+  "units": "5",
+  "description": "Examines historiographically and sociologically the Japanese State's various engagements in violent acts during war and peace times.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 26",
+  "title": "Sex, Science, and Society: A Global History",
+  "units": "5",
+  "description": "Survey of the relationship between sex, science, and society in the history of the modern world. Emphasis on the development of scientific ideas about the human body against broader social, cultural, and political trends and from a global viewpoint.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 28",
+  "title": "Gandhi: Nonviolence, Resistance, Truth",
+  "units": "5",
+  "description": "Gandhi: revolutionary, politician, thinker. And saint? Studies the ideas and acts of the man credited with liberating India from colonial rule through nonviolent resistance. Controversial throughout his life, Gandhi continues to be fought over in India today. Emphases include: his religious persona; his intellectual contexts, both Indian and Western; nonviolence in theory and practice; Gandhis legacy to social justice movements in this country; and criticism from different angles. There will be movies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 46A",
+  "title": "The Middle East from Muhammad to the Nineteenth Century",
+  "units": "5",
+  "description": "Introduces students to the history of the Middle East from the rise of Islam until the nineteenth-century Ottoman reforms known as the Tanzimat. Subjects covered include the early caliphates, the influence of Turkic and Mongolian peoples on the region, the Crusades and jihad, the Ottoman and Safavid dynasties, and the interactions between people of different cultural and religious backgrounds in the region.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 46B",
+  "title": "The Middle East: From the Nineteenth Century to the Present",
+  "units": "5",
+  "description": "A general introduction to the history, politics, culture, and social life of the modern Middle East. Begins with the nineteenth century Ottoman reforms known as the Tanzimat and moves on to cover capitalist consolidation, the rise of European colonialism, the state-building process, social movements, Cold War politics, and the growth of the oil industry. Pays particular attention to how twentieth century transformations shaped new modes of identification including nationalism and citizenship, feminism, sectarianism, pan-Arabism, Third Worldism, Islamism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 46MI",
+  "title": "Modern Iran and Global Politics",
+  "units": "5",
+  "description": "Modern Iranian history from the 1906 Constitutional Revolution to the 1979 Islamic Revolution and the post-revolutionary years. Shi'i Islam, the rise of nationalism, the quest for modernization, democracy and authoritarianism, and imperialism and politics of oil.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 49A",
+  "title": "Survey of African History",
+  "units": "5",
+  "description": "Prehistory to c. 1800. History 49-A- B-C is a general survey course designed to introduce students to major themes in African history. The course focuses on organization of production, state formation, African civilizations and identities, science and technology, beliefs and knowledge systems, Africas interaction with the world economy, such as through enslavement and slave trades. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during lecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 49AH",
+  "title": "Survey of African History - Honors",
+  "units": "1",
+  "description": "Students receive 1 unit for the honors seminar for a total of 5 units of credit for History 49A.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 49B",
+  "title": "Survey of African History",
+  "units": "5",
+  "description": "1800 - 1945. History 49-A-B-C is a general survey course designed to introduce students to major themes in African history. The course focuses on African civilizations and identities, European colonial conquests, governance and colonial economies, African resistance and engagement with global capitalism. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during lecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 49BH",
+  "title": "Survey of African History - Honors",
+  "units": "1",
+  "description": "Students receive 1 unit for the honors seminar for a total of 5 units of credit for History 49B.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 49C",
+  "title": "Survey of African History",
+  "units": "5",
+  "description": "1945 to present. History 49-A- B-C is a general survey course designed to introduce students to major themes in African history. The course focuses on colonialism and decolonization, nationalism and self-liberation, development and neocolonialism, Cold War contexts, as well as African experiences of independence and the everyday in our contemporary, global world. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during lecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 56",
+  "title": "Introduction to Mexican History",
+  "units": "5",
+  "description": "An introduction to the basic issues and themes of Mexican history, from the pre-Hispanic era to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 74",
+  "title": "Poverty, Inequality and Social Justice in Historical and Global Context",
+  "units": "5",
+  "description": "Historical and interdisciplinary perspectives on poverty and inequality globally and in the U.S., tracing structural transformations, shifting modes of thought, policy, and action, dynamics of class, racial, gender, ethnic and geographic stratification, and major theoretical debates from antiquity through the present. Course features guest lectures to introduce students to varied conceptual and methodological approaches to studying poverty and inequality, and draws on readings, discussion, writing, and related assignments to explore issues within a social justice framework.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 80",
+  "title": "Chinese Civilization",
+  "units": "5",
+  "description": "A survey of the history of Chinese civilization from 2,000 BCE to the present, focusing on the origins and later development of political, social, economic, philosophical, religious, and cultural traditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 87",
+  "title": "Japanese History Through Art and Literature",
+  "units": "5",
+  "description": "A basic introduction to the history of Japanese culture from its origins to the present day, with particular emphasis on the evidence of architecture and painting (presented through audiovisual modules). Selectedexamples of fiction and poetry will also be used.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 88",
+  "title": "Survey of South Asian History",
+  "units": "5",
+  "description": "An introduction to the history of the South Asian subcontinent, with emphasis on the period from 1500 CE to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member. Exceptional students are offered an opportunity to undertake independent or collaborative research or to act as interns for faculty-directed research projects.",
+  "prerequisites_raw": "Consent of department and instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 100",
+  "title": "Introduction to Latin American and Iberian Studies",
+  "units": "4",
+  "description": "Designed to acquaint students with current research on the main areas of Latin American and Iberian Studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 100H",
+  "title": "Historical Writing",
+  "units": "4",
+  "description": "An intermediate level honors seminar in which students read and critique major primary and secondary works from a variety of periods and regions.",
+  "prerequisites_raw": "Honors Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 101",
+  "title": "Historical Fiction",
+  "units": "4",
+  "description": "Examines the relationship between history and fiction through a close reading of a number of historical novels (such as those of Herman Wouk) and viewing a number of historical dramas (such as Amistad or Gandhi).",
+  "prerequisites_raw": "Previous Course in History",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 101D",
+  "title": "Dreaming in Cultural Context",
+  "units": "4",
+  "description": "Explores dreams and dreaming in multiple historical and cultural contexts and pays particular attention to dreams and dream reports as unconscious and intra-psychic as well as social and cultural communications. A variety of historical, ethnographic, psychoanalytic, and literary texts are considered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 101G",
+  "title": "Comparative Histories of Same-Sex Practices and Gender Variance",
+  "units": "4",
+  "description": "Exploration of same-sex intimacies and gender variance in ancient Greek, pre-modern Oceania, medieval Europe, Tokugawa Japan, modern Africa, and North America. Introduction to the theoretical questions in the study of sexuality and how scholars have used these tools.",
+  "prerequisites_raw": "Previous Course in History or Upper Division Standing",
+  "prerequisites_courses": []
+ }
+]

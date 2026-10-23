@@ -1,0 +1,295 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 150",
+  "title": "Human Genetics",
+  "units": "4",
+  "description": "Introduction to basic principles of genetics and genomics in human evolution. Topics covered include molecular evolution, population genetics, comparative genomics, epigenetics, gene-culture interactions and relevant social and ethical issues.",
+  "prerequisites_raw": "ANTH 5 or ANTH 7, ANTH 9 or equivalent.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 7",
+   "ANTH 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 150B",
+  "title": "Archaeology of Andean Civilizations",
+  "units": "4",
+  "description": "A survey of the prehistory of Andean South America beginning with complex cultures of the Initial Period and ending with an overview of the Inca Empire. Major cultures include Chavin, Nasca, Moche, Wari and Tiwanaku.",
+  "prerequisites_raw": "Anthropology 3; not open to freshmen.",
+  "prerequisites_courses": [
+   "ANTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 150C",
+  "title": "The Inca Empire",
+  "units": "4",
+  "description": "An in-depth study of the fabled Inca Empire of South America, including archaeological and historical sources. Topics include Inca origins, political organization, economy, and social structure.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 151T",
+  "title": "Evolutionary Psychology",
+  "units": "4",
+  "description": "Surveys evolutionary psychology, examining traditional psychological topics through Darwinian lenses. Traditional psychology answers mechanistic questions about how perception, emotion, cognition, development and social interactions work. Evolutionary psychology addresses the complementary functional question of why they work the way they do.",
+  "prerequisites_raw": "Anthropology 5 or Psychology 1.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 152",
+  "title": "Environmental Anthropology",
+  "units": "4",
+  "description": "Examines the ways that humans interact with, use, and perceive the environment and nature, with a focus on the cultural, political, and economic features of human environment relationships across time and in different parts of the world. Through readings, in-class activities and discussions, field trips, and research projects, students will gain a better understanding of how anthropological theory, research, and applications can be used to address contemporary environment topics and problems.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ANTH 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 153",
+  "title": "Seminar on Primate and Human Sexual Behavior",
+  "units": "4",
+  "description": "A critical examination of the nature and determinants of human sexuality, emphasizing evolutionary and cross-cultural approaches.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 153S",
+  "title": "The Evolution of Human Sexuality",
+  "units": "4",
+  "description": "Exploration of the psychological mechanism--adaptations--that underpin human sexual feeling, thought, and action. Emphasis on male-female differences, \"engineering\" analyses, the comparative method as sources of information about adaptive design. Includes study of sexual arousal, attractiveness, jealousy, and competition.",
+  "prerequisites_raw": "Anthropology 5",
+  "prerequisites_courses": [
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 153T",
+  "title": "Primate Behavior",
+  "units": "4",
+  "description": "An introduction to primatology and the principles of behavioral ecology using langur, vervet, macaque, baboon, gorilla, and chimpanzee field studies to illustrate theories of foraging, parenting, kinship, sexual selection, incest avoidance, aggression, and dominance. Concludes with applications to human evolution.",
+  "prerequisites_raw": "Anthropology 5 or 7; not open to freshmen.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 155",
+  "title": "Prehistory of California and the Great Basin",
+  "units": "4",
+  "description": "A survey of the prehistory of California and the Great Basin, which includes principally the states of Nevada and Utah. Consideration is also given to how archaeologists construct regional cultural developments and attempt to explain prehistoric cultural change.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 156",
+  "title": "The Anthropology of Africa",
+  "units": "4",
+  "description": "This course offers an overview of the anthropological studies of people on the African continent. Drawing from case studies in archaeology, historical linguistics, ethnography, biological anthropology and medical anthropology, this course documents a sea change from Africa under the gaze of the West, to Africa as examined and defined by African peoples from their own diverse and varied perspectives.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 157",
+  "title": "Ethnographic Field Methods",
+  "units": "4",
+  "description": "Introduction to skills and tools of data collection through fieldwork in cultural anthropology. Emphasis on techniques, methods, and concepts of ethnographic research and how basic observational information is systematized for presentation, analysis, and cross-cultural comparison.",
+  "prerequisites_raw": "Anthropology 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 157ES",
+  "title": "Ethnographic Field Methods",
+  "units": "4",
+  "description": "Introduction to skills and tools of data collection through fieldwork in cultural anthropology. Emphasis on techniques, methods, and concepts of ethnographic research and how basic observational information is systematized for presentation, analysis, and cross-cultural comparison.",
+  "prerequisites_raw": "Anthropology 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 157FS",
+  "title": "Ethnographic Field Methods",
+  "units": "4",
+  "description": "Introduction to skills and tools of data collection through fieldwork in cultural anthropology. Emphasis on techniques, methods, and concepts of ethnographic research and how basic observational information is systematized for presentation, analysis, and cross-cultural comparison.",
+  "prerequisites_raw": "Anthropology 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 159",
+  "title": "Anthropology of War",
+  "units": "4",
+  "description": "Examines the concepts and experiences that cohere around warfare and weaponized conflict. Investigates the modern shape of war, its technologies, its strategies and how it’s infused within broader political and social life. Topics and concepts include military, civil, political, and social violence; insurgency and counterinsurgency; revolution and counterrevolution; enmity and the logics of race; power and force; sovereignty and territorial space; security and protection; and communicative reason and the lack thereof.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 161",
+  "title": "Human Growth and Development",
+  "units": "4",
+  "description": "Analyzes human growth and development from an evolutionary and cross-cultural perspective. Life stages from birth to death are considered, and contrasted with other primates. Other topics include brain evolution, fetal programming, sexual dimorphism, senescence, immunity, play, parental care.",
+  "prerequisites_raw": "Anthropology 5 or 7.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 162",
+  "title": "Prehistoric Food Production",
+  "units": "4",
+  "description": "A history of the process of plant and animal domestication in the Americas, the Near East, Asia, and Africa. Course focuses on the specific biological changes in the major domesticates as well as associated social changes in human life.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 162G",
+  "title": "Sacred Laws, Social Injustice: Caste in Indian Society",
+  "units": "4",
+  "description": "The reverse of the principle of Separate but Equal, caste implies Together but Unequal. This course stresses two aspects of caste hierarchy: 1) caste as lived in India; and 2) caste as conceived and reformed within Hindu thought. At the theoretical level, caste has inspired efforts to map social relations along multiple axespower, purity, material exchangein counterpoint to Western modernity. Along with the social theory, we'll read memoirs, ethnographic and sacred texts, as well as watch Bollywood movies.",
+  "prerequisites_raw": "Upper-division standing and completion of at least one upper-division Religious Studies or Anthropology course or permission of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 163",
+  "title": "Archaeology of North America",
+  "units": "4",
+  "description": "A survey of North American archaeology exclusive of Mesoamerica. Changes in prehistoric lifeways from simple hunting and gathering to complex agriculturally based chiefdoms will be explored through the study of the development of regional traditions over long periods of time.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 164",
+  "title": "The Origins of Complex Societies",
+  "units": "4",
+  "description": "Why and how complex societies developed from simple, egalitarian societies in some areas of the world. Course surveys major theories and evidence surrounding the origins of states and urban societies in New and Old World.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 165",
+  "title": "History of Archaeology",
+  "units": "4",
+  "description": "A survey of the history of archaeology from Medieval times to 1960, with special reference to the changing intellectual contexts of the field. Emphasis on emerging major theoretical approaches and the impact of important discoveries.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 167",
+  "title": "People of the Ice Age",
+  "units": "4",
+  "description": "Human adaptations and population dispersals during the Ice Age (Pleistocene epoch). Course focuses on Stone Age cultures and the evidence for early human occupation of the Americas and the Old World between three million and 10,000 years ago.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 169",
+  "title": "Evolution of Cooperation",
+  "units": "4",
+  "description": "Interdisciplinary focus on the emergence and maintenance of cooperation in human populations. Are we unique in our abilities to reap gains from cooperative endeavors? Why are some people generous, others stingy? How do propensities, personalities, ecology, and cultural institutions affect success in cooperation?",
+  "prerequisites_raw": "Anthropology 5 or 7.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 170",
+  "title": "The Evolutionary Anthropology of Family Life",
+  "units": "4",
+  "description": "Explores how evolutionary anthropologists study cultural diversity in human family life. Together we examine global variation in marriage systems, kinship and inheritance rules, parental investment, norms of sex and reproduction, and the role of extended kin. Each week pairs human examples with insights from non-human animals to ask what evolutionary theory reveals about the determinants of family structure, adaptation to local environments, and patterns of conflict and cooperation among family members.",
+  "prerequisites_raw": "Anthropology 5",
+  "prerequisites_courses": [
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 171",
+  "title": "Evolutionary Medicine",
+  "units": "4",
+  "description": "Applies evolutionary principles to understanding human health and disease past and present. Topics include host/parasite co-evolution, aging and senescence, influence of human migration and culture on disease patterns, and evolutionary origins of diseases of civilization.\"",
+  "prerequisites_raw": "Anth 5 with a minimum grade of C; or, EEMB 2 and EEMB 3; or, MCDB 1 and MCDB 2.",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "EEMB 2",
+   "EEMB 3",
+   "MCDB 1",
+   "MCDB 2"
+  ]
+ }
+]

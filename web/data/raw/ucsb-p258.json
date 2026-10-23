@@ -1,0 +1,294 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 149H",
+  "title": "Hip Hop History in Africa & the Diaspora",
+  "units": "4",
+  "description": "This course examines the rise of Hip Hop music as a predominant form of social, political, and cultural expression for African descended peoples in the diaspora. It begins with an analysis of African musical and discursive forms, then explores the emergence of Hip Hop in Black, Caribbean, and Latinx populations in NYC before focusing on the ways in which this Diasporic form has taken on unique expression on the African continent itself.",
+  "prerequisites_raw": "none.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 149IA",
+  "title": "Islam in Africa",
+  "units": "4",
+  "description": "Africa is the only continent with a Muslim majority, with more than a quarter of the worlds Muslims living there. Americans tend to associate Islam with Arabs, but Africans greatly outnumber Arabs in the religion. There are more Muslims in Nigeria than in Egypt, more in Ethiopia than Iraq. 1/6th of the worlds Muslims reside in sub-Saharan Africa. How did this come to be? How has the adoption of Islam by Africans shaped their history? And, conversely, how have Africans shaped Islam? We answer these questions by exploring 14 centuries of Islamic African history. We also explore Islam as a system of religious meaning by studying the teachings and writings of African Muslims.",
+  "prerequisites_raw": "A previous course in history.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 150CL",
+  "title": "Colonialism and Language",
+  "units": "4",
+  "description": "All colonial projects had to face the problem of linguistic differences. The ways in which they did so varied widely and are very revealing of their different ambitions, ideological foundations, and local circumstances. Explores the history of colonialism comparatively from the perspective of language, from the late fifteenth to the early nineteenth centuries, in the Americas, Africa, and Europe.",
+  "prerequisites_raw": "HIST 8 or HIST 8A or HIST 8B or HIST 151A or 151B or 154LA or 154LB or upper division standing",
+  "prerequisites_courses": [
+   "HIST 8",
+   "HIST 8A",
+   "HIST 8B",
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 154LA",
+   "HIST 154LB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151A",
+  "title": "Latin American History",
+  "units": "4",
+  "description": "A general survey of the social, economic, institutional, and intellectual history of colonial Spanish America (1492-1800), with comparisons to colonial Brazil.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151AS",
+  "title": "Latin American History: Pre-Hispanic and Colonial Periods (In Spanish)",
+  "units": "4",
+  "description": "A Spanish-language version of History 151A. A general survey of the social, economic, institutional, and intellectual history of colonial Spanish America (1492-1800), with comparisons to colonial Brazil, taught in Spanish and drawing on Spanish-language materials.",
+  "prerequisites_raw": "History 8",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151B",
+  "title": "Latin American History",
+  "units": "4",
+  "description": "A survey on nineteenth-century Latin America. Topics include: the independence movements, the formation of national states, nationalism, liberalism, the construction of race and racial imaginings, slavery and the struggles for citizenship.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151C",
+  "title": "Latin American History",
+  "units": "4",
+  "description": "A survey on twentieth-century Latin America with an emphasis on social and political history, revolutions, the rise of U.S. hegemony, the Cold War, military dictatorships and human rights, neoliberalism, indigenous movements, and the continued struggle for citizenship.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151CR",
+  "title": "Undergraduate Research Seminar in the History of Cuba",
+  "units": "4",
+  "description": "Through readings, films, and discussion, students explore a topic or problem in the history of Cuba from the late-eighteenth century to the present. Students will conduct historical research using both primary and secondary sources to produce an original and substantial 15-20 page research paper.",
+  "prerequisites_raw": "History 8 or 9 or 151A or 151B or 151C or 151CU or 154LB or LAIS 100 or 101 and upper division standing.",
+  "prerequisites_courses": [
+   "LAIS 100",
+   "HIST 9",
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151C",
+   "HIST 151CU",
+   "HIST 154LB",
+   "LAIS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151CU",
+  "title": "History of Cuba",
+  "units": "4",
+  "description": "A history of Cuba from the colonial era to the present, with an emphasis on the social and political processes of the 19th to 21st centuries.",
+  "prerequisites_raw": "History 8 or 9 or 151A or 151B or 151C or 154LB or LAIS 100 or 101 or upper division standing.",
+  "prerequisites_courses": [
+   "LAIS 100",
+   "HIST 9",
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151C",
+   "HIST 154LB",
+   "LAIS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151FQ",
+  "title": "Latin American History through Film",
+  "units": "4",
+  "description": "A weekly seminar discussing films relevant to different periods and topics in the history of Latin America combined with selected readings. Written assignments required.",
+  "prerequisites_raw": "History 8 or 151A or 151B or 151C or 154La or 154LB or 156A or 156B or upper division standing",
+  "prerequisites_courses": [
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151C",
+   "HIST 154LB",
+   "HIST 156A",
+   "HIST 156B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151G",
+  "title": "Latin America and Globalization",
+  "units": "4",
+  "description": "History of commodity chains, sustainable development, NGOs in modern Latin America.",
+  "prerequisites_raw": "History 8 or History 151C or upper division standing",
+  "prerequisites_courses": [
+   "HIST 151C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151GS",
+  "title": "Gender and Sexuality in Latin America",
+  "units": "4",
+  "description": "An examination of gender and sexuality in Latin America from independence to the present. The course pays particular attention to how individuals exercised power and how gender, race, and class intersected. Themes include popular conceptions of sexuality, masculinity, and femininity, religion, work, health, and women's movements.",
+  "prerequisites_raw": "HIST 8A or HIST 8B or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 8A",
+   "HIST 8B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151H",
+  "title": "Health and Healing in Latin America",
+  "units": "4",
+  "description": "An overview of histories of health and healing in Latin America from independence to the present. For centuries, local healers have practiced popular and traditional medicine alongside the professionally trained. These diverse and varied medical authorities informed each other’s practices and at times came into conflict. Main questions to consider include: How have approaches to healing and disease shifted across time and space? In what ways did Indigenous, African, and Asian healers figure into everyday life and national programs? How have gender and race shaped public health policies and structures? Finally, how have local peoples responded to these various institutions, practitioners, and programs?",
+  "prerequisites_raw": "HIST 8A or 8B",
+  "prerequisites_courses": [
+   "HIST 8A",
+   "HIST 8B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151Q",
+  "title": "Readings in Latin American History",
+  "units": "4",
+  "description": "A weekly reading seminar on special topics in the history of Latin America. Depending on the topic, it may include primary sources and works of fiction. Written assignments required.",
+  "prerequisites_raw": "History 8",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 151R",
+  "title": "Undergraduate Research Seminar in Latin American History",
+  "units": "4",
+  "description": "A research seminar in Latin American history. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper. Topics addressed: defining a research problem, identifying an original topic, conducting research, citing sources, and presenting results. Intensive writing required.",
+  "prerequisites_raw": "History 8 or 151A or 151B or 151Q or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151Q"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 153A",
+  "title": "Honor, Race, Gender, and Class in the Americas",
+  "units": "4",
+  "description": "Explores the intersectionality of honor, gender, race, and class during the colonial period and the nineteenth century, in the Americas, with an emphasis in Iberoamerica. Looks into the ways in which these notes, ideas, or concepts served as a metaphor for policies, rights, inclusion, and discrimination. Through the reading of secondary and primary sources, we explore ways in which women and men from different backgrounds and ethnicities negotiated, internalized and resisted hegemonic, imposed assumptions about their honor or lack of it. Lastly, we consider ways in which the sequels of these assumptions linger up to the present and shape the way we perceive one another.",
+  "prerequisites_raw": "HIST 8",
+  "prerequisites_courses": [
+   "HIST 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 153L",
+  "title": "History of Argentina from Spanish Settlement to the Present Day",
+  "units": "4",
+  "description": "A case study in economic underdevelopment and political instability.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 153M",
+  "title": "Tools for Healing from Global Race-Making",
+  "units": "4",
+  "description": "This course explores and seeks to undo the severe impact the Trans-Atlantic Slave Trade and enslavement of African men, women, and children in the Americas did to collective perceptions about worth, dignity, gender, and race, in the Atlantic World and beyond. Through the reading of secondary sources, the Slavevoyages.org database, and primary sources, this course covers aspects of the Atlantic World from the beginning of the sixteenth century, until the end of the nineteenth century. The course guides everyone in a process of unpacking, reflecting, healing, and re-contextualizing the ways in which historical power dynamics have conditioned how we think of Blackness, Africa, its inhabitants, and people of African descent.",
+  "prerequisites_raw": "Upper Division Standing; HIST 8, 2B, 2C, 193F, OR 193MA.",
+  "prerequisites_courses": [
+   "HIST 8",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 193F",
+   "HIST 193MA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 154LA",
+  "title": "Andean History: Pre-Hispanic and Colonial Periods",
+  "units": "4",
+  "description": "The history of the Andean region broadly defined from pre-Columbian times to the colonial period. Topics include the Incas and their predecessors; indigenous societies in the Northern and Southern Andes; the formation and development of colonial societies; religion; the economy; and global connections.",
+  "prerequisites_raw": "Any History 2 series course, or any History 4 series course, or History 8, or any History 151 series course, or LAIS 100 or LAIS 101 or upper-division standing.",
+  "prerequisites_courses": [
+   "LAIS 100",
+   "LAIS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 154LB",
+  "title": "Andean History: The National Period",
+  "units": "4",
+  "description": "The birth of the modern Andean republics; the shaping of national identity; the problem of \"race\"; Indigensmo; political movements and revolutions from the early nineteenth century to the present.",
+  "prerequisites_raw": "History 2A or 2B or 2C or 4A or 4B or 4C or 8 or 151A or 151B or 151C or 151FQ or 151I or 151R or 154DR or 154LA or 154Q or LAIS 100 or LAIS 101 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "LAIS 100",
+   "LAIS 101",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 4A",
+   "HIST 4B",
+   "HIST 4C",
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151C",
+   "HIST 151FQ",
+   "HIST 151R",
+   "HIST 154LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 156A",
+  "title": "History of Mexico: Pre-Hispanic and Colonial Periods",
+  "units": "4",
+  "description": "The history of colonial New Spain, from California to Central America and from the Philippines to the Caribbean. Topics include pre-Columbian societies, including the Aztecs; the formation and development of colonial societies; religion; the economy; and global connections.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 156B",
+  "title": "History of Mexico",
+  "units": "4",
+  "description": "Post independence Mexico.",
+  "prerequisites_raw": "History 8 or History 156A or upper-division standing",
+  "prerequisites_courses": [
+   "HIST 156A"
+  ]
+ }
+]

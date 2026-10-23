@@ -1,0 +1,284 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 188",
+  "title": "Studies in Postmodernism",
+  "units": "4",
+  "description": "A course devoted to both the texts and problematic of postmodernism.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 189",
+  "title": "Contemporary Literature",
+  "units": "4",
+  "description": "Study of English and American contemporary drama, fiction, and poetry written since 1960.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 189BW",
+  "title": "Between Worlds",
+  "units": "4",
+  "description": "Explores a variety of literatures that confront the experience of being between worlds--literally and imaginatively. Being between worlds negotiates senses of belonging, the experience of borders, and also the condition of being suspended in such a way that one may not totally belong to either world. It is possible that being between worlds is also the condition of reading fiction, being as one is between ones lived reality and the story-world. Authors may include Ruth Ozeki, Tommy Orange, Claudia Rankine, and Toni Morrison alongside short excerpts of literary and critical theory. Sub-themes may include diaspora, anti-racism, media, the Anthropocene, settler-colonialism, memory, and temporality.",
+  "prerequisites_raw": "Writing 2, or 50, or 109, or English 10 or upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 190",
+  "title": "World Literature in English",
+  "units": "4-28",
+  "description": "Literature in English from such countries as India, the Caribbean, and the African nations.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 190AL",
+  "title": "World Literature in English",
+  "units": "4",
+  "description": "Literature in English from such countries as India, the Caribbean, and the African nations.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 190CA",
+  "title": "Cognitive Approaches to World Literature",
+  "units": "4",
+  "description": "The course is designed to enable students to use cognitive neuroscience to read world literature. It's centered around two general issues: how our hunter-gatherer brain supports the production of a wide range of literatures and how the study of literature, in turn, can be used to understand our species' cognitive design. This approach introduces students to cutting-edge interdisciplinary research. Studying literature from across the globe together with cognitive neuroscience will also explain how universal cognitive capacities actually support local environmental variations in language, script and genre. Students can use this foundational survey course to take specialized classes on literature and emotion, and storytelling and the brain.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 190GL",
+  "title": "Global Literatures",
+  "units": "4",
+  "description": "Examination of how recent world literature has contributed to, interpreted, and evaluated globalizing processes. Some attention paid to the relations between literature and other expressive forms such as film, photography, and journalism.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 190WL",
+  "title": "World Literature in English",
+  "units": "4",
+  "description": "Literature in English from such countries as India, the Caribbean, and the African nations.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 191",
+  "title": "Afro-American Fiction and Criticism, 1920's to the present",
+  "units": "4",
+  "description": "Such early writers as Hughes, Hurston, Wright, Ellison, Baldwin and such contemporary writers as Reed, Walker, Morrison, Bambara within various cultural and theoretical contexts",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192",
+  "title": "Science Fiction",
+  "units": "4-28",
+  "description": "Examines science fiction as a literary genre. Emphasis throughout is upon the nature and development of the genre in its historical and cultural context. Specific course titles are announced prior to the beginning of each quarter.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192AF",
+  "title": "Afrofuturism & Black Speculative Poetics",
+  "units": "4",
+  "description": "Focusing primarily on the literary, this course explores Black speculative world-making in literature, performance, art, popular culture, and criticism. We'll consider how these wild imaginings produce conceptions of the past, race, and theories of knowing and being in alternative terrains, embodiments, and futures.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192CR",
+  "title": "Science Fiction: Charismatic Robots",
+  "units": "4",
+  "description": "Traces the long history of robots and robotics in science fiction. Beginning with the coining of the term robot (which means slave) in Karel Kapek's Russian play R.U.R., we examine how robotics coincides with a variety of social issues concerning labor, gender, race, and otherness. We consider what makes robots charismatic (or not), and why might it be that stories about robots offer such rich meditations on ethical and existential questions? In what ways do robot stories coincide with care for the environment, and ethical action? Surveying a variety of works by writers including Ted Chiang, Stanislaw Lem, Isaac Asimov, Christopher Rowe, Marge Piercy, Becky Chambers, and Alice Sheldon.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192DF",
+  "title": "Science Fiction: Dystopian Fiction",
+  "units": "4",
+  "description": "Introduces the literary genre of science fiction (SF) through the lens of dystopia. Examines the literary history of fictitious futures, or to use Frederic Jamesons phrase, we will mine the archaeology of the future, to determine the central concerns of authors and film-makers who imagine, in particular, dystopian visions of the world to come. Beginning with fiction from the end of the Victorian period, we will read several novels, short stories, and consider some films, that provide glimpses of a variety of futures, and consider how they approach respectively the disintegration of the political, social, and natural world.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192EF",
+  "title": "Science Fiction: Ecofiction",
+  "units": "4",
+  "description": "Introduces the literary genre of science fiction (SF) and its engagements with the science of ecology. Focusing on SF from the post-WWII period (1945-present), we consider shifts in contemporary environmentalism (conservation, sustainability, the Anthropocene) alongside science fiction texts, including the imagination alien ecologies and planetary futures.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192FE",
+  "title": "Fantasy and the Environment",
+  "units": "4",
+  "description": "Explores how fantasy literature imagines the life we share with others. It considers how modern fantasy looks beyond what seems most obvious and allows for different ways of relating to the world. It also examines fantasys concern to create beings and ecosystems that do not exist.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192SC",
+  "title": "Science Fiction: Speculations in Color",
+  "units": "4",
+  "description": "This course is designed to introduce students to and increase their knowledge of the broad literary genre of speculative fiction & fantasy with a focus on writers of color. Readings include authors within and outside the US from the late 19th century to present. Emphasis is on the study of novels and short stories through a lens of racialized cultures, marginalized voices, disability, and LGBTQ+ writing. Materials include short film, movies, music (videos), visual art, and comic books. Course objective is to strengthen literary analysis through close reading and to consider how/why writers of color world-build intertextually.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192SF",
+  "title": "Science Fiction",
+  "units": "4",
+  "description": "Examines science fiction as a literary genre. The emphasis throughout is upon the nature and development of the genre in its historical and cultural context. Over the last century, science fiction has become one of the more influential, intellectually rigorous, and pleasurable ways to speculate about the accelerating changes in our world. This course offers a selective survey of the themes animating the genre since the beginning of the twentieth century, in short stories, novels, and films.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192SS",
+  "title": "SCIENCE FICTION: SHORT STORIES",
+  "units": "4",
+  "description": "This course examines key themes in the genre of science fiction by focusing on the form of the short story. From inspiring Gothic tales like Frankenstein and Dracula to filling the pages of pulp magazines in the early 1900s, short stories have been important to the history of the genre as well as its thematic content. Each week of the course focuses on a specific theme, including robots, aliens, animals, language, cyberpunk, and climate fiction. For English Majors, this course counts for either the Literature & Environment or Literature & Cultures of Information specializations.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 192WW",
+  "title": "Women Writers of Science Fiction",
+  "units": "4",
+  "description": "Science fiction has long been dominated by male writers and their impacts on the world, from Isaac Asimov to William Gibson. This course traces a different genealogy of science fiction, attending to the voices and interventions of women authors. We track the development and impact of women science fiction writers from the 17th-century New Science to today, through such writers as Margaret Cavendish, Mary Shelley, James Tiptree, Jr., Ursula K. Le Guin, Octavia Butler, Margaret Atwood, Nnedi Okorafor, and Larissa Lai. In doing so, we investigate the impacts of gender, race, and sexuality on the traditional themes of science fiction, such as technological innovation, species differentiation, and artificial intelligence.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 193",
+  "title": "Detective Fiction",
+  "units": "4",
+  "description": "Critical and historical study of fiction from the classic of Poe, Conan Doyle, and Christie to the many contemporary kinds.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ }
+]

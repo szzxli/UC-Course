@@ -1,0 +1,372 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 127A",
+  "title": "History of the French Empire",
+  "units": "4",
+  "description": "Liberty, equality, fraternity: what does this revolutionary motto mean from a colonial perspective? France, often characterized as the country of human rights, also has a long imperial history that sheds light on key contradictions of modernity: democracy and populism, citizenship and inequality, colorblindness and racism. Countries as different as Canada, Haiti, Algeria, Vietnam, Senegal, India and even the United States share a common French colonial past: how did these French roots of globalization define the world as we know it?",
+  "prerequisites_raw": "History 2C or 4C or Upper Division standing",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 127B",
+  "title": "EUR SOCLSM 19-20 C",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 127F",
+  "title": "The French Revolution",
+  "units": "4",
+  "description": "The French Revolution was a globally significant historical event. The ideas of liberty and equality articulated through the storming of the Bastille and Declaration of the Rights of Man were radical and volatile, and the Revolution engendered modern notions of republicanism, democracy and citizenship. This was also, however, a period of war, violence and terror, which incited conflicts and upheaval across the world. We will explore the multiple meanings of the French Revolution, and its enduring global ramifications and legacies.",
+  "prerequisites_raw": "History 2B or 2C or 4B or 4C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 4B",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 129A",
+  "title": "Europe in the Seventeenth Century",
+  "units": "4",
+  "description": "Economic, social, political, and intellectual history of the seventeenth century: 1610-1648.",
+  "prerequisites_raw": "History 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 129B",
+  "title": "Europe in the Seventeenth Century",
+  "units": "4",
+  "description": "Economic, social, political, and intellectual history of the seventeenth century: 1648-1685.",
+  "prerequisites_raw": "History 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 129C",
+  "title": "Europe in the Seventeenth Century",
+  "units": "4",
+  "description": "Economic, social, political, and intellectual history of the seventeenth century: 1685-1715.",
+  "prerequisites_raw": "History 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 129D",
+  "title": "Europe in the Eighteenth Century",
+  "units": "4",
+  "description": "Economic, social, political, and intellectual history of the eighteenth century. 1715 to 1763.",
+  "prerequisites_raw": "History 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 129E",
+  "title": "Europe in the Eighteenth Century",
+  "units": "4",
+  "description": "Economic, social, political, and intellectual history of the eighteenth century. 1763 to 1789.",
+  "prerequisites_raw": "History 4C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 129F",
+  "title": "Europe in the Eighteenth Century",
+  "units": "4",
+  "description": "Economic, social, political, and intellectual history of the eighteenth century. 1789 to 1815.",
+  "prerequisites_raw": "History 4C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 129Q",
+  "title": "Readings in Early Modern Europe",
+  "units": "4",
+  "description": "This course will be a discussion, reading of a single document, and critique of your peers' papers. Certain principles and rules for the study of history will be discussed. The main thrust of the course, however, is the analysis and writing of one or two short (500 to 600) word papers on some excerpts translated from one of Richelieu's most famous writings, The Political Testament.",
+  "prerequisites_raw": "HIST 129A or 129B or 129C or 129D or 129E or 129F or upper division standing",
+  "prerequisites_courses": [
+   "HIST 129A",
+   "HIST 129B",
+   "HIST 129C",
+   "HIST 129D",
+   "HIST 129E",
+   "HIST 129F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 130",
+  "title": "Slavery in the Premodern World",
+  "units": "4",
+  "description": "Emphasizing slavery's persistence in the Middle Ages, this course explores the experiences of captives, slaves, and serfs, as well as eunuchs, concubines and slave-soldiers (mamluks) in Western Europe, Byzantium and the Islamic World from 500-1500.",
+  "prerequisites_raw": "HIST 4A or HIST 4B or HIST 2A or HIST 2B",
+  "prerequisites_courses": [
+   "HIST 4A",
+   "HIST 4B",
+   "HIST 2A",
+   "HIST 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 130A",
+  "title": "MODERN ITALY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 130B",
+  "title": "MODERN ITALY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 132",
+  "title": "War and Society Since 1789",
+  "units": "4",
+  "description": "Topics in war, the state and society since 1789. Origins and consequences of wars, and the political, social, and economic aspects of both land and sea warfare.",
+  "prerequisites_raw": "History 2C or 4C.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 132R",
+  "title": "Undergraduate Research Seminar in War & Society Since 1789",
+  "units": "4",
+  "description": "Research seminar in topics in war, the state and society since 1789. Origins and consequences of wars, and the political, social, and economic aspects of both land and sea warfare. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper. Topics addressed: defining a research problem, identifying on original topic, conducting research, citing sources, and presenting results. Intensive writing required.",
+  "prerequisites_raw": "Hist 2C or 4C or 132 or 132W or upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 132W",
+  "title": "War in History",
+  "units": "4",
+  "description": "A survey of Western and non-Western war in practice and theory, on land and at sea, from ancient times to the present.",
+  "prerequisites_raw": "A previous course in History.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 133A",
+  "title": "Nineteenth Century Germany",
+  "units": "4",
+  "description": "Survey of the history of the German states from the French revolution through the stages of industrialization and national unification to World War I. Focus on the development and specific nature of German society and political culture.",
+  "prerequisites_raw": "History 2C or 4C.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 133B",
+  "title": "Twentieth Century Germany, Part I",
+  "units": "4",
+  "description": "Examination of German history from the beginning of the twentieth century to World War II. Topics include Germany's role in the first world war, the German revolution of 1918-19, the Weimar Republic, and the national-socialist state and its aims in World War II and the Holocaust.",
+  "prerequisites_raw": "History 2C or 4C.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 133C",
+  "title": "Twentieth Century Germany, Part II",
+  "units": "4",
+  "description": "After examining developments during the last years of World War II, this course traces the histories of East and West Germany from 1945 to unification in 1989.",
+  "prerequisites_raw": "History 2C or 4C.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 133D",
+  "title": "The Nazi Holocaust and Other Genocides",
+  "units": "4",
+  "description": "The Nazi campaign of ethnic purification through eugenics and mass murder can be considered a watershed event in European history. This course examines the factors that combined to result in the Nazi genocides, as well as the contexts, causes and consequences of other modern genocides.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 133Q",
+  "title": "Readings on the Holocaust",
+  "units": "4",
+  "description": "Exploration of selected topics pertaining to the Holocaust through memoirs, historiography, and works of fiction. The course is structured as a dialog between students and the instructor based on written analyses of the literature.",
+  "prerequisites_raw": "History 33D or 133B or 133C or 133D (may be taken concurrently).",
+  "prerequisites_courses": [
+   "HIST 133B",
+   "HIST 133C",
+   "HIST 133D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 133R",
+  "title": "Undergraduate Research Seminar in German or Genocide History",
+  "units": "4",
+  "description": "Research seminar on topics in German history from 1800 to the present, or in the history of genocide.",
+  "prerequisites_raw": "Hist 133A or 133B or 133C or 133D or 123A or 123B or 123C; or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 134A",
+  "title": "RUSS INTEL HISTORY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "HISTORY 4A-B-C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 134B",
+  "title": "RUSS INTEL HISTORY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "HISTORY 4A-B-C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 135B",
+  "title": "History of Russia",
+  "units": "4",
+  "description": "1800-1917. A survey of Russian history from the reign of Alexander I to theRussian revolution.",
+  "prerequisites_raw": "History 4B or 4C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 135C",
+  "title": "History of Russia",
+  "units": "4",
+  "description": "1917-present. A history of the Soviet Union from the Russian Revolution of 1917 to its collapse, focusing on political and social history.",
+  "prerequisites_raw": "History 4B or 4C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 135Q",
+  "title": "Special Topics in Russian History",
+  "units": "4",
+  "description": "Readings and discussion on selected topics in Russian history.",
+  "prerequisites_raw": "History 135B or 135C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 135B",
+   "HIST 135C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 135R",
+  "title": "Undergraduate Research Seminar in Modern Russian/Soviet History",
+  "units": "4",
+  "description": "Research seminar in modern Russian and Soviet history. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 135B or 135C or 135Q or consent of the instructor.",
+  "prerequisites_courses": [
+   "HIST 135B",
+   "HIST 135C",
+   "HIST 135Q"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 136CA",
+  "title": "Central American Migration to Mexico and the United States",
+  "units": "4",
+  "description": "Examines the history of Central American migration to Mexico and the United States. Topics include: the Civil Wars in Central America, the Sandinista Revolution, U.S. imperialism, policies on immigration and labor and transnational families.",
+  "prerequisites_raw": "History 9 or 8 or 17A or 168B",
+  "prerequisites_courses": [
+   "HIST 9",
+   "HIST 17A",
+   "HIST 168B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 136M",
+  "title": "History of U.S.-Mexican Relations",
+  "units": "4",
+  "description": "Explores the history of U.S.-Mexican relations from 1821 to the present. Topics include: U.S. intervention in Mexico, the Mexican Revolution, the Good Neighbor Program, immigration, NAFTA, the U.S.-Mexico border, and War on Drugs. Students will learn to read, interpret, and analyze foreign policy, primary, and secondary sources.",
+  "prerequisites_raw": "History 9 or 8 or 17A or 56 or 168B",
+  "prerequisites_courses": [
+   "HIST 9",
+   "HIST 17A",
+   "HIST 56",
+   "HIST 168B"
+  ]
+ }
+]

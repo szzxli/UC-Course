@@ -1,0 +1,318 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 219",
+  "title": "CMOS & RF INTEGRATED CIRCUIT DESIGN",
+  "units": "4",
+  "description": "Covers the design and analysis of radio-frequency integrated systems at the transistor level using state-of-the-art CMOS technology. Focuses on system-level trade-offs in transceiver design, practical RF circuit techniques, and physical understanding for device parasitics.",
+  "prerequisites_raw": "ECE 137A and 137B.",
+  "prerequisites_courses": [
+   "ECE 137A",
+   "ECE 137B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 220A",
+  "title": "Semiconductor Device Processing",
+  "units": "4",
+  "description": "Intensive theoretical and laboratory instruction in solid-state device and integrated circuit fabrication. Topics include 1) semiconductor material properties and characterization; 2) phase diagrams; 3) diffusion; 4) thermal oxidation; 5) vacuum processes; 6) thin-film deposition; 7) scanning electron microscopy. Both gallium arsenide and silicon technologies are presented.",
+  "prerequisites_raw": "ECE 132 or equivalent.",
+  "prerequisites_courses": [
+   "ECE 132"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 220B",
+  "title": "Semiconductor Device Processing",
+  "units": "4",
+  "description": "Continued theoretical and laboratory instruction in the fundamentals, the design, the fabrication, and the characterization of junction and field-effect devices. Topics will include bipolar characterization, design,fabrication, and testing. The laboratory effort initiated in ECE 220A will be continued in these quarters.",
+  "prerequisites_raw": "Consent of instructor, or ECE 220A.",
+  "prerequisites_courses": [
+   "ECE 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 220C",
+  "title": "Semiconductor Device Processing",
+  "units": "4",
+  "description": "Continued theoretical and laboratory instruction in the fundamentals, the design, the fabrication, and the characterization of junction and field-effect devices. Topics will include bipolar characterization, design,fabrication, and testing. The laboratory effort initiated in ECE 220A will be continued in ECE 220B-C.",
+  "prerequisites_raw": "Consent of instructor, or ECE 220A.",
+  "prerequisites_courses": [
+   "ECE 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 221A",
+  "title": "Semiconductor Device Physics I",
+  "units": "4",
+  "description": "Band diagrams of P-N junctions and heterjunctions; current flow by drift and diffusion; bipolar transistors; recombination and generation. Schottky barriers; heterostructures.",
+  "prerequisites_raw": "ECE 132 and 162A-B.",
+  "prerequisites_courses": [
+   "ECE 132",
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 221B",
+  "title": "Semiconductor Device Physics II",
+  "units": "4",
+  "description": "More advanced continuation of ECE 221A: field effect transistors, quantum wells and superlattices; tunneling; avalanche breakdown; physical limitations of bipolar and field effect transistors; two-dimensional current flow problems.",
+  "prerequisites_raw": "ECE 215A or equivalent and ECE 221A.",
+  "prerequisites_courses": [
+   "ECE 215A",
+   "ECE 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 223",
+  "title": "High-Performance Digital Circuit Design",
+  "units": "4",
+  "description": "Introduction to high-performance digital circuit design techniques. Basics of device physics including deep submicron effects; device sizing and logical effort; Circuit design styles; clocking & timing issues; memory & datapath design; Low-power design; VLSI design flows and associated EDA tools.",
+  "prerequisites_raw": "ECE 2A-B-C with a minimum grade of C- in all.",
+  "prerequisites_courses": [
+   "ECE 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 224A",
+  "title": "VLSI Project Design",
+  "units": "4",
+  "description": "Design, planning and layout of a CMOS/Mixed-Signal VLSI Integrated Circuit for fabrication, characterization and test. Layout rules, topological, and physical issues in the design of integrated systems. Student teams plan, design and test a VLSI project.",
+  "prerequisites_raw": "ECE 124A or equivalent and ECE 124D/256C",
+  "prerequisites_courses": [
+   "ECE 124A",
+   "ECE 124D",
+   "ECE 256C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 225",
+  "title": "High Speed Digital Integrated Circuit Design",
+  "units": "4",
+  "description": "Advanced digital VLSI design: CMOS scaling, nanoscale issues including variability, thermal management, interconnects, reliability; non-clocked, clocked and self-timed logic gates; clocked storage elements; high-speed components, PLLs and DLLs; clock and power distribution; memory systems; signaling and I/O design; low-power design.",
+  "prerequisites_raw": "ECE 124A or ECE 137A.",
+  "prerequisites_courses": [
+   "ECE 124A",
+   "ECE 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 226",
+  "title": "Level Set Methods",
+  "units": "4",
+  "description": "Mathematical description of the level set method and design of the numerical methods used in its implementations (ENO-WENO, Godunov, Lax-Friedrich, etc.). Introduction to the Ghost Fluid Method. Applications in CFD. Materials Sciences, Computer Vision and Computer Graphics.",
+  "prerequisites_raw": "CMPSC 211C or CH E 211C or ECE 210C or ME 210C.",
+  "prerequisites_courses": [
+   "CMPSC 211C",
+   "CH E 211C",
+   "ECE 210C",
+   "ME 210C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 227A",
+  "title": "Semiconductor Lasers I",
+  "units": "4",
+  "description": "Review of semiconductor physics, growth technology, and materials properties; double-heterostructure and quantum-well laser structures; carrier and photon rate equations; light vs. current characteristics; scattering and transmission matrices; compound cavity, distributed bragg reflector, and distributed feedback lasers.",
+  "prerequisites_raw": "ECE 162A-B-C, or MATRL 162A-B and ECE 162C, or ECE 144.",
+  "prerequisites_courses": [
+   "ECE 162A",
+   "MATRL 162A",
+   "ECE 162C",
+   "ECE 144"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 227B",
+  "title": "Semiconductor Lasers II",
+  "units": "4",
+  "description": "Gain and spontaneous emission vs. injection current in semiconductors; nonradiative recombination; strained-layer quantum wells. Dynamic characteristics of lasers including differential and large signal analysis of the rate equations; relative intensity noise and linewidth; carrier transport and feedback effects.",
+  "prerequisites_raw": "ECE 227A or MATRL 268A, or ECE 215A or MATRL 206A.",
+  "prerequisites_courses": [
+   "ECE 227A",
+   "MATRL 268A",
+   "ECE 215A",
+   "MATRL 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 227C",
+  "title": "Photonic Integrated Circuits",
+  "units": "4",
+  "description": "Perturbation and coupled-mode analysis; DFB lasers revisted; directional couplers; modal excitaton. Dielectric waveguide analysis techniques; waveguide radiation losses. Photonic integrated circuit examples, includingtunable lasers with in-line gratings and contra- and co- directional couplers; ring lasers; numerical analysis techniques.",
+  "prerequisites_raw": "ECE 227A-B.",
+  "prerequisites_courses": [
+   "ECE 227A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 228A",
+  "title": "Fiber Optic Communications",
+  "units": "4",
+  "description": "Optical fiber structures and guided modes. Effect of dispersion, attenuation and fiber, nonlinearities. Basic transmission design including loss and rise time budgets. Optical transmission system essentials and requirements. Introduction to WDM and TDM components and technologies.",
+  "prerequisites_raw": "ECE 162A-B-C, 144, 135.",
+  "prerequisites_courses": [
+   "ECE 162A",
+   "ECE 144",
+   "ECE 135"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 228B",
+  "title": "Fiber Optic Components and Systems",
+  "units": "4",
+  "description": "Photodetector design and receiver characteristics. Optical transmitters, optical amplifiers, optical isolators, optical switches, wavelength converters, regenerators, optical multiplexers and demultiplexers. Advanced transmission link design and performance including bit error rate and signal to noise ratio and fiber transmission impairments.",
+  "prerequisites_raw": "ECE 228A.",
+  "prerequisites_courses": [
+   "ECE 228A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 228C",
+  "title": "Optical Circuits, Systems and Networks",
+  "units": "4",
+  "description": "Covers analysis and properties of complex optical circuits with and without optical feedback; basics of queueing systems, with applications to optical transmission, switching and interconnect systems; and blocking and nonblocking optical switching and interconnect systems.",
+  "prerequisites_raw": "ECE 228A & ECE 228B, or equivalent.",
+  "prerequisites_courses": [
+   "ECE 228A",
+   "ECE 228B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 229",
+  "title": "Hybrid Systems",
+  "units": "4",
+  "description": "Introduction to systems that combine continuous dynamics with discrete logic. Topics include a modeling framework that combines elements from automata theory and differential equations, simulations tools, analysis and design techniques for hybrid systems and applications of hybrid control systems.",
+  "prerequisites_raw": "Graduate standing in Mechanical Engineering, Chemical Engineering, Electric& Computer Engineering, or Computer Science.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 230A",
+  "title": "Linear Systems I",
+  "units": "4",
+  "description": "Internal and external descriptions. Solution of state equations. Controllability and observability realizations. Pole assignment, assignment, observers; modern compensator design. Disturbance localization and decoupling. Least-squares control. Least-squares estimation; Kalman filters; smoothing. The separation theorem; LQG compensator design. Computational considerations. Selected additional topics.",
+  "prerequisites_raw": "ME 210A, ECE 210A, CH E 211A, CMPSC 211A, or MATH 206A; may be taken concurrently",
+  "prerequisites_courses": [
+   "ME 210A",
+   "ECE 210A",
+   "CH E 211A",
+   "CMPSC 211A",
+   "MATH 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 230B",
+  "title": "Linear Systems II",
+  "units": "4",
+  "description": "Internal and external descriptions. Solution of state equations. Controllability and observability realizations. Pole assignment, assignment, observers; modern compensator design. Distribance localization and decoupling. Least-squares control. Least-squares estimation; Kalman filters; smoothing. The seperation theorem; LQG compensator design. Computational considerations. Selected additional topics.",
+  "prerequisites_raw": "ECE 230A or ME 243A; and ME 210A, ECE 210A, CH E 211A, CMPSC 211A, or MATH 206A",
+  "prerequisites_courses": [
+   "ECE 230A",
+   "ME 243A",
+   "ME 210A",
+   "ECE 210A",
+   "CH E 211A",
+   "CMPSC 211A",
+   "MATH 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 231",
+  "title": "Algorithmic Game Theory",
+  "units": "4",
+  "description": "Algorithmic game theory (AGT) is an area at the intersection of game theory and computer science, with the objective of analyzing and designing algorithms in strategic environments. The class covers recent advances in algorithm game theory, with specific emphasis on applications to engineering systems.",
+  "prerequisites_raw": "ECE 149 or ECE 270 or Instructor's consent",
+  "prerequisites_courses": [
+   "ECE 149",
+   "ECE 270"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 232",
+  "title": "Robust Control Theory",
+  "units": "4",
+  "description": "Uncertainty modeling; stability of systems in the presence of norm-bounded perturbations; induced norm performance problems; H-infinity and linear quadratic control theory; Integral Quadratic Constraints (IQCs); structured singular value analysis; model reduction; computer aided design projects for control systems.",
+  "prerequisites_raw": "ECE 230A or ME 243A; and, ECE 230B or ME 243B, or consent of instructor.",
+  "prerequisites_courses": [
+   "ECE 230A",
+   "ME 243A",
+   "ECE 230B",
+   "ME 243B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 233",
+  "title": "Numerical Simulations",
+  "units": "4",
+  "description": "Interpolation and orthogonal polynomials, numerical differentiation and integration, existence and uniqueness of solutions to odes, Runge-Kutta andAdams methods, stability and stiff multistep methods, pade approximations to the matrix exponential, numerical methods for Schrodinger's equation andboundary value problems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 234",
+  "title": "Modeling, Identification, and Validation for Control",
+  "units": "4",
+  "description": "Parametric and non-parametric models, open and closed-loop identification, bias and variance effects, model order selection, probing signal design, subspace identification, closed-loop probing, autotuning, model variation, iterative identification and design.",
+  "prerequisites_raw": "ECE 230A.",
+  "prerequisites_courses": [
+   "ECE 230A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 235",
+  "title": "Stochastic Processes in Engineering",
+  "units": "4",
+  "description": "A first-year graduate course in stochastic processes, including: review of basic probability; gaussian, poisson, and Weiner processes; wide-sense stationary processes; covariance function and power spectral density; linear systems driven by random inputs; basic Wiener and Kalman filter theory.",
+  "prerequisites_raw": "ECE 139 or equivalent. Graduate standing.",
+  "prerequisites_courses": [
+   "ECE 139"
+  ]
+ }
+]

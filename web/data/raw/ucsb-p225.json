@@ -1,0 +1,284 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154K",
+  "title": "Bioethics in France and the Francosphere",
+  "units": "4",
+  "description": "An introduction to pressing contemporary issues and debates concerning bioethics in France and the Francosphere. Discusses issues such as euthanasia, genetic engineering, artificial intelligence, animal experiments and transhumanism, and culminates in the presentation and defense of student-devised projects. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154L",
+  "title": "Globalization and Development in the Francosphere",
+  "units": "4",
+  "description": "Examines the postcolonial history of several Francophone nations in the developing world, emphasizing the interplay between the political, economic, social, and cultural spheres. Specific cases studied will vary. Students develop their own policy-oriented class project. Taught in English.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 155A",
+  "title": "Women in the Middle Ages",
+  "units": "4",
+  "description": "A study of the socio-political role of women in France from the twelfth to the fifteenth centuries through an examination of their image in literary texts written by both sexes. Lectures and readings in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 155B",
+  "title": "Women on Trial",
+  "units": "4",
+  "description": "A transhistorical study of the cultural construction of femininity through an examination of legal proceedings (actual and literary) in France initiated by or against women for such crimes as witchcraft, adultery, pride, theft, and seduction. In English.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 155C",
+  "title": "French and Francophone Women Writers",
+  "units": "4",
+  "description": "French-speaking women writers from the Middle Ages to the present. Gender and genre, politics and poetics in Marie de France, Lafayette, Stal, Sand, Simone de Beauvoir, Marguerite Duras, Assia Djebar, among other writers. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 155D",
+  "title": "Citoyennes! Women and Politics in Modern France",
+  "units": "4",
+  "description": "Focuses on women's fights for the rights of equality and liberty, their exclusion from the public sphere and their access to citizenship (1789-2001). Women's evolving personal and collective aspirations, and the creation of a republican womanhood in modern culture. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 156A",
+  "title": "French Cinema: History and Theory",
+  "units": "4",
+  "description": "History of French cinema from 1895-present, covering the silent period, the early classic era, the war years, and the New Wave, with a survey of the major French film theories since the 1920s. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 156C",
+  "title": "Modern Images of the Middle Ages: The Intersection of Text, History, and Film",
+  "units": "4",
+  "description": "Modern images of the Middle Ages: the intersection of text, history, and film. Course will examine major cultural aspects of the Middle Ages, including courtly love, the Arthurian myth, the legend of Robin Hood, witchcraft, scholasticism, the Inquisition, war and death, through the dual optic of medieval literature and modern film. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 156D",
+  "title": "Technology and Cinema",
+  "units": "4",
+  "description": "Cinema fulfills and breaks down the technological project of framing the whole of existence. Themes: humanity and/as technological threat, the decline of language and ethics, the culture industry, science fiction. Screenings include Tarkovsky, Kubrick, Star Wars, Marker, Godard, Melies, Lang. Lectures and readings in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 156E",
+  "title": "Sociology of French Popular Culture",
+  "units": "4",
+  "description": "Through the study of sociological essays and popular arts such as films, songs, TV shows, and cartoons, the course examines some features of contemporary France that range from longstanding cultural habits to burning political debates about social mobility, immigration, secularism, globalization, the role of the state, etc. Taught in English.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 158",
+  "title": "Crossreadings : French and Italian Cultures in Dialogue and Translation",
+  "units": "4",
+  "description": "Ever since the Renaissance, when the notion of a national culture had taken hold, the historic, literary and intellectual trajectories of France and Italy have been intimately entangled. Taking a chronological approach from the Renaissance to the post-modern period, this course will embark on a number of comparative readings from these two countries: from Rabelais carnivalesque uptake of Boccaccios humor and vulgarity; to Italys attempt at emulating the French Revolution; to Giuseppe Ungarettis debt to avant-garde literary figures, and more. Our goal will be to reveal that cultures and intellectual traditions exist not in isolation but emerge out of a perpetual conversation withand translation ofeach other. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 191F",
+  "title": "Enhancement Seminar in French",
+  "units": "16",
+  "description": "Designed for French majors or minors (or students with reading fluency in French) enrolled in any French Upper Division course taught in English (numbered from 153 to 156, and 189), or Comparative Literature UD courses taught by French faculty. Students will read materials in French, meet with the instructor to discuss them and complete assignments in French in order to improve their linguistic and cultural fluency.",
+  "prerequisites_raw": "Instructor approval and concurrent enrollment in any French Upper Division course taught in English (numbered 153 to 156, and 189) or any UD Comparative Literature course taught by French faculty.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 195H",
+  "title": "Honors Independent Studies in French",
+  "units": "4",
+  "description": "Individual investigations in literary or linguistics fields in fulfillment of Senior Honors Thesis for French Major.",
+  "prerequisites_raw": "Upper-division standing; 24 upper-division units in French.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 197",
+  "title": "Topics in French and Francophone Studies",
+  "units": "4",
+  "description": "A seminar dedicated to advanced study of topics of special interest in French and Francophone literary, cultural, or sociological studies. Will lead to research projects and include investigation of theoretical issues. May be repeated for credit if topic changes. Content will vary with each instructor. A full description will be available when offered. In French.",
+  "prerequisites_raw": "3 upper division courses in French, including one course from the 104 series and one course from the 101 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 197H",
+  "title": "Topics in French and Francophone Studies, Honors Seminar",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors section, which is taught by the course instructor. It involves discussion of selected texts, students presentations, and the completion of an independent project on any aspect of the courses chosen theme.",
+  "prerequisites_raw": "Concurrent enrollment in French 197; honors standing",
+  "prerequisites_courses": [
+   "FR 197"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 198",
+  "title": "Honors Seminar",
+  "units": "4",
+  "description": "This seminar is concurrently offered with graduate seminars or with French 197. It is designed to expand research skills through an investigation of theoretical issues and readings of both literary and critical texts. It involves extensive research, sophisticated analysis, and creative reflection. In French.",
+  "prerequisites_raw": "Consent of instructor; honors standing in the French program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 199",
+  "title": "Independent Studies in French",
+  "units": "0",
+  "description": "Individual investigations in literary or linguistics fields.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in French.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Independent research, under the supervision of a consenting faculty member.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in French; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 202",
+  "title": "Introduction to French Studies",
+  "units": "2",
+  "description": "This proseminar includes presentations and discussions by faculty of research areas that compose the field of French literary studies and its interdisciplinary components. Students will be introduced to research methodologies, including those requiring historical and bibliographic investigation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 226",
+  "title": "Literary and Critical Theory",
+  "units": "4",
+  "description": "Comparative examination of contemporary continental philosophy and of the canonical texts that have defined literary criticism and cultural theory. Critical reevaluation of the field of French studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 226A",
+  "title": "Modern Literary Theory",
+  "units": "4",
+  "description": "An introduction to the major trends in contemporary literary criticism. In-depth discussion of structuralism, deconstruction, psychoanalysis, new historicism, and other recent post-modern theories.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 226B",
+  "title": "Feminist Theory and Gender Studies",
+  "units": "4",
+  "description": "A critical introduction to feminist literary and gender theory through the study of main strands in feminism, including the relations of women with literary production, the potential definitions of feminist writing, and the tensions between various traditions of feminist inquiry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 226C",
+  "title": "Rhetoric and Literature",
+  "units": "4",
+  "description": "History and theory of rhetoric, as codified by Plato, Aristotle, Cicero, Quintilian, Saint Augustine, and subsequent theorists from the Middle Ages to today. Primary readings as applied to such diverse individual specializations as literature, law, politics, spirituality, performance, etc.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 226E",
+  "title": "Literary and Critical Theory",
+  "units": "4",
+  "description": "Comparative examination of contemporary continental philosophy and of the canonical texts that have defined literary criticism and cultural theory. Critical reevaluation of the field of French studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 227",
+  "title": "Medieval and Renaissance Studies",
+  "units": "4",
+  "description": "Close literary investigation and cultural analysis (theoretical, rhetorical, codicological, artistic, performative, political and religious) of the most exciting literature and critical trends in this burgeoning field.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 227A",
+  "title": "Introduction to Old French",
+  "units": "4",
+  "description": "Introduction to old French and examination of a number of early medieval works.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 227B",
+  "title": "Courtly Love and Courtly Romance",
+  "units": "4",
+  "description": "Courtly love and courtly romance.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 227C",
+  "title": "Medieval Theater and Theatricality",
+  "units": "4",
+  "description": "Medieval theater and theatricality.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

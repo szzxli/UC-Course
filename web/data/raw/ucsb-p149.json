@@ -1,0 +1,332 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 295A",
+  "title": "Soils and Ecosystems",
+  "units": "3",
+  "description": "Development of the links between the biological and in organic components of the soil. Water availability and nutrients control plant and soil microbial communities. These in turn affect the soil by enhancing weathering and modifying the local environment.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 500",
+  "title": "Teaching Assistant Orientation",
+  "units": "1",
+  "description": "General orientation regarding the University of California and the Santa Barbara campus; various pertinent regulations, officials and their functions, staff and functions; services available to teaching assistants and to students. Prospective teaching assistants are encouraged to take this course during the fall quarter prior to their employment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 501",
+  "title": "Practicum in Instruction",
+  "units": "0",
+  "description": "Practical experience in teaching within specified areas of biology. Students will have responsibility for one or more laboratory and/or discussion sections. Staff will periodically observe teaching assistants in actual teaching situations. Evaluation forms will be completed by members of the class sections.",
+  "prerequisites_raw": "Concurrent teaching assistant employment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 502",
+  "title": "Techniques of Teaching and Laboratory Class Supervision",
+  "units": "0",
+  "description": "Weekly discussion and readings on techniques of teaching including lecturing, leading discussions, writing and grading exams, student-teacher interactions classroom dynamics, and teaching philosophy.",
+  "prerequisites_raw": "Concurrent teaching assistant employment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 503",
+  "title": "Research Practium in Biology",
+  "units": "0",
+  "description": "Basic procedures and methods of research in a specific area as determined by consultation between the supervising faculty member and the research assistant. Includes weekly meetings and consultations, and formal evaluations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 507",
+  "title": "Introduction to Graduate Research",
+  "units": "2",
+  "description": "Introduction to research at the graduate level for first-year EEMB graduate students Topics include navigating degree requirements, keeping up to date with the scientific literature, building a professional network, and scientific ethics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 508",
+  "title": "Foundations in Ecology",
+  "units": "4",
+  "description": "This is the first in a set of advanced courses in ecology and evolution, and includes modules on organismal, population, community, and ecosystem ecology. The course includes discussion of foundational papers in the field, as well as weekly tutorials contextualizing topics using R, group discussions, and mathematical models.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 509",
+  "title": "Levels of Biological Organization II: Communities and Ecosystems",
+  "units": "4",
+  "description": "This is the second in a set of advanced courses in ecology and evolution, and includes modules on the origins of diversity, species interactions and coexistence, the causes and consequences of food-web complexity, and ecosystem level processes.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 510",
+  "title": "Professional Development for Graduate Students",
+  "units": "2",
+  "description": "Survey of topics significant to graduate student professional development, including CV preparation, grant proposal writing, and publication. Course participants have the opportunity to enhance specific academic skills through interaction with peers and the faculty instructor in a workshop format.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 511",
+  "title": "Writing Science",
+  "units": "2",
+  "description": "A hands-on workshop to polish writing skills. Modules focus on story telling to make ideas compelling, streamlining to make writing compact and effective, and developing flow of ideas and paragraphs. Students work on a chapter, paper, or proposal.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 590",
+  "title": "EEMB Colloquium",
+  "units": "2",
+  "description": "Presentation and discussion of recent work in ecology, evolution, behavioral ecology, evolutionary ecology, physiological ecology, and marine biology, by eminent and nationally and internationally well known biologists. Optional individual discussion in addition to formal lecture.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matter for these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595A",
+  "title": "Ecology and Evolution",
+  "units": "2",
+  "description": "A critical review of research in ecology and evolution.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595AA",
+  "title": "Evolutionary Ecology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595AL",
+  "title": "Energetics of Animal Locomotion",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595B",
+  "title": "Manipulating Reproduction",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595BC",
+  "title": "Advanced Community Ecology",
+  "units": "2",
+  "description": "Readings and discussions of contemporary topics in community ecology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595BD",
+  "title": "Special topics in Microbial Ecology & Physiology",
+  "units": "2",
+  "description": "In depth study of physiology and ecology of microorganisms with a focus on bacteria and archaea. Source material will be a mixture of graduate-level texts, review articles and primary literature. Weekly meetings will be interactive and student-led. Our focus will be on fundamental processes in the metabolism and interactions of microbes (from foundational knowledge to recent discoveries), but we will also analyze the methods used to study these processes in diverse natural ecosystems (e.g. sequencing, bioinformatics, microscopy, stable isotopes).",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595C",
+  "title": "Systematics",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595CA",
+  "title": "Construction and Analysis of Ecological Models",
+  "units": "2",
+  "description": "Students will design, construct, code, and analyze novel ecological models. Topics and exercises will prepare students for the EEMB written qualification exam in Mathematics Biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595CB",
+  "title": "Conservation Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matter for these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595CE",
+  "title": "Community Ecology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595CM",
+  "title": "Trends in Climate Change Mitigation",
+  "units": "2",
+  "description": "A critical review of research in carbon dioxide removal with a focus on the marine environment.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595CO",
+  "title": "Collection-Based Research: Principles and Practices in Biodiversity Science",
+  "units": "2",
+  "description": "Explores the use of biological collections—such as herbaria, vertebrate and invertebrate museums, and paleontological —in biodiversity research. Globally, biological collections house around 3 billion specimens that provide historical and geographic context that can enhance studies in ecology and evolution. Topics include emerging specimen-based research methods (e.g., CT scanning, isotopes, ancient DNA, machine learning), and practical consideration in specimen uses (e.g., permits and regulations, destructive sampling, data curation). Students will gain practical skills for accessing, analyzing, and contributing to collections-based science using both traditional and emerging techniques.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595CR",
+  "title": "Ecology of Coral Reefs",
+  "units": "2",
+  "description": "Review and discussion of recent literature on various topics in coral reef ecology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595D",
+  "title": "Plant Ecology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595DD",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matterfor these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595DL",
+  "title": "Contempoarary Approaches to Marine Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595DS",
+  "title": "Ecological Data Synthesis",
+  "units": "2",
+  "description": "A critical review of research in ecological data synthesis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595EE",
+  "title": "Symbiosis",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595EG",
+  "title": "Evolutionary Genetics",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595EM",
+  "title": "Ecosystem Management",
+  "units": "2",
+  "description": "Explores case studies in ecosystem-based management in terrestrial, aquatic, and marine ecosystems. Evaluates the effectiveness of existing approaches to managing entire ecosystems and to develop new conceptual frameworks for advancing the field. Linked with comparable graduate seminars at universities around the U.S. to provide a distributed effort in studying ecosystem-based management.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595EN",
+  "title": "Environmental Endocrinology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

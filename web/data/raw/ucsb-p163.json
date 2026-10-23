@@ -1,0 +1,270 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 134RN",
+  "title": "Refugee Narratives: The Arts of Mapping Displacement",
+  "units": "4",
+  "description": "Explores conditions of forced displacement from the perspectives of refugee artists, writers, and storytellers. Students will engage with the UCSB Art, Design, and Architecture museum’s Winter 2026 exhibit featuring Tiffany Chung’s artwork, known for her maps of global migration as a result of war, environmental disaster, and industrialization. Through Chung’s artwork and literature by refugee authors, we will consider specific refugee stories from Vietnamese, Cambodian, Lao, Syrian, and Afghan diasporas. Students will create their own \"story map\" that combines literary and visual elements to tell a story about forced migration.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 134RR",
+  "title": "Studies in Literature of Cultural and Ethnic Communities in the United States",
+  "units": "4-28",
+  "description": "Studies in literature of cultural and ethnic communities in the United States. Courses on writing produced by, or associated with, cultural communities in America such as Afro-Americans, Chicanos, Asian-Americans.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 134RS",
+  "title": "Studies in Literature of Cultural and Ethnic Communities in the United States",
+  "units": "4-28",
+  "description": "Studies in literature of cultural and ethnic communities in the United States. Courses on writing produced by, or associated with, cultural communities in America such as Afro-Americans, Chicanos, Asian-Americans.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 134TC",
+  "title": "Studies in Literature of Cultural and Ethnic Communities in the United States",
+  "units": "4-28",
+  "description": "Studies in literature of cultural and ethnic communities in the United States. Courses on writing produced by, or associated with, cultural communities in America such as Afro-Americans, Chicanos, Asian-Americans.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 134TR",
+  "title": "Studies in Literature of Cultural and Ethnic Communities in the United States",
+  "units": "4-28",
+  "description": "Studies in literature of cultural and ethnic communities in the United States. Courses on writing produced by, or associated with, cultural communities in America such as Afro-Americans, Chicanos, Asian-Americans.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 134XX",
+  "title": "Studies in Literature of Cultural and Ethnic Communities in the United States",
+  "units": "4",
+  "description": "Studies in literature of cultural and ethnic communities in the United States. Courses on writing produced by, or associated with, cultural communities in America such as Afro-Americans, Chicanos, Asian-Americans.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 136",
+  "title": "Writing the Early American Self",
+  "units": "4",
+  "description": "The place that would eventually become the United States was occupied by a remarkable range of selves: Puritan prisoner of war Mary Rowlandson; activist Mohegan minister Samson Occom; condemned criminals Esther Rogers and Joseph Hanno; formerly enslaved abolitionist slave Olaudah Equiano; and revolutionary printer Benjamin Franklin. This course considers not only a rich variety of selves, but the remarkable range of genres that emerged to document those selves, from the spiritual confessions of everyday Puritans seeking church membership, to Indian captivity narratives, to gallows literature and the slave narrative.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 137A",
+  "title": "Poetry in America Before 1900",
+  "units": "4",
+  "description": "Developing traditions of American poetry within a variety of historical andcultural contexts: from the beginnings to the modern era.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 137B",
+  "title": "Poetry in America since 1900",
+  "units": "4",
+  "description": "Developing traditions of American poetry withi a variety of historical and cultural contexts: modern to contemporary.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 138C",
+  "title": "Prose Narrative in America Since 1917",
+  "units": "4",
+  "description": "Developing traditions of prose narrative within a variety of historical and cultural contexts: from World War I to the present.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 139",
+  "title": "Writing Ecology",
+  "units": "4",
+  "description": "Courses focus on ecological literatures and practices of writing. Genres may include poetry, memoir, short story, creative non-fiction, and fiction.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 141",
+  "title": "Global Environmental Literatures",
+  "units": "4-24",
+  "description": "Courses focus on environmental literatures across global, regional, transnational, transoceanic, and/or diasporic contexts.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 141MC",
+  "title": "Migrant Ecologies",
+  "units": "4",
+  "description": "The course critically examines literary and cultural works that address the relationships between race, migration, and the environment, illuminating social and political forces that shape human/nonhuman movement and the natural world. How do cultural works centering marginalized communities reveal systemic inequities and imagine more sustainable relationships with land and water? How are our individual and collective identities entangled with a sense of place? We consider how literary and visual narratives can inspire and reflect on social movements at the intersection of racial, migrant, and environmental justice. Course texts may include novels, poetry, documentary film, visual art, and select literary criticism.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 141ME",
+  "title": "Global Environmental Literatures: Ecologies of Race and Migration",
+  "units": "4",
+  "description": "Critically examines literary and cultural works that address the relationships between race, migration, and the environment, illuminating social and political forces that shape human/nonhuman movement and the natural world. How do cultural works centering on marginalized communities reveal systemic inequities and imagine more sustainable relationships with land and water? How are our individual and collective identities entangled with a sense of place? We consider how literary and visual narratives can reflect on global power dynamics and inspire social movements at the intersection of racial and environmental justice. Course texts may include novels, poetry, documentary film, visual art, and select literary criticism.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 141PR",
+  "title": "Writing Plant and Food Stories",
+  "units": "4",
+  "description": "A creative writing workshop course where students develop creative works based on the genres of ecological writing, cooking and cuisine, and Indigenous creative non-fiction. We study the conventions of nature and food writing, cultural and theoretical frameworks for human-plant relations, and engage in scholarly critique and research in addition to creative writing practice. In addition, students complete a fieldwork project involving gardening or culinary research. Students are encouraged to publish their final projects and will be mentored through the process of submitting writing to literary journals, food magazines, and culture-focused digital platforms.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 142",
+  "title": "Environmental Justice",
+  "units": "4-24",
+  "description": "Courses focus on literatures and topics in environmental justice, such as health, toxicity, inequality, risk, race, environmental law, and climate justice.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 142OH",
+  "title": "Ocean Humanities",
+  "units": "4",
+  "description": "This course introduces students to the ocean humanities. This branch of the environmental humanities will examine literature, media, and theory specific to the global ocean from a range of cultural perspectives and contexts. It will also examine how knowledge formation in the sciences generates particular stories and narratives about the ocean, particularly in documentary film and conservation. The course will closely study the imagination and construction of oceanic perspectives (human, animal, machine) in relation to questions of objectivity, power, empire, race, class, and gender. Ideal for students interested in science communication, creative nonfiction, environmental justice, or environmental philosophy.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 142TT",
+  "title": "Talking Trees: Interspecies Encounters",
+  "units": "4",
+  "description": "In this class we will talk and write about stories of tree/human interspecies encounters, from Ovid to 'The Overstory.'",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 143",
+  "title": "Media & Environment",
+  "units": "4-24",
+  "description": "Courses focus on the relations between environments, media forms, and mediation. Topics may include media about the environment, the environmental impacts of media technologies, and how elements of the environment may store or transfer information. Courses may address documentary films, poetry, literary fiction, soundscapes, photography, and other sensory media.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 143HE",
+  "title": "Humor and Ecology",
+  "units": "4",
+  "description": "Explores the surprising humor of contemporary literature and film about climate change. From comic horror to satire, surrealism, and absurdism, writers use the traditions of laughter to explore the possibilities of understanding, imagination, playfulness, and engagement in relation to climate change. Students will be introduced to some of the major research on humor, including theories that associate humor with relief, incongruity, playfulness and social connection, and superiority. The course will also introduce current research on climate change in literary studies.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 144",
+  "title": "The European Renaissance",
+  "units": "4",
+  "description": "The generic forms of cultural issues characteristic of early modern European poetry, fiction, and drama. Such authors as Petrarch, Boccaccio, More, Rabelais, Ariosto, Montaigne, Camoes, Shakespeare, Lope de Vega, and Cervantes.",
+  "prerequisites_raw": "Writing 2 and 50 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ }
+]

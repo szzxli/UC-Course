@@ -1,0 +1,278 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190WG",
+  "title": "Women, Work, and Gambling",
+  "units": "4",
+  "description": "This rigorous, interdisciplinary seminar examines contemporary gaming, gambling, and digital media platforms. In this course we ask: How are entertainment and work shaped by capitalism and mediated by digital platforms? Who works and plays on digital platforms? How does digital media change, distort, warp, or adapt our work lives and leisure time? Drawing from texts in feminist studies, history, sociology, critical theory, gaming and gambling studies, political economy, and film theory, students will develop a high-quality, well-argued, original final paper throughout the quarter. Students will closely engage with course texts and fellow classmates’ written work in writing workshops.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 190XX",
+  "title": "Studies in Film, Media and the Other Arts",
+  "units": "4",
+  "description": "An analysis of film and other media in relation to literary and plastic arts such as photography, architecture, and the novel. Topics vary.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 192",
+  "title": "Topics in Film and Media Theory",
+  "units": "5",
+  "description": "Addresses film, television and/or digital media from a variety of theoretical perspectives; topics will vary depending on instructor. Critical analytical papers will be required. Emphases have included classical, contemporary and comparative theories of film and media.",
+  "prerequisites_raw": "Film and Media 96 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 192CT",
+  "title": "Topics in Film and Media Theory: Cultural Thory",
+  "units": "5",
+  "description": "This course introduces students to theoretical approaches and frameworks that are crucial to understanding our social and cultural contemporaneity. Topics include ideology and social determination; knowledge and power; history, memory, and trauma; postcolonial/decolonial critique; neoliberal globalization; biopolitics; risk and precarity.",
+  "prerequisites_raw": "Film and Media 96 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 192DT",
+  "title": "Topics in Film and Media Theory: Digital Theory",
+  "units": "5",
+  "description": "Histories and theories of digital media and their users, from early computers and networks to video games and selfies. Approaches include comparative media analysis, cultural studies, science and technology studies, software/platform studies, and environmental media critique.",
+  "prerequisites_raw": "Film and Media 96 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 192FC",
+  "title": "Theories of Filmgoing and Mass Culture",
+  "units": "5",
+  "description": "In our age of online streaming platforms, diminishing theatrical ticket sales, and individual media devices, one may reasonably ask: what is the value of filmgoing in a space shared with others? This course will help us consider this pressing question by engaging past and present theories of cinema’s effect on landscapes of mass culture. Beginning with film photography at the cusp of modernity, before tracing positive and negative appraisals of cinema’s ideological power, we will ultimately consider arguments for why public filmgoing should matter: insofar as collective viewership may challenge insufficient assumptions, open up newfound ethical possibilities, and incite astonishing alternatives to the status quo.",
+  "prerequisites_raw": "Film and Media 96 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 192FT",
+  "title": "Topics in Film and Media Theory",
+  "units": "5",
+  "description": "Addresses film, television and/or digital media from a variety of theoretical perspectives; topics will vary depending on instructor. Critical analytical papers will be required. Emphases have included classical, contemporary and comparative theories of film and media.",
+  "prerequisites_raw": "Film and Media 96 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 192GT",
+  "title": "Genre Theory",
+  "units": "5",
+  "description": "Examines the study of film genres through a theoretical lens. Topics include semiotic, structuralist, psychoanalytic, and phenomenological theories of the musical, the horror film, melodrama, and the concept of genre itself.",
+  "prerequisites_raw": "Film and Media 96 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 192PM",
+  "title": "Topics in Film and Media Theory: Popular Music and Youth Culture",
+  "units": "5",
+  "description": "Explores the social history and cultural politics of popular music and youth culture, with an emphasis on the relations between musical meaning, technological mediation, cultural value, and social power.",
+  "prerequisites_raw": "Film and Media 96 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 193",
+  "title": "The Carsey-Wolf Center Practicum: Contemporary Programming, Distribution, and Exhibition.",
+  "units": "4",
+  "description": "This course will use the Pollock Theater and its programming as a laboratory for studying contemporary programming and exhibition practices. Topics under consideration will include media distribution and exhibition contexts, constructing programming series and conducting interviews with guests, and the way contemporary tastes are shaped through algorithms and curation practices. Students will have opportunities to gain hands-on experience with camera equipment. Regular attendance at Carsey-Wolf Center events in the Pollock Theater will be required.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing, and consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 195FJ",
+  "title": "Focus Media Journal",
+  "units": "4",
+  "description": "For members of the editorial board of the Focus Media Journal at UCSB. UCSB Focus Media Journal is an annual scholarly journal issued every spring quarter. As a literary publication for the Film and Media Studies Department, the journal’s goal is to engage students from all disciplines, with a focus on media forms.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 195I",
+  "title": "Internship in Film/Television",
+  "units": "2",
+  "description": "An opportunity for training, career sampling, and contacts in the film or television industry. Required are approximately 100 hours of work a quarter, a final five-page report, and a supervisor's letter of verification.",
+  "prerequisites_raw": "Upper-division standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 195PI",
+  "title": "Pollock Theater Event and Production Internship",
+  "units": "2",
+  "description": "Students gain professional skills, including writing event proposals, marketing, and theater operations. Over three quarters, this class emphasizes different aspects of broadcast production, which include Q&As/talk shows, sitcoms, and directing. May be taken up to three times.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 196",
+  "title": "Senior Honors Seminar",
+  "units": "4",
+  "description": "A one-quarter directed study, to be conducted as outlined in the description of the Senior Honors Program. Honors candidates will write a senior thesis on a topic approved by film studies faculty.",
+  "prerequisites_raw": "Admission to senior honors program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Selected research under the direction of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in film studies; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 199RA",
+  "title": "Independent Research Assistance in Film Studies",
+  "units": "0",
+  "description": "Course work shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in film studies; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 210",
+  "title": "Media Production",
+  "units": "4",
+  "description": "Graduate-level instruction in film or video pre-production, production, and post-production.",
+  "prerequisites_raw": "Open to film and media studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 213",
+  "title": "Autobiographical Screenwriting",
+  "units": "4",
+  "description": "Explores the creative process in autobiographical screenplay construction through writing exercises as well as film viewing. Seeks innovative means of character and story development including but not limited to internet personas and autobiographical tourism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 220",
+  "title": "Critical Analysis and Method",
+  "units": "4",
+  "description": "Seminar examining a range of methodologies and critical approaches to the study of film and media, with the specific topics chosen by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 222",
+  "title": "Special Topics in Film Analysis",
+  "units": "4",
+  "description": "Close examination of an element of film style - such as sound, color, or camera movement - and its impact on interpretation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 223",
+  "title": "Black Film Criticism",
+  "units": "4",
+  "description": "Explores the social, cultural, aesthetic, and economic contexts of black critical writing on film over the past century. Studies the black critique of racial representation in Hollywood and other cinemas, the black independent cinemas, and issues of black spectatorship.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 224",
+  "title": "Genre Analysis",
+  "units": "4",
+  "description": "Genre criticism illuminates the artistic and popular appeal of film and explores the relation of aesthetics to ideology. Course analyzes genre criticism through the lens of genre theory, reexamining conventional approaches to the nature and history of formulaic films.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 225",
+  "title": "Film and Media Authorship",
+  "units": "4",
+  "description": "Examines theories of authorship in film and television and how these ideas are redefined and questioned in a poststructuralist and postmodernist paradigm as well as with the evolution of interactive technologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 226",
+  "title": "National Cinemas",
+  "units": "4",
+  "description": "Close analysis of theories of nation, nationalism, and national cinema, with a focus on the contentious relations between culture, history, media capital and the state. Topics include evolving genres, styles, movements and institutions; local lifeworlds and cultural difference within a post-national context; and the spectral nature of contemporary national formations.Offered concurrently with Film Studies 187AA-ZZ.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 230",
+  "title": "Philosophy of Film History",
+  "units": "4",
+  "description": "Studies works and concepts in the philosophy of history that have informed the researching and writing of film and media history. Will also consider the ways in which film and media texts have extended debates and concepts of historiographic practice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 231",
+  "title": "Media Historiographies",
+  "units": "4",
+  "description": "Comparative analysis of various historical accounts of cinema, television, and digital media that have shaped the field of film and media studies. Emphasis on issues and debates that have dominated efforts to write rigorous, methodologically explicit histories of different media.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 232",
+  "title": "Special Topics in Film and Media History",
+  "units": "4",
+  "description": "Close examination of a topic in film and/or media history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

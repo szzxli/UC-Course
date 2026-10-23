@@ -1,0 +1,265 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151D",
+  "title": "Literature and the Visual Arts",
+  "units": "4",
+  "description": "Focus on the cross-fertilization between literature and the visual arts in various periods. Topics include the rhetoric of images; the connections that link image and text in high and popular art; poetry and painting; art criticism, and hybrid forms such as comic strips.",
+  "prerequisites_raw": "One course from French 101A-B-C, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151E",
+  "title": "Novels on the Screen",
+  "units": "4",
+  "description": "A comparative study of some of the great French and Francophone novels, alongside their adaptations for the silver screen. What does it mean to adapt a literary text for the cinema? Works studied will include: Balzac, Le colonel Chabert, Flaubert, Madame Bovary, and Zobel, La rue Cases-Ngres, as well as notable adaptations of these works by Angelo, Renoir, Chabrol, Palcy, and others. Lectures and readings in French, films in French (with English subtitles).",
+  "prerequisites_raw": "One course from French 101A-B-C, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151F",
+  "title": "Sociology of French Popular Culture",
+  "units": "4",
+  "description": "Through the study of sociological essays and popular arts such as films, songs, TV shows, and cartoons, the course examines some features of contemporary France that range from longstanding cultural habits to burning political debates about social mobility, immigration, secularism, globalization, the role of the state, etc. Taught in French.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151G",
+  "title": "Globalization and Development in the Francosphere",
+  "units": "4",
+  "description": "Examines the postcolonial history of several Francophone nations in the developing world, emphasizing the interplay between the political, economic, social, and cultural spheres. Specific cases studied will vary. Students develop their own policy-oriented class project. Taught in French.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151I",
+  "title": "Bioethics in France and the Francosphere",
+  "units": "4",
+  "description": "An introduction to pressing contemporary issues and debates concerning bioethics in France and the Francosphere. Discusses issues such as euthanasia, genetic engineering, artificial intelligence, animal experiments and transhumanism, and culminates in the presentation and defense of student-devised projects. Taught in French.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F, or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151J",
+  "title": "French for Life and Social Sciences",
+  "units": "4",
+  "description": "Project-based course designed to introduce students with an interest in life and/or social sciences to discipline-specific vocabulary and professional conventions necessary to communicate effectively with French speakers in the life and social sciences, including biology, psychology, and medicine. Students work in groups on a collaborative project of their design under the guidance of the instructor, resulting in an oral and written report. Final projects are presented in an event open to fellow students and professors. All sessions are conducted in French, and all work is to be completed in French.",
+  "prerequisites_raw": "French 6, 6GS, or equivalent.",
+  "prerequisites_courses": [
+   "FR 6",
+   "FR 6GS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151K",
+  "title": "Learning French: Culture, Language, Methods",
+  "units": "4",
+  "description": "Covers three basic areas important to students interested in language acquisition, particularly for French. These include 1) the interpretation of culturally embedded visual, written, and oral texts; 2) the analysis of French linguistic structure; 3) the psychology of language learning and effective pedagogical methods. Emphasis on intercultural communication and semiotic interpretation. Taught in French.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 151R",
+  "title": "French for International Relations and Diplomacy",
+  "units": "4",
+  "description": "This course focuses on French perspectives of two organizations dedicated to international relations, the United Nations and the European Union. The analysis of both organizations, which have very different goals, institutions, and agendas, lays the groundwork for an exploration of French diplomatic relations. Students engage in two \"model UN\" and \"model EU\" activities for increased understanding of the finer points of international relations and diplomacy. Studentsalso write two \"notes de synthse,\" essentially short formal papers summarizing a political situation. One midterm and one final exam. Taught in French.",
+  "prerequisites_raw": "One course from French 104A-B-C-E-F or equivalent (may be taken concurrently with instructor's approval).",
+  "prerequisites_courses": [
+   "FR 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 153A",
+  "title": "Studies in Medieval Literature",
+  "units": "4",
+  "description": "A study of one or more major medieval works in translation such as The Song of Roland, the romances of Chretien de Troyes, the Lais of Marie de France,or The Romance of the Rose.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 153B",
+  "title": "French Theatre in Translation",
+  "units": "4",
+  "description": "A study of French theatre through the centuries, considered within the cultural context of the day (Classicism, the Enlightenment, Romanticism, the Absurd, etc). Plays by Molire, Marivaux, Beaumarchais, Hugo, Musset, Ionesco, and Beckett. Lectures and readings in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 153C",
+  "title": "Autobiographies and Life Stories",
+  "units": "4",
+  "description": "Considers autobiographies, memoirs, testimonials, life writing, and other works of narrative fiction and nonfiction often written in the first person. Topics include self-portrait, the portrayal of childhood and family, childhood and youth narratives, women's autobiography, first-person accounts of illness and disability in comics, and more. Texts and course foci vary with the instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 153D",
+  "title": "Fantasy and the Fantastic",
+  "units": "4",
+  "description": "Course explores the creation of a space where a fantastic perception of reality developed and thrived, hesitating between the real and the supernatural, in the intermediate space of the unexplained and unexplainable. Works by Balzac, Poe, Stevenson, James, and Borges.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 153F",
+  "title": "Existentialist Literature in Translation",
+  "units": "4",
+  "description": "How much freedom can you take? The course explores the quandaries of the twentieth-century individual, free and self-created, in the world of responsibilities and attachments. Readings include fiction, drama, and philosophical essays by Jean-Paul Sartre, Albert Camus, Simone de Beauvoir.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154A",
+  "title": "Voyages to the Unknown",
+  "units": "4",
+  "description": "The impact of the voyages of discovery on late 15th- and 16th-century Europe. Readings on real and imaginary voyages: Columbus, Cartier, Lery, More, Rabelais, Montaigne.",
+  "prerequisites_raw": "Writing 2 or equivalent",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154B",
+  "title": "Creativity in Renaissance Europe",
+  "units": "4",
+  "description": "Explores the renewed sense of human achievement and limitation in Renaissance Europe. Focus on the meanings of creativity in the religious, philosophical and artistic contexts of the time. Authors include Petrarch, Pico Della Mirandola, Erasmus, Castiglione, Ronsard, Montaigne.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154C",
+  "title": "France in the Sixteenth Century",
+  "units": "4",
+  "description": "Politics, religion, society and culture in France from the reign of Franois I to Henri IV. Topics include the French Renaissance, religious divisions and civil war, kingship and local authority, family and social hierarchy, and Frances relations beyond its borders.",
+  "prerequisites_raw": "History 2B or 4B or 9 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2B",
+   "HIST 4B",
+   "HIST 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154CF",
+  "title": "France in the Seventeenth Century",
+  "units": "4",
+  "description": "A focus on the history of France from the reign of Henri IV (1595) to the end of the reign of Louis XIV (1715). Topics include court culture and politics, religious tensions and experiences of French Protestants, natural philosophy, social upheaval and gender relations, French colonial endeavors.",
+  "prerequisites_raw": "Upper division standing or Hist 4B or Hist 2B or Hist 9 or Hist 121C",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154D",
+  "title": "Torture: Theory, History, Practice",
+  "units": "4",
+  "description": "An investigation into the history of torture from classical antiquity to Amnesty International. Discussions focus on its interrelations with literature, law, art history, gender, and violence in the media. Guest lecturers, as available.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154E",
+  "title": "Holocaust in France",
+  "units": "4",
+  "description": "Through analysis of testimonies, memoirs, fiction, and film, this course focuses on France under the Nazi occupation. Topics include the Vichy Regime (1940-1945), The Resistance Movement, the Church under Vichy, anti-Semitism, deportations and concentration camp imprisonment, and national memory after World War II.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154F",
+  "title": "Time Off in Paris!",
+  "units": "4",
+  "description": "Paris and Parisian life in nineteenth- and twentieth-century literature, art and cinema. Drawing upon history, architecture, and art history, we explore the shock of urbanization, the relations between the culture and life of the city, and the rise of avant-garde aesthetics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154G",
+  "title": "Post-Colonial Cultures",
+  "units": "4",
+  "description": "Study of fiction from the Caribbean, West Africa, and the Maghreb. Born of the conflict between and hybridization of widely differing cultural traditions, this course provides insights into the vibrancy of contemporary post-colonial societies, the ongoing legacy of colonialism, and the meaning of multiculturalism. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154H",
+  "title": "Honors Section",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors seminar, which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in one of the French 154 series; honors standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154I",
+  "title": "Economic Fictions: Literature, Film, and Theory",
+  "units": "4",
+  "description": "How have Western thinkers represented economic concepts since the eighteenth century? Themes may include free market liberalism, labor theories of value, household and family economics, currency/monetary policy, associationism/socialism, globalism/expansionism/colonialism, protectionism, and others. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FR",
+  "code": "FR 154J",
+  "title": "Medicine and Comedy",
+  "units": "4",
+  "description": "Medical comedy? Surgical theater? From ancient Greece through the twenty-first century, doctors, patients, and diseases have been staged for comic and cathartic effect at the same time that they transmit serious medical knowledge: all with a big laugh. In English.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ }
+]

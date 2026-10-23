@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265PL",
+  "title": "Pan-Latinx Literature, Culture, and Ideology",
+  "units": "4",
+  "description": "This graduate seminar focuses on comparative assessments of the ever-expanding archive of Latina/o/x literary and cultural production, with particular attention to ideology, that is, imagined and real relationships to hegemony. Works range across form and genre, from fiction, testimonio, poetry, and film, to myriad vernacular productions. Alongside explications of form vis-a-vis ideology, we also will map the constructions and reconstructions of various models of Latinidad across time and place. In mapping the interstices, extremities, and all around dissensus, we will simultaneously be considering broader epistemic and ontological questions related to art, culture, politics, and subjectivity.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265PP",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265QT",
+  "title": "Queer Time",
+  "units": "4",
+  "description": "Readings in queer theory, focused on issues of temporality and the history of sexuality.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265RP",
+  "title": "Reproduction",
+  "units": "4",
+  "description": "Explores the relationship between textual and sexual cultures via the broad category of reproduction. We consider the conceptual status of reproduction itself – crucially, how it relates to the concepts of sameness and difference – alongside an exploration of particular historical and cultural formations (print, manuscript culture, bureaucracy, inheritance law) which articulate these relationships in a variety of ways. How do the frameworks of socialist feminism, queer theory, performance theory, and historical materialism treat these issues? Readings from Sophie Lewis, Christopher Chitty, Gabrielle Spiegel, Mierle Laderman Ukeles, Louis Althusser, Walter Benjamin, Cornelia Vissman, and Hito Steyerl.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265SF",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265TC",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265TN",
+  "title": "Seminar in Special Topics",
+  "units": "4",
+  "description": "Topics vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 265WB",
+  "title": "Writing the Body-Other/The Othered Body",
+  "units": "4",
+  "description": "An advanced graduate-level Creative/Critical Writing Workshop designed for those \"other\" creative writers and thinkers who want the (w)rite/right to employ language in original, innovative, introspective and embodied ways so as to respond to (and/or from) non-dominant locations of identity. The class will evolve and proceed based on the interests and needs of the class members, as guided by la Maestra. Primary texts for this course are students’ own writings, supplemented by additional works—poems, essays, videos, live performances, film, exhibitions, and artwork — assigned to provoke an(other) response. In-class and take-home writing exercises will also offer students multiple approaches to arriving at their material.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 297",
+  "title": "An Introduction to Graduate Study in English",
+  "units": "4",
+  "description": "Introduces graduate students in English to the department, the university, and the disciplines in which we work. We'll focus on practical matters of pedagogy including discussions of classroom practice and options for grading, and explore various genres of academic and professional writing, including the dissertation prospectus, the conference paper, and the journal article. Beyond the fundamentals of disciplinary practice, we’ll also explore broad issues affecting the study of the humanities in California today. Students in the first year of the program are strongly encouraged to enroll.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 298",
+  "title": "Doctoral Colloquium",
+  "units": "2",
+  "description": "The English Department's Doctoral Colloquium provides support and guidance for graduate students as they develop dissertation topics and ideas.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 500",
+  "title": "Directed Teaching",
+  "units": "4",
+  "description": "Supervision and instruction of teaching assistants. Teaching assistants must register for this course.",
+  "prerequisites_raw": "Appointment as a teaching assistant.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 591",
+  "title": "Doctoral Colloquium",
+  "units": "99",
+  "description": "Course provides support for graduate students when developing their dissertation ideas. Focus on research in the humanities at a practical level.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 592",
+  "title": "Transcription Colloquium",
+  "units": "1",
+  "description": "This colloquium provides graduate students: a) an introduction to the hardware and software used in advanced web-page design; b) an overview of the intellecutal issues of digital culture; and, c) a context for developing a web-authoring project.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 593",
+  "title": "Graduate Technology Colloquium",
+  "units": "1",
+  "description": "Provides guidance, training, a forum, and a common center for the various technical endeavors engaged in by student assistants.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 594",
+  "title": "American Cultures and Global Contexts Center (ACGCC) Colloquium",
+  "units": "1",
+  "description": "Explores connections between theorizations of the nature and history of globalization and recent reconceptualizations of American literary and cultural studies with an eye to exploring issues for future research into potentially productive intersections.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 595",
+  "title": "Special Graduate Colloquium",
+  "units": "0",
+  "description": "Graduate level research colloquia in various areas of study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 595CM",
+  "title": "Special Graduate Colloquium",
+  "units": "1",
+  "description": "Graduate level research colloquia in various areas of study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 595GE",
+  "title": "Special Graduate Colloquium",
+  "units": "1",
+  "description": "Graduate level research colloquia in various areas of study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 595HR",
+  "title": "Special Graduate Colloquium",
+  "units": "1",
+  "description": "Graduate level research colloquia in various areas of study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 595PP",
+  "title": "Special Graduate Colloquium",
+  "units": "0",
+  "description": "Graduate level research colloquia in various areas of study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 595PS",
+  "title": "Special Graduate Colloquium",
+  "units": "1",
+  "description": "Graduate level research colloquia in various areas of study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. A written proposal for each tutorial must be approvedby the graduate adviser.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 596AA",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. A written proposal for each tutorial must be approvedby the graduate adviser.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 597",
+  "title": "Individual Study for Master's Comprehensive Exams and Ph.D. Exams",
+  "units": "0",
+  "description": "Instructor should be the student's major professor or chair of the doctoral committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 599",
+  "title": "Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the dissertation, writing the dissertation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 3",
+  "title": "Introduction to Programming",
+  "units": "3",
+  "description": "General philosophy of programming and problem-solving. Students will be introduced to the programming language MATLAB. Specific areas of study will include algorithms, basic decision structures, arrays, matrices, and graphing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 10H",
+  "title": "Engineering Honors Seminar",
+  "units": "1",
+  "description": "An interdisciplinary examination of selected topics, texts, theories, and/or methods in engineering. Particular course focus is determined by the instructor(s) each time the course is offered.",
+  "prerequisites_raw": "Enrollment in College of Engineering Honors Program; lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 13A",
+  "title": "Integrated Networking, Scholarship, and Peer Interaction for eaRly Engineers (INSPIRE) Seminar",
+  "units": "1",
+  "description": "The INSPIRE freshmen seminar series is an integrated academic support and peer mentoring curriculum design to build community and academic soft skills in College of Engineering majors. Topics will include an orientation to the available academic and social resources of the UCSB campus and College of Engineering; time management and organization skills; study skills, clubs, etc. The seminar will offer structured peer mentoring, where enrolled students will be assigned peer groups and peer mentors to help build community within the major.",
+  "prerequisites_raw": "Participation in the College of Engineering INSPIRE freshmen program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 13B",
+  "title": "Integrated Networking, Scholarship, and Peer Interaction for eaRly Engineers (INSPIRE) Seminar",
+  "units": "1",
+  "description": "The Winter INSPIRE freshmen seminar series is an integrated academic support and peer mentoring curriculum design to build community and excitement for opportunities in College of Engineering (CoE) majors. The Winter offering of this seminar will focus on a series of guest speakers (including UCSB CoE alumni and faculty, as well as local industry leaders) in fields aligned with CoE majors. Participants will learn about potential internship opportunities and career pathways within their major. Weekly meetings will include career/technical presentations by guest speakers, questions/answers periods, small group engagement, and other activities designed around the presentation topic.",
+  "prerequisites_raw": "ENGR 13A; Participation in the College of Engineering INSPIRE freshmen program.",
+  "prerequisites_courses": [
+   "ENGR 13A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Directed study to be arranged with individual faculty members. Course offers exceptional students an opportunity to participate in a research group.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 101",
+  "title": "Ethics in Engineering",
+  "units": "3",
+  "description": "The nature of moral value, normative judgment and moral reasoning. Theories of moral value. The engineer's role in society. Ethics in professional practice. Safety, risk, responsibility. Morality and career choice. Code of ethics. Case studies facilitate the comprehension of the concepts introduced.",
+  "prerequisites_raw": "Senior standing in engineering.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,243 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 224",
+  "title": "Sustainable Water Resources Management",
+  "units": "4",
+  "description": "Integrates environmental science and management to address sustainable watershed management. Learn the elements of a watershed management plan and become familiar with the planning process that takes into consideration various issues and concerns and provides concrete actions to address them. Addresses both water quantity and quality issues in a comprehensive approach.",
+  "prerequisites_raw": "ESM 202 and 203.",
+  "prerequisites_courses": [
+   "ESM 202",
+   "ESM 203"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 225",
+  "title": "Water Policy",
+  "units": "4",
+  "description": "Water policy broadly comprises the structures, processes, rules, and institutions that we use to manage water resources. This course provides an overview of water policies at global, national, statewide, and local scales, across public and private sectors. The course looks back into history at how and why these policies were developed, and forward into the future at how they can be improved to meet 21st century realities, particularly climate change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 226",
+  "title": "Groundwater Management",
+  "units": "4",
+  "description": "Examines the principles and tools for groundwater management and stewardship of groundwater resources in the US and includes examples drawn from global groundwater management challenges.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 228",
+  "title": "Monitoring and Evaluation",
+  "units": "4",
+  "description": "Covers the methods and techniques that non-profit organizations and public agencies can use to monitor and evaluate the effectiveness of their programs. Focuses on the design of primary data collection and analysis practices that provide credible evidence of a program's impacts. Topics covered in the course include impact evaluation, performance evaluation, measurement, multi-method evaluation techniques, and the analysis of experimental and non-experimental monitoring data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 229",
+  "title": "Economics and Policy of Climate Change",
+  "units": "4",
+  "description": "Anthropogenic climate change is one of the biggest challenges facing modern society. Economics provide a powerful intellectual foundation for understanding and analyzing many of these challenges. This course employs insights and tools from economics to understand climate change impacts, the design of mitigation and adaptation policies, and the consequences of these policies. Special attention will be paid to how climate impacts and policies could exacerbate or alleviate existing social inequities. Lectures are designed to help students become critically-minded practitioners of climate policy by using empirical evidence and economic reasoning. Problem sets expand students skillsets in statistical analysis and numerical modeling.",
+  "prerequisites_raw": "ESM 204 and graduate standing.",
+  "prerequisites_courses": [
+   "ESM 204"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 230",
+  "title": "Strategic Planning for Social Impact",
+  "units": "",
+  "description": "Developing a strategic direction for a nonprofit, government agency or philanthropic organization. Topics include the strategy development process, stakeholder analysis, vision and mission, strategic positioning, plan implementation and measuring success.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 231",
+  "title": "Creating Value through Environmental Solutions",
+  "units": "2",
+  "description": "In this practicum, students explore environmental challenges faced by a specific corporation and identify opportunities to improve environmental impact through business model innovation. Working on a team with an industry mentor, students evaluate the financial potential, expected social/environmental impact and innovation risks of their ideas. Practical application of theory and tools from ESM 281.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 232",
+  "title": "Environmental Modeling",
+  "units": "4",
+  "description": "Introduction to the development, evaluation, interpretation, and presentation of models as applied to environmental problems. Course consists of theory and many practical examples building and interpreting models using computers.",
+  "prerequisites_raw": "ESM 262",
+  "prerequisites_courses": [
+   "ESM 262"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 233",
+  "title": "Testing Innovation Opportunities and Organizational Readiness",
+  "units": "2",
+  "description": "In this practicum, students test a business model innovation designed to improve environmental impact for a specific corporation. Working on a team with an industry mentor, students conduct customer and market research to validate their idea and assess their corporations innovation culture. Practical application of theory and tools from ESM 281.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 235",
+  "title": "Watershed Analysis",
+  "units": "4",
+  "description": "Hydrologic and geomorphic basis of environmental management problems concerning land surfaces and channels in small drainage basins, particularly the effects of land use and engineered alteration to stream channels. Emphasis placed in the integrated application of both theory and field methods to analyze existing conditions, evaluate the potential effectiveness of alternative solutions, and understand the limitations imposed by intrinsic watershed conditions and other human constraints. Implications for in-stream biota and water quality are acknowledged but not emphasized in this course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 237",
+  "title": "Climate Change Impacts and Adaptation",
+  "units": "4",
+  "description": "How does a changing climate impact natural and human-dominated systems. The use of observations and models to identify impacts that are already occurring and to project future changes and vulnerability. Strategies for adaption at local, regional and global scales.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 239",
+  "title": "Advanced Climate Change Science for Policy Makers",
+  "units": "4",
+  "description": "Examines the science of climate change with a focus on those issues most relevant to policy makers. Topics include: Climate Forcing Agents and their Efficacy; Climate Sensitivity and Feedbacks; Anthropogenic Climate Change; Extreme Events; Energy and Greenhouse Gas Emissions; Global Temperature Limits and Mitigation Scenarios; and Geoengineering. Discussion will focus on topical issues at the nexus of climate policy and science, such as mitigation of short-lived climate pollutants like black carbon.",
+  "prerequisites_raw": "ESM 203",
+  "prerequisites_courses": [
+   "ESM 203"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 240",
+  "title": "Climate Change Biology",
+  "units": "2",
+  "description": "Biological changes in response to climate, their causes, emerging conservation responses and policy implications.",
+  "prerequisites_raw": "Graduate standing in ESM or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 241",
+  "title": "Environmental Politics and Policy",
+  "units": "2",
+  "description": "The politics of environmental policy making from agenda formation to the stages of implementation, assessment, and reforms. Emphasis on national and state level policy making in the U.S. coupled with a consideration of interactions across levels of social organization and comparisons across socio-political systems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 242",
+  "title": "Natural Resource Economics and Policy",
+  "units": "4",
+  "description": "Economic principles and policy issues of the use of exhaustible and renewable resources including fossil fuels, water, minerals, fisheries, forests, and biodiversity. Management of resource markets on regional and international scale.",
+  "prerequisites_raw": "ESM 204 or equivalent.",
+  "prerequisites_courses": [
+   "ESM 204"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 243",
+  "title": "Environmental Policy Analysis",
+  "units": "4",
+  "description": "Developing and analyzing environmental policies involves balancing social, political, and economic considerations. This process is covered, including problem identification, formation of alternative policy responses, methods of analyzing and selecting the most appropriate policy response, and effective communication of results to clients/policymakers.",
+  "prerequisites_raw": "ESM 208 (may be concurrent)",
+  "prerequisites_courses": [
+   "ESM 208"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 244",
+  "title": "Advanced Data Analysis for Environmental Science and Management",
+  "units": "4",
+  "description": "Learn to use specialized data analysis techniques commonly employed in ESM. Topics include: environmental monitoring, incorporating methods for censored data and for time series; spatial data interpolation and prediction; and multi-criteria decision analysis",
+  "prerequisites_raw": "ESM 206A and ESM 206B; or ESM 206 or equivalent",
+  "prerequisites_courses": [
+   "ESM 206A",
+   "ESM 206B",
+   "ESM 206"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 245",
+  "title": "Cost-Benefit Analysis and Nonmarket Valuation",
+  "units": "4",
+  "description": "Economic theory of environmental policy, with special emphasis on the role of cost-benefit analysis. Techniques for estimating economic values for nonmarket environmental resources. Case studies involving ecosystem protection, pollution control, and other topics to illustrate the necessary analytical tools.",
+  "prerequisites_raw": "ESM 204.",
+  "prerequisites_courses": [
+   "ESM 204"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 246",
+  "title": "Econometrics",
+  "units": "4",
+  "description": "Presents research designs and econometric methods for estimating causal effects with non-experimental data. It prepares students for conducting high-quality empirical research with applications in cross-sectional data and panel data settings. Primarily emphasizes research designs and identification (relative to statistical techniques) and applications (relative to theoretical proofs). Methods and concepts covered include: regression adjustment and matching, instrumental variables techniques, regression discontinuity methods, and panel data methods. Each concept will be introduced in class through relevant real-world applications.",
+  "prerequisites_raw": "ESM 206",
+  "prerequisites_courses": [
+   "ESM 206"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 248",
+  "title": "Environmental Institutions: Rights, Rules, and Decision-making Systems",
+  "units": "4",
+  "description": "Comparative study of management systems or regimes addressing natural resource and environmental concerns and operating at scales ranging from local to global. Topics include characterization of individual regimes and factors affecting the formation, evolution, and effectiveness of these institutional arrangements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 249",
+  "title": "Environmental Persuasion",
+  "units": "2",
+  "description": "An introduction to the practice of environmental communications in professional settings. Topics include environmental psychology, message framing, persuasion, and decision making, with a focus on public media and communication. Focuses on how to design and implement public media communication programs to be effective for particular audiences, goals and circumstances.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ESM",
+  "code": "ESM 250",
+  "title": "Environmental Communication Theory & Strategy",
+  "units": "2",
+  "description": "Successful environmental communication is not just about getting the facts right. Before tackling an issue, it's critical to consider the intended audiences and their values and attitudes. In this class you will study communication theory, including how logic, emotion, persuasion, and social influence work. You will also learn about strategic messaging and outreach to achieve your communication goals.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

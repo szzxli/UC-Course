@@ -1,0 +1,301 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 191D",
+  "title": "Peer Health Education Internship",
+  "units": "3",
+  "description": "Under supervision, interns provide health and wellness services to UCSB students through informational, educational, environmental, and motivational activities. Enrollment into ED 191D (Peer Health Education Internship) will be based on performance in ED 191A, ED 191B, ED 191C, and ED 191W.",
+  "prerequisites_raw": "ED 191A, ED 191B, ED 191C or ED 191W; enrollment into ED 191D (Peer Health Education Internship) will be based on performance in ED 191A, ED 191B, ED 191C, and ED 191W. S",
+  "prerequisites_courses": [
+   "ED 191A",
+   "ED 191B",
+   "ED 191C",
+   "ED 191W"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 191W",
+  "title": "Health and Well-Being",
+  "units": "4",
+  "description": "Explores how personal, family, school, community and environmental factors are related to academic, physical, emotional and social well-being. Topics include physiological and sociological effects of mental health, nutrition; sexual health; relationships; alcohol, tobacco, drug abuse. Covers children through emerging adults.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 196",
+  "title": "Special Practicum in Education",
+  "units": "0",
+  "description": "Topics and field placement sites vary by instructor.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 197",
+  "title": "Special Topics in Education",
+  "units": "0",
+  "description": "Topics vary by instructor.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Study of special problems in various fields of education.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Education; and/or consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Education; and/or consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 200A",
+  "title": "Education Proseminar",
+  "units": "2",
+  "description": "Introduction to both graduate student life and research in Education. Includes information about campus resources, trainings in campus requirements, and an introduction to the basic principles of qualitative and quantitative research in Education.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 200B",
+  "title": "Education Proseminar II",
+  "units": "1",
+  "description": "This course helps to build community among Education graduate students. It explores research and community outreach projects led by Education faculty and colleagues. It also provides opportunities to strengthen research skills and present emergent research ideas.",
+  "prerequisites_raw": "ED 200A",
+  "prerequisites_courses": [
+   "ED 200A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 201A",
+  "title": "Qualitative Research Design",
+  "units": "4",
+  "description": "Writing a literature review, sampling, issues of quality, ethics, writing areserch proposal and other topics relevant to designing qualitative research projects.",
+  "prerequisites_raw": "Prior qualitative research methods courses.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 201B",
+  "title": "Survey Research Design",
+  "units": "4",
+  "description": "The design of original surveys and the use of existing surveys in educational research. Topics include sampling, questionnaire construction, scales and coding, data management, and supplemental data from school records.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 201D",
+  "title": "Single Case Experimental Design",
+  "units": "4",
+  "description": "Students design and critique original single case experimental projects. The course covers the internal logic of each design, internal validity, external validity, development of reliable dependent measures and observational systems, as well as issues regarding social validity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 201F",
+  "title": "Issues in Research Methodology",
+  "units": "0",
+  "description": "In-depth consideration of emerging topics in research methodology in education.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 201G",
+  "title": "Applied Causal Inference",
+  "units": "4",
+  "description": "Introduces a set of quasi-experimental approaches for estimating causal inferences in educational research. Methods explored include: fixed effects, instrumental variables, difference-in-difference estimators, regression discontinuity, and propensity score matching. Students will apply these techniques using large-scale datasets.",
+  "prerequisites_raw": "Education 216A",
+  "prerequisites_courses": [
+   "ED 216A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202A",
+  "title": "Bilingual Language Development",
+  "units": "4",
+  "description": "This course describes theoretical and empirical accounts of the knowledge representations and psychological processes underlying language comprehension and production. Representative topics include discourse processing; conversational interaction; memory for words, sentences, and text; metalinguistic skills, language development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202B",
+  "title": "Language Socialization and Education",
+  "units": "4",
+  "description": "Examines how children and youth, in contexts of migration and postcolonialism, become socialized through discourse to become competent members of communities, and how children (and institutions) navigate discontinuities in cultural and linguistic practices across home and school settings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202C",
+  "title": "Development of Academic Literacies",
+  "units": "4",
+  "description": "Examination of the research literature on the development of writing competence in and outside of school from early childhood through advanced adult competence.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202D",
+  "title": "Writing Across the Curriculum and in the Disciplines",
+  "units": "4",
+  "description": "Examination of research literature in writing in disciplines and professions to consider the different dynamics, functions, and forms of writing in the separate areas and different paths of skill development and socialization. Consideration of findings at university and professional levels and their application to K-12 settings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202E",
+  "title": "History of Literacy and Social Organization",
+  "units": "4",
+  "description": "Investigation of historical emergence of literate practices in relation to social organization realized in scribal, print, and electronic media. Consideration of the rise and role of school, academic, disciplinary, professional, and information culture with implications for current literacy education.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202F",
+  "title": "Literacy in the Information Age",
+  "units": "4",
+  "description": "Definitions of \"literacy\" are evolving and expanding as they and new information technologies (especially computers) are co-constructed. This course examines the political, pedagogical, and research consequences implied when traditional definitions of literacy are revised and when new literacies are introduced.",
+  "prerequisites_raw": "Consent of instructor to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202H",
+  "title": "Writing Program Administration",
+  "units": "4",
+  "description": "Examination of theory and practice of writing program administration focusing on important issues in the field. Students learn about and discuss those issues and focus their research on a local instantiation of administration. An optional administrative internship may be added to the class work.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 202I",
+  "title": "Literacy Assessment",
+  "units": "4",
+  "description": "Issues of writing assessment from micro (student papers) to macro (large-scale assessment: NAEP, UC Subject A Examinations), and writing program assessment. Exploration of different research paradigms in writing assessment: empirical and hermeneutic are also discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 203A",
+  "title": "Foundations of Education in the U.S.",
+  "units": "4",
+  "description": "Students will develop a rigorous way of thinking about, talking about, and practicing education for a diverse society. Explores the complex relationship among culture, society, and the organization of school. Considers the complex relations among teachers and learners within the context of U.S. schools.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 205",
+  "title": "Anthropological/Sociological Perspectives on Education",
+  "units": "4",
+  "description": "Examination of anthropological and sociological approaches that have education as a central theoretical issue. Use of a comparative perspective to explore a series of issues of relevance to U.S. education and to education in a variety of other countries.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 206",
+  "title": "Epistemology and Education",
+  "units": "4",
+  "description": "Theories of knowledge are brought to bear on educational issues such as pedagogy, research traditions, and curricular legitimization. The course treats epistemological topics such as perception, objectivity, argumentation, rationality, theories, paradigms, and the aims of social science research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 207",
+  "title": "Sociolinguistics in Education",
+  "units": "4",
+  "description": "Course addresses the origins, basic concepts, and recent research in sociolinguistics. Both earlier foundational work and recent development in new topics are explored. These include, but are not limited to interactional sociolinguistics, feminist sociolinguistics, sociolinguistics in the classroom.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 208",
+  "title": "Applied Rhetoric, Poetics, and Linguistics",
+  "units": "4",
+  "description": "Examines current and seminal theory and research in the areas of literary criticism, rhetoric, composition, linguistics, and language acquisition as they apply to the teaching of english in grades 7-14.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209A",
+  "title": "Seminar in Language Development",
+  "units": "4",
+  "description": "The course describes theoretical and empirical accounts of the development of the knowledge representations and psychological and social processes underlying language comprehension and use. Topics: grammatical and word meaning development, role of social-interactive routines, situational variation, child discourse, emergent literacy, relationships of oral/written discourse, atypical language development and issues of cultureand language.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209B",
+  "title": "Seminar in Social Development",
+  "units": "4",
+  "description": "Examination of theory and research on human social development from infancy to adolescence. Topics include family socialization, agression and prosocial behavior, gender differences, peer and media influences, and social cognition.",
+  "prerequisites_raw": "Consent of instuctor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 209C",
+  "title": "Seminar in Cognitive Development",
+  "units": "4",
+  "description": "Examination of current research and theories in cognitive development. Focus on young children's thinking. Special attention to biological and cultural influences on thinking as well as to implications of cognitive development research for education.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

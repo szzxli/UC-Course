@@ -1,0 +1,296 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 197",
+  "title": "Careers in Geography",
+  "units": "2",
+  "description": "Provides a foundation for the career planning process and post-college life. Opportunities for Geographers, with their tradition of interdisciplinary and integrative thinking and skills, are numerous and expanding. Through lecture, discussion, interactive workshops, speaker panels and more, students will develop a career portfolio.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 198",
+  "title": "Readings in Geography",
+  "units": "0",
+  "description": "Designed to provide in-depth directed inquiry into a topic of interest to the student.",
+  "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in geography; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 199",
+  "title": "Independent Studies in Geography",
+  "units": "0",
+  "description": "Independent geographical research conducted under the guidance of Geography faculty. Topic and scope varies, as specified by student and supervisory faculty member prior to registration.",
+  "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in geography; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 199RA",
+  "title": "Independent Research Assistance in Geography",
+  "units": "0",
+  "description": "Selected research under the direction of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in geography; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 200A",
+  "title": "Introduction to Geographic Research",
+  "units": "4",
+  "description": "Introduction to departmental faculty, their research and professional development. Systematic and technique areas of emphasis will be presented, as well as department facilities and research collaborations with other institutions. Approximately half of the course will be devoted to professional development.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 200B",
+  "title": "Introduction to Geographic Research",
+  "units": "2",
+  "description": "Geography 200B provides an introduction to the history of geographic thought as baseline preparation for the General Geography component of the doctoral written exams. The goal of the class is for students to gain a basic understanding of core geographic concepts and their history, and an appreciation of the broad domains of geographic scholarship and differences among their approaches to research. By the end of the class, students will have developed partially-customized reading lists that they will continue to pursue in preparation for their written exams.",
+  "prerequisites_raw": "Geography 200A or approval of graduate committee.",
+  "prerequisites_courses": [
+   "GEOG 200A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 200C",
+  "title": "Introduction to Geographic Research",
+  "units": "4",
+  "description": "Introduction to scientific research methods in human, physical, and techniques in geography. Topics include: scientific logic and philosophy, physical measurement, surveys, experimental and non-experimental research designs, computational modeling, sampling, data analysis and display, written and oral communication, and research ethics.",
+  "prerequisites_raw": "Geography 200A or approval of graduate committee, and Geography 200B. Required of all geography graduate students.",
+  "prerequisites_courses": [
+   "GEOG 200A",
+   "GEOG 200B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 201",
+  "title": "Seminar in Geography",
+  "units": "2",
+  "description": "A series of seminars on diverse problems in human and physical geography, and geographic techniques, by current and visiting faculty and researchers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 202A",
+  "title": "Remote Sensing and Environmental Optics",
+  "units": "5",
+  "description": "Principles of radiation emission; radiative transfer equation and some solution methods; surface interactions; instrumentation; applications to remote sensing and energy budgets in atmosphere, ocean, and other media.",
+  "prerequisites_raw": "Geography 115A.",
+  "prerequisites_courses": [
+   "GEOG 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 208",
+  "title": "Water Resource Systems Analysis",
+  "units": "4",
+  "description": "Quantitative methods (operations research, applied mathematics and statistics, numerical simulation) are used to analyze and synthesize complex water resources systems. Topics include economic analysis, hydropower, flood control, groundwater management, and reservoirs.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 210A",
+  "title": "Analytical Methods in Geography I",
+  "units": "4",
+  "description": "Introduction to analytical methods for geography research. Topics include: calculus, differential equations and linear algebra. Emphasis is placed on solving geographically relevant problems and their documentation.",
+  "prerequisites_raw": "Geography 172-172L, or equivalents.",
+  "prerequisites_courses": [
+   "GEOG 172"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 210B",
+  "title": "Analytical Methods in Geography II",
+  "units": "4",
+  "description": "Statistical principles and practice of analyzing geographical data. Topics include bivariate and multiple regression and other multivariate techniques. Emphasis on exploratory data analysis and graphical techniques.",
+  "prerequisites_raw": "Geography 210A.",
+  "prerequisites_courses": [
+   "GEOG 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 210C",
+  "title": "Analytical Methods in Geography III",
+  "units": "4",
+  "description": "Overview of key concepts in spatial statistics, including measures of spatial association and models for spatial regression, point processes and random fields. Geostatistical methods for analysis and interpolating continuous and area (lattice) data.",
+  "prerequisites_raw": "Geography 210B.",
+  "prerequisites_courses": [
+   "GEOG 210B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 211A",
+  "title": "Transportation Planning & Modeling",
+  "units": "5",
+  "description": "Issues, problems, technologies, policies, plans, and thetransportation-environment relationship. Transportation systems simulation, data collection, and model building.Applications in planning, design, and operations. Lab: Critically examine transportation plans and programs and explore travel surveys.",
+  "prerequisites_raw": "Introductory probability and statistics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 211B",
+  "title": "Transportation Modeling & Simulation",
+  "units": "5",
+  "description": "Transportation data collection, travel survey design. Revealed and stated choice data and their collection in laboratory and field studies. Regression models and systems simulation. Applications in policy planning and operations. Lab: Data analysis, model development, testing in typical regional simulation.",
+  "prerequisites_raw": "Geography 211A.",
+  "prerequisites_courses": [
+   "GEOG 211A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 211C",
+  "title": "Activity and Travel Behavior Analysis",
+  "units": "4",
+  "description": "Time-use, activity analysis, travel behavior in space, time, and social context. Cross-sectional and longitudinal data collection and analysis with emphasis on using time, travel, technology, information, and telecommunication. Applications using simultaneous equations, multilevel, latent class, and structural equations models.",
+  "prerequisites_raw": "Geography 211B.",
+  "prerequisites_courses": [
+   "GEOG 211B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 213",
+  "title": "POLAR ENVIRONMENTS",
+  "units": "4",
+  "description": "Advanced study of current Arctic and Antarctic issues. These include climate change process studies, improvements in long term monitoring of polar environments, modeling and analyses of impacts on ice sheets and sea ice, population and indigenous peoples, and natural resource claims.",
+  "prerequisites_raw": "Geography 3A or 3B; or, Environmental Studies 1 or 2; or, Earth Science 1",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "EARTH 1",
+   "ENV S 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 214A",
+  "title": "Advanced Remote Sensing: Passive",
+  "units": "5",
+  "description": "Passive remote sensing (VIS/NIR, thermal, microwave). Discussion of advanced sensors, techniques, modeling, and applications in each spectral region. Includes computer-based laboratory exercises. A final paper and oral presentation of a research project using remote sensing is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 214B",
+  "title": "Advanced Remote Sensing: Active",
+  "units": "5",
+  "description": "Discusses advanced sensors, techniques, modeling, and applications of active remote sensing including Synthetic Aperture Radar (SAR)and Light Detection and Ranging (LIDAR). Includes computer-based laboratory exercises. Final paper and oral presentation of research project using remote sensing is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 217",
+  "title": "Scientific Research Methods in Geography",
+  "units": "4",
+  "description": "Introduction to scientific research methods in human, physical, and techniques geography. Topics include: scientific logic and philosophy, physical measurement, surveys, experimental and nonexperimental research designs, computational modeling, sampling, data analysis and display, written and oral communication, and research ethics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 224",
+  "title": "Socio-Environmental Data Science",
+  "units": "4",
+  "description": "Data science and applied statistics courses typically focus on either environmental or social data. This unique course integrates data science and applied statistics from both natural and human systems to examine their relationships and address socio-environmental challenges. Each week, students learn new skills in data science and applied statistics by working on real-world research problems that link environmental and behavioral data to study how people impact ecosystems and how environments influence human behavior. Topics include linear, non-linear, and machine learning regression in R. Weekly assignments guide students through the research process, helping them apply methods, interpret results, and communicate findings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 225",
+  "title": "Urban Problems",
+  "units": "4",
+  "description": "Detailed studies of selected social, economic, and physical problems related to modern cities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 227",
+  "title": "Geo-Social Determinants of Health & Health Disparities",
+  "units": "4",
+  "description": "This course covers advanced topics in health geography, with a focus on health disparities. We examine in depth social and environmental causes and consequences of disparities in health. Specific topics include health equity concepts and measurement, socioeconomic status, health behaviors, neighborhood effects, the built environment, and climate change and health. Lecture with class discussions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 229",
+  "title": "Environmental Perception and Cognition",
+  "units": "4",
+  "description": "Theories and methods related to acquiring, representing, and analyzing knowledge of complex large-scale environments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 230",
+  "title": "Behavioral Geography",
+  "units": "4",
+  "description": "Survey of behavioral approaches in a variety of areas of geography.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 231",
+  "title": "Cognitive Issues in Geographic Information Science",
+  "units": "4",
+  "description": "Theory and research on cognitive issues in geographic information science. Perception, memory, reasoning, communication, human factors in digital worlds.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 232",
+  "title": "Cartographic Transformations",
+  "units": "4",
+  "description": "Classical map projections; cartograms; empirical \"rubber sheeting\"; bidimensional regression. The geometry of geography: geodesics; geographical circles; the distortion tensor; nonsymmetric distances.",
+  "prerequisites_raw": "Mathematics 3A or 34A.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "MATH 34A"
+  ]
+ }
+]

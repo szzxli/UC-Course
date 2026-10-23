@@ -1,0 +1,229 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 145",
+  "title": "Studies in English Renaissance Literature",
+  "units": "4",
+  "description": "The English Renaissance represents a late blossoming of the general cultural rebirth in Western Europe characterized by the recovery of Greek and Roman classics, the celebration of the multifaceted individual, and a renewed emphasis on the secular world. Alternately labeled the early modern period, this era also saw the voyages of Columbus, the development of the printing press, the Protestant Reformation, and the rise of centralized monarchies. English writers expressed the vitality and volatility of the Renaissance/early modern period in an outburst of prose, poetry, and drama that spanned the end of the sixteenth century and the beginning of the seventeenth century.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146",
+  "title": "Literature of Technology",
+  "units": "4-28",
+  "description": "Literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Topics include Pynchon's novels and information theory, hyperfiction, the new poetry of codework, cyberpunk, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146AI",
+  "title": "Literature and/of Artificial Intelligence",
+  "units": "4",
+  "description": "Agency, one of the key literary and philosophical problems, has a new dimension in the era of so-termed artificial intelligence. So, too, the old questionwhat is the value and purpose of human life resonates differently when considered in light of mass automation. The imagination, and the realization, of artificial entities, are not new, but the exponential developments in the machine and deep learning over the past decade, along with an evolving understanding of cognition, do invite us to reevaluate the mythologies we have built up around them. What texts and concepts inform our understanding of intentional action and life itself in the present?",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146DM",
+  "title": "Literature of Technology",
+  "units": "4-28",
+  "description": "Studies of literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Examples of topics include Pynchon's novels and information theory, hyperfiction, the new poetry of codework, cyberpunk science fiction, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146DR",
+  "title": "Literature of Technology",
+  "units": "4",
+  "description": "Literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Topics include Pynchon's novels and information theory, hyperfiction, the new poetry of codework, cyberpunk, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146DS",
+  "title": "Data Stories: Theory and Practice of Data-driven Narratives in the Digital Age",
+  "units": "4",
+  "description": "Data Stories introduces students to an increasingly important genre of discourse in todays society: data-driven narrative--e.g., as it appears in journalism; science, medical, and political reporting; business or government writing; and even some literary and artistic forms. The course brings humanities approaches such as narrative theory, genre theory, and media theory into conjunction with readings about data journalism and data visualization to ask this central question: how do you make a good story out of data? Among other assignments, students create a project in which they take a dataset and make a narrative about it.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146EL",
+  "title": "Literature of Technology",
+  "units": "4-12",
+  "description": "Studies of literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Examples of topics include Pynchon's novels and information theory, hypert fiction, the new poetry of codework, cyberpunk science fiction, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146EN",
+  "title": "Literature of Technology",
+  "units": "4-12",
+  "description": "Studies of literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Examples of topics include Pynchon's novels and information theory, hypert fiction, the new poetry of codework, cyberpunk science fiction, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146FM",
+  "title": "Literature of Technology",
+  "units": "4-28",
+  "description": "Literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Topics include Pynchon's novels and information theory, hyperfiction, the new poetry of codework, cyberpunk, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146GB",
+  "title": "Games, Books, and Gamebooks",
+  "units": "4",
+  "description": "How do we play at stories? How do we use stories to play?This course investigates the relationship between narrative and play, in games and in literature. We explore the media histories, design theories, and many technologies of interactive experiences, focusing on where literary and narrative arts intersect with interactive media and game design. When we consider video games, apps, interactive films, websites, avant-garde writing, childrens literature, and more... how have games/books changed the possibilities of narrative as it is read, written, or played?",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146IF",
+  "title": "Introduction to Interactive Fiction",
+  "units": "4",
+  "description": "This course acquaints students with the electronic literature genres of choice-based and parser-based interactive fiction. We start with choice-based Twine and Ink games before moving on to the parser-based Inform, not only critically evaluating already existing games, but also learning how to write both fiction and criticism within these authoring systems. By the end of the class, students will learn several programming languages (Twine, Ink, Inform7), while also discovering new modes of humanistic inquiry in the digital age (multimodal criticism, source code analysis, and other digital humanities methods). No prior programming experience required.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146MR",
+  "title": "Literature of Technology",
+  "units": "4",
+  "description": "Literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Topics include Pynchon's novels and information theory, hyperfiction, the new poetry of codework, cyberpunk, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146PB",
+  "title": "Paper Engineering and Pop-up Literature",
+  "units": "4",
+  "description": "A survey of paper as a storytelling technology, beyond the traditional book, page, or scroll, from ancient mystic texts to contemporary pop-up books. Considers paper engineering in the history of literary forms and genres, both popular and avant-garde, including literary uses of paper decoder discs and Llullian circles, dioramas, myrioramas, metamorphic trade cards, installment postcards, flap mechanisms, pull-tab animation, pop-ups, overlays, and more. Additional topics include the Moveable Book Society and Meggendorfer awards.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146SI",
+  "title": "Literature of Technology",
+  "units": "4",
+  "description": "Literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Topics include Pynchon's novels and information theory, hyperfiction, the new poetry of codework, cyberpunk, nineteenth-century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 146WF",
+  "title": "Literature of Technology",
+  "units": "4",
+  "description": "Literary genres, authors, periods, or themes that engage or exemplify technology, whether historical technologies or contemporary digital, bio, nano, and other technologies. Topics include Pynchon's novels and information theory, hyperfiction, the new poetry of codework, cyberpunk, nineteenth century literature and steam technology, and literature of industrialization.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147",
+  "title": "Media History and Theory",
+  "units": "4-28",
+  "description": "Studies in historical and contemporary media systems including orality, writing, print electronic media (telegraph, phone, radio, film, TV video, satellite communications), digital media (the Internet, word-processing) in their relation to literary or cultural expression. Topics include Enlightenment media, modern literature, graphic design, film and literature, twentieth-century media theory.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147AB",
+  "title": "Audiobooks and Podcasts",
+  "units": "4",
+  "description": "A media history of sound recording literature from phonautogram and phonograph to talking books, books-on-tape, audiobooks, podcasts, interactive audio, and beyond. From oral tradition, we trace intertwined histories of sound media and literary arts through tinfoil and wax cylinders, radio, shellac, vinyl LPs, cassette tapes, CDs, digital audio files, streaming, and apps. The course addresses concepts such as remix, adaptation, affect, embodiment, interaction, and the avant-garde. Examples may include Tennyson, Dickens, Shakespeare, Kipling, Conan Doyle, Joyce, Poe, Conrad, Christie, Thomas, McLuhan, Jumanji, Serial, This American Life, The Haunting of Hill House, Audiobook, and more. Includes listening and recording components.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 147AP",
+  "title": "Animating Poetics: Stop-Motion Video as Literary Analysis",
+  "units": "4",
+  "description": "Can stop-motion animation be used as a form of literary analysis? How can animation enrich our critical understanding of ‘animatedness,’ a term used in literary studies to challenge the notion of the human and to excoriate gendered and racialized dehumanization? Students will perform literary analysis through conventional close readings as well as through the production of stop-motion animated videos. They will work with animation as a critical term in media theory and in literary affect studies.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ }
+]

@@ -1,0 +1,308 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 202E",
+  "title": "Epistemology, Power, Archives",
+  "units": "4",
+  "description": "This course is a methods and historiography reading seminar led by faculty specializing in the history of South Asia, Middle East, and Africa. The course aims to familiarize students with historical methods, source-criticism, archival practices, and epistemic genealogies of socio-cultural conventions about the past rooted in Africa, the Middle East, and South Asia. The emphasis on power and epistemology in archives explores questions about historical ethnographies in pre-colonial, colonial, and postcolonial contexts, critical approaches to reading/hearing/sighting historical traces, working with oral sources, readings of texts in African and Asian languages, embodied historical practices, and unpacking colonial recording conventions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 203A",
+  "title": "Seminar in Comparative History",
+  "units": "4",
+  "description": "Research seminar in selected issues in comparative history. Such topics might include urban history, history of religion, slavery, the family, gender systems, and consumer societies. Themes vary with instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 203B",
+  "title": "Seminar in Comparitive History",
+  "units": "4",
+  "description": "Research seminar in selected issues in comparative history. Such topics might include urban history, history of religion, slavery, the family, gender systems, and consumer societies. Themes vary with instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 204",
+  "title": "Research Workshop",
+  "units": "4",
+  "description": "Practicum in the writing and critiquing of specialized research papers in all fields of history. May be repeated for credit. May qualify by petition for graduate research seminar credit when combined with a History 596 in which the student has developed a research proposal for this course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 205A",
+  "title": "Historical Literature: Public History",
+  "units": "4",
+  "description": "Seminar to acquaint students with historiography and current literature in Public History. Readings focus on central fields, including museum studies, historical memory and memorialization, oral history, historical preservation, archival practices and digital history, community history and other specializations, and the historical development of the field. Written work required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 205B",
+  "title": "Public Historical Studies",
+  "units": "4",
+  "description": "To acquaint students with relevant research methods (oral history, legal research, family history, government documents and sources, historical preservation, field research).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 206",
+  "title": "History and Theory",
+  "units": "4",
+  "description": "An introduction to the major theoretical debates within the historical profession over questions of epistemology, methodology, and interpretation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 207A",
+  "title": "Research Seminar in Digital History",
+  "units": "4",
+  "description": "Two-quarter graduate seminar on digital history with a strong practical focus. Includes training in the use of digital tools and digital methodologies. Students produce a digital history project by the end of the second quarter based on their own research.",
+  "prerequisites_raw": "Graduate level standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 207B",
+  "title": "Research Seminar in Digital History",
+  "units": "4",
+  "description": "Two-quarter graduate seminar on digital history with a strong practical focus. Includes training in the use of digital tools and digital methodologies. Students produce a digital history project by the end of the second quarter based on their own research.",
+  "prerequisites_raw": "Graduate level standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 208",
+  "title": "Problems of Historical Preservation",
+  "units": "4",
+  "description": "Problems of historical preservation using archives, museums, and historic sites and buildings of the Santa Barbara area as a laboratory.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 208A",
+  "title": "Research Seminar in Environmental History",
+  "units": "4",
+  "description": "A two-quarter graduate research seminar in environmental history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 208B",
+  "title": "Research Seminar in Environmental History",
+  "units": "4",
+  "description": "A two-quarter graduate research seminar in environmental history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 209A",
+  "title": "The Academic Profession of History",
+  "units": "4",
+  "description": "This course provides students with the practical knowledge needed for obtaining an academic position, develops skills for effective teaching, and prepares students to deal with funding agencies, publishers, employers, and professional organizations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 209B",
+  "title": "The Academic Profession of History",
+  "units": "4",
+  "description": "This course provides students with the practical knowledge needed for obtaining an academic position, develops skills for effective teaching, andprepares students to deal with funding agencies, publishers, employers, andprofessional organizations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 209H",
+  "title": "Historical Editing and Publishing: The Journal",
+  "units": "4",
+  "description": "This course will acquaint students in academic public history (also anthropology, architectural history, folklore, etc.) with the basic issues in editing and publishing, with special emphasis on the historical journal.",
+  "prerequisites_raw": "Undergraduate degree in history.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 210",
+  "title": "Topics in the History and Ethnography of Religion",
+  "units": "4",
+  "description": "Explores religion in cross-cultural and historical contexts using theoretical sources and case studies. Topics include ritual agency and power, religion and media, relations among religion, gender, ethnicity, nationalism. Periods and regions vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 210RA",
+  "title": "Race, Religion, & Revolution",
+  "units": "2",
+  "description": "How do human beings manage relations between the seen and unseen worlds? This course is an interdisciplinary exploration of the relationship between spirituality and radical social change, especially? though not exclusively?among people of color. Visiting scholars and activists workshop or present original research rooted in the humanities and social sciences and graduate students read and respond to their work as they develop their own research questions. The goal is to foster collaborative interdisciplinary scholarship on the intersection of racial, religious, and revolutionary thought and practice, irrespective of period or place Workload entails short bi-weekly reading responses; no term paper required. 2-quarter course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 210RB",
+  "title": "Race, Religion, & Revolution",
+  "units": "2",
+  "description": "How do human beings manage relations between the seen and unseen worlds? This course is an interdisciplinary exploration of the relationship between spirituality and radical social change, especially, though not exclusively, among people of color. Visiting scholars and activists workshop or present original research rooted in the humanities and social sciences and graduate students read and respond to their work as they develop their own research questions. The goal is to foster collaborative interdisciplinary scholarship on the intersection of racial, religious, and revolutionary thought and practice, irrespective of period or place.Workload entails short bi-weekly reading responses; no term paper required. 2-quarter course.",
+  "prerequisites_raw": "History 210RA",
+  "prerequisites_courses": [
+   "HIST 210RA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 211A",
+  "title": "Seminar in Greek History",
+  "units": "4",
+  "description": "Research seminar in Greek history. From time to time the seminar will be limited to candidates specializing in ancient history, and with a reading knowledge of classical Greek.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 211B",
+  "title": "Seminar in Greek History",
+  "units": "4",
+  "description": "Research seminar in Greek history. From time to time the seminar will be limited to candidates specializing in ancient history, and with a reading knowledge of classical Greek.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 212",
+  "title": "Research Tools for Ancient History",
+  "units": "4",
+  "description": "Introductory training for the student of ancient history in the use of specialized research materials. Topics include numismatics, epigraphy, hagiography, archaeology, textual criticism, critical theory and use of specialized databases.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 213",
+  "title": "History of Racial Thought",
+  "units": "4",
+  "description": "Examines race from the eighteenth through the twenty-first century from the perspectives of science and medicine. Explores how intersections of race, medicine, and public health have shaped the study Blacks, Latina/os, Asians and Jews.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 213A",
+  "title": "Seminar in Roman History",
+  "units": "4",
+  "description": "Selected topics in the history of the Roman Republic and Empire, with particular emphasis on problems of the later Roman Empire.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 213B",
+  "title": "Seminar in Roman History",
+  "units": "4",
+  "description": "Selected topics in the history of the Roman Republic and Empire, with particular emphasis on problems of the later Roman Empire.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 215A",
+  "title": "Seminar in Medieval History",
+  "units": "4",
+  "description": "A two-quarter course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 215B",
+  "title": "Seminar in Medieval History",
+  "units": "4",
+  "description": "A two-quarter course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 215E",
+  "title": "Research Seminar in Medieval Social History",
+  "units": "4",
+  "description": "A two-quarter graduate research seminar in medieval social history.",
+  "prerequisites_raw": "History 117A.",
+  "prerequisites_courses": [
+   "HIST 117A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 215F",
+  "title": "Research Seminar in Medieval Social History",
+  "units": "4",
+  "description": "A two-quarter graduate research seminar in medieval social history.",
+  "prerequisites_raw": "History 117A.",
+  "prerequisites_courses": [
+   "HIST 117A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 217B",
+  "title": "Seminar in Cultural Resource Management",
+  "units": "4",
+  "description": "A two-quarter research seminar involving team research and publication of results. Projects will include such tasks as cultural surveys, determination of significance, eligibility for inclusion on national register, impact mitigation, and historical preservation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 217C",
+  "title": "Seminar in Cultural Resource Management",
+  "units": "4",
+  "description": "A two-quarter research seminar involving team research and publication of results. Projects will include such tasks as cultural surveys, determination of significance, eligibility for inclusion on national register, impact mitigation, and historical preservation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

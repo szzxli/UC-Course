@@ -1,0 +1,352 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 290",
+  "title": "Special Research Topics in Economics",
+  "units": "4",
+  "description": "Faculty led seminar focusing on graduate student research in various fields of specialization within Economics. Students will typically produce a research draft each quarter. Second year students will be required to produce a formal written proposal for a research paper, which will be evaluated and enforced within the working group structure. Proposal must clearly articulate a research question of interest and the methodological approach. Written proposals must receive a passing grade (B or above) no later than the end of winter quarter of the second year.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 290DM",
+  "title": "Research Topics in Demography",
+  "units": "4",
+  "description": "Demography seminar research/reading group that focuses on reading and discussing key research in demography across the participating disciplines (Anthropology, Economics, Geography and/or Sociology). All students in the Interdisciplinary PhD Emphasis in Demography must register in this group at least once, usually in the spring quarter of their first year in the Emphasis program.",
+  "prerequisites_raw": "2nd year Ph.D. standing in Anthropology, Economics, Geography or Sociology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 290EC",
+  "title": "Research Topics in Econometrics",
+  "units": "4",
+  "description": "Econometrics seminar and research/reading group that focuses on reading and discussing applied and methodological research in Econometrics across the interrelated disciplines of Economics, Statistics, Geography, Environmental Science, and Computer Science. Participants in the 3rd year of their PhD program (and beyond) will typically present their own research quarterly.",
+  "prerequisites_raw": "2nd year in Economics Ph.D. student standing and completion of Econometrics 2nd year Ph.D. course sequence by beginning of 3rd year in Ph.D. program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 293",
+  "title": "Third Year Graduate Seminar",
+  "units": "4",
+  "description": "Students present and discuss their original research papers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 294",
+  "title": "Microeconomics Seminar",
+  "units": "4",
+  "description": "Current topics in microeconomics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 295",
+  "title": "Macroeconomics Seminar",
+  "units": "4",
+  "description": "Invited speakers on the topics of Macroeconomics",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 297",
+  "title": "Seminar on the Teaching of Economics",
+  "units": "2",
+  "description": "Graduate Teaching Assistants are vitally important to the educational experience of UCSB undergraduates and graduates. As a Teaching Assistant, your role is potentially multifold: designing and teaching your own sections, assisting a professor by leading quiz sections, grading, or working directly with students in a capacity that is less formal and beneficial to students. This discussion based course covers the tools needed: planning, FERPA, testing, learning styles, evaluations, academic dishonesty, sexual harassment, presenting and evaluating of instruction.",
+  "prerequisites_raw": "Ph.D. graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 298",
+  "title": "Graduate Internship in Economics",
+  "units": "0",
+  "description": "Enables graduate students to obtain credit for economics related internship experience. A written paper/report is required and evaluated for credit.",
+  "prerequisites_raw": "Masters level standing in Department of Economics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594AA",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594BE",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594BT",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594CT",
+  "title": "Contract Theory",
+  "units": "4",
+  "description": "Course covers recent literature in economic theory of contract. The selected topics include private information, incomplete contracts, collateral and default, costly state verification, optimal security designs, and theory of intermediation and banking.",
+  "prerequisites_raw": "2nd Year Ph.D. in Economics Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594E",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594EB",
+  "title": "Special Topics in Economics - Experimental and Behavioral Economics",
+  "units": "0",
+  "description": "Group study directed toward Experimental Economics and Behavioral Economics research topics.",
+  "prerequisites_raw": "Second year and above Ph.D. Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594EC",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Group study directed toward econometric research topics.",
+  "prerequisites_raw": "Economics 241C.",
+  "prerequisites_courses": [
+   "ECON 241C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594ED",
+  "title": "Special Topics in Economics - Human Capital and Education",
+  "units": "0",
+  "description": "Seminar and group study directed toward Human Capital and Education Economics research topics.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594ER",
+  "title": "Special Topics in Economics - Environmental and Natural Resource Economics",
+  "units": "0",
+  "description": "Group study directed toward Environmental Economics research topics.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594HE",
+  "title": "Special Topics in Economics - Health Economics",
+  "units": "4",
+  "description": "Group study directed toward Health Economics research topics.",
+  "prerequisites_raw": "Minimum second year Ph.D. student in Economics graduate level standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594LA",
+  "title": "Special Topics in Labor Economics",
+  "units": "4",
+  "description": "Special seminar on research subjects of current interest in the Labor Economics field.",
+  "prerequisites_raw": "Second year and above Ph.D. Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594LR",
+  "title": "Special Topics in Economics - Labor Economics",
+  "units": "0",
+  "description": "Group study directed toward Labor Economics research topics.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594MA",
+  "title": "Special Topics in Economics - Macroeconomics",
+  "units": "0",
+  "description": "Group study directed toward Macroeconomics research topics.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594MC",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594MM",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594P",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594QA",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 594WR",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 597",
+  "title": "Individual study for the Ph.D. Comprehensive Examinations.",
+  "units": "0",
+  "description": "Individual study for the three Ph.D. level Preliminary Examinations in either Microeconomics, Macroeconomics and/or Econometrics. Instructor should be the Economics department Director of Graduate Studies.",
+  "prerequisites_raw": "Ph.D. in Economics graduate student standing and consent of Director of Graduate Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the thesis, writing the thesis. Instructor should be the chair of the student's thesis committee.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 599",
+  "title": "Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the dissertation, writing the dissertation. Instructor should be the chair of the student's doctoral committee.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON W",
+  "code": "ECON W 9",
+  "title": "Introduction to Economics",
+  "units": "5",
+  "description": "A broad survey of economic principles, including both microeconomics and macroeconomics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON W",
+  "code": "ECON W 10A",
+  "title": "Intermediate Microeconomic Theory *ONLINE COURSE W/ IN PERSON EXAMS*",
+  "units": "5",
+  "description": "Economic theory relating to demand, production, and competitive product markets with emphasis on applications of theory. Please note that this course is conducted online, but exams will be held in person.",
+  "prerequisites_raw": "Economics 1 and 2; Mathematics 34A-B, 2A-B, or 3A-B.",
+  "prerequisites_courses": [
+   "ECON 1",
+   "MATH 34A",
+   "ECON 2",
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON W",
+  "code": "ECON W 118",
+  "title": "Financial Accounting Analysis",
+  "units": "4",
+  "description": "An economic analysis of financial statements in a macroeconomic environment. Topics include evaluation of short term and long term liquidity, profitability, capital structure and the forecast of earnings and financial position using financial and economic models.",
+  "prerequisites_raw": "ECON 136C",
+  "prerequisites_courses": [
+   "ECON 136C"
+  ]
+ }
+]

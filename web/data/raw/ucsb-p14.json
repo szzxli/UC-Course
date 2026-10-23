@@ -1,0 +1,266 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185AI",
+  "title": "Art and Machine Learning",
+  "units": "4",
+  "description": "Artistic creation and neural networks have been rubbing shoulders for a long time, but today we are witnessing an explosion of interest in machine learning and aesthetics. Many of the tasks that machine learning models face today are aesthetic tasks, ranging from the classification of images (CNNs) to the generation of completely new images (GANs). At the same time, the technical opacity of machine learning models makes it difficult to properly evaluate their results. The once speculative question \"how does the machine perceive the world\" has become a real-world problem. This class provides a high-level introduction to the aesthetics, politics, and epistemology of machine learning, combining the close reading of texts and source code alike.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185B",
+  "title": "ARTISTS FUTURES: PROFESSIONAL PRACTICES B",
+  "units": "5",
+  "description": "This course dives into the wide range of professionalism for artists within and adjacent to the art world. Provides students the necessary skills to advance their work as emerging artists, addressing portfolio preparation and artist opportunities like graduate education, exhibitions, residencies, and grants. Also introduces students to the wide variety of careers available to artists and provide them with building blocks to move forward within these careers. Guest speakers will illuminate opportunities in several fields including curatorial practice, design, marketing, art business, education, and non-profit work.",
+  "prerequisites_raw": "Open to art majors only; Open to seniors and juniors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185BD",
+  "title": "Special Topics: Black Focus Environmental Design Justice: Relocalizing Leimert Park",
+  "units": "4",
+  "description": "This Black Design focus course introduces new approaches and practice-based design strategies to studio-driven student research to address the pressing issues surrounding social justice and environmental sustainability. Students from both Art and Black Studies engage in the expanded role of art/artists in exploring place, identity, belonging and locality to draw from and activate the rich underrepresented histories and culture through design research and new technologies to reimagine public spaces, and to creatively address issues of racial trauma, gun violence, gentrification and police/community relations within an environmental justice frame.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185CG",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185GL",
+  "title": "Digital Project - Optical-Digital Culture & Practice",
+  "units": "4",
+  "description": "A project based art course focused on image-processing as an experimental tool and as creative medium. Assignments will bridge technical experimentation with artistic and conceptual approaches to examine the nature of the computational image.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185HR",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185ID",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185IV",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "IV OpenLab is an open, project-based, learning/research environment designed to encourage student and campus engagement in the Isla Vista community. Weekly Friday gatherings will take place in IV, hosting different campus and community members who will be present, discuss and provide feedback on the range of Isla Vista issues and opportunities. Students taking the course will be required to design outside research projects (individually or collaboratively) to present to the community groups at the end of the quarter.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185JC",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185KM",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185KY",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185LJ",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185MP",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185PM",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185PR",
+  "title": "Printed, Repeat",
+  "units": "4",
+  "description": "Throughout history, pattern has adorned, draped and carried significant cultural meaning and symbolism for individuals and communities around the world. In this course, students conduct research, produce art work, attend lectures and survey the vast history of the production, trade and consumption of visual pattern within a global context.Students draw from memory, personal history and direct observation of artificial and natural landscapes in order to identify and produce patterns. Using adobe software students gain technical skills in designing, repeating and scaling output of regular and irregular repeat pattern. Each student will work to complete assignments and direct their own independent projects.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185RG",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185RR",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185SR",
+  "title": "Art + Ecology",
+  "units": "4",
+  "description": "Explores relationships between art, environment, and sustainability through the lens of Traditional Ecological Knowledge (TEK). Students engage with Indigenous worldviews, gardens, and material processes that reveal how art can sustain reciprocal relationships between humans and the natural world. Requires trips to the Santa Barbara Botanical Garden, UCSB Gardens, and UC Nature Reserves.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185SW",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185XX",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing; art majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 189A",
+  "title": "Capstone Design Lab",
+  "units": "3",
+  "description": "Students in Art 189A-B-C will be working in teams together with mechanical engineering students on a mechanical engineering capstone design project. The teams work under the direction of a faculty advisor in mechanical engineering, and to a lesser extent an advisor from the art department (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Emphasis on practical, hands-on experience, and the integration of analytical and design skills. Students should aim to commit to taking A, B and C in order to work with their team from conception to finalization of a project. This lab is the first of three the series.",
+  "prerequisites_raw": "Art 7D and Instructor Approval.",
+  "prerequisites_courses": [
+   "ART 7D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 189B",
+  "title": "Capstone Design Lab",
+  "units": "3",
+  "description": "Students in Art 189A-B-C will be working in teams together with mechanical engineering students on a mechanical engineering capstone design project. The teams work under the direction of a faculty advisor in mechanical engineering, and to a lesser extent an advisor from the art department (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Emphasis on practical, hands-on experience, and the integration of analytical and design skills. Students should aim to commit to taking A, B and C in order to work with their team from conception to finalization of a project.This lab is second of three in the series",
+  "prerequisites_raw": "7D and Instructor Approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 189C",
+  "title": "Capstone Design Lab",
+  "units": "3",
+  "description": "Students in Art 189A-B-C will be working in teams together with mechanical engineering students on a mechanical engineering capstone design project. The teams work under the direction of a faculty advisor in mechanical engineering, and to a lesser extent an advisor from the art department (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Emphasis on practical, hands-on experience, and the integration of analytical and design skills. Students should aim to commit to taking A, B and C in order to work with their team from conception to finalization of a project. This lab is third of three in the series.",
+  "prerequisites_raw": "Art 7D and Instructor Approval.",
+  "prerequisites_courses": [
+   "ART 7D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 192",
+  "title": "Internship in Art",
+  "units": "0",
+  "description": "Opportunities in applied learning related to visual art through local museums, art galleries, and other art related organizations or institutions. Students work under the direction of the faculty sponsor who maintains contact with the supervisor for whom the student is interning.",
+  "prerequisites_raw": "Upper-division standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 192ES",
+  "title": "Exhibition Studies Internship",
+  "units": "0",
+  "description": "This internship provides pedagogical and practical support for students exhibiting work within the Arts Building and other venues across campus such as Cheadle Hall and the University Library. Among other skills, the course will include intensive training in exhibition scheduling and curating, installation and display, the production of didactic supplements such as information sheets, wall texts and titles, methods of promotion as well as de-installation and art handling.",
+  "prerequisites_raw": "Upper-division standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 192IA",
+  "title": "Internship in Art",
+  "units": "0",
+  "description": "Opportunities in applied learning related to visual art through local museums, art galleries, and other art related organizations or institutions. Students work under the direction of the faculty sponsor who maintains contact with the supervisor for whom the student is interning.",
+  "prerequisites_raw": "Upper-division standing; consent of department.",
+  "prerequisites_courses": []
+ }
+]

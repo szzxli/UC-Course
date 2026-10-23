@@ -1,0 +1,336 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 259A",
+  "title": "Seminar: Topics in Nineteenth-Century European Art",
+  "units": "4",
+  "description": "Special research in nineteenth-century art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 260D",
+  "title": "Seminar: Topics in European Art of the Twentieth Century",
+  "units": "4",
+  "description": "Special research in twentieth-century art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 261A",
+  "title": "Seminar: Topics in American Art",
+  "units": "4",
+  "description": "Special research in American painting and sculpture, 1700-1950.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 261E",
+  "title": "Seminar: Topics in History of Photography",
+  "units": "4",
+  "description": "Special problems in the history of photography.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 263",
+  "title": "Seminar: Topics in Contemporary Art",
+  "units": "4",
+  "description": "Special research in contemporary art.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 265",
+  "title": "Seminar: Topics in Architectural History & Urbanism",
+  "units": "4",
+  "description": "Special research in the history of architecture.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 266",
+  "title": "Seminar: Topics in Early Modern Architecture",
+  "units": "4",
+  "description": "Special research in early modern architecture.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 267",
+  "title": "Seminar: Topics in Modern Architecture",
+  "units": "4",
+  "description": "Special research in modern architecture.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 275B",
+  "title": "Seminar: Topics in Islamic Art & Architecture",
+  "units": "4",
+  "description": "Special research in Islamic art and architecture.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 275E",
+  "title": "Seminar: Topics in Islamic Art",
+  "units": "4",
+  "description": "Special topics in Islamic art and/or architecture. Topics will vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 282A",
+  "title": "Seminar: Topics on East Asian Art",
+  "units": "4",
+  "description": "Research on select problems on the arts of China, Japan, or Korea.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 282B",
+  "title": "Seminar: Topics of Japanese Art",
+  "units": "4",
+  "description": "Studies in Japanese art in a comparative context. Topics vary, but emphasis is usually on the various relationships to global movements. Requires weekly readings, discussion, frequent presentations, and the writing of a well-developed research paper.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 293D",
+  "title": "Seminar: Research Methods",
+  "units": "4",
+  "description": "A focus on methodological approaches and tools employed in digital humanities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 294",
+  "title": "Seminar: Museum Practices",
+  "units": "4",
+  "description": "Methods in museum practice. Content will vary according to museum program and art exhibition involved.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 295",
+  "title": "Seminar: Advanced Readings in Art History",
+  "units": "4",
+  "description": "Source readings for graduate students. Independent reading and research in connection with an undergraduate lecture course.",
+  "prerequisites_raw": "Graduate standing; consent of instructor; department approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 296A",
+  "title": "READING CRITICAL THEORY AND THE VISUAL ARTS",
+  "units": "4",
+  "description": "Analysis of theories and critiques of modernism and modernity from Benjaminto Adorno and Derrida, with special focus on the historical avantgarde. Specifics may vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 297",
+  "title": "Seminar: Getty Consortium",
+  "units": "4",
+  "description": "Special graduate seminar offered at the Getty Research Institute in Los Angeles, involving faculty and graduate students from the five graduate programs in Art History of Visual Studies located in southern California.",
+  "prerequisites_raw": "Graduate standing; by application only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 500",
+  "title": "Apprentice Teaching",
+  "units": "0",
+  "description": "For teaching assistants, course includes directed readings, instruction in use of visual aids, pedagogical techniques, design of materials for discussion sections, and methodological analyses. Attendance at lectures in the course to which the T.A. is assigned is a requirement.",
+  "prerequisites_raw": "Graduate standing; consent of instructor; department approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 595",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Informal reading and discussion.",
+  "prerequisites_raw": "Graduate standing; consent of instructor; department approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 596",
+  "title": "Independent Study",
+  "units": "0",
+  "description": "Individual tutorial. A written proposal must be approved by the department chair.",
+  "prerequisites_raw": "Graduate standing; consent of instructor; department approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 597",
+  "title": "Reading for Examination",
+  "units": "0",
+  "description": "Preparation for terminal M.A. or for Ph.D. Minor and Major exams.",
+  "prerequisites_raw": "Graduate standing; consent of instructor; department approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 598",
+  "title": "Master's Thesis Preparation",
+  "units": "0",
+  "description": "Master's Thesis research and preparation.",
+  "prerequisites_raw": "Graduate standing; consent of instructor; department approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Dissertation research and preparation.",
+  "prerequisites_raw": "Graduate standing; consent of instructor; department approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHIW",
+  "code": "ARTHIW 6C",
+  "title": "Survey III: Modern-Contemporary Art History (online)",
+  "units": "5",
+  "description": "Introduction to the modern era of Western art history, focusing on European and American histories. It begins reviewing the 18th-century European Enlightenment: scientific inquiry and new forms of representation are the models for the course. Proceeding through the 19th-century histories of colonization and land grabs, and then move to the 20th-century, focusing on the rise of urbanism, migration, and new developments in abstract art; additional focus on ethnicity, race, sexuality and gender across the Arts & Crafts Movement, and the rise of internationalism and global art histories in the 21st-century, ending the course by examining the present time period.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHIW",
+  "code": "ARTHIW 6F",
+  "title": "Introduction to Architecture and Planning",
+  "units": "5",
+  "description": "A wide-ranging introduction to architecture and urban design around the world from the earliest human constructions to the mid-20th century. Students will encounter a variety of buildings and cities, and be introduced to a range of different ways of understanding and studying them. Writing assignments involve analysis of local architecture and planning. By the end of the course students will have acquired a competent knowledge of the diverse sites, structures, and issues, and an enriched awareness of what can be at stake in an architectural environment, what kinds of issues discussions of architecture may lead to, and how and why these kinds of discussions have varied in different times, places, and cultures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHIW",
+  "code": "ARTHIW 6R",
+  "title": "Rome: The Game",
+  "units": "5",
+  "description": "This online course presented as an adventure game introduces students to the art and archaeology of Rome, with assignments that focus on writing and the research process. The course asks students to determine whether or not a collection of ancient objects from an American museum should remain in the US or be sent back to Italy. Throughout the course, students excavate artifacts at a digital dig site, visit museums, explore Roman monuments, and navigate the shadowy world of the tombaroli (tomb robbers) and mafia-run black market for antiquities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHIW",
+  "code": "ARTHIW 142B",
+  "title": "Rome from Napoleon to Mussolini (1798-1943)",
+  "units": "4",
+  "description": "Between 1798 and 1943, Rome experienced a republican revolution, a Napoleonic occupation, a papal restoration, another republican revolution, another papal restoration, the seizure of Rome from the Pope by the new Italian nation state, the crisis of Italy's Liberal period, and finally the rise of Mussolini's Fascist regime followed by World War II. This course will track these changes as they played out in the form of architectural and urban transformations – in a period when Rome was substantially rebuilt, its population massively enlarged, and its core meanings aggressively redefined by successive governments.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 1",
+  "title": "Introduction to Asian American History, 1850-Present",
+  "units": "5",
+  "description": "Historical survey of Asian Americans in the United States from 1850 to the present. Topics include: Immigration patterns, settlement and employment, race and gender relations, community development, and transnational connections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 1H",
+  "title": "Introduction to Asian American History, 1850-Present",
+  "units": "1",
+  "description": "Students receive one unit for the honors discussion section. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in AS AM 1; consent of instructor.",
+  "prerequisites_courses": [
+   "AS AM 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 2",
+  "title": "American Migration Since 1965: Asians and others in the United States",
+  "units": "5",
+  "description": "An examination of central themes in immigration law and policy, especially after the Immigration Act of 1965. The class focuses on Asian immigrants, but covers immigration trends comparatively. Topics include economic integration, interracial conflict, subsequent immigration reforms and their consequences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 2H",
+  "title": "American Migration Since 1965: Asians and others in the United States",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in AS AM 2; consent of instructor.",
+  "prerequisites_courses": [
+   "AS AM 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 3",
+  "title": "Asian American Personality and Identity",
+  "units": "4",
+  "description": "Cultural values and behavioral norms; ethnic identity development; process of acculturation; family patterns of communication; stressors and social support systems; tokenism; symbolic racism; academic acievement; interpersonal effectiveness; and culturally-responsive mental health treatment and service delivery.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 4",
+  "title": "Introduction to Asian American Popular Culture",
+  "units": "5",
+  "description": "A historical survey of how Asians and Asian Americans have been represented in American popular culture, with an analytical focus on the social and symbolic contents of examples in journalism, literature, theater, and television.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

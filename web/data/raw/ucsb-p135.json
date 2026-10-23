@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 252",
+  "title": "Problem-Based Learning",
+  "units": "4",
+  "description": "Problem-based learning (PBL) locates its pedagogy in discourse and interactions of small groups of learners with respect to real-world problems. Students will study foundational literature and participate in design, implementation, and evaluation of PBL for use in technology-enabled education environments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 253D",
+  "title": "Seminar in Teaching and Learning",
+  "units": "0",
+  "description": "In-depth consideration of emerging topics in teaching and learning. Course content may vary.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 255A",
+  "title": "Being a Student",
+  "units": "4",
+  "description": "This course focuses on the nature of the student role. Specifically, it examines school and classroom life from the student perspective drawing on literature from educational sociology, social psychology, and anthropology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 256",
+  "title": "Technology and Learning Contexts",
+  "units": "4",
+  "description": "Critical consideration of research on how technologychanges the learning context. Specifically, issues about how technology may be used to facilitate student learning andchallenges to integrating technology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 257A",
+  "title": "Learning and Teaching with Digital Media for Adult Learners",
+  "units": "4",
+  "description": "Examination of educational rationales for the design of hypermedia applications. Students evaluate existing programs and apply principles of learning with media to the development of their own projects using tools to acquire and manipulate text, images, sound and video.",
+  "prerequisites_raw": "Graduate Standing. This course is a prerequisite to Ed 257B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 257B",
+  "title": "Learning and Teaching with Digital Media for Adult Learners",
+  "units": "4",
+  "description": "Continuation of Ed 257A. Further investigation of teaching and learning with media, design of hypermedia applications, and evaluation of their usability and effectiveness.",
+  "prerequisites_raw": "Graduate Standing and Ed 257A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258A",
+  "title": "Seminar in Curriculum: Literacy",
+  "units": "4",
+  "description": "Recent developments, review, and evaluation of current research in curriculum is explored.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258B",
+  "title": "Seminar in Curriculum: Mathematics",
+  "units": "4",
+  "description": "Examination of mathematics curricula from several points of view: historical, theoretical, and in practice. Special attention will be given to comparing curricula advocated by the reform movement to curricula currently used in schools.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258D",
+  "title": "Seminar in Curriculum: Science",
+  "units": "4",
+  "description": "The course covers the review and evaluation of recent developments in curriculum development and research in science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258E",
+  "title": "SEM CURR-SOCIAL STD",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258F",
+  "title": "SEM CURRIC THE ARTS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258G",
+  "title": "SEM IN CURR FOR LAN",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258H",
+  "title": "SEM IN CHICANO STDS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258I",
+  "title": "SEM IN CHICANO STDS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 258J",
+  "title": "Seminar in Curriculum: Development and Analysis",
+  "units": "4",
+  "description": "This seminar examines past and current research on curriculum in K-12 education. It discusses curriculum theory, development, analysis, and implementation - in light of the history of education and current reform movements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 259",
+  "title": "Technology and Second Language Acquisition: Adolescents and Adults",
+  "units": "4",
+  "description": "Examines research on the theory and practice of using digital media and the Internet for teaching and learning second languages and cultures; discusses principles for the design and development of multimedia courseware.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 261",
+  "title": "Foundations of Democracy and Justice in Education",
+  "units": "4",
+  "description": "Explores the effect of language, culture, background, and values on learning processes and the implications for the development of appropriate instructional strategies.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 263",
+  "title": "Adolescent Development and Learning",
+  "units": "4",
+  "description": "An introduction to psychological principles of learning and development of the adolescent. Explores dimensions of development indicative of adolescence, and the ways in which development and learning are interwoven with social and cultural contexts in the educative process.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 264",
+  "title": "Child Development and Learning",
+  "units": "4",
+  "description": "An introduction to psychological principles of learning and development of the elementary age child. Explores dimensions of development indicative of middle childhood, and ways in which development and learning are interwoven with social and cultural contexts in the educative process.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 264C",
+  "title": "Behavioral Assessment and Intervention in Educational Settings",
+  "units": "4",
+  "description": "History and philosophy of behavior management approaches, behavioral assessment procedures, treatment delivery paradigms, parent-training, nonaversive/aversive issues, generalization and maintenance of treatment gains, causes, evaluation of behavior changes, medicine, self-management.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 265A",
+  "title": "Foundation of Teacher Inquiry",
+  "units": "0",
+  "description": "An introduction to teacher inquiry for professional growth. Topics include: the relationship between teacher inquiry and classroom practice, systematic data analysis, visual representation of findings and writing for research purposes.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 265B",
+  "title": "Teacher Inquiry and Classroom Practice I",
+  "units": "0",
+  "description": "Teacher candidates work on an independent inquiry into classroom practice. Students will refine a research topic, plan and perform multiple layers of data collection and analysis, work in critical research groups, and prepare a final written report.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 265C",
+  "title": "Teacher Inquiry and Classroom Practice II",
+  "units": "0",
+  "description": "Teacher candidates work on an independent inquiry into classroom practice. Students will refine a research topic, plan and perform multiple layers of data collection and analysis, work in critical research groups, and prepare a final written report.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 265D",
+  "title": "Teacher Inquiry and Classroom Practice III",
+  "units": "6",
+  "description": "Teacher candidates work on an independent inquiry into classroom practice. Students will refine a research topic, plan and perform multiple layers of data collection and analysis, work in critical research groups, and prepare a final written report.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 266",
+  "title": "Special Topics in the Teaching Profession",
+  "units": "0",
+  "description": "This course allows for more in-depth and advanced investigations into educative processes that build on prior learning in the Teacher Education program's foundations courses, methods courses, and student teaching.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 268",
+  "title": "Foundations of Teaching",
+  "units": "0",
+  "description": "Students develop a rigorous way of thinking about, talking about and practicing education for a diverse society. Explores the complex relationship among culture, society and school organization. Considers complex relations among teachers and learners within U.S. schools.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270A",
+  "title": "Classrooms as Cultures",
+  "units": "4",
+  "description": "This course examines classrooms as cultures and over views anthropological studies of classroom processes to identify factors that support and/or constrain learning in classrooms. Topics to be explored include: classroom discourse, school culture, peer culture, and situated learning.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270B",
+  "title": "Second Language Teaching Methodologies: Adolescents and Adults",
+  "units": "4",
+  "description": "Provides an overview of the basic theoretical principles of second language acquisition (SLA) as they apply to a second language teaching and learning. We discuss different methodologies of foreign/second language teaching and the history of the U.S.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270C",
+  "title": "Race and Ethnicity in American Education",
+  "units": "4",
+  "description": "Offers a historical overview of minority education in our public schools with emphasis on urban multi-ethnic student populations and their struggle for educational equity. A research paper is required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270E",
+  "title": "Perspectives on Educational Language Policy",
+  "units": "4",
+  "description": "Examination of the implicit and explicit language policies surrounding bilingual and ESL education and their implications for language minorities in schools and the workplace. Issues concerning language attitudes, language loyalty, language maintenance, identity, and power are also discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270F",
+  "title": "Second Langage Learning in Educational Contexts",
+  "units": "4",
+  "description": "Overview of linguistic, psychological, cognitive, and sociocultural approaches to second language acquisition. Students will critically review past and current SLA theories and research and develop an understanding of how language proficiency is conceptualized and assessed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

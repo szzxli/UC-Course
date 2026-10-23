@@ -1,0 +1,316 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 1",
+  "title": "Introduction to Human Health",
+  "units": "5",
+  "description": "Introduces students to the study of human health through the lens of anthropology, where we examine health not just as a biological state, but as a product of evolution, culture, society, and environment. Designed for students across the university who are interested in health, including pre-med, pre-public health, and anthropology majors/minors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 2",
+  "title": "Introductory Cultural Anthropology",
+  "units": "5",
+  "description": "The nature of culture: survey of the range of cultural phenomena, including material culture, social organization, religion, and other topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 2H",
+  "title": "Introductory Cultural Anthropology Honors",
+  "units": "1",
+  "description": "Students receive one unit for this honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Must be concurrently enrolled in ANTH 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 3",
+  "title": "World Archaeology",
+  "units": "5",
+  "description": "An introduction to archaeology and the history of humankind from the earliest times through the advent of literate civilization and cities, also processes of cultural change and the importance of archaeology to people and societies today. Partly self-paced learning.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 3SS",
+  "title": "Introduction to Archaeology",
+  "units": "5",
+  "description": "Introduction to archaeology and the prehistory of humankind from the earliest times up to the advent of civilization and cities, also processes of cultural change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 5",
+  "title": "Introductory Biological Anthropology",
+  "units": "5",
+  "description": "An introductory course in human evolutionary biology. Natural selection and its genetic basis are used to highlight a variety of human traits. The fossil record is addressed, but the course takes more of an adaptationist than a paleontological perspective.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 5H",
+  "title": "Introductory Biological Anthropology Honors",
+  "units": "1",
+  "description": "Students receive one unit for this honors seminar. Intended for highly motivated and well prepared students participating in the College Honors Program.",
+  "prerequisites_raw": "Must be concurrently enrolled in ANTH 5",
+  "prerequisites_courses": [
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 7",
+  "title": "Introductory Biosocial Anthropology",
+  "units": "5",
+  "description": "An introduction to our evolved, universal human nature, the evolution of the human mind, and how they shape behavior, social life, and culture. Topics include friendship, mate choice, incest avoidance, cooperation, revenge, status, jealousy, emotions, group formation, and intergroup aggression.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 8",
+  "title": "Health Beyond Borders",
+  "units": "4",
+  "description": "Investigates global health through the integrated lenses of biological anthropology, cultural anthropology, and bioarchaeology, moving across deep time and the contemporary world to ask what it means to be healthy, sick, and cared for across human societies. Themes include: the ecology of emerging infectious disease, the politics of medicine, the comparative organization of healthcare systems, indigenous health sovereignty, and the challenge of chronic illness in an aging world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 9",
+  "title": "Methods in the Human Behavioral Sciences",
+  "units": "5",
+  "description": "Introduces the design and analysis of scientific studies on human behavior. Emphasizes theory-based testing of hypotheses, with examples drawn from human ecology, physiology, and behavior. Covers a range of quantitative and qualitative methods including observation, surveys, and experiments.",
+  "prerequisites_raw": "ANTH 5 or 7 OR instructor approval",
+  "prerequisites_courses": [
+   "ANTH 5",
+   "ANTH 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 25",
+  "title": "Violence and the Japanese State",
+  "units": "5",
+  "description": "Examines historiographically and sociologically the Japanese State's various engagements in violent acts during war and peace times.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Introduction to research in Anthropology. Independent research under the guidance of a faculty member in the department. Course offers exceptional students the opportunity to undertake independent research or work in a research group.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 100",
+  "title": "Basic Archaeological Concepts",
+  "units": "4",
+  "description": "A survey of important archaeological methods of excavation, analysis, and interpretation. Focus will be on the problems and promise of various approaches to the explanation of past human behavior.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 101",
+  "title": "African Archaeology",
+  "units": "4",
+  "description": "An analysis of the archaeology of Africa from 10,000 years ago to AD 1500, with special reference to the emergence of food production, indigenous states, and the development of long-distance trade. Major emphasis on the self-paced learning.",
+  "prerequisites_raw": "Anthropology 3 or 3SS.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 102",
+  "title": "Activist Anthropology",
+  "units": "4",
+  "description": "Activist scholarship seeks to combine rigorous research and political commitment to achieve empirical and theoretical understanding of social processes. While open access to information has democratized knowledge production, academic work is still necessary to ask the questions and find the answers to address social injustice and inequality. In this course, we explore the methods and results of more than two decades of activist research.",
+  "prerequisites_raw": "ANTH 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 103",
+  "title": "Human-Wildlife Interactions",
+  "units": "4",
+  "description": "Survey of human-wildlife interactions (e.g., bushmeat, pet trade, crop-raiding). Students examine cascading effects on wildlife, landscapes, and human populations, as well as mitigating approaches relating to our changing perceptions of wildlife and nature.",
+  "prerequisites_raw": "Anthropology 5.",
+  "prerequisites_courses": [
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 104",
+  "title": "Risk & Inequality",
+  "units": "4",
+  "description": "Examines risk and perception in relation to environmental and health inequality within larger political, social and cultural frameworks across the globe.",
+  "prerequisites_raw": "Anthropology 2",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 105",
+  "title": "Human Variation",
+  "units": "4",
+  "description": "An examination of traditional race concepts contrasted with an approach to human variation through the analysis of biologically adaptive traits.",
+  "prerequisites_raw": "Anthropology 5.",
+  "prerequisites_courses": [
+   "ANTH 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 105BW",
+  "title": "Biology of Women",
+  "units": "4",
+  "description": "An exploration of female and womxn’s reproductive lives from an evolutionary and biocultural perspective. We will focus on physiological, ecological, and social aspects of womxn’s development across cultures from before birth, through reproductive processes like pregnancy, birth, lactation, menopause, and aging. Examples will be drawn from contemporary human societies, including many small-scale societies, although non-human primates will also be considered occasionally. This class will include lectures, discussion in multiple formats, and other modes of learning.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 106",
+  "title": "Cultural Evolution",
+  "units": "4",
+  "description": "This course takes a scientific and evolutionary lens to cultural phenomena. We will consider the origins of culture in non- humans and humans, and how tendencies to imitate, conform, teach and uphold social norms via punishment and reward shape behavioral variation.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 107",
+  "title": "Psychological Anthropology",
+  "units": "4",
+  "description": "Field from Freud and Mead to present; how human nature (universal psychological mechanisms) and culture interact to form individual psychologies, identities, genders, social attitudes, worldviews, and traditions; how cognitive development shapes belief systems, reasoning and symbolism; emotions, preferences, thinking, and pathologies in cross- cultural perspective.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 108",
+  "title": "Educating the Native",
+  "units": "4",
+  "description": "We look at different educational projects, such as Indian boarding Schools, English-only laws, the \"indirect rule\" of the British colonies. We address the not-always-clear line between education as a form of social control or as a form of liberation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 109",
+  "title": "Human Universals",
+  "units": "4",
+  "description": "A critical overview of those characteristics of human psyche, behavior, society, and culture that are allegedly found among all peoples: the constants of human nature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 110",
+  "title": "Science Technology and Society",
+  "units": "4",
+  "description": "This sociocultural anthropology course introduces the field of science and technology studies (STS) through an anthropological lens. Topics include history of STS; science communication & public engagement; gender, race & science/feminist STS; embedded science studies; expertise and lay-expert divide; democratization of technologies; governance frameworks; research methods and more.",
+  "prerequisites_raw": "Anthropology 2.",
+  "prerequisites_courses": [
+   "ANTH 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 111",
+  "title": "The Anthropology of Food",
+  "units": "4",
+  "description": "Critical survey of different anthropological approaches to food production and consumption. Topics may include relations between agricultural forms and political systems; the meanings of feasting; cooking; class, race, and gender; food and national identity; food sovereignty, food justice and more.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 112",
+  "title": "Bioarchaeology",
+  "units": "4",
+  "description": "A survey of research in the field of bioarchaeology including studies of paleodemography, paleopathology and their relevance to testing about the biological and cultural adaptations of earlier human populations and interpreting behavior from the human skeleton.",
+  "prerequisites_raw": "Anthropology 180A.",
+  "prerequisites_courses": [
+   "ANTH 180A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 112Z",
+  "title": "Theoretical Approaches in Contemporary Archaeology",
+  "units": "4",
+  "description": "A survey of the history of archaeological theory, and an overview of major theoretical approaches and applications in contemporary archaeology. The course demonstrates how theory serves as a guide to research and to the interpretation of archaeological data.",
+  "prerequisites_raw": "Anthropology 3 or 3SS or 100.",
+  "prerequisites_courses": [
+   "ANTH 3",
+   "ANTH 3SS",
+   "ANTH 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 113",
+  "title": "Indigenous People and the Nation State in the Americas",
+  "units": "4",
+  "description": "The changing relationship between indigenous people and the state. Compare the differences and similarities between indigenous peoples' mobilizations in the cases of Canada, USA, Ecuador, Chile, Guatemala, Bolivia and Mexico.",
+  "prerequisites_raw": "ANTH 2 or CH ST 1A, 1B, or 1C.",
+  "prerequisites_courses": [
+   "ANTH 2",
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ }
+]

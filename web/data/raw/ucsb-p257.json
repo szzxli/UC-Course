@@ -1,0 +1,268 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 144W",
+  "title": "Women of Color and Social Movements in the United States",
+  "units": "4",
+  "description": "The course foregrounds social movements led and formed by U.S. women of color, including Chicanas, Latinas, African American, Native American, and Asian American women in the twentieth century. It begins by examining the purpose, processes, outcomes, and the legacies of social movements, paying attention to what they can teach us about social change and human agency. Then it focuses on specific movements including struggles for civil rights; black, brown, and red power; feminist rights; reproductive justice; and economic justice.",
+  "prerequisites_raw": "HIST 17A, 17B, or 17C",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 145A",
+  "title": "The Middle East I: From the Origins of Islam to the Year 1000",
+  "units": "4",
+  "description": "The rise of a world religion and the emergence of a new multi-ethnic society under its aegis; the evolution of social and political institutions within the Universal caliphate; the creation of a specifically Islamic culture and intellectual life.",
+  "prerequisites_raw": "History 46 or MES 45 or upper-division standing.",
+  "prerequisites_courses": [
+   "MES 45"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 145B",
+  "title": "The Middle East II: The Era of Invasions, 1000-1500",
+  "units": "4",
+  "description": "The failure of the Caliphate and the search for a new political order; Turkish military and political domination; the structures of urban society; the rebirth of Persian literature; the classical formulations of Islamic religious thought.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 145C",
+  "title": "The Middle East III: Early Modern Empires and Transformations, 1500-1800",
+  "units": "4",
+  "description": "A survey of Middle Eastern history from the rise of the Safavid Empire in Iran and the Ottoman conquest of the Mamluk Empire until the French occupation of Egypt and the first Ottoman attempts at modernizing reform.",
+  "prerequisites_raw": "History 46A or 46B or MES 45 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 46A",
+   "MES 45",
+   "HIST 46B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 145D",
+  "title": "War and Diplomacy in the Middle East: 1876-Present",
+  "units": "4",
+  "description": "Selected problems in the relations of Middle Eastern states within the region and with external powers. The problems studied will vary from year to year. Sample topics: World War I settlement, Mossadegh era in Iran, Israeli invasion of Lebanon (1982).",
+  "prerequisites_raw": "History 4C or MES 45 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4C",
+   "MES 45"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 146",
+  "title": "History of the Modern Middle East",
+  "units": "4",
+  "description": "Through a critical engagement with colonialism, nationalism, and modernity this course explores the social, economic, political, and cultural histories of the Middle East from 1750 to the present.",
+  "prerequisites_raw": "History 46 or 46A or 46B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 46A",
+   "HIST 46B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 146BQ",
+  "title": "Readings Seminar in the Body and Revolution in Middle East History",
+  "units": "4",
+  "description": "How does the body become a political symbol in various moments of revolt and uprising? What can these experiences and representations tell us about the very possibility of change? What can it reveal about political economy, sex, gender, torture and brutality? This course seeks to answer these questions through a study of the histories of the body and revolution in the Middle East.",
+  "prerequisites_raw": "History 46A or 46B or 146 or 146T or 146FR and upper division standing.",
+  "prerequisites_courses": [
+   "HIST 46A",
+   "HIST 46B",
+   "HIST 146",
+   "HIST 146T",
+   "HIST 146FR"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 146FR",
+  "title": "Undergraduate Research Seminar in Family, Gender, and Sexuality in Middle East History",
+  "units": "4",
+  "description": "A weekly seminar focusing on family, gender, and sexuality in Middle East history. A research paper is required.",
+  "prerequisites_raw": "History 46 or 145A or 145B or 145C or 146.",
+  "prerequisites_courses": [
+   "HIST 145A",
+   "HIST 145B",
+   "HIST 145C",
+   "HIST 146"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 146Q",
+  "title": "Readings in Middle Eastern History",
+  "units": "4",
+  "description": "A reading class in a topic pertaining to the history of the Middle East from the rise of Islam to the present. There will be a strong emphasis on close reading and classroom discussion. Topic varies from year to year and according to instructor.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 146R",
+  "title": "Undergraduate Research Seminar in Middle Eastern History",
+  "units": "4",
+  "description": "Through readings and discussion, students will explore a broad problem or topic in the history of the Middle East or wider Islamic world. The course will culminate with a research paper or historiographical review essay.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 146T",
+  "title": "History of Israel/Palestine",
+  "units": "4",
+  "description": "History of the Israeli-Palestinian conflict from the mid-nineteenth century to the present. Course themes include evolution of Zionism, Palestine before World War I, and the British mandate, World War II, the Arab- Israeli wars, rise of Palestinian nationalism, and Israeli and Palestinian societies today.",
+  "prerequisites_raw": "History 46 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 146W",
+  "title": "Women and Gender in Middle Eastern History",
+  "units": "4",
+  "description": "A social history of women in the Middle East from the nineteenth century to the present. Course investigates women's diverse and rapidly changing political, economical, and social roles in the region emphasizing contemporary feminist and Islamic movements.",
+  "prerequisites_raw": "History 46 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 147C",
+  "title": "African Lives: (Auto)Biographies of African Men and Women",
+  "units": "4",
+  "description": "An introduction to modern African history through reading (auto)biographies of African men and women with different socioeconomic backgrounds. Explores how African lives have been represented in these texts, what we can learn from them about Africa's past.",
+  "prerequisites_raw": "History 49A or 49B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 49A",
+   "HIST 49B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 147D",
+  "title": "History of Development in Africa",
+  "units": "4",
+  "description": "Explores the history of development in Africa since the colonial civilizing mission of the nineteenth century to the present. Case studies range from agricultural projects, health campaigns, modernist urbanism, to infrastructure projects like harbors railways, and hydroelectric dams. Class material focuses on development discourses by colonial officials, international experts, and African leaders, as well as on development practices and experiences. How did Africans, men and women, engage with specific development projects and shape their outcomes?",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 147G",
+  "title": "Gender and Power in Modern African History",
+  "units": "4",
+  "description": "Examination of gender, power, and authority among and between men and women in response to socioeconomic transformations in nineteenth- and twentieth-century Africa. Themes include interpretations of gender, organization of labor, the missionary project, the state, and colonial rule.",
+  "prerequisites_raw": "History 49A or 49B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 49A",
+   "HIST 49B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 147Q",
+  "title": "Readings on African History",
+  "units": "4",
+  "description": "A discussion and reading seminar on selected topics in African history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 147R",
+  "title": "Undergraduate Research Seminar in African History",
+  "units": "4",
+  "description": "A seminar on a topic in African history. A research paper is required.",
+  "prerequisites_raw": "Upper Division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 148A",
+  "title": "Pre-Colonial Southern Africa",
+  "units": "4",
+  "description": "Explores the major socio-economic and political history of the Southern African region from around 1000 CE to the 1880s. Focuses on state making, economic systems, regional mobilities and international connections through trade before the advent of European colonialism.",
+  "prerequisites_raw": "Prior History course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 148AU",
+  "title": "African Urban History: From the Ancient City State to the Contemporary Metropolis",
+  "units": "4",
+  "description": "The changing meaning of African urbanity from historical case studies and more contemporary cityscapes through particular themes, such as statecraft, ideology, production, political economies of wealth and poverty, cultural performativity, politics and hegemony, labor migrancy and the rural-urban nexus.",
+  "prerequisites_raw": "A prior course in history.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 148B",
+  "title": "Colonial Southern Africa",
+  "units": "4",
+  "description": "Focuses on the history of Southern Africa under colonial rule to independence (late 1880s-1994). Explores the imposition of European settler rule, African resistance, the political economies of the different colonial regimes, the rise of African nationalism and independence.",
+  "prerequisites_raw": "Prior History course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 148PL",
+  "title": "Politics and Leisure in Africa",
+  "units": "4",
+  "description": "The intersection between leisure and politics is a consistent feature of African history, and it is a complex, creative intersection that produces and transacts history in dynamic ways. Utilizing ancient transcripts and records of performative cultures, contemporary music, primary and secondary interpretations of African cultural life, this course provides a deep and timely exploration of the fertile intersection between cultural performativity and power from ancient times to the present. Performative cultures are therefore political, and so also are they spiritual, economic and deeply embedded in questions of science and technology.",
+  "prerequisites_raw": "A previous course in History or upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 149AD",
+  "title": "Blackness in Latin America, An Introduction",
+  "units": "4",
+  "description": "Explores the experiences of Africans and their descendants in the Americas, mostly in Latin America and the Caribbean. Looks at ways in which men and women (enslaved and free) negotiated their imposed conditions from the colonial period to the present. Considers the methodological challenges of writing a history of people who did not produce primary sources. Underscores the contribution that people of African-descent have made and the debates that continue shaping the discipline.",
+  "prerequisites_raw": "History 8 or 49A or 49B OR upper division standing",
+  "prerequisites_courses": [
+   "HIST 49A",
+   "HIST 49B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 149BF",
+  "title": "Black Freedom, African Justice: Race, Religion, & Revolution in the Atlantic World, 1770-1865",
+  "units": "4",
+  "description": "This course examines the ways that black revolutionariesin Africa and in the Americasshaped the modern world. How did African political cultures and enslaved black aspirations for freedom came together to shape America? The American revolution is often heralded as ending monarchy and establishing a republican form of governmentbut it was roughly contemporaneous with two other revolutions, one in West Africa, the other in Haitithat were incredibly important in shaping ideas about freedom and good government at the end of the 18th century. Black people brought more than toil; they brought revolutionary ideas, beliefs, and practices that profoundly shaped modernity. Understanding Africa, we will see, is important to understanding America.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ }
+]

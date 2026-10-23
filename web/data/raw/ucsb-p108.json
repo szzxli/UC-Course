@@ -1,0 +1,363 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94A",
+  "title": "Circuits",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94AA",
+  "title": "Micro-electro-mechanical-systems",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94B",
+  "title": "Systems Theory",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94BB",
+  "title": "Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94C",
+  "title": "Communications Systems",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94CC",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94D",
+  "title": "Control Systems",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94E",
+  "title": "Signal Processing",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94F",
+  "title": "Solid State",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94G",
+  "title": "Fields and Waves",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94H",
+  "title": "Quantum Electronics",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94I",
+  "title": "Microwave Electronics",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94J",
+  "title": "Switching Theory",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94K",
+  "title": "Digital Systems Design",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94L",
+  "title": "Computer Architecture",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94M",
+  "title": "Computer Graphics",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94N",
+  "title": "Pattern Recognition",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94O",
+  "title": "Microprocessors and Microprocessor-based systems",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94P",
+  "title": "Simulation",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94Q",
+  "title": "Imaging Systems and Image Processing",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94R",
+  "title": "General",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94S",
+  "title": "Speech",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94T",
+  "title": "Robot Control",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94U",
+  "title": "Optoelectronics",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94V",
+  "title": "Scientific Computation",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94W",
+  "title": "Computer Network",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94X",
+  "title": "Distributed Computation",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94Y",
+  "title": "Numerical Differential Equations",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 94Z",
+  "title": "Nanotechnology",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 96",
+  "title": "Undergraduate Research",
+  "units": "0",
+  "description": "Research opportunities for undergraduate students. students will be expected to give regular oral presentations, actively participate in a weekly seminar, and prepare at least one written report on their research.",
+  "prerequisites_raw": "Consent of instructor. Must have a 3.00 GPA. May be repeated for up to 12 units.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 120A",
+  "title": "Integrated Circuit Design and Fabrication",
+  "units": "4",
+  "description": "Theory, fabrication, and characterization of solid state devices including P-N junctions, capacitors, bipolar and MOS devices. Devices are fabricated using modern VLSI processing techniques including lithography, oxidation, diffusion, and evaporation. Physics and performance of processing steps are discussed and analyzed.",
+  "prerequisites_raw": "ECE 132 with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 132"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 120B",
+  "title": "Integrated Circuit Design and Fabrication",
+  "units": "4",
+  "description": "Design, simulation, fabrication, and characterization of NMOS integrated circuits. Circuit design and layout is performed using commercial layout software. Circuits are fabricated using modern VLSI processing techniques. Circuit and discrete device electrical performance are analyzed.",
+  "prerequisites_raw": "Either ECE 120A or ECE 124B with a minimum grade of C- or better in each of the courses.",
+  "prerequisites_courses": [
+   "ECE 120A",
+   "ECE 124B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 122A",
+  "title": "VLSI Principles",
+  "units": "4",
+  "description": "Introduction to CMOS digital VLSI design: CMOS devices and manufacturing technology; transistor level design of static and dynamic logic gates and components and interconnections; circuit characterization: delay, noise margins, and power dissipation; combinational and sequential circuits; arithmetic operations and memories.",
+  "prerequisites_raw": "ECE 152A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 122B",
+  "title": "VLSI Architecture and Design",
+  "units": "4",
+  "description": "Practical issues in VLSI circuit design, pad/pin limitations, clocking and interfacing standards, electrical packaging for high-speed and high-performance design. On-chip noise and crosstalk, clock and power distribution, architectural and circuit design constraints, interconnection limits and transmission line effects.",
+  "prerequisites_raw": "ECE 124A or ECE 123 or ECE 122A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 124A",
+   "ECE 123",
+   "ECE 122A"
+  ]
+ }
+]

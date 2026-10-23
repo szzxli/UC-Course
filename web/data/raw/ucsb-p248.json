@@ -1,0 +1,372 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 210",
+  "title": "Attic Orators",
+  "units": "4",
+  "description": "Advanced reading and study of Attic orators such as Demosthenes, Lysias, Aeschines, and Isocrates, with attention to the language, style, and rhetoric of the speeches, and to their political and historical context.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 213",
+  "title": "Lucian",
+  "units": "4",
+  "description": "Advanced reading and study of selected passages from Lucian, with attention to the language and style of his satirical dialogues, and to their social and historical context.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 220",
+  "title": "Greek Novel",
+  "units": "4",
+  "description": "Advanced reading and study of selected chapters of an ancient Greek novel, with attention to the language and style of the work and to its literary, social and political contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 225",
+  "title": "Greek Biography",
+  "units": "4",
+  "description": "Advanced reading and study of selections from Greek texts that focus on the 'lives' of notable figures (such as Xenophon's Cyropaedia, Plutarch's Lives, and the Life of Aesop). Attention is paid to the language and style of the works, as well to the genre of 'biography'.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 238",
+  "title": "Pre-Socratic Philosophers",
+  "units": "4",
+  "description": "Advanced readings in the first \"formal\" philosophers of the Western tradition. Normally includes all the major pre-Socratics (Parmenides, Heraclitus, Pythagoras, Xenophones, Anaxagoras, Democritus) and their contributions to European thought. Sometimes concentrates upon thinkers of the fifth-century Sophistic Movement.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 240",
+  "title": "Greek Prose Composition",
+  "units": "4",
+  "description": "Improves active knowledge of the Greek language, both grammar and vocabulary, through careful writing. Refines a feeling for the Greek employed in various genres of Greek literature. Demonstrates how a feel for style helps interpret and explicate Greek literature.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 242",
+  "title": "Plato",
+  "units": "4",
+  "description": "Advanced reading of one or several Platonic dialogues from the early or middle period (Laches, Protagoras, Phaedo, Gorgias, Symposium), both as masterpieces of Greek literature and as philosophical dialogues.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 243",
+  "title": "Post-Platonic Philosophers",
+  "units": "4",
+  "description": "Advanced reading of selections from the more famous works of Aristotle (Nicomachean Ethics, Politics, De Anima, Metaphysics), emphasizing Aristotle both as thinker and as stylist; occasionally excerpts from Theophrastus, the Stoics, Plotinus.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 251",
+  "title": "Euripides",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of a complete tragedy of Euripides, with attention to language, meter, staging, tragic themes and conventions, and the cultural context of Athenian drama, with an introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 252",
+  "title": "Sophocles",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of a complete tragedy of Sophocles, with attention to language, meter, staging, tragic themes and conventions, and the cultural context of Athenian drama, with an introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 253",
+  "title": "Aeschylus",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of a complete tragedy of Aeschylus, with attention to language, meter, staging, tragic themes and conventions, and the cultural context of Athenian drama, with an introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 254",
+  "title": "Aristophanes",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of a complete comedy of Aristophanes, with attention to language, meter, staging, comic themes and conventions, and the cultural context of Athenian drama, with an introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 258",
+  "title": "Homer",
+  "units": "4",
+  "description": "Advanced reading and study of selections from the Iliad and/or Odyssey.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 261",
+  "title": "Hesiod, Theognis, and Solon",
+  "units": "4",
+  "description": "Advanced reading and study in the archaic poets.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 262",
+  "title": "Herodotus",
+  "units": "4",
+  "description": "Advanced reading and study in the histories of Herodotus.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 263",
+  "title": "Thucydides",
+  "units": "4",
+  "description": "Advanced reading and research in the historical, literary, and philological aspects of Thucydides.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 265",
+  "title": "Xenophon",
+  "units": "4",
+  "description": "Advanced reading and study in selected works.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 266",
+  "title": "Polybius",
+  "units": "4",
+  "description": "Selections from the great history, focusing either on the Hellenistic world of the later third century, the Punic Wars, or Rome's interventions across the Adriatic from 229 to 146 B.C. Translation and historical/ historiographical study.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 271",
+  "title": "Lyric Poets and Homeric Hymns",
+  "units": "4",
+  "description": "Advanced reading and study of lyric poems and Homeric hymns.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 272",
+  "title": "Pindar",
+  "units": "4",
+  "description": "Advanced reading, interpretation, metrical study, and textual criticism. Introduction to other choral poets.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 273",
+  "title": "Hellenistic Poets",
+  "units": "4",
+  "description": "Advanced study in poetry of the Alexandrian period, normally concentrating upon a single major poet such as Apollonius, Callimachus, or Theocritus, with attention to language, meter, generic innovation, cultural context, and formative influence upon Latin literature. Includes introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 299",
+  "title": "RESEARCH IN GREEK",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "GRADUATE STANDING AND CONSENT OF INSTRUCTOR AND GRADUATE ADVISOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "Written proposal approved by department chair and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Independent research.",
+  "prerequisites_raw": "Graduate standing and consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Terminal preparation of the dissertation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 1",
+  "title": "Elementary Hebrew",
+  "units": "5",
+  "description": "The beginning course in Hebrew. Starting with the study of the alphabet, the student is initiated into the rudiments of the language. Basic grammar, vocabulary, and conversation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 2",
+  "title": "Elementary Hebrew",
+  "units": "5",
+  "description": "Continuation of Hebrew 1.",
+  "prerequisites_raw": "Hebrew 1 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 3",
+  "title": "Elementary Hebrew",
+  "units": "5",
+  "description": "Continuation of Hebrew 2.",
+  "prerequisites_raw": "Hebrew 2 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 4",
+  "title": "Intermediate Modern Hebrew",
+  "units": "5",
+  "description": "Continuation of Hebrew 3 with emphasis in writing, composition, and reading of Hebrew newspapers. Introduction to modern Hebrew literature: prose and poetry.",
+  "prerequisites_raw": "Hebrew 3 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 5",
+  "title": "Intermediate Modern Hebrew",
+  "units": "5",
+  "description": "Continuation of Hebrew 4.",
+  "prerequisites_raw": "Hebrew 4 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 6",
+  "title": "Intermediate Modern Hebrew",
+  "units": "5",
+  "description": "Continuation of Hebrew 5.",
+  "prerequisites_raw": "Hebrew 5 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 114A",
+  "title": "Readings in Modern Hebrew Prose and Poetry",
+  "units": "4",
+  "description": "Improve language ability and acquire knowledge in Hebrew literature. Readings/analyzing texts of modern and contemporary major Hebrew writers. Relationships between land, people and history, social, political, spiritual, and gender issues; impact of war.",
+  "prerequisites_raw": "Hebrew 6 or fluency with departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 114B",
+  "title": "Readings in Modern Hebrew Prose and Poetry",
+  "units": "4",
+  "description": "Improve language ability and acquire knowledge in Hebrew literature. Readings/analyzing texts of modern and contemporary major Hebrew writers. Relationships between land, people and history, social, political, spiritual, and gender issues; impact of war.",
+  "prerequisites_raw": "Hebrew 6 or fluency with departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HEB",
+  "code": "HEB 114C",
+  "title": "Readings in Modern Hebrew Prose and Poetry",
+  "units": "4",
+  "description": "Improve language ability and acquire knowledge in Hebrew literature. Readings/analyzing texts of modern and contemporary major Hebrew writers. Relationships between land, people and history, social, political, spiritual, and gender issues; impact of war.",
+  "prerequisites_raw": "Hebrew 6 or fluency with departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 2A",
+  "title": "World History",
+  "units": "5",
+  "description": "Survey of the peoples, cultures, and social, economic, and political systems that have characterized the world's major civilizations in Europe, Asia, Africa, the Americas, and Oceania from prehistory to 1000 CE.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 2B",
+  "title": "World History",
+  "units": "5",
+  "description": "Survey of the peoples, cultures, and social, economic, and political systems that have characterized the world's major civilizations in Europe, Asia, Africa, the Americas, and Oceania from 1000 to 1700 CE.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 2C",
+  "title": "World History",
+  "units": "5",
+  "description": "Survey of the peoples, cultures, and social, economic, and political systems that have characterized the world's major civilizations in Europe, Asia, Africa, the Americas, and Oceania from 1700 to present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

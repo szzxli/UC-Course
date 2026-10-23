@@ -1,0 +1,256 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 216B",
+  "title": "Organization of Industry",
+  "units": "4",
+  "description": "Theoretical and empirical analyses of \"imperfect\" competition. Individual or firm optimization and market equilibrium are considered. Topics include oligopoly, monopolistic competition, information, determinants of market structure, complex pricing, vertical relations. Antitrust, regulatory, and government ownership policies will be examined.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 217A",
+  "title": "American Economic History",
+  "units": "2",
+  "description": "This course surveys topics in American economic history. Due to time constraints and the size of this body of knowledge, coverage of topics will not be comprehensive. Particular attention is paid to continuity and change in American economic development, the causal effects of economic policy, American exceptionalism, the advantages and disadvantages of the methodological approaches used by economists studying American history, the current scholarly debates surrounding selected topics, and a critical examination of historical evidence.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 218",
+  "title": "Topics in Firm Dynamics",
+  "units": "2",
+  "description": "Explores both theoretical and empirical aspects of firm dynamics. Covers classical and contemporary research on firms' dynamic decisions in areas such as innovation, corporate finance, and international trade. Students will develop skills in modeling and data analysis to study firm behavior and its implications for aggregate outcomes, including economic growth, market concentration, and trade patterns.",
+  "prerequisites_raw": "Economics 204A, Economics 204B, Economics 204C (all three courses required)",
+  "prerequisites_courses": [
+   "ECON 204A",
+   "ECON 204B",
+   "ECON 204C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 224",
+  "title": "Economic Development",
+  "units": "4",
+  "description": "Applications of economic theory to the problems of developing nations. Integrates macro and micro theory to assess and predict development. Topics include economic growth, poverty and income distributions, population, rural-urban migration, education, labor supply, and poverty wages.",
+  "prerequisites_raw": "Masters level student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 225",
+  "title": "Heterogeneous Agent Macroeconomics",
+  "units": "4",
+  "description": "Study dynamic general equilibrium models with heterogeneous agents. Cover economies where aggregation is possible, economies with exogenously incomplete markets and economies where the market incompleteness is endogenous due to limited commitment or private information.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 226",
+  "title": "Competitive Strategy",
+  "units": "4",
+  "description": "This course builds upon the theoretical economic framework of the firm and incorporates strategic concepts, tools, and theory. Using these tools, students can analyze the competitive behavior of firms under various economic conditions of industry structure.",
+  "prerequisites_raw": "Masters level student standing and completion of Economics 205A and Economics 205B.",
+  "prerequisites_courses": [
+   "ECON 205A",
+   "ECON 205B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 227",
+  "title": "Computational Methods for Macroeconomics",
+  "units": "4",
+  "description": "Covers the tools required to solve state-of-the-art models in quantitative macroeconomics: dynamic programming, projection, perturbation, and deep learning algorithms. Special emphasis is given to learning contemporary programming techniques and modern software engineering workflows. Although most examples will come from macro, students in other fields (IO, international, etc.) can follow the material, and the main ideas also apply to their problems. Evaluations will be based on homework assignments, and a replication exercise.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 228",
+  "title": "Aggregate Economics",
+  "units": "4",
+  "description": "Develop and use model abstractions obtaining quantitative answers to questions in aggregate economics. Focus is theoretical, quantitative, & empirical analyses across several areas; Great Depressions, Mobility and Unemployment, Demographics, Financial Frictions, Output, & Labor Markets, and Money & Monetary Policy.",
+  "prerequisites_raw": "Economics 204A, Economics 204B, Economics 204C and Second year Ph.D. graduate student standing.",
+  "prerequisites_courses": [
+   "ECON 204A",
+   "ECON 204B",
+   "ECON 204C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 229",
+  "title": "Macroeconomics Theory and Policy",
+  "units": "4",
+  "description": "Covers dynamic fiscal policy, including optimal taxation and government debt management, time consistency problems of fiscal and monetary policy, government deficits and their effects on the economy, and other advanced topics in macroeconomics.",
+  "prerequisites_raw": "Economics 204A and 204B.",
+  "prerequisites_courses": [
+   "ECON 204A",
+   "ECON 204B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230A",
+  "title": "Public Economics I",
+  "units": "2",
+  "description": "Theory of public goods. Government and non-government policies for management of externalities.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230B",
+  "title": "Public Economics II",
+  "units": "2",
+  "description": "Theory of social choice and voting. Benefit-cost analysis. Introduction to mechanism design theory. Assorted topics in public policy.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230C",
+  "title": "Individual Taxation",
+  "units": "2",
+  "description": "After a brief overview of optimal labor income taxation, the course focuses on empirical analysis of behavioral responses to individual taxes. Empirical topics include labor supply responses to taxes and transfers, taxable income elasticities, tax avoidance, evasion, and tax enforcement.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230D",
+  "title": "Capital Taxation",
+  "units": "2",
+  "description": "Covers the theory and empirical analysis of capital taxes. In the first part, we cover optimal capital taxation and we derive theoretical predictions of responses to capital income taxes such as corporate, dividend and capital gains taxes. The second part focuses on empirical analysis of existing capital tax structures.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230E",
+  "title": "Social Insurance Programs",
+  "units": "2",
+  "description": "Covers the theory and empirical analysis of unemployment and disability insurance programs, as well as universal pension programs such as Social Security. Theoretical topics will include the determination of optimal replacement rates for unemployment/disability insurance and approaches to incentivizing savings. Empirical analysis will focus on the estimation of behavioral responses to social insurance programs.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230F",
+  "title": "Behavioral Public Finance",
+  "units": "2",
+  "description": "Focuses on empirical applications of models and insights from behavioral economics to issues in public finance and other policy relevant questions. Some of the models we consider are loss aversion, present bias and projection bias. These are applied to a wide variety of questions including pension contribution decisions, retirement, tax filing, labor supply, tax incidence and optimal taxation.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230G",
+  "title": "Tax Incidence",
+  "units": "2",
+  "description": "Covers the theory and empirical analysis of tax incidence. Theoretical models will focus on the incidence of taxes in partial and general equilibrium models. The empirical analysis will focus on recent advances in estimating the incidence of consumption taxes, payroll taxes, corporate taxes and income taxes.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230H",
+  "title": "Political Economy",
+  "units": "2",
+  "description": "This course presents the basic workhorse models in political economy and the most recent developments in the field. For each topic, the class covers the main theoretical models, empirical tests of these models and applications of political economy models used in other fields such as macroeconomics, international economics, labor economics, industrial organization and environmental economics.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230I",
+  "title": "Health Economics",
+  "units": "2",
+  "description": "Introduction to the economics of health, health services and insurance. It applies economic, statistical principles, and techniques, to the production of health and the closely related markets for health insurance and services. Emphasis on applying I.O. principles and analyzing policy relevant to the health insurance and services markets. Focus on topics, not methods, and will cater to students especially interested in applied micro. Goal is to take students close to the research frontier, educate about the history and institutions of US healthcare, and generate research topics. Most research in health economics is heavily empirical, and course highlights theory to guide hypothesis testing and the specification of empirical models.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 230J",
+  "title": "Health Economics II",
+  "units": "2",
+  "description": "Introduction to health economics, second half. We will apply economic principles and econometric techniques to the production of health and health care. Emphasis on reduced-form methods for analyzing policy relevant to health care markets. Focus on topics, not methods, and will cater to students especially interested in applied micro. The goal is to take students close to the research frontier, educate them about the history and institutions of US healthcare, and generate research topics. Most research in health economics is heavily empirical, and the course will highlight theory to guide hypothesis testing and the specification of empirical models.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 234A",
+  "title": "Introduction to Corporate Finance",
+  "units": "4",
+  "description": "Basic principles of valuation and risk. Topics include discounting of cash flows, techniques to evaluate projects, risk analysis in bond/stock markets, relationships between risk and return using the capital asset pricing model. Introduction to behavioral finance and options.",
+  "prerequisites_raw": "Masters level student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 234B",
+  "title": "Corporate Finance Topics",
+  "units": "4",
+  "description": "Capital asset pricing model and option pricing theory are covered rigorously. Other assets such as warrants and futures are analyzed. Special topics may be introduced. Multiple course projects may be assigned requiring use of regression analysis, simulations, and/or forecasting.",
+  "prerequisites_raw": "Masters level student standing and completion of Economics 234A and Economics 240A.",
+  "prerequisites_courses": [
+   "ECON 234A",
+   "ECON 240A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 235A",
+  "title": "Finance",
+  "units": "4",
+  "description": "Individuals' optimal consumption/portfolio choice under uncertainty and implied asset valuation. Rigorous treatment of the traditional linear asset pricing relations; mean-variance CAPM and APT, and the equilibrium valuation; consumption-based intertemporal asset pricing models.",
+  "prerequisites_raw": "Economics 210A-B or 204A.",
+  "prerequisites_courses": [
+   "ECON 210A",
+   "ECON 204A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 235B",
+  "title": "Finance",
+  "units": "4",
+  "description": "Covers the integration of dynamic capital theory and the theory of finance,multiperiod general equilibrium pricing models and tests of those models.",
+  "prerequisites_raw": "Economics 210D; Economics 204A or 208; Economics 235A.",
+  "prerequisites_courses": [
+   "ECON 204A",
+   "ECON 235A",
+   "ECON 208"
+  ]
+ }
+]

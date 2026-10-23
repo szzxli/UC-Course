@@ -1,0 +1,403 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 101MQ",
+  "title": "Readings in the Social History of Money and Debt",
+  "units": "4",
+  "description": "This course asks students to consider money as a social relation in world history: as a moral obligation, a shared language, and a political bond. We investigate the ancient foundations of money and debt; how different monetary forms have been shaped by politics, society, and culture; and how money has functioned as a means of rule, technology of power, and tool of discipline. This course is reading-intensive and spans the fields of history, anthropology, sociology, political science, and literary criticism. Topics include cross-cultural currencies, counterfeiting, and money under neoliberalism, with special attention to the relationship between differential access to money and systems of race, class, and gender.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 101QA",
+  "title": "Queer North America",
+  "units": "4",
+  "description": "Introduces upper-division undergraduates to some of the main themes and topics in queer history from the seventeenth through to the late twentieth century across North America. The course is organized both chronologically and thematically. It may include discussions of sex, law, and religion, sex, science, and colonialism, sex, immigration, and urbanization, and sex, love, and resistance from perspectives that highlight those who sought to maintain heterosexual hegemony and those who lived lives that were deemed a threat to the sexual order of North America.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 101SR",
+  "title": "Undergraduate Research Seminar in the History of Sexuality",
+  "units": "4",
+  "description": "Undergraduate research seminar exploring the histories of sex and sexuality from the late-18th through to the 21st century. Focuses on the changing social, cultural, legal, and political meanings of sex and sexuality in its varied forms. Students conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "HIST 101G AND either HIST 9 or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 101G",
+   "HIST 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 101WR",
+  "title": "Undergraduate Research Seminar in World History",
+  "units": "4",
+  "description": "An undergraduate research seminar in World history. Topics will vary based on the instructor. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102AC",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102AD",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102AP",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102BF",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102C",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102CL",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102CS",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102GL",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102HD",
+  "title": "The History of Documentary Photography",
+  "units": "4",
+  "description": "Examines the historical development of documentary photography through readings and writing. Also investigates visual documentary ethics and practice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102HH",
+  "title": "Using GIS tools to Explore Water and Empire in the Nile Valley and Colorado River Basin",
+  "units": "4",
+  "description": "Combining an introduction to digital GIS tools, critical GIS theory, and traditional archival research, this course explores the historical entanglements between water and imperial expansion in the western United States and Nile Valley from the nineteenth century to the present. Lectures, readings, and multimedia content explores how the physical properties of water, imperial projects of resource extraction, and indigenous resistance shaped environmental transformation. Students work in groups to develop original interdisciplinary research projects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102HO",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102HW",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102JW",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102KY",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102LJ",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102MC",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102MM",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102MN",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102N",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102NA",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102PH",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102SS",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102WA",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102WR",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102WT",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102YA",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 102YB",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 104G",
+  "title": "The Trial of Galileo",
+  "units": "4",
+  "description": "Explores the creation of early modern scientific and religious knowledge by focusing on one of the most famous conflicts between the two: The Trial of Galileo. During this class students study the foundations of early scientific knowledge, read primary sources related to early modern understanding of the natural world, and seek to understand how conflicts between different regimes of knowledge have been navigated in the past. The influence of Galileo's trial on the perception of science and the Church in European history are considered at the end of the course.",
+  "prerequisites_raw": "History 4B or Upper Division Standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 104SS",
+  "title": "Race, Science, and Society",
+  "units": "4",
+  "description": "Explores the entangled histories of race, medicine, science, and health in American history from the colonial era to the present. The course foregrounds the African American experience in the production of medical knowledge and power. Students explore histories of scientific racism, chattel slavery, medical experimentation, Jim Crow hospitals, environmental racism, and racialized medicine alongside the more familiar story of the development of professional medicine, science, healthcare, and public health.",
+  "prerequisites_raw": "HIST 106R or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 106R"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105A",
+  "title": "The Atomic Age",
+  "units": "4",
+  "description": "The history of military uses of nuclear energy and the attendant problems. Topics included: Manhattan project, decision to use the bomb, legislation, AEC, arms race, testing, fallout, civil defense, disarmament efforts, foreign programs, espionage.",
+  "prerequisites_raw": "History 4C or 17C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4C",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105B",
+  "title": "The Space Age",
+  "units": "4",
+  "description": "Course examines history of spaceflight and space exploration in the twentieth century with emphasis on US experience. Considers social, political, and technological aspects of the Space Age with especial consideration to the Cold War era.",
+  "prerequisites_raw": "History 4C or History 17C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 4C",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105C",
+  "title": "The Information Age",
+  "units": "4",
+  "description": "Explores how industrialized societies, over the course of the previous two centuries, adopted information technologies from the printing press to the Internet. We explore both the technologies themselves as well as their larger social, economic, and political context.",
+  "prerequisites_raw": "HIST 2C or 4C or 17C and upper division standing or by permission from the instructor.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105CW",
+  "title": "Science and Technology in the Cold War",
+  "units": "4",
+  "description": "Examines the evolving relationships between science and Cold War geopolitics through key episodes from the natural as well as social sciences on both sides of the ideological divide. Topics examined include: science/state relationship, arms race, the military-industrial-academic complex, Big Science, government secrecy, the space race, environmentalism.",
+  "prerequisites_raw": "History 2C or 4C or 17C or upper division standing",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C",
+   "HIST 17C"
+  ]
+ }
+]

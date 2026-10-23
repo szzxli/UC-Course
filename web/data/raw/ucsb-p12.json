@@ -1,0 +1,291 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 106PP",
+  "title": "Advanced Spatial Practices: Public Practice",
+  "units": "4",
+  "description": "Advanced study of new forms and spatial practices within Public Practices. Individual projects may encompass formal sculptural practices as well as investigations that engage new technologies and alternative practices such as interactive media, the intersection of architecture and contemporary art, and site-specificity. Course content detailed in syllabus each quarter.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 106W",
+  "title": "Introduction to 2D/3D Visualizations in Architecture",
+  "units": "4",
+  "description": "Develops skills in reading, interpreting, and visualizing 3D objects and spaces by offering exercises in sketching, perspective, orthographic projections, isometric drawings, and manual rendering practices. Relevant for those interested in history of architecture, sculpture, and such spatial practices as installations and public art.",
+  "prerequisites_raw": "Upper-division standing; open to majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 110",
+  "title": "Intermediate Print",
+  "units": "4",
+  "description": "Continued refinement of skills in service of ink and digital print production. Emphasis on intermedia aspects of image and text and the sequential use of pictorial information. Areas of specific focus to include electronic multiples, relief printing, and artists' books.",
+  "prerequisites_raw": "Art 14, 18; 1A or 7B or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 14",
+   "ART 18",
+   "ART 1A",
+   "ART 7B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 111PP",
+  "title": "Public Practice Arts: Digital Intermedia",
+  "units": "4",
+  "description": "The use of digital and print-based media to create site-responsive public projects including unsanctioned, permission based, and speculative works. The investigation of the evolving nature and use of public space and its interrelations of individual, social, architectural/built, and infrastructure conditions. Projects are executed both on and off campus.",
+  "prerequisites_raw": "Art 7B, Upper Division; Instructor Approval",
+  "prerequisites_courses": [
+   "ART 7B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 112",
+  "title": "Artists' Books",
+  "units": "4",
+  "description": "An investigation of the book as an art form. Based on conventional media, artists' books encompass a variety of methods, techniques, and ideas. Assigned and self-directed projects using traditional and innovative practices, combining reading with pictorial and tactile experience.",
+  "prerequisites_raw": "Art 14; 1A or 7B or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 14",
+   "ART 1A",
+   "ART 7B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 113",
+  "title": "Experimental Video & Animation",
+  "units": "4",
+  "description": "The development of independent, innovative projects that utilize digital video and/or post-production and hybrid means to create video-works for screens and surfaces, including projection, installation, distributed platforms. Projects may employ a variety of strategies and methodologies in concept, production, and presentation. Broad exposure to contemporary and pioneering video/film, with an emphasis on experimentation in substance and form.",
+  "prerequisites_raw": "Instructor Approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 117",
+  "title": "Intermediate Drawing",
+  "units": "4",
+  "description": "Continuing investigation into the challenges of two-dimensional representation. Course focus to depend on instructor, but may include structural and symbolic implications of the human form, historical and contemporary strategies of visual analysis, and exploration into experimental media.",
+  "prerequisites_raw": "Art 18; 1A or 7B or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 18",
+   "ART 1A",
+   "ART 7B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 118",
+  "title": "Advanced Drawing",
+  "units": "4",
+  "description": "Special studies in drawing utilizing particular faculty interests and/or special departmental facilities. Designed for majors.",
+  "prerequisites_raw": "Art 18, 117; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 18",
+   "ART 117",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120",
+  "title": "Intermediate Photography",
+  "units": "4",
+  "description": "Continued refinement of traditional photographic technique, and development of photography as an artmaking tool. Course to range by instructor, but may include photo narrative, journalism, fashion, artists' books, desktop publishing, web design, time-based work, and intermedia collaborations.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120EF",
+  "title": "Intermediate Photography",
+  "units": "4",
+  "description": "In an era where photography takes many forms and permeates our lives like never before, the question what is photography? is increasingly hard to answer. This course examines and surveys photographys expanded field, touching on surveillance, screen culture, scientific imaging, vernacular images, image sharing, performance, and analog print media.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120EL",
+  "title": "Intermediate Photography",
+  "units": "4",
+  "description": "Individual photographic projects organized and conceptualized by students. Proposal for research and development of design and production of body of work with a focus on the environment and landscape.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120NP",
+  "title": "Intermediate Photography",
+  "units": "4",
+  "description": "Students will conceptualize, research, and propose narrative photography projects that focus on telling a visual story. Development and production of projects will include investigation of methods in which photography can describe: time, causality, dramatic composition, spatiality, fictional and non-fictional story telling, etc.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120PP",
+  "title": "Intermediate Photography - Photographing People",
+  "units": "4",
+  "description": "Photographing People is a course for people who want to photograph people and communities. Through creative practice, methods, and critical approaches students tell profound visual stories in the visual genre of their personal artistic pursuit. Course work culminates in a photographic project.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120PV",
+  "title": "Intermediate Photography",
+  "units": "4",
+  "description": "Continued refinement of traditional photographic technique, and development of photography as an artmaking tool. Course to range by instructor, but may include photo narrative, journalism, fashion, artists' books, desktop publishing, web design, time-based work, and intermedia collaborations.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120SE",
+  "title": "Intermediate Photography",
+  "units": "4",
+  "description": "Building on he tools of lower division photo and the skills learned in other intermediate photo courses, SE links social issues such as mass incarceration, poverty, LGBTQ rights, racism, environmental justice and gives you the framework to photograph, layout, write, research, publish, post and impact a broad audience about the issues that are keeping you up at night. This is Art for engagement rather than the galleries or privileged walls.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 120WP",
+  "title": "Intermediate Photography: Photo as Witness",
+  "units": "4",
+  "description": "To take this Intermediate studio art course, students need to have successfully completed an intro photo course. Enrolled students must also have consistent access to a Digital Single-Lens Reflex camera (often referred to as DSLR) that has a manual shooting mode (usually denoted by an M). Please note that we will NOT be exploring analog or film based photography. DIGITAL ONLY. In this course, self directed and motivated students explore action based, conceptual, and narrative themes and also the M-Studios digital printers. Students use their individual interests in the fields of science, philosophy, artistic mediums, and pop culture to inform their personal projects and represent their individual core values and fascinations.",
+  "prerequisites_raw": "Art 19; 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 19",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 121",
+  "title": "Advanced Photography",
+  "units": "4",
+  "description": "Special studies in photography utilizing faculty interests and/or special departmental facilities. Exact nature of course content to be specified in the Department of Art Studio syllabus.",
+  "prerequisites_raw": "Art 120.",
+  "prerequisites_courses": [
+   "ART 120"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 122",
+  "title": "Advanced Topics in Digital Media",
+  "units": "4",
+  "description": "An advanced project based course in digital media arts. Students are expected to have relevant conceptual, aesthetic, and technological grounding in digital media. Topic to be determined by instructor.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 122CC",
+  "title": "Advanced Digital Project: Creative Cartography",
+  "units": "4",
+  "description": "Historically, mapmaking was a privilege of the ones in power, and more recently a craft of trained professionals. Today, anyone can make and publish their personally annotated maps online. In this class we will investigate and participate in these new participatory mapmaking paradigms, making our own artistic and conceptual mapping projects using the Google Maps/Earth APls, HTML5 and JavaScript. The class explores psychogeography, critical cartography, locative media, real time data, and social and mobile media.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 122CD",
+  "title": "Computational Design through Responsive Architecture",
+  "units": "4",
+  "description": "A historical and practical introduction to responsive architecture, an emerging field in architecture that integrates computing power and intelligent systems into built space. Students learn to apply parametric workflows to 3D computational design using Rhino Grasshopper, a visual programming language. Topics include generative architectural design, parametric modeling, digital prototyping, and rendering.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 122DM",
+  "title": "Advanced Topics in Digital Media",
+  "units": "4",
+  "description": "An advanced project based course in digital media arts. Students are expected to have relevant conceptual, aesthetic, and technological grounding in digital media. Topic to be determined by instructor.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 122PC",
+  "title": "Advanced Digital Projects: Physical Computing",
+  "units": "4",
+  "description": "Explores experimental approaches to designing, prototyping, and building human-centered interactive systems through the lens of weaving as both structure and computation. Tracing the history of computing from its origins in loom technologies and textile production to contemporary electronic and smart textiles, students investigate how woven systems inform wearable technology, kinetic objects, circuit design, and the integration of electronics with software using conductive thread, yarn, and soft circuitry. Drawing from fiber arts, performance, architecture, sustainability, and speculative design, the course positions weaving as a foundational model for understanding and reimagining embodied human interaction with technology.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ }
+]

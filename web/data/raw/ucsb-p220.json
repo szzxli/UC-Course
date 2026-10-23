@@ -1,0 +1,380 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 194B",
+  "title": "Ethnic Studies Teacher Education Seminar",
+  "units": "2",
+  "description": "Designed for students who are Black Studies, Chicana/o Studies, Asian American and/or Feminist Studies majors in the XITO (Educational eXcellence and Inclusion Training Opportunities) program. Central to the year-long seminar will be preparations for students pursuit for a career as K-12 Ethnic Studies educators. Students will have direct assistance for preparing and applying to Masters/Teacher Education Programs as well as professionalization workshops.",
+  "prerequisites_raw": "At least one course in one of these departments: Asian American Studies, Black Studies, Chicana/o Studies, Feminist Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 194C",
+  "title": "Ethnic Studies Teacher Education Seminar",
+  "units": "2",
+  "description": "Designed for students who are Black Studies, Chicana/o Studies, Asian American and/or Feminist Studies majors in the XITO (Educational eXcellence and Inclusion Training Opportunities) program. Central to the year-long seminar will be preparations for students pursuit for a career as K-12 Ethnic Studies educators. Students will have direct assistance for preparing and applying to Masters/Teacher Education Programs as well as professionalization workshops.",
+  "prerequisites_raw": "At least one course in one of these departments: Asian American Studies, Black Studies, Chicana/o Studies, Feminist Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 195HA",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Students design, research, write, and present original work on a topic of choice under supervision of a Women's Studies faculty mentor. Emphasis is on data gathering and organization.",
+  "prerequisites_raw": "Feminist Studies 195HA; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 195HB",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Students design, research, write, and present original work on a topic of choice under supervision of a Women's Studies faculty mentor. Emphasis is on data gathering and organization.",
+  "prerequisites_raw": "Feminist Studies 195HA; upper-division standing.",
+  "prerequisites_courses": [
+   "FEMST 195HA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 195HC",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Students design, research, write, and present original work on a topic of choice under supervision of a Women's Studies faculty mentor. Emphasis on writing thesis and preparation for presenting results to an audience of women's studies peers and faculty members.",
+  "prerequisites_raw": "Feminist Studies 195HA or 195HB; upper-division standing.",
+  "prerequisites_courses": [
+   "FEMST 195HA",
+   "FEMST 195HB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 196",
+  "title": "Senior Seminar",
+  "units": "4",
+  "description": "A senior seminar intended for majors in their senior year that permits someanalytic synthesis across themes in women's studies. Topics will vary with instructor.",
+  "prerequisites_raw": "Feminist Studies 180 and 181. Open to women's studies majors only.",
+  "prerequisites_courses": [
+   "FEMST 180",
+   "FEMST 181"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 198",
+  "title": "Readings in Feminist Studies",
+  "units": "0",
+  "description": "Directed readings in women's studies under the guidance of a faculty member in the program. Students wishing to enroll should prepare a short written plan of study.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Feminist Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 199",
+  "title": "Independent Studies in Feminist Studies",
+  "units": "0",
+  "description": "Independent research and writing under the guidance of a faculty member in the program. Students wishing to enroll should prepare a short written plan of study.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Feminist Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 199RA",
+  "title": "Research Assistance and Projects in Feminist Studies",
+  "units": "0",
+  "description": "Research assistance or independent project under the guidance of a faculty member. Students must prepare a written plan with a faculty advisor. For P/NP credit only.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 210",
+  "title": "Labors",
+  "units": "4",
+  "description": "An intensive reading course on diverse forms of labor, both productive and reproductive, in different times and places with a focus on the intersections among gender, race, class, ethnicity, life cycle, abilities, and social and political actions.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 215",
+  "title": "Intersectional Perspectives on Gender, Social Politics, and Public Policy",
+  "units": "4",
+  "description": "Intersectional perspectives on the making and implementation of law and social policy in the United States, historically and comparatively. Includes feminist theories of the state and may cover issues of citizenship, immigration, sexuality, reproduction, health, work, welfare, anti-discrimination, marriage, family.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 220",
+  "title": "Genders and Sexualities",
+  "units": "4",
+  "description": "An intensive reading course on diverse sexualities and genders in different times and places with a focus on the interconnections among race, ethnicity, class, gender identities, and sexual desires and acts.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 225",
+  "title": "Film and Black Protest",
+  "units": "4",
+  "description": "Evaluates late twentieth century film in relation to Black histories of protest and resistance. We consider historical documents, scholarly articles and legal cases from slavery to the Black Lives Matter Movement in order to understand the meaning of Black protest both cinematically and lived experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 230",
+  "title": "Race and Nation",
+  "units": "4",
+  "description": "An intensive readings course on the experiences of women of color, both within the US and globally, with interlocking systems of racism, classism, sexism, homophobia/transphobia, albeism, and colonialism.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 238",
+  "title": "Participatory Research, Community Organizing, and Popular Education",
+  "units": "4",
+  "description": "We consider models for good social science research and how such research can support community organizing for social justice. We examine reports emerging from such research, documentation of campaigns facilitated by research, and popular education making research more widely accessible.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 239",
+  "title": "Women of Color Revolutionary Dialogues",
+  "units": "4",
+  "description": "Write, direct, perform and produce original pieces, based on your life and experiences, in a show each year at UCSB as well as other venues where we perform and share our work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 240",
+  "title": "Transnational Feminisms",
+  "units": "4",
+  "description": "An intensive reading course on diverse manifestations of feminism and women's movements around the globe.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 246",
+  "title": "Women of Color Resisting Violence",
+  "units": "4",
+  "description": "This is a study of women of color and other marginalized women's experiences of psychological, sexual, physical, social, economic and legal violence, and our personal and collective resistance to these forms of violence in intimate relationships and in broader society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AA",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AB",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AC",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AD",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AE",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AF",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AG",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AH",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250AI",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250DD",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250EE",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250FF",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250GG",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250HH",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250JT",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250MR",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250TJ",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 250TO",
+  "title": "Feminist Theories",
+  "units": "4",
+  "description": "An intensive reading course in feminist theories. Topics may vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

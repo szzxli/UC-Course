@@ -1,0 +1,319 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 123",
+  "title": "High-Performance Digital Circuit Design",
+  "units": "4",
+  "description": "Introduction to high-performance digital circuit design techniques. Basics of device physics including deep submicron effects; device sizing and logical effort; Circuit design styles; clocking & timing issues; memory & datapath design; Low-power design; VLSI design flows and associated EDA tools.",
+  "prerequisites_raw": "ECE 10A-B-C and ECE 10AL-10BL-10CL or ECE 2A-B-C with a minimum grade of C- in each of those courses; open to both electrical engineering and computer engineering majors only.",
+  "prerequisites_courses": [
+   "ECE 10A",
+   "ECE 10AL",
+   "ECE 2A",
+   "ECE 10BL",
+   "ECE 10CL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 125",
+  "title": "High Speed Digital Integrated Circuit Design",
+  "units": "4",
+  "description": "Advanced digital VLSI design: CMOS scaling, nanoscale issues including variability, thermal management, interconnects, reliability; non-clocked, clocked and self-timed logic gates; clocked storage elements; high-speed components, PLLs and DLLs; clock and power distribution; memory systems; signaling and I/O design; low-power design.",
+  "prerequisites_raw": "ECE 124A or 137A with a minimum grade of C- (in either).",
+  "prerequisites_courses": [
+   "ECE 124A",
+   "ECE 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 130A",
+  "title": "Signal Analysis and Processing",
+  "units": "4",
+  "description": "Analysis of continuous time linear systems in the time and frequency domains. Superposition and convolution. Bilateral and unilateral Laplace transforms. Fourier series and Fourier transforms. Filtering, modulation, and feedback.",
+  "prerequisites_raw": "Mathematics 4B or 5A with a minimum of grade of C; open to EE and computer engineering majors only.",
+  "prerequisites_courses": [
+   "MATH 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 130B",
+  "title": "Signal Analysis and Processing",
+  "units": "4",
+  "description": "Analysis of discrete time linear systems in the time and frequency domains. Z transforms, Discrete Fourier transforms. Sampling and aliasing.",
+  "prerequisites_raw": "ECE 130A with a minimum grade of C- or better; open to EE and computer engineering majors only.",
+  "prerequisites_courses": [
+   "ECE 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 130C",
+  "title": "Introduction to Applied Linear Algebra",
+  "units": "4",
+  "description": "Introduction to applied linear algebra: matrix arithmetic, vector spaces, orthogonality, matrix factorizations, determinants, eigenvalues and eigenvectors, difference and differential equations.",
+  "prerequisites_raw": "Math 4B or Math 5A recommended. Open to EE and CE majors only.",
+  "prerequisites_courses": [
+   "MATH 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 132",
+  "title": "Introduction to Solid-State Electronic Devices",
+  "units": "4",
+  "description": "Electrons and holes in semiconductors; doping (P and N); state occupation statistics, transport properties of electrons and holes; P-N junction diodes; I-V, C-V, and switching properties of P-N junctions; introduction of bipolar transitors, MOSFET's and JFET's.",
+  "prerequisites_raw": "Physics 4 or 24 or 7D with a minimum grade of C-; Mathematics 4B, 4BI or 5A with a minimum grade of C; open to EE and computer engineering majors only.",
+  "prerequisites_courses": [
+   "PHYS 4",
+   "MATH 4B",
+   "PHYS 24",
+   "PHYS 7D",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 133",
+  "title": "Introduction to Optimization and Learning",
+  "units": "4",
+  "description": "Includes an undergraduate level introduction to the theory of optimization, along with relevant applications of optimization in machine learning and statistics, signal processing, decision making and control.",
+  "prerequisites_raw": "Upper division standing Electrical Engineering and Computer Engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 134",
+  "title": "Introduction to Fields and Waves",
+  "units": "4",
+  "description": "Introduction to applied electromagnetics and wave phenomena in high frequency electron circuits and systems. Waves on transmission-lines, elements of electrostatics and magnetostatics and applications, plane waves, examples and applications to RF, microwave, and optical systems.",
+  "prerequisites_raw": "Physics 3 or 23 or 7B and Physics 4 or 24 or PHYS 7C with a minimum grade of C-; Mathematics 4B or 4BI or 5A and Mathematics 5B or 6A or 6AI with a minimum grade of C in each; and Mathematics 5C or 6B with a minimum grade of C-; open to EE and computer engineering majors only.",
+  "prerequisites_courses": [
+   "PHYS 3",
+   "PHYS 4",
+   "PHYS 7C",
+   "MATH 4B",
+   "PHYS 23",
+   "PHYS 7B",
+   "PHYS 24",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 135",
+  "title": "Optical Fiber Communications",
+  "units": "4",
+  "description": "Optical fiber as a transmission medium, dispersion and nonlinear effects in fiber transmission, fiber and semiconductor optical amplifiers and lasers, optical modulators, photo detectors, optical receivers, wavelength division multiplexing components, optical filters, basic transmission system analysis and design.",
+  "prerequisites_raw": "ECE 132 and 134 with a minimum grade of C- in both.",
+  "prerequisites_courses": [
+   "ECE 132",
+   "ECE 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 136A",
+  "title": "Introduction to Optics and Photonics",
+  "units": "4",
+  "description": "Fundamentals of optical and photonics including lens theory, basics of imaging, microscopes and telescopes, 2-dimensional Fourier Transforms, optical coherence, interferometry, lasers, laser phase noise and laser linewidth.",
+  "prerequisites_raw": "PHYS 5/PHYS 5L or PHYS 7D/PHYS 7L or PHYS 25 or equivalent.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 5L",
+   "PHYS 7D",
+   "PHYS 7L",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 136B",
+  "title": "Optics and Imaging",
+  "units": "4",
+  "description": "Photonics, with an emphasis on imaging: optical design (Zemax), ray transfer matrices, aberrations, scattering, resolution and optical transfer functions, adaptive optics, polarization, laser scanning, ultrafast pulses, detectors, superresolution, and VR/AR.",
+  "prerequisites_raw": "PHYS 5/PHYS 5L or PHYS 7D/PHYS 7L or PHYS 25 or equivalent.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 5L",
+   "PHYS 7D",
+   "PHYS 7L",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 136C",
+  "title": "Quantum Photonics",
+  "units": "4",
+  "description": "Introduction to quantum information, fundamentals of quantum photonics, quantum light generation and detection, quantum coherence and superposition, wave-particle duality, qubits, quantum logic, entanglement, quantum measurement.",
+  "prerequisites_raw": "PHYS 5/PHYS 5L or PHYS 7D/PHYS 7L or PHYS 25 or equivalent.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 5L",
+   "PHYS 7D",
+   "PHYS 7L",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 137A",
+  "title": "Circuits and Electronics I",
+  "units": "4",
+  "description": "Analysis and design of single stage and multistage transistor circuits including biasing, gain, impedances and maximum signal levels.",
+  "prerequisites_raw": "ECE 10A-B-C and 10AL-BL-CL or 2A-B-C, 130A and 132 all with a minimum grade of C-; open to EE majors only.",
+  "prerequisites_courses": [
+   "ECE 10A",
+   "ECE 10AL",
+   "ECE 130A",
+   "ECE 132"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 137B",
+  "title": "Circuits and Electronics II",
+  "units": "4",
+  "description": "Analysis and design of single stage and multistage transistor circuits at low and high frequencies. Transient response. Analysis and design of feedback circuits. Stability criteria.",
+  "prerequisites_raw": "ECE 10C and 10CL or 2C, and ECE 137A with a minimum grade of C- in all; open to EE majors only.",
+  "prerequisites_courses": [
+   "ECE 10C",
+   "ECE 137A",
+   "ECE 10CL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 139",
+  "title": "Probability and Statistics",
+  "units": "4",
+  "description": "Fundamentals of probability, conditional probability, Bayes rule, random variables, functions of random variables, expectation and high-order moments, Markov chains, hypothesis testing.",
+  "prerequisites_raw": "Open to Electrical Engineering, Computer Engineering and pre-Computer Engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 141A",
+  "title": "Introduction to Nanoelectromechanical and Microelectromechanical systems (NEMS/MEMS)",
+  "units": "3",
+  "description": "Introduction to nano- and microtechnology. Scaling laws and nanoscale physics are stressed. Individual subjects at the nanoscale including materials, mechanics, photonics, electronics, and fluidics will be described, with an emphasis on differences of behavior at the nanoscale and real-world examples.",
+  "prerequisites_raw": "ME 16 or ME W 16 and 17; ME 152A and ME 151A (may be concurrent); or ECE 130A & 137A with a minimum grade of C- in both.",
+  "prerequisites_courses": [
+   "ME 16",
+   "ME W 16",
+   "ME 152A",
+   "ME 151A",
+   "ECE 130A",
+   "ECE 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 141B",
+  "title": "MEMS: Processing and Device Characterization",
+  "units": "4",
+  "description": "Lectures and laboratory on semiconductor-based processing for MEMS. Description of key equipment and characterization tools used for MEMS and design, fabrication, characterization and testing of MEMS. Emphasis on current MEMS devices including accelerometers, comb drives, micro-reactors and capacitor-actuators.",
+  "prerequisites_raw": "ME 141A or ECE 141A.",
+  "prerequisites_courses": [
+   "ME 141A",
+   "ECE 141A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 141C",
+  "title": "Introduction to Microfluidics and BioMEMS",
+  "units": "3",
+  "description": "Introduces physical phenomena associated with microsale/nanoscale fluid mechanics, microfluids, and bioMEMS. Analytical methods and numerical simulation tools are used for analysis of microfluids.",
+  "prerequisites_raw": "ME 141A or ECE 141A; open to ME and EE majors only.",
+  "prerequisites_courses": [
+   "ME 141A",
+   "ECE 141A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 142",
+  "title": "INTRODUCTION TO POWER ELECTRONICS",
+  "units": "4",
+  "description": "An introduction to modern switched-mode power electronics and associated devices. Covers modern converter/inverter topologies for the control and conversion of electrical power with high efficiency with applications in power supplies, renewable energy systems, lighting, electric/hybrid vehicles, and motor drivers.",
+  "prerequisites_raw": "ECE 132, ECE 134 and ECE 137A with a minimum grade of C- in all; open to EE majors only.",
+  "prerequisites_courses": [
+   "ECE 132",
+   "ECE 134",
+   "ECE 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 144",
+  "title": "Electromagnetic Fields and Waves",
+  "units": "4",
+  "description": "Waves on transmission lines, Maxwell's equations, skin effect, propagation and reflection of electromagnetic waves, microwave integrated circuit principles, metal and dielectric waveguides, resonant cavities, antennas. Microwave and optical device examples and experiencewith modern microwave and CAD software.",
+  "prerequisites_raw": "ECE 134 with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 145A",
+  "title": "Communication Electronics",
+  "units": "5",
+  "description": "RF/Microwave circuits. Transistor, transmission-line, and passive element characteristics. Transmission-line theory and impedance matching. Amplifier design for maximum available gain. Amplifier stability. Gain compression and power limits. Introduction to noise figure, and to intermodulation distortion.",
+  "prerequisites_raw": "ECE 137A-B with a minimum grade of C- in both.",
+  "prerequisites_courses": [
+   "ECE 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 145B",
+  "title": "Communication Electronics II",
+  "units": "5",
+  "description": "RF models for CMOS and BJT. Discrete vs. IC implementation. On-chip passive components. LNAs. PAs. T/R switches. Mixers. VCOs. Poly-phase filters Radio link budget. Analog and digital modulation schemes. Introduction to receiver architectures. I&Q modulation. Image-reject architectures.",
+  "prerequisites_raw": "ECE 145A with a minimum grade of C-; EE majors only.",
+  "prerequisites_courses": [
+   "ECE 145A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 145C",
+  "title": "Communication Electronics III",
+  "units": "5",
+  "description": "Modern wireless communication standards. Cellular phone. Wireless LAN. Introduction to multi-access techniques. Advanced modulation schemes. Interference and distortion. Modern transceiver architectures. Direct conversion vs. low IF vs. super-heterodyne. Sub-sampling receiver. Direct polar modulator. Frequency synthesis using PLL.",
+  "prerequisites_raw": "ECE 145B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 145B"
+  ]
+ }
+]

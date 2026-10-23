@@ -1,0 +1,282 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 10",
+  "title": "Introduction to the College Experience",
+  "units": "2",
+  "description": "An introductory course for fall quarter freshmen. Course provides new students with direction and guidance on how to be successful in higher education, and specifically, at the research university. Topics include critical thinking and reading, analytical writing, major selection, university structure, mental health and wellness, citizenship, campus resources, institutional and system-wide objectives.",
+  "prerequisites_raw": "Must be a new freshman at UCSB.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 20",
+  "title": "Introduction to the University Experience",
+  "units": "3",
+  "description": "Introduces first-year students to the mission of the research university, the role of higher education in society and their role, as students, within the community of scholars. Topics cover academic, social and personal issues relevant to the college experience. Undergraduate research opportunities will be promoted.",
+  "prerequisites_raw": "Lower division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 20I",
+  "title": "Introduction to the Research University for International Students",
+  "units": "3",
+  "description": "Course introduces first-year international students to US higher education systems with a specific focus on achieving academic success at UCSB through the process of academic writing enhancement, critical thinking and exploring university resources for personal development and academic success.",
+  "prerequisites_raw": "Must be an international student.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 30",
+  "title": "Statistical Foundations for Human Services and Education Sciences",
+  "units": "4",
+  "description": "An introduction to various statistical concepts in research and evaluation related to education and applied psychology. The course covers topics that include: Descriptive Statistics, probability, sampling, hypothesis testing, inferential statistics, categorical variables, regression and correlation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 31",
+  "title": "Current Trends in Learning and Human Development",
+  "units": "4",
+  "description": "Introduction to major themes and current issues in human development and learning. Featuring current research and theoretical foundations in social, cognitive, physical, linguistic, and psychological development. Content includes theory and research on psychological dimensions of children and adults in various contextual settings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 40",
+  "title": "Learning Across the Lifespan",
+  "units": "4",
+  "description": "Introduces theories of learning from different perspectives – behavioral, cognitive, sociocultural, sociopolitical, neuroscience, and artificial intelligence - and explores the implications of these perspectives to understand how people learn over their lifespan in various contexts of engagement and participation.",
+  "prerequisites_raw": "Lower-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 41",
+  "title": "Education and Human Diversity",
+  "units": "4",
+  "description": "Explores the neuro-biological, linguistic, developmental, and structural aspects of human diversity. Students examine how societies organize and respond to such diversity, with a focus on the role of education in shaping the social and cultural functions of diversity.",
+  "prerequisites_raw": "Lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 42",
+  "title": "Educational Research in an Informed Society",
+  "units": "4",
+  "description": "Discusses the intersection between society and educational research, including school reform, ethnicity and race, higher education, teaching and teachers, and the curriculum. Offers an overview of educational research and introduces inquiry methods in education and social/behavioral sciences.",
+  "prerequisites_raw": "Lower-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Study of special problems in various fields of education and/or faculty supervised research assistance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 103",
+  "title": "Technology Tools for Teachers",
+  "units": "3",
+  "description": "Intended for upper-division undergraduates who contemplate entering a teacher credential program. It will teach for and certify their competency in selected Technology Proficiencies required for the California Level I Teaching Credential.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 107",
+  "title": "BLACK EDUCATION",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 109M",
+  "title": "Health Education",
+  "units": "1",
+  "description": "Introduces physiological, psychological, and sociological factors that promote health and prevent disease including alcohol, narcotic, drug, and tobacco abuse: nutrition, chronic and infectious diseases; reproductive health and stress management. General educational applications lectures.",
+  "prerequisites_raw": "Admission to the Teacher Education Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 109SS",
+  "title": "Health Education",
+  "units": "4",
+  "description": "Students learn about health education, theories of behavior change, and wellness resources related to nutrition, alcohol, drugs, tobacco, and sexuality. Students demonstrate their understanding of course concepts by critical analysis, papers, reports, and objective tests.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 111",
+  "title": "Introduction to Child and Adolescent Development",
+  "units": "4",
+  "description": "An introductory course on the development of children from infancy to adolescence. Examines developmental changes and basic developmental theories (e.g., Piaget, Vygotsky) in four general areas: cognitive, social, language, and physical development. Fulfills TEP developmental course prerequisite or Education minor.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 113",
+  "title": "Race, Inequality, and Education",
+  "units": "4",
+  "description": "This undergraduate level course highlights how race and racism shape education in the U.S. To do so, students learn about critical theories of race that can be used to study and understand educational inequality.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 117M",
+  "title": "Motivation and Learning for Academic Success",
+  "units": "2",
+  "description": "Presents topics on motivation and learning that contribute to academic achievement. Students transitioning to the university will apply theory to develop effective learning, study, and self-management strategies. Designed for new transfer students taking at least 1 course in summer session.",
+  "prerequisites_raw": "Course is open only to newly-admitted transfer students entering in the summer quarter. Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 118",
+  "title": "The Research University and The Transfer Student Experience",
+  "units": "4",
+  "description": "Introduces new transfer students to the mission of the research university, the role of higher education in society and their role, as students, within the community of scholars. Topics cover academic, social and personal issues relevant to college students, specifically transfer students.",
+  "prerequisites_raw": "Consent of instructor; must be a new transfer student.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 120",
+  "title": "Practicum in Teaching in Higher Education",
+  "units": "4",
+  "description": "A course designed for undergraduate students who were selected to serve as co-leaders in one of our large courses (ED 20, ED 118, ED 173.) Students will learn about adult development theories, pedagogical techniques, and learning assessment. Students will create lesson plans, facilitate discussions, grade assignments, and foster positive learning environments.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 121",
+  "title": "Introduction to K-12 Teaching",
+  "units": "4",
+  "description": "Provides students the opportunity to explore the teaching profession. Students gain firsthand experience in a local K-12 classroom, examine the California Standards for the Teaching Profession, and practice lesson planning and other fundamental aspects of the teaching profession.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 122",
+  "title": "Pre-professional Work in the K-12 Classroom",
+  "units": "2",
+  "description": "Students are placed in a local K-12 classroom to participate in and observe firsthand the fundamental aspects of teaching and learning. Through independent coursework, students reflect upon their classroom experiences within the framework of the California Standards for the Teaching Profession.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 123",
+  "title": "Culture, Development, and Education",
+  "units": "4",
+  "description": "An examination of culturally constructed beliefs, attitudes, and values. Course examines how culture shapes human development, behavior, and interpersonal relations in culturally pluralistic environments, with an emphasis on educational settings.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 124",
+  "title": "Practicum in Community Based Learning",
+  "units": "4",
+  "description": "Students do practicum hours in the local community and schools, read relevant articles and examine results from related research projects.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 125",
+  "title": "Schooling in the U.S.",
+  "units": "4",
+  "description": "A study of the relationship between school and society. Social and political influences on education historically and currently are examined as well as schools as complex organizations and their unique roles in society.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 126",
+  "title": "Social Connectedness, Motivation, and Self-Regulation in Education",
+  "units": "4",
+  "description": "This course explores three fundamental student needs: to be connected to others socially, to be motivated, and to be self-regulated. The course investigates how educators might address these needs, and explores how interventions might improve these student outcomes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 127",
+  "title": "Teaching for Climate Justice and Sustainability",
+  "units": "4",
+  "description": "Examines the teaching of climate justice and sustainability in K-12 classrooms. It is interactive and project-based. Students will increase their understanding and use of interdisciplinary resources for taking climate action. Students from all majors are invited to enroll.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 128",
+  "title": "CalTeach, Elementary Mathematics Education",
+  "units": "4",
+  "description": "Introduction to learning and teaching mathematics in grades K-8. The course requires attending a weekly on-campus seminar and participating in 15 hours of field placement in a local school.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 129",
+  "title": "CalTeach, Elementary Science Education",
+  "units": "4",
+  "description": "Introduction to learning and teaching science in grades K-8. The course requires attending a weekly on-campus seminar and participating in 15 hours of field placement in a local school.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 130",
+  "title": "CalTeach, Secondary Mathematics Education",
+  "units": "4",
+  "description": "Introduction to learning and teaching mathematics in grades 7-12. The course requires attending a weekly on-campus seminar and participating in 15 hours of field placement in a local school.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

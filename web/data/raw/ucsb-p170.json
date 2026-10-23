@@ -1,0 +1,271 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 165WD",
+  "title": "Topics In Literature",
+  "units": "4-28",
+  "description": "Studies of topics not limited to a specific author, period, or literary form. Specific course titles are announced prior to the beginning of each quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 165WH",
+  "title": "Topics In Literature",
+  "units": "4",
+  "description": "Studies of topics not limited to a specific author, period, or literary form. Specific course titles are announced prior to the beginning of each quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 165WN",
+  "title": "Topics In Literature",
+  "units": "4",
+  "description": "Studies of topics not limited to a specific author, period, or literary form. Specific course titles are announced prior to the beginning of each quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 165XX",
+  "title": "Topics In Literature",
+  "units": "4-28",
+  "description": "Studies of topics not limited to a specific author, period, or literary form. Specific course titles are announced prior to the beginning of each quarter.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 168",
+  "title": "Restoration and Eighteenth-Century Verse and Prose",
+  "units": "4",
+  "description": "Non-dramatic works by such writers as Dryden, Pope, Swift, Cowper, Gray, Johnson, and Boswell.",
+  "prerequisites_raw": "Writing 2 or 50 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 169",
+  "title": "Restoration and Eighteenth-Century Drama",
+  "units": "4",
+  "description": "Such dramatists as Dryden, Etheredge, Wycherly, Congreve, and Sheridan.",
+  "prerequisites_raw": "Writing 2 or 50.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170",
+  "title": "Studies in Literature and the Mind",
+  "units": "4-28",
+  "description": "How are contemporary studies of the mind relevant to language and literature, and vice versa? How have we imagined the mind at different times and in different cultures? Topics vary but focus especially on interdisciplinarity, history of theories of mind, and creativity.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170BL",
+  "title": "Studies in Literature and the Mind",
+  "units": "4-28",
+  "description": "How are contemporary studies of the mind relevant to language and literature, and vice versa? How have we imagined the mind at different times and in different cultures? Topics vary but focus especially on interdisciplinarity, history of theories of mind, and creativity.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170CM",
+  "title": "Kingdom of the Well/Kingdom of the Sick: Approaches to Literature, Power, and the Health Humanities",
+  "units": "4",
+  "description": "What does it mean to be healthy? Susan Sontag begins her essay Illness as Metaphor with the idea that Everyone who is born holds dual citizenship, in the kingdom of the well and in the kingdom of the sick. Although we all prefer to use only the good passport, sooner or later each of us is obliged, at least for a spell, to identify ourselves as citizens of that other place. Sontags canonical work highlights not just metaphor and the role that literary narratives play in our imagination of health - but also the spatiotemporal and political dimensions to the stories we tell ourselves about health, sickness, and disability. Through novels, poems, stories and essays, we will ask what narratives frame our ideas of illness and wellness.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170DA",
+  "title": "Studies in Literature and the Mind",
+  "units": "4-28",
+  "description": "How are contemporary studies of the mind relevant to language and literature, and vice versa? How have we imagined the mind at different times and in different cultures? Topics vary but focus especially on interdisciplinarity, history of theories of mind, and creativity.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170IC",
+  "title": "Imagination and Creativity",
+  "units": "4",
+  "description": "What is creativity? How do creative ideas emerge? Is the creative personality depressed and more often than not distressed by the indignities of living? What is the relationship between creativity and social justice activism? Such questions are at the core of our readings and investigations into imagination and creativity. Our readings focus on brain-based, psychoanalytic, and ethical discussions of creativity that are illustrated, challenged, and deepened by texts of the most innovative writers, Anne Carson and Toni Morrison.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170IM",
+  "title": "Studies in Literature and the Mind",
+  "units": "4-28",
+  "description": "How are contemporary studies of the mind relevant to language and literature, and vice versa? How have we imagined the mind at different times and in different cultures? Topics vary but focus especially on interdisciplinarity, history of theories of mind, and creativity.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170LM",
+  "title": "Studies in Literature and the Mind",
+  "units": "4",
+  "description": "How are contemporary studies of the mind relevant to language and literature, and vice versa? How have we imagined the mind at different times and in different cultures? Topics vary but focus especially on interdisciplinarity, history of theories of mind, and creativity.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170MB",
+  "title": "Mind Brain and Literature",
+  "units": "4",
+  "description": "This is an interdisciplinary course on the human mind. The main aim is to encourage an understanding of the range and richness of the ways in which the human mind has been conceptualized across the boundaries of literature, cognitive neuroscience and literary theory/philosophy. It is designed to provide students with an opportunity to: 1) learn some of the more significant developments that have emerged from cognitive neuroscience on cognition, emotion, memory, the unconscious, mindreading, visual perception, violence, addiction and sex/gender; 2) relate the scientific findings to larger propositions about the nature and value of human experience found in literary classics; 3) develop skills of practical criticism.'",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170MI",
+  "title": "Studies in Literature and the Mind",
+  "units": "4-28",
+  "description": "How are contemporary studies of the mind relevant to language and literature, and vice versa? How have we imagined the mind at different times and in different cultures? Topics vary but focus especially on interdisciplinarity, history of theories of mind, and creativity.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170MT",
+  "title": "The Meaning of Life",
+  "units": "4",
+  "description": "What does it mean to be a human being and to be alive? This is the fundamental question of literature and of our lives. This question and new attempts to answer it come to full consciousness in the late 19th - and 20th centuries in modern thought and literature. In this course we move from the philosophic narratives of Nietzsche, Marx, Darwin, and Freud, to the aesthetic narratives of Charlie Chaplin, Dostoevsky, Woolf, Morrison, and Kundera to consider how they pose the question of life's meaning and how they suggest responses as stories to help us tell the story of our own search for meaning. This is a course for those who like to read and think long and hard about the nature of being.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170NV",
+  "title": "Studies in Literature and the Mind",
+  "units": "4-28",
+  "description": "How are contemporary studies of the mind relevant to language and literature, and vice versa? How have we imagined the mind at different times and in different cultures? Topics vary but focus especially on interdisciplinarity, history of theories of mind, and creativity.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170SB",
+  "title": "Story and the Brain",
+  "units": "4",
+  "description": "An interdisciplinary course about the power of storytelling. The aim is to provide students with an understanding of how storytelling shapes our minds and how our brains shape the stories we tell. The course explores topics such as empathy, emotion, mindreading, memory, and imagination and how they relate to narrative. We will read foundational works from the cognitive sciences alongside literature and television from the 20th and 21st centuries by Lynda Barry, William Faulkner, Thomas King, Tracy K. Smith, and others. Designed to introduce students to think across disciplinary fields of literary studies, philosophy of mind, and cognitive science.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170TL",
+  "title": "Trauma-Informed Literature and Classrooms",
+  "units": "4",
+  "description": "This course recognizes the prevalence of trauma in our world and thus in campus and classroom environments. It examines multiple reasons why some groups of people are exposed more frequently than others to traumatizing situations without necessarily becoming traumatized as individuals. We read critical discussions of trauma (especially neuro-biological and psychoanalytic) and literary texts that deal with trauma. Some of the questions we explore are the relation between individual and collective experiences of trauma; somatic and psychological consequences of trauma; how trauma impedes learning and well-being; the benefits and harms of trigger warnings; responsible ways to speak and write about trauma.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 170TS",
+  "title": "Trauma and Somatic Reading",
+  "units": "4",
+  "description": "The course starts with a broad discussion of trauma studies across neural, somatic and socio-political domains. It pays particular attention to how writers, philosophers, neuroscientists and psychologists shifted away from thinking of trauma as individual experiences of exceptional disaster to seeing it as a generalized, everyday condition of modern society. Set texts will be drawn mainly from modern literature, all of which engages with disturbing material. In place of the standard trigger warning, the course offers an opportunity to practice trauma-informed somatic experiencing techniques.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 171",
+  "title": "Literature and the Human Mind",
+  "units": "4-28",
+  "description": "How are literary studies different from scientific research? What is literature? Science? What kind of evidence does literature provide? What are the main methodological pitfalls when undertaking interdisciplinary research? Students are introduced to the different ways these questions appear from the standpoint of science and literature.",
+  "prerequisites_raw": "Writing 2, or 50, or 109, or English 10 or upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ }
+]

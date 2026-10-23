@@ -1,0 +1,320 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 185",
+  "title": "Physical Volcanology",
+  "units": "5",
+  "description": "Overview of volcanic processes, including physical properties of melts, eruptive mechanisms, classification of volcanic deposits, and volcanic- tectonic environments. Lecture emphasizes theoretical aspects of volcanic processes, lab examines major classes of volcanic rocks, field trips emphasize mapping in volcanic terrains. Typically includes one to two overnight trips of 2-4 days each.",
+  "prerequisites_raw": "Earth 104A, 114, and 115 (or Instructor Approval).",
+  "prerequisites_courses": [
+   "EARTH 104A",
+   "EARTH 114",
+   "EARTH 115"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 186",
+  "title": "Cordilleran Tectonics",
+  "units": "4",
+  "description": "Directed readings, weekly seminar, and field trip focused on the phanerozoic tectonic evolution of the North American Cordillera. Emphasis on understanding fundamental orogenic processes (continental extension, shortening, transcurrent motions, magmatism, metamorphism) from a cordilleran perspective. Typically includes one to two overnight trips of 2-4 days each.",
+  "prerequisites_raw": "Earth 2, 3, and 104A.",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 3",
+   "EARTH 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 187",
+  "title": "Introduction to Teaching in Geological Sciences",
+  "units": "0",
+  "description": "Students will assist instructors in teaching course in which the student previously received a grade of A- or better. Activities will be determined in consultation with the instructor and may include assisting in laboratories, tutorials, discussion sections and field trips.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 189",
+  "title": "Seminar in Paleobiology",
+  "units": "0",
+  "description": "Undergraduate seminar in advanced paleobiology involving reading and group discussion of current literature. Option to (with faculty consent) write research papers of varying length or equivalent.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 190",
+  "title": "Advanced Studies in Paleobiology",
+  "units": "0",
+  "description": "Designed to meet the interests and needs of individual students. Selected readings and laboratory work in systematic paleontology; field studies of recent or fossil biotas; animal-substrate relations, biostatistics, etc.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 192",
+  "title": "Internship in Geological Sciences",
+  "units": "0",
+  "description": "Individualized practical approaches to problems in geological sciences by working under faculty supervision as interns with local, state or federal agencies or private organizations. To receive credit student must turn in an experiential journal, end of quarter evaluation, and complete the internship hours. Units are determined by the number to be completed at the end of the quarter.",
+  "prerequisites_raw": "Proposal form must be submitted by the end of the 2nd week of the quarter. Applicant must have a minimum overall GPA of 2.70. Student that does not meet this requirement may submit a GPA waiver.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194BG",
+  "title": "Seminar in Biogeochemistry",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194BT",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194CC",
+  "title": "Carbon Cycle Seminar",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194CM",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194DE",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194DL",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194EK",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194GC",
+  "title": "Seminar in Geoscience Careers",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194GM",
+  "title": "Geomaterials lab",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194JC",
+  "title": "Geochronology Lab",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194ML",
+  "title": "Intro to Matlab for Earth Scientists",
+  "units": "0",
+  "description": "An introduction to coding in MATLAB including: basic programming, analysis using vectors and matrices, logical operations and indexing, data import/export, visualization and plotting, designing functions and packages, interactive user interface, and debugging.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194RS",
+  "title": "Practical Research Skills",
+  "units": "0",
+  "description": "A hands-on introduction to research methods in the Earth and other natural sciences. Tools and approaches to identify research questions, design projects, and get involved in research opportunities. Involves a single-day local field trip.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194SP",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194TT",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194VF",
+  "title": "Field Relations in Volcanic Rocks",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 194ZE",
+  "title": "Oceanic Lithosphere: A Deep Dive",
+  "units": "0",
+  "description": "Intensive research or study by a small group of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 195H",
+  "title": "Honors Field Studies",
+  "units": "0",
+  "description": "Field work in selected areas under the direction of a faculty member. Final report required.",
+  "prerequisites_raw": "Earth Science majors only; honors standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 196HA",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Three quarter individual research project under the direction of a faculty member. Oral defense of written thesis as required by the sponsoring faculty advisor.",
+  "prerequisites_raw": "Earth Science majors only; consent of instructor; honors standing (minimum overall and major GPA of 3.2).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 196HB",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Three quarter individual research project under the direction of a faculty member. Oral defense of written thesis as required by the sponsoring faculty advisor.",
+  "prerequisites_raw": "Earth Science majors only; consent of instructor; honors standing (minimum overall and major GPA of 3.2).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 196HC",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Three quarter individual research project under the direction of a faculty member. Oral defense of written thesis as required by the sponsoring faculty advisor.",
+  "prerequisites_raw": "Earth Science majors only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 197H",
+  "title": "Honors Seminar in Geology",
+  "units": "1",
+  "description": "Bi-monthly, two-hour seminar to discuss advanced topics in the geological sciences. Guest speakers.",
+  "prerequisites_raw": "Honors standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 198",
+  "title": "Readings in the Geological Sciences",
+  "units": "0",
+  "description": "Critical reviews and discussions of selected geological subjects.",
+  "prerequisites_raw": "Upper-division standing; consent of the instructor and the department chair",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 199",
+  "title": "Independent Studies in Geology",
+  "units": "0",
+  "description": "Course consists of academic research supervised by a faculty member. This course is not intended for internship honors, or Senior Thesis credit.",
+  "prerequisites_raw": "Upper-division standing in the major; consent of department and instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 199RA",
+  "title": "Independent Research Assistance in Geological Sciences",
+  "units": "0",
+  "description": "Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

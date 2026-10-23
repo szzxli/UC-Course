@@ -1,0 +1,330 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 2G",
+  "title": "Introduction to Reading German (for Graduate Students)",
+  "units": "4",
+  "description": "Course is a continuation of German 1G, using the same approach, with reading texts on a more complex level.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 3",
+  "title": "Elementary German",
+  "units": "5",
+  "description": "Continuation of German 2.",
+  "prerequisites_raw": "Grade of P or grade of C or better in German 2. Not open for credit to students who have completed more advanced work in German.",
+  "prerequisites_courses": [
+   "GER 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 4",
+  "title": "Intermediate German",
+  "units": "5",
+  "description": "Continuation of German 3. Expansion and refinement of linguistic and communicative skills leaned in Beginning German. Greater focus on speaking German with fluency and accuracy, reading short authentic texts, and writing coherent, organized essays.",
+  "prerequisites_raw": "Grade of P or grade of C or better in German 3. Not open for credit to students who have completed more advanced work in German.",
+  "prerequisites_courses": [
+   "GER 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 5",
+  "title": "Intermediate German",
+  "units": "5",
+  "description": "Continuation of German 4.",
+  "prerequisites_raw": "Grade of P or grade of C or better in German 4. Not open for credit to students who have completed more advanced work in German.",
+  "prerequisites_courses": [
+   "GER 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 6",
+  "title": "Intermediate German",
+  "units": "5",
+  "description": "Continuation of German 5.",
+  "prerequisites_raw": "Grade of P or grade of C or better in German 5. Not open for credit to students who have completed more advanced work in German.",
+  "prerequisites_courses": [
+   "GER 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 8A",
+  "title": "Beginning German Conversation",
+  "units": "2",
+  "description": "Course designed to offer beginning German language students communicative strategies needed by speakers and listeners in face-to face interaction. Not open to students with native fluency in German.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 8B",
+  "title": "Beginning German Conversation",
+  "units": "2",
+  "description": "Course designed to offer beginning German language students communicative strategies needed by speakers and listeners in face-to-face interaction. Not open to students with native fluency in German.",
+  "prerequisites_raw": "German 1.",
+  "prerequisites_courses": [
+   "GER 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 8C",
+  "title": "Beginning German Conversation",
+  "units": "2",
+  "description": "Course designed to offer beginning German language students communicative strategies needed by speakers and listeners in face-to-face interaction. Not open to students with native fluency in German.",
+  "prerequisites_raw": "German 2.",
+  "prerequisites_courses": [
+   "GER 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 31",
+  "title": "Doubles: Film and Literature",
+  "units": "4",
+  "description": "When the double is visualized in film, the double's mention or description disappears from the typeface of literature. At the same time it takes center stage or screen in psychoanalytic theory.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 35",
+  "title": "The Making of the Modern World",
+  "units": "5",
+  "description": "Description and analysis of decisive events contributing to the world we are inhabiting. Various themes presented: City planning, war and industrial warfare, technology and media-technology, ideologies of modernity, and modern master theories.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 37",
+  "title": "Comparative Media",
+  "units": "5",
+  "description": "Introduces media in the context of Comparative Literature. Students learn to analyze media forms as cultural texts while emphasizing the social, political, and environmental dimensions of media technologies. Topics vary and may include Media Theories, Algorithmic Media, Digital Humanities, Postcolonial and Environmental Media, or Film & Literature. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 43A",
+  "title": "Dreaming Revolutions: Introduction to Marx, Nietzsche, and Freud",
+  "units": "5",
+  "description": "Introduction to the revolutionary theories of Karl Marx, Friedrich Nietzsche, and Sigmund Freud. Explorations of three authors whose writing has profoundly changed our world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 43C",
+  "title": "Germany Today",
+  "units": "4",
+  "description": "Covers Germany from the fall of the Berline Wall in 1989 through today to explore how writers, artists, musicians, intellectuals and politicians respond to the quesiton of who and what is German.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 55A",
+  "title": "Contemporary German Pop Culture",
+  "units": "4",
+  "description": "Study of contempory film, music, and other facets of pop culture that have shaped the lifestyle of today's nation of Germany. Study of pop music from 1989 to today and its impact on the new emerging society of post-Wall Germany, focusing on the pointed, humorous, and sometimes scathing lyrics and pop music's ties to German youth culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 55B",
+  "title": "Contemporary German Pop Culture",
+  "units": "4",
+  "description": "Study of contempory film, music, and other facets of pop culture that have shaped the lifestyle of today's nation of Germany. Study of contemporary German cinema since 1970, exploring cinematic representations of issues such as immigration, opposition to East Germany's regime, National Socialism and the Shoah, racism, and sexuality.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 95A",
+  "title": "Elementary Yiddish",
+  "units": "4",
+  "description": "An introduction to the Yiddish language. The goal is to convey the rediments of the grammar, and to acquire the ability both to read printed Yiddish and to read and write cursive Yiddish.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 95B",
+  "title": "Intermediate Yiddish",
+  "units": "4",
+  "description": "Continuation of German 95A with further exposure to th grammar of Yiddish. More attention given to standard literary figures (Sholem Aleichem, Peretz,etc.) and their easier works.",
+  "prerequisites_raw": "German 95A or equivalent.",
+  "prerequisites_courses": [
+   "GER 95A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 95C",
+  "title": "Advanced Yiddish",
+  "units": "4",
+  "description": "Continuation of German 95B with advanced grammatical study emphasis on literary texts of some maturity and difficulty as well as contemporary Yiddish in this country, both journalistic and literary.",
+  "prerequisites_raw": "German 95B or equivalent.",
+  "prerequisites_courses": [
+   "GER 95B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member. Exceptional students are offered an opportunity to undertake independent or collaborative research or to act as interns for faculty-directed research projects.",
+  "prerequisites_raw": "Consent of department and instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 101A",
+  "title": "Advanced German",
+  "units": "4",
+  "description": "Speaking, listening, reading, and writing on an advanced level, while exploring contemporary German culture. Systematic review of grammar material. Additional focus on vocabulary building. Written and oral discussions based on newspaper articles, literary texts, German films, and websites. Topics will vary by quarter.",
+  "prerequisites_raw": "German 6.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 101B",
+  "title": "Advanced German",
+  "units": "4",
+  "description": "Speaking, listening, reading, and writing on an advanced level, while exploring contemporary German culture. Systematic review of grammar material. Additional focus on vocabulary building. Written and oral discussions based on newspaper articles, literary texts, German films, and websites. Topics will vary by quarter.",
+  "prerequisites_raw": "German 6.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 101C",
+  "title": "Advanced German",
+  "units": "4",
+  "description": "Speaking, listening, reading, and writing on an advanced level, while exploring contemporary German culture. Systematic review of grammar material. Additional focus on vocabulary building. Written and oral discussions based on newspaper articles, literary texts, German films, and websites. Topics will vary by quarter.",
+  "prerequisites_raw": "German 6.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 104",
+  "title": "German Language and Society",
+  "units": "4",
+  "description": "Structural and sociolinguistic study of contemporary German from a descriptive linguistic perspective. Primary topics include: phonetic and phonological features of spoken German, syntax, regional variation and dialect, and colloquial varieties of German. No background in linguistics is presumed; taught in German.",
+  "prerequisites_raw": "German 6.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 105C",
+  "title": "Advanced Conversation",
+  "units": "2",
+  "description": "Emphasizes interactional strategies needed for communication in German, while also giving intermediate and advanced students the opportunity to discuss a wide variety of topics. Not open to students with native fluency in German.",
+  "prerequisites_raw": "German 4; GER 5 (may be taken concurrently with 105C).",
+  "prerequisites_courses": [
+   "GER 4",
+   "GER 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 106",
+  "title": "Advanced Reading and Writing Skills",
+  "units": "4",
+  "description": "Focus on the development of advanced reading and writing skills in German. In particular, we will draw on a variety of authentic materials to develop students ability to analyze and produce a range of genres; enhance students awareness of pre-, during- and post-reading strategies and how to apply them to different styles of writing; improve use of strategies to help students become more autonomous readers/writers; and develop critical skills for reading, comprehending, and writing different types of texts.",
+  "prerequisites_raw": "German 1-6 or equivalent",
+  "prerequisites_courses": [
+   "GER 1",
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 107A",
+  "title": "History of Culture",
+  "units": "4",
+  "description": "Careful and close readings from the cultural history of German speaking countries. Materials, which may be revised each academic year, include documents from literature, philosophy, art, music, architecture, science, politics, and law. Taught in German.",
+  "prerequisites_raw": "German 6.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 107B",
+  "title": "History of Culture",
+  "units": "4",
+  "description": "Careful and close readings from the cultural history of German speaking countries. Materials, which may be revised each academic year, include documents from literature, philosophy, art, music, architecture, science, politics, and law. Taught in German.",
+  "prerequisites_raw": "German 6.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 107C",
+  "title": "History of Culture",
+  "units": "4",
+  "description": "Careful and close readings from the cultural history of German speaking countries. Materials, which may be revised each academic year, include documents from literature, philosophy, art, music, architecture, science, politics, and law. Taught in German.",
+  "prerequisites_raw": "German 6.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 108",
+  "title": "Germany Today: Media and Politics after 1989",
+  "units": "4",
+  "description": "In the wake of reunification, Germany has struggled to come to terms with its changing political identity and pressing cultural issues, including Germany's contested status as a \"nation of immigrants,\" extremism, environmental problems, and government surveillance. A variety of media actively engage with these issues, particularly within youth culture. This course analyzes how established and emerging media (literature, music, television, film, video, blogs, etc) shape and respond to the challenges of the day. Taught in German.",
+  "prerequisites_raw": "German 6 or equivalent.",
+  "prerequisites_courses": [
+   "GER 6"
+  ]
+ }
+]

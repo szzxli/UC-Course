@@ -1,0 +1,360 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 183",
+  "title": "The Horror Film",
+  "units": "4",
+  "description": "Study of the horror film genre and the reasons for its popularity, including new interest in psychoanalysis and reaction to modern mass society and consumerism. Covers issues of sacrifice, simulated catastrophicloss, and other themes of catharsis.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 185",
+  "title": "Science and Technology in European Philosophy",
+  "units": "4",
+  "description": "Introduces various positions from the history and present of European philosophy that speak to questions of science and technology. Readings may include Aristotle, Descartes, Kant, Nietzsche, Freud, Heidegger, Arendt, Bachelard, Koyr, Caillois, Foucault, Canguilhem, Blumenberg, Serres, Malabou, Stiegler. Topics may include: machine theories, cybernetics, structuralism in science, techniques of simulation, artificial intelligence.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 187",
+  "title": "The Devil in Literature",
+  "units": "4",
+  "description": "Explores the rich literature around making deals with the devil while focusing on the enduring influence of older literature on modern conceptions of the diabolic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 190",
+  "title": "Proseminar",
+  "units": "4",
+  "description": "Intensive advanced seminar on topic to be determined on a quarterly basis. Taught in German.",
+  "prerequisites_raw": "German 6 and German 101A-B-C",
+  "prerequisites_courses": [
+   "GER 6",
+   "GER 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 197",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "An independent study course (one to three quarters) directed by a faculty member with a carefully chosen topic and bibliography which will result in a documented project or a senior thesis.",
+  "prerequisites_raw": "Open to senior majors only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 198",
+  "title": "Readings in German",
+  "units": "0",
+  "description": "Independent studies in German. Individual investigations in literary fields. Readings in German.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in German.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 199",
+  "title": "Independent Studies in German",
+  "units": "0",
+  "description": "Individual investigations in literary fields.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in German.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 199RA",
+  "title": "Independent Research Assistance in German",
+  "units": "0",
+  "description": "Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 courses in upper-division German; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 204",
+  "title": "German Language and Society",
+  "units": "4",
+  "description": "Discussion of the dialects of German spoken in Germany, Austria, and Switzerland. Topics include: geographic and social varieties of standard and colloquial German (e.g., Jugendsprache); the language of e-mail and the Internet; linguistic problems after reunification. Taught in German.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 208",
+  "title": "SEM 17TH C LIT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 210",
+  "title": "Seminar in Literary Theory and Criticism",
+  "units": "4",
+  "description": "Topics in literary theory to be determined on a quarterly basis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 230A",
+  "title": "The Romantic Movement",
+  "units": "4",
+  "description": "Early german romanticism, with emphasis on theoretical premises and their literary expression.",
+  "prerequisites_raw": "German 201A-B or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 262A",
+  "title": "Applied Linguistics",
+  "units": "4",
+  "description": "Overview of the basic theoretical principles of second language acquisition as they apply to language teaching and learning. Discussion of different methodologies of foreign language teaching and the history of those used in the U.S.; special emphasis on current methodologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 262B",
+  "title": "Second Language Acquisition",
+  "units": "4",
+  "description": "Overview of second language acquisition theories from a range of perspectives (e.g., psychology, linguistics, cognitive science, sociology). Focus on adult SLA including role of the native language, universal grammar, acquisition vs. learning, interlanguage, input and interaction, learner processes and strategies.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 270",
+  "title": "Theories of the Modern",
+  "units": "4",
+  "description": "Analysis of theories and critiques of modernism and modernity from Benjaminto Adorno and Derrida, with special focus on the historical avantgarde.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 299",
+  "title": "Topics in Applied Linguistics",
+  "units": "4",
+  "description": "Specialized topics in the study of applied linguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 500",
+  "title": "Practicum for Teaching Assistants",
+  "units": "0",
+  "description": "Subject oriented, designed to relate directly to the teaching of a particular course in progress, to improve the skills and effectiveness of the department's teaching assistants.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individualized instruction. A written proposa must be approved by department chair, to include a description of the course content and a reading list.",
+  "prerequisites_raw": "German 210A-B or equivalent. Graduate standing; consent of instructor, graduate adviser and department chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 597",
+  "title": "Individual Study for Master's Comprehensive Examinations and Ph.D. Examinations",
+  "units": "0",
+  "description": "Instructor should normally be the student's major professor or chair of thedoctoral committee. Enrollment must be approved by graduate adviser.",
+  "prerequisites_raw": "German 201A-B or equivalent. Graduate standing; consent of graduate adviser",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Instructor should be chair of student's thesis committee.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Only for preparation of the dissertation. Instructor should be the chair of the student's doctoral committee.",
+  "prerequisites_raw": "German 201A-B or equivalent. Advancement to candidacy; consent of graduate adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 1",
+  "title": "Global History, Culture and Ideology",
+  "units": "5",
+  "description": "A survey of the historical processes that have brought different areas of the world into closer contact. Topics include ideologies of nationalism, democracy, and liberalism; international trade and migrations; technological changes; colonialism; the globalization of culture; and the reactions to them.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 2",
+  "title": "Global Socioeconomic and Political Processes",
+  "units": "5",
+  "description": "Examination of contemporary social, economic, political, and environmental change in a global context; the emergence of a global economy and new systems of world order; and the debate over globalization and whether or not it is desireable.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 12",
+  "title": "How to Think Like a Quantitative Social Scientist",
+  "units": "4",
+  "description": "Covers the logic of quantitative social science inquiry, as well as fundamental math and logic skills required for success in introductory quantitative social science courses. Topics include: what causality means, how conceptual variables are measured numerically, how to link graphical and tabular evidence to social-scientific questions of different types, and how to read an empirical research paper. Designed for lower division students who are underprepared for pre-major courses in quantitative social science majors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 60A",
+  "title": "Elementary Punjabi I",
+  "units": "4",
+  "description": "Introduction to Punjabi, a major language of Northern India and Pakistan. Beginning with the Gurmukhi script, the course offers an intensive study in the speaking, reading, and writing of the language.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 60B",
+  "title": "Elementary Punjabi II",
+  "units": "4",
+  "description": "Continuation of Punjabi I",
+  "prerequisites_raw": "GLOBL 60A",
+  "prerequisites_courses": [
+   "GLOBL 60A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 60C",
+  "title": "Elementary Punjabi III",
+  "units": "4",
+  "description": "Continuation of Punjabi II",
+  "prerequisites_raw": "GLOBL 60B",
+  "prerequisites_courses": [
+   "GLOBL 60B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 60D",
+  "title": "Intermediate Punjabi IV",
+  "units": "4",
+  "description": "Continuation of Punjabi III",
+  "prerequisites_raw": "GLOBL 60C",
+  "prerequisites_courses": [
+   "GLOBL 60C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 60E",
+  "title": "Intermediate Punjabi V",
+  "units": "4",
+  "description": "Continuation of Punjabi IV",
+  "prerequisites_raw": "GLOBL 60D",
+  "prerequisites_courses": [
+   "GLOBL 60D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 60F",
+  "title": "Intermediate Punjabi VI",
+  "units": "4",
+  "description": "Continuation of Punjabi V",
+  "prerequisites_raw": "GLOBL 60E",
+  "prerequisites_courses": [
+   "GLOBL 60E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent studies in global and international studies for lower division students. Students must be majors in global and international studies or present justification to the program for diverting from this norm.",
+  "prerequisites_raw": "Consent of department and instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 102",
+  "title": "Global Religion",
+  "units": "4",
+  "description": "Examination of the globalization of religious traditions in the modern world. Topics include the polarities between homeland and diaspora, the relationships between transnational religions and nation-states, and how these dynamics change the very nature of religious traditions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 104",
+  "title": "Global Diasporas and Cultural Change",
+  "units": "4",
+  "description": "Globalization of the world's population through international migrations; the emergence of diasporic cultures and their relationship to the countriesof origin; interactions between immigrant/ethnic cultures and the dominant cultures of the host societies; the nature of transnational identities.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 110",
+  "title": "Global Culture and Ethics",
+  "units": "4",
+  "description": "Explores connections over the last century between global cultural developments and the quest for normative values on a global level. Topics include the communications revolution, cultural ideologies, international migrations and diasporas, the human rights movement, and new cosmopolitanisms.",
+  "prerequisites_raw": "Global Studies 1 and 2; upper-division standing.",
+  "prerequisites_courses": [
+   "GLOBL 1",
+   "GLOBL 2"
+  ]
+ }
+]

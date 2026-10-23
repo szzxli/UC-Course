@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 277A",
+  "title": "Topics in the History of Science",
+  "units": "4",
+  "description": "Research seminar selected from such topics as Babylonian astronomy, Greek science, Age of Newton, rise of modern physics, scientific instruments, nationalism/internationalism in science, science and society, sociology of science, public conceptions of science, organization and profession of science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 277B",
+  "title": "Topics in the History of Science",
+  "units": "4",
+  "description": "Research seminar selected from such topics as Babylonian astronomy, Greek science, Age of Newton, rise of modern physics, scientific instruments, nationalism/internationalism in science, science and society, sociology of science, public conceptions of science, organization and profession of science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 278A",
+  "title": "Science in Twentieth-Century America",
+  "units": "4",
+  "description": "The atomic age--the background to the atomic bomb, its development, use, and postwar problems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 278B",
+  "title": "Science in Twentieth-Century America",
+  "units": "4",
+  "description": "The atomic age--the background to the atomic bomb, its development, use, and postwar problems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 280",
+  "title": "Introduction to the Study of East Asian History",
+  "units": "4",
+  "description": "Introduction to the major methodological, historiographical, and theoretical issues faced by historians of East Asia. Required for students entering the M.A. or Ph.D. program in Chinese, Japanese, or Korean history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 281A",
+  "title": "Sino-Japanese Cultural and Political Relations, 1850-1945.",
+  "units": "4",
+  "description": "Reading and research seminar on the interrelationship between Chinese and Japanese history from the first modern contacts until the end of World War II. Emphasis on cultural and political interactions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 281B",
+  "title": "Sino-Japanese Cultural and Political Relations, 1850-1945",
+  "units": "4",
+  "description": "Reading and research seminar on the interrelationship between Chinese and Japanese history from the first modern contacts until the end of World War II. Emphasis on cultural and political interactions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 281L",
+  "title": "Japanese Sinology",
+  "units": "4",
+  "description": "Introduction to Japanese traditions of China studies; readings and discussions of various texts, and introduction to bibliographic tools.",
+  "prerequisites_raw": "Minimum 2 years of Japanese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 282A",
+  "title": "Research Seminar in Modern South Asian History",
+  "units": "4",
+  "description": "Selected topics in the history of modern South Asia. The first in a 2-quarter sequence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 282B",
+  "title": "Research Seminar in Modern South Asian History",
+  "units": "4",
+  "description": "Selected topics in the history of modern South Asia. The second in a 2-quarter sequence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 282E",
+  "title": "Empire and Decolonization in South Asia",
+  "units": "4",
+  "description": "This graduate reading course on Empire and Decolonization in South Asia introduces students to important literature on the history of the Mughal, British, French, and Portuguese empires in the South Asian subcontinent. The course covers the activities of the Mughal State, European East India companies, the establishment of British imperialism, and Partition. The course also tracks key moments and problems in the course of South Asias experiments with decolonization since the late 19th Century. This course trains graduate students to analyze the contingencies and violence of imperial rule, the tense oppositions to colonial ambition, and the politics of difference under empire and post-colonial nation-states.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 282G",
+  "title": "Global South Asia",
+  "units": "4",
+  "description": "This graduate reading course on Global South Asia introduces students to the scope of historical research on South Asia's global connections between 1600 and 1960. The course covers sources, methods, and literature from South Asia in connection with works on Eastern and Southern Africa, the Indian Ocean World, the Middle East, East and South East Asia, and Western Europe. Using themes like capital, empire and the body, this course examines South Asia's relevance in transnational history. This course trains graduate students to see scale as a fundamental problem in global methods, understand how it has been experienced and historicized, and the role of comparison and connectivity in analyzing South Asia and the wider world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 283A",
+  "title": "Research Seminar in Chinese Women's History",
+  "units": "4",
+  "description": "Reading and research seminar examining topics in Chinese gender history.",
+  "prerequisites_raw": "Hist 188A or 188B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 283B",
+  "title": "Research Seminar in Chinese Women's History",
+  "units": "4",
+  "description": "Reading and research seminar examining topics in Chinese gender history.",
+  "prerequisites_raw": "Hist 188A or 188B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 284A",
+  "title": "Seminar in the History of Chinese Thought",
+  "units": "4",
+  "description": "Selected studies of leading thinkers on important schools of thought.",
+  "prerequisites_raw": "History 19 or 186A-B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 284B",
+  "title": "Seminar in the History of Chinese Thought",
+  "units": "4",
+  "description": "Selected studies of leading thinkers on important schools of thought.",
+  "prerequisites_raw": "History 19 or 186A-B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 285A",
+  "title": "Seminar in Early Modern Chinese History",
+  "units": "4",
+  "description": "Research seminar on early modern Chinese history with training in bibliography and research methodology. Offered irregularly.",
+  "prerequisites_raw": "History 210AS.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 285B",
+  "title": "Seminar in Early Modern Chinese History",
+  "units": "4",
+  "description": "Research seminar on early modern Chinese history with training in bibliography and research methodology. Offered irregularly.",
+  "prerequisites_raw": "History 210AS.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 286A",
+  "title": "Women and Modernity in the Non-Western World",
+  "units": "4",
+  "description": "Course problematizes modernity and probes its gendered nature. After reading in the theoretical literature, each student writes a paper on the question of women and modernity in their geographic area of specialization.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 286B",
+  "title": "Women and Modernity in the Non-Western World",
+  "units": "4",
+  "description": "Course problematizes modernity and probes its gendered nature. After reading in the theoretical literature, each student writes a paper on the question of women and modernity in their geographic area of specialization.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 287",
+  "title": "Readings with Japanese Scholars",
+  "units": "4",
+  "description": "A reading and discussion seminar in Japanese led by a visiting scholar from Japan. Will introduce Japanese scholarship on a specific chosen theme.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 287J",
+  "title": "Reinventing \"Japan\" Colloquium",
+  "units": "0",
+  "description": "This year long interdisciplinary colloquium brings together graduate students who study Japanese history and culture. It introduces current scholarship on Japan via readings, discussions and presentations by visiting scholars, UCSB scholars and graduate students. The colloquium meets bi-weekly. Students will prepare readings for discussion, write a seminar-length paper and present their paper to the colloquium once during the year.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 287L",
+  "title": "Japanese Reading in History",
+  "units": "0",
+  "description": "A course for students in Japanese history who want to learn to read secondary works in the Japanese language. Brief texts introduce the essential vocabulary and language patterns in Japanese historiography.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 288A",
+  "title": "Seminar in Japanese History",
+  "units": "4",
+  "description": "A seminar on selected problems in Japanese history. Some working knowledge of the Japanese language desirable but not necessary.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 288B",
+  "title": "Seminar in Japanese History",
+  "units": "4",
+  "description": "A research seminar on selected problems in Japanese history. Some working knowledge of the Japanese language desirable but not necessary.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 289A",
+  "title": "Seminar in Chinese History",
+  "units": "4",
+  "description": "A seminar on selected problems in Chinese history. Some working knowledge of the Chinese language desirable but not necessary.",
+  "prerequisites_raw": "Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 289B",
+  "title": "Seminar in Chinese History",
+  "units": "4",
+  "description": "A research seminar on selected problems in Chinese history. Some working knowledge of the Chinese language desirable but not necessary.",
+  "prerequisites_raw": "Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 289M",
+  "title": "Reading in Manchu: China",
+  "units": "4",
+  "description": "One of the Altaic languages, Manchu was widely employed throughout China during the Qing dynasty. The course introduces the Manchu script, grammar, and transcription, and trains students in reading and translating Manchu texts from the seventeenth and nineteenth centuries.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 290",
+  "title": "US-Soviet Relations in the Cold War",
+  "units": "4",
+  "description": "A one-quarter reading seminar discussing basic issues of US-Soviet relations during the Cold War, as well as historiographical issues. A number of specialists from outside the class will make presentations.",
+  "prerequisites_raw": "Graduate standing in History or Political Science required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 290A",
+  "title": "US-Soviet Relations in the Cold War",
+  "units": "4",
+  "description": "Discussion of basic issues of US-Soviet relations during the Cold War, as well as historiographical issues. Students are expected to write a researchpaper.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 290B",
+  "title": "US-Soviet Relations in the Cold War",
+  "units": "4",
+  "description": "Discussion of basic issues of US-Soviet relations during the cold war, as well as historiographical issues. students are expected to write a research paper.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

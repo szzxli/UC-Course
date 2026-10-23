@@ -1,0 +1,262 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 293",
+  "title": "Equity in STEM",
+  "units": "4",
+  "description": "Investigation of mathematics instructions and achievements from a cross-national perspective. Both formal and informal mathematics applications will be reviewed. Sources of information will include the International Education Assessment (IEA) studies of mathematics as well as sources from anthropology, sociology, and educational journals.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 294",
+  "title": "Seminar in Special Education, Disabilities, and Risk Studies",
+  "units": "0",
+  "description": "In-depth consideration of emerging topics in special education, disabilities, and risk studies. Course content may vary.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 312",
+  "title": "Context for Child Development and Learning",
+  "units": "0",
+  "description": "Prepares teacher candidates to create a supportive and healthy learning environment for student learning. Helps candidates learn how personal, family, school, community, and other contexts are related to student's academic, physical, emotional, and social well-being.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 313",
+  "title": "Context for Adolescent Development and Learning",
+  "units": "0",
+  "description": "Prepares teacher candidates to create a supportive and healthy learning environment for student learning. Helps candidates learn how personal, family, school, community, and other contexts are related to student's academic, physical, emotional, and social well-being.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 314",
+  "title": "Linguistics for Elementary and ESC Teachers",
+  "units": "2",
+  "description": "Foundational course introduces beginning credential candidates to the structure of the English language (Phonology, Morphology, Syntax and Semantics). The course also provides the opportunity to understand the classroom implications for Pragmatics and Discourse, as well as linguistic variation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 317",
+  "title": "Historical Thinking",
+  "units": "4",
+  "description": "Provides future history teachers with an opportunity to explore the nature of history, to investigate the interdisciplinary aspects of the subject, and to develop their own concepts of historical thinking and historical empathy.",
+  "prerequisites_raw": "Admission to the Single Subject Program or the Multiple Subject Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 318",
+  "title": "Foundations of Academic Language: Elementary",
+  "units": "2",
+  "description": "This foundational course introduces beginning credential candidates to the structure of the English language (phonology, morphology, syntax and semantics). The course also provides the opportunity to understand the classroom implications for pragmatics and discourse, as well as linguistic variation.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 319",
+  "title": "Foundations in Academic Language: Secondary",
+  "units": "2",
+  "description": "This foundational course introduces beginning credential candidates to the structure of the English language (phonology, morphology, syntax and semantics). The course also provides the opportunity to understand that classroom implications form pragmatics and discourse, as well as linguistics variation.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 322",
+  "title": "Instructional Design for Elementary Teachers",
+  "units": "0",
+  "description": "Introduces teacher candidate to concepts of effective curriculum development including lesson design and assessment as part of the teach-assess-reflect cycles. Also prepares and supports candidates for the Performance Assessment of California Teachers (PACT).",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 323F",
+  "title": "Instructional Design for Secondary Teachers",
+  "units": "0",
+  "description": "Introduces teacher candidates to concepts of effective curriculum development including lesson design and assessment as part of the teach-assess-reflect cycles. Also prepares and supports candidates for the Performance Assessment of California Teachers (PACT).",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 323W",
+  "title": "Instructional Design for Secondary Teachers",
+  "units": "3",
+  "description": "Introduces teacher candidates to concepts of effective curriculum development including lesson design and assessment as part of the teach-assess-reflect cycles. Also prepares and supports candidates for the Performance Assessment of California Teachers (PACT).",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 324",
+  "title": "Inclusive Technology",
+  "units": "0",
+  "description": "Exploration of issues related to use of computer-based technologies in schools, including their access, use and control in a democratic society; their use for development of problem solving, critical thinking, and creativity; and their integration into the school curriculum.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 325",
+  "title": "Instructional Technology: Secondary",
+  "units": "0",
+  "description": "Exploration of issues related to use of computer-based technologies in schools, including those of their access, use, and control in a democratic society; use for development of problem solving, critical thinking, and creativity; and integration into the school curriculum.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 325A",
+  "title": "Application of Computers to Educational Purposes I: Secondary",
+  "units": "2",
+  "description": "Exploration of issues related to use of computer-based technologies in schools, including those of their access, use, and control in a democratic society; use for development of problem solving, critical thinking, and creativity; and integration into the school curriculum - Part I (see ED 325B for Part II).",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 325B",
+  "title": "Application of Computers to Educational Purposes II: Secondary",
+  "units": "2",
+  "description": "Exploration of issues related to use of computer-based technologies in schools, including those of their access, use, and control in a democratic society; use for development of problem solving, critical thinking, and creativity; and integration into the school curriculum - Part II (see ED 325A for Part I).",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 326",
+  "title": "Practicum in Classroom Management: Elementary",
+  "units": "2",
+  "description": "Designed to raise awareness of often-transparent classroom management strategies to help teacher candidates facilitate learning among students with diverse backgrounds and learning needs. Learn research-based strategies that assist in building positive classroom atmospheres and more productive classroom observations.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 327",
+  "title": "Practicum in Classroom Management: Secondary",
+  "units": "2",
+  "description": "To raise awareness of often-transparent classroom management strategies to help teacher candidates facilitate learning among students with diverse backgrounds and learning needs, learn research-based strategies to build positive classroom atmospheres, and prepare them for more productive classroom observations.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 330",
+  "title": "Writing Project Approaches to Teaching Composition, K-College",
+  "units": "4",
+  "description": "Experimental approach to learning in a community of writers. Features theory and practice for integrating informal and formal writing activities into the learning process and reading/writing development in all disciplines and grade levels. Let be South Coast Writing Project Fellows.",
+  "prerequisites_raw": "Graduate Standing and enrollment in the Multiple or Single Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 340",
+  "title": "Student Teaching: Elementary Schools",
+  "units": "0",
+  "description": "Supervised fieldwork and student teaching in elementary schools (grades K-6)",
+  "prerequisites_raw": "Admission to the Multiple Subject Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 341",
+  "title": "Student Teaching - Introduction to Secondary Instruction",
+  "units": "0",
+  "description": "Supervised fieldwork and student teaching in secondary classrooms (grades 7-12).",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 343",
+  "title": "Multicultural Reading Field Experiences",
+  "units": "1",
+  "description": "Supervised field experience of teaching content reading skills in multicultural settings for secondary teacher candidates.",
+  "prerequisites_raw": "Graduate standing and enrollment in The Teacher Education Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 360F",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "2",
+  "description": "Goal is to prepare educators who can articulately advocate for and enact effective educational practices to ensure English Language proficiency and academic progress for student who are designated as English Learners.",
+  "prerequisites_raw": "Enrollment in Multiple Subject or Special Education Teaching Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 360S",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "1",
+  "description": "Goal is to prepare educators who can articulately advocate for and enact effective educational practices to ensure English Language proficiency and academic progress for student who are designated as English Learners.",
+  "prerequisites_raw": "Enrollment in multiple subject teaching credential program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 360W",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "2",
+  "description": "Goal is to prepare educators who can articulately advocate for and enact effective educational practices to ensure English Language proficiency and academic progress for student who are designated as English Learners.",
+  "prerequisites_raw": "Enrollment in Multiple Subject Teaching Credential Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 361F",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "0",
+  "description": "Goal is to prepare educators who can articulately advocate for and enact effective educational practices to ensure English language proficiently and academic progress for student who are designated as English learners.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 361S",
+  "title": "ELD/SDAIE Methods and Procedures",
+  "units": "1",
+  "description": "Goal is to prepare educators who can articulately advocate for and enact effective educational practices to ensure English language proficiently and academic progress for students who are designated as English learners.",
+  "prerequisites_raw": "Admission to Single Subject Teaching Credential Program; and consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

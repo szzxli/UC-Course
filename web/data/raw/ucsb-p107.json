@@ -1,0 +1,288 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 283",
+  "title": "Advanced Field Mapping and Geologic Investigations",
+  "units": "4",
+  "description": "Research-oriented mapping projects to solve outstanding problem(s) in a geologically significant area. Two weeks in the field, followed by compliation and complimentary laboratory studies. Weekly meetings to discuss results. Paper required.",
+  "prerequisites_raw": "Earth 118 or equivalent.",
+  "prerequisites_courses": [
+   "EARTH 118"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 284",
+  "title": "Sequence Stratigraphy",
+  "units": "4",
+  "description": "Overview of the methods and applications of sequence stratigraphy. The primary focus will be on siliciclastic systems but basic principles applied to carbonate systems will also be reviewed. Exercises will require the interpretation of cores, outcrops, and seismic reflection data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 285",
+  "title": "Physical Volcanology",
+  "units": "5",
+  "description": "Overview of volcanic processes, including physical properties of melts, eruptive mechanisms, classification of volcanic deposits, and volcanic-tectonic environments. Lecture emphasizes theoretical aspects of volcanic processes, lab examines major classification of rocks. Graduate students must complete an independent research project. Typically includes one to two overnight trips of 2-4 days each.",
+  "prerequisites_raw": "Earth 14 or 114 or 114A-B; and Earth 102A and 104A.",
+  "prerequisites_courses": [
+   "EARTH 102A",
+   "EARTH 114",
+   "EARTH 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 286",
+  "title": "Cordilleran Tectonics",
+  "units": "4",
+  "description": "Directed readings, weekly seminar, and field trip focused on the phanerozoic tectonic evolution of the North American Cordillera. Emphasis on understanding fundamental orogenic processes (continental extension, shortening, transcurrent motions, magmatism, metamorphism) from a cordilleran perspective. Typically includes one to two overnight trips of 2-4 days each.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 501",
+  "title": "Practicum in Instruction",
+  "units": "0",
+  "description": "Practical experience in teaching in geological sciences. Student will have responsibility for one or more laboratory and/or discussion sections. Evaluations will be made by both staff and class.",
+  "prerequisites_raw": "Concurrent teaching assistant appointment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 501MT",
+  "title": "Practicum in Mentoring",
+  "units": "0",
+  "description": "Practical experience in mentoring undergraduates in Earth Science. Activities range from teaching laboratory and field skills, to supervising independent research, to advising students in their preparation and application for graduate school or career planning.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 502",
+  "title": "Teaching Assistant Training",
+  "units": "2",
+  "description": "Orientation and workshop in professional conduct and responsibilities. Course will involve observation of student in teaching situation (faculty visits or videotaping) and follow-up conferences, evaluations, and follow-up.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 503",
+  "title": "Practicum in Research",
+  "units": "0",
+  "description": "Practical experience in research in the geological sciences, under supervision of faculty member.",
+  "prerequisites_raw": "Concurrent research assistant appointment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Written proposal for each tutorial must be approved by the instructor and the department chair.",
+  "prerequisites_raw": "Consent of instructor and graduate adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 597",
+  "title": "Individual Study for Master's and Ph.D. Examinations",
+  "units": "0",
+  "description": "Instructor should be student's major professor or chair of the committee.",
+  "prerequisites_raw": "Consent of instructor and graduate adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Instructor normally should be chair of the student's thesis committee. Only for research underlying the thesis, writing the thesis.",
+  "prerequisites_raw": "Consent of instructor and graduate adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Instructor normally should be chair of the student's doctoral committee. Only for research underlying the dissertation, writing the dissertation. Limited to terminal preparation.",
+  "prerequisites_raw": "Consent of instructor and graduate adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTHW",
+  "code": "EARTHW 20",
+  "title": "Geological Catastrophes (Online)",
+  "units": "5",
+  "description": "Course deals with geologic catastrophes, e.g., earthquakes, volcanic eruptions, tsunamis, and landslides. Students will learn the basic physical causes of these naturally occurring events and discuss the consequences.",
+  "prerequisites_raw": "N/A",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 1A",
+  "title": "Computer Engineering Seminar",
+  "units": "1",
+  "description": "Introductory seminar to expose students to a broad range of topics in computer engineering.",
+  "prerequisites_raw": "Open to computer engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 1B",
+  "title": "Ten Puzzling Problems in Computer Engineering",
+  "units": "1",
+  "description": "Gaining familiarity with, and motivation to study, the field of computer engineering, through puzzle-like problems that represent a range of challenges facing computer engineers in their daily problem-solving efforts and at the frontiers of research.",
+  "prerequisites_raw": "Open to pre-computer engineering and computer engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 3",
+  "title": "Introduction to Python Programming For Engineers",
+  "units": "4",
+  "description": "This course represents a comprehensive foundation for core ECE topics in signal processing, image analysis, machine learning, optimization and control. The lectures present concepts from linear algebra, such as matrix computations, systems of linear equations, eigenspace decomposition, inner-product, orthogonality, least-squares and linear regression. Students actively engage with the technical materials with an introduction to Python programming and associated hands-on sessions. The materials are be motivated by real-world scenarios ranging from medical imaging to autonomous vehicles, from (miscarriage of) justice to brain-machine interfaces, from music analysis to GPS design.",
+  "prerequisites_raw": "Open to EE and CMPEN majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 5",
+  "title": "Introduction to Electrical & Computer Engineering",
+  "units": "4",
+  "description": "Aims at exposing freshmen students to the different sub-fields within Electrical and Computer Engineering. Composed of lectures by different faculty members and a weekly laboratory based on projects that are executed using the Arduino environment.",
+  "prerequisites_raw": "Open only to Electrical Engineering and Computer Engineering majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 6",
+  "title": "The Physics of Energy, Information, and Communication",
+  "units": "4",
+  "description": "An introduction to the relationship between the physical nature of matter and modern problems in energy harvesting, energy storage, information storage, and communication. Key emphasis is placed on understanding materials and how materials are used to make functional electronics and photonics. The primary outcome of this course is to enable students to understand the relevance of later Physics, Math, and E&P courses with real-world examples and investigations.",
+  "prerequisites_raw": "Open to Electrical Engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 10A",
+  "title": "Foundations of Analog and Digital Circuits & Systems",
+  "units": "3",
+  "description": "The objective of the course is to establish the foundations of analog and digital circuits. The course will introduce the student to the power of abstraction, resistive networks, network analysis, nonlinear analysis and the digital abstraction.",
+  "prerequisites_raw": "Mathematics 2A-B or 3A-B or Mathematics 3AH-BH, and Mathematics 4A or 4AI or 3C, all with a minimum grade of C; and, Math 4B or 4BI or 5A with a minimum grade of C (may be taken concurrently); Physics 3, 7B or 23 (may be taken concurrently); open only to electrical engineering and computer engineering majors.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 4A",
+   "MATH 4B",
+   "PHYS 3",
+   "MATH 3A",
+   "MATH 4AI",
+   "MATH 4BI",
+   "PHYS 7B",
+   "PHYS 23"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 10AL",
+  "title": "Foundations of Analog and Digital Circuits and Systems Lab",
+  "units": "2",
+  "description": "The goal of 10AL is to provide the student with a hands-on application of the concepts discussed in ECE 10A. The lab will introduce the use of microcontrollers as a data acquisition system, network analysis, resistors, nonlinear analysis and digital abstraction.",
+  "prerequisites_raw": "ECE 10A (may be taken concurrently) with a C- or better grade.",
+  "prerequisites_courses": [
+   "ECE 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 10B",
+  "title": "Foundations of Analog and Digital Circuits and Systems",
+  "units": "3",
+  "description": "The objective of the course is to introduce the MOSFET both as a simple digital switch and as controlled current source for analog design. The course will cover basic digital design, small-signal analysis, charge storage elements and operational amplifiers.",
+  "prerequisites_raw": "ECE 10A with a C- or better grade.",
+  "prerequisites_courses": [
+   "ECE 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 10BL",
+  "title": "Foundations of Analog and Digital Circuits and Systems Lab",
+  "units": "2",
+  "description": "The goal of 10BL is to provide the student with a hands-on application of the concepts discussed in ECE 10B. The lab will utilize the microcontroller to introduce students to the understanding of datasheets for both digital and analog circuits, single-stage amplifier design and basic instrumentation.",
+  "prerequisites_raw": "ECE 10B (may be taken concurrently) with a C- or better grade.",
+  "prerequisites_courses": [
+   "ECE 10B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 10C",
+  "title": "Foundations of Analog and Digital Circuits and Systems",
+  "units": "3",
+  "description": "The objective of the course is to introduce the student to the basics of transient analysis. The course will energy and power dissipation in digital circuits, first-order and second-order linear time invariant circuits, sinusoidal steady state, impedance representation, feedback and resonance.",
+  "prerequisites_raw": "ECE 10B with a C- or better grade.",
+  "prerequisites_courses": [
+   "ECE 10B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 10CL",
+  "title": "Foundations of Analog and Digital Circuits and Systems Lab",
+  "units": "2",
+  "description": "The goal of 10CL is to provide the student with a hands-on application of the concepts discussed in ECE 10C. The lab will utilize the microcontroller to introduce students to the understanding of propagation delay in digital circuits and the resulting power dissipation, first order linear networks, second order linear networks, sinusoidal steady-state, impedance analysis and op-amp circuits.",
+  "prerequisites_raw": "ECE 10C (may be taken concurrently) with a C- grade or better.",
+  "prerequisites_courses": [
+   "ECE 10C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 15A",
+  "title": "Fundamentals of Logic Design",
+  "units": "4",
+  "description": "Boolean algebra, logic of propositions, minterm and maxterm expansions, Karnaugh maps, Quine-McCluskey method, melti-level circuits, combinational circuit design and simulation, multiplexers, decoders, programmable logic devices.",
+  "prerequisites_raw": "Open to electrical engineering, computer engineering, and pre-computer engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 92",
+  "title": "Projects in Electrical and Computer Engineering",
+  "units": "4",
+  "description": "Projects in electrical and computer engineering for advanced undergraduate students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

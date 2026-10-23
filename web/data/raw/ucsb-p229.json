@@ -1,0 +1,319 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 117",
+  "title": "Scientific Research Methods in Geography",
+  "units": "4",
+  "description": "Introduction to scientific research methods in human, physical, and techniques geography. Topics include: scientific logic and philosophy, physical measurement, surveys, experimental and nonexperimental research designs, computational modeling, sampling, data analysis and display, written and oral communication, and research ethics.",
+  "prerequisites_raw": "Geography 5; and, Geography 3 or 3A or 3B or 4.",
+  "prerequisites_courses": [
+   "GEOG 5",
+   "GEOG 3",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 119",
+  "title": "Climatic Change and Its Consequences",
+  "units": "4",
+  "description": "Mechanisms and processes which produce climate change. Methods for reconstructing paleo-climates. Impacts of past climate change on human societies.",
+  "prerequisites_raw": "Geography 3 or 3A or Geography 8 or Earth Science 2 or Earth Science 3 or Earth Science 4 or consent of instructor.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 8",
+   "EARTH 2",
+   "EARTH 3",
+   "EARTH 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 124",
+  "title": "Socio-Environmental Data Science",
+  "units": "4",
+  "description": "Data science and applied statistics courses typically focus on either environmental or social data. This unique course integrates data science and applied statistics from both natural and human systems to examine their relationships and address socio-environmental challenges. Each week, students learn new skills in data science and applied statistics by working on real-world research problems that link environmental and behavioral data to study how people impact ecosystems and how environments influence human behavior. Topics include linear, non-linear, and machine learning regression in R. Weekly assignments guide students through the research process, helping them apply methods, interpret results, and communicate findings.",
+  "prerequisites_raw": "Upper-Division Standing and either PSTAT 5A or 5LS or 120A or Economics 5.",
+  "prerequisites_courses": [
+   "PSTAT 5A",
+   "ECON 5",
+   "PSTAT 5LS",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 126",
+  "title": "Maps in Science and Society",
+  "units": "4",
+  "description": "The growth of geodesy, printing, and technology; exploration of the earth and near planets; topographic surveys and photogrammetry; LANDSAT; relation of contemporary thematic cartography to statistics and graphic science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 128",
+  "title": "Analytical and Computer Cartography",
+  "units": "4",
+  "description": "Using computers to create and analyze maps. Coding, storing and representing geographical data. Accessing spatial data over the internet. Map data structures and transformations. Design and programming issues in map production.",
+  "prerequisites_raw": "Geography 12.",
+  "prerequisites_courses": [
+   "GEOG 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 130",
+  "title": "The Urban Environment",
+  "units": "4",
+  "description": "Environment and climate of cities, suburbs, and other settlements, focusing on the built environment, soils, water, solar radiation, atmosphere, vegetation, and human thermal comfort. Lab includes field work on a range of sites along an urban-to-exurban gradient, individual lab reports on specific urban sites, use of a web wiki to produce collaborative data, and a final synthesis assignment.",
+  "prerequisites_raw": "Geography 3B or 4 or Environmental Studies 2 or permission of the instructor.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 131",
+  "title": "Mountain Weather and Climate",
+  "units": "4",
+  "description": "Overview of orographic weather patterns with focus on orographic precipitation and circulation, mountain waves, cloudiness, snowfall and avalanches, fire weather, air pollution and dispersion. Human impacts on mountain environments and climate change in mountain areas are introduced.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4; or consent of instructor.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 132",
+  "title": "Coastal Pollution",
+  "units": "4",
+  "description": "A survey of the source and fate of pollutants in the coastal ocean, focusing specifically on the physical processes that govern the transport of nutrients, sediment, hydrocarbons, and human pathogens in coastal ecosystems. Material includes readings from scientific papers, grey literature, and news media in order to develop intuition for how transport phenomena frame both pollution issues and solutions.",
+  "prerequisites_raw": "GEOG 3A",
+  "prerequisites_courses": [
+   "GEOG 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 133",
+  "title": "Tropical Meteorology",
+  "units": "4",
+  "description": "Description of tropical atmosphere. High and low frequency variability: hurricanes, monsoon, El Nino, satellite observations, and modeling.",
+  "prerequisites_raw": "MATH 2A or 3A with grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 134",
+  "title": "Earth System Science",
+  "units": "4",
+  "description": "Description of various components of earth system: climate and hydrologic systems, biogeochemical dynamics, ecological dynamics, human interactions, and global change. Observations and modeling of earth system.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4 or equivalent course.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 135",
+  "title": "Mock Environmental Summit",
+  "units": "4",
+  "description": "A mock summit in which students act as representatives of different countries participating in environmental treaty negotiations. Students work in teams of four or five to prepare a presentation and discussion of environmental issues of concern (energy, greenhouse gasses, etc.).",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 135S",
+  "title": "Intense Mock Environmental Summit",
+  "units": "4",
+  "description": "Mock summit in which students act as representatives of different countries participating in environmental treaty negotiations. This three-week course immerses students in the topic of global change and its associated policies, mimicking pressures and intensity at real environmental summits.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 136",
+  "title": "FIELD STUDIES IN WATER, ENERGY, AND ECOSYSTEMS",
+  "units": "4",
+  "description": "Introduction to the principles of environmental observation and the application of environmental physics to understanding the spatial and temporal dynamics of water and energy flows within local Californian ecosystems. Field work completed during break between winter and spring quarters.",
+  "prerequisites_raw": "GEOG 3B or equivalent, plus one or more upper division course(s) in the area(s) of atmospheric science, hydrology, ecology, or geological science.",
+  "prerequisites_courses": [
+   "GEOG 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 137",
+  "title": "Quantitative Geomorphology",
+  "units": "5",
+  "description": "Basic quantitative understanding of processes shaping Earth's surface. In-depth evaluation of hill slope diffusion, mass wasting, and fluvial processes. Applications of quantitative methods are emphasized throughout class. Laboratory provides understanding of isotopic, physical, and remote sensing data.",
+  "prerequisites_raw": "Geography 3B or 4; or Earth 2",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 138",
+  "title": "Remote Sensing of the Atmosphere: An Introduction",
+  "units": "4",
+  "description": "Atmospheric physics and dynamics from a remote sensing perspective. Clouds, precipitation, temperature, and humidity profiles. Weather patterns and systems.",
+  "prerequisites_raw": "Geography 102.",
+  "prerequisites_courses": [
+   "GEOG 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 140",
+  "title": "Environmental Impacts in Human History",
+  "units": "4",
+  "description": "Interactions between human history and the environment are explored. Example topics include early Earth history, long term climate change, the origin of agriculture, short term climate change, the origin of importance of disease and invasive species.",
+  "prerequisites_raw": "Upper-division standing; or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 141A",
+  "title": "Population Geography",
+  "units": "4",
+  "description": "Various geographic dimensions of human population dynamics: fertility, mortality, and migration. The concepts and language of demography are introduced. The causes and consequences of population dynamics are investigated, including links among population, environment, and development.",
+  "prerequisites_raw": "Geography 5 or equivalent course.",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 141B",
+  "title": "Population and Development",
+  "units": "4",
+  "description": "A survey of global and regional patterns of demographic change and their connection to significant economic development issues. Basic methods of demographic analysis are introduced to study historical and current issues in population and development.",
+  "prerequisites_raw": "Geography 141A.",
+  "prerequisites_courses": [
+   "GEOG 141A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 141C",
+  "title": "California Population Analysis and Policy",
+  "units": "4",
+  "description": "Introduces methods of demographic analysis used in local/regional policy analysis and planning. Course modules focus on population policy issues in California; such as, immigration, K-12 enrollment planning, affordable housing/land preservation, and planning for an elderly population.",
+  "prerequisites_raw": "upper-division standing only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 142",
+  "title": "Global Biogeochemical Cycles",
+  "units": "4",
+  "description": "Examines processes driving element and energy cycling through the Earth system. Aim is to understand global patterns of element fluxes, dynamic nature of element/energy cycles, and prediction of biogeochemical cycling with changes in climate and human impacts.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4; or, Environmental Studies 2; or, Earth Science 1; or, Chemistry 1A.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "ENV S 2",
+   "EARTH 1",
+   "CHEM 1A",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 144",
+  "title": "Form, Process, and Human Use of Rivers",
+  "units": "4",
+  "description": "Basic understanding of fluvial (river) hydrology. In-depth evaluation of channel form and fluvial processes and impact of human use on rivers.",
+  "prerequisites_raw": "Mathematics 2A-2B or 3A-3B or 34A-B.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 2B",
+   "MATH 3A",
+   "MATH 3B",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 145",
+  "title": "Society and Hazards",
+  "units": "4",
+  "description": "Presents geographic approaches to the study of environmental hazards, exploring the evolution of theory and key concepts, causal processes, trends and patterns in the spatial distribution of vulnerability and hazard impacts, and the challenge of management and adaptation.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 146",
+  "title": "Introduction to Transportation",
+  "units": "4",
+  "description": "Introduction to the analysis of inter- and intra-city passenger and freight movements. Geographic and economic concepts are used to develop predictive and optimal design/maintenance models for the transportation system. Applications of the models are stressed.",
+  "prerequisites_raw": "Geography 5.",
+  "prerequisites_courses": [
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 148",
+  "title": "California",
+  "units": "4",
+  "description": "The unique landscapes of California and the physical, cultural, and biotic processes which have produced them.",
+  "prerequisites_raw": "Upper-division standing or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 149",
+  "title": "The California Channel Islands",
+  "units": "4",
+  "description": "Discussion of biological, geological, ecological, anthropological, and oceanographic characteristics of the Channel Islands area as well as the management and human uses of this region. Emphasis on islands and ocean waters off Southern California.",
+  "prerequisites_raw": "MCDB 1A-1AL and EEMB 2; or MCDB 20 or EEMB 22 or Environmental Studies 2 or 60 or Geography 3 or 3A or 3B or 4 orEarth Science 2.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 20",
+   "EEMB 22",
+   "ENV S 2",
+   "GEOG 3",
+   "MCDB 1AL",
+   "ENV S 60",
+   "GEOG 4",
+   "GEOG 2"
+  ]
+ }
+]

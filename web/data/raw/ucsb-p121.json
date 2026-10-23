@@ -1,0 +1,362 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 156",
+  "title": "Topics in Applied Economics",
+  "units": "4",
+  "description": "The objective of this course is to integrate and apply the economic insights learned in the major to various topics of real-world relevance. Topics are presented from theoretical and empirical perspectives, and ethical considerations will be discussed. Possible topics include antitrust and collusion, statistical and preference-based discrimination, affirmative action, and the design of markets.",
+  "prerequisites_raw": "Economics 100B; and Economics 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 157",
+  "title": "Behavioral Economics",
+  "units": "4",
+  "description": "Studies the psychological processes and biases underlying economic decision-making, with a focus on the ways in which decisions deviate from “optimal” choices (from the viewpoint of standard economic theory) and the consequences of such deviations for consumers, managers, firms, and policymakers. Builds on the analytical foundation provided by Econ 100B - Intermediate Microeconomic Theory.",
+  "prerequisites_raw": "Economics 100B",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 160",
+  "title": "Economics of Crime and Justice",
+  "units": "4",
+  "description": "Examines social policy to minimize the losses to crime and the costs of crime control. Develops the economics of crime generation, law enforcement, prosecution, corrections, and punishment.",
+  "prerequisites_raw": "Economics 10A and PStat 109 or 120A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 164",
+  "title": "Economics of Arts and Culture",
+  "units": "4",
+  "description": "Survey of economics of arts and culture, with a focus on nonprofit performing and visual arts. Topics include defining arts and culture, consumer demand for arts, production in performing and visual arts, public good aspects of arts, public and private support for arts, and economic impact of arts and culture on local communities.",
+  "prerequisites_raw": "Economics 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 170",
+  "title": "Health Economics",
+  "units": "4",
+  "description": "Application of economic and statistical principles to health and health services. Topics may include the determinants of health, supply of and demand for health care and health insurance, health disparities, public policy, and international comparisons, among other relevant topics.",
+  "prerequisites_raw": "Economics 100B and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 171",
+  "title": "Introduction to Game Theory",
+  "units": "4",
+  "description": "A rigorous study of strategic interaction. Topics include normal and extensive form games, existence and uniqueness of equilibrium, randomization, minimax, dynamics and equilibrium selection, auctions and bargaining, principle-agent incentives, voting, private contributions to public goods, oligopoly competition, market entry and burning money, wars of attrition.",
+  "prerequisites_raw": "Economics 100B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 174",
+  "title": "Negotiations",
+  "units": "4",
+  "description": "Applied theories as guides to improving negotiations. Develop and sharpen negotiating skills by participating in realistic negotiating simulations. A number of cases will be presented; individuals make choices about actions and tactics within the negotiation.",
+  "prerequisites_raw": "Economics 100B or 104B, and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 176",
+  "title": "Experimental Economics",
+  "units": "4",
+  "description": "Introduction to the idea that economics, like all of the natural sciences, can be a laboratory science. Focus on performing and engaging in experiments. Students design experiments and discuss the designs of others.",
+  "prerequisites_raw": "Economics 100B and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 177",
+  "title": "Auction",
+  "units": "4",
+  "description": "Auction theory and its applications. Gain insight into how different auction rules influence bidding behavior and impact seller revenue. The course covers private and common value auctions. Topics include the revenue equivalence theorem and the winner's curse.",
+  "prerequisites_raw": "Econ 100B or 104B, and 140A.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 180",
+  "title": "International Trade",
+  "units": "4",
+  "description": "International trade theory and policies with examples from current issues and problems.",
+  "prerequisites_raw": "Economics 100B or 104B, and 101 or 105.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 181",
+  "title": "International Finance",
+  "units": "4",
+  "description": "International money and capital markets and their impact on the domestic and world economies; international financial institutions and policies.",
+  "prerequisites_raw": "Economics 100B or 104B, and 101 or 105.",
+  "prerequisites_courses": [
+   "ECON 100B",
+   "ECON 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 182",
+  "title": "International Accounting and Financial Management",
+  "units": "4",
+  "description": "Accounting and financial management issues in the multinational enterprise including the global development of accounting and disclosure practice, international reporting and the management of global enterprise resources.",
+  "prerequisites_raw": "Economics 136A.",
+  "prerequisites_courses": [
+   "ECON 136A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 182H",
+  "title": "International Accounting and Financial Management - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 182.",
+  "prerequisites_courses": [
+   "ECON 182"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 183",
+  "title": "Entrepreneurial Insights",
+  "units": "4",
+  "description": "A seminar-style course oriented around external speakers, representing a wide range of entrepreneurial experiences (different backgrounds, different phases of their careers, different company types, and so on). Intensive research and question development required for each speaker.",
+  "prerequisites_raw": "Economics 100B or 104B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 184",
+  "title": "Decisions Under Uncertainty",
+  "units": "4",
+  "description": "Analysis of decision-making by businesses, consumers, and public agencies when conditions are uncertain. Topics include probability, utility, maximization, representation of decision problems in practical applications, updating probabilities in light of new data, and valuation of information.",
+  "prerequisites_raw": "Economics 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 185",
+  "title": "Audit Data Analytics in Accounting Information Systems",
+  "units": "4",
+  "description": "A study of the analysis, design, and implementation of accounting information systems. This includes auditing information processed by the IT environment and performing data analytics.",
+  "prerequisites_raw": "Economics 3B; and Economics 10A; and Economics 5 or PSTAT 120A",
+  "prerequisites_courses": [
+   "ECON 3B",
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 187",
+  "title": "Topics in Personnel Economics",
+  "units": "4",
+  "description": "The goal of the course is to help students learn about how personnel economists think about key topics in human resources. We will focus on the topics of hiring, managers, management practices, workplace amenities, workplace communication, and monitoring. The course is a complement to Professor Peter Kuhn's class on Personnel Economics. Relative to Professor Kuhn's class, we will focus on different topics. We will also focus on reading and discussing academic papers, and there is no textbook. The ultimate goal is for you to be fully acquainted with insights from personnel economics, and for you to gain experience evaluating evidence and claims about how to manage the workforce.",
+  "prerequisites_raw": "Economics 100B",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 189",
+  "title": "Business Law and Ethics in Accounting",
+  "units": "4",
+  "description": "Provides a basic understanding of ethics and the legal framework within which U.S. businesses operate. Includes a broad overview of court procedures and in-depth coverage of selected topics including contracts, securities, and property rights.",
+  "prerequisites_raw": "Economics 3B; and, Economics 10A or 100A; and, Economics 5 or PSTAT 109 or PSTAT 120A.",
+  "prerequisites_courses": [
+   "ECON 3B",
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 109",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 189H",
+  "title": "Business Law and Ethics - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Econ 189.",
+  "prerequisites_courses": [
+   "ECON 189"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "Econ 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191AC",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191AR",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191AT",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191AV",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191CS",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191D",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "Econ 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191DS",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "Econ 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191EG",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "Econ 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191ET",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191F",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

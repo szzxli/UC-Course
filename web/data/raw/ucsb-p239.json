@@ -1,0 +1,204 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 111",
+  "title": "Human Rights and World Order",
+  "units": "4",
+  "description": "This course will analyze theories, patterns, cases, and causes of human rights violations throughout the world. What are the international human rights standards? What remedies are available at the global, national, social, and individual levels?",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 112",
+  "title": "Global Refugee Migration",
+  "units": "4",
+  "description": "The 20th century has been called the century of the refugee, characterized by the collapse of multiethnic empires, the rise of nation-states, and catastrophic population displacements. Students explore what causes people to flee their homes and how refugees have changed history from WWI to the modern day, investigating the creation of refugee as a political, legal, and historical category, the origins of international humanitarianism and global refugee regimes, the making of refugee diasporas, and the emergence of new types of refugees today. Particular attention to developments in the Middle East, which has been at the center of some defining refugee crises of the modern era.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 118",
+  "title": "Gender Violence and Human Rights",
+  "units": "4",
+  "description": "Explores drivers, norms, patterns, and policy responses to gender-based violence in global perspective.How does \"women's rights as human rights\" improve our understanding of this global problem? What are the challenges of responding to human rights abuse by non-state actors?",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 120",
+  "title": "Global Ideologies and World Order",
+  "units": "4",
+  "description": "Deals with conceptions of the world as a unitary political system and how these views come into confrontation with one another. Topics include the nation-state system, political ideologies, international organizations, global conflict, and the emergent civil society.",
+  "prerequisites_raw": "Global Studies 1 and 2; upper-division standing.",
+  "prerequisites_courses": [
+   "GLOBL 1",
+   "GLOBL 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 123",
+  "title": "Introduction to International Political Economy",
+  "units": "4",
+  "description": "Introduction to the politic of international economic relations. Examination of alternative analytical and theoretical perspectives for their value in helping understand and evaluate the historical development and current operation of the world economy.",
+  "prerequisites_raw": "Political Science 7 or Global Studies 2; Upper-division standing.",
+  "prerequisites_courses": [
+   "POL S 7",
+   "GLOBL 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 124",
+  "title": "Peace, Conflict, and Violence in Global Perspective",
+  "units": "4",
+  "description": "What distinguishes a country at peace from one experiencing war? How do we define types of violence, ranging from the interpersonal level to civil conflict, interstate war, and mass atrocities? This course examines theories and empirical studies of conflict and violence from the local to the global, drawing on approaches from across the social sciences. We work to understand individual and collective behavior in conflict and violent environments and how the social, political, and economic factors motivating or facilitating conflict might be altered or addressed to help build more sustainable peace. The course is highly participatory with a mixed structure: one interactive lecture and one session of small group discussions each week.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 125",
+  "title": "Politics of Development",
+  "units": "4",
+  "description": "This course introduces students to theories of development, gives a basic understanding of development issues in different parts of the world, and addresses challenges related to implementing developmental policies, especially in developing countries. It deals with changing approaches related to development through a balance of theoretical literature and practical developmental challenges. The focus is on institutions, governance, and accountability measures to empower the worlds poor. It provides a perspective on dealing with critical developmental and environmental issues and focuses on poverty and inequality. Much of the discussion is based on specific cases from Asia and Africa.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 126",
+  "title": "Global Borders",
+  "units": "4",
+  "description": "Examines the social, cultural, political, and economic processes of borders and their global implications. Students will explore the relationships that link border regimes with colonialism, imperialism, racial capitalism, and other structural systems attendant to crises, moral panics, and nationalism. The course also investigates how Indigenous notions of borderlands, political calls for border abolition, and the emergence of cross-border cultural and social movements provide alternatives to dominant ideas of border regimes. Focusing on the US-Mexico border, students will understand the implications of borders for our world today in the midst of climate change, capitalist crises, mass migration, and rising far right nationalism.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 130",
+  "title": "Global Economy and Development",
+  "units": "4",
+  "description": "Examines recent theories and perspectives on global political economy and development studies. Topics include, among others, the new global economy, transnational corporations, transnational labor markets, international trade and finance, social and economic development, and North-South relations.",
+  "prerequisites_raw": "Global Studies 1 and 2; upper-division standing.",
+  "prerequisites_courses": [
+   "GLOBL 1",
+   "GLOBL 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 131",
+  "title": "Land Uprisings and Emancipatory Alternatives",
+  "units": "4",
+  "description": "Examines the contemporary politics of land uprisings and the emancipatory experiments amidst a planetary ecological crisis and a new wave of resource grabbing. These land insurgencies in both rural and urban areas are putting new social questions and emancipatory alternatives on the political horizon. We start with an overview of the classical theoretical debates on transitions within and beyond capitalism along with the struggles of subaltern classes, globalization & ecology. We then shift our attention to an examination of contemporary and historical land uprisings and emancipatory alternatives. Throughout we explore the differential weight of race, class, indigeneity, ethnicity & gender for understanding the global land wars.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 132",
+  "title": "The Political Economy of the Globalization of Finance",
+  "units": "4",
+  "description": "A critical and historical exploration of the economics and politics of finance as they operate on a global scale in the 20th & 21st centuries. Students examine the historical roots, driving forces, consequences, and challenges of financial globalization, delving into how it shapes interactions within domestic economies with a particular focus on developing and emerging economies. Additionally, we examine financialization and its implications for developing and emerging economies. Other topics include financial (de)regulations, the role of global financial institutions, financial power dynamics, the hierarchical structure of the global financial system, and the integration of financial systems on a global scale.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 133",
+  "title": "Property, Power, and the Ownership of Everything",
+  "units": "4",
+  "description": "Is there anything that cannot be owned? Today, it seems as if everything—from the ground under our feet to the ideas in our heads—is, or has the potential to become, property. What brought about this state of affairs? Who benefits, and who loses? And why does it feel so difficult to change? To answer these questions, we will first study some concepts and methods for critically studying property. Then, we will examine how property has colonized everything: from land and housing, to food and nature, to knowledge and culture, and even the future itself. We will discover how property has become a truly global form of power, and the political, social, and environmental consequences of creating a world in which everything can be owned.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 135",
+  "title": "The Cold War Today",
+  "units": "4",
+  "description": "A critical overview of the political and ideological origins of the Cold War, its impact on the geopolitical order over the decades, how the Cold War changed the meaning and methods of warfare, and its lasting impact on the world today.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 136",
+  "title": "Global Economic Imbalances",
+  "units": "4",
+  "description": "Studies the determinants of shifting international economic relations. Topics include trade and financial imbalances, financial and balance-of-payment crises, fiscal and monetary policy, structural transformation, economic development, employment and inequality.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 137",
+  "title": "Food and Justice",
+  "units": "4",
+  "description": "Our food system is global. For some, this arrangement ensures access to healthy food from nearly every part of the planet. But many others inhabit a world of violent displacement, brutal working conditions, and starvation, one in which the very people who grow the world’s food cannot feed their families. What would it take to build a just food system? To answer this question, we will study the many efforts—from organic certification and cooperatives to land occupations and food sovereignty movements—to transform the production, circulation, and consumption of food. We will explore how these struggles illuminate the social and ecological problems created by our current food system, and how we might create something better.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 138",
+  "title": "Global Health",
+  "units": "4",
+  "description": "An overview of challenges to global health including pandemics, regional conflict, refugees, shortages of water, food and pharmaceuticals, the role of international organizations, humanitarian aid crises, and the impact of race, gender, poverty, education and mass incarceration on access to health care.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 140",
+  "title": "Global Racial Justice",
+  "units": "4",
+  "description": "This course presents global, comparative, and interdisciplinary perspectives on studies of race and justice. Topics include global construction and dissemination of racialized inequality; comparative history of political, social, and economic inequalities linked to race and ethnicity; intersectional critiques of global inequality; global racialization of poverty and racialization of other global socioeconomic processes such as labor, migration, and environmental injustice.",
+  "prerequisites_raw": "Global Studies 1 and 2; upper-division standing.",
+  "prerequisites_courses": [
+   "GLOBL 1",
+   "GLOBL 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 142",
+  "title": "Aspects of Histories of Punjab and the Sikhs",
+  "units": "4",
+  "description": "This course looks at the histories of Punjab and the Sikhs in South Asia and the Diaspora. The course starts by looking at the historical time and the later memory of Guru Nanak, the founder of Sikhism, along with other notable figures. It briefly looks at the 18th and the 19th centuries in history, culture, memory, and imagination up through the Partition of 1947. The Punjabi Diaspora in the West and its political commitment to dismantle imperialism are seen through figures like Maharaja Duleep Singh and Sophia Duleep Singh in the UK, and the intimate and familial relations of the early Punjabi settlers in California and the Ghadar movement in the US.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 143",
+  "title": "Global Conflict Resolution",
+  "units": "4",
+  "description": "Training in conflict resolution techniques and international negotiations both in theory and in application to actual cases of conflict around the world, including especially those related to global themes such as the erosion of the nation-state, environmental crises, and terrorism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

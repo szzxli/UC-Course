@@ -1,0 +1,270 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105II",
+  "title": "Infrastructure and Ideology in the Modern World",
+  "units": "4",
+  "description": "Explores the relationship between infrastructure and ideology in the modern world. From urban planning to Bitcoin, we will look at the ways that infrastructure serves as a foundation for social life and as a source of stories and conflicts about the social order. Analyzes infrastructure from a global perspective and draws on examples from France to Singapore. Specific topics to vary by quarter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105Q",
+  "title": "Readings in the History of Science and Technology",
+  "units": "4",
+  "description": "Reading seminar focused on special topics dealing with science, technology, and the modern period. Topics include: computers in society; history of space exploration; histories of the future; nuclear war in history & film.",
+  "prerequisites_raw": "HIST 4C or 17C or 105A or 109 or 109S or 109T or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 4C",
+   "HIST 17C",
+   "HIST 105A",
+   "HIST 109",
+   "HIST 109S",
+   "HIST 109T"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105R",
+  "title": "Undergraduate Research Seminar in History in Atomic Age Problems",
+  "units": "4",
+  "description": "Seminar, with a required research paper, on the relationship between science and technology and society. Topics, one each course, include Hiroshima and Nagasaki, arms race, arms control, science and social responsibility, politics of science, scientific advice to government, civilian uses of nuclear energy. Students conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "HIST 9 and either HIST 2C, 4C, 17C, 20, or 22 and upper division standing or consent of the instructor.",
+  "prerequisites_courses": [
+   "HIST 9",
+   "HIST 2C",
+   "HIST 4C",
+   "HIST 17C",
+   "HIST 20",
+   "HIST 22"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 105T",
+  "title": "Science and Totalitarianisms: Science and Technology in Non-Democratic Societies",
+  "units": "4",
+  "description": "Offers theoretical tools for understanding political authority and social control in any society, and specifically examines the relations between scientific and political cultures in the societies commonly referred to as totalitarian, authoritarian, illiberal, or non-democratic. Topics include the history of science in the Soviet Union, Nazi Germany, and socialist-era China.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 106A",
+  "title": "The Origins of Western Science, Antiquity to 1500",
+  "units": "4",
+  "description": "Examines the emergence and development of science through an examination of ancient cosmology, medicine, natural history, philosophy, and environmental ideas.",
+  "prerequisites_raw": "HIST 2A or 2B or 4A or 4B or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 2B",
+   "HIST 4A",
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 106B",
+  "title": "The Scientific Revolution, 1500 to 1800",
+  "units": "4",
+  "description": "The history of science in the West from Copernicus to Lavoisier: the transition from medieval, theocentric views of human nature and its operation to secular and mechanistic views in the 17th and 18th centuries, and the transition from natural philosophy to science. The role of science in Western culture.",
+  "prerequisites_raw": "HIST 4B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 106C",
+  "title": "History of Modern Science",
+  "units": "4",
+  "description": "Science in the late 19th and 20th century with emphasis on the physical sciences. Topics include: end of classical physics; x-rays and radioactivity; quantum revolution; astronomy and cosmology; nuclear physics; the integration of scientists into the national security state.",
+  "prerequisites_raw": "Hist 4B or 4C or 20 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 106D",
+  "title": "U.S. Science Policy",
+  "units": "4",
+  "description": "From the time governments first funded scientific project they had, consciously or not, a science policy. What were the reasons for these expenditures? Topics covered range from the Lewis and Clark expedition to contemporary medical, environmental, space, and defense research.",
+  "prerequisites_raw": "Hist 17C or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 106R",
+  "title": "Undergraduate Research Seminar in History in Science, Technology, and Medicine",
+  "units": "4",
+  "description": "Undergraduate research seminar on a diverse range of topics in science, technology, and medicine. Varied topics addressed: defining a research problem, identifying an original topic, conducting research, citing sources, and presenting results. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper. Intensive writing required.",
+  "prerequisites_raw": "History 106A or 106B or 106C or 109 or or 110 or 110D or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 106A",
+   "HIST 106B",
+   "HIST 106C",
+   "HIST 109",
+   "HIST 110",
+   "HIST 110D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 106T",
+  "title": "History of Time",
+  "units": "4",
+  "description": "Time plays a central role in human affairs, from the hourly rhythm of a single day to the slow stages of an individual life to the organization of enduring human institutions. This course explores intellectual conceptions and cultural representations of time across cultures; scientific and socio-technological systems that have recast how we came to think about and experience time; as well as the role of time in structuring societies and their activities. Topics include but not limited to social lives of clocks and calendars; the politics and technologies of labor time; the projects of chronological standardization; relativity theory and its impact; and the experience of time in the Anthropocene.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 107C",
+  "title": "The Darwinian Revolution and Modern Biology",
+  "units": "4",
+  "description": "Examines the social and scientific impacts of evolutionary ideas from around 1800 through Charles Darwin, the modern evolutionary synthesis, the birth of ecology, and molecular biology. Focus is on America and Western Europe.",
+  "prerequisites_raw": "Concurrent enrollment or completion of one of the following: History 4B or 17B or 17C or 20; or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 4B",
+   "HIST 17B",
+   "HIST 17C",
+   "HIST 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 107D",
+  "title": "Visionary Biology",
+  "units": "4",
+  "description": "Examines how major biological conceptsfrom evolution to biotechnologyinspired the visions of humanitys future, as well as the understanding of life and society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 107S",
+  "title": "History of Biology and Society",
+  "units": "4",
+  "description": "Explores the social dimensions of modern biology and the biological dimensions of some of the contemporary social issues. A range of topics will vary year to year, including eugenics in the US and the Lysenko affair in the Soviet Union, the entanglements of biology and society in the early Cold War, and the commercialization of biology in the 1970s, as well debates that have taken place in the wider community about identity, citizenship, governance, ownership, human well-being, and expertise in relation to these developments in modern biology.",
+  "prerequisites_raw": "History 9 OR Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 108",
+  "title": "Science, Technology and Contemporary Culture",
+  "units": "4",
+  "description": "In-depth examination of contemporary issues in science and technology in their historical contexts. Topics include: biotechnology and the Human Genome Project; weapons of mass destruction; nanotechnology; national science policy; evolution, science, and religion.",
+  "prerequisites_raw": "A previous course in history.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 108LT",
+  "title": "Law and Technology in Contemporary History",
+  "units": "4",
+  "description": "The incredible pace of technological change has changed the world forever. The internet and smartphones, plus cutting edge technologies such as artificial intelligence, self-driving cars, drones, virtual/augmented reality and Blockchain/Bitcoin pose fascinating legal and policy challenges. This course explores issues such as the tension between individual privacy and Silicon Valley business models; the debate between encryption and national security; the role of cybersecurity and hacking; and other key issues framing historical and current approaches to regulating advanced technology.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 108O",
+  "title": "History of the Oceans",
+  "units": "4",
+  "description": "Explores how people have experienced, understood, transformed, and attempted to conserve the worlds oceans throughout human history. Interdisciplinary approach includes aspects of science, technology, politics, law, culture, and material biophysical relationships.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 109",
+  "title": "Science and Technology in America",
+  "units": "4",
+  "description": "Science and technology in American intellectual, cultural, religious, and political life with focus on 19th/20th centuries. Examples include rise of scientific enterprise and infrastructure; technology and America's economic growth; American research styles; science and the military; space program; environmentalism; biotechnology.",
+  "prerequisites_raw": "History 4C or 17C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 4C",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 109Q",
+  "title": "Readings in the History of Science and Technology",
+  "units": "4",
+  "description": "Upper-division readings course focusing on the history of modern science and technology within the U.S. Context. Using primary & secondary readings, students will examine relation between science, technology, politics,religion, economics, and popular culture.",
+  "prerequisites_raw": "Upper-division standing and HIST 4C or HIST 17C or HIST 109S or HIST 109T or HIST 109.",
+  "prerequisites_courses": [
+   "HIST 4C",
+   "HIST 17C",
+   "HIST 109S",
+   "HIST 109T",
+   "HIST 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 109S",
+  "title": "Science in Modern America",
+  "units": "4",
+  "description": "Examines the social history of science in American society, politics, and religion in the US. Also explores creation of scientific institutions in the US and development of infrastructure to carry out scientific research. Emphasis on 19th and 20th centuries.",
+  "prerequisites_raw": "Hist 4C or 17C or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 109T",
+  "title": "Machines, People, & Politics: Histories of Modern Technologies",
+  "units": "4",
+  "description": "Surveys social history of technology in American life with attention to 19th and 20th centuries. Focuses on history of U.S. industrialization, the place of innovation in U.S. history, and role of technology in intellectual, political, and social life.",
+  "prerequisites_raw": "HIST 2C or 4C or 17C; and upper division standing or by permission from the instructor.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 110",
+  "title": "History of Public Health",
+  "units": "4",
+  "description": "Course themes include the development of medicine and health care, women and the medical profession, alternate medical systems, and current crises in medical policy. Case studies from Europe, the Americas, India, and Africa will be analyzed.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 110D",
+  "title": "Diseases in History",
+  "units": "4",
+  "description": "Role of infectious diseases in human history from prehistory to the present. Emphasis on the interaction between diseases and culture, and the assessment of historical accounts of diseases. Alternate medical systems and their approaches to diseases will also be explored.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

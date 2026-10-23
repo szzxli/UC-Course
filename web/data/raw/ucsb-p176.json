@@ -1,0 +1,242 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 103",
+  "title": "Advanced Engineering Writing",
+  "units": "4",
+  "description": "Practice in the forms of communication--contractual reports, proposals, conference papers, oral presentations, business plans--that engineers and entrepreneurial engineers encounter in professional careers. Focus is on research methods, developing a clear and persuasive writing style, and electronic document preparation.",
+  "prerequisites_raw": "Writing 50 or 50E; upper division standing.",
+  "prerequisites_courses": [
+   "WRIT 50",
+   "WRIT 50E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 160",
+  "title": "Science for the Public",
+  "units": "0",
+  "description": "Provides experience in communicating science and technology to nonspecialists. The major components of the course are field work in mentoring, a biweekly seminar, presentations to precollege students and to adult nonscientists, and end-of-term research papers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 177",
+  "title": "Art and Science of Aerospace Culture",
+  "units": "4",
+  "description": "Interdisciplinary course/seminar/practice that explores technological, aesthetic, cultural, and political aspects of the space side of the aerospace complex. Design history,space complex aesthetics, cinema intersections, imaging/telecommunications, human spaceflight history, reduced/alternating gravity experimentation, space systems design/utilization.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 195A",
+  "title": "Multidisciplinary Capstone Design",
+  "units": "1",
+  "description": "This course allows the coordination of senior students in multiple departments while they undertake a multi-departmental capstone design project. Participating students are required to concurrently enroll in their respective departmental capstone/senior design project courses (ECE 189AB, CMPSC 189AB, ECE 188AB, ME 189ABC), and will additionally enroll in 1 unit of this course for the Fall, Winter and Spring quarters. By taking this course, students will understand practical engineering approaches to collaborate on complex multidisciplinary engineering systems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 195B",
+  "title": "Multidisciplinary Capstone Design",
+  "units": "1",
+  "description": "This course allows the coordination of senior students in multiple departments while they undertake a multi-departmental capstone design project. Participating students are required to concurrently enroll in their respective departmental capstone/senior design project courses (ECE 189AB, CMPSC 189AB, ECE 188AB, ME 189ABC), and will additionally enroll in 1 unit of this course for the Fall, Winter and Spring quarters. By taking this course, students will understand practical engineering approaches to collaborate on complex multidisciplinary engineering systems.",
+  "prerequisites_raw": "Engineering 195A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 195C",
+  "title": "Multidisciplinary Capstone Design",
+  "units": "1",
+  "description": "This course allows the coordination of senior students in multiple departments while they undertake a multi-departmental capstone design project. Participating students are required to concurrently enroll in their respective departmental capstone/senior design project courses (ECE 189AB, CMPSC 189AB, ECE 188AB, ME 189ABC), and will additionally enroll in 1 unit of this course for the Fall, Winter and Spring quarters. By taking this course, students will understand practical engineering approaches to collaborate on complex multidisciplinary engineering systems.",
+  "prerequisites_raw": "Engineering 195B",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 199",
+  "title": "Independent Studies in Engineering",
+  "units": "0",
+  "description": "Directed individual study.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 203",
+  "title": "Graduate Research Writing",
+  "units": "3",
+  "description": "Analysis and practice of the forms of post-graduate writing. Documents studied include dissertations, disseration proposals and defense, professional papers, oral presentations, abstracts, and project research reports. Peer review process is analyzed. Written and oral assignments in discussion/workshop format.",
+  "prerequisites_raw": "Graduate standing in the College of Engineering.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR",
+  "code": "ENGR 220C",
+  "title": "Tissue & Systems Bioengineering",
+  "units": "4",
+  "description": "This course introduces students to tissue and organism-level organization with application of engineering principles for analysis. Topics include: cardiovascular, respiratory, digestive, and central nervous systems, structural components of organisms (bones and muscles), immune system, and of pharmacology.",
+  "prerequisites_raw": "ENGR 220B or consent of instructor",
+  "prerequisites_courses": [
+   "ENGR 220B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGR W",
+  "code": "ENGR W 3",
+  "title": "Introduction to Programming",
+  "units": "3",
+  "description": "General philosophy of programming and problem-solving. Students will be introduced to the programming language MATLAB. Specific areas of study will include algorithms, basic decision structures, arrays, matrices, and graphing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 1",
+  "title": "Introduction to Environmental Studies",
+  "units": "5",
+  "description": "Environmental Studies requires insights from many disciplines, including the social as well as biophysical science and the humanities. This introduction offers an overview of the field, examining both our planet and the ways in which we humans depend on it.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 1H",
+  "title": "Introduction to Environmental Studies - Honors",
+  "units": "1",
+  "description": "Honors section designed for highly motivated students to receive one unit of additional honors credit. Requires one hour per week of in-depth analysis and discussion of \"Environmental Studies\" with course instructor and completion of a related project.",
+  "prerequisites_raw": "Concurrent enrollment in Environmental Studies 1 and active member of a College Honors Program; or consent of instructor.",
+  "prerequisites_courses": [
+   "ENV S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 2",
+  "title": "Introduction to Environmental Science",
+  "units": "5",
+  "description": "Provides integration of fundamental science with environmental topics. Includes impacts of human population increase; principles of systems and change, biogeochemical cycles, ecosystems and global climate; energy and laws of thermodynamics; water supply and pollution; toxicology and risk analysis; air pollution and stratospheric ozone depletion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 2H",
+  "title": "Introduction to Environmental Science - Honors",
+  "units": "1",
+  "description": "Honors section designed for highly motivated students to receive one unit of additional honors credit. Requires one hour per week of in-depth analysis and discussion of \"Environmental Science\" with course instructor and completion of a related project.",
+  "prerequisites_raw": "Concurrent enrollment in Environmental Studies 2 and active member of a College Honors Program; or consent of instructor.",
+  "prerequisites_courses": [
+   "ENV S 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 3",
+  "title": "Introduction to the Social and Cultural Environment",
+  "units": "5",
+  "description": "An introduction to the relationship of societies and the environment from prehistorical times to the present. The course is global in perspective, and includes history, literature, philosophy, economics, science, and culture as evidence for examining the human social environment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 3H",
+  "title": "Introduction to the Social and Cultural Environment - Honors",
+  "units": "1",
+  "description": "Honors section designed for highly motivated students to receive one unit of additional honors credit. Requires one hour per week of in-depth analysis and discussion of the social and cultural environments with course instructor and completion of a related project.",
+  "prerequisites_raw": "Concurrent enrollment in Environmental Studies 3 and active member of a College Honors Program; or consent of instructor.",
+  "prerequisites_courses": [
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 9",
+  "title": "Yardi Environmental Justice Scholars First-Year Seminar",
+  "units": "4",
+  "description": "Introduces first-year Yardi Scholars to fundamentals of environmental changemaking. Students first examine theories of change and environmental problem solving and then interact with guest speakers from different disciplines who all work to address the same environmental problem. Students gain a deeper understanding of approaches to changemaking; develop knowledge about problem-solving; and build skills in collaboration, critical thinking, and communication. Students also establish connections with fellow Yardi Scholars and the larger Yardi Environmental Justice Scholars community at UCSB.",
+  "prerequisites_raw": "Student must be a member of the Yardi Scholar Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 15A",
+  "title": "Environmental Chemistry 1",
+  "units": "5",
+  "description": "Introduction to chemistry from an environmental perspective. Introduces subatomic particles, nuclear instability and decay, radon, radiation, fission, fusion, nuclear power, half-life, nucleogenesis, cosmic abundance of elements, quantum mechanics, atomic orbitals, valence, the periodic chart, ionic and covalent bonding, moles, Earth layers, lithosphere, ores, mining, Iron Mountain Mine, acid mine drainage, and physical weathering. Weekly discussion section allows for review, questions, and quizzes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 15B",
+  "title": "Environmental Chemistry 2",
+  "units": "5",
+  "description": "A continuation of Environmental Chemistry 1. Explores the characteristics of water, solutions, chemical weathering, chemical reactions (redox, acid-base, precipitation, synthesis, decomposition, single displacement, double displacement), balancing chemical reactions, equilibrium, the hydrosphere and water cycle, issues of water chemistry, quality, and testing, sedimentation, fossil fuels and their combustion, an introduction to organic chemistry, common air pollutants, the chemistry of climate change.",
+  "prerequisites_raw": "Environmental Studies 15A.",
+  "prerequisites_courses": [
+   "ENV S 15A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 15BL",
+  "title": "Environmental Chemistry Lab",
+  "units": "1",
+  "description": "Introduces laboratory exercises, including explorations of nuclear phenomena, recycling aluminum, spectrophotometric analysis of iron, field and laboratory analysis of soil and water for N and pH, titration for acidity, chromatography, and air quality monitoring, that provide students valuable laboratory and field skills used by environmental professionals.",
+  "prerequisites_raw": "Environmental Studies 15A and 15B (Env. St. 15BL may be taken concurrently with Env. St. 15B)",
+  "prerequisites_courses": [
+   "ENV S 15A",
+   "ENV S 15B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 25",
+  "title": "Quantitative Thinking in Environmental Studies",
+  "units": "5",
+  "description": "Designed to improve students' ability to quantitatively approach environmental topics by developing skills in algebra, statistics, and calculus. Emphasis is placed on applying these skills to solve practical environmental problems. Students learn how to use widely used software for environmental data analysis and visualization (Excel and R, optionally). Designed for first and second year students to prepare them for upper division courses with quantitative components.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 30",
+  "title": "Introduction to Environmental Economics",
+  "units": "5",
+  "description": "Economic processes underlie many of the environmental problems facing humanity, but can also play an important role in solving those challenges. This course introduces key theories from micro- and macroeconomics, and applies them to a variety of environmental problems. Topics covered include individual preferences, efficiency, valuation, market failures and policy analysis.",
+  "prerequisites_raw": "Mathematics 34A or 3A or 2A.",
+  "prerequisites_courses": [
+   "MATH 34A",
+   "MATH 3A",
+   "MATH 2A"
+  ]
+ }
+]

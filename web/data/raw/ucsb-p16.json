@@ -1,0 +1,294 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 5A",
+  "title": "Introduction to Architecture and Environment",
+  "units": "5",
+  "description": "Architecture is an act of place-making through which humans have constructed their relation with nature. Introduces the history of these strategies of place-making, interpretative concepts, and discipline-specific terminology in order to develop a critical understanding of the relationship between nature and built form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 5AH",
+  "title": "Introduction to Architecture and Environment Honors Section",
+  "units": "1",
+  "description": "Honors section to explore in greater depth topics and issues covered by ARTHI 5A. Requires concurrent enrollment in ARTHI 5A.",
+  "prerequisites_raw": "Consent of instructor; Concurrent enrollment in ARTHI 5A",
+  "prerequisites_courses": [
+   "ARTHI 5A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 5B",
+  "title": "Introduction to Museum Studies",
+  "units": "5",
+  "description": "Designed to introduce students to various aspects of Museum Studies- historical, theoretical, and practical- by examining a range of issues and topics with which the field is engaged.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6B",
+  "title": "Art Survey II: Renaissance-Baroque Art",
+  "units": "5",
+  "description": "Renaissance and baroque art in Northern and Southern Europe.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6C",
+  "title": "Art Survey III: Modern-Contemporary Art",
+  "units": "5",
+  "description": "Introduction to the modern era of Western art history, focusing on European and American histories. It begins reviewing the 18th-century European Enlightenment: scientific inquiry and new forms of representation are the models for the course. Proceeding through the 19th-century histories of colonization and land grabs, and then move to the 20th-century, focusing on the rise of urbanism, migration, and new developments in abstract art; additional focus on ethnicity, race, sexuality and gender across the Arts & Crafts Movement, and the rise of internationalism and global art histories in the 21st-century, ending the course by examining the present time period.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6DL",
+  "title": "Survey: Landscape in China",
+  "units": "5",
+  "description": "A chronological survey of the evolution of landscape as subject matter in Chinese art and culture, from its origins in concepts of empire and domain, to the absorption of religious and philosophical values, to its later expression in the early modern and modern periods. The course ends with consideration of landscape's fate in contemporary society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6DS",
+  "title": "Survey: History of Art in China",
+  "units": "5",
+  "description": "Chronological and thematic overview of the major traditions of Chinese art, Neolithic to modern, including ceramics and bronzes, Buddhist visual culture, paintings, calligraphy, garden design and imperial architecture, with an emphasis on historical context, regional diversity, and intercultural encounters.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6DW",
+  "title": "Survey: Art of Japan and Korea",
+  "units": "4",
+  "description": "Surveys the arts of Japan and the Korean peninsula from pre-historic to contemporary times. The focus is on the evolving role of the artist within society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6E",
+  "title": "Survey: Arts of Africa, Oceania, and Native North America",
+  "units": "5",
+  "description": "A conceptual, cross-cultural introduction to Amerind, Eskimo, African, and Oceanic arts: artists, sculptures, festivals, body decoration, masking, architecture, and painting will be seen in the context of social and religious values. Films, slides, and museum tours.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6F",
+  "title": "Survey: Architecture and Planning",
+  "units": "5",
+  "description": "A selective and chronological survey of architecture and urban design in social and historical context. Individual buildings and urban plans from the past to the present will be used as examples.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6G",
+  "title": "Survey: History of Photography",
+  "units": "5",
+  "description": "A critical survey of nineteenth and twentieth century photography as an art form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6H",
+  "title": "Survey: Arts of the Ancient Americas",
+  "units": "5",
+  "description": "An introduction to select art traditions from Mesoamerica to Andean South America. Examines architecture, ceramics, sculpture, painting and other classes of material culture for their meaning and function within sociopolitical, religious, and economic contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6I",
+  "title": "The Arts of the Iberian World, 1492-1700",
+  "units": "5",
+  "description": "This survey course offers an overview of the varied artistic cultures developed under the Spanish Empire during the sixteenth and seventeenth centuries, covering, besides the Iberian Peninsula, different parts of Europe and North and West Africa, the Spanish Americas, and a number of transpacific territories. In addition to exposing students to an astoundingly rich set of materials, it introduces them to key theoretical themes, such as Indigenous agency, borderlands and frontier territories, religious intolerance and coercion, cross-cultural exchange, resistance, racialization, and revisions of the center/periphery and hybridity/mestizaje models.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6J",
+  "title": "Survey: Contemporary Architecture",
+  "units": "5",
+  "description": "Global survey of architectural production in the twenty-first century. Emphasis on form and technology, as well as economic, sociopolitical context. Explores built form at a variety of scales (buildings, cities, virtual spaces), as well as the concept of a contemporary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6K",
+  "title": "Survey: Islamic Art and Architecture",
+  "units": "5",
+  "description": "A survey of Islamic art and architecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6KH",
+  "title": "Survey: Islamic Art and Architecture Honors Section",
+  "units": "1",
+  "description": "Honors section to explore in greater depth topics and issues covered by ARTHI 6K. Requires concurrent enrollment in ARTHI 6K.",
+  "prerequisites_raw": "Consent of instructor; Concurrent enrollment in Art History 6K",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6L",
+  "title": "Playful Spaces: A Cultural History of Games",
+  "units": "5",
+  "description": "This course introduces students to the history of games. It is organized chronologically as a global survey. We study games and the social, political, and economic conditions that support them, as well as the interface between the human player and the imagined world of the game. Taking as its premise that games are artifacts of culture, this course focuses on the visual and spatial practice of games in social context.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 6M",
+  "title": "Survey: Eccentric Images",
+  "units": "5",
+  "description": "This course examines the history of art through some of its strangest images, including spatial illusions, chance images, hidden faces and monsters, reversible images, caricatures and others. Primarily focused on the early modern period (1400-1750), we also consider similar experiments from other cultures.",
+  "prerequisites_raw": "No prerequisites for the course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 86",
+  "title": "Research Seminar in History of Art & Architecture",
+  "units": "4",
+  "description": "Introduces students to current topics and debates in the history of art and architecture. Topics will vary. This course requires weekly readings and discussion, and the writing of a research seminar paper.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 94S",
+  "title": "Student Facilitated Group Studies Project",
+  "units": "4",
+  "description": "Independent art history research conducted under the guidance of Art History faculty. Topic and scope varies, to be specified by student and supervisory faculty member prior to registration.",
+  "prerequisites_raw": "A prior art history course; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Introduction to research in art history. Independent research under the guidance of a faculty member in the department. Course offers exceptional students the opportunity to undertake independent research or work in a research group.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 103D",
+  "title": "Introduction to Classical Archaeology",
+  "units": "4",
+  "description": "Introduces students to the field of Classical Archaeology through case studies drawn from all over the ancient world, with an emphasis on the Mediterranean. Explores both the practical methods of archaeology as well as the artifacts that are found and how they are preserved, displayed, and who owns them.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 103E",
+  "title": "Roman Art and Archaeology",
+  "units": "4",
+  "description": "Provides an introduction to ancient Rome through the lens of material culturethe art, architecture, and objects that surrounded people living in the city of Rome. Focuses primarily on the city of Rome its buildings and its urban structure. Explores various topics and themes, including impacts of empire, social status, religion, gender, and the urban experience in antiquity.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 103F",
+  "title": "Greek Art and Archaeology",
+  "units": "4",
+  "description": "Explores the ancient Greek world through art and archaeologyusing art objects, architecture, and everyday artifacts to learn about ancient Greek society. Focuses on the history of Greek art, archaeology, and architecture from the Bronze Age through the Hellenistic period, and considers such themes as religion, politics, social status, and urban planning.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 103G",
+  "title": "Ancient Spectacle",
+  "units": "4",
+  "description": "Explores the worlds of ancient Greece and Rome through the participants in and observers of a variety of spectacles in the ancient world. Examines public spectacles such as bull-leaping, Olympic games, theatrical performances, gladiatorial combats, naval battles, religious rituals, and military triumphs, as well as other more private spectacles such as dinner parties with the gods.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 103H",
+  "title": "Archaeological Field School",
+  "units": "6",
+  "description": "This course is an archaeological field school at the site of Settecamini, Italy. Students will learn excavation techniques, scientific testing, and digital methods of recording.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 104",
+  "title": "Special Topics in Classical Art and Architecture",
+  "units": "4",
+  "description": "Special topics in classical art and architecture.",
+  "prerequisites_raw": "Not open to freshman.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 105C",
+  "title": "Medieval Architecture: From Constantine to Charlemagne",
+  "units": "4",
+  "description": "A survey of the architecture in Italy, France, Spain, Germany, and England from the early Christian through the Carolingian periods.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ARTHI",
+  "code": "ARTHI 105E",
+  "title": "The Origins of Romanesque Architecture",
+  "units": "4",
+  "description": "Eleventh century architecture in France, Italy, Spain, Germany, and England.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

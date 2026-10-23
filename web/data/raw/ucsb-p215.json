@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 20H",
+  "title": "Women, Society, and Culture Honors",
+  "units": "5",
+  "description": "Lecture is concurrent with Feminist Studies 20, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 30",
+  "title": "Women, Development and Globalization",
+  "units": "5",
+  "description": "Examines the impact of development policy and globalization on women's lives. Emphasis is placed on women's activism and feminist critiques of neo-liberal measures intended to rid the third world of poverty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 30H",
+  "title": "Women, Development, and Globalization Honors",
+  "units": "5",
+  "description": "Lecture is concurrent with Feminist Studies 30, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 40",
+  "title": "Women, Representation, and Cultural Production",
+  "units": "5",
+  "description": "Examines cultural representations of diverse women's lives from a humanities perspective. The focus is on women as cultural producers, subjects, and critics in literature, film, the visual arts, and music. Includes mandatory weekly film screening.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 40H",
+  "title": "Women, Representation, and Cultural Production Honors",
+  "units": "5",
+  "description": "Lecture is concurrent with Feminist Studies 40, along with a weekly honors seminar mandatory film screening, requires intensive discussion of the readings and assignments. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 50",
+  "title": "Global Feminisms and Social Justice",
+  "units": "5",
+  "description": "Historical and contemporary examination of women's activism around the globe in a variety of struggles, including self-named feminist movements and other movements for social justice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 50H",
+  "title": "Global Feminisms and Social Justice Honors",
+  "units": "5",
+  "description": "Lecture is concurrent with Feminist Studies 50, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 60",
+  "title": "Women of Color: Race, Class, and Ethnicity",
+  "units": "5",
+  "description": "Examination of the interlocking dynamics and politics of gender, race, sexuality, class, and culture in the experience of U.S. women of color. Readings focus on oppositional consciousness and resistance to oppression in the scholarship and literature by women of color.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 60H",
+  "title": "Women of Color: Race, Class, and Ethnicity Honors",
+  "units": "5",
+  "description": "Lecture is concurrent with Women's Studies 60, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 80",
+  "title": "Introduction to LGBTQ Studies",
+  "units": "5",
+  "description": "An overview of the interdisciplinary field of lesbian, gay, bisexual, transgender, and queer studies, including historical and cross-cultural perspectives on same-sex sexuality, queer theory, intersectionality, gender and sexual identities, communities, culture, contemporary social policy, and LGBTQ movements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 80H",
+  "title": "Introduction to LGBTQ Studies Honors",
+  "units": "5",
+  "description": "Lecture is concurrent with Feminist Studies 80, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Research under the direction of a faculty member. Students are offered an opportunity to conduct independent or collaborative research or to act as interns for faculty-directed research projects.",
+  "prerequisites_raw": "One 1-4 unit Feminist Studies lower division course; consent of instructor and department chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 100WS",
+  "title": "Topics in Advanced Library Research",
+  "units": "2",
+  "description": "Students critically examine the complex range of research tools within a specified area. Students should be concurrently enrolled in a course with a related research project requirement. Course focus is determined by the instructor and announced by the library.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 101C",
+  "title": "Teaching 4 Social Justice",
+  "units": "4",
+  "description": "This interdisciplinary course will highlight how a curriculum focusing on racial, ethnic, gender, and LGBTQ studies is central to teaching and learning within diverse societal contexts. This grounding is essential for K-12 teachers in History and English/Literature. Through a social justice framework, students will learn how classrooms are enhanced by Ethnic and Feminist Studies, placing graduates within the forefront of educational initiatives that position teaching and learning within an inclusive and equitable paradigm",
+  "prerequisites_raw": "At least one course in one of these departments: Asian American Studies, Black Studies, Chicana/o Studies, Feminist Studies",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 115",
+  "title": "Marriage in the Ancient World",
+  "units": "4",
+  "description": "Examines marriage customs and rituals in archaic and classical Greece, Ptolemaic Egypt, and in the Roman Republic and Imperial periods within the context of social history, literary, historical, and epigraphic sources.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 120",
+  "title": "Women's Labors",
+  "units": "4",
+  "description": "What is women's work? How has it changed over time? How is it valued? Explores wage-earning, caregiving, sex work, housework, double days, glass ceilings, and strategies of survival and resistance among American women from various demographic, racial, and ethnic groups.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 121",
+  "title": "Feminisms",
+  "units": "4",
+  "description": "Special topics course focused on key feminist issues, histories of feminist knowledge, and social justice movements.",
+  "prerequisites_raw": "Feminist Studies 20, 30, 40, 50, 60, or 80.",
+  "prerequisites_courses": [
+   "FEMST 20",
+   "FEMST 30",
+   "FEMST 40",
+   "FEMST 50",
+   "FEMST 60",
+   "FEMST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 126",
+  "title": "Critical Heterosexuality Studies",
+  "units": "4",
+  "description": "Critically examines the origins and evolution of heterosexuality as a sexological category. Draws on queer theory to analyze heterosexuality as a contested sexual, cultural, racial, and political institution.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 128",
+  "title": "Witches, Nature, and Decolonial Healing",
+  "units": "4",
+  "description": "Examines the broad range of gendered and racialized practices associated with witchcraft, including medicine, political revolt, environmental preservation, and trauma healing. Focus is on colonization and other global transformations, both historical and contemporary, that influence anti-witch violence and feminist resistance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 130",
+  "title": "Feminist Perspectives on Health",
+  "units": "4",
+  "description": "Investigation of the power that medicine has in shaping health experts' and lay individuals' understandings of health and health practices. Particular attention is paid to how women's health issues come to be seen as \"social problems\", past and present.",
+  "prerequisites_raw": "Upper-Division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 131",
+  "title": "The Politics of Reproduction and Reproductive Technologies",
+  "units": "4",
+  "description": "Exploration of theoretical, popular, and political debates over reproductive technologies in terms of women's power and choices. Investigation of how cultural and historical changes in reproductive practices influence ideas about nature, society, and progress. Examination of case studies on current controversies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 132",
+  "title": "Gender, Science, and Technology",
+  "units": "4",
+  "description": "Examines the role of women in science, feminist critiques of science, gendered construction of technology and technological construction of gender, cross-cultural analysis of emerging technologies, and intersections of gender, ethnicity, class, and sexuality.",
+  "prerequisites_raw": "upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 133",
+  "title": "Bodies",
+  "units": "4",
+  "description": "Special topics course focused on bodies, embodiment, politics and performance.",
+  "prerequisites_raw": "Feminist Studies 20, 30, 40, 50, 60, or 80.",
+  "prerequisites_courses": [
+   "FEMST 20",
+   "FEMST 30",
+   "FEMST 40",
+   "FEMST 50",
+   "FEMST 60",
+   "FEMST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 135",
+  "title": "Feminist Theories of Science and Feminist Scientists",
+  "units": "4",
+  "description": "Exploration of feminists analyses and critiques of science in social, historical, and political contexts. How does science construct gender? How and why are women excluded from scientific discourses and practices? How have women transformed science, and what is feminist science?",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 136",
+  "title": "Cultural Analysis of Reproduction and Science",
+  "units": "4",
+  "description": "Develop tools to analyze cultural productions, narratives, images, and arguments about women, gender, reproduction, and science. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 136AB",
+  "title": "Cultural Analysis of Reproduction and Science",
+  "units": "4",
+  "description": "Develop tools to analyze cultural productions, narratives, images, and arguments about women, gender, reproduction, and science. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 136AC",
+  "title": "Cultural Analysis of Reproduction and Science",
+  "units": "4",
+  "description": "Develop tools to analyze cultural productions, narratives, images, and arguments about women, gender, reproduction, and science. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 136LC",
+  "title": "Cultural Analysis of Reproduction and Science",
+  "units": "4",
+  "description": "Develop tools to analyze cultural productions, narratives, images, and arguments about women, gender, reproduction, and science. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 136MH",
+  "title": "Cultural Analysis of Reproduction and Science",
+  "units": "4",
+  "description": "Develop tools to analyze cultural productions, narratives, images, and arguments about women, gender, reproduction, and science. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ }
+]

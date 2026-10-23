@@ -1,0 +1,334 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122UE",
+  "title": "Cityscapes: The Urban Experience from the Metropolis to the Megalopolis",
+  "units": "4",
+  "description": "This course focuses on the emergence of the modern city and of urban experience from the 19th to the 21st century. The city can be a space of anonymity, freedom, and loneliness, as much as a place of connection and exciting possibilities. Architecture and the organization of space produce different behaviors, types of perception, and subjectivity. Above all, the modern metropolis is spectacular, and continually offers things to see to the eye.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122UK",
+  "title": "Cultural Representations",
+  "units": "4-28",
+  "description": "A study of literary works, paintings, films, and other representational forms as they influence cultural attitudes. The courses offered will focus on such topics as the body, the city, the everyday, the marketplace, and the machine.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122UM",
+  "title": "The City as a Way of Life: Urban Modernity",
+  "units": "4",
+  "description": "Examining novels, films, essays, and television from 1940 to the present, we address a number of questions thrown up by urban life in the later twentieth century. How, for instance, did the bombed cityscape of World War II provide planners with the dream of a future city, and how did immigration from former colonies transform urban life? How did the reconstruction of the European city institute seductive new forms of commodity culture? In what ways does the city serve to delineate social class? How do new sexual identities bring forth new forms of urban life, and how are these threatened by the rationalizing impulses of city planning? How might we investigate the ways in which the city subjugates women?",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 122WE",
+  "title": "Water Imaginations",
+  "units": "4",
+  "description": "Water Imaginations",
+  "prerequisites_raw": "Writing 2 upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 123",
+  "title": "The Novel in English",
+  "units": "4",
+  "description": "A survey of British and American fiction from the late eighteenth century to the present.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 123S",
+  "title": "Seminar on the Novel in English",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 123 designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of the English 123 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing; concurrentenrollment in English 123; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "ENGL 123",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 124",
+  "title": "Readings in the Modern Short Story",
+  "units": "4",
+  "description": "Short stories are quick bursts of storytelling, which, much like a short film or a music video, capture an intense burst of feeling, a fleeting mood, a scene of transformation. Or else, you might say they operate like slow motion: they arrest a moment or slice of time, they attend to its nuances and the forces that buffer it, and they ask us to attend to them with extra care. Short stories often show how moments that might appear very ordinary to most of us can in fact be momentous, utterly transformative, for somebody. In this, for modern, humdrum, everyday lives, they can provide a kind of modernist sublime. In this class, we will read a cross-section of short stories, from classic to contemporary, from America and the world.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 124S",
+  "title": "Seminar on the Short Story",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 124 designed to enrich the large lecture experience for the motivated student. Course will include either supplementary readings or more intensive study of the English 124 reading list, as well as supplemental writings.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing; concurrentenrollment in English 124; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "ENGL 124",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 125",
+  "title": "The History of Written Culture",
+  "units": "4",
+  "description": "An examination of the history of writing and its major impact on society, considering the ways in which writing has allowed the reorganization of government, law, consiousness, knowledge, commerce, personal relations, culture, and the implications of the electronic revolution.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 126A",
+  "title": "Survey of British Fiction (I)",
+  "units": "4",
+  "description": "The eighteenth century. Such writers as Defoe, Richardson, Fielding, Smollet, and Sterne.",
+  "prerequisites_raw": "Writing 2 and 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 126B",
+  "title": "Survey of British Fiction (II)",
+  "units": "4",
+  "description": "The nineteenth century to 1850. Such writers as Austen, The Brontes, Thackeray, and Dickens (earlier novels).",
+  "prerequisites_raw": "Writing 2 and 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 126C",
+  "title": "Survey of British Fiction (III)",
+  "units": "4",
+  "description": "The nineteenth century from 1850. Such writers as Dickens (later novels), Eliot, Trollope, and Hardy.",
+  "prerequisites_raw": "Writing 2 and 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 127",
+  "title": "Rhetoric: History and Theory",
+  "units": "4",
+  "description": "An introduction to rhetorical theory with attention to the historical development of rhetoric from the classic period to the current day. The course will be organized around concepts from rhetorical theory and their application, presented through primary and secondary texts.",
+  "prerequisites_raw": "Writing 2 and 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128",
+  "title": "Literary Genres",
+  "units": "4-28",
+  "description": "Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiography, comedy, romance,satire.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128AA",
+  "title": "Literary Genres",
+  "units": "4",
+  "description": "Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiography, comedy, romance,satire.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128AF",
+  "title": "Animal Fictions",
+  "units": "4",
+  "description": "This course deals with human-animal interactions and the plight of animals in contemporary novels.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128AN",
+  "title": "Literary Genres",
+  "units": "4",
+  "description": "Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiography, comedy, romance, and satire.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128AU",
+  "title": "Literary Genres",
+  "units": "4-12",
+  "description": "Literary genres. Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiographycomedy, romance, satire.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. course may be repeated for credit up to 12",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128CM",
+  "title": "Literary Genres",
+  "units": "4-12",
+  "description": "Literary genres. Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiography, comedy, romance, satire.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. course may be repeated for credit up to 12",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128CO",
+  "title": "Literary Genres",
+  "units": "4-12",
+  "description": "Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiography, comedy, romance,satire.",
+  "prerequisites_raw": "english 1, 2a-b, or equivalents. course may be repeated for credit up to 12",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128CP",
+  "title": "Literary Genres",
+  "units": "4-12",
+  "description": "Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiography, comedy, romance,satire.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128EN",
+  "title": "Going Postal: Epistolary Narratives",
+  "units": "4",
+  "description": "Investigates reappearance of the letter-novel at particular historical moments, and paradoxes built into the letter-form itself. Range of works emphasizing eighteenth- and later twentieth-century novels, likely works by Austen, Goethe, Hoffman, James, Montesquieu, Choderlos de Laclos, Lydia Davis, Pynchon.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128FT",
+  "title": "Literary Genres",
+  "units": "4-28",
+  "description": "Detailed readings in, and critical examinations of, specific literary forms. Recently taught genres have included autobiography, comedy, romance,satire.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128GN",
+  "title": "Graphic Novel & Trauma",
+  "units": "4",
+  "description": "The focus of this course is less with superheroes and more with the way in which the graphic novel engages the representation of global sites of conflict and atrocity. Starting with the Jewish Holocaust and working our way to Palestine, Lebanon, Israel and New York (9/11), we examine how the graphic novel takes up such ethical problems as the limits of representation, the relationship between fiction and testimony, as well as that between trauma, memory and mourning. We also deal with questions of moral responsibility and accountability with regard to acts of torture. While these will be our predominant concerns, we also look into how graphic novels self-referentially comment upon the process of artistic composition.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 128JG",
+  "title": "The Jewish Graphic Novel",
+  "units": "4",
+  "description": "Study of the contemporary Jewish graphic novel in its sociological, historical, and formal contexts.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ }
+]

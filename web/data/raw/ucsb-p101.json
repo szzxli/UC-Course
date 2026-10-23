@@ -1,0 +1,361 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 124IG",
+  "title": "Introduction to Geochemistry",
+  "units": "4",
+  "description": "Fundamental concepts of geochemistry including radiometric dating, inorganic chemistry, and biogeochemical cycling are introduced. The class examines how chemical principles can be used to solve geological and environmental problems. These concepts are illustrated using classical geology, global change, and hydrology.",
+  "prerequisites_raw": "Earth 2 or 4; and Earth 114; and Chemistry 1A; and Math 3A-B or 2A-2B.",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 114",
+   "CHEM 1A",
+   "MATH 3A",
+   "EARTH 4",
+   "MATH 2A",
+   "MATH 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 124T",
+  "title": "Introductory Thermodynamics",
+  "units": "2",
+  "description": "Introduction to thermodynamics and kinetics of rock-water systems. Calculation of mineral equilibria as a function of pressure temperature and fluid compositions. Applied problems at surface and subsurface conditions. This is a five week course.",
+  "prerequisites_raw": "Chemistry 1C; and Mathematics 2B or 3B; and Earth 2.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "MATH 2B",
+   "EARTH 2",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 125",
+  "title": "FIELD METHODS IN HYDROLOGY",
+  "units": "4",
+  "description": "Introduction to general field techniques used in hydrology including methods to determine river discharge, basic well and spring sampling, well water level measurements, and soil hydraulic characterization. The ~2 week class takes place at Sagehen Creek Field Station (north of Truckee, CA) in the eastern Sierra prior to the start of the Fall quarter.",
+  "prerequisites_raw": "Either Earth 173 or Geography 116 or consent of instructor.",
+  "prerequisites_courses": [
+   "EARTH 173",
+   "GEOG 116"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 126",
+  "title": "Chemical Thermodynamics for Geoscientists",
+  "units": "4",
+  "description": "Classical chemical thermodynamics with a focus on applications to practical problems in the geosciences, environmental sciences, and planetary sciences. This class provides a rigorous theoretical foundation while also proving beneficial for Earth and planetary scientists seeking a review of thermodynamic principles and their application to geological problems.",
+  "prerequisites_raw": "Chemistry 1C; Mathematics 3B; Earth 114.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "MATH 3B",
+   "EARTH 114"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 127",
+  "title": "Field Petrology",
+  "units": "4",
+  "description": "Field-based study of igneous, metamorphic and tectonic processes. Investigates different topics in igneous and metamorphic petrology each year, centered around field trips to key localities. Includes lectures, review of scientific literature, on-campus labs and field-based observations and measurements. The field trip for this course ranges from 4-18 days long and varies each offering.",
+  "prerequisites_raw": "Earth 104A and Earth 114; consent of instructor. All prerequisites require a grade of C or better.",
+  "prerequisites_courses": [
+   "EARTH 104A",
+   "EARTH 114"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 130",
+  "title": "Global Warming - Science and Society",
+  "units": "4",
+  "description": "Introduction to the scientific and societal issues surrounding global climate change. Includes introduction to physical climatology, greenhouse effect, climate history, anthropogenic changes, and future predictions. Student discussion and debate on the potential societal scenarios available to mitigate future climate change.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 131",
+  "title": "Geophysical Time-Series Analysis",
+  "units": "5",
+  "description": "Time-series analysis and digital-signal processing for geophysicists. Course combines theory with practical application using MATLAB and/or Python. Topics include: sampling, the discrete Fourier transform, aliasing, convolution, filtering, power spectral density estimation, multivariate time-series analysis, and array processing.",
+  "prerequisites_raw": "Mathematics 2A-B or 3A-B; and Mathematics 4A-B; and Physics 1 and 2, or Physics 6A-B-C, or Phys 7A and 7B, or Phys 21 and 22; and Earth 175 or Earth 232 or CMPSCI 8 and CPMSCI 16 or instructor approval.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 4A",
+   "PHYS 1",
+   "PHYS 6A",
+   "PHYS 7A",
+   "PHYS 21",
+   "EARTH 175",
+   "EARTH 232",
+   "MATH 3A",
+   "PHYS 2",
+   "PHYS 7B",
+   "PHYS 22",
+   "EARTH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 133",
+  "title": "Plate tectonics and mantle dynamics",
+  "units": "4",
+  "description": "An advanced undergraduate course that takes a quantitative, physics-based approach to covering the details of plate tectonics and mantle dynamics. Using derivations at the level of Turcotte and Schubert (3Ed., 2014), the course gives undergraduates a high level understanding of the principles that govern plate strength, and the connections between plates and Earth's deep interior. Weekly lectures cover course material, while readings and take-home assignments help reinforce the concepts covered in class; discussion sections give participants the opportunity to talk through the assignments and the readings and to work through practical problem sets.",
+  "prerequisites_raw": "Earth 2; Mathematics 2A-B or 3A-B; and Mathematics 4A-B and Mathematics 6A (may be taken concurrently); Physics 7A and 7B and 7C (may be taken concurrently), or Physics 1 and 2, or Physics 6A-B-C, or Phys 21 and 22; and Earth 175 or Earth 232 or CMPSCI 8 and CMPSCI 16 or instructor approval.",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "MATH 2A",
+   "MATH 4A",
+   "MATH 6A",
+   "PHYS 7A",
+   "PHYS 1",
+   "PHYS 6A",
+   "PHYS 21",
+   "EARTH 175",
+   "EARTH 232",
+   "MATH 3A",
+   "PHYS 7B",
+   "PHYS 7C",
+   "PHYS 2",
+   "PHYS 22",
+   "EARTH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 134",
+  "title": "Introduction to Geological and Geophysical Data Analysis",
+  "units": "4",
+  "description": "Various numerical methods for analysis of data are developed. Methods are statistical inference, error propagation, least squares, time series as applied to geological and geophysical examples. Lab and lecture.",
+  "prerequisites_raw": "Mathematics 2A-B or 3A-B; and Mathematics 4A-B.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 4A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 135",
+  "title": "Principles of Geophysics",
+  "units": "4",
+  "description": "Basic principles in geophysics from elasticity theory, fluid dynamics, gravity, magnetism, and heat flow. Their applications to various processes in the Earth.",
+  "prerequisites_raw": "Mathematics 2A-B or 3A-B; and Mathematics 4A-B; and Mathematics 6A (may be taken concurrently); and, Physics 1 and 2, or Physics 6A-B-C, or Phys 7A and 7B, or Phys 21 and 22; and Earth 175 or Earth 232 or CMPSCI 8 and CMPSCI 16 or instructor approval.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 4A",
+   "MATH 6A",
+   "PHYS 1",
+   "PHYS 6A",
+   "PHYS 7A",
+   "PHYS 21",
+   "EARTH 175",
+   "EARTH 232",
+   "MATH 3A",
+   "PHYS 2",
+   "PHYS 7B",
+   "PHYS 22",
+   "EARTH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 136",
+  "title": "Geophysics (Seismology)",
+  "units": "5",
+  "description": "Wave propagation in an elastic medium; reflection and refraction, attenuation physics of the earthquake source, magnitude, seismic moment and focal mechanisms.",
+  "prerequisites_raw": "Mathematics 2A-B or 3A-B; and Mathematics 4A-B and Mathematics 6A (may be taken concurrently); Physics 7A and 7B and 7C (may be taken concurrently), or Physics 1 and 2, or Physics 6A-B-C, or Phys 21 and 22 and 23 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 4A",
+   "MATH 6A",
+   "PHYS 7A",
+   "PHYS 1",
+   "PHYS 6A",
+   "PHYS 21",
+   "MATH 3A",
+   "PHYS 7B",
+   "PHYS 7C",
+   "PHYS 2",
+   "PHYS 22",
+   "PHYS 23"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 137",
+  "title": "Quantitative Geomorphology",
+  "units": "5",
+  "description": "Basic quantitative understanding of processes shaping Earth's surface. In-depth evaluation of hill slope diffusion, mass wasting, and fluvial processes. Applications of quantitative methods are emphasized throughout class. Laboratory provides understanding of isotopic, physical, and remote sensing data.",
+  "prerequisites_raw": "Geography 3B or 4; or Earth 2",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 141",
+  "title": "Plant Paleobiology",
+  "units": "4",
+  "description": "Examination of the history of land plants; the systematics, morphology, and phylogeny of major groups. Major evolution and biogeographic patterns.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 141L",
+  "title": "Plant Paleobiology Laboratory",
+  "units": "1",
+  "description": "Anatomy, morphology, and systematics of fossil plants from the specimens.",
+  "prerequisites_raw": "Upper-Division standing. Earth 141 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EARTH 141"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 143",
+  "title": "The Early Evolution of Life and its Environmental Context",
+  "units": "4",
+  "description": "The first 3.5 billion years of life and the environmental context in which it evolved. Highly multidisciplinary, drawing on evidence from geology, geochemistry, paleontology, and comparative biology.",
+  "prerequisites_raw": "MCDB 1A & MCDB 1B & EEMB 2 & EEMB 3 (all with a minimum grade of C- or better) or Earth 3 or 30 or 111",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 3",
+   "EARTH 30",
+   "EARTH 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 144",
+  "title": "Invertebrate Paleobiology",
+  "units": "4",
+  "description": "Important topics in paleobiology are discussed in the context of the evolutionary history of invertebrate animal life. These include macroevolutionary theory, diversification and extinction events, ecological and geobiological interactions through time, and the incompleteness of the fossil record.",
+  "prerequisites_raw": "MCDB 1A & MCDB 1B & EEMB 2 & EEMB 3 or Earth 3 or 30 or 111 (all with a minimum grade of C- or better)",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 3",
+   "EARTH 30",
+   "EARTH 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 148",
+  "title": "Vertebrate Paleontology",
+  "units": "4",
+  "description": "Introduction to the history of vertebrate life, with emphasis on the phylogenetic relationships of the major vertebrate groups.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, EEMB 3 (all with grades of C- or better) or EARTH 2 or 3 or 7 or 30",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 2",
+   "EARTH 3",
+   "EARTH 7",
+   "EARTH 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 149",
+  "title": "The History of Mammals",
+  "units": "4",
+  "description": "Introduction to the diversity of fossil and living mammals from phylogenetic, stratigraphic, and paleobiogeographic perspectives.",
+  "prerequisites_raw": "Earth 3 or 7 or 30; or MCDB 1A-1AL; or EEMB 2.",
+  "prerequisites_courses": [
+   "EARTH 3",
+   "MCDB 1A",
+   "EEMB 2",
+   "EARTH 7",
+   "EARTH 30",
+   "MCDB 1AL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 150",
+  "title": "Petroleum Geology",
+  "units": "4",
+  "description": "Study of petroleum systems including origin, generation, migration, and trapping of hydrocarbons. Guest speakers from industry. Lab includes use of basin analysis software from oil company. Field trip to active petroleum basin in California. Required written report.",
+  "prerequisites_raw": "Earth 2 and Earth 114.",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 114"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 154",
+  "title": "Advanced Igneous Petrology",
+  "units": "4",
+  "description": "The study of magma dynamics and igneous rocks including petrogeny with an emphasis on petrography, physical chemistry and dynamics. Offered alternate years.",
+  "prerequisites_raw": "Earth 114.",
+  "prerequisites_courses": [
+   "EARTH 114"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 155",
+  "title": "Petrotectonics",
+  "units": "4",
+  "description": "Analysis of orogenic belts using petrography, thermochronology, and thermobarometry. Subject material changes each year.",
+  "prerequisites_raw": "Earth 114 and 115 and 102C; concurrent enrollment in Earth 155L.",
+  "prerequisites_courses": [
+   "EARTH 114",
+   "EARTH 155L",
+   "EARTH 115",
+   "EARTH 102C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 155L",
+  "title": "Petrotectonics Lab",
+  "units": "0",
+  "description": "Analysis of orogenic belts using petrography, structural petrology, thermochronology, and thermobarometry.",
+  "prerequisites_raw": "Earth 114 and 115 and 102C. Concurrent enrollment in Earth 155.",
+  "prerequisites_courses": [
+   "EARTH 114",
+   "EARTH 155",
+   "EARTH 115",
+   "EARTH 102C"
+  ]
+ }
+]

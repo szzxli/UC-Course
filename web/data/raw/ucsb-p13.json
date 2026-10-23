@@ -1,0 +1,458 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 124",
+  "title": "ARTISTS FUTURES: PROFESSIONAL PRACTICES II",
+  "units": "5",
+  "description": "Dives into the wide range of professionalism for artists within and adjacent to the art world. The class provides students the necessary skills to advance their work as emerging artists, addressing portfolio preparation and artist opportunities like graduate education, exhibitions, residencies, and grants. Also introduces students to the wide variety of careers available to artists and provides them with building blocks to move forward within these careers. Guest speakers illuminate opportunities in several fields including curatorial practice, design, marketing, art business, education, and non-profit work.",
+  "prerequisites_raw": "Must be in upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 125",
+  "title": "Art Since 1950",
+  "units": "4",
+  "description": "Developments in American and European art since 1950 with an emphasis on the most recent decades. Focus ranges from the post-war impact of the New York School, Pop Art, Minimalism and Conceptualism to more recent, postmodern trends.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 126",
+  "title": "Introduction to Contemporary Theory",
+  "units": "4",
+  "description": "A basic beginning survey of contemporary art, film and media theory, focusing specifically on: realism, formalism, semiotics, phenomenology, psychoanalysis, feminism, Marxism, gender/queer studies, poststructuralism, post-colonial theory and broader issues of authorship, narratology, postmodernism, and multiculturalism.",
+  "prerequisites_raw": "Art 1A or Upper Division",
+  "prerequisites_courses": [
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 130",
+  "title": "Visual Arts as Culture",
+  "units": "4",
+  "description": "Exploration of visual arts and culture, including the evolving social and practical parameters of technologically produced images and the shifting arenas of ideology, analysis, and criticism.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 132",
+  "title": "Digital Video",
+  "units": "4",
+  "description": "The making and use of video in contemporary art. Hands-on production and post production are combined with viewing, critique, and discussion topics, including cultural prominence and future trends. Single and multiple channel, installation, and integration with other media are all encouraged.",
+  "prerequisites_raw": "Art 32; 1A or 7A or Upper Division",
+  "prerequisites_courses": [
+   "ART 32",
+   "ART 1A",
+   "ART 7A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 133",
+  "title": "Memory: An Interdisciplinary Exploration",
+  "units": "4",
+  "description": "Introduces students to the trans-disciplinary fields of memory and migration through interdisciplinary collaboration. Course responsibilities include class participation, a midterm essay and a final interdisciplinary project. This course draws upon the connections between neuroscience, arts and studies of human migration.",
+  "prerequisites_raw": "Department approval needed to enroll",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 133M",
+  "title": "Memory: An Interdisciplinary Exploration",
+  "units": "5",
+  "description": "Introduces students to the trans-disciplinary fields of memory and migration through interdisciplinary collaboration. Course responsibilities include class participation, a midterm essay and a final interdisciplinary project. This course draws upon the connections between neuroscience, arts and studies of human migration.",
+  "prerequisites_raw": "Upper Division or add code.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 134",
+  "title": "Performance",
+  "units": "4",
+  "description": "A workshop introduction to the forms, styles, and strategies of contemporary performance art, which may involve the use of the body, space, narrative, audience, object, installation, and multimedia.",
+  "prerequisites_raw": "7A; or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 134P",
+  "title": "Performance & Environment",
+  "units": "4",
+  "description": "This workshop introduces students to artists in the field of environmental and ecological activism. Students develop projects that address environmental justice, landscape and place using performance, video, installation and other conceptual strategies.",
+  "prerequisites_raw": "OR Upper Division OR Instructor Approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 136",
+  "title": "Personal Narrative",
+  "units": "4",
+  "description": "Intensive writing-based workshop designed for formulating and producing artwork based on one's own personal experiences and histories. Experimentation and expansion into other artistic media are encouraged.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 137",
+  "title": "Spoken Word",
+  "units": "4",
+  "description": "A workshop introduction to the use of voice as an artistic medium, with emphasis on personal monologue, and improvisation.",
+  "prerequisites_raw": "Upper Division or Instructor Approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 151F",
+  "title": "AFRICAN ART-I",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 151G",
+  "title": "AFRICAN ART-II",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 152A",
+  "title": "ANCIENT ART EGYPT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 152E",
+  "title": "ANCT ART-GREECE I",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 152F",
+  "title": "ANCT ART-GREECE II",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 152H",
+  "title": "ANC ART ROMAN EMPIR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 153A",
+  "title": "MEDIEVAL ART EARLY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 153B",
+  "title": "MED ART BYZANTINE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 153C",
+  "title": "MED ART ROMANESQUE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 153D",
+  "title": "MED ART GOTHIC",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 153E",
+  "title": "MED-ITALY 13 14 CEN",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 154B",
+  "title": "PRE-COL ART SO AMER",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 154C",
+  "title": "PC ART-MEX CEN AMER",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 155B",
+  "title": "15CEN PAINT N EUROP",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 156A",
+  "title": "ITALY-HIGH RENAISS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 156B",
+  "title": "16-CENT ART N EUR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 156C",
+  "title": "MANNERISM",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 156D",
+  "title": "VENETIAN PAINTING",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 157A",
+  "title": "BAROQUE PAINT ITALY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 157B",
+  "title": "ITAL BAROQUE ARCHT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 157C",
+  "title": "NORTH BAROQUE ART",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 159C",
+  "title": "19 CENT ARCHITECTUR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 160A",
+  "title": "20-CEN ARCHITECTURE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 161A",
+  "title": "AMERICAN ART I",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 161B",
+  "title": "AMERICAN ART II",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 161C",
+  "title": "ART COLON HISP AMER",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 161D",
+  "title": "HISP-AMERICAN ARTS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 165A",
+  "title": "THEORY OF ARCH",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 165B",
+  "title": "ISLAMIC ARCHITECTUR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 168A",
+  "title": "HIST OF GRAPHIC ART",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 177",
+  "title": "Art and Science of Aerospace Culture",
+  "units": "4",
+  "description": "Interdisciplinary course/seminar/practice that explores technological, aesthetic, cultural, and political aspects of the space side of the aerospace complex. Design history,space complex aesthetics, cinema intersections, imaging/telecommunications, human spaceflight history, reduced/alternating gravity experimentation, space systems design/utilization.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 179C",
+  "title": "Mediatechnology",
+  "units": "4",
+  "description": "Telegraph, telephone, phonograph, and film techniques that have engendered new forms of representation, communications, and thinking. Course studies the impact of these transformations in literature and on literature. Taught in English.",
+  "prerequisites_raw": "Upper-Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Special topics in art.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 185AA",
+  "title": "Special Topics in Art",
+  "units": "4",
+  "description": "Related to Art 1C Thursday colloquium guest artists, focusing on activism through art. Tuesday we will explore the practical side of how to create projects that go beyond the gallery and focus on changing public policy through art, advocacy, social media, interventions, graphics, photography, documentation, sculpture and raw passion.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ }
+]

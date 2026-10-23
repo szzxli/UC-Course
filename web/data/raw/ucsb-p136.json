@@ -1,0 +1,291 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270G",
+  "title": "Structures of Inequality: Race and Class in Education",
+  "units": "4",
+  "description": "Segregation, differential school quality, and inequitable educational outcomes do not happen in a vacuum. This class examines issues in education which are directly related to race and class in understanding how ideology informs the way we look at schooling.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270H",
+  "title": "Language, Culture & Learning",
+  "units": "4",
+  "description": "Explores the effect of language, culture, background, and values on learning processes and the implications for development of appropriate instructional strategies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 270I",
+  "title": "Critical Race Theory in Education: An Introduction",
+  "units": "4",
+  "description": "This course serves as an overview of the Critical Race Theory in education framework. The course will provide an intellectual genealogy of Critical Race Theory and its development, continuing evolution, and application in education in K-16 settings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 271",
+  "title": "Cultural Studies in Education",
+  "units": "4",
+  "description": "Critically explore media and popular arts' cultural influences on everyday life, including books/popular literature, music, visual arts, and architecture. Consider the importance of these cultural forms for education and community life.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 272",
+  "title": "Global Education, Local Issues: Traditional and Western Education: conflict or complement?",
+  "units": "4",
+  "description": "Course will provide a discussion of different models of education and their impact on changing societies and educational needs. This is a research seminar and will serve as an introduction for new students to the emphasis on Cultural perspective of Education and Comparative Education.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 274",
+  "title": "Proseminar in Language, Interaction and Social Organization",
+  "units": "0",
+  "description": "Discussion of current research, literature, and theoretical and methodological issues in language and social interaction.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 275",
+  "title": "Research on the Education of Asian/American Students",
+  "units": "4",
+  "description": "Examines the research on the education and development of Asian and Asian American students. Topics include: student motivation and achievement, engagement, aspirations, career choices, acculturation, culture and identity, collectivism/individualism, parent involvement, home-school connection, and comparative educational systems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 276",
+  "title": "Immigrant Education and Literacy Development",
+  "units": "4",
+  "description": "This course covers recent theories, empirical research, and strategic interventions in the area of immigrant education with special attention to sociocultural, critical pedagogy, and new literacies approaches to learning and development of immigrant adults and youths.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 277",
+  "title": "Latino Children and Their Families",
+  "units": "4",
+  "description": "This course will provide an overview of the normative development and challenges experienced by Latino children and adolescents in the United States underscoring the importance of contexts- families, schools, communities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 279",
+  "title": "Foundations of Teacher Education",
+  "units": "4",
+  "description": "Course for Ph.D. candidates in Education with a focus on pre-service and in-service teacher development. Students read professional literature, research and hear from those doing the work of teacher educators.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 280",
+  "title": "Education in Diverse Societies",
+  "units": "4",
+  "description": "Explores various critical approaches to the theory and practice of crosscultural education in diverse societies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 281A",
+  "title": "Teacher Education Research Practicum",
+  "units": "0",
+  "description": "A year-long practicum for doctoral candidates interested in conducting research on teacher education practice. Students will work with UCSB's teacher education program leaders and faculty to design and implement a study of practice in the teacher education program.",
+  "prerequisites_raw": "ED 210",
+  "prerequisites_courses": [
+   "ED 210"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 281B",
+  "title": "Teacher Education Research Practicum",
+  "units": "0",
+  "description": "A year-long practicum for doctoral candidates interested in conducting research on teacher education practice. Students will work with UCSB's teacher education program leaders and faculty to design and implement a study of practice in the teacher education program.",
+  "prerequisites_raw": "ED 210, ED 281A",
+  "prerequisites_courses": [
+   "ED 210",
+   "ED 281A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 281C",
+  "title": "Teacher Education Research Practicum",
+  "units": "0",
+  "description": "A year-long practicum for doctoral candidates interested in conducting research on teacher education practice. Students will work with UCSB's teacher education program leaders and faculty to design and implement a study of practice in the teacher education program.",
+  "prerequisites_raw": "ED 210, ED 281A, ED 281B",
+  "prerequisites_courses": [
+   "ED 210",
+   "ED 281A",
+   "ED 281B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 282",
+  "title": "Research Along the Learning to Teach Continuum: Teacher Education, Induction, and Professional Development",
+  "units": "4",
+  "description": "Examines research on teacher education and professional development. Course explores theories of teacher learning, standards for teacher education, teacher education and professional development models, research on teacher professional communities, and enduring challenges faced by teacher educators.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 283A",
+  "title": "Seminar in Teacher Education and Professional Development",
+  "units": "2",
+  "description": "Designed to provide opportunities for students to explore issues in teacher education and professional development of beginning and/or experienced teachers or other professionals (i.e., counselors, administrators, etc.).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 283B",
+  "title": "Internship in Teacher Education and Professional Development",
+  "units": "2",
+  "description": "Provides students with opportunities to gain practical experience in teacher education and professional development broadly defined.",
+  "prerequisites_raw": "Consent of instuctor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 284",
+  "title": "Teacher Learning and Knowing",
+  "units": "4",
+  "description": "Provides students the opportunity to develop a coherent conceptual framework for their study of teaching. Course considers several ways of understanding the relationship between knowledge and practice, with special attention to learning as the transformation of this relationship. Approaches used to examine current efforts to improve the quality of teaching.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 286A",
+  "title": "Contemporary and Historical Perspectives on Science Education",
+  "units": "4",
+  "description": "Focus on contemporary research issues in science education in relation to historical perspectives of the field. Course readings and agenda are partially set by the interests of the students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 286C",
+  "title": "Learning Theories and Instructional Practices in STEM",
+  "units": "4",
+  "description": "Exploration of contemporary theories of learning and instruction in science education. Students examine and critique research on constructivism, groupwork, inquiry, project-based science, multicultural science education and science-technology-society approaches.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 286D",
+  "title": "Issues of Gender and Ethnicity in Science and Science Education",
+  "units": "4",
+  "description": "Examination of recent scholarship related to issues of gender and ethnicity in science and science education. Readings are drawn not only from the field of science education, but from the history, philosophy and sociology of science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 286ST",
+  "title": "The History, Philosophy and Sociology of Science in Science Education",
+  "units": "4",
+  "description": "Exploration of the nature of science--what science is, how scientific knowledge is constructed, and how science and society interact--as well as ways to teach the nature of science to students. Primarily for pre-service science teachers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 287",
+  "title": "Research in Informal STEM Education",
+  "units": "4",
+  "description": "The goals of this class are to introduce students to issues and research in informal science education (specifically museums), provide opportunities to develop research skills, engage in a research-practice partnership, and produce publishable research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 289",
+  "title": "Professional Development Seminar for M.Ed. Facilitators",
+  "units": "2",
+  "description": "Seminar supports facilitators in their work with M.Ed. candidates. Course examines ways to guide candidates in writing theoretical frameworks, collecting and analyzing their data, and providing feedback to one another. Readings include research literature and samples of candidates' work.",
+  "prerequisites_raw": "Consent of instructor; students must be serving as an M.Ed. Facilitator for the Teacher Education Program while enrolled in this seminar.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 291",
+  "title": "Behavior Analysis",
+  "units": "2",
+  "description": "Study of professional issues and development of projects in the areas of clinical work with children and families, experimental analyses of severe behavior problems, preparation of articles for publication, organization of national conventions and grant writing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 292A",
+  "title": "Mathematics Development in Early Years",
+  "units": "4",
+  "description": "Explores how pre-school and early elementary school children acquire early logical and mathematical understanding. The acquisition of: counting, cardinal, and ordinal understanding, mathematical operations, and the representations of mathematical ideas by children will be addressed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 292B",
+  "title": "Mathematics Development in Middle Years",
+  "units": "4",
+  "description": "This course looks at how elementary school children learn mathematics in specific topical areas such as word problems and rational numbers. Implications for instruction will be discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ED",
+  "code": "ED 292C",
+  "title": "Mathematics Development in Adolescents",
+  "units": "4",
+  "description": "This course examines mathematical problem solving at the secondary and college level. Different approaches to problem solving will be discussed interms of the relevant theories, mathematics curricula and instructional delivery.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,303 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 156R",
+  "title": "Undergraduate Research Seminar in Mexican History",
+  "units": "4",
+  "description": "Undergraduate research seminar on topics in Mexican social and economic history. Topics addressed: defining a research problem, identifying an original topic, conducting research, citing sources, and presenting results. Intensive writing required. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 8 or 156A or 156B or 156Q or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 156A",
+   "HIST 156B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 157A",
+  "title": "History of Brazil",
+  "units": "4",
+  "description": "A general survey of the history of Brazil in two quarters from the discovery of the new world to the formation of the empire. (Offered every other year; alternates with History 155A.)",
+  "prerequisites_raw": "Any lower-division course in History or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 157B",
+  "title": "History of Brazil",
+  "units": "4",
+  "description": "A general survey of the history of Brazil in two quarters. Modern Brazil. (Offered every other year; alternates with History 155B.)",
+  "prerequisites_raw": "Any lower-division course in History or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 158A",
+  "title": "Racism, Political Economy, and Public Policy in Modern U.S. History",
+  "units": "4",
+  "description": "How has modern U.S. public policy been shaped by issues of racism and inequality? This course investigates the histories of public policies around housing, access to meaningful education, labor markets, imprisonment, environmental justice, and more. Through studying such public policies since the mid-20th Century, students analyze how these policies have shaped inequities of race, class, and gender. We also investigate how historical analyses of these policies have provoked debates around reparative justice, and what this history means for the future of public policy and transformation of political economic systems.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 159B",
+  "title": "Women in American History",
+  "units": "4",
+  "description": "Social history of women in America from 1800 to 1900. Changing marriage, reproduction and work patterns, and cultural values about the female role. Attention to racial, class and ethnic differences. Analysis of feminist thought and the several women's movements.",
+  "prerequisites_raw": "Any two quarters of History 17A-B-C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 159C",
+  "title": "Women in Twentieth Century American History",
+  "units": "4",
+  "description": "A continuation of History 159A. From 1900 to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 159Q",
+  "title": "Special Studies in Women's History",
+  "units": "4",
+  "description": "The study of special topics in the history of women in the United States.",
+  "prerequisites_raw": "History 159A or 159B.",
+  "prerequisites_courses": [
+   "HIST 159B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 159R",
+  "title": "Undergraduate Research Seminar in Women's History",
+  "units": "4",
+  "description": "Research seminar on the history of women in America. Topics addressed: defining a research problem, identifying an original topic, conducting research, citing sources, and presenting results. Intensive writing required. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History or Feminist Studies 159B or 159C or History 159Q or upper division standing.",
+  "prerequisites_courses": [
+   "FEMST 159B",
+   "HIST 159Q",
+   "FEMST 159C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 160A",
+  "title": "The American South to 1865",
+  "units": "4",
+  "description": "The origins and development of distinctive economic, social, political, and cultural patterns in the ante-bellum South.",
+  "prerequisites_raw": "History 17A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 160C",
+  "title": "The Southern Civil Rights Movement, 1930 to the Present",
+  "units": "4",
+  "description": "Jim Crow segregation in the 1930s, growing Black contention toward equality, 1954 supreme court declaration against Jim Crow, White massive resistance, Black mass protest, showdown in the 1960s, ironic aftermath and political realignment, the long death of Jim Crow.",
+  "prerequisites_raw": "Upper Division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 161A",
+  "title": "Colonial and Revolutionary America",
+  "units": "4",
+  "description": "A social and political history of colonial and revolutionary America with emphasis on the interaction of Native Americans, Europeans, and African Americans. The course will combine lectures with discussion of both primaryand secondary sources. From initial settlement to the mid-eighteenth century.",
+  "prerequisites_raw": "History 17A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 161B",
+  "title": "Colonial and Revolutionary America",
+  "units": "4",
+  "description": "A social and political history of colonial and revolutionary America with emphasis on the interaction of Native Americans, Europeans, and African Americans. The course will combine lectures with discussion of both primaryand secondary sources. From mid-eighteenth century to 1800.",
+  "prerequisites_raw": "History 17A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 161NE",
+  "title": "The Cultural History of New England: 1450-1850",
+  "units": "4",
+  "description": "The study of New England region in US history. Using materials from different disciplines and methodologies, students will analyze this distinctive regional culture from 1450-1850. Intercultural interaction, the experience of ethnic minorities, and social structures will be investigated.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 161R",
+  "title": "Undergraduate Research Seminar in Early American History",
+  "units": "4",
+  "description": "Students will conduct historical research in early American history in a seminar context. An original and substantial research paper is required.",
+  "prerequisites_raw": "HIST 17A or HIST 161A or instructor's permission.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 161A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 162B",
+  "title": "Antislavery Movements in the United States",
+  "units": "4",
+  "description": "Analyzes antislavery movements in U.S. from the Revolution to the present, with special focus on the enslaved, Black abolitionists, and transatlantic reformers.",
+  "prerequisites_raw": "Upper-Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 162R",
+  "title": "Research in U.S. Antislavery",
+  "units": "4",
+  "description": "Research seminar in the history of U.S. antislavery movements from the Revolution to the present. Explores political, social, and cultural approaches.",
+  "prerequisites_raw": "Upper-Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 163A",
+  "title": "Women and Public Policy in Twentieth Century America",
+  "units": "4",
+  "description": "How gender-based cultural attitudes and social roles, collective action, and economic and social change interacted to shape law and public policy with respect to work, family, legal and reproductive rights. From 1900 through approximately 1945.",
+  "prerequisites_raw": "History 159A or 159B or 159C or a prior course in Women's Studies.",
+  "prerequisites_courses": [
+   "HIST 159B",
+   "HIST 159C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 163B",
+  "title": "Women and Public Policy in Twentieth Century America",
+  "units": "4",
+  "description": "How gender-based cultural attitudes and social roles, collective action, and economic and social change interacted to shape law and public policy with respect to work, family, legal and reproductive rights. From World WarII to the present.",
+  "prerequisites_raw": "History 159A or 159B or 159C or a prior course in Women's Studies.",
+  "prerequisites_courses": [
+   "HIST 159B",
+   "HIST 159C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 164C",
+  "title": "Civil War and Reconstruction",
+  "units": "4",
+  "description": "A history of the United States during the second half of the nineteenth century. Emphasis is placed on the causes of the Civil War, the outstandingdevelopments of the war itself, and the major consequences of the reconstruction period.",
+  "prerequisites_raw": "History 17B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 164IA",
+  "title": "American Immigration",
+  "units": "4",
+  "description": "U.S. immigration history from the eighteenth century to the twentieth. Examines the forces that brought people from various parts of the globe to the U.S., their experiences in migrating and in subsequent generations, and enduring racial and ethnic hierarchies.",
+  "prerequisites_raw": "History 17A or 17B or 17C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 164IB",
+  "title": "American Immigration",
+  "units": "4",
+  "description": "U.S. immigration history from the eighteenth totwentieth century. Examines forces that brought people from various parts of the globe to the U.S., their experiences in migrating and in subsequent generations, and enduring racial and ethnic hierarchies.",
+  "prerequisites_raw": "History 17A or 17B or 17C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 164IR",
+  "title": "Undergraduate Research Seminar in American Immigration History",
+  "units": "4",
+  "description": "Research seminar on American immigration history in the nineteenth and twentieth centuries and the evolution of American immigration. Topics addressed: defining a research problem, identifying an original topic, conducting research, citing sources, and presenting results. Intensive writing required. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 164IA or 164IB or 168C or 168D or 168E or an upper-division course in Asian American Studies, Chicano/a Studies, or Black Studies.",
+  "prerequisites_courses": [
+   "HIST 164IA",
+   "HIST 164IB",
+   "HIST 168C",
+   "HIST 168D",
+   "HIST 168E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 164MR",
+  "title": "Undergraduate Research Seminar in the History of America's Racial Minorities",
+  "units": "4",
+  "description": "Introduction to recent trends on race and ethnicity in U.S. history focusing on methodology and historiography. Examination and evaluation of research strategies and theoretical frameworks of selected historical literature on America's racial minorities and how these processes interface with other historical processes. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 17A or 17B or 17C or 164IA or 164IB or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C",
+   "HIST 164IA",
+   "HIST 164IB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 164Q",
+  "title": "Nationalism and Politics in Civil War America",
+  "units": "4",
+  "description": "Analysis of the development of competing visions of nationalism from the standpoint of both North and South. Particular attention paid to primary sources produced by political leaders, ordinary soldiers, women, African Americans and other slaves.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 164R",
+  "title": "Undergraduate Research Seminar in the Civil War and Reconstruction",
+  "units": "4",
+  "description": "Research seminar on events leading up to the outbreak of the Civil War. Topics addressed: defining a research problem, identifying an original topic, conducting research, citing sources, and presenting results. Intensive writing required. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper",
+  "prerequisites_raw": "History 17B or 164C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 17B",
+   "HIST 164C"
+  ]
+ }
+]

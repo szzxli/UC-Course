@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 118LP",
+  "title": "Lift Off",
+  "units": "4",
+  "description": "Lift Off is an interdepartmental collaboration with the Department of Theater & Dance. Senior BFA acting students work together with Film & Media Studies production teams to create actor reels, short Series and behind-the-scenes documentaries.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 119",
+  "title": "Film Festivals",
+  "units": "4",
+  "description": "Course to be held during a film festival, students attend screenings, lectures, and Q&A sessions. Writing assignments include: reviews, journals, and expository prose. Preparatory and debriefing meetings and discussion sessions are also part of the course requirements.",
+  "prerequisites_raw": "Film Studies 46, or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 119ML",
+  "title": "Film Programming: Magic Lantern",
+  "units": "4",
+  "description": "Students learn the ins and outs of organizing and executing a film series, using the IV Theater as a lab. They gain hands-on experience programming, contacting and working with distributors and filmmakers, fundraising, advertising, engaging in audience outreach, theater managing, exhibiting, researching, and reviewing.",
+  "prerequisites_raw": "Film and Media Studies 46, or upper-division standing or consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 120",
+  "title": "Japanese Cinema",
+  "units": "4",
+  "description": "An introductory scrutiny of major Japanese directors: Mizoguchi, Ozu, Oshima, and Kurosawa. Close attention to their film compositition, choices of subject and character, their ideas of the cinematic, and the relationship of cinema to Japanese culture and society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 121",
+  "title": "Chinese Cinema",
+  "units": "4",
+  "description": "An introduction to major Chinese directors from the People's Republic of China, the Republic of China (Taiwan), and Hong Kong. Film composition, choices of subject and character, ideas of the cinematic, and relationship of cinema to Chinese culture and society.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122",
+  "title": "Topics in National and Transnational Media",
+  "units": "4",
+  "description": "This course examines film, television, and/or other audio-visual media history in specific national and transnational contexts. Course topics may include: the concepts of nation and national traditions; major periods, genres, themes, and styles; media institutions, state policies, and global infrastructures; and the cultural and political contexts within which audio-visual works are produced and circulate.",
+  "prerequisites_raw": "Film and Media Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AA",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AC",
+  "title": "Contemporary Arab Cinema",
+  "units": "4",
+  "description": "Explores new directions in contemporary cinema that navigate Arab identities and experiences. Storytelling perspectives, film aesthetics, and conditions of production, distribution, and exhibition are examined.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AD",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AE",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AG",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AR",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AU",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122AZ",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122CA",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122CN",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "film studies 46 or consent of instructor or upper-division standing. may be",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122CU",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122EA",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122EC",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122EU",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "film studies 46 or consent of instructor or upper-division standing. may be",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122FF",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122FI",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122FL",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "film studies 46 or consent of instructor or upper-division standing. may be",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122FR",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "film studies 46 or consent of instructor or upper-division standing. may be",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122HE",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122HK",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 122HU",
+  "title": "Topics in National Cinema",
+  "units": "4",
+  "description": "This course will examine selected national cinemas (e.g., French, Italian, German, Chinese, Spanish, Japanese) in terms of major periods, themes, and formal parameters, and relation to both national and international culturalhistories.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ }
+]

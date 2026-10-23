@@ -1,0 +1,240 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 593",
+  "title": "Colloquium",
+  "units": "0",
+  "description": "A series of discussions involving panels, debates, special speakers, etc. at which the presence of all enrolled graduate students and selected faculty is required.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 596",
+  "title": "Directed Reading And Research",
+  "units": "0",
+  "description": "Individual tutorial. Plan of study must be approved by department chair or MAGIS director.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 596A",
+  "title": "Directed Thesis Advising",
+  "units": "4",
+  "description": "Individual thesis research. A written proposal for thesis research and tutorial must be approved by the graduate student's M.A. committee chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 596B",
+  "title": "Directed Thesis Advising",
+  "units": "4",
+  "description": "Individual thesis research. A written proposal for thesis research and tutorial must be approved by the graduate student's M.A. committee chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 597",
+  "title": "Independent Study for M.A. and Ph.D. Examinations",
+  "units": "0",
+  "description": "Individual study for M.A. or Ph.D. examination. Normally taken with the student's committee chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Master's thesis research and preparation.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBL",
+  "code": "GLOBL 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Ph.D. dissertation research and preparation. Normally taken with the student's committee chair.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GLOBLW",
+  "code": "GLOBLW 13",
+  "title": "Global Climate Justice from the South",
+  "units": "5",
+  "description": "This online course examines the science, policy, and politics of global climate change with an emphasis on the Global South, and a social science focus on equity and justice. Students will learn directly from expert faculty from across the UC system and beyond. In addition, students will engage with readings and multimedia content to deepen their understanding of the most pressing climate change issues and solutions. Students will be evaluated through a variety of written products (review questions, journal responses, and a final paper) in which they identify connections across seemingly disparate places. Students will gain knowledge and skills needed to identify the larger system changes needed to adequately address the climate crisis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GPS",
+  "code": "GPS 136",
+  "title": "Theories of Peace, Conflict and Violence",
+  "units": "4",
+  "description": "Fundamental issues relating to global peace and security: Focus on \"negative peace\"--the problem of war and organized violence; peace as the avoidance of war.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GPS",
+  "code": "GPS 137",
+  "title": "World Society in Transformation: Building Enduring Peace",
+  "units": "4",
+  "description": "Fundamental exploration of issues relating to global peace and security with a focus on \"positive peace\"--peace as human rights, sustainable development, ecological balance, political participation and other positive aspects of human security.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GPS",
+  "code": "GPS 140",
+  "title": "Theory and Practice of Nonviolence",
+  "units": "4",
+  "description": "Critical examination of nonviolence as a philosophy of life and as a pragmatic approach to conflict resolution. Philosophical, psychological, cultural, and political aspects. Major theorists of nonviolence including Gandhi, King, Dharp. Application to confict at all levels: interpersonal, intergroup, and international. Case studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GPS",
+  "code": "GPS 194",
+  "title": "Group Studies for Global Peace and Security",
+  "units": "4",
+  "description": "Intensive analysis of topics and themes in global peace and security. Topics will vary with instructor and year.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GPS",
+  "code": "GPS 196",
+  "title": "Global Peace and Security Seminar",
+  "units": "4",
+  "description": "Intensive analysis of methods and problems of global peace and security. Topics will vary with the instructor and quarter.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 200",
+  "title": "Pillars of Teaching Assistantship",
+  "units": "2",
+  "description": "“Pillars of Teaching Assistantship” course provides Teaching Assistants (TAs) with a comprehensive, research-based foundation for their teaching roles. The course includes an introductory session on common TA challenges, six interactive classes based on the four Pillars of Teaching Assistantship, and two community-focused classes on navigating challenges and setting boundaries. Additionally, a concluding session will recap the course content and prepare TAs for their future pedagogical careers at UCSB and beyond.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 210",
+  "title": "College and University Teaching-From Theory to Practice",
+  "units": "0",
+  "description": "Graduate students who are interested in a career in college and university teaching will gain experience in applying pedagogical theories and evidence-based teaching into course design, implementation, assessment and evaluation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 280",
+  "title": "Introduction to Graduate Writing Expectations",
+  "units": "4",
+  "description": "Graduate students who would like to develop their writing skills will have the opportunity to practice drafting and revising a variety of advanced writing assignments common to the graduate experience. Students will first study the rhetorical features associated with various advanced graduate writing genres before producing disciplinary-specific versions of these texts.",
+  "prerequisites_raw": "Graduate students must have completed no more than one year of course work to enroll. Should students attempt to enroll in any section of this course other than GRAD/WRIT 280AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": [
+   "WRIT 280AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 280AA",
+  "title": "Introduction to Graduate Writing Expectations",
+  "units": "4",
+  "description": "Graduate students who would like to develop their writing skills will have the opportunity to practice drafting and revising a variety of advanced writing assignments common to the graduate experience. Students will first study the rhetorical features associated with various advanced graduate writing genres before producing disciplinary-specific versions of these texts.",
+  "prerequisites_raw": "Graduate students must have completed no more than one year of course work to enroll. Should students attempt to enroll in any section of this course other than GRAD/WRIT 280AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": [
+   "WRIT 280AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 281",
+  "title": "Introduction to Article Writing",
+  "units": "4",
+  "description": "Graduate students interested in learning the underlying conventions related to professional academic writing through article writing will have the opportunity to draft and revise a disciplinary-relevant article. Students will first study the rhetorical features associated with articles, by discipline, in order to learn the conventions pertinent to article writing in students chosen fields. Then, students will produce a discipline- and journal-specific draft of an article.",
+  "prerequisites_raw": "Graduate students must have completed the relevant research/scholarship to produce an article. Students who are still in the middle of their research projects will not be admitted. Should students attempt to enroll in any section of this course other than GRAD/WRIT 281AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": [
+   "WRIT 281AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 281AA",
+  "title": "Introduction to Article Writing",
+  "units": "4",
+  "description": "Graduate students interested in learning the underlying conventions related to professional academic writing through article writing will have the opportunity to draft and revise a disciplinary-relevant article. Students will first study the rhetorical features associated with articles, by discipline, in order to learn the conventions pertinent to article writing in students chosen fields. Then, students will produce a discipline- and journal-specific draft of an article.",
+  "prerequisites_raw": "Graduate students must have completed the relevant research/scholarship to produce an article. Students who are still in the middle of their research projects will not be admitted. Should students attempt to enroll in any section of this course other than GRAD/WRIT 281AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": [
+   "WRIT 281AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 282",
+  "title": "Thesis and Dissertation Structured Writing Communities",
+  "units": "4",
+  "description": "Graduate students who have produced at least one chapter of their thesis or dissertation and who must still complete at least one more chapter will be provided with writing instruction, individual feedback, and writing time to complete their thesis/dissertation. Only advanced graduate writing will be drafted and considered in this course.",
+  "prerequisites_raw": "Students must have completed at least one chapter of a thesis/dissertation and still need to complete at least one more chapter. Letter of approval stating that the student meets the aforementioned conditions and is a good candidate for this course must be submitting by the student�s thesis/dissertation chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 282AA",
+  "title": "Thesis and Dissertation Structured Writing Communities",
+  "units": "4",
+  "description": "Graduate students who have produced at least one chapter of their thesis or dissertation and who must still complete at least one more chapter will be provided with writing instruction, individual feedback, and writing time to complete their thesis/dissertation. Only advanced graduate writing will be drafted and considered in this course.",
+  "prerequisites_raw": "Graduate students must have completed at least one chapter of a thesis/dissertation and still need to complete at least one more chapter. Letter of approval stating that the student meets the aforementioned conditions and is a good candidate for this course must be submitting by the student's thesis/dissertation chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 283",
+  "title": "Preparing for the Academic Job Market",
+  "units": "4",
+  "description": "Graduate students will have the job market process demystified while preparing a dossier of requested materials. Students will first study the rhetorical features associated with the major documents required for these positions and then produce discipline-specific drafts (with feedback provided).",
+  "prerequisites_raw": "Students have to be, at the earliest, one year away from applying to the job market.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GRAD",
+  "code": "GRAD 283AA",
+  "title": "Preparing for the Academic Job Market",
+  "units": "4",
+  "description": "Graduate students will have the job market process demystified while preparing a dossier of requested materials. Students will first study the rhetorical features associated with the major documents required for these positions and then produce discipline-specific drafts (with feedback provided).",
+  "prerequisites_raw": "Students have to be, at the earliest, one year away from applying to the job market.",
+  "prerequisites_courses": []
+ }
+]

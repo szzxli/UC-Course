@@ -1,0 +1,313 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 236",
+  "title": "Nonlinear Control Systems",
+  "units": "4",
+  "description": "Analysis and design of nonlinear control systems. Focus on Lyapunov stability theory, with sufficient time devoted to contrasts between linear and nonlinear systems, input-output stability and the describing function method.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 237",
+  "title": "Nonlinear Control Design",
+  "units": "4",
+  "description": "Stability by linearization and by geometric methods. State feedback design and input/output linearization. Observability and output feedback design. Singular perturbations and composite control. Backstepping design of robustcontrollers for systems with uncertain nonlinearities. Adaptive nonlinear control.",
+  "prerequisites_raw": "ECE 236 or ME 236.",
+  "prerequisites_courses": [
+   "ECE 236",
+   "ME 236"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 238",
+  "title": "Advanced Control Design Laboratory",
+  "units": "4",
+  "description": "A laboratory course requiring students to design and implement advanced control systems on a physical experiment. Experiments from any engineering or scientific discipline are chosen by the student.",
+  "prerequisites_raw": "ME 243A/ECE 230A and at least one class among the following: ME 243B/ECE 230B, ME 236/ECE 236, ME 256/ECE 232, or ME 254/ECE 271C.",
+  "prerequisites_courses": [
+   "ME 243A",
+   "ECE 230A",
+   "ME 243B",
+   "ECE 230B",
+   "ME 236",
+   "ECE 236",
+   "ME 256",
+   "ECE 232",
+   "ME 254",
+   "ECE 271C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 240",
+  "title": "Optimal Estimation and Filtering",
+  "units": "4",
+  "description": "Optimal estimation concepts and theory (minimum variance, least squares, and maximum likelihood estimation), optimal recursive algorithms for discrete- and continuous-time filtering of noisy signals and data. Wiener and Kalman filters, stability of recursive optimal filtering algorithms, modeling errors in recursive filters.",
+  "prerequisites_raw": "ECE 139 or equivalent.",
+  "prerequisites_courses": [
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 241",
+  "title": "Multimedia Compression",
+  "units": "4",
+  "description": "Covers the principle standards of speech, audio, still image and video compression with emphasis on system performance, key underlying algorithms and technologies, current applications and the projected future evolution of the standards.",
+  "prerequisites_raw": "ECE 139 or equivalent.",
+  "prerequisites_courses": [
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 242",
+  "title": "Digital Signal Compression",
+  "units": "4",
+  "description": "Principles and techniques of signal compression systems. Basic quantizationtheory, linear prediction, predictive coding, transform and subband coding, entropy coding, and vector quantization. Techniques and algorithms for efficient trade-offs between fidelity, bit-rate, and complexity. applications to speech, audio, image and video.",
+  "prerequisites_raw": "ECE 139 or 235.",
+  "prerequisites_courses": [
+   "ECE 139",
+   "ECE 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 243A",
+  "title": "Digital Communication Fundamentals",
+  "units": "5",
+  "description": "Signal and channel models, with emphasis on wireless systems; digital modulation; demodulation basics; statistical modeling of noise, including review of probability theory and random variables.",
+  "prerequisites_raw": "Signals and Systems (ECE 130A-B or equivalent); Probability (ECE 139 or equivalent).",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 243B",
+  "title": "Advanced Digital Communication Theory",
+  "units": "4",
+  "description": "Bandlimited channels and optimum receiver for ISI channels; linear, decision-feedback, blind, and adaptive equalization; multichannel and multicarrier systems; spread-spectrum signals; direct sequence and frequency hopped; fading multipath channels and diversity techniques; multiuser communications.",
+  "prerequisites_raw": "ECE 243A.",
+  "prerequisites_courses": [
+   "ECE 243A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 244",
+  "title": "Topics in Signal Compression",
+  "units": "4",
+  "description": "Theory and applications of low rate signal coding. Topics may include asymptomatic quantization and distortion-rate theory, adaptive, finite-state, and constrained vector quantization. Multichannel prediction, tree/trellis coding, variable-rate methods, and applications from audio and visual signal compression.",
+  "prerequisites_raw": "ECC 242.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 245",
+  "title": "Adaptive Algorithms for Data Analysis and Modeling",
+  "units": "4",
+  "description": "Theory and analysis of adaptive filters. Optimal filtering, linear prediction, method of least squares. Steepest-descent and newton search methods, gradient estimation, LMS adaptive algorithm, recursive least squares. Gradient and least squares lattice algorithms for joint-process estimation. Convergence analysis, stability conditions, time constants, misadjustment.",
+  "prerequisites_raw": "ECE 139 or equivalent.",
+  "prerequisites_courses": [
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 247",
+  "title": "Systems Identification",
+  "units": "4",
+  "description": "On-line identification of continuous- and discrete-time systems. Linear parameterizations. Continuous gradient and least squares algroithms. Stability, persistent excitation and parameter convergence. Robust algorithms for imperfect models. averaging. Discrete-time equation-error identifiers. Output-error methods.",
+  "prerequisites_raw": "ECE 230A.",
+  "prerequisites_courses": [
+   "ECE 230A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 248",
+  "title": "Kalman and Adaptive Filtering",
+  "units": "4",
+  "description": "Least-squares estimation for processes with state-space models, Wiener filters and spectral factorization. Kalman filters, smoothing and square-root algorithms. Steady-state filters. Extended Kalman filters for non-linear models. Fixed-order and order-recursive adaptive filters.",
+  "prerequisites_raw": "ECE 210A, 230A, and 235 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "ECE 210A",
+   "ECE 230A",
+   "ECE 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 249",
+  "title": "Adaptive Control Systems",
+  "units": "4",
+  "description": "Models of plants with unknown parameters. Boundedness properties of parameter update laws. Adaptive linear control. Stability and robustness tomodeling errors and disturbances. Backstepping state-feedback design of direct adaptive nonlinear control. Output feedback design. Nonlinear swapping. Indirect adaptive nonlinear control.",
+  "prerequisites_raw": "ECE 236 and 247.",
+  "prerequisites_courses": [
+   "ECE 236",
+   "ECE 247"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 250",
+  "title": "Wireless Communication and Networking",
+  "units": "4",
+  "description": "Overview of wireless networks, characteristics of wireless medium, physical layer operation (spread spectrum, UWB, OFDM, adaptive modulation, MIMO channel), cellular planning, mobility management, energy-efficient networking, GSM, CDMA, wireless LANs, ad hoc networks, wireless geolocation systems.",
+  "prerequisites_raw": "ECE 146A or equivalent.",
+  "prerequisites_courses": [
+   "ECE 146A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 251",
+  "title": "MOBILE EMBEDDED SYSTEMS",
+  "units": "4",
+  "description": "Architectures of modern smartphones and their key hardware components including mobile application processors, communications chips, display, touchscreen, graphics, camera, battery, GPS,and various sensors; the OS and software development platform of smartphones; smartphone applications; low power design techniques.",
+  "prerequisites_raw": "Proficiency in JAVA programming, and a C- in ECE 152A.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 252A",
+  "title": "Sequential Machines and Automata Theory",
+  "units": "4",
+  "description": "Structure of sequential machines, covers, partitions, decomposition, and synthesis of multiple machines. State identification and fault detection experiments. Petri nets. Stochastic systems. Memory characteristics of finite automata. Linear sequential machines. Finite automata and regular languages. Retiming.",
+  "prerequisites_raw": "ECE 152A.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 252B",
+  "title": "Computer Arithmetic",
+  "units": "4",
+  "description": "Standard and unconventional number representations. Design of fast two-operand and multi-operand adders. High-speed mulitplication and division algorithms. Floating-point numbers, algorithms, and errors. Hardware algorithms for function evaluation. Pipelined, digit-serial, and fault-tolerant arithmetic processors.",
+  "prerequisites_raw": "ECE 152A-B.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 252C",
+  "title": "Advanced Topics in Digital System Design",
+  "units": "4",
+  "description": "Pipelining: design issues, performance, tradeoffs. Bit-serial, digit-serial, and on-line arithmetic. VLSI array processors: systolic/wavefront arrays. Reconfigurable and robust digital systems. Microporgramming: techniques, optimization. control-driven versus data-driven design styles. Example dedicated digital systems.",
+  "prerequisites_raw": "ECE 152A-B.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 253",
+  "title": "Embedded System Design",
+  "units": "4",
+  "description": "Design and application of embedded computing systems, particular attention paid to computation system design in highly constrained environments. System synthesis and modeling techniques including partitioning, scheduling, control and data flow analysis and functional representation. Embedded project design.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 254A",
+  "title": "Advanced Computer Architecture: Processor Design",
+  "units": "4",
+  "description": "Design and application aspects of high-performance uniprocessors and shared memory multiprocessors. Memory design issues: cache memories, address translation, shared memory buses and switches, transactional memory. Processor design issues: instruction sets, pipelining, vector processing, superscalar instruction dispatch, speculative execution, multicore processors.",
+  "prerequisites_raw": "ECE 154.",
+  "prerequisites_courses": [
+   "ECE 154"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 254B",
+  "title": "Advanced Computer Architecture: Parallel Processing",
+  "units": "4",
+  "description": "The nature of concurrent computations. Idealized models of parallel systems. Practical realization of concurrency. Interconnection networks. Building-block parallel algorithms. Algorithm design, optimality, and efficiency. Mapping and scheduling of computations. Example mulitprocessors and multicomputers.",
+  "prerequisites_raw": "ECE 254A or ECE 154B.",
+  "prerequisites_courses": [
+   "ECE 254A",
+   "ECE 154B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 254C",
+  "title": "Advanced Computer Architecture: Distributed Systems",
+  "units": "4",
+  "description": "Multicomputers and distributed architectures. Message-based asynchronous computations. Distributed algorithms and their performance. Hardware issues: nodes, links, and communication mechanisms. Control issues: synchronization, global state determination, distributed consensus, fault tolerance. Software issues: operating systems and languages.",
+  "prerequisites_raw": "ECE 254A.",
+  "prerequisites_courses": [
+   "ECE 254A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 254D",
+  "title": "ADVANCED COMPUTER ARCHITECTURE: MEMORY-CENTRIC COMPUTING",
+  "units": "4",
+  "description": "Design and application aspects of advanced computer architecture with emerging technologies, with a focus on memory-centric computing architecture design with three-dimensional (3D) integration and emerging memory technologies, for emerging applications such as hardware accelerator for machine learning and neuromorphic computing.",
+  "prerequisites_raw": "ECE 154A & ECE 154B",
+  "prerequisites_courses": [
+   "ECE 154A",
+   "ECE 154B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 255A",
+  "title": "VLSI Testing Techniques",
+  "units": "4",
+  "description": "Concepts, algorithms and design techniques for VLSI testing. Fault modeling, fault simulation, automatic test generation, design for testability, built-in self test, testability analysis, delay testing and synthesis for testability.",
+  "prerequisites_raw": "ECE 152A; knowledge of C language, data structures, and algorithms.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 255B",
+  "title": "VLSI Design Validation",
+  "units": "4",
+  "description": "Theories and concepts in verification. Verification tools and methodologies. Functional verification, equivalence checking, symbolic simulation, error modeling, verification coverage, silicon debug, on-chip validation, test and verification.",
+  "prerequisites_raw": "ECE 255A, knowledge of C language, data structures, and algorithms; and consent of instructor.",
+  "prerequisites_courses": [
+   "ECE 255A"
+  ]
+ }
+]

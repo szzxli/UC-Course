@@ -1,0 +1,276 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 256A",
+  "title": "Introduction to Design Automation",
+  "units": "4",
+  "description": "Overview of physical level design automation. Partitioning, placement, routing and structured design of VLSI and pc-board structures. Techniques will include graph theoretic algorithms, integer linear programming, force-directed and simulated annealing neuristics.",
+  "prerequisites_raw": "Knowledge of C programming language.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 256B",
+  "title": "Logic Design Automation",
+  "units": "4",
+  "description": "CAD algorithms for VSLI logic and module level design. Special attention paid to timing, area, and power tradeoffs. Cell design systems and associated lab with state of the art VLSI design tools.",
+  "prerequisites_raw": "ECE 256A.",
+  "prerequisites_courses": [
+   "ECE 256A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 256C",
+  "title": "Advanced VLSI Architecture and Design",
+  "units": "4",
+  "description": "Large scale VLSI design with attention to performance constraints in real-world designs. Topics include: circuit modeling, communication parasitics, architecture optimization, and packaging. Large scale project will be fabricated using silicon compilation tools.",
+  "prerequisites_raw": "ECE 124A or equivalent or ECE 256A or 256B",
+  "prerequisites_courses": [
+   "ECE 124A",
+   "ECE 256A",
+   "ECE 256B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 256D",
+  "title": "Algorithmic Logic Synthesis",
+  "units": "4",
+  "description": "Algorithmic extension of logic synthesis and techniques. Topics covered include: two and multilevel minimization, technology mapping, logic partitioning, timing optimization, ATPG techniques in logic synthesis, incremental network restructuring, functional decomposition, BDD representation of logic functions, and SAT techniques.",
+  "prerequisites_raw": "ECE 15A or equivalent undergraduate logic design course.",
+  "prerequisites_courses": [
+   "ECE 15A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 257A",
+  "title": "Fault Tolerant Computing",
+  "units": "4",
+  "description": "Basic concepts of dependable computing. Reliability of nonredundant and redundant systems. Dealing with circuit-level defects. Logic-level fault testing and tolerance. Error detection and correction. Diagnosis and reconfiguration for system-level malfunctions. Degradation management. Failure modeling and risk assessment.",
+  "prerequisites_raw": "ECE 152A-B.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 258",
+  "title": "Multirate Digital Signal Processing",
+  "units": "4",
+  "description": "Multirate digital signal processing techniques for the analysis, synthesis, and representation of signals, including decimators and interpolators, polyphase decompositions, subband decompositions, analysis and synthesis filter banks, quadrature mirror filter banks, relationship to orthogonal transforms, and wavelet transforms.",
+  "prerequisites_raw": "ECE 158.",
+  "prerequisites_courses": [
+   "ECE 158"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 259A",
+  "title": "Digital Speech Processing",
+  "units": "4",
+  "description": "Speech sounds, acoustic phonetics, speech production and perception. Digital filter modeling of the vocal tract as a lossless tube. Short-time characteristics of speech in the time and frequency domains. Waveform and linear predictive coding of speech. Speech synthesis and recognition.",
+  "prerequisites_raw": "ECE 158 or 242.",
+  "prerequisites_courses": [
+   "ECE 158",
+   "ECE 242"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 259B",
+  "title": "Fundamentals of Speech Recognition",
+  "units": "4",
+  "description": "Course covers the fundamental design principles of automatic speech recognition systems, including speech detection, time alignment and normalization (including dynamic time warping methods), distortion measures, the Hidden Markov Model (HMM), grammar networks and the use of Finite State Network representations. (offered alternate years)",
+  "prerequisites_raw": "ECE 158.",
+  "prerequisites_courses": [
+   "ECE 158"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 260A",
+  "title": "Principles of Quantum Electronics",
+  "units": "4",
+  "description": "Energy levels in atoms, ions, and molecules. Interaction between radiation and quantized systems. Stimulated emission devices. Optical resonators. Lasers.",
+  "prerequisites_raw": "ECE 144 or 162C.",
+  "prerequisites_courses": [
+   "ECE 144",
+   "ECE 162C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 260B",
+  "title": "Nonlinear and Quantum Optics",
+  "units": "4",
+  "description": "Nonlinear susceptibilities; generation of electromagnetic radiation; harmonic generation and parametric amplification. Quantization of the radiation field; quantum noise and squeezed states of light; quantum measurements.",
+  "prerequisites_raw": "ECE 260A and 211A.",
+  "prerequisites_courses": [
+   "ECE 260A",
+   "ECE 211A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 261",
+  "title": "INTRODUCTION TO NANOPHOTONICS",
+  "units": "4",
+  "description": "Covers the fundamentals of Nanophotonics. Focuses on reading and evaluating contemporary literature on nanophotonics research. Students work within 3-person groups to read and understand seminal papers in this area. Once a week a group is chosen at random to lead an in-class discussion on the paper(s) assigned for that week. Example topics include surface plasmons, near-field microscopy, Purcell enhancements, photonic crystals, multipole expansions, and metamaterials.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 262",
+  "title": "Physics of Solar Cells",
+  "units": "4",
+  "description": "Covers the fundamentals of Solar Cells, building to an understanding of next-generation Solar Cell concepts. Focuses on reading and evaluating contemporary literature on Solar Cell research. Students work within 3-person groups to read and understand seminal papers in Solar Cell research. Once a week a group is chosen at random to lead an in-class discussion on the paper(s) assigned for that week. Example topics include: perovskite, quantum dot, hot electron, or intermediate band solar cells, multiple exciton generation, thermal photovoltiacs, light trapping, efficiency limits, etc.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 265",
+  "title": "ELECTRONIC AND PHOTONIC INTEGRATION AND PACKAGING",
+  "units": "4",
+  "description": "Focus on the integration of electronics and photonics to realize functional subsystems. High-speed link design and performance verification, characterization of high-speed signals, data encoding, equalization techniques, equivalent circuit models for photonic devices and packages, co-simulation of circuits and photonic devices.",
+  "prerequisites_raw": "Knowledge of photonic (ECE 227A/B) and electronic (ECE 221A) devices and basics of fiber optic links (ECE 228A/B) preferable, but not required.",
+  "prerequisites_courses": [
+   "ECE 227A",
+   "ECE 221A",
+   "ECE 228A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 267",
+  "title": "Confined Electrons and Photons in Semiconductor Structures",
+  "units": "3",
+  "description": "The properties of 1D, 2D and 3D confined electrons in semiconductor are reviewed. Properties of photons in microcavities and photonic crystals are introduced. Applications of photonic crystals to light extraction and modifications of the emitter properties are developed.",
+  "prerequisites_raw": "Materials 162A-B or ECE 162A-B.",
+  "prerequisites_courses": [
+   "MATRL 162A",
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 269",
+  "title": "Network Systems: Dynamics and Control",
+  "units": "4",
+  "description": "Motivating socio/economic networks, power grids, multi-agent robotics. Perron-Frobenius matrix theory and algebraic graph theory. Fundamental dynamics in networks: averaging dynamics in discrete and continuous time; positive and compartmental systems; robotic coordination problems; coupled oscillator systems; virus propagation models; population dynamic models.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 270",
+  "title": "NONCOOPERATIVE GAME THEORY",
+  "units": "4",
+  "description": "Formulation of problems as mathematical games and provides the basic tools to solve them. Covers both static and dynamic games. Intended for graduate students (but is not restricted to) in communications, controls, signal processing, and computer science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 271A",
+  "title": "Principles of Optimization",
+  "units": "4",
+  "description": "Linear programming: simplex and revised simplex method, duality theory, primal-dual algorithms, Karmarkar's algorithm. Network flow problems: max-flow/min-cut theorem, Ford-Fulkerson algorithm, shortest path algorithms. Complexity and NP-completeness theory: the classes of P and NP,reductions between np-complete problems, pseudopolynomial and approximationalgorithms.",
+  "prerequisites_raw": "ECE 210A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "ECE 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 271B",
+  "title": "Numerical Optimization Methods",
+  "units": "4",
+  "description": "Unconstrained nonlinear problems: basic properties of solutions and algorithms, global convergence, convergence rate, and complexity considerations. Constrained nonlinear problems: basic properties of solutions and algorithms. Primal, penalty and barrier, cutting plane and dual methods. Computer implementations.",
+  "prerequisites_raw": "ECE 210A.",
+  "prerequisites_courses": [
+   "ECE 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 271C",
+  "title": "Dynamic Programming and Reinforcement Learning",
+  "units": "4",
+  "description": "This graduate course provides a comprehensive treatment of dynamic programming (DP) as the fundamental framework for staged optimization problems under uncertainty. Core topics include the principle of optimality, Bellman equations, value and policy iteration, deterministic and stochastic dynamic programming, and Markov decision processes. Applications span linear-quadratic optimal control, inventory control, asset management, hypothesis testing, the Viterbi algorithm, among others. The course concludes with modern reinforcement learning topics including Q-learning, temporal difference learning, and value function approximation, demonstrating how classical DP principles form the theoretical foundation for contemporary AI algorithms.",
+  "prerequisites_raw": "ECE 230A or ME 243A or equivalent",
+  "prerequisites_courses": [
+   "ECE 230A",
+   "ME 243A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 272A",
+  "title": "Machine Learning in Design and Test Automation",
+  "units": "4",
+  "description": "A introduction to design and test automation processes and how machine learning can be applied to improve certain steps in those processes. Basic machine learning concepts and practices to apply machine learning in those design and test automation steps are discussed. Graduate students are are expected to be able to explore an assignment and discover a problem and then find a way to improve the outcome, hence developing their research ability.",
+  "prerequisites_raw": "ECE 152A or equivalent.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 272B",
+  "title": "Artificial Intelligence in Design and Test Automation",
+  "units": "4",
+  "description": "An introduction of artificial intelligence applied to improve design and test processes. The various components to build an artificial intelligence system to assist engineering in design and test are discussed. Theoretical foundation related to those components are also discussed. Graduate students are are expected to be able to explore an assignment and discover a problem and then find a way to improve the outcome, hence developing their research ability.",
+  "prerequisites_raw": "ECE 272A.",
+  "prerequisites_courses": [
+   "ECE 272A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 272C",
+  "title": "AI Agents for the Semiconductor Industry",
+  "units": "4",
+  "description": "Cover theories and practices of verification/test for checking hardware correctness and trustworthiness of large language models. A connection between the two is drawn. Students learn the principles of verification and test and how to apply them in both contexts.",
+  "prerequisites_raw": "Recommended: ECE 272A, ECE 272B",
+  "prerequisites_courses": [
+   "ECE 272A",
+   "ECE 272B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 273",
+  "title": "TENSOR COMPUTATION FOR MACHINE LEARNING AND BIG DATA",
+  "units": "4",
+  "description": "Tensors have been increasingly used in data-intensive fields such as artificial intelligence and quantum computing. This course covers the notations, optimization and statistical methods of tensor computation, and their applications in machine learning (mainly deep learning) and quantum computing.",
+  "prerequisites_raw": "Solid background in linear algebra and statitics/probability, basic programing skills.",
+  "prerequisites_courses": []
+ }
+]

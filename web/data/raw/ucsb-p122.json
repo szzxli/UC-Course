@@ -1,0 +1,393 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191FC",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191FR",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191G",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "Econ 10A or 100A or 104A.",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191HH",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191IE",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191JB",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191JS",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191KA",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191KH",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191M",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191MD",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191PF",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191S",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191TT",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191VC",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the departmentoffice regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191WR",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 191WT",
+  "title": "Special Topics in Economics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in economics. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 193",
+  "title": "Internship in Economics",
+  "units": "1",
+  "description": "Course enables students to obtain credit for economics-related internship experience. An eight to ten page written report is required and evaluated for credit.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194AA",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing and admission by special arrangement.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194BB",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing and admission by special arrangement.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194CC",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing and admission by special arrangement.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194CS",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194DC",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing and admission by special arrangement.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194DG",
+  "title": "Dean's Investment Group",
+  "units": "0",
+  "description": "Students participate in the Dean's Investment Group (DIG). DIG members do extensive research to design and manage the Dean's Investment Fund. They have primary responsibility for all investment decisions and have the opportunity to meet regularly with industry experts on the Board of Advisors.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194DM",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194ER",
+  "title": "Special Topics in Economics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194FI",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing and admission by special arrangement.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194FM",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194GS",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194JH",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194JS",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194MA",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194MD",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194MS",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing and admission by special arrangement.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 194S",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Intensive study and research on a topic in economics selected by the student with the guidance and approval of a faculty member.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 196A",
+  "title": "Senior Honors Seminar",
+  "units": "4",
+  "description": "Students undertake independent research project under direction of faculty member. The research results are presented as an honors paper at the end of the second term (196B).",
+  "prerequisites_raw": "3.5 GPA in Economics 10A, 100B, 101, 140A and 140B. Concurrent enrollment in 140B allowed.",
+  "prerequisites_courses": [
+   "ECON 10A",
+   "ECON 100B",
+   "ECON 101",
+   "ECON 140A",
+   "ECON 140B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 196B",
+  "title": "Senior Honors Seminar",
+  "units": "4",
+  "description": "Students undertake independent research project(s) under direction of faculty member. The research results are presented as an honors paper at the end of the second term (196B).",
+  "prerequisites_raw": "Economics 196A and ECON 140B.",
+  "prerequisites_courses": [
+   "ECON 196A",
+   "ECON 140B"
+  ]
+ }
+]

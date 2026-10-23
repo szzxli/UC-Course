@@ -1,0 +1,325 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194O",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced studients who share an interest in a topic not included in the regular departmental curriculum. Topics are coded as follows: o. microprocessors and microprocessor based systems.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194P",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194Q",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194R",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum. Topics are coded as follows: r. general.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194T",
+  "title": "Group Studies in Electrical and Computer Engineering: Robot Control",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194U",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum. Topics are coded as follows: u. optics/optoelectronics.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194V",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194W",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum. Topics are coded as follows: w. computer network.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194Z",
+  "title": "Nanotechnology",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 196",
+  "title": "Undergraduate Research",
+  "units": "0",
+  "description": "Research opportunities for undergraduate students. students will be expected to give regular oral presentations, actively participate in a weekly seminar, and prepare at least one written report on their research.",
+  "prerequisites_raw": "Students must: (1) have attained upper division standing, (2) have a minimu3.0 grade-point average for preceding three quarters, (3) consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 199",
+  "title": "Independent Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Directed individual study, normally experimental.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing; completion of 2 upper-diviscourse in Electrical and Computer Engineering.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 201A",
+  "title": "Electromagnetic Theory I",
+  "units": "4",
+  "description": "Basic concepts in electromagnetic theory, energy power, plane waves, guided waves, dielectric and metallic waveguides, radiation, uniqueness, image theory, reciprocity, duality, equivalence principle, induction theorem.",
+  "prerequisites_raw": "ECE 144.",
+  "prerequisites_courses": [
+   "ECE 144"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 201B",
+  "title": "Electromagnetic Theory II",
+  "units": "4",
+  "description": "Fundamental theorems and techniques for electromagnetic boundary value and radiation problems, Green's function, integrated equations, method of moments, mode matching, perturbational and variational analysis.",
+  "prerequisites_raw": "ECE 201A or equivalent.",
+  "prerequisites_courses": [
+   "ECE 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 201C",
+  "title": "Antennas",
+  "units": "3",
+  "description": "Classical and computer-numerical methods for analysis and design of antennas. Single-element antennas, antenna arrays and analysis of mutual-impedance effects, aperture antennas, and frequency-independent antennas.",
+  "prerequisites_raw": "ECE 144.",
+  "prerequisites_courses": [
+   "ECE 144"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 203",
+  "title": "THz Science, Technology, and Systems",
+  "units": "4",
+  "description": "Interaction of THz radiation with three states of matter; electron device behavior at THz frequencies; quasi-optical methods and Gaussian beams; RF sensor theory and THz transceiver design; photonic methods (ultrafast photoconductive devices, quantum cascade lasers, etc); systems and applications (spectroscopy, radiometry, imaging).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 205",
+  "title": "Information Theory",
+  "units": "4",
+  "description": "Entropy, mutual information, and Shannon's coding theorems; lossless source coding, Huffman, Shannon-Fano-Elias, and arithmetic codes; channel capacity; rate-distortion theory, and lossy source coding; source-channel coding; algorithmic complexity and information; applications of information theory in various fields.",
+  "prerequisites_raw": "ECE 139, or PSTAT 120A-B or equivalent.",
+  "prerequisites_courses": [
+   "ECE 139",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 210A",
+  "title": "Matrix Analysis and Computation",
+  "units": "4",
+  "description": "Graduate level-matrix theory with introduction to matrix computations. SVD's, pseudoinverses, variational characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 210B",
+  "title": "Numerical Simulation",
+  "units": "4",
+  "description": "Linear multistep methods and Runge-Kutta methods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equations. Numerical solution of boundary value problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 210C",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Difference Methods",
+  "units": "4",
+  "description": "Finite difference methods for hyperbolic, parabolic and elliptic PDE's, with application to problems in science and engineering. Convergence, consistency, order and stability of finite difference methods. Dissipation and dispersion. Finite volume methods. Software design and adaptivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 210D",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Element Methods",
+  "units": "4",
+  "description": "Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptic partial differential equations, with application to problems in science and engineering. Error estimates. Standard and discontinuous Galerkin methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 211A",
+  "title": "Engineering Quantum Mechanics I",
+  "units": "4",
+  "description": "Wave-particle duality; bound states; uncertainty relations; expectation values and operators; variational principle; eigenfunction expansions; perturbation theory I. Treatment matches needs and background of ECE and Materials students emphasizing solid state or quantum electronics.",
+  "prerequisites_raw": "ECE 162A-B. Students must have some knowledge of linear algebra.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 211B",
+  "title": "Engineering Quantum Mechanics II",
+  "units": "4",
+  "description": "Continutation of ECE 211A; symmetry and degeneracy; electrons in crystals, angular momentum; perturbation theory II; transition probabilites; quantized fields and radiative transitions; magnetic fields; electron spin;indistinguishable particles.",
+  "prerequisites_raw": "ECE 211A or MATRL 211A, or ECE 215A or MATRL 206A.",
+  "prerequisites_courses": [
+   "ECE 211A",
+   "MATRL 211A",
+   "ECE 215A",
+   "MATRL 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 215A",
+  "title": "Fundamentals of Electronic Solids I",
+  "units": "4",
+  "description": "Introduction into the physics of semiconductors, for beginning engineering graduate students. Crystal structure. Reciprocal lattice and crystal diffraction. Electrons in periodic structures. Energy and bands. Semiconductor electrons and probes, fermi statistics.",
+  "prerequisites_raw": "ECE 162A or 162B.",
+  "prerequisites_courses": [
+   "ECE 162A",
+   "ECE 162B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 215B",
+  "title": "Fundamentals of Electronic Solids II",
+  "units": "4",
+  "description": "Phonos, electron scattering, electroni transport, selected optical properties, heterostructures, effective mass, quantum wells, two-dimensional electron gas, quantum wires, deep levels, crystal binding.",
+  "prerequisites_raw": "ECE 162A, 162B, or consent of instructor.",
+  "prerequisites_courses": [
+   "ECE 162A",
+   "ECE 162B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 216",
+  "title": "Defects in Semiconductors",
+  "units": "3",
+  "description": "Structural and electronic properties of elementar defects in semiconductors. Point defects and impurity complexes. Deep levels. Dislocations and grain boundary electronic properties. Measurement techniques for radiative and nonradiative defect centers.",
+  "prerequisites_raw": "ECE 162A-B.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 217",
+  "title": "Molecular Beam Epitaxy and Band Gap Engineering",
+  "units": "3",
+  "description": "Fundamentals and recent research developmnets in the growth and properties of thin crystalline films of electronic and optical materials bythe process of molecular beam epitaxy. Artificially structured materials with quantized electron confinement and artificially engineered electronic band structure properties.",
+  "prerequisites_raw": "MATRL 162A-B or ECE 162A-B.",
+  "prerequisites_courses": [
+   "MATRL 162A",
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 218A",
+  "title": "Communication Electronics",
+  "units": "5",
+  "description": "RF/Microwave circuits. Transistor, transmission-line, and passive element characteristics. Transmission-line theory and impedance matching. Amplifier design for maximum available gain. Amplifier stability. Gain compression and power limits. Introduction to noise figure, and to intermodulation distortion.",
+  "prerequisites_raw": "ECE 137A-B or equivalents.",
+  "prerequisites_courses": [
+   "ECE 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 218B",
+  "title": "Communication Electronics II",
+  "units": "5",
+  "description": "RF models for CMOS and BJT. Discrete vs. IC implementation. On-chip passive components. LNAs. PAs. T/R switches. Mixers. VCOs. Poly-phase filters Radio link budget. Analog and digital modulation schemes. Introduction to receiver architectures. I&Q modulation. Image-reject architectures.",
+  "prerequisites_raw": "ECE 218A.",
+  "prerequisites_courses": [
+   "ECE 218A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 218C",
+  "title": "Communication Electronics III",
+  "units": "5",
+  "description": "Modern wireless communication standards. Cellular phone. Wireless LAN. Introduction to multi-access techniques. Advanced modulation schemes. Interference and distortion. Modern transceiver architectures. Direct conversion vs. low IF vs. super-heterodyne. Sub-sampling receiver. Direct polar modulator. Frequency synthesis using PLL.",
+  "prerequisites_raw": "ECE 218B.",
+  "prerequisites_courses": [
+   "ECE 218B"
+  ]
+ }
+]

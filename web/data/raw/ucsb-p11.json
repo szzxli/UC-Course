@@ -1,0 +1,281 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 10",
+  "title": "Introduction to Painting",
+  "units": "4",
+  "description": "Traditional and contemporary painting assignments designed to provide a strong foundation in fundamental 2D image making. Media include acrylic and oil painting methods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 12",
+  "title": "Beginning Spatial Practices",
+  "units": "4",
+  "description": "Introduction to the challenges, strategies, and techniques of 3D artmaking within the expanding fields of traditional and contemporary sculpture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 14",
+  "title": "Lower-Division Print",
+  "units": "4",
+  "description": "Introduction to making prints. Emphasis on technical fundamentals and conceptual aspects of graphic arts. \"Print\" incorporates hand produced mechanically or photographically reproduced, and electronically replicated media.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 18",
+  "title": "Lower-Division Drawing",
+  "units": "4",
+  "description": "Introduction to two-dimensional representation with various drawing media, including structural and symbolic implications of the human form. Emphasis on organization of vision and thought.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 19",
+  "title": "Lower-Division Photography",
+  "units": "4",
+  "description": "Introduction to photography-based image-making that may include still photography, new approaches to documentary, online projects, explorations in visual narrative, mixed media, social and public practices. Instruction in digital imagine and printing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 21",
+  "title": "Introduction to Integrated 2D Digital Media",
+  "units": "4",
+  "description": "Introduction to digital imaging for surfaces; input/output devices, raster, vector and page-layout software (Photoshop, Freehand, QuarkXpress), technical and conceptual concerns relevant to all 2D digital media, including photography, printing, print/web publishing. Digital image making in contemporary art and culture.",
+  "prerequisites_raw": "Art 1A.",
+  "prerequisites_courses": [
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 22",
+  "title": "Introduction to Computer Programming in the Arts",
+  "units": "4",
+  "description": "Using a project-based approach, the basic components of web development and computer programming are explored in different markup and programming languages such as HTML/CSS, JavaScript, and Processing. The class is intended to create a general understanding of computer programming, its use and cultural implications, as well as provide a foundation for utilizing programming in a wide range of projects, from traditional to new media.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 32",
+  "title": "Introduction to Digital Video",
+  "units": "4",
+  "description": "Introduction to digital video production including camera work, editing, sound, and distribution platforms. Conceptual and technical concerns relevant to video in the evolving theater of contemporary art and culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 100",
+  "title": "Intermediate Contemporary Painting Issues",
+  "units": "4",
+  "description": "Various projects designed to assist the understanding and development of contemporary painting practices. Supplemented with slide lectures and class critique. Additional self-directed projects, sketch books, experimentation, and independent research are encouraged.",
+  "prerequisites_raw": "Art 10; Art 1A or 7B or Upper Division standing or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 10",
+   "ART 1A",
+   "ART 7B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 101",
+  "title": "Advanced Contemporary Painting Issues",
+  "units": "4",
+  "description": "Special critique-based class addressing current issues in contemporary painting. 'Painting' will be used in broadest sense including traditional methods, and digital painting (digitally manipulated images as source), installation and inter-media practices utilizing paint as dominant medium.",
+  "prerequisites_raw": "Art 10,100; 1A or 7B or Upper Division standing or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 10",
+   "ART 100",
+   "ART 1A",
+   "ART 7B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 102",
+  "title": "Digital Media Tool Box: Concepts and Skills",
+  "units": "4",
+  "description": "A project based course with an emphasis on technical skills within the digital media arts context. Topics may include telecommunications, wireless, database aesthetics, networks, interactivity, digital 3D, virtual reality, immersive environments, algorithmic aesthetics, visualization, media theory and others. Topic to be determined by instructor.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 102MM",
+  "title": "Digital Project: Mobile Media",
+  "units": "4",
+  "description": "In this class we will make mobile app art projects for smartphones and tablets using HTML/CSS, JavaScript and Perl. Through the conceptualization and creation of these projects, we investigate social and locative media, ubiquity, the possibilities and limits of apps as art and the cultural implications of the increased uses of mobile apps. Students will also learn basic programming skills that can be applied towards learning and using other computer languages for a wide range of purposes.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 102MU",
+  "title": "Digital Project - Mashups",
+  "units": "4",
+  "description": "The web is brimming with continuously updated data about anything from weather, tsunamis, and earthquakes to UFO sightings, animal migration, sports, population, and the stock market, as well as user-generated information at social media sites such as Twitter and Facebook. \"Mashups\" are applications that combine this data into something new and interesting. In the class we make mashup art using HTML5/CSS, JavaScript and Perl, that combine and manipulate real time data while investigating our world of data.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 102XX",
+  "title": "Digital Media Tool Box: Concepts and Skills",
+  "units": "4",
+  "description": "A project based course with an emphasis on technical skills within the digital media arts context. Topics may include telecommunications, wireless, database aesthetics, networks, interactivity, digital 3D, virtual reality, immersive environments, algorithmic aesthetics, visualization, media theory and others. Topic to be determined by instructor.",
+  "prerequisites_raw": "Art 22, 7D; 1A or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 22",
+   "ART 7D",
+   "ART 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 105",
+  "title": "Intermediate Spatial Practices",
+  "units": "4",
+  "description": "Designed to develop student knowledge and proficiency of material and method, cultivating both manual and conceptual skill-levels in three-dimensional practices. Course focus varies by quarter, but includes a variety of approaches to material practices and engages students in the role of spatial awareness and production within contemporary art.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 105KY",
+  "title": "Intermediate Spatial Practices",
+  "units": "4",
+  "description": "Designed to develop student knowledge and proficiency of material and method, cultivating manual, conceptual and collaborative skill-levels in both the studio and public realm. Course focus varies by quarter and includes a range of approaches to an engaged spatial practice within contemporary art and its related fields.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 105PP",
+  "title": "Intermediate Spatial Practices - Public Practice",
+  "units": "4",
+  "description": "Developing your own voice in sculpture and installation while considering your audience is central to this course. Each student is encouraged to work with existing skills and build new ones in exploratory, materially fascinating works. At least one of your works will be situated in the public realm. We examine recent public art practices, cultivating manual, conceptual and collaborative skills in both the studio and public realm.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 105SP",
+  "title": "Intermediate Spatial Practices",
+  "units": "4",
+  "description": "Designed to develop student knowledge and proficiency of material and method, cultivating both manual and conceptual skill-levels in three-dimensional practices. Course focus varies by quarter, but includes a variety of approaches to material practices and engages students in the role of spatial awareness and production within contemporary art.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 105TD",
+  "title": "Intermediate Spatial Practices: Physical & Virtual",
+  "units": "4",
+  "description": "This project-based experimental studio explores foundational concepts of 3D form through ceramics, 3D printing, and 3D scanning. Students move fluidly between hand-building clay and digital fabrication processes, collaborating with computers, machines, and physical toolsets to translate ideas into objects while examining relationships between bodies, materials, and hybrid analog–digital workflows. Emphasizing ceramics as a site of dialogue between primitive and emerging technologies, the course encourages students to develop personal and political approaches to form beyond traditional 3D modeling.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 106",
+  "title": "Advanced Spatial Practices",
+  "units": "4",
+  "description": "Advanced study and investigation of new forms and spatial practices. Individual and group projects may encompass formal and collaborative research as well as multi-disciplinary production that engages new and exploratory practices, such as interactive and performative media, public art, social design at the intersection of architecture, urbanism and contemporary art. Course content detailed in syllabus each quarter.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 106FA",
+  "title": "Advanced Spatial Studies: Friday Academy",
+  "units": "4",
+  "description": "106FA is an open, interdisciplinary, project-based instructional environment designed to explore experimental curricula relevant to a publicly-engaged art practice. Straying from the traditional studio/classroom arts training models, FA offers locally embedded, multi-quarter, off-site research in real-world settings, encouraging flexible programs in response to immediate social and environmental concerns. FA draws from an interdisciplinary team of students, faculty and community scholars to work in partnership with one another.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 106IV",
+  "title": "Advanced Spatial Practices: Isla Vista",
+  "units": "4",
+  "description": "Open, project-based, learning/research environment designed to encourage student and campus engagement in the Isla Vista community. Weekly gatherings will take place in IV, hosting different campus and community members who will be present, discuss and provide feedback on the range of Isla Vista issues and opportunities. Students taking the course will be required to design outside research projects (individually or collaboratively) to present to the community groups at the end of the quarter.",
+  "prerequisites_raw": "Art 12; 1A or 7C or Upper Division or Instructor Approval",
+  "prerequisites_courses": [
+   "ART 12",
+   "ART 1A",
+   "ART 7C"
+  ]
+ }
+]

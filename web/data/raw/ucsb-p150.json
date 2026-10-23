@@ -1,0 +1,352 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595EP",
+  "title": "Ecological Physiology",
+  "units": "2",
+  "description": "Explores core concepts in ecological physiology. Course content will be driven by graduate student interests (e.g. metabolic scaling, mechanistic underpinnings of thermal tolerance).",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595ET",
+  "title": "Ecological Toxicology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595EV",
+  "title": "Evolutionary Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595FA",
+  "title": "Contentious Topics in Fisheries & Aquaculture",
+  "units": "2",
+  "description": "A number of topics in fisheries, aquaculture, and marine ecology have become major points of contention in the literature, with growing bodies of evidence that appear to contradict or refute each other without resolution. This seminar introduces the main conflicting topics and key principles of the field. Students weigh the scientific evidence and discuss the broader implications of the unsettled science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595FF",
+  "title": "Foundations and Frontiers in Ecology",
+  "units": "2",
+  "description": "Provides an overview of fundamental concepts in ecology and discussion of recent works on these subjects. Topics include population growth and regulation, population structure, metapopulations, metacommunities, coexistence mechanisms, neutral theory, invasibility, predator-prey dynamics, disease, food webs, phenotypic plasticity, metabolic theory, and diversity-ecosystem function relationships.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595GC",
+  "title": "Global Change and Ecology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595GE",
+  "title": "Topics in Genomics and Epigenomics",
+  "units": "2",
+  "description": "This course provides knowledge on the field of genomics and epigenetics, with implications on many areas of molecular, cell and developmental biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595GG",
+  "title": "Evolutionary Morphology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595H",
+  "title": "Marine Molecular Ecology and Physiology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595J",
+  "title": "Evolutionary and Behavioral Ecology of Vertibrates",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595K",
+  "title": "Biometry",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595M",
+  "title": "Reproductive Ecology and Evolution",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595ME",
+  "title": "Marine Community Ecology",
+  "units": "2",
+  "description": "This seminar covers new and emerging topics in marine community ecology. Students read and discuss scientific literature, collaborate on data analyses, and give scientific presentations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595MF",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matter for these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595MM",
+  "title": "Marine Microbial Ecology",
+  "units": "2",
+  "description": "A critical review of research in marine microbial ecology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595MR",
+  "title": "Metabolic Regulation",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595MS",
+  "title": "Marine Science",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595OC",
+  "title": "Ocean Global Change Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matter for these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595P",
+  "title": "Advanced Population Ecology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595PE",
+  "title": "Plant Evolution & Genomics",
+  "units": "2",
+  "description": "Course provides an overview of fundamental concepts in evolution and genomics and discussion of recent works on these subjects. Topics include population genetic structure, genetic diversity, adaptation, genetic causes of adaptation, genome evolution, conservation genomics and landscape genetics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595Q",
+  "title": "Aquatic Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595R",
+  "title": "R Seminar - Coding for Ecological and Evolutionary Analyses",
+  "units": "2",
+  "description": "Explore the R programing environment for statistical analysis, data visualization, data management, and more. Stay up to date with current packages, learn new techniques, share invaluable tips and tricks. Exact topics will be determined by class participants. R can be used for a variety of applications (GIS, simulation modeling, web app development). Course will focus on hands-on application, with coding clinic and shared coding resources.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595RR",
+  "title": "Research Reviews in Aquatic Ecology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595RS",
+  "title": "Remote Sensing of Aquatic Environments Using the new Surface Water and Ocean Topography Satellite",
+  "units": "2",
+  "description": "In this course, we review papers coming out from the new Surface Water and Ocean Topography Mission (SWOT) launched in December 2022. SWOT uses radar interferometry to observe sub-mesoscale eddies and small motion features on the ocean as well as water surface heights and extents from inland water bodies (lakes, wetlands, and rivers) on a global scale. Graduate students will learn about the new satellite technology, what the data is best used for, how to download the datafiles from publicly available databases, and how to apply it to their research. This course is meant to benefit both those actively using remote sensing in their work and those who are curious if they can use this data for their research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595S",
+  "title": "Plant Systematics and Evolution",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595SE",
+  "title": "Soil Science for Ecologists",
+  "units": "2",
+  "description": "Many ecologists work on soils and need some fundamental understanding of soil sciencehow soils develop, how they function and how we characterize them. This will be a brief introduction, using a seminar format, for graduate students in ecology and biogeochemistry.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595T",
+  "title": "Parasitology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595TE",
+  "title": "Theoretical Ecology and Evolution",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595TP",
+  "title": "Terrestrial Plant and Ecosystem Ecology",
+  "units": "2",
+  "description": "Course examines current topics in terrestrial plant and ecosystem ecology, including but not limited to physiological, population, community, ecosystem, and landscape ecology. Students lead discussions of recent journal articles or present their own research projects and ideas.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595WT",
+  "title": "Post PhD Preparation",
+  "units": "2",
+  "description": "This seminar explores career options for ecology and evolution PhDs, including identifying transferable skills and building industry-ready application materials. The seminar will include discussions with speakers who have pursued a variety of career paths after graduation, professionals from Career Counseling, and program alumni. The goal is to help students develop a roadmap for their career path after graduation, particularly for non-academic careers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 595Z",
+  "title": "Ecological Physiology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Hours and credit by arrangement with faculty.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 597",
+  "title": "Individual Study for Master's Comprehensive Examinations and Ph.D. Examinations",
+  "units": "0",
+  "description": "Individual study for M.A. comprehensive examinations and Ph.D. examinations.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "M.A. (thesis) candidate and consent of committee chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "For writing of the dissertation.",
+  "prerequisites_raw": "Ph.D. candidate and consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

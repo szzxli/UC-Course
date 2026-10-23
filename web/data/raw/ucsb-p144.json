@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 142B",
+  "title": "Environmental Processes in Oceans and Lakes",
+  "units": "4",
+  "description": "A discussion of biological, chemical, physical, and optical processes in marine and freshwater environments and the linkage between these processes. Emphasis on primary production, global biogeochemical cycles, nutrient dynamics, and synoptic mapping of biological and physical patterns.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 142BL",
+  "title": "Chemical and Physical Methods of Aquatic Environments",
+  "units": "4",
+  "description": "A survey of physical and chemical methods used by limnologists and oceanographers supplemented with field observations.",
+  "prerequisites_raw": "EEMB 142B (may be taken concurrently); Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 142C",
+  "title": "Environmental Processes in Oceans and Lakes",
+  "units": "4",
+  "description": "A continuation of EEMB 142B with emphasis on secondary productivity, ecology of higher trophic levels including zoo plankton and fish, food web dynamics, benthic-pelagic coupling, ocean circulation, and biogeographical aspects of pelagic communities.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 142CL",
+  "title": "Methods of Aquatic Biology",
+  "units": "3",
+  "description": "Laboratory and field techniques used to measure various biological processes including productivity, and to sample, identify, enumerate, and culture marine organisms.",
+  "prerequisites_raw": "EEMB 142C (may be taken concurrently); Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 142C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 143",
+  "title": "Ecological Physiology",
+  "units": "3",
+  "description": "Consideration of the physiological responses and adaptations of animals to their environments. Emphasis on the underlying physiological and biochemical mechanisms. A comparative approach in nature emphasizing aquatic animals.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 143L",
+  "title": "Laboratory in Ecological Physiology",
+  "units": "2",
+  "description": "Semi-independent study lab to accompany EEMB 143. Study of the physiological responses and adaptations of animals to their environment. Aquatic animals emphasized.",
+  "prerequisites_raw": "EEMB 143(may be taken concurrently); Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 143"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 144",
+  "title": "Marine Microbiology",
+  "units": "4",
+  "description": "Exploration of evolution, ecology, biochemistry, and genetics of marine bacteria. Topics include: historical perspective, molecular approaches in microbial ecology, trophic interactions/biogeochemistry, physiological adaptations, and biochemistry and genetics of selected systems bioluminescence, deep-sea adaptations, cell-surface interactions, starvation survival).",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 144L",
+  "title": "Marine Microbiology Lab",
+  "units": "2",
+  "description": "A laboratory survey of the diversity, physiology and ecology of marine prokaryotes, and methods used to identify, quantify and measure their activities.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3; concurrent enrollment in EEMB 144 or 142B; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3",
+   "EEMB 144",
+   "EEMB 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 145",
+  "title": "Terrestrial Microbiology",
+  "units": "4",
+  "description": "Exploration of the diversity of archaea, bacteria, and fungi associated with humans, animals, plants, and extreme terrestrial environments. Topics include ecology, evolution, genetics, systematics, and physiology with special focus on species interactions among microbes or between hosts and microbes.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3 all with a grade of C- or better",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 146",
+  "title": "Biometry",
+  "units": "4",
+  "description": "Linear models and least squares fitting: simple and multiple linear regression; analysis of variance (fixed, random and mixed models; crossed and nested effects; balanced and unbalanced designs); analysis of covariance, factorial designs; incomplete layouts; use of transformations.",
+  "prerequisites_raw": "Mathematics 2A-B or 3A-B or 34A-B or 34LA-LB; and PSTAT 5A or PSTAT 5LS or PSTAT 109 or Math 4A or Psy 5; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "PSTAT 5A",
+   "PSTAT 5LS",
+   "PSTAT 109",
+   "MATH 4A",
+   "MATH 3A",
+   "MATH 34A",
+   "MATH 34LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 147",
+  "title": "Coral Reef Biology and Ecology",
+  "units": "4",
+  "description": "Coral reefs are highly diverse ecosystems that provide important ecosystem services across many areas of the tropics. Introduction to the taxonomy, biology, and ecology of the main groups of coral reef inhabitants. Analysis and discussion of the biology and ecological relationships of reef algae, plants and animals as well as contemporary challenges to the health and resilience of reefs, and potential conservation strategies to mitigate stressors on reefs.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 148",
+  "title": "Ecology of Running Waters",
+  "units": "4",
+  "description": "Introduction to the structure and function of river ecosystems, including physical and chemical characteristics, nutrient cycling and transport, biodiversity, biological interactions, conservation, and restoration. Discussion of bioassessment as a tool for measuring biological integrity (water quality and habitat health).",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 148L",
+  "title": "Investigations in Stream Ecology",
+  "units": "3",
+  "description": "Introduction to field methods used in lotic ecology. Design and execution of research projects emphasized.",
+  "prerequisites_raw": "EEMB 148 (may be taken concurrently); Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 148"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 150A",
+  "title": "Microbial Diversity I",
+  "units": "4",
+  "description": "An investigation of the metabolic diversity of bacteria and archaea with an emphasis on microbial evolution, energetics, and the ecological implications of diversity. Required laboratory is an inquiry-based introduction to classical methods of enrichment and isolation of diverse microbes from the environment and molecular identification of isolates. Basic introduction to bioinformatic analysis of microbial phylogeny using sequence data generated in the course.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2, MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 150B",
+  "title": "Microbial Diversity II",
+  "units": "3",
+  "description": "A hands-on investigation of the genomic diversity of bacteria and archaea. Students will undertake genomic or metagenomic DNA sequencing , analysis of environmental isolates and enrichments and gain experience preparing this data for public release.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, EEMB 3 and either EEMB 150A or EEMB 145 or EEMB 157A or MCDB 131. All completed with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EEMB 150A",
+   "EEMB 145",
+   "EEMB 157A",
+   "MCDB 131"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 152",
+  "title": "Applied Marine Ecology",
+  "units": "5",
+  "description": "Introduction to the application of ecological principles and methods to environmental problems in marine habitats. Focus on problems that are local, regional, and global in scale. Concepts illustrated with case studies.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 153",
+  "title": "Ecology of Lakes and Wetlands",
+  "units": "4",
+  "description": "An examination of ecological aspects of lakes, wetlands, and their catchments integrating biogeochemical processes, biological-physical coupling, and population and community ecology. Applications of remote sensing and ecological models; human-caused impacts and their management.",
+  "prerequisites_raw": "EEMB 142B; and, EEMB 142A or EEMB 120; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 142B",
+   "EEMB 142A",
+   "EEMB 120"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 155CC",
+  "title": "Global Change Biology",
+  "units": "4",
+  "description": "Explores the impact of environmental change (e.g., global warming, ocean acidification, drought) on ecosystems and organisms. Case studies and readings from the primary literature are used. The course covers both terrestrial and aquatic ecosystems.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 157A",
+  "title": "Cell Physiology",
+  "units": "4",
+  "description": "An analysis of processes fundamental to the functioning of cells, using actual examples from the protista. These processes include, but are not limited to, membrane structure and function, motility, metabolite transport, protein trafficking, energy acquisition and utilization.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 157B",
+  "title": "Animal Physiology",
+  "units": "4",
+  "description": "Fundamentals of animal physiology. Covers the major systems including nervous, circulatory, respiratory, osmoregulatory, digestion, locomotion, and reproduction with an emphasis on animal diversity.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 157C",
+  "title": "Plant Physiology",
+  "units": "4",
+  "description": "A study of the link between structure and function that contributes to the development, reproduction, and diversity of plants. There will be a special emphasis on primary literature reading and analyses.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ }
+]

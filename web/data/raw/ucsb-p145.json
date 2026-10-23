@@ -1,0 +1,296 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 158",
+  "title": "Climate Change Impacts on Marine Ecosystems",
+  "units": "4",
+  "description": "Explores the impacts of climate change and other types of anthropogenic perturbation on organisms and processes in marine ecosystems. Emphasis is placed on ocean acidification, warming and deoxygenation, as well as plastic and oil pollution. Topics discussed include threats to marine diversity and ecosystem function, latitudinal shifts in productivity and diversity, changes in the global cycling of elements such as carbon, and the cost of climate change on food security.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 159",
+  "title": "Tropical Ecology",
+  "units": "4",
+  "description": "Introduction to the structure and function of tropical ecosystems, including physical and chemical characteristics, nutrient cycling and transport, biodiversity, biological interactions, conservation, and restoration. Discussion of case studies and the use ecological models as tools for exploring the dynamics of habitat fragmentation, coral reef degradation, and the spread of infectious disease as it relates to climate change.",
+  "prerequisites_raw": "MCDB 1A and MCDB 1B and EEMB 2 and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 162",
+  "title": "Fungi & Enterprise",
+  "units": "3",
+  "description": "Explores how fungal biology, physiology, and ecology contribute to innovation across industries like textiles, aerospace, pharmaceuticals, and agriculture. This course examines fungi’s critical role in sustainability, product development, and scientific breakthroughs, revealing their hidden influence in modern enterprise. Students will engage with real-world applications, connecting mycology to industrial solutions that address today’s challenges.",
+  "prerequisites_raw": "MCDB 1A, 1B, EEMB 2, EEMB 3 all with grades of 'C-' or better)",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "EEMB 3",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 163",
+  "title": "Deep-Sea Biology",
+  "units": "3",
+  "description": "Consideration of the biology of midwater and benthic organisms living beneath the euphotic zone. Emphasis on dynamic aspects of biological processes in this unique environment. Surveys of major deep-sea taxa and the history of deep-sea biology are included.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 165",
+  "title": "Fields Studies in Marine Ecological Physiology",
+  "units": "4",
+  "description": "An integration of fields and laboratory approaches to questions in marine ecological physiology. Using local coastal field sites, participants conduct a team research project. Participants collect, analyze, and present the results. Involves occasional field trips and lab work.",
+  "prerequisites_raw": "MCDB 1A-1B, EEMB 2 and 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 166",
+  "title": "Field Approaches to Terrestial Plant and Ecosystem Ecology",
+  "units": "5",
+  "description": "An intensive lecture and field course in local habitats examining biological invasions, resource cycling, vegetation succession, fire ecology, and seed banks. Lectures introduce ecological principles, and field labs demonstrate methodology. An additional weekend lab or outside project is required.",
+  "prerequisites_raw": "EEMB 2 and 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 167",
+  "title": "Applied Freshwater Ecology",
+  "units": "4",
+  "description": "Providing sufficient quantities of high quality freshwater will be the single biggest challenge facing humanity in the next century. The course explores the scientific basis for evaluating and addressing the impacts of environmental change of freshwater ecosystems.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 168",
+  "title": "Conservation Ecology",
+  "units": "4",
+  "description": "Introduction to the practical application of biological principles to conserving biodiversity. Covers tools and theory derived from both ecology and evolutionary biology such as metapopulation theory and population viability analysis as applied to real world examples.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 169",
+  "title": "The Effects of Climate Change on Marine Ecosystems",
+  "units": "4",
+  "description": "Covers the causes and effects of climate change on coastal and open ocean environments. Examples will include the effects of deoxygenation, ocean acidification, warming and pollution both in the modern ocean and using the paleorecord.",
+  "prerequisites_raw": "MCDB 1A,MCDB 1B,EEMB 2,and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 170",
+  "title": "Biology of the Marine-Land Interface",
+  "units": "4",
+  "description": "Influence of physical factors on adaptations of shoreline organisms with emphasis on the arthropods.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 171",
+  "title": "Ecosystem Processes",
+  "units": "4",
+  "description": "An examination of the key processes that regulate ecosystem productivity and function in terrestrial ecosystems. Specific foci include: plant- soil linkages including decomposition and nutrient supply, and the role of above- and below-ground community composition on element cycles.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, and 1C or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 172",
+  "title": "Theoretical Population Ecology",
+  "units": "4",
+  "description": "Examines the ecological theory pertaining to population dynamics, species interactions, and community properties, and explore how mathematical and computer modeling has influenced the development of ecological theory. Includes case studies and computer exercises.",
+  "prerequisites_raw": "MCDB 1A-B; and EEMB 2-3; and Math 3A-B or 34A-B or 2A-B; Completion of all listed prerequisites with a C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MATH 3A",
+   "EEMB 3",
+   "MATH 34A",
+   "MATH 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 174",
+  "title": "Advanced Biostatistics using Bayesian Methods",
+  "units": "4",
+  "description": "A model-based approach to modern methods in data analysis. Comparison of statistical approaches including frequentist, likelihood, and Bayesian techniques. Methods for simulating data, estimating parameters for single variable models, constructing multivariate and hierarchical models, model comparison using information criteria, and model suitability using posterior predictive analysis.",
+  "prerequisites_raw": "EEMB 146 with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 146"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 179",
+  "title": "Ecological Modeling",
+  "units": "4",
+  "description": "An introduction to mathematical and computer models in studies of the natural environment with emphasis on population dynamics and species interactions. Case studies of interacting physical, chemical and biological phenomena.",
+  "prerequisites_raw": "Mathematics 34A-B or 34LA-LB or 3A-B or 2A-B; completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MATH 34A",
+   "MATH 34LA",
+   "MATH 3A",
+   "MATH 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 179H",
+  "title": "Ecological Modeling - Honors",
+  "units": "1",
+  "description": "Honors component of EEMB 179 designed to permit an in-depth study involvingformulation, analysis and interpretation of an ecological model. A written report on the work is required.",
+  "prerequisites_raw": "Concurrent enrollment in EEMB 179 and consent of instructor.",
+  "prerequisites_courses": [
+   "EEMB 179"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 180",
+  "title": "Evolutionary theory and models of behavioral processes",
+  "units": "5",
+  "description": "A mathematical approach to understanding the process of evolutionary change with an emphasis on behavioral strategies starting wtih natural selection, frequency dependent selection, sex ratio, and selection for local adaptation. Using an evolutionary framework, the consequences of behavioral strategies will be studied, including foraging strategies, mating behavior, and social behavior.",
+  "prerequisites_raw": "MCDB 1A-B; EEMB 2-3; Math 3A-B or Math 34A-B or 34LA-LB or Math 2A-B; C- or better in all listed prerequisites.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MATH 3A",
+   "MATH 34A",
+   "MATH 2A",
+   "EEMB 3",
+   "MATH 34LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 182",
+  "title": "Communicating Ocean Science",
+  "units": "3",
+  "description": "Students interested in improving their ability to communicate their scientific knowledge by teaching in K-12, college, and public education settings. Course combines instruction in inquiry-based teaching methods and learning pedagogy with 10 weeks of supervised field experience. Students practice communicating scientific knowledge and receive mentoring on how to improve their presentations.",
+  "prerequisites_raw": "Sophmore standing or higher; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 183",
+  "title": "Introduction to Teaching in Biology",
+  "units": "0",
+  "description": "Explores evidence-based, asset-focused strategies to support effective near-peer learning in biology. Students will develop skills in metacognition, communication, and student-centered teaching practices through readings, discussions, and self-reflection. Emphasis is placed on understanding how students learn, fostering engagement, and promoting academic success through inclusive, reflective approaches.",
+  "prerequisites_raw": "Completion of MCDB 1A, MCDB1B, EEMB 2, EEMB 3 all with a grade of C- or better. Consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 184",
+  "title": "Internship in Biological Sciences",
+  "units": "0",
+  "description": "Opportunity to obtain practical biological related experience by working under faculty direction as an intern with local, state, federal, or private agencies. A written report will be submitted for evaluation.",
+  "prerequisites_raw": "Upper-division standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 185",
+  "title": "Field Work in Oceanography",
+  "units": "0",
+  "description": "Participation as a member of a scientific party on Scripps Institution (UCSD), NMFS, and UCSB oceanographic cruises. Cruise duration is variable (7 to 60 days), and course units will vary with cruise duration. Supervision by scientific party leader. Report required.",
+  "prerequisites_raw": "EEMB 142B or 142C; consent of instructor.",
+  "prerequisites_courses": [
+   "EEMB 142B",
+   "EEMB 142C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 188RE",
+  "title": "Conservation and Restoration Seminar",
+  "units": "1",
+  "description": "Seminar explores current topics in conservation biology and restoration ecology including basic and applied questions related to the conservation, restoration and management of populations,communities and ecosystems. Presentations and discussions may include model ecosystem studies, hands on restoration or conservation projects & lessons learned, and political, economic and philosophical issues.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,300 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 2CH",
+  "title": "World History - Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (2CH) in addition to four units for HIST 2C, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 2C; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 2C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 2HA",
+  "title": "World History - Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (2HA) in addition to four units for HIST 2A, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 2A; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 2HB",
+  "title": "World History - Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (2HB) in addition to four units for HIST 2B, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 2B; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 3",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 3DB",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Topics may vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4A",
+  "title": "The Ancient Mediterranean and West Asia",
+  "units": "5",
+  "description": "Prehistory to 800 CE. History 4A introduces students to the histories of the ancient Mediterranean and West Asia, including Egypt, Greece, Mesopotamia, Persia, and Rome. Lectures and readings examine cultural, economic, intellectual, military, political, religious, and other aspects of the period. Weekly small group sections in which students discuss historical sources and methods are an essential part of this course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4AS",
+  "title": "WESTERN CIVILIZATIO",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4B",
+  "title": "Medieval and Early Modern Europe",
+  "units": "5",
+  "description": "Survey of the history of Europe in the Medieval and Early Modern periods, 800-1700. Discusses the major social, political, religious, and cultural characteristics and developments of the period, as well as key interactions between Europe and other parts of the world. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during the lecture hour.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4BS",
+  "title": "WESTERN CIVILIZATIO",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4C",
+  "title": "Modern Europe",
+  "units": "5",
+  "description": "Survey of the history of Modern Europe, 1650-present. Discusses the major social, political, religious, and cultural characteristics and developments of the period, as well as key interactions between Europe and other parts of the world. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during the lecture hour.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4CS",
+  "title": "WESTERN CIVILIZATIO",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4HA",
+  "title": "Ancient Mediterranean and West Asia- Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (4HA) in addition to four units for HIST 4A, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 4A; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4HB",
+  "title": "Medieval and Early Modern Europe-Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (4HB) in addition to four units for HIST 4B, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 4B; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 4B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 4HC",
+  "title": "Modern Europe-Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (4HC) in addition to four units for HIST 4C, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 4C; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 5",
+  "title": "The History of the Present",
+  "units": "5",
+  "description": "Provides essential historical context for understanding major issues and developments in contemporary life; topics vary each year. Coverage ranges from the local to the global, and encompasses current events in politics, economics, social relations, welfare, science, religion, and popular culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 7",
+  "title": "Great Issues in the History of Public Policy",
+  "units": "5",
+  "description": "Broad exploration of great issues in the history of public policy from ancient times to present, to understand basic ways in which societies make their major decisions, the shared dynamics in the process, and how varied settings affect it.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 7H",
+  "title": "Great Issues in the History of Public Policy-Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (7H) in addition to four units for HIST 7, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in History 7; consent of instructor.",
+  "prerequisites_courses": [
+   "HIST 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 8A",
+  "title": "Latin American History: Pre-Columbian and Colonial Periods",
+  "units": "5",
+  "description": "History 8A-B are general survey courses designed to introduce students to major themes in Latin American history. This course focuses on the diverse histories, politics, cultures, and societies of Mesoamerica, South America, and the Caribbean in the pre-Columbian and colonial periods. Topics include indigenous cultures, Mexica (Aztec) and Inca expansion, Spanish and Portuguese invasion, African diaspora, colonialism, law and legal institutions, religious conversion, trade and economic change, and 18th-century reform.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 8B",
+  "title": "Latin American History: Independence and National Period",
+  "units": "5",
+  "description": "History 8A-B are general survey courses designed to introduce students to major themes in Latin American history. This course encompasses the crisis of colonial rule in the late eighteenth century, independence wars in the early nineteenth century, and the birth and transformations of independent republics from Mexico through the Caribbean to the Andes and the Southern Cone, into the twenty-first century. The course emphasizes the diversity of the Latin American experience with special attention to political processes and social transformations including revolutions, slavery and its legacies, and the struggle for citizenship and democracy, with particular attention to the working classes and ingenious movements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 9",
+  "title": "Historical Investigations: Methods and Skills",
+  "units": "4",
+  "description": "Through studying a particular topic in history, students gain insight into historical methods and skills. Course designed for freshmen and sophomore history majors or prospective majors. Others may enroll by permission of instructor. Topics vary by quarter and instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 11A",
+  "title": "History of America's Racial and Ethnic Minorities",
+  "units": "4",
+  "description": "A. Age of ConquestHistory of America's racial and ethnic minorities focusing on Native American, African American, Chicano, Asian American, and European immigrant men and women. Includes a broad range of historical situations to determine specific meanings in the evolution of a distinct multiracial and ethnic American experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 11B",
+  "title": "History of America's Racial and Ethnic Minorities",
+  "units": "4",
+  "description": "B. 1900 to the presentHistory of America's racial and ethnic minorities focusing on Native American, African American, Chicano, Asian American, and European immigrant men and women. Includes a broad range of historical situations to determine specific meanings in the evolution of a distinct multiracial and ethnic American experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 15",
+  "title": "Medieval Worlds",
+  "units": "4",
+  "description": "Explores the intersecting worlds of the Middle Ages, with an emphasis on movements among cultures. We will explore the circulation of people, including slaves, travelers, missionaries, migrants; trade goods like silk and salt; technologies, notably gunpowder; popular stories; philosophic ideas; religious beliefs and practices; artistic methods and styles; even diseases.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 17A",
+  "title": "The American People",
+  "units": "5",
+  "description": "This course surveys the leading issues in North American life from colonial times to the early 19th century. It examines European colonialism, the expansion of slavery, the transition to capitalism, and the emergence of hierarchies of race, class, and gender within an Atlantic and hemispheric context. Emphasis is placed on the interactions among Indigenous peoples, European colonizers, and enslaved and free Africans. Features discussion sections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 17B",
+  "title": "The American People",
+  "units": "5",
+  "description": "Sectional crisis through progressivism. A survey of the leading issues in american life from colonial times to the present. The course focuses on politics, cultural development, social conflict, economic life, foreign policy, and influential ideas. Features discussion sections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 17C",
+  "title": "The American People",
+  "units": "5",
+  "description": "World War I to the present. A survey of the leading issues in american lifefrom colonial times to the present. The course focuses on politics, cultural development, social conflict, economic life, foreign policy, and influential ideas. Features discussion sections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 17HA",
+  "title": "The American People-Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (17HA) in addition to four units for HIST 17A, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 17A; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 17HB",
+  "title": "The American People-Honors",
+  "units": "1",
+  "description": "Discussion section led by the instructor, provided for students in the honors program. Students receive one unit for this honors seminar (17HB) in addition to four units for HIST 17B, to be taken concurrently.",
+  "prerequisites_raw": "Concurrent enrollment in HIST 17B; consent of instructor; honors standing.",
+  "prerequisites_courses": [
+   "HIST 17B"
+  ]
+ }
+]

@@ -1,0 +1,286 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 138",
+  "title": "Participatory Research, Community Organizing, and Popular Education",
+  "units": "4",
+  "description": "Considers models for good social science research and how such research can support community organizing for social justice. Examines reports emerging from such research, documentation of campaigns facilitated by research, and popular education making research more widely accessible.",
+  "prerequisites_raw": "Feminist Studies 30 or Feminist Studies 50.",
+  "prerequisites_courses": [
+   "FEMST 30",
+   "FEMST 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 140",
+  "title": "Fat Studies",
+  "units": "4",
+  "description": "Examines the social experience of people living in fat bodies. This course specifically focus on how these experiences are further shaped by institutions like science and medicine, race, gender, sexuality, ability and more.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 141",
+  "title": "Women and Eastern European Film: An Exploration in Second World Cinema",
+  "units": "4",
+  "description": "Investigation of the role of women in Eastern European cinema both in theirinvolvement in the industry and their portrayal on the screen in propagandaand beyond. Discussion of the cinemas of Czechoslovakia, Hungary, Poland, and the former Soviet Union.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 142",
+  "title": "Black Women Filmmakers",
+  "units": "4",
+  "description": "An opportunity to view films (animation, documentary, experimental and narrative), examine the specifics of media production, compare the various works produced by black women, and acquire the skills necessary for media criticism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 144",
+  "title": "Representation and Activism",
+  "units": "4",
+  "description": "Exploration of the strategies by which social groups resist systems of oppression through readings and works from independent filmmakers.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 145",
+  "title": "Media Adaptations of Black Women's Literature",
+  "units": "4",
+  "description": "Investigation of the visual translation of works which have had a profound effect on American culture. Examination of the ways in which the media versions may have altered, in critical ways, the works' social and ideological meanings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 146",
+  "title": "Women of Color Resisting Violence",
+  "units": "4",
+  "description": "This is a study of women of color and other marginalized women's experiences of psychological, sexual, physical, social, economic and legal violence, and the personal and collective resistance to these forms of violence in intimate relationships and in broader society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 147G",
+  "title": "Gender and Power in Modern African History",
+  "units": "4",
+  "description": "Examination of gender, power, and authority among and between men and women in response to socioeconomic transformations in nineteenth and twentieth-century Africa. Themes include interpretations of gender, organization of labor, the missionary project, the state, and colonial rule.",
+  "prerequisites_raw": "History 49A or 49B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 49A",
+   "HIST 49B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 150",
+  "title": "Sex, Love, and Romance",
+  "units": "4",
+  "description": "An examination from historical and global perspectives of sex, love, desire, and intimate relationships in diverse cultures in the contemporary U.S.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 150H",
+  "title": "Sex, Love, and Romance Honors",
+  "units": "5",
+  "description": "Lecture is concurrent with Women's Studies 150, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151AA",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151AB",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151AC",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151AD",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151AF",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151AS",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151CJ",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151DI",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 151MI",
+  "title": "Sexual Cultures",
+  "units": "4",
+  "description": "Seminars focus on the political, social, and cultural dynamics of sexuality in modern society. Offerings may explore sexual representations, economies, laws, identities, performances, literatures, technologies, relationships, communities, and customs in the United States or abroad. Topics may vary.",
+  "prerequisites_raw": "upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 159B",
+  "title": "Women in American History",
+  "units": "4",
+  "description": "Social history of women in America from 1800 to 1900. Changing marriage, reproduction and work patterns, and cultural values about the female role. Attention to racial, class, and ethnic differences. analysis of feminist thought and the several women's movements.",
+  "prerequisites_raw": "Any two quarters of History 17A-B-C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 159C",
+  "title": "Women in Twentieth-Century American History",
+  "units": "4",
+  "description": "A continuation of Feminist Studies 159A-B from 1900 to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 159LG",
+  "title": "Sociology of Lesbian and Gay Communities",
+  "units": "4",
+  "description": "Origins and transformation of lesbian and gay communities and social movements, with special attention to ideological development, major social problems, cultural production, race, ethnic and gender differences, organizational formation, and political conflict.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 160",
+  "title": "Sapphistries",
+  "units": "4",
+  "description": "A global exploration of female same-sex sexuality, from the historical Sappho grhough sapphists, roaring firsl, romantic friends, and female husbands, to contemporary lesbians. Considers lives and representations of women who desire and love other women.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 161",
+  "title": "The Social Construction of Sexuality",
+  "units": "4",
+  "description": "This course explores how sexuality is shaped, controlled, and defined by social and cultural forces in England and the U.S. By using historical and literary sources, we will examine the variable understanding of human sexuality in the last two centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 162",
+  "title": "Queer Theory",
+  "units": "4",
+  "description": "Introduces some of the key authors and texts in queer theory; assesses its relationship to feminist theory, sexuality studies, and queer activism; explores its critiques of normative models of sex, gender, and sexuality; and examines the bases for criticism of it as androcentric, Eurocentric, overly intellectual, and impractical.",
+  "prerequisites_raw": "FEMST 80 or instructor approval.",
+  "prerequisites_courses": [
+   "FEMST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FEMST",
+  "code": "FEMST 163",
+  "title": "Trans Studies",
+  "units": "4",
+  "description": "Special topics course focused on key issues and histories of knowledge in trans studies.",
+  "prerequisites_raw": "Feminist Studies 80",
+  "prerequisites_courses": [
+   "FEMST 80"
+  ]
+ }
+]

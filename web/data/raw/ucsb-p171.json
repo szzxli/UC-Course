@@ -1,0 +1,265 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 171LE",
+  "title": "Literature and Emotion",
+  "units": "4",
+  "description": "What are emotions? This course provides students with an opportunity to engage in detailed interdisciplinary study of significant developments in the history of emotion. Examining literary texts from the early modern period up to the twenty-first century, we will be addressing the concept of emotion as presented in a variety of forms and genres, alongside key findings in cognitive neuroscience and psychology. Together, these materials refute the traditional opposition between emotion and rationality and reveal the extent to which emotion is an inextricable part of everyday cognition. Assignments for this course are designed to increase interdisciplinary literacy and develop skills of practical criticism.",
+  "prerequisites_raw": "Writing 2, or 50, or 109, or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 171NH",
+  "title": "Neurohumanism",
+  "units": "4",
+  "description": "Of what relevance is cognitive neuroscience to literature? This course steers through the thickets of neuroscience and maps areas where the general principles of neurobiology directly inform core issues in literary studies. The aim is to introduce students to the dynamic relations between brain, body, and culture while providing a grounding in Neurohumanism through world literary classics. Topics include Visual Perception, Trauma, Memory, Language, Theory of Mind, Emotion, and Identity.",
+  "prerequisites_raw": "Writing 2, or 50, or 109, or English 10 or upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 172",
+  "title": "Studies in the Enlightenment",
+  "units": "4",
+  "description": "A course in the neoclassical literature of England and the continent. Topics will vary from quarter to quarter. To see what is being taught in any particular quarter, students should consult the department's course outline booklet.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 173",
+  "title": "Between Text and Reader: Theoretical, Psychological, and Scientific Perspectives",
+  "units": "4",
+  "description": "Reading happens somewhere between texts and readers. What does reading do to a reader? What role does a reader's subjectivity play? A number of contradictory fantasies exist in both the academy and in popular culture: that reading may heal and be therapeutic, or hurt and constitute a form of violence; that it can lead to lasting growth and change, or to conformity; that it may elevate and educate, or corrupt and derange. It may be a creative act, or merely communication; it may even be obsolete in the era of AI. This seminar explores theoretical, psychological and scientific debates about reading, its effects on the mind, and the role of the reader's unique subjectivity in shaping the experience of reading and the meaning given to the text.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 174CA",
+  "title": "From Confession to Autofiction (Inventions of the Self I)",
+  "units": "4",
+  "description": "This course follows a genealogy of confessional and autobiographical writing in the West, from Rousseau's tussles with the concept of authenticity to the playful auto-fictional experiments by authors such as JM Coetzee and Sheila Heti. It traces how the western self's confidence in its capacity to articulate its own truth, or to ‘confess,’ was progressively undermined — first by the emergence of the psychoanalytic theory of the unconscious mind, and more recently by the science affect and memory — and characterizes the rise of auto-fiction as a creative response to the demise of secular confession, one that incorporates and thematizes the precariousness of our beliefs about authenticity, creativity, truth, and the very idea of the self.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 175",
+  "title": "Interdisciplinary Literary Studies",
+  "units": "4-28",
+  "description": "Interdisciplinary examination of literary texts broadly construed; course will address texts, topics, theories, or methods relevant to the study of literature in English that speak to other disciplines in the humanities, social sciences, or sciences. Course focus will be determinedby instructor(s).",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 175CR",
+  "title": "Culture and Revolution",
+  "units": "4",
+  "description": "This undergraduate seminar focuses on foundational and new theories of culture and art in comparative revolutionary contexts from the 19th century to the present. The course focuses on explorations of culture as the site of revolutionary praxis as articulated by various revolutionists from Russia/USSR, China, Vietnam, Algeria, Guinea-Bissau, Mexico, Nicaragua, El Salvador, Latin American southern cone; US insurgencies (Black Panthers, Chicana/o/x Movement, Native American, Puerto Rican domestic and independentista movements, revolutionary pan-Asian revolutions, and white and multi-racial revolutionary trajectories); in addition to select additional contexts.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 175GW",
+  "title": "Proseminar on Grants, Fellowships, and Scholarships",
+  "units": "4",
+  "description": "This professional development seminar, or Proseminar, focuses on major scholarships, fellowships, and grants applications. It is designed for graduate students and advanced undergraduates in the humanities, qualitative social sciences, and education. The Proseminar is designed as a workshop, and has been developed over two decades of teaching and consulting at multiple institutions, in addition to insights from past and recent award recipients and foundation referees. Drawing upon the creative writing workshop models attention to genre, style, and the revision process, as well as the research seminars practice of meta-critical interrogation, Proseminar activities are designed to optimize each component of an application.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 175LL",
+  "title": "Law & Literature",
+  "units": "4",
+  "description": "This course helps students to bring literary critical skills to bear on reading legal texts, notably landmark judicial decisions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 176",
+  "title": "PERFORMANCE OF LITERATURE",
+  "units": "4",
+  "description": "Explores relationships between performances of identity, literary analysis, and the staging of literature. Students conceptualize the performance of identity, space, and text through original dramatization of literary materials that they prepare, stage, and embody. No theater experience required.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 176BC",
+  "title": "Performance of Literature: Race, Space, and Black California",
+  "units": "4",
+  "description": "This performance studies class focuses on the relationship between notions of racial performance, literary analysis, and performance of literature. Students analyze literature, history, and race, first, through reading and writing and, second, through a critical production of literature as theater. Exploring characteristics of performance in black literature and identity, this class asks how literature, and African-American literary offerings in particular, can be differently understood if staged. Students fully engage African American writing about Black California as literature and, in making specific interpretations, project an analysis through their own embodiment of text and their own staging of its atmosphere and meaning.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 176ML",
+  "title": "PERFORMANCE OF LITERATURE: AFRICAN AMERICAN MODERNISMS",
+  "units": "4",
+  "description": "Literature, literary analysis, and performance in turn-of-the-century Black writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 176PL",
+  "title": "Performance of Literature",
+  "units": "4",
+  "description": "Explores relationships between performances of identity, literary analysis, and the staging of literature. Students conceptualize the performance of identity, space, and text through original dramatization of literary materials that they prepare, stage, and embody. No theater experience required.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 176TJ",
+  "title": "Post Modern African American Literature and Drama",
+  "units": "4",
+  "description": "Studies late 20th & early 21st Century African American Post-Modern Literature, Drama, and Performance. Theatrical Jazz (TJ) is a creative form combines multidisciplinary improvisational performance modes to stage narrative and lyrical text, voicing, drama, and movement. Drawing primarily on work created after 1970, this class examines abstract, non-traditional texts created during the millennial era. The class focuses on what stories and kinds of tellings that challenge narrative structures are enabled by this form.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 179",
+  "title": "British Romantic-Era Writers",
+  "units": "4",
+  "description": "Studies major prose and poetic works from this revolutionary age to analyze the interaction between literary-cultural production and radical social change. How do these texts engage the social ferment of that era--its movements for democracy, abolition, prison reform, (white) women's rights? What does their emphasis on imagination and social dreaming contribute to our times?",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 180",
+  "title": "The Victorian Era",
+  "units": "4",
+  "description": "Such writers as Browning, Tennyson, Hopkins, Hardy, and the pre-Raphaelites.",
+  "prerequisites_raw": "Writing 2 or 50 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 181",
+  "title": "Studies in the Nineteenth Century",
+  "units": "4-28",
+  "description": "A course in the Romantic and Victorian periods. Topics will vary from quarter to quarter. To see what is being taught in any particular quarter, students should consult the department's website.",
+  "prerequisites_raw": "Writing 2 or 50 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 181AL",
+  "title": "Studies in the Nineteenth Century",
+  "units": "4-28",
+  "description": "A course in the Romantic and Victorian periods. Topics will vary from quarter to quarter. To see what is being taught in any particular quarter, students should consult the department's course outline booklet.",
+  "prerequisites_raw": "Writing 2 or 50 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 181LV",
+  "title": "Late Victorian Literature",
+  "units": "4",
+  "description": "A course in Late Victorian literature and culture. Topics will vary from quarter to quarter. To see what is being taught in any particular quarter, students should consult the department's website.",
+  "prerequisites_raw": "Writing 2 or 50 or equivalents.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 182",
+  "title": "Craft of Prose",
+  "units": "4",
+  "description": "Reading of selected fiction and other relevant prose emphasizing analysis and understanding of literary methods, kinds, techniques, and objectives from the viewpoint of the practicing writer.",
+  "prerequisites_raw": "Writing 2 or 50.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ }
+]

@@ -1,0 +1,237 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250A",
+  "title": "Labor Economics",
+  "units": "4",
+  "description": "Theory and application of labor supply and demand models. Applications include work incentives of social programs, employment effects of minimum wages, and effects of immigration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250B",
+  "title": "Wage Structure",
+  "units": "4",
+  "description": "Analysis of wage differentials by education, experience, union status, working conditions, and other factors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250C",
+  "title": "Current Research Topics in Labor Economics",
+  "units": "4",
+  "description": "Areas covered vary from year to year.",
+  "prerequisites_raw": "Economics 250A and 250B. Second year Ph.D. graduate student standing.",
+  "prerequisites_courses": [
+   "ECON 250A",
+   "ECON 250B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250D",
+  "title": "Population Economics",
+  "units": "4",
+  "description": "Course examines the determinants of population change and demographic behavior including household formation and dissolution, marriage and decision-making within households, child bearing and rearing, mortality (including infant mortality) and key forms of human capital investment including schooling and migration. Well apply theoretical and empirical tools to investigate the sources and consequences of demographic transitions including recent phenomena such as population aging, the emergence of lowest low fertility, and consider the role of policy instruments in changing demographic behavior.",
+  "prerequisites_raw": "Second year Ph.D. graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250E",
+  "title": "Labor Supply",
+  "units": "2",
+  "description": "Theory of static and dynamic labor supply. Testing model implications with lab experiments, field experiments, natural experiments and observational data. Quantifying the partial and general equilibrium impacts of taxes and income support programs on labor supply, income and welfare. Classical and behavioral models of the supply of effort, including reference points, procrastination, fairness concerns and reciprocity.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250F",
+  "title": "Labor Demand and Wage Differentials",
+  "units": "2",
+  "description": "Theory of static and dynamic labor demand, including models of implicit contracts. Effects of minimum wage laws and immigration on wages and employment. Monopsony-based models of imperfect competition and firm wage effects. Theory and evidence on compensating differentials and employer learning models. Gender and racial wage gaps and the effects of discrimination on wages.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250G",
+  "title": "Economics of Education",
+  "units": "2",
+  "description": "Examines a range of topics related to education. These include the return to education, the quality of education, the role of peer groups, the market for teachers, school choice, and the importance of institutional structures.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250H",
+  "title": "Human Capital",
+  "units": "2",
+  "description": "Focuses on identifying the key factors that influence the development of human capital from the prenatal period through adulthood. Explores the important roles played by families, peers, schools, and communities.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250I",
+  "title": "Personnel Economics",
+  "units": "2",
+  "description": "A formal economic approach to the design of incentives and the selection and retention of personnel within organizations, including both classical and behavioral approaches. Includes static and dynamic principal-agent models with risk-neutral and risk-averse agents, the economics of tournaments and teams, multi-task agency problems, ratchet effects and career concerns. Optimal testing and monitoring of employees and efficiency wage models.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250J",
+  "title": "Empirical Search and Recruiting",
+  "units": "2",
+  "description": "Empirical analysis of the labor market matching process, including informal and network-based search as well as ads and applications. Effects of job ad content, including wage posting, vertical and horizontal skill requests and job/worker characteristics on applicant pools. Selection of candidates from applicant pools and the role of testing, interviews, and managerial discretion. Job search by workers, including the intensity, timing, methods and direction of search activity. Comparing sequential versus nonsequential search and recruiting methods. Scope of search in geographical and task space. This course draws heavily on newly-available data on search and recruiting taken from online job boards and online labor markets (OLMs).",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 250K",
+  "title": "Personnel Economics II",
+  "units": "2",
+  "description": "This course provides a treatment of personnel economics, and the application of labor economics to issues inside of firms. We focus on topics covered less in the course by Professor Peter Kuhn, including hiring, workplace amenities, workplace communication, management practices, managers, monitoring, and time use. The majority of papers we will read will be empirical papers. However, much of personnel economics is grounded in economic theory, so we will also go through theoretical ideas and some theory papers. We will also spend time developing our taste for what constitutes a quality empirical research paper. The ultimate goal is for you to leave prepared to undertake your own empirical research.",
+  "prerequisites_raw": "Second-year Ph.D. in Economics graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 251",
+  "title": "Labor Economics",
+  "units": "4",
+  "description": "This applies analytical tools to assess labor supply, labor demand, and equilibrium from a theoretical and empirical perspective. Topics such as unemployment, income support programs and the impact of immigration are examined. The course emphasizes applied work and econometric methodology.",
+  "prerequisites_raw": "Masters level student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 253A",
+  "title": "Job Search Theory",
+  "units": "4",
+  "description": "Theoretical and quantitative aspects of search theory as it applies to labor markets. Includes topics such as bargaining and models of wage determination, vacancies and unemployment.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 253B",
+  "title": "Topics in Search and Matching",
+  "units": "4",
+  "description": "Surveys topics in search and matching theory with a particular emphasis on unemployment and the labor market. As far as possible, the topics will be chosen to complement the material covered in Economics 253A. Examples of topics covered are: (1) Competitive search with particular emphasis on markets with asymmetric information, (2) Applications of search theory to the housing market and (3) Applications of search theory to informal labor markets in Latin America.",
+  "prerequisites_raw": "2nd year Economics Ph.D. standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260A",
+  "title": "Natural Resources",
+  "units": "4",
+  "description": "Capital theory and welfare economics applied to the primarily dynamic questions concerning the uses of nonrenewable resources such as minerals, the use of renewable resources such as fisheries and forests, and the preservation of species and natural environments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260B",
+  "title": "Environmental Economics",
+  "units": "4",
+  "description": "The primarily static theory of externalities and their correction. Covers basic theory of public bads and externalities, regulation theory related to environmental problems and applications, the valuation of environmental goods, transboundary pollution, and international trade and the environment.",
+  "prerequisites_raw": "Economics 210A-B",
+  "prerequisites_courses": [
+   "ECON 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260C",
+  "title": "Collective Action and Open Access",
+  "units": "4",
+  "description": "Collective action problems addressing open access losses, including uncertainty, heterogeneous parties and information costs. Covers timing and nature of regulation and the assignment of property rights. Empirical topics include; water, air pollution, oil and gas extraction, and climate change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260D",
+  "title": "Natural Resource Economics: Dynamic Programming Methods",
+  "units": "2",
+  "description": "Students develop analytical and numerical dynamic programming methods to solve dynamic natural resource management problems. Applications include fisheries, water, forestry, spatial resource use, and stochastic extraction problems.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260E",
+  "title": "Natural Resource Economics: Continuous-Time Methods",
+  "units": "2",
+  "description": "Covers methods of continuous-time dynamic optimization and its application to natural resource management. Classic models of renewable and nonrenewable resources are examined, together with related empirical applications.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260F",
+  "title": "Demand for Environmental Goods",
+  "units": "2",
+  "description": "Covers the theory and practice of using revealed preferences to recover the valuation of environmental goods. Methods include hedonic, travel cost, cost of illness, and sorting techniques. A special emphasis is placed on challenges to empirically measuring causal identification of marginal willingness to pay for environmental goods.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260G",
+  "title": "Environmental Externalities and Regulation",
+  "units": "2",
+  "description": "Covers the theory and empirical analysis of environmental regulation. Theoretical models will focus on the optimal regulation of environmental public goods in first and various second-best settings. Empirical applications will include the estimation of environmental policy costs in partial and general equilibrium, as well as the unintended consequences of such policies.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260H",
+  "title": "Climate Change, Adaptation, and Policy",
+  "units": "2",
+  "description": "Covers the causes, implications, and economic solutions to anthropogenic climate change. Theoretical topics include optimal dynamic climate policy and the social cost of carbon. Empirical topics include the estimation of climate policy costs and benefits, in particular the estimation of climate-response functions.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 260I",
+  "title": "Time, Uncertainty, and Environmental Policy",
+  "units": "2",
+  "description": "Economic analysis of environmental problems often requires us to evaluate policies with very long run, highly uncertainty consequences. This course covers developments in the theory of intertemporal choice and choice under uncertainty and their applications in environmental economics. Topics include social discounting, intergenerational ethics, precautionary policies, learning, ambiguity, and catastrophic risks.",
+  "prerequisites_raw": "Second year Ph.D. in Economics graduate student standing.�",
+  "prerequisites_courses": []
+ }
+]

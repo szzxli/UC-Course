@@ -1,0 +1,281 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 146A",
+  "title": "Digital Communication Fundamentals",
+  "units": "5",
+  "description": "Signal and channel models, with emphasis on wireless systems; digital modulation; demodulation basics; statistical modeling of noise, including review of probability theory and random variables.",
+  "prerequisites_raw": "ECE 130A-B with a minimum grade of C-; ECE 139 or PSTAT 120A; open to CE & EE majors only.",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ECE 139",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 146B",
+  "title": "Wireless Communication Systems Design",
+  "units": "5",
+  "description": "Optimal demodulation, including signal space geometry; communication performance characterization; advanced wireless communication techniques, including multi-antenna and multicarrier systems; other emerging frontiers in communications.",
+  "prerequisites_raw": "ECE 130A-B and 146A with minimum grades of C-; ECE 139 or PSTAT 120A; open to CE and EE majors only.",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ECE 139",
+   "PSTAT 120A",
+   "ECE 146A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 147A",
+  "title": "Feedback Control Systems - Theory and Design",
+  "units": "5",
+  "description": "Feedback systems design, specifications in time and frequency domains. Analysis and synthesis of closed loope systems. Computer aided analysis anddesign.",
+  "prerequisites_raw": "ECE 130A-B with a minimum grade of C- in each; open to electrical engineering and computer engineering majors only.",
+  "prerequisites_courses": [
+   "ECE 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 147B",
+  "title": "Digital Control Systems - Theory and Design",
+  "units": "5",
+  "description": "Analysis of sampled data feedback systems; state space description of linear systems: observability, controllability, pole assignment, state feedback, observers. Design of digital control systems.",
+  "prerequisites_raw": "ECE 147A with a minimum grade of C-; open to EE and CE majors only.",
+  "prerequisites_courses": [
+   "ECE 147A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 147C",
+  "title": "Control System Design Project",
+  "units": "5",
+  "description": "Students are required to design, implement, and document a significant control systems project. The project is implemented in hardware or in high-fidelity numerical simulators. Lectures and laboratories cover special topics related to the practical implementation of control systems.",
+  "prerequisites_raw": "ECE 147A or ME 155B or ME 173 with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 147A",
+   "ME 155B",
+   "ME 173"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 148",
+  "title": "Applications of Signal Analysis and Processing",
+  "units": "4",
+  "description": "A sequence of engineering applications of signal analysis and processing techniques; in communications, image processing, analog and digital filter design, signal detection and parameter estimation, holography and tomography, Fourier optics, and microwave and acoustic sensing.",
+  "prerequisites_raw": "ECE 130A and 130B with a minimum grade of C- in both.",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ECE 130B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 149",
+  "title": "Game Theory for Networked Systems",
+  "units": "4",
+  "description": "An overview of game theory with an emphasis on application to multiagent systems. Game theory focuses on the study of systems that are comprised of interacting and possibly competing decision-making entities. Examples drawn from engineered, economics, and social systems.",
+  "prerequisites_raw": "UPPER DIVISION STANDING OR CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 150",
+  "title": "MOBILE EMBEDDED SYSTEMS",
+  "units": "4",
+  "description": "Architectures of modern smartphones and their key hardware components including mobile application processors, communications chips, display, touchscreen, graphics, camera, battery, GPS,and various sensors; the OS and software development platform of smartphones; smartphone applications; low power design techniques.",
+  "prerequisites_raw": "Proficiency in JAVA programming, and a C- in ECE 152A.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 152A",
+  "title": "Digital Design Principles",
+  "units": "5",
+  "description": "Design of synchronous digital systems: timing diagrams, propagation delay, latches and flip-flops, shift registers and counters, Mealy/Moore finite state machines, Verilog, 2-phase clocking, timing analysis, CMOS implementation, S-RAM, RAM-based designs, ASM charts, state minimization.",
+  "prerequisites_raw": "ECE 15A and ECE 2A or ECE 10A & ECE 10AL with a minimum grade of C- in each course; or Computer Science 30 or 64 with a minimum grade of C- in each course; open to electrical engineering, computer engineering, and computer science majors only.",
+  "prerequisites_courses": [
+   "ECE 15A",
+   "ECE 2A",
+   "ECE 10A",
+   "ECE 10AL",
+   "CMPSC 64"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 152B",
+  "title": "Digital System Design",
+  "units": "4",
+  "description": "Hierarchical digital design both top-down and bottom-up with special emphasis on the role of wire loading, architecture design with partitioning, planning, and timing closure. Module and system interfaces and communication structural design. Design debugging using on chip JTAG based resources, static timing analysis, multiple clock domains, synchronization and computer peripheral design.",
+  "prerequisites_raw": "ECE 152A with a minimum grade of C-; open to EE, CMPEN, and Computer Science majors only.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 153A",
+  "title": "Hardware/Software Interface",
+  "units": "4",
+  "description": "Design and coding of embedded programs. Real-time constraints and management of resources. Practical I/O interfaces and protocols, polling, interrupt maintenance, atomic code, blocking and non-blocking tasks. Static and dynamic task scheduling under real-time and limited resource constraints.",
+  "prerequisites_raw": "Upper division standing in Computer Engineering, Computer Science and Electrical Engineering. Familiarity with C, FiniteAutomata, and Computer Architecture.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 153B",
+  "title": "Sensor and Peripheral Interface Design",
+  "units": "4",
+  "description": "Hardware description languages; field-programmable logic and ASIC design techniques. Mixed-signal techniques: A/D and D/A converter interfaces; video and audio signal acquisition, processing and generation, communication and network interfaces.",
+  "prerequisites_raw": "ECE 152A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 154A",
+  "title": "Introduction to Computer Architecture",
+  "units": "4",
+  "description": "Instruction-set architecture (ISA) and computer performance; Machine instructions, assembly, addressing modes; Memory map,arrays, pointers; Procedure calls; Number formats; Simple ALUs; Data path,control, microprogram; Buses, I/O programming, interrupts; Pipelined data paths and control schemes.",
+  "prerequisites_raw": "ECE 152A with a minimum grade of C-; open to EE and CMPEN majors only.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 154B",
+  "title": "Advanced Computer Architecture",
+  "units": "4",
+  "description": "ISA variations; Pipeline data and controlhazards; Fast ALU design; Instruction-level parallelism, multithreading, VLIW; Vector and array processing, multi/many-core chips; Cache and virtual memory; Disk arrays; Shared- and distributed-memory systems, supercomputers; Reconfigurable and application-specific circuits.",
+  "prerequisites_raw": "ECE 154A with a C- grade or better. Open to EE and CMPEN majors only.",
+  "prerequisites_courses": [
+   "ECE 154A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 157A",
+  "title": "Machine Learning in Design and Test Automation",
+  "units": "4",
+  "description": "Introduces the various machine learning techniques and how they are utilized to improve hardware design and test automation processes. The potential benefits and theoretical barriers for implementing a machine learning solution in practice are explained.",
+  "prerequisites_raw": "ECE 152A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 157B",
+  "title": "Artificial Intelligence in Design and Test Automation",
+  "units": "4",
+  "description": "Introduces an artificial intelligence system view to apply machine learning in design and test automation processes. The various components for building an Intelligent Engineering Assistant (IEA) to perform an engineering task in an industrial setting are explained.",
+  "prerequisites_raw": "ECE 157A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 157A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 157C",
+  "title": "AI Agents for the Semiconductor Industry",
+  "units": "4",
+  "description": "Covers theories and practices of verification/test for checking hardware correctness and trustworthiness of large language models. A connection between the two is drawn. Students learn the principles of verification and test and how to apply them in both contexts.",
+  "prerequisites_raw": "Upper-division standing; open to Computer Engineering and Electrical Engineering Majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 158",
+  "title": "Digital Signal Processing",
+  "units": "4",
+  "description": "Digital Signal Processing, with Applications: The Fast Fourier transform, discrete cosine transform, and multirate digital signal processing techniques, with applications to digital cellular communications and wireless access points, and audio, voice, still image, video, and biological signal analysis, recognition and compression.",
+  "prerequisites_raw": "ECE 130A-B with a minimum grade of C-; open to EE majors only.",
+  "prerequisites_courses": [
+   "ECE 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 160",
+  "title": "Multimedia Systems",
+  "units": "4",
+  "description": "Introduction to multimedia and applications, including WWW, image/video databases and video streaming. Covers media content analysis, media data organization and indexing (image/video databases), and media data distribution and interaction (video on-demand and interactive TV).",
+  "prerequisites_raw": "Upper-division standing; open to electrical engineering, computer engineering, computer science, and creative studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 162A",
+  "title": "The Quantum Description of Electronic Materials",
+  "units": "4",
+  "description": "Electrons as particles and waves, Schrodinger's equation and illustrative solutions. Tunnelling. Atomic structure, the exclusion principle and the periodic table. Bonds. Free electrons in metals, periodic potentials and energy bands.",
+  "prerequisites_raw": "ECE 130A-B and 134 with a minimum grade of C- in all; open to EE, seniors in the BS/MS program and Materials graduate students only.",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ECE 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 162B",
+  "title": "Fundamentals of the Solid State",
+  "units": "4",
+  "description": "Crystal lattices and the structure of solids, with emphasis on semiconductors. Lattice vibrations. Electronic states and energy bands. Electrical and thermal conduction. Dielectric and optical properties. Semiconductor devices: diffusion, P-N junctions and diode behavior.",
+  "prerequisites_raw": "ECE 162A with a minimum grade of C-; open to EE, senior students in the BS/MS programs and Materials graduate students only.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 162C",
+  "title": "Optoelectronic Materials and Devices",
+  "units": "4",
+  "description": "Optical transitions in solids. Direct and indirect gap semiconductors. Luminescence. Excitons and photons. Fundamentals of optoelectronic devices: semiconductor lasers, Led's photoconductors, solar cells, photo diodes, modulators. Photoemission. Integrated circuits.",
+  "prerequisites_raw": "ECE 162A-B with a minimum grade of C-; open to electrical engineering and materials majors only.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 178",
+  "title": "Introduction to Digital Image and Video Processing",
+  "units": "4",
+  "description": "Basic concepts in image and video processing. Topics include image formation and sampling, image transforms, image enhancement, and image and video compression including JPEG and MPEG coding standards.",
+  "prerequisites_raw": "Open to electrical engineering, computer engineering, and computer science majors with upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

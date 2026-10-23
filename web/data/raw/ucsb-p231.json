@@ -1,0 +1,264 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 183",
+  "title": "Cartographic Design and Geovisualization",
+  "units": "4",
+  "description": "Technical introduction to graphic representation and visualization of geographic information. Lectures cover static and dynamic design aspects, thematic mapping, interface design, animation, and 3D. Labs provide experience designing thematic maps and constructing basic GeoVis tools with current software.",
+  "prerequisites_raw": "Geography 12 or 176A",
+  "prerequisites_courses": [
+   "GEOG 12",
+   "GEOG 176A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 184",
+  "title": "Introduction to Cartographic Programming",
+  "units": "4",
+  "description": "Introduces the student to cartographic programming principles. Instruction will emphasize structured decomposition, device independence and reusability in cartographic software. Lab work will provide students with hands-on experience with implementing a reusable cartographic library.",
+  "prerequisites_raw": "Computer Science 5 and Geography 12.",
+  "prerequisites_courses": [
+   "GEOG 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 185A",
+  "title": "Geography Planning and Policy Making",
+  "units": "4",
+  "description": "Relevance of geographic knowledge and skills to aspects of planning and policy making. Includes review of core concepts in decision making, planning theory, systems analysis, information systems, urban and regional modeling, forecasting, impact analysis, implementation of decisions, planning policies.",
+  "prerequisites_raw": "Geography 5 or Environmental Studies 116.",
+  "prerequisites_courses": [
+   "GEOG 5",
+   "ENV S 116"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 185B",
+  "title": "Environmental Issues and Location Decision Making",
+  "units": "4",
+  "description": "Introduction to decision-making techniques with regard to land use allocation and planning. Emphasizes addressing conflicts involving environmental concerns and multiple objectives. Examples include water resources development, corridor location (rights-of-way), preservation of endangered species, and power plant siting.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4 or 5 or Environmental Studies 135A.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "ENV S 135A",
+   "GEOG 4",
+   "GEOG 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 185C",
+  "title": "Local and Regional Economic Analysis",
+  "units": "4",
+  "description": "Introduces methods of economic analysis used in local/regional policy analysis and planning. Course modules focus on planning and policy issues in California related to inter-regional income inequality, industry structure/competitiveness, and regional occupational labor markets.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 186",
+  "title": "ANALYSIS AND MODELING OF MOVEMENT",
+  "units": "4",
+  "description": "Many geographic, social, and natural systems involve dynamic processes or movement of individuals in space and time. Examples include animal migration, human mobility, disease diffusion, and natural disasters like hurricanes and wildfires. Movement is key to understanding these dynamic processes. This course reviews computational methods for analysis, modeling and simulation of movement in ecological and human systems. Students gain an understanding of spatiotemporal processes and patterns, and develop computational skills to process trajectory data, analyze movement patterns, and apply movement models.",
+  "prerequisites_raw": "Geography 176A or 176B or Environmental Studies 154 or Earth Science 176; and, Computer Science 8 or Geography 13; or equivalent course work; or consent of instructor",
+  "prerequisites_courses": [
+   "GEOG 176A",
+   "ENV S 154",
+   "EARTH 176",
+   "CMPSC 8",
+   "GEOG 13",
+   "GEOG 176B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 189",
+  "title": "Close-Range Remote Sensing of Earth Surface Processes",
+  "units": "4",
+  "description": "Introduction to close-range remote sensing for interpreting and detecting changes in Earth surface processes and landscapes. Topics include: unpiloted aerial systems (UAS), LIDAR (aerial, terrestrial), autonomous camera systems, Structure-from-Motion photogrammetry, spatial-temporal change detection, etc. Review key principles, methods, and technologies of both active (e.g., laser-based) and passive (e.g., photogrammetric based) sensors. Experiential learning via interactive lectures and hands-on, field-based lab assignments.",
+  "prerequisites_raw": "GEOG 3 or 4, Upper Division unit standing",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 190",
+  "title": "Location Theory and Modeling",
+  "units": "4",
+  "description": "A technical overview of location analysis and modeling in the context of GIScience. Applications associated with emergency service planning, natural resource management, retail site selection, among others, will be relied upon to make connections among models, spatial information and interpretation of findings. Utilization and implementation considerations using GIS and commercial optimization software will be explored.",
+  "prerequisites_raw": "MATH 2A or 3A or 34A or consent of instructor.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 191",
+  "title": "Introduction to Optimization Methods for Geographic Problems",
+  "units": "5",
+  "description": "Introduction to spatial optimization methods that are used in the analysis of geographic problems, including linear programming, network programming, integer programming, and dynamic programming. Example problems involving spatial temporal decision making are emphasized. Lab section includes the use of optimization software for analysis, planning and decision making.",
+  "prerequisites_raw": "Mathematics 2A, 3A, or 34A.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 192",
+  "title": "Urban and Environmental System Analysis",
+  "units": "4",
+  "description": "Applications of operations research techniques and decision analysis in structuring approaches to urban and environmental problems. Examples are drawn from problems in facility location, regional models, transportation and other networks, utility corridors and similar problems.",
+  "prerequisites_raw": "Geography 3 or 3A or 3B or 4 or 5 or 108 or 109.",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "GEOG 4",
+   "GEOG 5",
+   "GEOG 108",
+   "GEOG 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 193",
+  "title": "Internship in Geography",
+  "units": "0",
+  "description": "Practical experience and research on geographical problems under faculty direction as interns with local, state, and federal agencies, with private research and development firms, and with other business organizations. Periodic and final reports required.",
+  "prerequisites_raw": "Upper-division standing in geography; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 194",
+  "title": "Field Study of California's Coast",
+  "units": "4",
+  "description": "Explores the physical geography of California's southern and central coast by way of field trips to iconic and interesting beaches, estuaries, bluffs, dunes, and salt marshes combined with topical lectures and guest speakers. Field trips may involve visiting parks, restored ecosystems, government facilities, or urban areas. Issues of landscape management and human-environment interactions in the coastal zone will also be explored. Student projects will study a visited site, or one of their own interest, and investigate its environmental and human histories, modern dynamics, and/or future challenges.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195",
+  "title": "Selected Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195DR",
+  "title": "Selected Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195IW",
+  "title": "Selected Topic in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195JK",
+  "title": "Selected Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195KB",
+  "title": "Selected Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195KG",
+  "title": "Smart Green Cities",
+  "units": "0",
+  "description": "Smart Cities promote social and human capital, support a more competitive economy, expand participation in government, increase access to opportunities, and protect natural resources. Smart technology, including self-driving cars, can help us save lives, decrease pollutant emissions, and use resources in a sustainable way. Which technologies are smart and can they achieve sustainable pathways? Which cities have done this and how? Are Smart Cities sustainable and resilient? This course will answer these questions by examining real-life experiments, review current technologies, and explore future developments using scientific papers, popular press, and online media.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195LC",
+  "title": "Selected Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195NN",
+  "title": "Selected Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 195SD",
+  "title": "Analysis and Modeling of Movement",
+  "units": "0",
+  "description": "Introduces students to the concepts of movement processes and patterns. Students learn about existing methods for analysis, pattern mining, and modeling of movement. Students will develop computational skills to analyze movement data and model a movement phenomenon of their choice. Students must have programming knowledge - either R or Python, as well as some knowledge of spatial data analysis.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 196",
+  "title": "Coastal Landscapes and Processes",
+  "units": "4",
+  "description": "Introduction to coastal landscapes and their formative processes, including: beaches, dunes, barriers, bluffs, estuaries, salt marshes, nearshore bars, marine terraces, etc. Overview of key theories, concepts, models, and research in coastal geomorphology. Applications for understanding real-world issues such as sea-level rise, coastal erosion and flooding, land use planning, and ecosystem restoration will also be explored. Experiential learning via interactive lectures, local field trips, hands-on learning of field methods, and an independent project based on student interests.",
+  "prerequisites_raw": "GEOG 3 or 4 or EARTH 1 or 2",
+  "prerequisites_courses": [
+   "GEOG 3",
+   "EARTH 1",
+   "GEOG 4",
+   "EARTH 2"
+  ]
+ }
+]

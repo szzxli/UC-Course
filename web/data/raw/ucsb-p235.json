@@ -1,0 +1,331 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288SD",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288SS",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288TN",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288VG",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288WK",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 288WX",
+  "title": "Special Topics in Geography",
+  "units": "0",
+  "description": "Geographic curriculum content that lies outside regularly scheduled courses. New classes under development or taught temporarily. Course number-letter combination reflects instructor. Content varies.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 289",
+  "title": "Advanced Close-Range Remote Sensing of Earth Surface Processes",
+  "units": "4",
+  "description": "Advanced study of close-range remote sensing theory and practice for research and teaching applications in Physical Geography. Topics include: unpiloted aerial systems (UAS), LIDAR (aerial, terrestrial), autonomous camera systems, Structure-from-Motion photogrammetry, spatial-temporal change detection, etc. Apply key principles, methods, and technologies of both active (e.g., laser-based) and passive (e.g., photogrammetric based) sensors culminating in an independent course project. Experiential learning via interactive lectures and hands-on, field-based assignments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 290",
+  "title": "Advanced Location Theory and Modeling",
+  "units": "4",
+  "description": "Survey of advanced methods of location analysis and modeling in the context of GIScience. Applications associated with emergency service planning, natural resource management, retail site selection, among others, are relied upon to make connections among models, spatial information and interpretation of findings. Practical implementation using GIS and commercial optimization software is explored.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 291",
+  "title": "Optimization Models for Geographic Problems",
+  "units": "4",
+  "description": "Survey of advanced optimization techniques with applications to geographical problems. Methods include advanced topics in linear programming, dynamic programming, integer programming, networks, and queuing.",
+  "prerequisites_raw": "Mathematics 3A or 5A or 34A.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 292",
+  "title": "Urban and Environmental System Analysis",
+  "units": "4",
+  "description": "Survey of advanced spatial optimization methods to support urban and environmental system analysis. The specification and development of methods will be highlighted, as well as utility and application in practice. Implementation challenges spanning theory implementation through GIScience are explored.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 294",
+  "title": "Advanced Topics in Location and Transportation Systems",
+  "units": "4",
+  "description": "Study of current research and application of systems models in the analysis, design, operation, and scheduling of transport and location problems.",
+  "prerequisites_raw": "Geography 190 or 191 or 291.",
+  "prerequisites_courses": [
+   "GEOG 190",
+   "GEOG 191",
+   "GEOG 291"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 295",
+  "title": "Advanced Topics in Pedology",
+  "units": "4",
+  "description": "Intensive reading and discussions of current topics in soil-geomorphology, soil-geochemistry, and quantitative modeling of soil processes.",
+  "prerequisites_raw": "Geography 209.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 295A",
+  "title": "Soils and Ecosystems",
+  "units": "3",
+  "description": "Development of the links between the biological and inorganic components of the soil. Water availability and nutrients control plant and soil microbial communities. These in turn affect the soil by enhancing weathering and modifying the local environment.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 296",
+  "title": "Coastal Landscapes and Processes",
+  "units": "4",
+  "description": "Introduction to coastal landscapes and their formative processes, including: beaches, dunes, barriers, bluffs, estuaries, salt marshes, nearshore bars, marine terraces, etc. Overview of key theories, concepts, models, and research in coastal geomorphology. Applications for understanding real-world issues such as sea-level rise, coastal erosion and flooding, land use planning, and ecosystem restoration will also be explored. Experiential learning via interactive lectures, local field trips, hands-on learning of field methods, and an independent project based on student interests. Depth of topics and scope of projects will differ for the graduate level offering.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 500",
+  "title": "Teaching Assistant Training",
+  "units": "2",
+  "description": "Course for new teaching assistants to examine geographic teaching methods and classroom procedures. Emphasis on use of equipment and facilities in the department, teaching aids, lectures, exams, grading, student advising, and special problems. Repeatable.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Instructor is usually student's major professor.",
+  "prerequisites_raw": "Consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 597",
+  "title": "Individual Study for Ph.D. Examinations",
+  "units": "0",
+  "description": "Instructor should be student's major professor or chair of the doctoral committee.",
+  "prerequisites_raw": "Consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Research toward and writing of thesis.",
+  "prerequisites_raw": "Consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG",
+  "code": "GEOG 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Research toward and writing of dissertation. Instructor should be chair of student's doctoral committee.",
+  "prerequisites_raw": "Consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG W",
+  "code": "GEOG W 8",
+  "title": "Introduction to Global Warming",
+  "units": "5",
+  "description": "Overview of global warming and climate change processes. Description of complex relationships between scientific, technological, economic, social, political, and historical facets of global warming and climate change. Introduction to the concept and practice of climate modeling.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG W",
+  "code": "GEOG W 12",
+  "title": "Maps and Spatial Reasoning",
+  "units": "5",
+  "description": "Surveys properties of maps, emphasizing map use and interpretation. Lecture topics include map abstraction, generalization, map projections, and symbolization. Special purpose maps, thematic maps, and the display of quantitative and qualitative information is considered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOG W",
+  "code": "GEOG W 176A",
+  "title": "Introduction to Geographic Information Systems and Science",
+  "units": "4",
+  "description": "Comprehensive overview of Geographic Information Systems and Science. Topics span the nature of geographic information and the procedures for operating GIS. Labs provide hands-on experience with GIS and related software.",
+  "prerequisites_raw": "Upper Division Unit Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOL",
+  "code": "GEOL 3L",
+  "title": "LAB GEN GEOL-HISTOR",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "SHOULD BE TAKEN CONCURRENTLY BUT MAY FOLLOW GEOLOGY 3.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOL",
+  "code": "GEOL 100A",
+  "title": "FRONTIERS EARTH SCI",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOL",
+  "code": "GEOL 112",
+  "title": "STRATIGRPH PALEONT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "GEOLOGY 104A, 111, OR CONSENT OF INSTRUCTOR. FIELD TRIPS.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOL",
+  "code": "GEOL 226",
+  "title": "THERMO PETRO APPL",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "A COURSE IN PHYSICAL CHEMISTRY.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOL",
+  "code": "GEOL 227",
+  "title": "Mineral Paragenesis",
+  "units": "2",
+  "description": "Application of mineral data, such as composition and structural state, to rock origins.",
+  "prerequisites_raw": "Geology 128, or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOL",
+  "code": "GEOL 227L",
+  "title": "Laboratory, Mineral Paragenesis",
+  "units": "2",
+  "description": "Practical application of mineral data, such as composition and structural state, to rock origins.",
+  "prerequisites_raw": "Geology 227 to be taken concurrently.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GEOL",
+  "code": "GEOL 270",
+  "title": "Seminar in Geologic Problems",
+  "units": "0",
+  "description": "Review and discussion of a current problem in geology. Content is variable and depends on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 1",
+  "title": "Elementary German",
+  "units": "5",
+  "description": "Beginning course in German. Student acquires the basic structure of the language, communicative skills, a limited general vocabulary, correct pronunciation, and an ability to read and understand simple cultural texts.",
+  "prerequisites_raw": "Not open for credit to students who have completed more advanced work in German.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 1G",
+  "title": "Introduction to Reading German (for Graduate Students)",
+  "units": "4",
+  "description": "First part of a two-quarter sequence that introduces graduate students to the essentials of the German language with emphasis on aspects of structure that are indispensable for reading skills. Translation of academic, literary, philosophical, scientific, and journalistic texts. Open to students with graduate standing in any field.",
+  "prerequisites_raw": "Graduate standing in any field.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GER",
+  "code": "GER 2",
+  "title": "Elementary German",
+  "units": "5",
+  "description": "Continuation of German 1.",
+  "prerequisites_raw": "Grade of P or grade of C or better in German 1. Not open for credit to students who have completed more advanced work in German.",
+  "prerequisites_courses": [
+   "GER 1"
+  ]
+ }
+]

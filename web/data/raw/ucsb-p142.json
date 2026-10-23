@@ -1,0 +1,329 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 90B",
+  "title": "Getting into the Environment: Introduction to Ecological Science and Careers II",
+  "units": "2",
+  "description": "Part of an NSF funded grant funded focused on improving STEM at Hispanic Serving Institutes (HSIs), called FUERTE, the course will continue to support students as they seek to pursue careers in environmental sciences. The course will focus on practical career skills development ranging from CV building, to graduate school applications, to finding internships, and will continue to increase exposure to research methods and tools in ecology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 90C",
+  "title": "Getting into the Environment: Introduction to Ecological Science and Careers III",
+  "units": "2",
+  "description": "This course is for students involved in the third year of the FUERTE program to help develop research projects they have begun in the field aspects of program or elsewhere into written research products. A number of career skills are also taught.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 92",
+  "title": "Special Topics in Biology",
+  "units": "0",
+  "description": "Special topics in ecology, evolution and marine biology. Course content varies. Information may be obtained in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 94",
+  "title": "Issues in Marine Conservation",
+  "units": "2",
+  "description": "Seminar course exploring a variety of current conservation issues affecting California's coastal ecosystems. Seminars include a range of guest speakers working on the scientific issues underlying the marine conservation challenges.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 96",
+  "title": "Introduction to Curation of Natural History Collections",
+  "units": "1",
+  "description": "Introduction to curation of natural history collections including vertebrate, plants, algae and lichen. Learn to collect, prepare, catalog, and preserve specimens via lectures, hands-on activities, and field trips. Collection focus changes quarterly. Internships available at conclusion of the course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 98",
+  "title": "Readings in Biological Sciences",
+  "units": "0",
+  "description": "Special readings on selected topics in biology. Individual conferences one one hour every week. Designed to broaden the out look and experience of advanced lower-division students. Hours and credit by arrangement with any member of the staff.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Laboratory or field experience for advanced lower-division students. Hours and credit by arrangement with any member of the staff.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 101",
+  "title": "Genomics and Molecular Evolution",
+  "units": "4",
+  "description": "Molecular evolution is a modern field of biology aiming to understand processes of evolution using molecular and genomic tools. This course provides basic concepts in molecular evolution including models of sequence evolution, genome evolution across the tree of life, concepts in molecular population genetics, molecular tests of natural selection, and regulatory evolution. These concepts are learned through the usage of classic examples of molecular evolution, as well as recent, timely studies (such as evolution of SARS-CoV2).",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 102",
+  "title": "Macroevolution: Biodiversity in Deep Time",
+  "units": "4",
+  "description": "An introduction to the scientific methods used to study the tempo and mode of evolution above the species level and important topics in macroevolution such as the Cambrian explosion, the origin of novelties, the evolution of development, and phylogenetics.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 102H",
+  "title": "Macroevolution-Honors",
+  "units": "1",
+  "description": "Honors component of EEMB 102. An in depth study of Macroevolution.",
+  "prerequisites_raw": "Concurrent enrollment in EEMB 102; consent of instructor",
+  "prerequisites_courses": [
+   "EEMB 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 103A",
+  "title": "Flora and Vegetation of California",
+  "units": "4",
+  "description": "An introduction to the plant diversity and plant communities of California. The floristic composition and ecology of California plant communities will be examined through lectures and field observations. Methods of plant identification will be applied in the laboratory. Two Saturday field trips are required.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 103B",
+  "title": "Vegetation and Flora of California",
+  "units": "4",
+  "description": "A continuation of the material in EEMB 103A, with increased emphasis on the composition and distribution of plant communities throughout California. Two field trips, three to four days each, are required in addition to the regularly scheduled laboratories.",
+  "prerequisites_raw": "EEMB 103A; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 103A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 106",
+  "title": "Biology of Fishes",
+  "units": "4",
+  "description": "The evolution, systematics, biogeography, and ecology of fishes.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 107",
+  "title": "Biology of Amphibians and Reptiles",
+  "units": "3",
+  "description": "An introduction to the diversity, systematics, functional morphology and ecology of modern lineages of amphibians and reptiles.",
+  "prerequisites_raw": "EEMB 113 and 113L both with a grade of C or better.",
+  "prerequisites_courses": [
+   "EEMB 113",
+   "EEMB 113L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 107L",
+  "title": "Herpetology Lab",
+  "units": "2",
+  "description": "An intensive introduction to the diversity and systematics of amphibians and reptiles worldwide with an additional focus on the western North American Herpetofauna.",
+  "prerequisites_raw": "Concurrent enrollment in EEMB 107.",
+  "prerequisites_courses": [
+   "EEMB 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 108",
+  "title": "Vertebrate Evolutionary Morphology",
+  "units": "5",
+  "description": "Lectures concern evolutionary and functional aspects of the development of structural complexity in vertebrates, emphasizing the role of size in determining mechanical and physiological optima and limits, and the constraints imposed by the evolutionary process. Labs involve dissections and demonstrations.",
+  "prerequisites_raw": "MCDB 1A; and, EEMB 2 and MCDB 1B; and, EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 109",
+  "title": "Vertebrate Paleontology",
+  "units": "4",
+  "description": "Introduction to the history of vertebrate life, with emphasis on the phylogenetic relationships of the major vertebrate groups.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, EEMB 3 (all with grades of C- or better) or EARTH 2 or 3 or 7 or 30",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 2",
+   "EARTH 3",
+   "EARTH 7",
+   "EARTH 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 111",
+  "title": "Parasitology",
+  "units": "5",
+  "description": "An ecological approach to parasitism. Survey of parasites of humans and other animals. Discussion of evolutionary, genetic, immunological, sociological, political, and economic aspects. Laboratory stresses anatomy and life cycles of living material.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 111H",
+  "title": "Parasitology-Honors",
+  "units": "1",
+  "description": "Honors component of EEMB 111. An in depth study of a topic in parasitology. A written report and an annotated bibliography are required.",
+  "prerequisites_raw": "Concurrent enrollment in EEMB 111; consent of instructor",
+  "prerequisites_courses": [
+   "EEMB 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 112",
+  "title": "Invertebrate Zoology",
+  "units": "5",
+  "description": "An introduction to the classification, structure, life histories, and habits of the major phyla of invertebrate animals (excluding annelids and arthropods), with emphasis on marine fauna of Santa Barbara area.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 113",
+  "title": "Vertebrate Biology, Ecology and Evolution",
+  "units": "4",
+  "description": "Evolutionary and ecological principles as demonstrated by amphibians, reptiles, birds, and mammals; competition and other species interactions; diversity and systematics with special emphasis on speciation theory.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 113L",
+  "title": "Laboratory in Vertebrate Biology, Ecology, and Evolution",
+  "units": "2",
+  "description": "Weekly field trips to numerous locations and laboratory work emphasizing classification, identification, and observation of local terrestrial vertebrates. Introduction to techniques such as trapping and banding to study vertebrates in the field.",
+  "prerequisites_raw": "Concurrent enrollment in EEMB 113.",
+  "prerequisites_courses": [
+   "EEMB 113"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 116",
+  "title": "Invertebrate Zoology: Higher Invertebrates",
+  "units": "5",
+  "description": "An introduction to the classification, structure, life histories, and habits of annelids and arthropods, with emphasis on the aquatic fauna of the Santa Barbara area.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 117",
+  "title": "Flow and Aquatic Ecosystems",
+  "units": "3",
+  "description": "Introduction to the interaction of hydrodynamics with aquatic organisms and ecosystems and use of quantitative approaches in aquatic ecology. Case studies include examples from lakes, rivers, kelp forests, and coral reefs.",
+  "prerequisites_raw": "EEMB 142A-B-C; Mathematics 3A-B or 34A-B or Math 2A-B; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 142A",
+   "MATH 3A",
+   "MATH 2A",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 118",
+  "title": "Entomology: insect biology, ecology, and evolution",
+  "units": "4",
+  "description": "Provides an introduction to the science of entomology. Lectures, labs, and field experiences will cover topics in insect biology, diversity, behavior, and ecology, and the importance of insects to humans and agriculture.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2, and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ }
+]

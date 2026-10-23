@@ -1,0 +1,297 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194R",
+  "title": "R Seminar -Coding for Ecological and Evolutionary Analysis",
+  "units": "2",
+  "description": "Explore the R programming environment for statistical analysis, data visualization, data management, and more. Stay up to date with current packages, learn new techniques, share invaluable tips and tricks. Exact topics will be determined by class participants. R can be used for a variety of applications (GIS, simulation modeling, web app development). Course will focus on hands-on application, with coding clinic and shared coding resources.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194RR",
+  "title": "Research Reviews in Aquatic Ecology",
+  "units": "2",
+  "description": "Reviews of research in Aquatic Ecology",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194RS",
+  "title": "Remote Sensing of Aquatic Environments Using the new Surface Water and Ocean Topography Satellite",
+  "units": "2",
+  "description": "In this course, we review papers coming out from the new Surface Water and Ocean Topography Mission (SWOT) launched in December 2022. SWOT uses radar interferometry to observe sub-mesoscale eddies and small motion features on the ocean as well as water surface heights and extents from inland water bodies (lakes, wetlands, and rivers) on a global scale. Undergraduate students will learn about the new satellite technology, what the data is best used for, how to download the datafiles from publicly available databases, and how to apply it to their research. This course is meant to benefit both those actively using remote sensing in their work and those who are curious if they can use this data for their research.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194S",
+  "title": "Plant Systematics and Evolution",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194T",
+  "title": "Parasitology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194TE",
+  "title": "Theoretical Ecology and Evolution",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194VE",
+  "title": "Topics in Visual Ecology",
+  "units": "2",
+  "description": "Animals interact with light in complex and fascinating ways - some are conspicuously patterned, for example, while others are nearly invisible. In this seminar, we will explore how ecology influences the ways that animals detect light, camouflage themselves, and communicate visually.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194WG",
+  "title": "Writing Grants-in-Aid of Research",
+  "units": "2",
+  "description": "Teaches students the basics of crafting small grant proposals, by introducing them to how to locate suitable funding opportunities, craft compelling narratives for funding, and justify budget requests. Each student will, over the course of the quarter, craft a small grant in aid of research (most likely Sigma Xi's Grant in Aid of Research for submission Sigma Xi's annual Spring deadline, but other funding opportunities will be considered on a case by case basis). We will use peer review circles and mock grant review panels to help refine their proposals before submission.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 194Z",
+  "title": "Ecoligical Physiology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 197",
+  "title": "Directed Studies",
+  "units": "0",
+  "description": "Hours and credit by arrangement with any faculty member.",
+  "prerequisites_raw": "EEMB major; consent of department; upper-division standing; completion of two upper-division courses in MCDB or EEMB; and a 2.5 GPA in upper-division major courses.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 198",
+  "title": "Directed Readings",
+  "units": "0",
+  "description": "Individual conferences one hour every two weeks. Special readings designed to broaden the outlook of students and to knit into a cohesive whole the basic principles underlying the major disciplines in the field.",
+  "prerequisites_raw": "EEMB major; consent of department; upper-division standing; completion of two upper-division courses in MCDB or EEMB.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Hours and credit by arrangement with any faculty member. Laboratory or field.",
+  "prerequisites_raw": "EEMB majors only; consent of instructor and department; upper-division standing; two upper-division courses in MCDB or EEMB.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 201",
+  "title": "Molecular Evolution",
+  "units": "4",
+  "description": "Major concepts in evolutionary biology, presented with a genetic emphasis. Provides an introduction to the study of population genetic processes and the patterns of genomic evolution, adaptation, and speciation that result from these processes.",
+  "prerequisites_raw": "EEMB 2 or MCDB 1A or Geol 3 or instructor approval",
+  "prerequisites_courses": [
+   "EEMB 2",
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 205",
+  "title": "Phylogenetics for Evolutionists, Ecologists, and Molecular Biologists",
+  "units": "3",
+  "description": "A practical yet thorough introduction to the theory and practice of phylogenetics. Emphasis on use as a tool to address questions in evolution, ecology, and molecular biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 211",
+  "title": "Parasitology",
+  "units": "5",
+  "description": "An ecological approach to parasitism. Survey of parasites of humans and other animals. Discussion of evolutionary, genetic, immunological, sociological, political, and economic aspects. Laboratory stresses anatomy and life cycles of living material.",
+  "prerequisites_raw": "EEMB 2-2L or MCDB 1B-BL; and, EEMB 3-3L or equivalents.",
+  "prerequisites_courses": [
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3",
+   "EEMB 2L",
+   "EEMB 3L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 212",
+  "title": "Topics in Parasitology",
+  "units": "3",
+  "description": "Consideration of theoretical aspects of parasite ecology, evolution, and physiology. General biology of a selected group of parasites chosen in consultation with students. Laboratory: individualized study of parasitological aspects relevant to students' general interests. An oral and written report is required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 214",
+  "title": "Global Change Ecology",
+  "units": "3",
+  "description": "Through lecture and discussion the course explores how current patterns of global change are affecting fundamental ecological patterns, such as species richness, range fragmentation and displacement, the distribution and virulence of disease, food web structure, and ecosystem services.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 217",
+  "title": "Flow and Aquatic Ecosystems",
+  "units": "3",
+  "description": "An introduction to the interaction of hydrodynamics with aquatic organisms and ecosystems and use of quantitative approaches in aquatic ecology. Case studies include examples from lakes, rivers, kelp forests, and coral reefs.",
+  "prerequisites_raw": "EEMB 142A-B-C or equivalent; and, Math 3A-B or 34A-B or equivalent.",
+  "prerequisites_courses": [
+   "EEMB 142A",
+   "MATH 3A",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 218",
+  "title": "Entomology: Insect Biology, Ecology, and Evolution",
+  "units": "4",
+  "description": "Provides an introduction to the science of entomology. Lectures, labs, and field experiences will cover topics in insect biology, diversity, behavior, and ecology, and the importance of insects to humans and agriculture. An enhanced insect collection including a greater number of specimens overall and specimens from more difficult/rare families properly curated and identified. A systematic literature review or original concept paper on an entomological topic relevant to the students research area or interests.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2, and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 222",
+  "title": "Experimental Design Workshop",
+  "units": "2",
+  "description": "A workshop for students focusing on statistica issues in the design and analysis of ecological experiments. Includes extensive analyses of real data sets supplied by the students. Specific topics vary each year.",
+  "prerequisites_raw": "Introductory course in statistics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 225",
+  "title": "Terrestrial Carbon Cycle",
+  "units": "4",
+  "description": "Explores the terrestrial carbon cycle as a central component of the Earth system and a critical frontier for climate solutions. Examines the biological and physical processes that govern terrestrial carbon fluxes and storage, and how these processes respond to global change. The course also engages students in analyzing nature-based solutions and critically evaluating strategies to protect and enhance terrestrial carbon sinks in a rapidly changing world.",
+  "prerequisites_raw": "Graduate Student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 228",
+  "title": "Ecological Constraints to Ecosystem Restoration",
+  "units": "4",
+  "description": "Integrates ecological principles with practical issues involved in ecosystem restoration. Beginning with the challenge of selecting goals and establishing a target trajectory, students evaluate how ecological knowledge can guide restoration and whether sustainable states or trajectories can be achieved.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 230",
+  "title": "Population Genetics",
+  "units": "4",
+  "description": "The consequences of mendelian principles in diploid pop ulations, includingquantitative genetics, genetic correlations, gene frequency, change under selection, the effects of mutation on populations, gene interactions in fitness, and ecological genetics.",
+  "prerequisites_raw": "MCDB 101A-B or equivalent.",
+  "prerequisites_courses": [
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 234",
+  "title": "Phycology",
+  "units": "5",
+  "description": "Overview on the biology of macroalgae and phytoplankton, with emphasis on living and adapting in the various environments. Topics include form-function, ecophysiology, unique aspects of bio-chemistry, antiherbivore strategies, applied phycology and mariculture.",
+  "prerequisites_raw": "MCDB 1A-AL; and, MCDB 1B-BL or EEMB 2-2L; and, EEMB 3-3L, or equivalents.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EEMB 2L",
+   "EEMB 3L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 241",
+  "title": "Advanced Physiological Plant Ecology",
+  "units": "7",
+  "description": "A study of the evnironmental and physiological parameters of plant distributions and niches with special reference to methods.",
+  "prerequisites_raw": "MCDB 1A-AL; and, MCDB 1B-BL or EEMB 2-2L; and, EEMB 3-3L; and, EEMB 140 or one course in plant physiology.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EEMB 140",
+   "EEMB 2L",
+   "EEMB 3L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 242",
+  "title": "Marine Ecology and Conservation",
+  "units": "4",
+  "description": "Provides an in-depth understanding of the biotic and abiotic interactions that determine ecological processes in marine environments, how these processes shape the structure of marine ecosystems, and how these principles are used to direct marine conservation and management.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

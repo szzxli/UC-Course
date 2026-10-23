@@ -1,0 +1,414 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109TC",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109TP",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "film studies 46 and consent of department. may be repeated for credit provi",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109VE",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "film studies 46 and consent of department. may be repeated for credit provi",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109VP",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "film studies 46 and consent of department. may be repeated for credit provi",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109WM",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 109WP",
+  "title": "Special Topics in Film Production",
+  "units": "4",
+  "description": "Focus on one or more aspects of film production such as music, writing, directing, design, acting, independent filmmaking, cinematography, producing. Topics will vary.",
+  "prerequisites_raw": "Film Studies 46; and, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 110",
+  "title": "Professional Development",
+  "units": "4",
+  "description": "Provides an overview of the career paths available to Film and Media Studies students as well as a practical understanding of how various industries operate. Also matches students with careers that meet their intellectual and professional goals.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 112",
+  "title": "Lighting for the Moving Image",
+  "units": "4",
+  "description": "A workshop/seminar approach to explorations in how lighting affects the moving image, Students gain hands-on experience working with multiple lighting scenarios including fixtures, greenscreen and natural light.",
+  "prerequisites_raw": "Film and Media Studies 46 or consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113AI",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113AM",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113AU",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113AV",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113AY",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113CM",
+  "title": "Special Topics in Film and Media Studies: Comedy Writing",
+  "units": "4",
+  "description": "A survey of classic and contemporary TV shows from a writers POV. We examine great television across genres, writing original scenes under their influence working independently, in partnership, and in collaborative writers rooms.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113CS",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113EC",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113GM",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113IW",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113LS",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113MS",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113PC",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113PN",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113PW",
+  "title": "Special Topics in Film and Media Studies: Pilot Writing",
+  "units": "4",
+  "description": "Workshop approach to writing a half-hour sitcom pilot.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113SA",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113SB",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113SS",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113SW",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113WH",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 113WJ",
+  "title": "Special Topics in Film and Media Studies",
+  "units": "4",
+  "description": "Topics in a special area of interest to film and media studies.",
+  "prerequisites_raw": "Film Studies 46 or upper-division standing.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 115",
+  "title": "Sound Production",
+  "units": "4",
+  "description": "A workshop approach to explorations of sound recording, editing, and mixing. Students learn how to use professional sound editing software with an emphasis on editing for film including in 5.1-surround sound.",
+  "prerequisites_raw": "Film Studies 104 or 105; consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 104",
+   "FAMST 105"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 115S",
+  "title": "Advanced Sound Production",
+  "units": "4",
+  "description": "This advanced course takes a workshop approach to explorations and methods of sound post-production, focusing on audio editing, audio repair, mixing and delivery. Lectures complement the hands-on labs by covering theoretical concepts, examination of significant films, and learning key techniques in sound production.",
+  "prerequisites_raw": "Film and Media Studies 115, consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 115"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 116",
+  "title": "Editing",
+  "units": "4",
+  "description": "A workshop approach to explorations of editing, color correction and sound mixing in project production.",
+  "prerequisites_raw": "Film Studies 104 and 105; consent of the instructor.",
+  "prerequisites_courses": [
+   "FAMST 104",
+   "FAMST 105"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 118",
+  "title": "Sponsored Campus Production",
+  "units": "4",
+  "description": "An interface with campus \"clients\" who provide the budget and goals for crew projects.",
+  "prerequisites_raw": "Film Studies 46; consent of instructor.",
+  "prerequisites_courses": [
+   "FAMST 46"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "FAMST",
+  "code": "FAMST 118GS",
+  "title": "Green Screen",
+  "units": "4",
+  "description": "A hands-on, project-based environmental media production course. Students work in teams to leverage their collective production skills and environmental knowledge to create short films, which premiere in the Pollock Theater at the end of the quarter.",
+  "prerequisites_raw": "Instructor Approval Required",
+  "prerequisites_courses": []
+ }
+]

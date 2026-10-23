@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 179D",
+  "title": "Introduction to Robotics: Dynamics and Control",
+  "units": "4",
+  "description": "Dynamic modeling and control methods for robotic systems. Lagrangian method for deriving equations of motion, introduction to the Jacobian, and modeling and control of forces and contact dynamics at a robotic end effector. Laboratories encourage a problem-solving approach to control.",
+  "prerequisites_raw": "ECE 130A or ME 103",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ME 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 179P",
+  "title": "Introduction to Robotics: Planning and Kinematics",
+  "units": "4",
+  "description": "Motion planning and kinematics topics with an emphasis on geometric reasoning, programming, and matrix computations. Motion planning: configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics: reference frames, rotations and displacements, kinematic motion models.",
+  "prerequisites_raw": "Mathematics 4A and Upper-Division standing only.",
+  "prerequisites_courses": [
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 180",
+  "title": "INTRODUCTION TO DEEP LEARNING",
+  "units": "4",
+  "description": "Introduction to multilayered neural networks, early models of perceptrons and associative memory; back-propagation learning; convolutional neural networks; recurrent neural networks; attention models; applications to natural language processing and computer vision.",
+  "prerequisites_raw": "Open to EE, Computer Engineering and Computer Science with upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 181",
+  "title": "Introduction to Computer Vision",
+  "units": "4",
+  "description": "Overview of computer vision problems and techniques for analyzing the content of images and video. Topics include image formation, edge detection, image segmentation, pattern recognition, texture analysis, optical flow, stereo vision, shape representation and recovery techniques, issues in object recognition, and case studies of practical vision systems.",
+  "prerequisites_raw": "Upper-division standing in Electrical Engineering, Computer Engineering, Computer Science, Chemical Engineering or Mechanical Engineering.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 183",
+  "title": "Nonlinear Phenomena",
+  "units": "4",
+  "description": "An introduction to nonlinear phenomena. Flows and bifurcations in one and two dimensions, chaos, fractals, strange attractors. Applications to physics, engineering, chemistry, and biology.",
+  "prerequisites_raw": "Physics 105A or Physics 103; or ME 163 or upper-division standing in ECE.",
+  "prerequisites_courses": [
+   "PHYS 103",
+   "ME 163"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 184",
+  "title": "Introduction to Video Game Development",
+  "units": "5",
+  "description": "Introduction to game design, video game architectures, large-scale software design patterns, game aesthetics, user interface design, and playtesting, all within the Unity3D framework. Quarter culminates in a high-quality video game suitable for public release. Pre-requisite for the advanced game-development sequence.",
+  "prerequisites_raw": "CS 130A and CS 130B or significant programming experience in large software systems.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 186",
+  "title": "Probabilistic Machine Learning",
+  "units": "4",
+  "description": "An introductory course to topics in machine learning studied from a probability theory viewpoint. Covers an overview of basic probability, inference and estimation, regression algorithms, Markov chains, inference for Markov models and the EM algorithm, Markov decision process, and reinforcement learning. In addition to covering mathematical and algorithmic details, the course includes several hands-on projects to implement the machine learning algorithms.",
+  "prerequisites_raw": "ECE 139 or PSTAT 120A or equivalent.",
+  "prerequisites_courses": [
+   "ECE 139",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 188A",
+  "title": "Senior Electrical Engineering Project",
+  "units": "4",
+  "description": "Student groups design a significant project based on the knowledge and skills acquired in earlier coursework and integrate their technical knowledge through a practical design experience. The project is evaluated through written reports, oral presentations, and demonstrations of performance.",
+  "prerequisites_raw": "ECE 153A or ECE 153B. ECE 153A may be taken concurrently with ECE 188A.",
+  "prerequisites_courses": [
+   "ECE 153A",
+   "ECE 153B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 188B",
+  "title": "Senior Electrical Engineering Project",
+  "units": "4",
+  "description": "Student groups design a significant project based on the knowledge and skills acquired in earlier coursework and integrate their technical knowledge through a practical design experience. The project is evaluated through written reports, oral presentations, and demonstrations of performance.",
+  "prerequisites_raw": "ECE 188A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 188A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 188C",
+  "title": "Senior Electrical Engineering Project",
+  "units": "4",
+  "description": "Student groups design a significant project based on the knowledge and skills acquired in earlier coursework and integrate their technical knowledge through a practical design experience. The project is evaluated through written reports, oral presentations, and demonstrations of performance.",
+  "prerequisites_raw": "ECE 188B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "ECE 188B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 189A",
+  "title": "Senior Computer Systems Project",
+  "units": "4",
+  "description": "Student groups design a significant computer-based project. The focus will be on designing a significant project based on the knowledge and skills acquired in earlier coursework. Groups work independently with interaction among groups via interface specifications and informal meetings. The project is evaluated through successful completion of milestones and individual/group project reports and presentations.",
+  "prerequisites_raw": "ECE 153B with a minimum grade of C-; senior standing in Computer Engineering, Computer Science or EE.",
+  "prerequisites_courses": [
+   "ECE 153B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 189B",
+  "title": "Senior Computer Systems Project",
+  "units": "4",
+  "description": "Student groups design a significant computer-based project. Focus will be on building and implementing an embedded hardware system. Each group works independently. The project is evaluated through project reports, achieving milestones and through successful demonstration of hardware functionality.",
+  "prerequisites_raw": "ECE 189A with a minimum grade of a C- or better; senior standing in Computer Engineering, Computer Science or ECE.",
+  "prerequisites_courses": [
+   "ECE 189A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 189C",
+  "title": "Senior Computer Systems Project",
+  "units": "4",
+  "description": "Student groups design a significant computer-based project. The focus in this course will be on the integration of both hardware and software components. Students continue to work in groups. Apart from project reports and presentations, the evaluation will be based on successful demonstration of both hardware and software aspects of the project.",
+  "prerequisites_raw": "ECE 189B with a minimum grade of a C- or better ; senior standing in Computer Engineering, Computer Science, or EE.",
+  "prerequisites_courses": [
+   "ECE 189B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 192",
+  "title": "Projects in Electrical and Computer Engineering",
+  "units": "4",
+  "description": "Projects in electrical and computer engineering for advanced undergraduate students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 193",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Offered in conjunction with engineering practice in selected industrial and research firms, under direct faculty supervision.",
+  "prerequisites_raw": "Consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194A",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194AA",
+  "title": "Micro-Electro-Mechanical Systems",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194B",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum. Topics are coded as follows: b. systems theory.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194BB",
+  "title": "Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194C",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum. Topics are coded as follows: c. communication systems.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194CC",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194D",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194E",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194F",
+  "title": "Group Studies in Electrical and Computer Engineering: Solid State",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194G",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194M",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 194N",
+  "title": "Special Topics in Electrical and Computer Engineering",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

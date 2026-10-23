@@ -1,0 +1,354 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250RP",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250SA",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250SG",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250SM",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250SS",
+  "title": "Methods and Theory in Antropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250TS",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250VP",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 250XX",
+  "title": "Method and Theory in Anthropology",
+  "units": "4",
+  "description": "A discussion of general problems in anthropology. Consult with department office for faculty designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 251",
+  "title": "Methods of Prehistoric Subsistence Analysis",
+  "units": "4",
+  "description": "Assessment of approaches archaeologists use to reconstruct subsistence systems and identify subsistence change among prehistoric hunter-gatherers and farmers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 252",
+  "title": "Political Ecology",
+  "units": "4",
+  "description": "Study of human - environment interactions with attention to power, agency, and multi-scalar connections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 253",
+  "title": "Human Biology Laboratory Methods",
+  "units": "4",
+  "description": "An introduction to the laboratory methods used in human biology for analyzing blood and saliva samples to determine levels of antibodies, hormones, and other biomarkers. The focus will be on hands-on training and troubleshooting assay problems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 256",
+  "title": "Modeling Social Behavior",
+  "units": "4",
+  "description": "Mathematical models play a central role in the evolutionary study of social behavior, both in biology and the social sciences. This graduate seminar provides the rudiments of behavioral modeling using mathematics and evolutionary theory.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 257",
+  "title": "Human Behavioral Ecology Theory and Method",
+  "units": "4",
+  "description": "Focuses on foraging, mate choice, parenting, life history, time use, cooperation, and culture by examining key articles, thereby providing an overview of the major theoretical issues, methods, and data in human evolutionary ecology.",
+  "prerequisites_raw": "Background in evolutionary theory.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 260",
+  "title": "Applied Data Analysis in R",
+  "units": "4",
+  "description": "Graduate level workshop in data analysis using the R language. Focus is on practical applications to research questions, data management, and graphing. Topics vary by participants, but may include mixed models, non-linear modeling, graphing, scripting, manipulating data, etc.",
+  "prerequisites_raw": "Basic familiarity with R, familiarity with basic statistical methods, such as t-tests, linear models, ANOVA...",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 266",
+  "title": "Theories of Mestizaje: Critical Perspectives from the Americas",
+  "units": "4",
+  "description": "Mestizaje has been one of the longest racial projects in the American continent, both as a de facto phenomena and as an ideology. This course critically engages with contemporary debates. Explores Mestizaje as resistance, as well as domination.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 266FP",
+  "title": "Small-Scale Food Production",
+  "units": "4",
+  "description": "Practical application of biological, ecological, social, and economic principles of small scale food production. Includes each student cultivating a garden plot; field trips to local farms and gardens.",
+  "prerequisites_raw": "Environmental Studies 149 or Anthropology 149 or Anthropology 204.",
+  "prerequisites_courses": [
+   "ENV S 149"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 273",
+  "title": "Archaeology of Identity",
+  "units": "4",
+  "description": "Ethnic categories, gender, age, status and other axes of differentiation are central to archaeological interpretation. This course will focus on recent approaches that emphasize identity as multi-scalar, multi-dimensional, situational and overlapping, constructed and negotiated by individuals in specific social contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 275",
+  "title": "Problems in Archaeological Ceramic Analysis",
+  "units": "4",
+  "description": "Current methods and techniques of ceramic analysis for graduate students. Covers both theoretical issues and data acquisition and analysis, including residue analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 276",
+  "title": "Culture Contact and Interaction",
+  "units": "4",
+  "description": "Examination of culture's role in human history, with an emphasis on how the combination of archaeological, historical, ethnohistorical and ethnographic data can yield insights into the dynamics of interactions between different groups at various times and places.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 277",
+  "title": "Faculty Graduate Proseminar",
+  "units": "2",
+  "description": "Exposes incoming graduate students to the theoretical interests and current research being conducted by the department ladder and affiliated faculty. First-year students are required to enroll and participate fully in weekly meetings.",
+  "prerequisites_raw": "Graduate standing in Anthropology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 295",
+  "title": "M.A. Paper Preparation",
+  "units": "4",
+  "description": "Required research and writing seminar during which second-year graduate students write individual M.A. papers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 501",
+  "title": "Teaching Assistant Practicum",
+  "units": "4",
+  "description": "The course, designed to meet the needs of the graduate student who serves as a teaching assistant, includes analyses of texts and materials, discussion of teaching techniques, conducting discussion sections, formulation of topics and questions for papers and examinations, and grading papers and examinations under the supervision of the instructor assigned to the course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 594",
+  "title": "Field Research Training",
+  "units": "0",
+  "description": "Introduction to the planning and implementation of full-scale research projects. The opportunity will be given to formulate and carry out designs and to direct crews in data collection.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 597",
+  "title": "Individual Study for Master's Comprehensive Examinations",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 598",
+  "title": "Master's Thesis and Pre-Candidacy Preparation",
+  "units": "0",
+  "description": "Individual tutorial for graduate students writing the research paper and/or dissertation proposal for advancement to candidacy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH",
+  "code": "ANTH 599",
+  "title": "Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ANTH W",
+  "code": "ANTH W 3",
+  "title": "World Archaeology",
+  "units": "5",
+  "description": "An introduction to archaeology and the history of humankind from the earliest times through the advent of literate civilization and cities, also processes of cultural change and the importance of archaeology to people and societies today. Partly self-paced learning.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 1",
+  "title": "INTRO TO ART",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 1A",
+  "title": "Visual Literacy",
+  "units": "5",
+  "description": "An introductory survey of visual culture, encompassing art and film theory and practice, digital technologies, television, advertising and print media, with a special focus on current interdisciplinary methodologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 1C",
+  "title": "Introduction to Contemporary Art",
+  "units": "2",
+  "description": "Symposium format course presents contemporary artists' creative projects in relation to recent developments in art and cross-disciplinary practices. Lectures by UCSB's Art Department faculty and also distinguished guests invited to expand on art, theory and cultural production.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 7A",
+  "title": "The Intersections of Art and Life",
+  "units": "5",
+  "description": "Explores art in relation to time-based activity and integration with everyday life. Conceptual introduction to authorship, authenticity, and narrative through exercises and examples of performance, video, film, book, arts, sound, digital media, and interactive/chance derived work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 7B",
+  "title": "Introduction to Contemporary Practice I: Image Studies",
+  "units": "5",
+  "description": "The study of visual perception and image-making across visual art disciplines, both material and digital. Studio assignments are combined with related critical theory, historical practice, current strategies, and new evolutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 7C",
+  "title": "Introduction to Contemporary Practice II: Spatial Studies",
+  "units": "5",
+  "description": "The study of spatial art in many forms, including material, interactive and dynamic digital. Studio assignments are combined with related critical theory, historical practice, current strategies and new evolutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ART",
+  "code": "ART 7D",
+  "title": "Introduction to Contemporary Practice III: Art, Science and Technologies",
+  "units": "5",
+  "description": "The study of foundations of digital and technological arts in all forms, including history, theory and practice of optical, kinetic, interactive, interdisciplinary and systems-oriented art. Lectures and assignments introduce concepts, methods, movements and practitioners that have shaped the fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

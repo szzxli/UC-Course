@@ -1,0 +1,349 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 119",
+  "title": "Ecology and Management of California Wildlands",
+  "units": "5",
+  "description": "Explore ecological processes in California habitats and the challenges of their management through field trips, discussions with land managers, lectures and readings. Focus on regional habitats including specialized habitats such as coastal salt marsh and vernal pools, and more widespread such as oak savanna and chaparral.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 120",
+  "title": "Introduction to Ecology",
+  "units": "4",
+  "description": "Major concepts in population and evolutionary ecology. Theoretical, experimental, and field studies pertaining to population growth and regulation, competition, predation, diversity, adaptation and life history strategies.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 120AL",
+  "title": "Field and Laboratory Studies in Ecology",
+  "units": "3",
+  "description": "Practical studies in ecology in both field and laboratory, emphasizing the design and analysis of experiments.",
+  "prerequisites_raw": "EEMB 120 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EEMB 120"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 120BL",
+  "title": "Field and Laboratory Studies in Ecology",
+  "units": "3",
+  "description": "Practical studies in ecology in both field and laboratory. Individual projects are emphasized.",
+  "prerequisites_raw": "EEMB 120AL; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "EEMB 120AL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 125",
+  "title": "Terrestrial Carbon Cycle",
+  "units": "4",
+  "description": "Explores the terrestrial carbon cycle as a central component of the Earth system and a critical frontier for climate solutions. It examines the biological and physical processes that govern terrestrial carbon fluxes and storage, and how these processes respond to global change. The course also engages students in analyzing nature-based solutions and critically evaluating strategies to protect and enhance terrestrial carbon sinks in a rapidly changing world.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2, MCDB 1B, EEMB 3, and EEMB 120; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3",
+   "EEMB 120"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 127",
+  "title": "Plant Biology and Biodiversity",
+  "units": "4",
+  "description": "Introduction to plant biology; the importance of plants to humans; taxonomic and ecological diversity; and evolutionary processes. Will serve as a foundation for all upper-division plant biology courses. Emphasis on life history variation; pollination; reproduction and mating strategies.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 127L",
+  "title": "Plant Biology and Biodiversity Lab",
+  "units": "3",
+  "description": "Computer, lab, greenhouse, and field experience in studies of plant anatomy, physiology, reproduction, pollination, morphology, and adaptation to different environments. Live material and herbarium collections used to demonstrate plant diversity, speciation, and genetic variation. Independent and team projects.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, EEMB 3 and EEMB 127. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EEMB 127"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 128",
+  "title": "Foundations of Ecosystem Restoration",
+  "units": "4",
+  "description": "Integrates ecological principles with practical issues involved in ecosystem restoration. Beginning with the challenge of selecting goals and establishing a target trajectory, students evaluate how ecological knowledge can guide restoration and whether sustainable states or trajectories can be achieved.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 129",
+  "title": "Introductory Genetics",
+  "units": "4",
+  "description": "Introduction to genetics. Mendel's laws, structure, replication and expression of DNA, linkage and chromosomal aberrations, mutation and recombination, concepts of genetic variability, quantitative and populationgenetics.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3 with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 130",
+  "title": "Population Genetics",
+  "units": "4",
+  "description": "Exploration of how differences among individuals are affected by genetic variation. The ability to measure genetic variation and link it to trait variation will be examined by discussing heritability, individuality, and how the application of this knowledge might affect future endeavors. Specific topics include the measurement and interpretation of heritability, the genetic basis of behavioral differences within and between populations, gene-by-environment interaction, and statistical methods",
+  "prerequisites_raw": "MCDB 1A, 1B, EEMB 2 and EEMB 3 all with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "EEMB 3",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 131",
+  "title": "Principles of Evolution",
+  "units": "4",
+  "description": "A foundation course concerning the mechanisms of evolution at micro- and macroevolutionary levels, and interpretation of the resulting patterns of adaptation and organic diversity.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3 or EARTH 2 and 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 2",
+   "EARTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 132",
+  "title": "The Early Evolution of Life and its Environmental Context",
+  "units": "4",
+  "description": "The first 3.5 billion years of life and the environmental context in which it evolved. Highly multidisciplinary, drawing on evidence from geology, geochemistry, paleontology, and comparative biology.",
+  "prerequisites_raw": "MCDB 1A & MCDB 1B & EEMB 2 & EEMB 3 (all with a minimum grade of C- or better) or Earth 3 or 30 or 111",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 3",
+   "EARTH 30",
+   "EARTH 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 133",
+  "title": "Biodiversity and Conservation Biology",
+  "units": "4",
+  "description": "An integration of concepts central to effectively describing biodiversity patterns on our planet and better understanding the dynamics by which wildlife and ecosystems are altered by people. Includes exposure to topics such a extinction dynamics, climate change, and the human dimensions of biodiversity change. Course reviews classical and next-generation tools for conserving nature.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 134",
+  "title": "Biology of Seaweeds and Phytoplankton",
+  "units": "5",
+  "description": "Overview on the biology of macroalgae and phytoplankton, with emphasis on living and adapting in the various environments. Topics include form-function, ecophysiology, unique aspects of biochemistry, antiherbivorestrategies, applied phycology and mariculture.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 135",
+  "title": "Invertebrate Paleobiology",
+  "units": "4",
+  "description": "Important topics in paleobiology are discussed in the context of the evolutionary history of invertebrate animal life. These include macroevolutionary theory, diversification and extinction events, ecological and geobiological interactions through time, and the incompleteness of the fossil record.",
+  "prerequisites_raw": "MCDB 1A & MCDB 1B & EEMB 2 & EEMB 3 (all with a grade of C- or better) or Earth 3 or 30 or 111.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3",
+   "EARTH 3",
+   "EARTH 30",
+   "EARTH 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 136",
+  "title": "Principles of Paleontology",
+  "units": "4",
+  "description": "The ecological structure and evolution of the biosphere as illustrated by the fossil record.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 136L",
+  "title": "Principles of Paleontology Laboratory",
+  "units": "2",
+  "description": "Exercises and projects in the identification and interpretation of fossil taxa and fossil communities.",
+  "prerequisites_raw": "EEMB 136 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EEMB 136"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 137",
+  "title": "Plant Paleobiology",
+  "units": "4",
+  "description": "Examination of the history of land plants; the systematics, morphology, and phylogeny of major groups. Major evolution and biogeographic patterns.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 137L",
+  "title": "Plant Paleobiology Laboratory",
+  "units": "1",
+  "description": "Anatomy, morphology, and systematics of fossil plants from the specimens.",
+  "prerequisites_raw": "EEMB 137 or EARTH 141 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EEMB 137",
+   "EARTH 141"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 138",
+  "title": "Ethology and Behavioral Ecology",
+  "units": "5",
+  "description": "Animal behavior and social organization viewed from evolutionary and whole animal perspectives. Specific topics stress environmental influences and natural selection and include: classical ethology, development and learning, communication, foraging, aggression, territoriality, mating systems, parental care, altruism, and sociobiology.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 140",
+  "title": "General Plant Ecology",
+  "units": "4",
+  "description": "An introduction to the principles of plant ecology.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3; completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 140L",
+  "title": "General Plant Ecology Lab",
+  "units": "2",
+  "description": "Field and laboratory research techniques.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3; and, EEMB 140 (may be taken concurrently); Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3",
+   "EEMB 140"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 142A",
+  "title": "Aquatic Communities",
+  "units": "4",
+  "description": "A survey of the patterns of distribution, diversity, an abundance of species in marine and freshwater communities, with an emphasis on the dynamic interactions which shape these patterns.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3; Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EEMB",
+  "code": "EEMB 142AL",
+  "title": "Methods in Aquatic Community Ecology",
+  "units": "3",
+  "description": "Experience in the field techniques of aquatic community ecology.",
+  "prerequisites_raw": "Concurrent enrollment in EEMB 142A.",
+  "prerequisites_courses": [
+   "EEMB 142A"
+  ]
+ }
+]

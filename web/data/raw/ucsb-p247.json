@@ -1,0 +1,364 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "GRAD W",
+  "code": "GRAD W 211",
+  "title": "Online Teaching and Learning in Higher Education",
+  "units": "4",
+  "description": "This graduate-level course delves into the intricacies of online and hybrid teaching, providing a comprehensive understanding of this rapidly evolving field. We will explore the historical foundations and theoretical underpinnings of online teaching, examine the affordances and limitations of online learning environments in promoting equity and inclusion, analyze course designs and teaching practices in online courses, and explore emerging educational technologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 1",
+  "title": "Elementary Greek",
+  "units": "5",
+  "description": "The beginning course in classical Greek and first in a three-quarter sequence introducing fundamentals of grammar, syntax, and reading skills. Concepts taught using written exercises. Interesting aspects of Ancient Greek society are introduced.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 1SS",
+  "title": "Conversational Modern Greek",
+  "units": "2",
+  "description": "Course to be taught only during UCSB Summer Session in Greece. Contact time is 1,000 minutes. Meets every other day. Emphasis on conversation. Rudiments of grammar are taught through repetition of basic paradigms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 2",
+  "title": "Elementary Greek",
+  "units": "5",
+  "description": "A continuation of Greek 1. Emphasis on mastering grammar and building vocabulary.",
+  "prerequisites_raw": "Greek 1 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 3",
+  "title": "Intermediate Greek",
+  "units": "5",
+  "description": "A continuation of Greek 2. Emphasis on building a working vocabulary and the syntax of complex sentences. Readings in classical prose introduce students to ancient Greek literature and culture.",
+  "prerequisites_raw": "Greek 2 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 4",
+  "title": "ACCIDENCE & SYNTAX",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "GREEK 3 OR EQUIVALENT.",
+  "prerequisites_courses": [
+   "GREEK 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 10A",
+  "title": "Elementary Modern Greek",
+  "units": "4",
+  "description": "First in a two quarter sequence, this course is designed for students who have no prior knowledge of Greek language, but are keen to learn basic Greek reading, writing and conversation. Also introduces students to contemporary Greek culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 10B",
+  "title": "Intermediate Modern Greek",
+  "units": "4",
+  "description": "Second in a two quarter sequence, this course moves toward a greater command of conversation and reading comprehension. Audio-visual materials aid language acquisition and enrich the understanding of Greek culture and history.",
+  "prerequisites_raw": "Greek 10A",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 12SS",
+  "title": "Intensive Elementary Ancient Greek",
+  "units": "6",
+  "description": "An intensive course in elementary ancient Greek language, only taught in summer in a 6 week session. New grammar and vocabulary is introduced every day, so daily class attendance and participation are essential. No prior experience with learning a foreign language is required or assumed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 21",
+  "title": "INTENSV ELEM GREEK",
+  "units": "8",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 100",
+  "title": "Introduction To Greek Prose",
+  "units": "4",
+  "description": "Reading and analysis of attic prose writers such as Xenophon and Plato to develop reading skills and introduce study of the style and thought of historical, rhetorical and/or philosophical writers.",
+  "prerequisites_raw": "Greek 3 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 101",
+  "title": "Introduction To Greek Poetry",
+  "units": "4",
+  "description": "Reading in the poetry of Homer to develop reading skills, introduce Homeric grammar and meter, and begin study of the style, thought and heroic world of epic poetry.",
+  "prerequisites_raw": "Greek 100 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 102",
+  "title": "Readings In Greek Literature",
+  "units": "4",
+  "description": "Selected reading in Greek prose and/or poetry designed to develop reading proficiency, and to help students make the transition to more advanced study of classical Greek literature.",
+  "prerequisites_raw": "Greek 101.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 110",
+  "title": "Attic Orators",
+  "units": "4",
+  "description": "Reading and study of attic orators such as Demosthenes, and of famous orations by Demosthenes and other attic orators.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 111",
+  "title": "The New Testament",
+  "units": "4",
+  "description": "Reading and study of selected passages from the Greek new testament.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 113",
+  "title": "Lucian",
+  "units": "4",
+  "description": "Reading and study of selected passages from Lucian, with attention to the language and style of his satirical dialogues, and to their social and historical context.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 120",
+  "title": "Greek Novel",
+  "units": "4",
+  "description": "Advanced reading and study of selected chapters of an ancient Greek novel, with attention to the language and style of the work and to its literary, social and political contexts.",
+  "prerequisites_raw": "Greek 102",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 125",
+  "title": "Greek Biography",
+  "units": "4",
+  "description": "Advanced reading and study of selections from Greek texts that focus on the 'lives' of notable figures (such as Xenophon's Cyropaedia, Plutarch's Lives, and the Life of Aesop). Attention is paid to the language and style of the works, as well to the genre of 'biography'.",
+  "prerequisites_raw": "Greek 102",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 138",
+  "title": "Pre-Socratic Philosophers",
+  "units": "4",
+  "description": "Readings in the first \"formal\" philosophers of the Western tradition. Normally includes all of the major pre-Socratics (Parmenides, Heraclitus, Pythagoras, Xenophanes, Anaxagoras, Democritus) and their contributions to European thought. Sometimes concentrates upon thinkers of the fifth- century Sophistic Movement.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 142",
+  "title": "Plato",
+  "units": "4",
+  "description": "Reading of one or several Platonic dialogues from the early or middle period (Laches, Protagoras, Phaedo, Gorgias, Symposium), both as masterpieces of Greek literature and as philosophical dialogues. No prior formal training in philosophy is required.",
+  "prerequisites_raw": "Greek 102 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 143",
+  "title": "Post-Platonic Philosophers",
+  "units": "4",
+  "description": "Readings of selections from the more famous works of Aristotle (Nicomachean Ethics, Politics, De Anima, Metaphysics), emphasizing Aristotle both as thinker and as stylist; occasionally excerpts from Theophrastus, the Stoics, Plotinus. No prior formal training in philosophy required.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 151",
+  "title": "Euripides",
+  "units": "4",
+  "description": "Reading, translation, and discussion of a complete tragedy of Euripides, with attention to language, meter, staging, tragic themes and conventions, and the cultural context of Athenian drama.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 152",
+  "title": "Sophocles",
+  "units": "4",
+  "description": "Reading, translation, and discussion of a complete tragedy of Sophocles, with attention to language, meter, staging, tragic themes and conventions, and the cultural context of Athenian drama.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 153",
+  "title": "Aeschylus",
+  "units": "4",
+  "description": "Reading, translation, and discussion of a complete tragedy of Aeschylus, with attention to language, meter, staging, tragic themes and conventions, and the cultural context of Athenian drama.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 154",
+  "title": "Aristophanes",
+  "units": "4",
+  "description": "Reading, translation, and discussion of a complete comedy of Aristophanes, with attention to language, meter, staging, comic themes and conventions, and the social and cultural context of Athenian drama.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 158",
+  "title": "Homer",
+  "units": "4",
+  "description": "Reading and study of selections from the Illiad and/or Odyssey.",
+  "prerequisites_raw": "Greek 102 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 161",
+  "title": "Hesiod, Theognis, And Solon",
+  "units": "4",
+  "description": "Reading and study of Archaic poets.",
+  "prerequisites_raw": "Greek 102 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 162",
+  "title": "Herodotus",
+  "units": "4",
+  "description": "Reading and study of the histories of Herodotus.",
+  "prerequisites_raw": "Greek 102 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 163",
+  "title": "Thucydides",
+  "units": "4",
+  "description": "Reading and research in the historical, literary, and philological aspects of Thucydides.",
+  "prerequisites_raw": "Greek 102 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 164",
+  "title": "ARISTOPHANES",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 165",
+  "title": "Xenophon",
+  "units": "4",
+  "description": "Reading and study of selected works.",
+  "prerequisites_raw": "Greek 102 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 171",
+  "title": "Lyric Poets And Homeric Hymns",
+  "units": "4",
+  "description": "Reading and study of lyric poets and Homeric hymns.",
+  "prerequisites_raw": "Greek 102 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 172",
+  "title": "Pindar",
+  "units": "4",
+  "description": "Reading, interpretation, metrical study, and textual criticism. introduction to other choral poets.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 173",
+  "title": "Hellenistic Poets",
+  "units": "4",
+  "description": "Introduction to the poetry of the Alexandrian period, normally concentrating upon a single major poet such as Apollonius Rhodius, Callimachus, or Theocritus. Reading, translation, and discussion, with attention to language, meter, generic innovation, cultural context, and formative influence upon Latin literature.",
+  "prerequisites_raw": "Greek 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 199",
+  "title": "Independent Studies In Greek.",
+  "units": "0",
+  "description": "Independent investigations in Greek language and literature.",
+  "prerequisites_raw": "Consent of instructor and department chair; upper-division standing; completion of 2 upper-division courses in Greek.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "GREEK",
+  "code": "GREEK 200",
+  "title": "Introduction to Greek Prose.",
+  "units": "4",
+  "description": "Reading and analysis of attic prose writers such as Xenophon and Plato to develop reading skills and introduce study of the style and thought of historical, rhetorical and/or philosophical writers.",
+  "prerequisites_raw": "One year of Greek or more.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,261 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 112",
+  "title": "World Population, Policies, and the Environment",
+  "units": "4",
+  "description": "Examines the history of global human population growth, with a specific emphasis on demographic dynamics within developing nations (or the Global South). Will consider the social, economic, and environmental consequences of and the relationships between population trends and human migration. Will analyze governmental policies and how they influence population growth and their myriad and often unintended consequences. Students will be expected to demonstrate familiarity with key theories and methods by scholars like Thomas Malthus, Karl Marx, and Ester Bose.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 113",
+  "title": "Engineering and Environmental Geology",
+  "units": "4",
+  "description": "Application of geologic and environmental principles to civil engineering problems. Includes: rock and soil mechanics; landslides; hydrology; earthquakes; and professional practice. Some offerings include a 1-2 day field trip.",
+  "prerequisites_raw": "Mathematics 3A-B or 2A-B or 34A-B ; and, Physics 1 or 6A or 7A or 21; upper-division standing.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "PHYS 1",
+   "MATH 2A",
+   "MATH 34A",
+   "PHYS 6A",
+   "PHYS 7A",
+   "PHYS 21"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 114A",
+  "title": "Principles of Soil Science",
+  "units": "4",
+  "description": "Explores core introductory concepts in soil science and how soils relate to global environmental challenges. Includes study of soil physical, biological, and chemical properties, soil development, and fertility, as well as the critical role of soils in fostering thriving communities. Incorporates independent projects and soils excursions.",
+  "prerequisites_raw": "Environmental Studies 15A and 15B or Chemistry 1A-B; and Geography 3 or 4 or Earth Science 2 or 4 or 20",
+  "prerequisites_courses": [
+   "ENV S 15A",
+   "CHEM 1A",
+   "GEOG 3",
+   "EARTH 2",
+   "ENV S 15B",
+   "GEOG 4",
+   "EARTH 4",
+   "EARTH 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 114B",
+  "title": "Soils of California: Formation, Morphology, and Management",
+  "units": "5",
+  "description": "Course dives into soil genesis, classification, and sustainable land use in the context of California’s diverse soils. Connects soil characteristics and landscapes to communities, conservation, ecological relationships, agriculture, and climate change. Covers field safety, soil descriptions, and field methods via hands-on field experiences during lab.",
+  "prerequisites_raw": "Environmental Studies 114A or Geography 114A or Earth Science 184A with a grade C or higher.",
+  "prerequisites_courses": [
+   "ENV S 114A",
+   "GEOG 114A",
+   "EARTH 184A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 115",
+  "title": "Energy and the Environment",
+  "units": "4",
+  "description": "Fundamentals of energy science; energy extraction, generation, distribution, and consumption in electricity, transportation, and other sectors; environmental impacts; energy justice and access; energy economics and policy; transition to sustainable energy; U.S. and international perspectives.",
+  "prerequisites_raw": "Environmental Studies 2; and Environmental Studies 40 (may be taken concurrently); and Mathematics 2B, or 3B, or 34B, or Mathematics 34A and Environmental Studies 25.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "ENV S 40",
+   "MATH 2B",
+   "MATH 34A",
+   "ENV S 25",
+   "MATH 3B",
+   "MATH 34B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 116",
+  "title": "Sustainable Communities",
+  "units": "4",
+  "description": "Introduces students to central concepts and key issues at the intersection of urban and environmental change. Through an environmental studies lens, this course focuses on how the growth of cities, both historically and in the present, are centrally linked with the transformation of the environment, including pathways to more just, sustainable, and equitable futures. Example topics include: industrialization, US suburbanization, and the rise of our consumer productions economy.",
+  "prerequisites_raw": "Environmental Studies 40 (concurrent enrollment is permitted).",
+  "prerequisites_courses": [
+   "ENV S 40"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 117",
+  "title": "Climate Change and the Transition to Low Carbon",
+  "units": "4",
+  "description": "Transitioning to a low carbon society presents both a significant opportunity and an enormous challenge. This course aims to address the complexity of the low carbon transition, integrating knowledge about climate change science, responses to climate impacts, and the technological, behavioral and policy solutions needed for local and global transitions away from fossil fuels.",
+  "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently) and upper-division standing.",
+  "prerequisites_courses": [
+   "ENV S 40"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 118",
+  "title": "Industrial Ecology: Designing for the Environment",
+  "units": "4",
+  "description": "Industrial Ecology is a philosophical and methodical framework interwoven with concepts in ecology and economics used to aid in understanding of how industrial systems interact with the environment. Capital, energy, and material flows are examined and viewed in cultural context.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 119",
+  "title": "Ecology and Management of California Wildlands",
+  "units": "5",
+  "description": "Explore ecological processes in California habitats and the challenges of their management through field trips, discussions with land managers, lectures and readings. Focus on regional habitats including specialized habitats such as coastal salt marsh and vernal pools, and more widespread such as oak savanna and chaparral.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 120A",
+  "title": "Introduction to Environmental Toxicology",
+  "units": "4",
+  "description": "Uses case studies, such as the poisoning at Minamata, Japan, to introduce the various fields of toxicology (eco-, environmental, biomedical, and epidemiology) and basic toxicological principles such as metal and radiation toxicities, transformations, cycling, and transport of metals and radioisotopes in the environment, toxins vs toxicants, routes of exposure, absorption, distribution, target organs, dose, metabolism, sequestration, and excretion, as well as destruction due to atomic bomb blast (Hiroshima) vs. fission reactor explosion (Chernobyl and Fukushima), mutagenicity, and carcinogenicity.",
+  "prerequisites_raw": "Environmental Studies 2; Environmental Studies 60 or MCDB 20 or EEMB 22 or MCDB 1A and EEMB 2; Chemistry 1A and 1B or Environmental Studies 15A and 15B.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "ENV S 60",
+   "MCDB 20",
+   "EEMB 22",
+   "MCDB 1A",
+   "EEMB 2",
+   "CHEM 1A",
+   "ENV S 15A",
+   "CHEM 1B",
+   "ENV S 15B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 120B",
+  "title": "Advanced Environmental Toxicology",
+  "units": "4",
+  "description": "A continuation of Introduction to Environmental Toxicology (ENV S 120A). Using additional case studies such as the decline of Baltic seals, the birth defects caused by thalidomide, and the cancers caused by DES, course explores reproductive and developmental toxicology, teratogenicity, epigenetic effects, carcinogenicity (again), and estrogen effects while examining organic chemistry, chlorinated hydrocarbons, pesticides, solvents, and structure activity relationships.",
+  "prerequisites_raw": "Environmental Studies 120 or 120A.",
+  "prerequisites_courses": [
+   "ENV S 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 121",
+  "title": "Contaminants of Emerging Concern",
+  "units": "4",
+  "description": "There has been an increase in both the number of substances to which consumers are exposed and the awareness of the potential ill effects of these substances. Personal care products, medications, and food additives are coming under increasing scrutiny, and we are aware that they are having unintended effects, but their presence in the environment is largely unregulated. This course takes students through the classes of contaminants of emerging concern (CECs), discussing previously-assigned papers and researching a CEC of their choice from cradle-to-grave.",
+  "prerequisites_raw": "Environmental Studies 120 or 120A.",
+  "prerequisites_courses": [
+   "ENV S 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 122NE",
+  "title": "Cultural Representations: Nature and the Environment",
+  "units": "4",
+  "description": "Perceptions of nature have changed throughout history and vary across cultures. Course explores changing expressions of our changing relations to the world we live in, with emphasis on cultural movements (films, literature, newspapers, etc.) that have affected contemporary American experience.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 (one course from 109 series) or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 124",
+  "title": "Socio-Environmental Data Science",
+  "units": "4",
+  "description": "Data science and applied statistics courses typically focus on either environmental or social data. This unique course integrates data science and applied statistics from both natural and human systems to examine their relationships and address socio-environmental challenges. Each week, students learn new skills in data science and applied statistics by working on real-world research problems that link environmental and behavioral data to study how people impact ecosystems and how environments influence human behavior. Topics include linear, non-linear, and machine learning regression in R. Weekly assignments guide students through the research process, helping them apply methods, interpret results, and communicate findings.",
+  "prerequisites_raw": "Upper-Division Standing and either PSTAT 5A or 5LS or 120A or Economics 5.",
+  "prerequisites_courses": [
+   "PSTAT 5A",
+   "ECON 5",
+   "PSTAT 5LS",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 125A",
+  "title": "Principles of Environmental Law",
+  "units": "4",
+  "description": "An introduction to federal constitutional principles, environmental laws and regulations, and the role of the judiciary in enforcing such principles and laws. Case studies are used to examine common law, the development of modern environmental law, major court decisions, and current issues.",
+  "prerequisites_raw": "Environmental Studies 1 or 2 or 3; and upper-division standing.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENV S 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 125B",
+  "title": "Climate Change Law and Policy",
+  "units": "4",
+  "description": "A review of laws and regulations addressing climate change, and the use of various constitutional and legal theories to respond to the impact of rising carbon levels on the environment, public health, and the economy. Case studies will be used to track current trends.",
+  "prerequisites_raw": "Environmental Studies 1 or 2 or 3; and Environmental Studies 40.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENV S 40",
+   "ENV S 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 125C",
+  "title": "Land Use and Planning Law",
+  "units": "4",
+  "description": "An examination of local, state, and federal laws regulating land use and development. Covers California land use and planning constitutional and legal principles, including administrative and judicial processes. The class will include an examination of one or more case studies and critique a local agency's application of laws and regulations to address environmental and climate-related impacts.",
+  "prerequisites_raw": "Environmental Studies 125A or 135A.",
+  "prerequisites_courses": [
+   "ENV S 125A",
+   "ENV S 135A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 126",
+  "title": "Advanced Statistics for Environmental Science",
+  "units": "4",
+  "description": "Students will learn advanced concepts of probability and statistics, identify appropriate analyses to test hypotheses, and conduct all data analysis and visualization using current tools and practices within the field of environmental data science. Students will use environmental science topics to interpret and contextualize statistical findings. All work will rely on the R programming language, though no prior experience with R is required. Lower-division statistics and environmental studies will provide useful context for course material.",
+  "prerequisites_raw": "PSTAT 5A or 5LS or Economics 5",
+  "prerequisites_courses": [
+   "PSTAT 5A",
+   "ECON 5",
+   "PSTAT 5LS"
+  ]
+ }
+]

@@ -1,0 +1,349 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 150",
+  "title": "Anglo-Irish Literature",
+  "units": "4",
+  "description": "This course considers how a series of wishes, lies, and dreams, and about the Irish were invented and read. Ireland, like California, is a territory on the western edge of a continent about which many mythologies have grown up.In Ireland's case, these mostly have to do with the supposed mystery of the place, its romance and mythic past, or its violence, or its long bitter history. Who invented these versions of the place, and whose interests do they serve? Why do people continue to believe them? How have they changed? We consider how one small country has been imagined as other - as wild, strange, dangerous, fanatic - and how the Irish in their literature, speak back. In Irish literature, they reinvent Irishness.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 150S",
+  "title": "Anglo-Irish Literature Seminar",
+  "units": "1",
+  "description": "Seminar course for a select number of students enrolled in English 150 and designed to enrich the large lecture experience for the motivated student. Course includes either supplementary readings, or more intensive study of English 150 reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Writing 2 or 50 or equivalents; concurrent enrollment in English 150; upper-division standing; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 150",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151",
+  "title": "Studies in British Writers",
+  "units": "4-28",
+  "description": "Courses in individual writers such as Spenser, Jonson, Dryden, Pope, Swift,Richardson, Fielding, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151BR",
+  "title": "Studies in British Writers",
+  "units": "4-28",
+  "description": "Courses in individual writers such as Spenser, Jonson, Dryden, Pope, Swift,Richardson, Fielding, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151CD",
+  "title": "Studies in British Writers",
+  "units": "4",
+  "description": "Courses in individual writers such as: Donne, Jonson, Dryden, Pope, Swift, Richardson, Fielding, Johnson, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151DR",
+  "title": "Studies in British Writers",
+  "units": "4",
+  "description": "Courses in individual writers such as: Donne, Jonson, Dryden, Pope, Swift, Richardson, Fielding, Johnson, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151ES",
+  "title": "Studies in British Writers",
+  "units": "4-12",
+  "description": "Courses in individual writers such as Spenser, Jonson, Dryden, Pope, Swift,Richardson, Fielding, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151J",
+  "title": "Studies In British Writers",
+  "units": "4",
+  "description": "Courses in individual writers such as: Donne, Jonson, Dryden, Pope, Swift, Richardson, Fielding, Johnson, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151JA",
+  "title": "Reading Jane Austen's Mind",
+  "units": "4",
+  "description": "Pride and Prejudice, Sense and Sensibility, Emma, and Persuasion--we study these four novels in-depth to read the mind of their author, Jane Austen--for how she novelizes the truth, for what she teaches us about the nature of the English language and the novel, and for why we continue to read Austen for help in reading the minds of others and of ourselves.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151JC",
+  "title": "J.M. Coetzee",
+  "units": "4",
+  "description": "A course that explores the literary works of J.M. Coetzee. Details will vary from quarter to quarter. To see what is being taught in any particular quarter, students should consult the department's website.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151JJ",
+  "title": "Studies In British Writers",
+  "units": "4",
+  "description": "Courses in individual writers such as Spenser, Donne, Jonson, Dryden, Pope,Swift, Richardson, Fielding, Johnson, Blake, Wordsworth, Dickens, Lawrence,and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151JK",
+  "title": "John Keats",
+  "units": "4",
+  "description": "John Keats (the British Romantic poet) was a qualified surgeon-apothecary (more a general practitioner than a druggist) who boldly staked his claim in literature, making his mark on letters before the age of his death at 25. This course examined John Keats alongside theories of the medical science.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151P",
+  "title": "Studies In British Writers.",
+  "units": "4",
+  "description": "Courses in individual writers such as: Donne, Jonson, Dryden, Pope,Swift, Richardson, Fielding, Johnson, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151RF",
+  "title": "Studies In British Writers",
+  "units": "4",
+  "description": "Courses in individual writers such as: Donne, Jonson, Dryden, Pope, Swift, Richardson, Fielding, Johnson, Blake, Wordsworth, Dickens, Lawrence,and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151SA",
+  "title": "Studies In British Writers",
+  "units": "4",
+  "description": "Courses in individual writers such as Spenser, Jonson, Dryden, Pope, Swift,Richardson, Fielding, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151SC",
+  "title": "Studies in British Writers",
+  "units": "4-28",
+  "description": "Courses in individual writers such as Spenser, Jonson, Dryden, Pope, Swift,Richardson, Fielding, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151TW",
+  "title": "Studies in British Writers",
+  "units": "4-28",
+  "description": "Courses in individual writers such as Spenser, Jonson, Dryden, Pope, Swift,Richardson, Fielding, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 151WR",
+  "title": "Studies in British Writers",
+  "units": "4-28",
+  "description": "Courses in individual writers such as Spenser, Jonson, Dryden, Pope, Swift,Richardson, Fielding, Blake, Wordsworth, Dickens, Lawrence, and Yeats.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 152A",
+  "title": "Chaucer: Canterbury Tales",
+  "units": "4",
+  "description": "Intensive study of the Canterbury Tales.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 152AS",
+  "title": "Seminar On Chaucer: The Canterbury Tales",
+  "units": "1",
+  "description": "A seminar course for a select number of students enrolled in English 152A designed to enrich the large lecture experience for the motivated student. Course includes either supplementary readings or more intensive study of the English 152A reading list, as well as supplemental writing.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing; concurrentenrollment in English 152A; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "ENGL 152A",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 152B",
+  "title": "Chaucer: Troilus and Criseyde",
+  "units": "4",
+  "description": "Intensive study of Chaucers poem Troilus and Criseyde, in the original Middle English. Also considers the poems reception history from 1400 to the present through a study of poetic and critical responses. For a full description, consult the course listings on the English Departments website.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 152C",
+  "title": "Chaucer: Dream Visions and Other Works",
+  "units": "4",
+  "description": "Study of Geoffrey Chaucers poetry and prose writings, excluding texts studied in 152A and 152B. Contents vary but may include Chaucers dream vision poems, philosophical and scientific writings, and lyrics. To see what is being taught in any particular quarter, students should consult the course listings on the English Departments website.",
+  "prerequisites_raw": "WRIT 2, ENGL 10, or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 153",
+  "title": "Medieval Drama",
+  "units": "4",
+  "description": "Studies in medieval dramatic writing and the history of theatrical performance before the English Reformation. Texts vary from quarter to quarter: students should consult the course listings on the English Departments website for a full description.",
+  "prerequisites_raw": "Writing 2 and 50 or equivalents, or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 154",
+  "title": "British And American Verse Since 1900",
+  "units": "4",
+  "description": "A course in British and American verse since 1900.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 155AI",
+  "title": "Critical Artificial Intelligence",
+  "units": "4",
+  "description": "Artificial intelligence now affects nearly all aspects of human life and knowledge production, from labor to language, and from fundamental physics to the arts. The pivotal role of the humanities lies in the critical analysis of the specific cultural techniques emerging from this technical revolution: new methods of language processing, image production, scientific reasoning, and social control require new critical and historical approaches. This course provides an introduction to the history and theory of artificial intelligence from the perspective of the humanities. Participants will acquire the skills to analyze and understand the design and construction of machine learning systems, and their philosophical and political implications.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 156",
+  "title": "Literature of Chivalry",
+  "units": "4",
+  "description": "Study of texts related to the social and cultural practices of chivalry in the Middles Ages, from the seventh through the fifteenth centuries. The course centers on such texts as The Battle of Maldon, The Dream of the Rood, Sir Orfeo, Gawain and the Green Knight, Le Morte D' Arthur, and the Middle English lyrics.",
+  "prerequisites_raw": "Writing 2 or 50 or 109AA-ZZ or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENGL",
+  "code": "ENGL 157",
+  "title": "English Renaissance Drama",
+  "units": "4",
+  "description": "A course in the English drama of the period from 1500 to 1642, excluding Shakespeare. Such writers as Marlowe, Jonson, Dekker, Heywood, and Webster.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ }
+]

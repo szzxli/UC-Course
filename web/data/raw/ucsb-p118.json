@@ -1,0 +1,341 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595S",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetins carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. S. speech.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595T",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. T. robotics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595U",
+  "title": "Group Studies in Electrical and Computer Engineering: Scientific Computation",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. These courses provide critical review of research in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595V",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in research group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering. V. vision",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595W",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in researc group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering.W. computer network.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 595X",
+  "title": "Group Studies in Electrical and Computer Engineering",
+  "units": "1",
+  "description": "Instruction in researc group meetings carried out by lecture, by laboratory, or by a combination of the two. Courses provide a critical review of research in various areas of electrical and computer engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 596",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Research, either experimental or theoretical; may be undertaken by properly qualified graduate students under the direction of a faculty member.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 597",
+  "title": "Individual Studies for M.S. Comprehensive Examinations and Ph.D. Examinations",
+  "units": "0",
+  "description": "Individual studies for M.S. comprehensive examinations and Ph.D. examinations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "Consent of graduate adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECE",
+  "code": "ECE 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Research and preparation of dissertation.",
+  "prerequisites_raw": "Consent of chair of student's doctoral committee.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 1",
+  "title": "Principles of Economics-Micro",
+  "units": "5",
+  "description": "An introduction to microeconomic analysis. Economic theory related to demand, production, competitive and non-competitive product markets, input markets, and welfare. Applications of microeconomic theory including its use in evaluating and forming public policy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 2",
+  "title": "Principles of Economics-Macro",
+  "units": "5",
+  "description": "An introduction to macroeconomic analysis. Analysis of income, employment, and price level. Applications of macroeconomic theory including its use in evaluating and forming public policy.",
+  "prerequisites_raw": "Economics 1",
+  "prerequisites_courses": [
+   "ECON 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 2A",
+  "title": "ECONOMIC STATISTICS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 3A",
+  "title": "Financial Accounting",
+  "units": "5",
+  "description": "A two-quarter series providing an introduction to the purposes, conceptual framework, measurement principles and reporting issues of accounting. Particular emphasis will be placed on the links between accounting, economics, and finance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 3AH",
+  "title": "Financial Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent with Econ 3A.",
+  "prerequisites_courses": [
+   "ECON 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 3B",
+  "title": "Financial Accounting",
+  "units": "5",
+  "description": "A two-quarter series providing an introduction to the purposes, conceptual framework, measurement principles and reporting issues of accounting. Particular emphasis will be placed on the links between accounting, economics, and finance.",
+  "prerequisites_raw": "Economics 3A.",
+  "prerequisites_courses": [
+   "ECON 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 3BH",
+  "title": "Financial Accounting - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent with Econ 3B.",
+  "prerequisites_courses": [
+   "ECON 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 5",
+  "title": "Statistics for Economics",
+  "units": "5",
+  "description": "An introduction to probalistic modeling and statistical inference applied to the analysis of economic data for students with basic knowledge of calculus. Topics covered include: probability, discrete and continuous random variables, probability distributions, mean, variance, correlation, sampling, parameter estimation, unbiasedness and efficiency, confidence intervals, hypothesis testing. Computing labs with Excel.",
+  "prerequisites_raw": "Math 34A-B or Math 2A-B or 3A-B; Math 34B or 2B or 3B can be taken simultaneously. Course cannot be used to satisfy any Actuarial Science, Financial Math & Statistics or Statistical Science major or minor requirements.",
+  "prerequisites_courses": [
+   "MATH 34A",
+   "MATH 2A",
+   "MATH 34B",
+   "MATH 3A",
+   "MATH 2B",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 9",
+  "title": "Introduction to Economics",
+  "units": "5",
+  "description": "A broad survey of economic principles, including both microeconomics and macroeconomics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 10A",
+  "title": "Intermediate Microeconomic Theory",
+  "units": "5",
+  "description": "Economic theory relating to demand, production, and competitive product markets with emphasis on applications of theory.",
+  "prerequisites_raw": "Economics 1 and 2; Mathematics 34A-B, 2A-B, or 3A-B.",
+  "prerequisites_courses": [
+   "ECON 1",
+   "MATH 34A",
+   "ECON 2",
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 93",
+  "title": "Internship in Economics",
+  "units": "0",
+  "description": "Course enables students to obtain credit for economics-related internship experience. A seven to ten page written report is required and evaluated for credit.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 95",
+  "title": "Introduction to Finance",
+  "units": "4",
+  "description": "Provides a non-technical introduction to finance and its role in modern economic life. Examines how financial decisions affect individuals, firms, and society as a whole. Topics include risk and return; financial markets, trading, and efficiency; and financial intermediaries and securities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 96",
+  "title": "Sophomore Honors Seminar",
+  "units": "2",
+  "description": "Small seminar class that gives sophomores interested in pursuing economic research the opportunity to read and discuss selected economics texts and research papers. The objective is to expose students to a wide range of research topics in order to give them a flavor of the research opportunities available.",
+  "prerequisites_raw": "Approval by the Department based on performance inEconomics 1 and 2.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 97",
+  "title": "New Student Seminar",
+  "units": "1",
+  "description": "The primary goal of Economics 97 is to assist in a successful transition from high school to university learning. Economics 97 consists of lectures presented by staff, faculty, and current students to provide information about specific campus policies, the Economics major/curriculum, introduction to campus resources, and exploring career options. Economics 97 will allow you to develop time management skills, necessary study habits, and help you apply them to ensure a successful career as a Gaucho and beyond.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 100B",
+  "title": "Intermediate Microeconomic Theory",
+  "units": "4",
+  "description": "Economic theory relating to imperfectly competitive product markets, input market, and welfare, with emphasis on applications. Includes an introduction to game theory.",
+  "prerequisites_raw": "Economics 10A or 100A; and, Economics 5 or PSTAT 109 or PSTAT 120A.",
+  "prerequisites_courses": [
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 109",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 100BH",
+  "title": "Intermediate Microeconomic Theory - Honors",
+  "units": "1",
+  "description": "Students receive one unit for the honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent with Econ 100B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 100C",
+  "title": "Intermediate Microeconomic Theory",
+  "units": "4",
+  "description": "Covers topics including externalities, law and economics, information technologies, public goods and asymmetric information. These topics are essential to understanding real markets, but are currently not included in the Economics 100A-B sequence.",
+  "prerequisites_raw": "Economics 100B or 104B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 101",
+  "title": "Intermediate Macroeconomic Theory",
+  "units": "4",
+  "description": "Contemporary analysis of income, employment, price level, and public policy using static general equilibrium framework with emphasis on applications of theory. Long term economic growth is also covered.",
+  "prerequisites_raw": "Economics 10A or 100A; and, Economics 5 or PSTAT 109 or PSTAT 120A.",
+  "prerequisites_courses": [
+   "ECON 10A",
+   "ECON 5",
+   "PSTAT 109",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 106",
+  "title": "Managerial Economics",
+  "units": "4",
+  "description": "Economic principles will be applied to practical decision-making situations. Methods of price and output determination, capital budgeting, and choices under uncertainty. Methods of economic analysis and their application will be emphasized.",
+  "prerequisites_raw": "Economics 100B or 104B.",
+  "prerequisites_courses": [
+   "ECON 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ECON",
+  "code": "ECON 107A",
+  "title": "History of Economics",
+  "units": "4",
+  "description": "Economic thought from antiquity through John Stuart Mill. Economic thought in the Bible, Greece, Rome, India, and China through the classical economists--Thomas Hobbes, John Locke, Adam Smith, Jeremy Bentham, Thomas Malthus, David Ricardo, and John Stuart Mill. Emphasis on both economic activity and economic thought, including discussion of feudal and mercantilist societies. The economic roles of women and slavery are presented.",
+  "prerequisites_raw": "Economics 10A",
+  "prerequisites_courses": [
+   "ECON 10A"
+  ]
+ }
+]

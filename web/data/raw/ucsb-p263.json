@@ -1,0 +1,272 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 187S",
+  "title": "The Samurai",
+  "units": "4",
+  "description": "The samurai of Japan were a hereditary military class that evolved over a millennium. Course traces this history and clarifies the range of differences that separated samurai in each era as their roles and ideologies changed.",
+  "prerequisites_raw": "Hist 9 or 80 or 87 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 188A",
+  "title": "History of Women in China: From the Ancient Period to the Nineteenth Century",
+  "units": "4",
+  "description": "Exploration of the diverse roles women have played in Chinese culture and society up to the 19th century by examining the many contexts within which women operated: the family, the imperial court, literati and popular culture.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 188S",
+  "title": "Representations of Sexuality in Modern Japan",
+  "units": "4",
+  "description": "This course examines the main ideologies guiding the establishment of various representations of sexuality from prewar scientific writings to contemporary popular culture.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 188T",
+  "title": "Modernity and the Masses of Taisho Japan",
+  "units": "4",
+  "description": "Examines the beginnings of a modern mass culture in early twentieth- century Japan. Central topics are political and social movements, the new woman and the modern girl, westernization, new media and censorship, modernism and nationalism.",
+  "prerequisites_raw": "History 80 or 87 or Upper Division Standing.",
+  "prerequisites_courses": [
+   "HIST 80",
+   "HIST 87"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 189E",
+  "title": "History of the Pacific",
+  "units": "4",
+  "description": "Peoples, cultures, social systems, politics, and economics of the islands of the Pacific. Prehistory, early contacts with outside peoples, colonial regimes, the transformation of colonialism, and recent developments. Contemporary issues include regional cooperation, neocolonialism, and emigration.",
+  "prerequisites_raw": "A prior course in History",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 189M",
+  "title": "South Asian Public Culture",
+  "units": "4",
+  "description": "Historical and contemporary forms of South Asian expressive and popular culture, including cinema, television, popular music, material culture, performance, and literature. Focuses on relations among popular culture, everyday life and social history in post-colonial South Asia.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 191A",
+  "title": "Diplomatic History of the Great Powers, 1815-1914",
+  "units": "4",
+  "description": "A diplomatic history of great powers from the Congress of Vienna to World War I, emphasizing the international system created by great powers in Europe and shifting alliance and balance of power leading to World War I.",
+  "prerequisites_raw": "History 2C or 4C or 123A or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C",
+   "HIST 123A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 191B",
+  "title": "Diplomatic History Between the World Wars",
+  "units": "4",
+  "description": "Diplomatic history between the two World Wars. Changes in foreign relations resulting from the rise of fascism, communism, and militarism in Europe and Asia.",
+  "prerequisites_raw": "History 2C or 4C or 123B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C",
+   "HIST 123B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 191C",
+  "title": "History of the Cold War, 1945-1991",
+  "units": "4",
+  "description": "The history of the Cold War from 1945-1991. Emphasis on U.S.-Soviet relations, as well as the cold war in Europe, Asia and the third world.",
+  "prerequisites_raw": "History 2C or 4C or 123C or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C",
+   "HIST 123C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 192",
+  "title": "Public History",
+  "units": "4",
+  "description": "Topical history course to explore the field of public history. Course explores preservation, government, media, historical societies and museums, archives, and teaching of public history. Emphasis on field surveys and case studies.",
+  "prerequisites_raw": "History 17A or 17B or 17C or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 192R",
+  "title": "Undergraduate Research Seminar in Public History",
+  "units": "4",
+  "description": "Students conduct field research on an original project in any sector of public history, which includes, but is not limited to preservation, government, media, historical societies and museums, archives, and teaching public history. An original and substantial research paper is required.",
+  "prerequisites_raw": "History 17B or 17C or 192 or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 17B",
+   "HIST 17C",
+   "HIST 192"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193AQ",
+  "title": "Readings in the history of the Atlantic World",
+  "units": "4",
+  "description": "An undergraduate reading seminar in Atlantic World history. Topics vary based on the instructor. Using primary & secondary readings, students examine key themes in Atlantic World history: encounters between Native Americans, Europeans and Africans; indigenous societies; imperialism and settler colonialism; capitalism; piracy and smuggling; religions and spirituality; voluntary and forcedmigration; plantation societies, slavery and slave resistance; racism and white supremacy; cross-culturalexchanges and creolization; revolution and abolition.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193AW",
+  "title": "Revolts and Revolutions in the Atlantic World (1750-1830)",
+  "units": "4",
+  "description": "Examines the age of revolution from a global perspective. We will look beyond national narratives to discuss citizenship, republicanism, slavery and colonialism and bring together histories of resistance in Europe, Africa and the Americas.",
+  "prerequisites_raw": "History 2C or 4C or upper-division standing",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "HIST 4C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193C",
+  "title": "The Early Caribbean in the Atlantic World (ca. 1500 - ca. 1850)",
+  "units": "4",
+  "description": "Analyzes the Caribbean as a site of encounters between Native Americans, Europeans and Africans in the early modern Atlantic world. Key themes include indigenous societies; imperialism and settler colonialism; capitalism, piracy and smuggling; voluntary and forced migration; plantation societies, slavery and slave resistance; cross-cultural exchanges and creolization; revolution and abolition.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193F",
+  "title": "Food in World History",
+  "units": "4",
+  "description": "Explores the cultural, economic, and geopolitical roles of food and drink in world history. Topics include: trade, production, and consumption; global food chains; morality and food reform; identities and body image; scarcity, food scares, and food security.",
+  "prerequisites_raw": "A prior course in history.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193MA",
+  "title": "The Making of the Atlantic World, 1400-1800",
+  "units": "4",
+  "description": "Introduces students to the major topics, themes, and debates in early modern Atlantic history using the Atlantic World as a category of analysis. Atlantic history diverges from traditional imperial and state histories of the western hemisphere in recognizing that the Americas were shaped by all of the peoples of the Atlantic basinnot just Europeans but Africans and Native Americans as well. Accordingly, this course emphasizes the contacts, interchanges, and conflicts between the different groups that inhabited the Atlantic World, offering new insights into the cultural, social, political, and economic processes that transformed the early Americas between 1400 and 1800 and laid the groundwork for contemporary American society.",
+  "prerequisites_raw": "A previous course in history OR upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193P",
+  "title": "Buy This: A Global History of the Persuasion Industries",
+  "units": "4",
+  "description": "What is \"fake\" news and how has it developed historically? To understand this phenomenon, this course explores the history of advertising, market research, public relations, and propaganda in global perspective. We consider how these persuasion industries emerged, how they operated in different places and time periods to shape politics, policies, and public opinion. We also consider how these industries influence our identities and understandings of race, class, and gender, age and ideas about sexuality and the body. Finally, we pay attention to the changing influence of the modern media and the major critics who have worried about its power to manipulate the public.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193PR",
+  "title": "Undergraduate Research Seminar on the History of Persuasion and Propaganda",
+  "units": "4",
+  "description": "Research Seminar on topics related to the history, uses and technologies of persuasion, including political propaganda, advertising, public relations, marketing, digital media and AI. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 193P or upper division standing",
+  "prerequisites_courses": [
+   "HIST 193P"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 193R",
+  "title": "Undergraduate Research Seminar in Food in World History",
+  "units": "4",
+  "description": "Research seminar that explores the impact of economic, cultural, and geopolitical change on food and drink in world history (19th century to present). Attention given to the changing social, cultural, and political meanings of food. Geographical emphases will vary depending on the instructor. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 193F or a previous course in History and upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 193F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 194AH",
+  "title": "Senior Honors Seminar",
+  "units": "4",
+  "description": "Students taking part in departmental honors program will write a senior thesis on a research topic of suitable depth under close supervision of faculty mentors.",
+  "prerequisites_raw": "Admission to senior honors program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 194BH",
+  "title": "Senior Honors Seminar",
+  "units": "4",
+  "description": "Students taking part in departmental honors program will write a senior thesis on a research topic of suitable depth underclose supervision of faculty mentors.",
+  "prerequisites_raw": "Admission to senior honors program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 194PE",
+  "title": "Colloquium in Political Economy",
+  "units": "1",
+  "description": "This year-long colloquium brings together undergraduate students, graduate students, as well as scholars at UCSB and beyond to explore the history of labor, capitalism, commodities, trade, colonialism, imperialism, poverty, race, gender, class, law, and politics. It meets three to four times a quarter and includes guest lectures, workshops, and reading groups.",
+  "prerequisites_raw": "Need permission of instructor to enroll.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 195GS",
+  "title": "Gender and Sexualities Colloquium",
+  "units": "1",
+  "description": "This colloquium brings together students and UCSB scholars who study the histories of women, gender, or sexuality across time and space. It introduces students to current literature and contemporary debates through readings, discussion, and public presentations by scholars and graduate students. This colloquium meets three to four times a quarter.",
+  "prerequisites_raw": "Need permission of instructor to enroll.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "HIST",
+  "code": "HIST 195IA",
+  "title": "Senior Thesis",
+  "units": "4",
+  "description": "A two-quarter individual research project, under the direction of a history professor selected with the advice of the departmental adviser to public policy students.",
+  "prerequisites_raw": "A major in History of Public Policy; senior standing; consent of instructor",
+  "prerequisites_courses": []
+ }
+]

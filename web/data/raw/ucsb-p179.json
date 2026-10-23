@@ -1,0 +1,274 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 127A",
+  "title": "Foundations of Environmental Education",
+  "units": "4",
+  "description": "Introduction to the underlying principles to be an environmental educator. Includes understanding the fundamental characteristics and goals of Environmental Education (EE), evolution of the field, instructional methodologies, and how to design, implement, and assess effective EE instruction in a variety of disciplines, including: nature connection, environmental justice, outdoor education, and primary, secondary, and higher education. Course includes presentations by local EE professionals and field trips.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 127B",
+  "title": "Advanced Environmental Education and Practicum",
+  "units": "4",
+  "description": "Students learn advanced teaching skills, mentoring strategies, and methods of assessing Environmental Education (EE). Course provides the opportunity to implement and evaluate one's own EE project in a self-selected local organization, school, agency, or other educational setting. Provides real-world teaching experience with support from EE professionals. Students create a portfolio to showcase their community environmentally educational placement.",
+  "prerequisites_raw": "Environmental Studies 127A.",
+  "prerequisites_courses": [
+   "ENV S 127A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 128",
+  "title": "Foundations of Ecosystem Restoration",
+  "units": "4",
+  "description": "Integrates ecological principles with practical issues involved in ecosystem restoration. Beginning with the challenge of selecting goals and establishing a target trajectory, students evaluate how ecological knowledge can guide restoration and whether sustainable states or trajectories can be achieved.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 129",
+  "title": "Ecopsychology",
+  "units": "4",
+  "description": "Course explores the theories and practices of psychologists, educators, and others whose work is focused on the connections between \"inner\" human nature and \"outer\" nature within which humans experience themselves and the rest of the world.",
+  "prerequisites_raw": "Environmental Studies 1 or 2 or 3.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENV S 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 130A",
+  "title": "Un-naturalizing Disasters: Risk, Vulnerability, and Resilience",
+  "units": "4",
+  "description": "Course provides an understanding of different approaches to and meanings of disasters, and how people have faced disaster-related challenges in practical ways in a range of social, cultural, and environmental contexts. The course is designed to develop both critical analytical skills and hands-on problem solving skills.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ANTH 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 130B",
+  "title": "Global Tourism and Environmental Justice",
+  "units": "4",
+  "description": "Focus on the contradictions between international tourism as an economic development strategy and environmental justice and conservation efforts, especially in an era of climate change. One major objective is to help students make more informed decisions about their own tourist experiences.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ANTH 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 130C",
+  "title": "Aquatic Food and Resource Management",
+  "units": "4",
+  "description": "Introduction to the use and protection of aquatic food resources globally. Familiarization with the primary literature and key ecological concepts to identify the impacts which influence fisheries and aquaculture and in turn how these different food systems impact wild aquatic species and ecosystems. Offers an applied, food system perspective connecting ecological theory with policy and management.",
+  "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently); and Environmental Studies 60 or EEMB 2.",
+  "prerequisites_courses": [
+   "ENV S 40",
+   "ENV S 60",
+   "EEMB 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 130EV",
+  "title": "Eco Vista: Creating Systemic Alternatives",
+  "units": "4",
+  "description": "Eco Vista names the project of turning Isla Vista into something like an eco-village by 2030. This course is grounded in existing models and visions of Systemic Alternatives systems change designed to confront the climate crisis. It offers analysis of the historical background and contemporary situation of Isla Vista. We then assess the state of the existing Eco Vista Project: www.ecovistacommunity.com, alongside in-depth study of both the theories and case studies relevant to achieving deep social transformation today and in the near future. Students collaborate in hands-on research, design, and direct participation on an existing project, or form one of their own.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 130SD",
+  "title": "The World in 2050: Systemic Alternatives",
+  "units": "4",
+  "description": "Starting with the current political, economic, cultural, and climate crises of Earth and humanity, we consider alternatives to the present system - sustainable development, regrowth, transition towns, resilience - and our roles in building a far better world by 2050.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 131",
+  "title": "International Environmental Law and Politics",
+  "units": "4",
+  "description": "An examination of the actors and institutions of internationalenvironmental law and politics, with an emphasis on explaining patterns of success and failure in addressing global environmental problems.",
+  "prerequisites_raw": "Environmental Studies 1 or 2 or 3.",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ENV S 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 132",
+  "title": "Human Behavior and Global Environment",
+  "units": "4",
+  "description": "Study of global environmental impacts of major human technological innovations, including the use of fire, development of agriculture, and the process of industrialization. How did Western and non-Western societies view and treat nature? Evaluation of prospects for altering human behavior to encourage sustainable development is included.",
+  "prerequisites_raw": "Course is not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 133",
+  "title": "Biodiversity and Conservation Biology",
+  "units": "4",
+  "description": "An integration of concepts central to effectively describing biodiversity patterns on our planet and better understanding the dynamics by which wildlife and ecosystems are altered by people. Includes exposure to topics such a extinction dynamics, climate change, and the human dimensions of biodiversity change. Course reviews classical and next-generation tools for conserving nature.",
+  "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 134",
+  "title": "Coastal Processes and Management",
+  "units": "4",
+  "description": "Using representative coastal regimes, students study the major processes at work in our nation's coastal zones and examine the nature and efficacy of the planning and management programs that have been put in place in these areas.",
+  "prerequisites_raw": "Environmental Studies 2; Mathematics 2A or 3A or 34A or Environmental Studies 25; EARTH 1 or 2 or 4 or 20 or Geography 3 or 4.",
+  "prerequisites_courses": [
+   "ENV S 2",
+   "MATH 2A",
+   "ENV S 25",
+   "EARTH 1",
+   "GEOG 3",
+   "MATH 3A",
+   "MATH 34A",
+   "EARTH 2",
+   "EARTH 4",
+   "EARTH 20",
+   "GEOG 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 134CJ",
+  "title": "Climate Justice",
+  "units": "4",
+  "description": "Overview of the climate change problem and exploration of the meanings of the term \"climate justice\" as used by scholars and social movement activists to imagine and create a sustainable, equitable, democratic world for future generations.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 134EC",
+  "title": "Earth in Crisis",
+  "units": "4",
+  "description": "Explores the causes and consequences of climate change on a global scale, covering the state of the science in layman's terms, the current and future social impacts of climate change, the global negotiations process, and climate justice activism.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 135A",
+  "title": "Principles of Environmental Planning",
+  "units": "4",
+  "description": "Introduction to the history, theory, trends, and practice of environmental land use planning in California and the United States, with special emphasis on sustainable and resilient communities.",
+  "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "ENV S 40"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 135B",
+  "title": "Advanced Environmental Planning",
+  "units": "4",
+  "description": "Advanced seminar analyzing current issues affecting the natural and built environment, the practice of regional and local government planning, and the ability of local government to address future environmental challenges.",
+  "prerequisites_raw": "Environmental Studies 135A.",
+  "prerequisites_courses": [
+   "ENV S 135A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 136",
+  "title": "Green Works - Exploring Technology and the Search for Sustainability",
+  "units": "4",
+  "description": "A multi-disciplinary class examining the interplay of technology, society, science, and history. Investigate green technologies in an interactive class format designed to encourage discussion and debate. Innovative science and social science labs provide hands-on learning.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 136O",
+  "title": "Sustainable Architecture: History and Aesthetics",
+  "units": "4",
+  "description": "Course examines history and theory of sustainable and green architecture since the early twentieth century. Emphasis is placed on the critical analysis of a distinct green architectural aesthetic; the scope is global.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 137",
+  "title": "Conservation Planning",
+  "units": "4",
+  "description": "Conservation planning practitioners have knowledge and skill sets that focus on protecting and maintaining biodiversity in the face of global changes to land, water, and climate. This course addresses the basic principles of ecosystem and landscape ecology, conservation theory, monitoring and adaptive management, interdisciplinary engagement, and problem solving. In teams, students will utilize the international Conservation Standards strategy to present a conservation plan for a species or ecosystem of concern.",
+  "prerequisites_raw": "Upper-division standing required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 138",
+  "title": "Water and Society",
+  "units": "4",
+  "description": "Covers the longstanding debate over the relation between irrigation and state formation, as well as current developments in the study of water and society. Emphasis is placed on people living in arid and semi-arid environments.",
+  "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "ANTH 2",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ENV S",
+  "code": "ENV S 139",
+  "title": "Business and Environment",
+  "units": "4",
+  "description": "Analysis of the practices of environmentally responsible firms and of the drivers of business greening at the level of individual firms, particular industries, and of the economy as a whole.",
+  "prerequisites_raw": "Upper-division standing only",
+  "prerequisites_courses": []
+ }
+]
