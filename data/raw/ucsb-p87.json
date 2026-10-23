@@ -1,0 +1,242 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160UT",
+  "title": "Special Topics in Communication: Understanding Terrorism",
+  "units": "4",
+  "description": "Explores the social scientific study of terrorism. We begin from the empirical reality that terrorism is communicatively constituted violence and identify the key theoretical issues in the contemporary terrorism literature and examine the potential contributions that cognitive, interpersonal, intergroup, organizational media studies and communication theories in general can offer to the understanding of terrorism and conflict.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160WB",
+  "title": "Emotion, Work-life, and Well-being",
+  "units": "4",
+  "description": "This course examines how communication behaviors relate to the role of emotions (like stress and satisfaction) at work in the pursuit of well-being. Topics include emotional labor, gratitude, conflict, social support, social networks and communicative contagion of mood— intersecting with issues of group and organizational communication. Students are encouraged to bring their personal insights into the classroom and use theories and concepts to evaluate their own experiences. Course activities include field exercises, journal writing, and culminates with a team-based project.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 162",
+  "title": "Communication and Peace",
+  "units": "4",
+  "description": "Large symposium that develops and facilitates multi-level peace-building efforts that are grounded in communication theory. Students a) explore and develop theoretically-based approaches to understanding the communication of peace, and b) create, facilitate, and analyze their unique personal peace-building efforts.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 163",
+  "title": "Diffusion of Innovations",
+  "units": "4",
+  "description": "Influences on the adoption or rejection of new ideas, services or products. The role of innovation attributes, innovation stages, and interpersonal networks and media on the spread of innovations. The components of the full model of diffusion of innovations.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 164",
+  "title": "Communicating Science to the Public",
+  "units": "4",
+  "description": "The scientific community is a key source of knowledge. Much of that knowledge remains segregated from the common stock of knowledge held by members of the public. Course examines the socio-cultural communicative factors that enhance and inhibit the communication of science to the public, and the consequences of both effective and ineffective communication.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 166",
+  "title": "Marketing Communication",
+  "units": "4",
+  "description": "Foundational principles of marketing theory and related communication strategy. Focus on consumer behavior, marketing research, and strategies for promoting products, services, and ideas.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 168",
+  "title": "Working with Communities to Make Change",
+  "units": "4",
+  "description": "An introduction to community-centered change and human-centered design. Students work in groups to develop community needs project proposals, with particular focus on feasibility, impact, and sustainability. Successful proposals have potential to be implemented in subsequent quarters.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 169",
+  "title": "Social Networks",
+  "units": "4",
+  "description": "Addresses the emergent structures, relational dynamics, and importance of communication and social networks. It covers networks across levels (interpersonal, group, organizational, global), types (e.g. face-to-face, mediated, semantic) and content (e.g. friendship, advice, task, innovation).",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 170",
+  "title": "Communication Law",
+  "units": "4",
+  "description": "A historical survey of the development of the concept of free speech, and a study of First Amendment controversies in the United States during the twentieth and twenty-first centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 174",
+  "title": "Freedom of Communication (Senior Capstone in Communication Law)",
+  "units": "4",
+  "description": "Advanced study of the principles underlying First Amendment jurisprudence, including the philosophical and political issues entailed in the right to free expression. Students examine leading court decisions and learn to apply communication law to novel situations involving freedom of speech.",
+  "prerequisites_raw": "Seniors only; open to communication majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175",
+  "title": "Senior Capstone in Communication",
+  "units": "4",
+  "description": "A project-based course in a specific topic area of communication designed to give students a chance to apply the skills and knowledge learned in the major and the opportunity to work intensively in groups on a real world project.",
+  "prerequisites_raw": "Senior-standing; Communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175AD",
+  "title": "Senior Capstone in Communication: Advertising",
+  "units": "4",
+  "description": "This capstone course will attempt to simulate a real world experience of creating and running an advertising agency. Agencies will make pitches to compete for the business of a real world client that will be assigned to agencies.",
+  "prerequisites_raw": "Comm 138; Consent of instructor; senior standing; communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175FM",
+  "title": "Senior Capstone in Communication: Family Communication",
+  "units": "4",
+  "description": "The capstone course is to advance and apply students' understanding of the family communication processes they already learned in Family Communication 124. They will examine theories and research in class and apply this knowledge to families in the community.",
+  "prerequisites_raw": "Comm 124; Consent of instructor; senior standing; communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175GW",
+  "title": "Communication, Technology, and Gig Work",
+  "units": "4",
+  "description": "Examines the communicative and organizational dynamics associated with the rise of the gig economy as it reshapes work all around the world. Heralded by many as a new form of employment which offers workers flexibility and autonomy, others raise questions regarding equitable work practices, worker privacy, algorithmic control, work motivation, work overload, technostress, and workers rights. The course explores the ways in which communication plays a central role in how states regulate and classify gig work, how workers experience gig work, and the ways in which these emerging platforms may reproduce gender and racial disparities in opportunities and wage earnings.",
+  "prerequisites_raw": "Senior-standing; Communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175IP",
+  "title": "Senior Capstone in Communication: Interpersonal Communication",
+  "units": "4",
+  "description": "Specific topics of interpersonal communication will be selected. Students are provided with in-depth exposure to interpersonal theory and research by intensively applying what they learn to real world experiences.",
+  "prerequisites_raw": "Consent of instructor; senior standing; communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175PF",
+  "title": "Senior Capstone in Communication: Politics and The Feature Film.",
+  "units": "4",
+  "description": "The course will examine the ways that concepts and theories of government/politics are illustrated in popular fiction and film. We will view full-length feature films and analyze/discuss how the filmmaker uses the medium to influence the audience.",
+  "prerequisites_raw": "Senior-standing; consent of instructor; communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175SC",
+  "title": "Senior Capstone in Communication: Sports, Culture, and Communication",
+  "units": "4",
+  "description": "This course will allow us to explore together the ways in which sports has become an integral part of our (and other) cultures and the variable roles of communication within that. Topics include: parent-child-coach dynamics; gender, race, national, organizational, and intergenerational issues; and the ways different media report on and construct our views of various sports and their relationships to society. Ultimately, we will move to constructing a new applied communication model of sports and leisure practices.",
+  "prerequisites_raw": "Senior-standing; Communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 175SX",
+  "title": "Senior Capstone in Communication: Communication, Sex and Consent",
+  "units": "4",
+  "description": "Explores a variety of topics involving the media, interpersonal behavior and communication about sex. Topics include Title IX and college student rights, social psychological models of sexual aggression, pornography and intimate relationships and the effectiveness of educational programs designed to reduce sexual assault.",
+  "prerequisites_raw": "Senior-standing; Communication and interdisciplinary studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 176",
+  "title": "Forensic Communication",
+  "units": "4",
+  "description": "The course seeks to instill in students an understanding of communication science as it is applied to legal contexts, particularly the courtroom. A survey of the breadth of domains in which communication science and law intersect. Encourages students to become critical thinkers prepared to address legal social issues; and prepare students to serve professionally in academic and applied domains within society and the law.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 177",
+  "title": "The Legal Community and the Courtroom",
+  "units": "4",
+  "description": "The legal system is a core social institution in every human society. In this course we will examine and critique the communication events that structure legal interaction. In order to discern the effects of particular communication styles and expectations, our analysis will focus on three key contexts: the courtroom, the legal profession and the public sphere.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 178",
+  "title": "Dark Side of Interpersonal Communication",
+  "units": "4",
+  "description": "Provides an examination of recent and noteworthy scholarship from a variety of social scientific disciplines regarding the dark side of interpersonal/relational communication. Dark side topics covered include, but are not limited to: social aggression, online dating, jealousy, infidelity, intimate partner violence, and narcissism.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 179",
+  "title": "Music Communication",
+  "units": "4",
+  "description": "Examines music as a form of communication distinct from traditional verbal and nonverbal forms, and considers how our relationship with music shapes and reflects our social, emotional, or cognitive states and identities. Takes a social scientific approach to this domain with detours into some less empirical areas such as how we ascribe meaning to music, and the sociopolitical impact that music may have. Not a music skills or appreciation class.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 180",
+  "title": "Senior Honors Seminar",
+  "units": "4",
+  "description": "Seminar covers methodological, theoretical and procedural issues involved in undertaking a senior honors thesis.",
+  "prerequisites_raw": "Upper-division standing; open to Communication majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 181A",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Independent work with faculty sponsor culminating in senior thesis.",
+  "prerequisites_raw": "Upper-division standing; Open to Communication majors in the Honors Program only",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,286 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 202",
+  "title": "Qualitative Research Methods in Applied Psychology",
+  "units": "4",
+  "description": "Introduces graduate students in Counseling, Clinical and School Psychology to qualitative theory and philosophical paradigms, as well as to the most commonly used qualitative methods in applied psychology. Qualitative data management software will also be introduced.",
+  "prerequisites_raw": "CNCSP 200",
+  "prerequisites_courses": [
+   "CNCSP 200"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 204",
+  "title": "Innovations in Health Equity Research: Community Based Participatory Action Research and Communities",
+  "units": "4",
+  "description": "Introduces graduate students to CBPR theory and philosophical paradigms, as well as to the commonly used CBPR methods in applied health/mental health research through social justice-based methodology that engages community members in the work as equal partners.",
+  "prerequisites_raw": "Letter of application.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 209A",
+  "title": "Research Practicum I",
+  "units": "4",
+  "description": "Student works with research team to develop or conduct an on-going research study. Focus on learning the process of planning and carrying out a research program.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 210",
+  "title": "Neuroanatomy and Psychopharmacology",
+  "units": "4",
+  "description": "Introduces students to basic neuroanatomy and neurological functioning across lifespan. Relationship of neurological structure to psychiatric disorder is highlighted. Also serves to give students a background in clinical psychopharmacology. Biomedical treatments for child and adult disorders are explored.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 212",
+  "title": "Cognitive Development in Autism and Other Severe Disabilities",
+  "units": "4",
+  "description": "An overview of diagnostic and treatment methods in the area of autism and other severe disabilities. Discussion topics include research on language, social behavior, self-injury, self-stimulation, research on physiological, educational, and behavioral interventions used in clinical, school and family settings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 214",
+  "title": "Social Bases of Behavior for Applied Psychology",
+  "units": "4",
+  "description": "Course introduces the social bases of behavior. Students have the opportunity to read classics in the field of social psychology, social influence, and social cognition. Application to clinical work, group psychotherapy, and interpersonal behavior are highlighted.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 215",
+  "title": "Cognitive and Affective Bases of Behavior",
+  "units": "4",
+  "description": "This seminar emphasizes cognitive and affective bases of human behavior, including knowledge of (a) cognition, (b) theories and empirical bases of learning, memory, motivation, affect, emotion, executive function, and information processing and (c) factors that influence cognitive performance and/or emotional experience and their interaction.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 216",
+  "title": "Historical and Philosophical Foundations of Professional Psychology",
+  "units": "4",
+  "description": "Facilitates a selective and critical analysis of the historical/philosophical foundations of western psychology. To this end, attention is directed to those individuals, ideas and events that have shaped the history of psychology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 217",
+  "title": "Social, Cognitive, and Affective Bases of Behavior",
+  "units": "4",
+  "description": "Provides a foundation for examining the historical, theoretical, and empirical perspectives of the social, cognitive, and affective underpinnings of human behavior. Studying these social, cognitive, and affective processes will be conducted through a research, clinical and practical lens.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 220",
+  "title": "Human Development",
+  "units": "4",
+  "description": "Theory and research regarding processes/dimensions of human development (e.g., cognitive, social, emotional, individual processes, interpersonal processes, the self and gender roles). Special attention is given to social relationships and their developmental significance.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 222A",
+  "title": "Descriptive Diagnosis",
+  "units": "1",
+  "description": "Course is the first in the assessment sequence and provides an introduction to descriptive diagnosis via the DSM-IV. It is designed as an introduction to courses in psychopathology, cognitive assessment, and personality assessment.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 223B",
+  "title": "Developmental Psychopathology",
+  "units": "4",
+  "description": "An introduction to the domain of developmental psychopathology, the study of psychological problems in the context of human development. Emphasis on the developmental origins and developmental consequences of social, emotional, and behavioral disturbances during childhood and adolescence.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 224A",
+  "title": "Professional Organizations",
+  "units": "1",
+  "description": "Explores issues related to professional training and practice in scientific-professional psychology. Topics include internship, graduate training models, history of scientific-professional psychology, professional organizations, credentialing, licensure and employment settings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 225",
+  "title": "Ethical Standards in Professional Psychology",
+  "units": "4",
+  "description": "Course examines scientific and professional ethics in applied psychology. In addition to reviewing existing standards, the course focuses on a range of ethical and legal issues such as confidentiality, dual relationships, and client rights.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 226",
+  "title": "Understanding Diversity, Advancing Equity and Social Justice",
+  "units": "4",
+  "description": "This course focuses on understanding historical and contemporary patterns in the relationship between human service institutions (e.g., schools) and various diverse groups in the United States, and ways to advance equity and social justice practices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 227",
+  "title": "Social and Cultural Bases of Diversity",
+  "units": "4",
+  "description": "Acquaints students with the social and cultural bases of diversity and to enhance multicultural competence. Designed to enhance awareness, knowledge, and skills for providing culturally relevant, sensitive, and effective services to diverse populations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 250",
+  "title": "Cognitive Assessment in Professional Psychology",
+  "units": "4",
+  "description": "Provides in-depth coverage of the Wechsler series, the Stanford Binet (4th ed) and other major tests of cognitive ability. A general approach to test administration and interpretation is stressed. General issues in test bias are used to guide class discussion.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 251",
+  "title": "Personality and Emotional Assessment",
+  "units": "4",
+  "description": "Introduces students to the major tools and techniques for conducting comprehensive psychological assessments, appropriate for adult, children, and adolescents. Self-report, projective techniques, and behavior ratings are discussed in-depth.",
+  "prerequisites_raw": "CNCSP 250 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 252",
+  "title": "Advanced Personality Assessment",
+  "units": "4",
+  "description": "Students learn to score and interpret the Rorschach Inkblot Test at a level required for independent practice. Also covered are advanced techniques for integrating assessment results and using assessment in psychological treatment planning.",
+  "prerequisites_raw": "CNCSP 250 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 253",
+  "title": "School-Based Assessment and Intervention for Culturally and Linguistically Diverse Students",
+  "units": "4",
+  "description": "This course introduces issues in assessment and intervention practices with historically marginalized and underserved populations in the schools with a focus on multilingual learners. Includes school psychologist's role in utilizing fair and equitable practices for all students.",
+  "prerequisites_raw": "CNCSP 250",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 254",
+  "title": "Career and Life Development Appraisal",
+  "units": "4",
+  "description": "Examination of the structure, administration, and interpretation of career and life development assessment instruments. Also examination of instruments commonly used in counseling, clinical, or school psychology research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 255",
+  "title": "Neuropsychological Assessment",
+  "units": "4",
+  "description": "Students are exposed to the methods and techniques of applied neuropsychology. Course material covers the administration, scoring, and interpretation of measures of memory, executive functioning, speech and language, and motor processing.",
+  "prerequisites_raw": "CNCSP 250 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 256",
+  "title": "Behavioral, Social, and Emotional Assessment of Children and Adolescents",
+  "units": "4",
+  "description": "History and philosophy of behavior management approaches, behavioral assessment procedures, treatment delivery paradigms, parent-training, nonaversive/aversive issues, generalization and maintenance of treatment gains, causes, evaluation of behavior changes, medicine, self-management.",
+  "prerequisites_raw": "CNCSP 250 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 257B",
+  "title": "Psychoeducational Assessment and Intervention",
+  "units": "4",
+  "description": "Method of psychoeducational assessment and evaluation for identification, intervention, progress monitoring, and educational decision-making planning, and review of progress of children in the public schools. Consideration of screening and diagnostic instruments and procedures, plus instruments and materials to assure nondiscriminatory assessment.",
+  "prerequisites_raw": "CNCSP 250 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 260A",
+  "title": "Theories of Counseling and Psychotherapy",
+  "units": "4",
+  "description": "Develops an understanding and appreciation of the major philosophies and theories in the field of professional psychology. Special attention directed toward examination of applicability of theories and inherent techniques to racial/ethnic minority populations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 260B",
+  "title": "Basic Practicum I",
+  "units": "4",
+  "description": "Initial practicum in counseling focuses on building a counseling relationship. Students learn theory and practice of basic counseling skills, the working alliance, and multicultural adaptations.",
+  "prerequisites_raw": "Admission to M.Ed. or Ph.D. in Counseling/Clinical/School Psychology program or School Psychology Credential.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 260C",
+  "title": "Basic Practicum II",
+  "units": "4",
+  "description": "Focuses on case conceptualization of clients. Students learn to plan treatment on the basis of initial interview, a formal intake, history and present symptoms and client goals.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 268A",
+  "title": "Advanced Inorganic Chemistry",
+  "units": "3",
+  "description": "Electronic structure of atoms and molecules. Models for bonding in molecules of nontransition and transition elements. Applications of symmetry to bonding, electronic and vibrational spectroscopy. Stereochemistry of transition metal complexes and introduction to organo- metallics.",
+  "prerequisites_raw": "Consent of the chemistry graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 268B",
+  "title": "Advanced Inorganic Chemistry",
+  "units": "3",
+  "description": "Structures of ordered crystalline solids, x-ray crystallography. Introduction to solid state chemistry, inorganic materials and chemical catalysis. Bioinorganic chemistry.",
+  "prerequisites_raw": "Consent of the chemistry graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 270",
+  "title": "Graduate Seminar in Inorganic/Analytical Chemistry",
+  "units": "2",
+  "description": "Seminars on current research topics in inorganic/analytical chemistry presented by faculty, visiting scholars, and postdoctoral and senior graduate students.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 271",
+  "title": "Bioinorganic Chemistry",
+  "units": "3",
+  "description": "Selected topics in bioinorganic chemistry and metal-lobiochemistry with a major focus on recent developments. Topics will include discussions of metalloproteins and corresponding model compound investigations. Emphasis will be on reaction mechanisms and spectroscopic properties of metal sites.",
+  "prerequisites_raw": "Chemistry 173A-B or the equivalent.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 271A",
+  "title": "Synthesis and Properties of Macromolecules",
+  "units": "3",
+  "description": "Basics of preparation of polymer and macromolecular assemblies, and characterization of large molecules and assemblies. Discussion of chemical structure, bonding, and reactivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 272",
+  "title": "Reaction Mechanisms in Organometallic and Inorganic Chemistry",
+  "units": "3",
+  "description": "Discussion of chemical reaction mechanisms. Emphasis will be on fundamental reactions of metal compounds such as substitution, addition, elimination, and redox reactions for homogenous catalysis mechanisms and other complex systems.",
+  "prerequisites_raw": "Chemistry 173A-B, or equivalent.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 273",
+  "title": "Structural Inorganic Chemistry",
+  "units": "3",
+  "description": "The use of x-ray and neutron scattering to characterize solid state materials. Subjects include the crystal unit cell, space groups, structure determination and refinement. It is recommended that the student have an elementary introduction to vectors, matrices and fourier series.",
+  "prerequisites_raw": "Chemistry 173A-B, and 175; or equivalent.",
+  "prerequisites_courses": [
+   "CHEM 173A",
+   "CHEM 175"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 274",
+  "title": "Solid State Inorganic/Materials",
+  "units": "3",
+  "description": "An introductory course describing the synthesis, physical characterization, structure, electronic properties and uses of solid state materials.",
+  "prerequisites_raw": "Chemistry 173A-B or equivalent.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 275",
+  "title": "Physical-Inorganic Chemistry",
+  "units": "3",
+  "description": "Bonding theory, thermodynamics, and structure of inorganic compounds. Applications of physical techniques to the study of inorganic (and organometallic) reactions and their mechanisms.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 276",
+  "title": "Photochemical and Photophysical Properties of Inorganic and Organometallic Compounds and Materials",
+  "units": "3",
+  "description": "Discussion of the mechanics of fundamental physical and chemical events which follow absorption of light by inorganic or organometallic chromophores. Consideration of homogeneous and heterogeneous systems as well as the design and operation of photo-optical and photoelectrical devices.",
+  "prerequisites_raw": "Chemistry 173A-B or equivalent.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 277",
+  "title": "Introduction to Inorganic Materials",
+  "units": "3",
+  "description": "Structures of inorganic materials: close-packing, linking of simple polyhedra. Factors that control structure: ionic radii, covalency, ligand field effects, metal-metal bonding, electron/ atom ratios. Structure-property relationships in e.g. spinels, garnets, perovskites, rutiles, flourites, zeolites, b-aluminas, graphites, common inorganic glasses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 279",
+  "title": "Selected Topics in Inorganic Chemistry",
+  "units": "0",
+  "description": "This course is designed to reflect recent developments in inorganic chemistry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 279HH",
+  "title": "Nuclear and Radiochemistry",
+  "units": "0",
+  "description": "Radioactive decay kinetics and energetics, nuclear models, nuclear reactions, radiation detection, radiochemical techniques, and applications of radioactivity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 279SS",
+  "title": "Sustainability (with a Chemistry Emphasis)",
+  "units": "0",
+  "description": "This course will address and identify a number of issues in sustainability that are challenging a sustainable world and the potential research and technical opportunities for addressing these. Topics include: Climate Change—causes and effects; Environmental Monitoring; Energy – production and storage; Chemical resources - challenges and solutions; Recycling; Sustainable Materials; Research and Development Opportunities; Intellectual Property and Innovation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 281",
+  "title": "Protein Crystallography",
+  "units": "3",
+  "description": "Introduction to diffraction techniques. protein crystal growth and morphology. Data collection and reduction strategies. Approaches for solving the phase problem. Crystallographic refinement, including molecular dynamics. Interpretation of crystal structures.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 282A",
+  "title": "Synthesis and Bonding of Small Conjugated Molecules",
+  "units": "3",
+  "description": "Examination of small organic molecules used in optoelectronic devices: film transistors; light emitting diodes and solar cells. Methods for their synthesis. Influence of molecular structure on energies of molecular orbitals. Development of structure/function relationships based on solid state arrangements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 282B",
+  "title": "Organic Semiconductors for Energy Conversion",
+  "units": "3",
+  "description": "Basic photophysics of organic semiconductors. Examination of energy level alignments and solid state arrangements required for the conversion of solar energy into useful electrical energy. Important device considerations for evaluating power conversion efficiencies. Comparison of different solar conversion technologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 282C",
+  "title": "Instrumental Methods in Materials Chemistry",
+  "units": "3",
+  "description": "Principles and practice of advanced research instrumentation for soft materials characterization including spectroscopy, microscopy, and X-ray techniques",
+  "prerequisites_raw": "Chemistry 109A-B-C and Physics 6A-B-C",
+  "prerequisites_courses": [
+   "CHEM 109A",
+   "PHYS 6A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 284",
+  "title": "Chemical Literature",
+  "units": "2",
+  "description": "Lectures and exercises on the literature and other information resources of use in chemistry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 285",
+  "title": "Synthetic Chemistry of Macromolecules",
+  "units": "3",
+  "description": "Molecular architecture and classifica tion of macromolecules. Different methods for the preparation of polymers: free radical polymerization, ionicpolymerization, condensation polymerization and coordination polymerization. bulk, solution, and emulsion polymerization. Principles of copolymerization, blockcopolymerization, grafting, network formation, chemical reactions on polymers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 286",
+  "title": "Organometallic Chemistry: Structure, Bonding, and Applications",
+  "units": "3",
+  "description": "Synthesis, structure, and reactivity of organometallic complexes, with an emphasis on bonding and electronic structure. Homogeneous catalysis and small molecule activation, especially in the context of the energy conversion and storage, will also be discussed. Graduate students will be required to demonstrate a deeper understanding of the course material during class discussions and in submitted work. Graduate students will additionally be graded separately on all course work, including exams.",
+  "prerequisites_raw": "Chem 173A or 268A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 290",
+  "title": "Seminar in Chemistry and Biochemistry",
+  "units": "2",
+  "description": "Presentation of seminar required of all departmental graduate students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 291",
+  "title": "Special Seminar in Chemistry",
+  "units": "2",
+  "description": "Specialized seminar topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 293",
+  "title": "Faculty Research Seminar",
+  "units": "2",
+  "description": "A series of seminars by departmental faculty describ ing their active research projects.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 501A",
+  "title": "Techniques of Teaching",
+  "units": "2",
+  "description": "Weekly discussion to cover topics concerning class management, student engagement, supervising experiments and safety (if applicable), leading discussions, advising, and grading.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 501B",
+  "title": "Techniques of Teaching and Laboratory Class Supervision",
+  "units": "2",
+  "description": "An initial two-three day workshop is followed by weekly discussion. Topics covered: laboratory organization, supervising experiments, safety, presentations, leading discussions, writing quizzes, advising, and grading. Aimed at new teaching assistants.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 501C",
+  "title": "Techniques of Teaching and Laboratory Class Supervision",
+  "units": "2",
+  "description": "An initial two-three day workshop is followed by weekly discussion. Topics covered: laboratory organization, supervising experiments, safety, presentations, leading discussions, writing quizzes, advising, and grading. Aimed at new teaching assistants.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 502A",
+  "title": "Organic Chemistry Techniques of Teaching and Laboratory Class Supervision",
+  "units": "2",
+  "description": "Weekly discussion to cover topics concerning class management, student engagement, supervising experiments and safety, leading discussions, advising, and grading in the organic chemistry laboratory.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 502B",
+  "title": "Organic Chemistry Techniques of Teaching and Laboratory Class Supervision",
+  "units": "2",
+  "description": "An initial two-three day workshop is followed by weekly discussion. Topics covered: laboratory organization, supervising experiments, safety, presentations, leading discussions, writing quizzes, advising, and grading. Aimed at new teaching assistants in Organic Chemistry.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 56B",
+  "title": "Modern Dance I",
+  "units": "0",
+  "description": "Analysis and exploration of the technical aspects of movement as an expressive medium. For dance majors.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 56C",
+  "title": "Modern Dance I",
+  "units": "0",
+  "description": "Analysis and exploration of the technical aspects of movement as an expressive medium. For dance majors.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 56D",
+  "title": "Modern Dance II",
+  "units": "0",
+  "description": "Analysis and exploration of the technical aspects of movement as an expressive medium at the intermediate level. For dance majors.",
+  "prerequisites_raw": "Dance 56C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 56E",
+  "title": "Modern Dance II",
+  "units": "0",
+  "description": "Analysis and exploration of the technical aspects of movement as an expressive medium at the intermediate level. For dance majors.",
+  "prerequisites_raw": "Dance 56C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 56F",
+  "title": "Modern Dance II",
+  "units": "0",
+  "description": "Analysis and exploration of the technical aspects of movement as an expressive medium at the intermediate level. For dance majors.",
+  "prerequisites_raw": "Dance 56C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 58",
+  "title": "Pedagogy I",
+  "units": "3",
+  "description": "Theory, principles, and methods of teaching dance, including study of movement concepts, communication skills, and class dynamics. Includes practical experience in leading groups through movement sequences.",
+  "prerequisites_raw": "Dance 47A and 56A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 60",
+  "title": "Summer Jazz Dance",
+  "units": "3",
+  "description": "Fundamentals of jazz technique.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 73",
+  "title": "Open-Level Ballet",
+  "units": "2",
+  "description": "This course teaches ballet technique focusing on the concepts of barre practice and warm-up along with center adagio, petite allegro, grand allegro and areas of practice in turning and pirouettes. Analysis of placement for proper ballet form is emphasized along with artistry, strength and flexibility. Historical practices in ballet will be considered and contextualized against modern movements in ballet and the changing aesthetic of the form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 74",
+  "title": "Open-Level Modern",
+  "units": "2",
+  "description": "This course teaches modern dance technique focusing on the concepts of movement generation, alignment of the body for optimal performance of class material, analysis of the moving body and training in specific modern dance techniques to strengthen the dancer's ability to perform various modern dance modalities. Attention will be paid to artistry, musicality, skill attainment and how to process ideas about embodiment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 75",
+  "title": "Aerial Dance",
+  "units": "2",
+  "description": "This course teaches the technique of aerial dance on various apparatus including, static trapeze, aerial silks, corde lisse, and aerial sling. Particular attention is given to safety protocols, transitions from floor to the equipment, strength training drills, and aerial skills at the beginning and intermediate level. Various foot, hip and leg locks are taught, along with straddle inversions and variations on different climbing techniques.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 76",
+  "title": "Jazz Technique",
+  "units": "2",
+  "description": "This course teaches jazz technique focusing on warm-up principles, center practice, performance aesthetic and artistry. Various forms of jazz dance will be explored and contextualized against one another as we examine the historical underpinnings and ever changing style of this versatile and all American form of dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 77",
+  "title": "Tap Technique",
+  "units": "2",
+  "description": "This course teaches tap dance technique focusing on classical rhythmic and step structures and on improvisation and inventive choreographic principles of this dance form. Attention will be paid to clarity of sound, and rhythmic structure as well as the formal aspects of the visual presentation of the dance steps.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 78",
+  "title": "Flamenco Technique",
+  "units": "2",
+  "description": "This course teaches the structural technical aspects of alignment and strength and flexibility training vital for dancers in all dance disciplines. Particular attention will be paid to full body alignment for optimal performance and body stability.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 79",
+  "title": "Pilates Technique",
+  "units": "2",
+  "description": "This course teaches the structural technical aspects of alignment and strength and flexibility training vital for dancers in all dance disciplines. Particular attention will be paid to full body alignment for optimal performance and body stability.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82",
+  "title": "Special Topics: Physical Practice",
+  "units": "2",
+  "description": "A Super Course designed to house various forms of physical practice/technique not currently represented in the curriculum. Topics may include: somatic forms such as Alexander Technique, Yoga, Pilates: non-western dance forms such as West African, Flamenco, Kathak, Bhara Natyam, Korean Dance, Cambodian Dance, etc.; percussive forms such as Tap, Hoofing, or Clogging; or many other forms that may be the expertise of faculty, guest artists, visiting lecturers/professors, or graduate students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82AR",
+  "title": "Special Topics: Physical Practice Aerial Dance",
+  "units": "2",
+  "description": "Special Topics: Physical Practice Aerial Dance is an introductory studio-based course focused on exercises to build integrated full body strength while using aerial silks and aerial hammock. Particular focus paid to transitions from the floor to the aerial apparatus and choreographic concepts in developing movement sequences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82B",
+  "title": "Special Topics, Physical Practice: Bartenieff Fundamentals",
+  "units": "2",
+  "description": "A studio course focused on Bartenieff Fundamentals; a somatic movement system developed by Irmgard Bartenieff. Designed to enhance movement efficiency by balancing functional integration with expressive potential, this method will serve as the foundation for our explorations. We will dive into Bartenieff’s six body developmental patterns, eight principles of action, four core themes, and basic six exercises, investigating how they shape movement connectivity, alignment, and energy flow. The course will also emphasize the sociocultural dimensions of movement practices, fostering critical reflection on how movement intersects with identity, community, and culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82BU",
+  "title": "Special Topics, Physical Practice: Butoh",
+  "units": "2",
+  "description": "A studio-based introduction to the physical practice and training modality of butoh. Developed in post-WWII Japan, butoh in the 21st century is a contemporary dance theater form with divergent lineages and global aesthetics. Students explore butoh through movement exercises and improvisation scores with an emphasis on presence, imagination, and transformation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82BX",
+  "title": "Open-level Ballet Physical Practice",
+  "units": "2",
+  "description": "Open-level Ballet Physical Practice is an introductory studio-based course focused on various ballet technique forms. This course covers all elements of standard ballet classesincluding barre, center, and petit and grand allegro.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82C",
+  "title": "Special Topics, Physical Practice: Conditioning/Pilates",
+  "units": "2",
+  "description": "A dedicated study and practice or pilates-based body conditioning and injury prevention. Offered early in the day, this course serves as a warm-up, tune-up and injury prevention for a dance students overall practice. Skills and conditioning sequences learned will be helpful beyond the course, and overall a greater awareness and maintenance of the body as the instrument of dance is a central objective.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82EA",
+  "title": "Physical Practice: Embodying Activism",
+  "units": "2",
+  "description": "This praxis-based course invites student artists to explore what activism means to them through embodiment tools and movement practices. Emphasizing physicality as a central method of inquiry, students critically examine how activism can be integrated into their creative processes, professional paths, and spheres of influence. By the end of the course, students will have developed a personal, evolving definition of “embodying activism” and identified strategies for practicing activism in their daily lives.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82FL",
+  "title": "Special Topics: Physical Practice-Flamenco",
+  "units": "2",
+  "description": "A studio-based, physical practice exploration of flamenco. Using the basic comps (rhythmic structures) of flamenco, we explore the different components of flamenco dance technique: floreo (hand movements) brazeo/braceo (arm movements), palmas (rhythmic hand-clapping), marcaje (marking, or movement through space), vueltas (turns) and zapateado (footwork). Students learn basic technical elements, short sections of choreography and may be offered supplemental readings and viewings by some of flamencos most celebrated artists to contextualize the technical practice of the form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82JZ",
+  "title": "Special Topics, Physical Practice: Jazz Technique",
+  "units": "2",
+  "description": "A studio-based dance technique course designed for dance majors. The focus of the class is the study of jazz dance technique including technical basics, progressions, skills, and phrase work rooted in the jazz dance idiom. Styles and approaches will vary by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82MX",
+  "title": "Open-level Modern/Contemporary Physical Practice",
+  "units": "2",
+  "description": "Open-level Modern/Contemporary Physical Practice is an introductory studio-based course exploring various movement modalities in the area of modern and contemporary dance technique. Investigates different initiations for moment within the body, energetic flow, rhythmic form and structure and the building blocks of anatomically healthy movement practices in various styles within modern dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82P",
+  "title": "Special Topics, Physical Practice: Artist Performance (Stage/TV/Film)",
+  "units": "2",
+  "description": "This course will focus on elevating the students' performance by translating the information and history they have learned into performance on stage, tv, and film. Through choreographic exploratory, students will explore the differences in the performance implementations and how it impacts using their artistic voice. Beyond learning choreography, this exploration and practical application will improve and help the student to be more efficient in using their artistic voice to communicate their message to the world through the different media platforms. The student will ultimately improve their performance because they have a more in-depth connection to the history and technical forms of art.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 82TP",
+  "title": "Special Topics: Physical Practice Tap",
+  "units": "2",
+  "description": "Special Topics: Physical Practice Tap is an introductory studio-based study of percussive dance forms rooted in American Vernacular Dance. Emphasis placed on musicality, expression, improvisation, and rhythmic structure.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

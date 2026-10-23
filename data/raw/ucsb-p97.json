@@ -1,0 +1,294 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 103A",
+  "title": "Anthropology of China",
+  "units": "4",
+  "description": "This course adopts an anthropological approach to contemporary China through ethnographic research. Topics include: Maoist society, rural life, migrant workers, gender and sexuality, media culture, youth culture, the urban work unit, from Maoist class-status system to capitalist class structure.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 103B",
+  "title": "Anthropology of Japan",
+  "units": "4",
+  "description": "This course examines Japan as depicted in contemporary ethnography. We consider how Japan has been imagined as a distinct culture by exploring gender, religion, family structures, the education system, the environment, management of difference, globalization and domestication, immigration, and modernization.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 103C",
+  "title": "Anthropology of Contemporary Korea",
+  "units": "4",
+  "description": "This course is an introduction to contemporary Korea covering the major societal transformations since the Korean War. Topics include nationalism, the creation of national symbols and racial identity, family, marriage, consumption, television dramas, globalization, tourism, and new Korean Wave.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 109B",
+  "title": "Christianity, Judaism, and Islam in China",
+  "units": "4",
+  "description": "Examines Christian, Jewish, and Muslim communities in the Middle Kingdom from 500 to the present day, debunking the myth of a closed and insular China.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 128",
+  "title": "Religious Environmentalism in the Anthropocene: Asia & U.S.",
+  "units": "4",
+  "description": "What can ancient religious traditions do for environmental protection? This class examines doctrinal examples, both potential and actual, of religious environmentalism in China, India, Japan, and the U.S.: with Buddhism, Daoism, Hinduism, Shinto, and Protestantism.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 131",
+  "title": "Global East Asia",
+  "units": "4",
+  "description": "Offers an overview of theories about migration and globalization, coupled with the case studies from contemporary East Asia. Students investigate diverse transnational issues in and from this region, including ethnicity, nationalism, kinship, homeland, and colonialism.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 132",
+  "title": "Social Movements in East Asia",
+  "units": "4",
+  "description": "This course engages with cultural histories of social movements and political protests in modern and contemporary East Asia. All reading, viewing, and listening material will be available in English translation.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 133",
+  "title": "Transpacific Literature",
+  "units": "4",
+  "description": "Looks at the Pacific as the primary location for literary and historical imagination since the Age of Exploration. Studies the crisscross, transpacific field of inscriptions ranging from Captain Cook to Herman Melville, Mark Twain, Jack London, and Maxine Hong Kingston.",
+  "prerequisites_raw": "Writing 2 or upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 134A",
+  "title": "Buddhist Art",
+  "units": "4",
+  "description": "A survey of selected forms of Indian, Chinese, and Japanese Buddhist art. Emphasis on Buddhist sculpture and Zen painting. Exploration of the correlation of religious values and art, transformation and adaptation of artistic traditions from one culture to another.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 136",
+  "title": "Children at War",
+  "units": "4",
+  "description": "The intersections of childhood, war, and play in Asia and other societies around the globe, from the late nineteenth century to today. Brings together studies of children and childhood with studies of war and peace.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 140",
+  "title": "Indigenous Movements in Asia",
+  "units": "4",
+  "description": "Examines the emergence of indigenous peoples as a new kind of political community in Asia. Reading across ethnographic, historical, and politic-legal perspectives, we will explore the material and symbolic benefits of claiming to be indigenous in non-western contexts.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 141",
+  "title": "Environmental Justice in Asia",
+  "units": "4",
+  "description": "Applies environmental justice, a tool for addressing social and ethnic/racial inequality in environmental conditions, to analysis of Asia. Contrasts mainstream environmental and sustainability models with the justice-based approach to analyze how local communities devise solutions for environmental crises.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 142",
+  "title": "Literary Adaptation in East Asia",
+  "units": "4",
+  "description": "Explores literary adaptation and intertextuality in East Asia through primary texts and readings from critical theory. Among the texts considered are traditional poetry, The Tale of Genji, Chinese \"strange tales\" and representations of history and literature in film.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 147T",
+  "title": "Introduction to Daoism",
+  "units": "4",
+  "description": "A study of the classical sources of Daoism, followed by a consideration of the varieties of religious practice which developed from those sources.",
+  "prerequisites_raw": "Upper Division Only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 154",
+  "title": "Medical Humanities in East Asia",
+  "units": "4",
+  "description": "Major concepts and issues at the intersection of healthcare and the humanities in modern East Asia. Topics may include narrative medicine, medicalization, body/embodiment, medical pluralism, mental health, social justice, and interdisciplinary approaches to systems of treatment and healing.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 156A",
+  "title": "Anthropology of Religion",
+  "units": "4",
+  "description": "Anthropological studies of religious practice, including theories of religion. Topics include: ritual and symbolism, religion and economy, religion and political power, gender and religion, religion and media, and globalization of religion. Students will undertake a mini-ethnographic project.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 158",
+  "title": "Sinophone Studies",
+  "units": "4",
+  "description": "The study of Sinitic-language communities and cultures around the world, marked by heterogeneity, placed-based practices, and differentiated relations to geopolitical units. Emphases will be on the questions of power, colonialism, hierarchy, resistance, plurality, and interdisciplinarity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 163C",
+  "title": "Doctors and Diviners: Science, Medicine, and Religion in Premodern China",
+  "units": "4",
+  "description": "This course undertakes a critical history of science and medicine in premodern China, focusing primarily on their role as instigators of interchange between Buddhism, Daoism, and various intellectual currents.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 165",
+  "title": "East Asian Buddhist Poetry",
+  "units": "4",
+  "description": "Introduces Buddhist poetry of China, Japan, and Korea. Emphasizes the diversity of literary encounters with the teachings and practices of Buddhism. Topics include Hanshan, Basho, Zen koans, Gary Snyder, and monastery cats.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 166",
+  "title": "The Modern Girl Around the World",
+  "units": "4",
+  "description": "Examines the Modern Girl as a historical phenomenon of the early twentieth century from the combined perspective of global history and gender history.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 171",
+  "title": "Buddhism and Local Cults in Asia",
+  "units": "4",
+  "description": "This course examines the multiple ways in which various Buddhist traditions have interacted with local cults in various parts of Asia (including China, Tibet, Japan, Burma, and Thailand). We will discuss issues of localization and translocalization as important religious phenomena.",
+  "prerequisites_raw": "One lower division or upper division course on Buddhism, or prior approval of the instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 176",
+  "title": "Buddhist Political Thought and Institutions",
+  "units": "4",
+  "description": "Buddhist political theories and practices in various Asian countries from antiquity to the present, with special emphasis on ideas of kinship and republicanism, state-formation process, cultural identity, and the interactions with other religions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 179",
+  "title": "Visual Culture of Buddhism",
+  "units": "4",
+  "description": "This course explores the rich world of Buddhist visual culture, ranging from meditation to addressing the use of painted images in public performances. It focuses on sacred images, their rituals, and theories of representation behind their creation and use.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 181",
+  "title": "Special Topics in East Asian Studies",
+  "units": "4",
+  "description": "Special topics in East Asian Studies. Course content varies.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 181DD",
+  "title": "Special Topics in East Asian Studies",
+  "units": "4",
+  "description": "Special topics in East Asian Studies. Course content varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 181EC",
+  "title": "Transnational East Asian Cinemas and Food Culture",
+  "units": "4",
+  "description": "Examines how food, production and consumption, and the related socio-political issues have been represented in East Asian cinemas. Students specifically look at how films illustrate the relationship between food and culture, familial relationships, generational conflicts, class struggle, and personal identities. Students explore narrative, visual, and symbolic uses of food in the context of popular culture and transnationalism. No prior knowledge of film studies is required. All films are subtitled.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 181EE",
+  "title": "Special Topics in East Asian Studies",
+  "units": "4",
+  "description": "Special topics in East Asian Studies. Course content varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 181GL",
+  "title": "Global East Asia",
+  "units": "4",
+  "description": "An overview of theories about migration and globalization, coupled with the case studies from contemporary East Asia. Students will investigate diverse transnational issues in and from this region, including ethnicity, nationalism, kinship, homeland, and colonialism.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 181ML",
+  "title": "Memory in the Literatures and Films of East Asia",
+  "units": "4",
+  "description": "Examines the concept of memory: individual, collective, intergenerational, and transcultural, and how it has been (re)inscribed in literatures and films of East Asia from the Asia-Pacific War (19311945) to the present, exploring memory's relations with history, modernity, trauma, nostalgia, gender, and nation.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,341 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH STW",
+  "code": "CH STW 1B",
+  "title": "Introduction to Chicano/a Studies",
+  "units": "5",
+  "description": "Introduction to the historical and contemporary development of the Chicano/a community. Course is interdisciplinary in nature. Focuses by quarter on A. history, B. gender, and C. culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH STW",
+  "code": "CH STW 1C",
+  "title": "Introduction to Chicano/a Studies",
+  "units": "5",
+  "description": "This course explores contemporary Chicana/x cultural practices—from music, fashion, poster art, and murals to perspectives on social identities and sexualities. Focusing on culture, race, class, gender, and ideas of “home,” we examine how traditions and rituals reflect national and transnational politics. Drawing from Chicana/o Studies, Sound Studies, Feminist Studies, Art, and Media Studies, we analyze how communities use cultural practices to navigate, resist, and speak against injustice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH STW",
+  "code": "CH STW 116",
+  "title": "Maya History & Resistance",
+  "units": "4",
+  "description": "The course examines Maya History and Resistance in the Mayab’, or where the Maya live/are. It attempts to de-center the nation-state, while also recognizing the ways that governments have played a role in repressing Indigenous Peoples. The course analyzes the Maya through time and space, with each week focusing on a particular topic.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH STW",
+  "code": "CH STW 184A",
+  "title": "Chicana Writers",
+  "units": "4",
+  "description": "Examination of literary works by Chicana writers. Feminist theories as well as other contemporary critical theories are applied to the analysis of prose, poetry and dramatic works written by such authors as Sandra Cisneros, Ana Castillo, Helen Viramontes, and others.",
+  "prerequisites_raw": "Department approval required to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 1A",
+  "title": "General Chemistry",
+  "units": "4",
+  "description": "Topics covered: atomic structure of matter; reaction stoichiometry; solution stoichiometry; gasses; quantum chemistry and the electronic structure of atoms; chemical bonding (molecular shapes, hybridization, and molecular orbital theory).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 1B",
+  "title": "General Chemistry",
+  "units": "3",
+  "description": "Topics covered: equilibrium; acids, bases, and buffers; thermochemistry (energy, enthalpy, entropy, and free energy); electrochemistry.",
+  "prerequisites_raw": "CHEM 1A, CHEM 2A or CHEM 3A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A",
+   "CHEM 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 1C",
+  "title": "General Chemistry",
+  "units": "3",
+  "description": "Topics covered: kinetics; intermolecular forces, liquids and solids; properties of solutions; transition metals and coordination complexes; organic chemistry and polymers; nuclear chemistry.",
+  "prerequisites_raw": "CHEM 1B, CHEM 2B or CHEM 3B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2B",
+   "CHEM 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 2A",
+  "title": "General Chemistry (Honors)",
+  "units": "3",
+  "description": "The sequence of topics will be similar to that in Chemistry 1A. Calculus will be used as needed, at the level of the concurrent Mathematics 3A course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 2AL",
+  "title": "General Chemistry Lab (Part A)",
+  "units": "2.5",
+  "description": "Qualitative and quantitative measurements to develop laboratory techniques and demonstrate the basic concepts of stoichiometry, gas laws, atomic spectroscopy, chemical equilibrium, and acid-base chemistry.",
+  "prerequisites_raw": "CHEM 1A, CHEM 2A, or CHEM 3A with a minimum grade of C-. Concurrent enrollment, or a grade of C- or higher in CHEM 1B, CHEM 2B, or CHEM 3B.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A",
+   "CHEM 3A",
+   "CHEM 1B",
+   "CHEM 2B",
+   "CHEM 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 2B",
+  "title": "General Chemistry (Honors)",
+  "units": "3",
+  "description": "Thermodynamics (first and second law), electrochemistry, chemical kinetics, atomic and molecular structure, and chemical bonding.",
+  "prerequisites_raw": "CHEM 2A or CHEM 1A or CHEM 3A with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CHEM 2A",
+   "CHEM 1A",
+   "CHEM 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 2BL",
+  "title": "General Chemistry Laboratory (Part B)",
+  "units": "2.5",
+  "description": "Qualitative and quantitative measurements to develop laboratory techniques and demonstrate the basic concepts of buffers, thermochemistry, electrochemistry, kinetics, and colligative properties.",
+  "prerequisites_raw": "CHEM 1B, CHEM 2B, or CHEM 3B with a minimum grade of C-. Concurrent enrollment, or a grade of C- or higher in CHEM 1C, CHEM 2C, or CHEM 3C. CHEM 2AL (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2B",
+   "CHEM 3B",
+   "CHEM 1C",
+   "CHEM 2C",
+   "CHEM 3C",
+   "CHEM 2AL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 2C",
+  "title": "General Chemistry (Honors)",
+  "units": "3",
+  "description": "Structure and dynamics of the elements and their compounds. Aspects of technology and environmental problems.",
+  "prerequisites_raw": "CHEM 2B or CHEM 1B or CHEM 3B with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CHEM 2B",
+   "CHEM 1B",
+   "CHEM 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 3A",
+  "title": "General Chemistry (Majors)",
+  "units": "4",
+  "description": "Topics covered: atomic structure of matter; reaction stoichiometry; solution stoichiometry; gasses; quantum chemistry and the electronic structure of atoms; chemical bonding (molecular shapes, hybridization, and molecular orbital theory). First quarter of general chemistry intended for Chemistry Pre-Majors and Chemical Engineering Majors and others requiring a strong basis in chemistry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 3B",
+  "title": "General Chemistry (Majors)",
+  "units": "3",
+  "description": "Topics covered: equilibrium; acids, bases, and buffers; thermochemistry (energy, enthalpy, entropy, and free energy); electrochemistry. Second quarter of general chemistry intended for Chemistry Pre-Majors and Chemical Engineering Majors and others requiring a strong basis in chemistry.",
+  "prerequisites_raw": "CHEM 1A, CHEM 2A, or CHEM 3A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A",
+   "CHEM 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 3C",
+  "title": "General Chemistry (Majors)",
+  "units": "3",
+  "description": "Topics covered: kinetics; intermolecular forces, liquids and solids; properties of solutions; transition metals and coordination complexes; organic chemistry and polymers; nuclear chemistry. Third quarter of general chemistry intended for Chemistry Pre-Majors and Chemical Engineering Majors and others requiring a strong basis in chemistry.",
+  "prerequisites_raw": "CHEM 1B, CHEM 2B, or CHEM 3B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2B",
+   "CHEM 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 3L",
+  "title": "Introduction Into Advanced Laboratory Practices",
+  "units": "2",
+  "description": "Qualitative and quantitative measurements to develop advanced laboratory techniques. Students will also develop science literacy skills by learning how to present experimental results and perform literature reviews. This course is intended for chemical science majors.",
+  "prerequisites_raw": "CHEM 1C, 2C, or 3C with a grade of C- or better; and CHEM 2AL and 2BL",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 2AL",
+   "CHEM 2C",
+   "CHEM 3C",
+   "CHEM 2BL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 6AL",
+  "title": "Laboratory Methods of Organic Chemistry",
+  "units": "3",
+  "description": "Distillation, crystallization, extraction, determination of physical properties, spectroscopy, and instrumental methods in organic chemistry.",
+  "prerequisites_raw": "Chemistry 1AL or 2AC, 1BL or 2BC, and 1CL or 2CC, or Chemistry 2AL and 2BL; 109A or 109AH or 130A with a minimum grade of a C-; and Chemistry 109B or 109BH or 130B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 2AL",
+   "CHEM 109B",
+   "CHEM 2BL",
+   "CHEM 109A",
+   "CHEM 109AH",
+   "CHEM 130A",
+   "CHEM 109BH",
+   "CHEM 130B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 6BH",
+  "title": "Laboratory Methods of Organic Chemistry (Independent Research)",
+  "units": "3",
+  "description": "Independent research involving distillation, crystallization, extraction, determination of physical properties, organic synthesis, and use of instrumental methods in organic chemistry.",
+  "prerequisites_raw": "Chemistry 6AL and 109A or 109AH; and Chemistry 109B or 130B or 109BH (may be taken concurrently); open to chemistry, biochemistry and creative studies majors only; consent of instructor.",
+  "prerequisites_courses": [
+   "CHEM 6AL",
+   "CHEM 109B",
+   "CHEM 109A",
+   "CHEM 109AH",
+   "CHEM 130B",
+   "CHEM 109BH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 6BL",
+  "title": "Laboratory Methods of Organic Chemistry",
+  "units": "3",
+  "description": "Distillation, crystallization, extraction, determination of physical properties, organic synthesis, instrumental methods in organic chemistry.",
+  "prerequisites_raw": "Chemistry 6AL and 109A or 109AH or 130A with a minimum grade of C-; and Chemistry 130B (can be taken concurrently) or Chemistry 109B or 109BH.",
+  "prerequisites_courses": [
+   "CHEM 6AL",
+   "CHEM 130B",
+   "CHEM 109B",
+   "CHEM 109A",
+   "CHEM 109AH",
+   "CHEM 130A",
+   "CHEM 109BH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 6CH",
+  "title": "Organic Chemistry Labs",
+  "units": "4",
+  "description": "Independent research involving distillation, crystallization, extraction, determination of physical properties, organic synthesis, and use of instrumental methods in organic chemistry for the purposes of multistep synthesis.",
+  "prerequisites_raw": "Chemistry 6BL or 6BH and 109B or 109BH; and Chemistry 109C or 130C or CHEM 109CH (may be taken concurrently); open to chemistry, biochemistry and creative studies majors only; consent of instructor.",
+  "prerequisites_courses": [
+   "CHEM 6BL",
+   "CHEM 109C",
+   "CHEM 109CH",
+   "CHEM 6BH",
+   "CHEM 109B",
+   "CHEM 109BH",
+   "CHEM 130C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 6CL",
+  "title": "Organic Chemistry Labs",
+  "units": "4",
+  "description": "Distillation, crystallization, extraction, determination of physical properties, organic synthesis, instrumental methods in organic chemistry.",
+  "prerequisites_raw": "Chemistry 6BL or 6BH and 109B or 109BH or 130B with a minimum grade of C-; and Chemistry 109C or 109CH or 130C (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 6BL",
+   "CHEM 109C",
+   "CHEM 6BH",
+   "CHEM 109B",
+   "CHEM 109BH",
+   "CHEM 130B",
+   "CHEM 109CH",
+   "CHEM 130C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 10",
+  "title": "Introduction to Computer Methods and Simulations in Chemistry",
+  "units": "2",
+  "description": "Introduction of different computing techniques for scientific computation in the fields of chemistry, materials, and nanotechnology using Unix and web based software. Applications include: molecular modeling, molecular dynamics, Mathematica, Monte Carlo, data analysis, quantum computing, and data mining.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 25",
+  "title": "Introductory Chemistry",
+  "units": "5",
+  "description": "Includes fundamental topics, such as matter, measurements, atomic/electronic structure, atomic theories, bonding, reactions, and stoichiometry.",
+  "prerequisites_raw": "Not open to students who have completed Natural Science 1B or Chemistry 1A or Chemistry 2A. Cannot be taken concurrently with Chemistry 1A or Chemistry 2A.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 91",
+  "title": "Undergraduate Seminar",
+  "units": "1",
+  "description": "Seminars for undergraduates presented by faculty, guest speakers, and/or students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 94",
+  "title": "SciTrek 2nd-12th Science Outreach",
+  "units": "1",
+  "description": "This course allows students to earn 1 unit of credit for serving as a mentor in the SciTrek program, a 2nd -12th grade science outreach program. Students will receive activity specific training on working with elementary or secondary students and then implement that training in an elementary or secondary classroom.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

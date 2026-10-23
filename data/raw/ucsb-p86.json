@@ -1,0 +1,192 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 156",
+  "title": "Health Promotion and Behavior Change",
+  "units": "4",
+  "description": "Students learn how theories of motivation, attention, cognitive processing, learning, persuasion, and health communication can be applied to the design of effective health promotion messages, delivered in person and via media. The course presents theories, research on processes and effects and examples of the state-of-the-art in health message design, and students have an opportunity to design their own health promotion messages based on theories and research evidence they have learned.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 158",
+  "title": "Advanced Language and Communication Processes",
+  "units": "4",
+  "description": "Intensive scrutiny of current theory and research on linguistic aspects of communication. Topics will vary each quarter.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160",
+  "title": "Special Topics in Communication",
+  "units": "4",
+  "description": "Investigation of current theory and research in a selected area of communication. Variable topics in media, interpersonal or organizational communication, depending on the instructor.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160CG",
+  "title": "Communication, Culture & Globalization",
+  "units": "4",
+  "description": "To be able to communicate across intercultural contexts is not only an essential life skill but also an ethical obligation. Globalization provides opportunities and challenges to effective intercultural communication. In an era where the line between “our” and “other” cultures is rapidly disappearing, moving, and changing, learning how globalization processes shape our communication and cultural practices is a key element of a liberal arts education. In this course, we explore the interconnections between communication, culture, and globalization. We will define and critique differing visions of globalization and reflect on how communication can be a tool for social justice in a global world.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160CL",
+  "title": "Special Topics in Communication: Culture and Language",
+  "units": "4",
+  "description": "Investigation of current theory and research in a selected area of communication. Variable topics in media, interpersonal or organizational communication, depending on the instructor.",
+  "prerequisites_raw": "Open to Communication and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160DS",
+  "title": "Data Science in Communication",
+  "units": "4",
+  "description": "Explore Data Science in Communication (and other related Social Sciences) and delve into issues of not just computational methodologies and processes (and related concepts such as \"Big Data\", \"Machine Learning\", and \"Artificial Intelligence\"), but also important aspects of ethics, social impact of technology, and data visualization. Understand different aspects and nuances of this topic by examining multiple case studies of the use of Data Science techniques in Communication research.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160EC",
+  "title": "Ecocultural Communication",
+  "units": "4",
+  "description": "Explores how communication constructs and shapes human relationships with the environment. Drawing from environmental and critical cultural communication scholarship, we will examine international, regional, and local eco-discourses in order to better understand ways that human-nature relations are both culturally-constructed and materially experienced. Ultimately, our collaborative explorations will help us better understand how: A) cultural and communication processes inform, construct, and produce human perceptions of and actions toward/within nature; and B) ecocultural communication research can be used to deconstruct and transform dominant Western human perceptions of and behaviors toward nature.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160HC",
+  "title": "Special Topics: Communication and the Art of Happiness",
+  "units": "4",
+  "description": "In this seminar, we examine how communication behaviors relate to constructing happiness and well-being. Topics include gratitude, forgiveness, social support, appreciation, social networks, committing to goals, taking care of your body and soul, and communicative contagion of mood intersecting with issues of dyadic, group, and interpersonal communication. Auxiliary readings come from a variety of disciplines, including psychology and sociology. This course intends to challenge students to think deeply and critically about happiness and purpose in their own lives.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160ME",
+  "title": "Special Topics in Communication: Media & Emotion",
+  "units": "4",
+  "description": "This course overviews the ways in which emotion has been integrated into the study of media effects, focusing on emotion as a predictor of media selection, as an outcome of media exposure, and as the mechanism by which other media effects occur. Theoretical approaches derived from both traditional and contemporary contexts will be covered, with particular attention to the new digital media landscape.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160MH",
+  "title": "Special Topics: Navigating Close Relationships and Mental Health",
+  "units": "4",
+  "description": "This course examines the bi-directional relationship between close relationships and mental well-being. Specifically, this course explores the role of communication as central to fostering and maintaining close connections in our lives, and the role of said connections on one's ability to thrive. Theory and experiential practice will be interwoven throughout the course, inviting students to embody new ways of being in their closest relationships that inspires mental/emotional wellness.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160MP",
+  "title": "Media Psychology",
+  "units": "4",
+  "description": "There is little doubt that media have a substantial influence on individuals’ lives. American adults spent on average more than 13 hours per day with media. Most of this time is devoted to entertainment, news, and to connecting to other individuals via social media. In this class students will become familiar with past and contemporary theorizing and research in media psychology. Specifically, the class intertwines latest research on the uses and effects of media with research in the cognitive sciences. Topics include an overview of media psychological theories and their historical development, the psychology of narratives and the moral mind, the psychology of video games, and the psychology of smartphones and social media.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160NC",
+  "title": "Neuroscience of Communication",
+  "units": "4",
+  "description": "Curious about what is really going on inside our brains when we communicate? This course explores how neuroimaging reveals the hidden mechanics of communication, from mass media effects to social influence, beyond what traditional research methodologies can tell us. You will learn the fundamentals of brain imaging methods, how to apply them to communication research, and how to design your own neuroimaging study. No neuroscience background required.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160OD",
+  "title": "Special Topics in Communication: Organizing Difference",
+  "units": "4",
+  "description": "Using a variety of different organizational lenses (e.g. culture, team, or agent), students will think through how social identity issues materialize in modern organizational policy and practice. Course materials will encourage students to take the role of diverse organizational agents as they face ethical dilemmas in examining contemporary social identities such as ability, gender, race, class, and age. Students can expect a variety of theory and application integration through class discussion, reflective and analytic writing assignments and a final project. Students will identify issues of organizational power, policy, and practice, particularly as they may result in disparate material consequences of economic health and well-being.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160OH",
+  "title": "Perspectives on Online Hate Speech",
+  "units": "4",
+  "description": "Focuses on online hate messages: racist/ethnic/sexist social media postings, websites, and discussion forums; harassment, toxicity, and cyberbullying. Topics include the prevalence, content, and effects of online hate; motivations; coordinated organized attacks; media use by existing offline hate groups; potential for offline aggression; remediation messages (human and robotic), and related topics. Readings primarily are research articles. Student groups complete original comprehensive literature reviews on a particular subtopic with reports to a California civil rights commission. This course involves exposure to and discussion of extremely offensive terms and materials. It’s heavy on reading and writing.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160PD",
+  "title": "News, Politics, & Democracy",
+  "units": "4",
+  "description": "Explores how news media shape democratic life. Students engage in collaborative exercises and projects related to news production, dissemination, and use. Topics such as news industry consolidation, \"fake news,\" political polarization, and political disagreement on social media are examined through the lenses of communication theory and journalistic practice.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160PF",
+  "title": "Special Topics in Communication: The Political Film, Journalists, and Journalism",
+  "units": "4",
+  "description": "Examines the ways that journalism and journalists are portrayed in popular fiction and film. We will do this by viewing a series of full-length feature films that depict major issues spanning the period from the 1920s to the present. Following the film showing, we analyze and discuss not only the issues that these films raise but how (and how well) the filmmaker uses the medium to portray the role of journalism and journalists, how well they perform their role as the “fourth estate” and the implications for politics and society.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160PM",
+  "title": "Propaganda and Misinformation",
+  "units": "4",
+  "description": "In this course, you will learn how propaganda and misinformation are manufactured, deployed, and accepted in society. The course covers topics such as historical foundations and common tactics of propaganda, the psychology of belief and ethics of persuasion, different socio-political and mediated contexts where propaganda and misinformation are spread, and how to develop media literacy skills and counter misinformation.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160R",
+  "title": "R Programming for Communication Research",
+  "units": "4",
+  "description": "Covers fundamentals of the R statistical programming language for researchers and students in Communication and related fields. Students learn the basic skills needed to use R as a tool in their research and coursework. Topics include version control, data manipulation, data visualization, basic statistical analyses, and publication-ready output. No prior experience with R is required.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 160UC",
+  "title": "Uncertainty: Responses and Impacts",
+  "units": "4",
+  "description": "Examines the scientific understanding of individuals' and communities' experiences of uncertainty both acute and chronic. This analysis includes an examination of the ways that we respond to uncertainty and of the impacts, both positive and negative, that uncertainty produces. For the primary assignment, students are charged with exploring the experiences of uncertainty for either (a) a particular community of interest or (b) a relational partner or family member for whom such an analysis would be particularly valuable.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ }
+]

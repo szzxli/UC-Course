@@ -1,0 +1,279 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 242A",
+  "title": "Chemical Aspects of Biological Systems",
+  "units": "3",
+  "description": "Macromolecules of biological importance. A survey of the physical and chemical properties of proteins, nucleic acids, and carbohydrates. Methods of preparation, chemical synthesis, degradation, and characterization of biomolecules.",
+  "prerequisites_raw": "Open only by consent of the chemistry graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 242B",
+  "title": "Chemical Aspects of Biological Systems",
+  "units": "3",
+  "description": "Chemical aspects of intermediary metabolism. The chemistry and elementary dynamic properties of enzymes; study of enzyme active sites; characterization of metabolic pathways and methods of examining cellular regulation.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 242C",
+  "title": "Chemical Aspects of Biological Systems",
+  "units": "3",
+  "description": "Macromolecular biosynthesis and specialized cellular processes. A survey of nucleic acid and protein biosynthesis, characterization of lipids and membranes; function of membranes in transport, energy transduction, and cellular control; mechanisms of muscle contraction and cell motility; neurochemistry.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 243",
+  "title": "The RNA World",
+  "units": "3",
+  "description": "Introduction to RNA structure and thermodynamics. Biological roles of RNA in contemporary organisms. Implications for the origins of life.",
+  "prerequisites_raw": "Chemistry W142A or 142A, 142B-C; or, MCDB 108A-B-C.",
+  "prerequisites_courses": [
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 244",
+  "title": "Informational Macro- and Supra-Molecules",
+  "units": "2",
+  "description": "Selected topics at the interface of chemistry and biology; informational molecular coding, molecular machines, self-assembling and self-replicating molecular systems, evolution and selection of molecules with binding and catalytic properties, biopolymer-based materials, special emphasis on cutting-edge technologies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 245",
+  "title": "Computational Biochemistry",
+  "units": "3",
+  "description": "Introduction to molecular modeling and molecular dynamics. Discussion of practical considerations of energy minimization, solvent modeling, structure-based drug design. Practical computer graphics experience.",
+  "prerequisites_raw": "Chemistry 113A, 112, W142A or 142A, 142B-C or 113A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 142A",
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 246",
+  "title": "Membrane Biochemistry",
+  "units": "3",
+  "description": "Introduction to the structures and roles of lipids an their behavior, liposomes, membrane proteins and kinetics, protein sorting, and signal transduction.",
+  "prerequisites_raw": "Chemistry 142A or W142A, 142B-C.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 248",
+  "title": "Reaction Rate Theory",
+  "units": "3",
+  "description": "Advanced theoretical and computational methods for the analysis of reaction kinetics and mechanisms. Topics include transition state theory, Kramers' theory, tunneling effects, transition state search algorithms, transition path sampling, kinetic Monte Carlo, reaction coordinate and degree-of-rate-control analyses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 251",
+  "title": "Post-Translational Protein Processing",
+  "units": "4",
+  "description": "Structure/function relationships in interesting macromolecules isolated from marine organisms. Focus is on well-characterized pathways from horseshoe crabs, abalones, mussels, and fish as well as others.",
+  "prerequisites_raw": "MCDB 108A or MCDB 218A or Chemistry 142A or equivalent.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB 218A",
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 254A",
+  "title": "Magnetic Resonance in Biological Systems",
+  "units": "3",
+  "description": "A discussion of the theory and practice of magnetic resonance methods used in studies of proteins, nucleic acids, and polysaccharides.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 254B",
+  "title": "Magnetic Resonance Techniques in Biological Systems",
+  "units": "3",
+  "description": "A discussion of the theory and practice of magnetic resonance methods currently used in studies of proteins, nucleic acids, and polysaccharides both individually and in complex structures such as membranes. nmr and epr techniques will be included but the emphasis will be on high-resolution 1H and 13C spectroscopy.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 257",
+  "title": "Strategy in Organic Synthesis and Methodology",
+  "units": "3",
+  "description": "The design, development, presentation, and organization of new concepts for organic synthesis and methodologies is an essential skill for graduate students. Course focuses on advances in these areas and developing skills for writing and presenting research proposals.",
+  "prerequisites_raw": "Advancement to candidacy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 259",
+  "title": "Selected Topics in Biological Chemistry",
+  "units": "0",
+  "description": "Selected topics from bio-organic, biophysical, or biological chemistry. The content of this course will vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 259AA",
+  "title": "Stimuli-Responsive Materials for Biomedical Applications",
+  "units": "0",
+  "description": "Stimuli-responsive chemistries and materials are programmed to react in the presence of changes in their surrounding environment to produce a measurable output, such as a change in shape, release of active moiety, assembly, or mechanical output. Examples of stimuli can include electric field, magnetic, thermal, light,** mechanical, pH, ROS, enzyme, glucose, and others (e.g. salts, solvents, electron beam). We will discuss the properties, design, and applications of these stimuli-responsive materials that have aided the development of active-, as opposed to passive, biomaterials for the advancement of biomedicine. This course makes use of modern scientific literature to discuss the topics at hand.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 259BB",
+  "title": "Bioenergetics",
+  "units": "0",
+  "description": "The study of biological energy transduction, with emphasis on physical constraints, raw materials, mechanisms, and evolution of metabolism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 259DD",
+  "title": "Emerging Methods and Applications of Cryogenic Three-Dimensional Transmission Electron Microscopy",
+  "units": "0",
+  "description": "Course covers the fundamentals and current state of the art of 3D cryogenic electron microscopy, the theory and a diverse set of applications: 3D single particle methods, correlative light and electron microscopy & cryogenic in situ tomography; provides a solid foundation for 3D cryo-EM and an opportunity to network with the cryo-EM community; features lecturers and renowned leaders in the field presenting their work, interactive and practical exercises: basic sample handling, sample preparation protocols & an introduction to computational analysis on a preselected dataset. Course requirements: reading classic and/or representative papers, presenting papers prior to respective lectures and a final written report on a chosen cryo-EM topic.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 259EE",
+  "title": "ENZYME, COENZYME & METABOLIC PATHWAYS",
+  "units": "0",
+  "description": "This course reviews the latest discoveries in biochemistry, including new enzymatic functions, cofactor biosynthesis, and metabolic pathways for secondary metabolites. Students with a strong background in organic chemistry and a keen interest in biochemistry are encouraged to take this course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 259MM",
+  "title": "Gene Therapy",
+  "units": "0",
+  "description": "The field of gene therapy is inherently interdisciplinary, drawing on concepts and tools from molecular biology, biochemistry, materials science, chemical engineering, and synthetic biology. This course will delve into a wide array of topics at the intersection of the aforementioned disciplines, including gene delivery, reporter gene imaging, viral and non-viral vectors, genetic editing, metabolic disease, clinical trial design, FDA-approved gene therapies, and the social/ethical considerations surrounding gene therapy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 259RR",
+  "title": "Epigenetics",
+  "units": "0",
+  "description": "Covers epigenetic processes and molecular mechanisms in bacteria, fungi, plants and mammals. Topics include: Epigenetic processes - Parental and maternal imprinting, Gene regulation, Repeat-induced point mutation, X-chromosome inactivation Epigenetic mechanisms - DNA methylation/histone modification/chromatin remodeling, RNA silencing, Methods of detection including patterns of DNA methylation Applications - Epigentically based therapeutics, Pharmaco-epigenetics",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 261",
+  "title": "Enzyme Mechanisms",
+  "units": "3",
+  "description": "Chemistry, structure, and function of enzymes; theory, experimental design,and data analysis. Enzyme models and non-classical enzymes.",
+  "prerequisites_raw": "Chemistry 142A-B or MCDB 108A-B and Chemistry 112B.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "MCDB 108A",
+   "CHEM 112B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 262A",
+  "title": "Drug Design",
+  "units": "3",
+  "description": "Sources for new drugs. Biochemistry of diseases. Target validation techniques. Mechanism of action of enzymes and receptors. Enzyme inhibition and receptor binding studies. Structure base drug design: conformational analysis, docking and binding affinity calculations. Course also teaches proposal writing skills.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 262B",
+  "title": "Drug Design",
+  "units": "3",
+  "description": "Medicinal chemistry for lead optimization, combinatorial synthesis, quantitative structure-activity relationships, pharmacokinetics, drug metabolism and toxicity, pharmacogenomics. Drugs that interact with DNA and Protein drugs. Clinical trials, intellectual property in drug design. Students develop their own drug design project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 263",
+  "title": "Arrow Pushing in Organic Chemistry",
+  "units": "3",
+  "description": "Covers the arrow pushing fomulasism and addresses molecular rearrangements and other organic reactions from this perspective.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 264",
+  "title": "Advanced Catalysis",
+  "units": "3",
+  "description": "Theories of reaction rates. Heterogeneous and homogenous catalysis, including physical structure and characterization of catalysts. Catalyst poisoning.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 265",
+  "title": "Industrial Methods for Polymer Synthesis",
+  "units": "3",
+  "description": "Covers in detail the methods of polymer preparation currently practiced in industry. Special coverage of structure/property relationships in polymers, the design and mechanism of action of successful catalysts, and the transformation of basic polymerization reactions into large-scale processes.",
+  "prerequisites_raw": "Graduate or senior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 266",
+  "title": "Photophysics and Device Science of Organic Materials",
+  "units": "3",
+  "description": "Examination of what happens when organic molecules absorb a photon or when they are incorporated within an optoelectric device. Specific subjects include phtoexcitation and relaxation processes, energy transfer, flourescence depolarization, the design of flourescence-based biosensors, organic light emitting diodes and field effect transistors.",
+  "prerequisites_raw": "Graduate or senior standing.",
+  "prerequisites_courses": []
+ }
+]

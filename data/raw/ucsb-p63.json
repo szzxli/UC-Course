@@ -1,0 +1,339 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 143",
+  "title": "The RNA World",
+  "units": "3",
+  "description": "Introduction to RNA structure and thermodynamics. Biological roles of RNA in contemporary organisms. Implications for the origins of life.",
+  "prerequisites_raw": "Chemistry W142A or 142A, 142B-C; or, MCDB 108A-B-C.",
+  "prerequisites_courses": [
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 145",
+  "title": "Computational Biochemistry",
+  "units": "3",
+  "description": "Introduction to molecular modeling and molecular dynamics. Discussion of practical considerations of energy minimization, solvent modeling, structure-based drug design. Practical computer graphics experience.",
+  "prerequisites_raw": "Chemistry 113A-B or Chemistry 112A-B; and, Chemistry 142A or Chem W142A or MCDB 108A.",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 112A",
+   "CHEM 142A",
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 146",
+  "title": "Membrane Biochemistry",
+  "units": "3",
+  "description": "Introduction to the structures and roles of lipids and their phase behavior, liposomes, membrane proteins and kinetics, protein sorting, and signal transduction.",
+  "prerequisites_raw": "Chem 142A or Chem W142A or MCDB 108A; Chemistry 142B or MCDB 108B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "CHEM 142B",
+   "MCDB 108B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 147",
+  "title": "Astrobiology and the Origins of Life",
+  "units": "3",
+  "description": "Discusses the origins and evolution of the solar system and the earth, the origins and evolution of life on earth, and the possibilities for life elsewhere in the cosmos, all from the perspective of contemporary, terrain biochemistry.",
+  "prerequisites_raw": "Chemistry 142A or Chem W142A or MCDB 108A.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 148",
+  "title": "Introduction to Nucleic Acid Nanotechnology and Synthetic Biology",
+  "units": "3",
+  "description": "This integrative, interdisciplinary course introduces Nucleic Acid Nanotechnology and Synthetic Biology from molecular, biochemical, biophysical and evolutionary perspectives. Recent developments aiming at engineering new biomaterials, therapeutics, nano-machines, nano-robots, alternative genetic and regulatory systems and new cellular organisms will be presented.",
+  "prerequisites_raw": "Chemistry 142A or Chemistry W 142A, and Chemistry 142B; or MCDB 108A or MCDB W 108A and MCDB 108B",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "CHEM 142B",
+   "MCDB 108A",
+   "MCDB W 108A",
+   "MCDB 108B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 149",
+  "title": "How Science Works",
+  "units": "3",
+  "description": "Combined lab and discussion course on how science works. Includes three labs on student-generated questions. Discussions include the analysis of research papers, science controversies, how science defines new areas of ignorance, and the observation of research group meetings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 150",
+  "title": "Analytical Chemistry",
+  "units": "3",
+  "description": "Principles of analytical chemistry including classical techniques, spectrophotochemistry, electroanalytical techniques, and separation processes.",
+  "prerequisites_raw": "Chemistry 1A-B-C or 2A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 151",
+  "title": "Post-translational Protein Processing",
+  "units": "4",
+  "description": "Structure/function relationships in interesting macromolecules isolated from marine organisms. Focus is on well-characterized pathways from horseshoe crabs, abolones, mussels, and fish as well as others.",
+  "prerequisites_raw": "MCDB 108A or MCDB W 108A or CHEM 142A or CHEM W142A with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB W 108A",
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 153",
+  "title": "Advanced Analytical Techniques",
+  "units": "3",
+  "description": "Principles of analytical methodology, as in spectroscopy, electroanalysis, and chromatography. Applications to environmental problems, forensic and clinical analysis, and industry. Analysis of solids and surfaces.",
+  "prerequisites_raw": "Chemistry 150.",
+  "prerequisites_courses": [
+   "CHEM 150"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 154A",
+  "title": "Magnetic Resonance in Biological Systems",
+  "units": "3",
+  "description": "A discussion of the theory and practice of magnetic resonance methods used in studies of proteins, nucleic acids, and polysaccharides.",
+  "prerequisites_raw": "Chemistry 113A-B or Chemistry 112A-B-C",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 112A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 154B",
+  "title": "Magnetic Resonance in Biological Systems",
+  "units": "3",
+  "description": "A discussion of the theory and practice of magnetic resonance methods used in studies of proteins, nucleic acids, and polysaccharides.",
+  "prerequisites_raw": "Chemistry 113A-B or Chemistry 112A-B; and, Chemistry 112C or 113C (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 112A",
+   "CHEM 112C",
+   "CHEM 113C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 161",
+  "title": "Enzyme Mechanisms",
+  "units": "3",
+  "description": "Chemistry, structure and function of enzymes; theory, experimental design, and data analysis. Enzyme models and non-classical enzymes.",
+  "prerequisites_raw": "Chemistry 142A-B or MCDB 108A-B; and Chemistry 112B.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "MCDB 108A",
+   "CHEM 112B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 162A",
+  "title": "Drug Design",
+  "units": "3",
+  "description": "Sources for new drugs. Biochemistry of diseases. Target validation techniques. Mechanism of action of enzymes and receptors. Enzyme inhibition and receptor binding studies. Structure based drug design: conformational analysis, docking and binding affinity calculations. Course also teaches proposal writing skills.",
+  "prerequisites_raw": "Chemistry 142A or W142A, 142B-C; or, MCDB 108A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "MCDB 108A",
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 162B",
+  "title": "Drug Design",
+  "units": "3",
+  "description": "Medical chemistry for lead optimization, combinatorial synthesis, quantitative structure-activity relationships, pharmocokinetics, drug metabolism and toxicity, pharmacogenomics. Drugs that interact with DNA and protein drugs. Clinical trials, intellectual property in drug design. Students develop their own drug design project.",
+  "prerequisites_raw": "Chemistry 142A or W142A, 142B-C; or, MCDB 108A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "MCDB 108A",
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 163",
+  "title": "Arrow Pushing in Organic Chemistry",
+  "units": "3",
+  "description": "Covers the arrow pushing formalism and addresses organic reactions from this perspective.",
+  "prerequisites_raw": "Chemistry 109A-B-C; upper-division standing; open to chemistry, biochemistry, and CCS chemistry and biochemistry majors only.",
+  "prerequisites_courses": [
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 171",
+  "title": "Bioinorganic Chemistry",
+  "units": "3",
+  "description": "Selected topics in bioinorganic chemistry, and metallo-biochemistry. Discussions of metalloproteins and corresponding model compound investigations. Emphasis will be on reaction mechanisms and spectroscopy or properties of metal sites.",
+  "prerequisites_raw": "Chemistry 173A.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 172",
+  "title": "Structure Determination by X-ray Diffraction",
+  "units": "3",
+  "description": "The use of x-ray and neutron scattering to characterize solid state materials. Subjects include the crystal unit cell, space groups, structure determination and refinement. It is recommended that the student have an elementary introduction to vectors, matrices and Fourier series",
+  "prerequisites_raw": "Chemistry 112C or Chemistry 113B",
+  "prerequisites_courses": [
+   "CHEM 112C",
+   "CHEM 113B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 173A",
+  "title": "Advanced Inorganic Chemistry",
+  "units": "4",
+  "description": "Electronic structure of atoms and molecules. Models for bonding in molecules of nontransition and transition elements. Applications of symmetry to bonding, electronic and vibrational spectroscopy. Stereochemistry of transition metal complexes and introduction to organometallics.",
+  "prerequisites_raw": "Chemistry 113A-B-C, or Chemistry 112A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 112A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 173B",
+  "title": "Advanced Inorganic Chemistry",
+  "units": "4",
+  "description": "Structures of ordered crystalline solids, X-Ray crystallography. Introduction to solid state chemistry, inorganic materials and chemical catalysis. Bioinorganic chemistry.",
+  "prerequisites_raw": "Chemistry 173A.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 175",
+  "title": "Physical-Inorganic Chemistry",
+  "units": "3",
+  "description": "Bonding theory, thermodynamics, and structure of inorganic compounds. Applications of physical techniques to the study of inorganic (and organometallic) reactions and their mechanisms.",
+  "prerequisites_raw": "Chemistry 173A-B.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 176",
+  "title": "Photochemical and Photophysical Properties of Inorganic and Organometallic Compounds and Materials",
+  "units": "3",
+  "description": "Discussion of the mechanisms of fundamental physical and chemical events which follow absorption of light by inorganic and organometallic chromophores. Consideration of homogeneous and heterogeneous systems as well as the design and operation of photo-optical and photoelectrical devices.",
+  "prerequisites_raw": "Chemistry 173A.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 181",
+  "title": "Protein Crystallography",
+  "units": "3",
+  "description": "Introduction to diffraction techniques. Protein crystal growth and morphology. Data collection and reduction strategies. Approaches for solving the phase problem. Crystallographic refinement, including molecular dynamics. Interpretation of crystal structures.",
+  "prerequisites_raw": "CHEM 142A",
+  "prerequisites_courses": [
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 183",
+  "title": "Introduction to Teaching in Chemistry",
+  "units": "0",
+  "description": "Students will assist the teaching assistant in teaching a lab course in which the student previously received a grade of A- or better. Activities will be determined in consultation with the instructor and include instruction of 1 or 2 lab sections per week. Undergraduates enrolled in Chem 183 are learning assistants (LAs) in the general chemistry laboratory. LAs teach and mentor first-year university students. LAs assist students with experiments, lab technique, data analysis, calculations, learning chemistry concepts, and problem solving. As the LAs learn STEM education pedagogy, they can practice what they learn as LAs in the chemistry lab.",
+  "prerequisites_raw": "Upper-division standing, a chemistry grade point average of 3.5 or above and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 184",
+  "title": "Chemical Literature",
+  "units": "2",
+  "description": "Lectures and exercises on the literature and other information resources of use in chemistry.",
+  "prerequisites_raw": "3 prior courses in chemistry.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 186",
+  "title": "Organometallic Chemistry: Structure, Bonding, and Applications",
+  "units": "3",
+  "description": "Synthesis, structure, and reactivity of organometallic complexes, with an emphasis on bonding and electronic structure. Homogeneous catalysis and small molecule activation, especially in the context of the energy conversion and storage, will also be discussed.",
+  "prerequisites_raw": "Chem 173A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 192",
+  "title": "Honors Research Seminar",
+  "units": "3",
+  "description": "Independent research project carried out under the supervision of faculty member. Goal is to write an original, publishable, research paper. The project can be on a topic of the student's choice, or it can be an extension of an ongoing research project under the direction of a faculty member in the department.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 193",
+  "title": "Internship in Chemistry",
+  "units": "0",
+  "description": "Opportunity to obtain practical non paid chemistry-related research and work experience by working under faculty and/or staff direction as an intern.",
+  "prerequisites_raw": "Chem 1AL, 1BL, 1CL, and consent of Chem instructor.",
+  "prerequisites_courses": []
+ }
+]

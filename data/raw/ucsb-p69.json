@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 147",
+  "title": "Storytelling and Chinese Culture",
+  "units": "4",
+  "description": "Taught in Chinese, this course is designed to elucidate Chinese history and culture from the perspective of storytelling. Readings are original narrative texts from the Tang, Song, and Ming-Qing eras.",
+  "prerequisites_raw": "Reading knowledge and skills in advanced modern Chinese",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 148",
+  "title": "Historic Lives",
+  "units": "4",
+  "description": "A study of selected notable lives from premodern China for their contributions to Chinese history, literature, and thought. Subjects may include ethics, cosmology, gender, politics, or relations with natural and divine worlds. Biographies are placed in their historical contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 152",
+  "title": "History of Sexuality in China",
+  "units": "4",
+  "description": "Examines the role of gender and sexual relations in the development of politics, society, culture, and personal life in China and the Sinophone world.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 167",
+  "title": "Queer China, Crip China",
+  "units": "4",
+  "description": "In this course we study the representation of non-normative bodyminds and desires (e.g. disability and homosexuality) in modern Chinese literature and film. We discuss the meanings embedded in Chinese discourses of gender, sexuality, and disability; investigate how these discourses have been appropriated in the construction of a modern Chinese national identity; and connect our specific inquiry into Queer China and Crip China to our general attempt to answer the broader question of how the modern nation-state China has been imagined into being over the past century. Our approach is interdisciplinary, comparative, and transnational.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 170",
+  "title": "Taiwan Cinema",
+  "units": "4",
+  "description": "Explores Taiwan cinema in socio-political contexts. Emphasis on the creation of a cinematic experience that resonates globally while reflecting Taiwans unique identity, cultural heritage, and artistic vision. Specific themes or topics will vary depending on the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 171",
+  "title": "Modern China Through Film",
+  "units": "4",
+  "description": "Survey of social change in 20th century China, Hong Kong, Taiwan through representation in film. Topics include: collectivization, gender and the state, revolution and iconoclasm, transnational culture, nationalism, rural-to-urban migration, and consumerism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 172",
+  "title": "Fiction and Film in Contemporary China",
+  "units": "4",
+  "description": "Presents a critical historical overview of Chinese literature and film from 1949 to the present. In addition to writers and filmmakers from mainland China such as Mo Yan and Zhang Yimou, course considers literary and cinematic development from Hong Kong, Taiwan, and the Chinese diaspora.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 176",
+  "title": "Chinese Cinema: Nationalism and Globalism",
+  "units": "4",
+  "description": "A critical overview of some of the major cinematic trends in Chinese-language film over the past several decades. Works from the PRC, Taiwan and Hong Kong, as well as Chinese cinema will be considered in a global context.",
+  "prerequisites_raw": "upper division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 180",
+  "title": "Special Topics in Chinese Studies",
+  "units": "4",
+  "description": "Special topics in Chinese Studies. Course content varies.",
+  "prerequisites_raw": "Upper Division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 180CM",
+  "title": "Chinese Media: Chinese Conversation on Film and TV",
+  "units": "4",
+  "description": "Designed to enable students to master advanced-level Chinese language structures, expressive styles, and conventions of communication through topics that reflect multiple aspects of society and culture. Materials will be drawn from various authentic multimedia, including TV shows, videos, movies, film clips and documentary films in different linguistic registers.",
+  "prerequisites_raw": "Upper Division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 183B",
+  "title": "Religious Practice and the State in China",
+  "units": "4",
+  "description": "Historical and anthropological approaches to the interaction between religious practice and state forces, with emphasis on popular religion and the decline and revival of religion in Chinese modernity.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 184T",
+  "title": "History of Traditional Chinese Thought",
+  "units": "4",
+  "description": "A study of traditional Chinese thought from the classical period to the beginning of the last imperial dynasty (500 BCE -1700 CE).",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 185A",
+  "title": "Qing Empire",
+  "units": "4",
+  "description": "The Qing period saw the doubling of China's territory, the enormous population growth, and the many encounters with the West. We will examine the politics, cultures, social norms, and different peoples, with a focus on the problem of modernization.",
+  "prerequisites_raw": "A prior course in History or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 185B",
+  "title": "Modern China (since 1911)",
+  "units": "4",
+  "description": "The fall of the dynastic system, the revolution against traditional values, the rise of the Nationalist Party, the challenge from the Communists, the founding of the People's Republic, and the Post-Mao reform, with a focus on the theme of revolution.",
+  "prerequisites_raw": "Any lower-division course in History or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 185CQ",
+  "title": "Reading Seminar on the Chinese Cultural Revolution (1966-1976)",
+  "units": "4",
+  "description": "No understanding of contemporary China is possible without understanding the ramifications of the Great Proletarian Cultural Revolution. This course seeks to consider the tumultuous episode as a field of historical research and conceptual inquiry. We create this class together.",
+  "prerequisites_raw": "History 2C or 80 or 184A or 184B or 185A or 185B or EACS 4A or EACS 4B or Chin 184A or Chin 184B or Chin 185A or Chin 185B",
+  "prerequisites_courses": [
+   "HIST 2C",
+   "EACS 4A",
+   "EACS 4B",
+   "HIST 80",
+   "HIST 184A",
+   "HIST 184B",
+   "HIST 185A",
+   "HIST 185B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 185R",
+  "title": "Undergrad Research Seminar on Modern China",
+  "units": "4",
+  "description": "Research seminar in the history of modern China. Students will conduct historical research in a seminar context, using both primary and secondary source materials, to produce an original and substantial research paper.",
+  "prerequisites_raw": "History 185A or 185B or Chin 185A or Chin 185B or HIST 185CQ or CHIN 185CQ and upper division standing.",
+  "prerequisites_courses": [
+   "HIST 185A",
+   "HIST 185CQ",
+   "CHIN 185CQ",
+   "HIST 185B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 185T",
+  "title": "History of Modern Chinese Thought",
+  "units": "4",
+  "description": "Leads students to understand some of the most important ideas, theories, and concepts in Modern China.",
+  "prerequisites_raw": "HIST 2A-B-C or HIST 80 or HIST/CHIN 184A-B or HIST/CHIN 185A-B or EACS 4A-B",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "HIST 80",
+   "CHIN 184A",
+   "CHIN 185A",
+   "EACS 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 188A",
+  "title": "History of Women in China: From the Ancient Period to the Nineteenth Century",
+  "units": "4",
+  "description": "Exploration of the diverse roles women have played in Chinese culture and society up to the 19th century by examining the many contexts within which women operated: the family, the imperial court, literati and popular culture.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 197",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "An independent study course (1 to 3 quarters) directed by a faculty member with a carefully chosen topic and bibliography which will result in a documented project or a senior thesis.",
+  "prerequisites_raw": "Open to senior majors only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 198",
+  "title": "Readings in Chinese",
+  "units": "0",
+  "description": "Readings in Chinese.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Chinese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 199",
+  "title": "Independent Studies in Chinese",
+  "units": "0",
+  "description": "Independent studies in Chinese. Individual investigations in literary fields.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Chinese major; Minimum major GPA of 3.5 or higher",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 201",
+  "title": "Readings in Selected Texts",
+  "units": "0",
+  "description": "Course will center on readings of Chinese texts; type and period to depend on needs of students and wishes of instructor. Research methods to be taught as appropriate.",
+  "prerequisites_raw": "Ability to read Chinese at graduate level; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 211",
+  "title": "Bibliography and Research Methodology",
+  "units": "4",
+  "description": "Introduction to the bibliography, reference works, and methodologies of sinological research.",
+  "prerequisites_raw": "One year of classical Chinese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 220",
+  "title": "Topics in Tang Literature",
+  "units": "4",
+  "description": "Explores themes and issues in the literature of the Tang dynasty, with an emphasis on close reading and translation of original texts in Classical Chinese. Topical focus varies.",
+  "prerequisites_raw": "CHIN 101B or instructor's permission",
+  "prerequisites_courses": [
+   "CHIN 101B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 241",
+  "title": "Issues in Contemporary Chinese Society",
+  "units": "4",
+  "description": "Survey of major issues in study of contemporary China. Topics include: gender and the state, nationalism, guanxi, media, globalization, relgion, and urban and rural cultures.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 242",
+  "title": "Anthropology of China",
+  "units": "4",
+  "description": "This course showcases the anthropological approach to the study of China: fieldwork and ethnography, culture and social history, critical theory. Topics include: state power, gender and sexuality, media, identity and selfhood, urban culture, capitalist relations and class, religiosity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 245",
+  "title": "Gender and Expression in Pre-Modern Chinese Literature",
+  "units": "4",
+  "description": "This graduate seminar examines Chinese literary tradition from the perspective of gender, discussing the gendering of new modes of expression in de/constructing men and women as social categories over the long course of Chinese literary history. Discussion and readings are mainly in English (and Chinese, depending on the backgrounds of students).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 246",
+  "title": "Poetic Culture in Late Imperial China and Beyond",
+  "units": "4",
+  "description": "An examination of the role poetry played in both social and individual lives in late imperial China. Relevant practices in later times and in Japan and Korea are also covered. Graduate student paper is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 247",
+  "title": "New Directions in Chinese Literary and Cultural Studies",
+  "units": "4",
+  "description": "This seminar discusses research methods and critical concepts emergent in the most recent studies of Chinese literature and culture. Concentrating on the 16th to the 20th centuries, it is intended to bridge studies of pre-modern and modern periods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

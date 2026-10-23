@@ -1,0 +1,283 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 1",
+  "title": "Seminar on the Field of Computer Science",
+  "units": "1",
+  "description": "Overviews the potential of, and opportunities available from, the field of computer science. Topics include an overview of how computers work and the interesting ways in which computers can be applied to solve important and high-impact technological, social, and cutting-edge research problems.",
+  "prerequisites_raw": "Open to computer science majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 1A",
+  "title": "Artificial Intelligence Seminar",
+  "units": "3",
+  "description": "Introductory seminar designed to immerse students in the diverse interdisciplinary field of Artificial Intelligence (AI). Features guest lectures by faculty members from various departments affiliated with AI centers and research initiatives. Students will gain exposure to foundational AI techniques and their wide-ranging applications, preparing them for potential engagement in AI research and related academic opportunities. Students are expected to complete reading assignments to deepen their understanding and participate actively in seminar discussions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 2",
+  "title": "Computational Thinking for Scientists",
+  "units": "4",
+  "description": "Introduction to the central concepts of computer science as they apply to a wide variety of human endeavors, including natural and physical sciences. Topics that interrelate central ideas from algorithms, performance and complexity, data structures, concurrency, languages and abstractions will be studied.",
+  "prerequisites_raw": "Math 4A with a grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 4",
+  "title": "Computer Science Boot Camp",
+  "units": "4",
+  "description": "An introduction to computational thinking, computing, data management, and problem solving using computers, for non-majors. Topics include coding basics, representing code and data using a computer, and applications of computing that are important to society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 5A",
+  "title": "Introduction to Data Science 1",
+  "units": "4",
+  "description": "Introduction to data science methods and Python programming language for students with little to no experience in the subjects. Topics include foundational programming concepts, problem-solving strategies and code design, and data science concepts as table operations, exploratory data analysis, basic probability.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 5B",
+  "title": "Introduction to Data Science 2",
+  "units": "4",
+  "description": "Students explore the data science lifecycle, including question formulation, data collection and cleaning, exploratory data analysis and visualization, statistical inference and prediction, and decision-making. The course focus is on transforming and analyzing data; machine learning methods including regression, classification and clustering; principles behind data visualizations; concepts of measurement error and prediction; and techniques for scalable data processing.",
+  "prerequisites_raw": "Computer Science 5A or Computer Science 8 or ECE 3 with a grade of C or better.",
+  "prerequisites_courses": [
+   "CMPSC 5A",
+   "CMPSC 8",
+   "ECE 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 8",
+  "title": "Introduction to Computer Science",
+  "units": "4",
+  "description": "Introduction to computer program development for students with little to no programming experience. Basic programming concepts, variables and expressions, data and control structures, algorithms, debugging, program design, and documentation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 9",
+  "title": "Intermediate Python Programming",
+  "units": "4",
+  "description": "Intermediate topics in Computer Science using the Python programming language. Topics include object oriented programming, runtime analysis, data structures, and software testing methodologies.",
+  "prerequisites_raw": "CMPSC 8 or CMPSC W8 or ENGR 3 or ENGR W3 or ECE 3 with a grade of C or better.",
+  "prerequisites_courses": [
+   "CMPSC 8",
+   "ENGR 3",
+   "ECE 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11",
+  "title": "Programming Language Laboratory",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses a working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different programming language.",
+  "prerequisites_raw": "Knowledge of at least one programming language.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11AD",
+  "title": "Programming Language Laboratory: ADA",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11AP",
+  "title": "Programming Language Laboratory: APL",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11C",
+  "title": "Programming Language Laboratory",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses a working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11CO",
+  "title": "Programming Language Laboratory: COBOL",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses a working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11FO",
+  "title": "Programming Language Laboratory: Fortran",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses a working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11JA",
+  "title": "Programming Language Laboratory",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses a working knowledge of at least one programming language an opportuity to learn otherlanguages of interest. Each section studies a different language. Sections are: 11PA-Pascal, 11FO-Fortran, 11AP-APL, 11LI-LISP (2 units), 11AD-ADA, 11JA-JAVA.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11LI",
+  "title": "Programming Language Laboratory: LISP",
+  "units": "1",
+  "description": "A self-paced course to allow a studen who already possesses a working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11PA",
+  "title": "Programming Language Laboratory: Pascal",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11PL",
+  "title": "Programming Language Laboratory: PL/1",
+  "units": "1",
+  "description": "A self-paced course to allow a studen who already possesses a working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 11SN",
+  "title": "Programming Language Laboratory: SNOBOL",
+  "units": "1",
+  "description": "A self-paced course to allow a student who already possesses working knowledge of at least one programming language an opportunity to learn other languages of interest. Each section studies a different language.",
+  "prerequisites_raw": "knowledge of at least one programming language. sections not always offered",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 16",
+  "title": "Problem Solving with Computers I",
+  "units": "4",
+  "description": "Fundamental building blocks for solving problems using computers. Topics include basic computer organization and programming constructs: memory CPU, binary arithmetic, variables, expressions, statements, conditionals, iteration, functions, parameters, recursion, primitive and composite data types, and basic operating system and debugging tools.",
+  "prerequisites_raw": "Mathematics 3A or 2A with a grade of C or better (may be taken concurrently), CS 8 or Engineering 3 or ECE 3 with a grade of C or better, or significant prior programming experience.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "ECE 3",
+   "MATH 2A",
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 24",
+  "title": "Problem Solving with Computers II",
+  "units": "4",
+  "description": "Intermediate building blocks for solving problems using computers. Topics include intermediate object-oriented programming, data structures, object-oriented design, algorithms for manipulating these data structures and their run-time analyses. Data structures introduced include stacks, queues, lists, trees, and sets.",
+  "prerequisites_raw": "Computer Science 16 with a grade of C or better; and Mathematics 3B or 2B with a grade of C or better (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CMPSC 16",
+   "MATH 3B",
+   "MATH 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 24A",
+  "title": "Problem Solving with Computers II",
+  "units": "4",
+  "description": "Intermediate building blocks for solving problems using computers. Topics include data structures, object-oriented design and development, algorithms for manipulating these data structures and their runtime analyses. Data structures introduced include stacks, queues, lists, trees, and sets.",
+  "prerequisites_raw": "Computer Science 16 with a grade of C or better; and Mathematics 3B or 2B with a grade of C or better (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CMPSC 16",
+   "MATH 3B",
+   "MATH 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 32",
+  "title": "Object Oriented Design and Implementation",
+  "units": "4",
+  "description": "Advanced topics in object-oriented computing. Topics include encapsulation, data hiding, inheritance, polymorphism, compilation, linking and loading, memory management, and debugging; recent advances in design and development tools, practices, libraries, and operating system support.",
+  "prerequisites_raw": "Computer Science 24 with a grade of C or better",
+  "prerequisites_courses": [
+   "CMPSC 24"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 40",
+  "title": "Foundations of Computer Science",
+  "units": "5",
+  "description": "Introduction to the theoretical underpinnings of computer science. Topics include propositional predicate logic, set theory, functions and relations, counting, mathematical induction and recursion (generating functions).",
+  "prerequisites_raw": "Computer Science 16 with a grade of C or better and Mathematics 4A with a grade of C or better.",
+  "prerequisites_courses": [
+   "CMPSC 16",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 41",
+  "title": "Discrete Mathematics for Computer Science",
+  "units": "4",
+  "description": "Introductory discrete mathematics. Topics include fundamental principles of counting (permutations, combinations), sets, graph theory, elementary probability, and number theory.",
+  "prerequisites_raw": "Computer Science 16 with a grade of C or better and Mathematics 4A with a grade of C or better.",
+  "prerequisites_courses": [
+   "CMPSC 16",
+   "MATH 4A"
+  ]
+ }
+]

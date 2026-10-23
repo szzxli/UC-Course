@@ -1,0 +1,392 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "COMM W",
+  "code": "COMM W 184",
+  "title": "Social Media: The Good, the Bad & the Ugly",
+  "units": "4",
+  "description": "Examines the beneficial, harmful, and always complicated implications of social media use across micro- and macro- levels of analyses. We focus on how these systems enhance and impede individual and socio-political self-expression, especially for those from marginalized populations (e.g racial/ethnic/religious minorities, immigrants, women, LGBTQ individuals, people with disabilities, etc.). The class focuses on three primary topics: new media and social movements; new media and health; and new media and identity. Students gain both a theoretical and an applied understanding of how social media shape life in the 21st century.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM W",
+  "code": "COMM W 188",
+  "title": "News, Politics, & Democracy",
+  "units": "4",
+  "description": "Explores the role of the news media in sustaining American democracy. Student projects identify the most difficult problems facing American journalism and propose creative solutions for helping the news media fulfill its democratic function. Topics include news industry consolidation, fake news, political polarization, and the role of social media. Students will come away from this course with a more engaged, critical, and empowered view of what the news can do for democracy.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DA",
+  "code": "DA 46",
+  "title": "INTRO MOTION PICT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DA",
+  "code": "DA 117",
+  "title": "THEATRE IN ENGLAND",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "MUST BE TAKEN IN CONJUNCTION WITH ENGLISH 117A OR 117B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 20",
+  "title": "Aesthetics of Performance",
+  "units": "4",
+  "description": "An exploration of diversity, meaning and influence in the art-making process. This course aims to develop an articulate, critical facility with a sharp aesthetic eye. Students will view, discuss, and write about the art work of contemporary and historically significant dance, theater, and visual artists with a focus on the experimental and avant-garde.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 35",
+  "title": "History and Appreciation of World Dance",
+  "units": "4",
+  "description": "Introduction to dance as cultural and social expression in a variety of cultures. Forms covered include Flamenco, Ballet in Global Perspective, Afro-Caribbean, South Asian, and Latin/x forms of dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 36",
+  "title": "History of Modern Dance and Contemporary Performance",
+  "units": "5",
+  "description": "Historical development of modern dance in the United States and Europe in the twentieth century. Emphasis on visionary, feminist, and radical aspects of the form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 40",
+  "title": "Summer Ballet",
+  "units": "3",
+  "description": "Fundamentals of ballet technique.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 41",
+  "title": "Summer Modern Dance",
+  "units": "3",
+  "description": "Fundamentals of modern dance technique.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 42A",
+  "title": "Beginning Ballet",
+  "units": "1",
+  "description": "Introduction to basic elements of ballet.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 42B",
+  "title": "Beginning Ballet",
+  "units": "1",
+  "description": "Beginning ballet. Introduction to basic elements of ballet.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 42C",
+  "title": "Beginning Ballet",
+  "units": "1",
+  "description": "Introduction to basic elements of ballet.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 42D",
+  "title": "Continuing Ballet",
+  "units": "2",
+  "description": "Further study of basic elements of ballet.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 42E",
+  "title": "Continuing Ballet",
+  "units": "2",
+  "description": "Further study of basic elements of ballet.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 42F",
+  "title": "Continuing Ballet",
+  "units": "2",
+  "description": "Further study of basic elements of ballet.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 43A",
+  "title": "Beginning Street Dance Forms",
+  "units": "2",
+  "description": "Introduction to the various forms of street dance including Hip Hop and Isolations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 43B",
+  "title": "Beginning Street Dance Forms",
+  "units": "2",
+  "description": "Introduction to the various forms of street dance including House Dance, Whacking, and Punking.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 43C",
+  "title": "Beginning Street Dance Forms",
+  "units": "2",
+  "description": "Introduction to the various forms of street dance, including Voguing, Freestyle, Popping, and Locking.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 44A",
+  "title": "Beginning Modern Dance",
+  "units": "1",
+  "description": "Introduction to basic elements of modern dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 44B",
+  "title": "Beginning Modern Dance",
+  "units": "1",
+  "description": "Introduction to basic elements of modern dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 44C",
+  "title": "Beginning Modern Dance",
+  "units": "1",
+  "description": "Inroduction to basic elements of modern dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 44D",
+  "title": "Continuing Modern Dance",
+  "units": "2",
+  "description": "Further study of basic elements of modern dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 44E",
+  "title": "Continuing Modern Dance",
+  "units": "2",
+  "description": "Further study of basic elements of modern dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 44F",
+  "title": "Continuing Modern Dance",
+  "units": "2",
+  "description": "Further study of basic elements of modern dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 45",
+  "title": "History and Appreciation of Dance",
+  "units": "4",
+  "description": "Introduction to history and appreciation of dance. Explores dance from a wide cross-cultural perspective of cultural mutuality and diversity, established traditions, and the power of dance to bring about social change, activism and justice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 46",
+  "title": "Introduction to Social Dance: History and Practice",
+  "units": "2",
+  "description": "An introductory level survey of Social Dance. Studio-based physical practice will be complimented by a survey of the history, theory and/or literature of Social Dance. A beginning level elective dance course, Intro to Social Dance focuses on forms developing in Europe, North and South America, as well as their migration and development across borders. Course work is grounded in the physical study of multiple styles alongside outside classwork comprised of readings, viewings and collaborative group projects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 47A",
+  "title": "Ballet I",
+  "units": "0",
+  "description": "Analysis and exploration of technical and expressive elements of the ballet. For dance majors.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 47B",
+  "title": "Ballet I",
+  "units": "0",
+  "description": "Analysis and exploration of technical and expressive elements of the ballet. For dance majors.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 47C",
+  "title": "Ballet I",
+  "units": "0",
+  "description": "Analysis and exploration of technical and expressive elements of the ballet. For dance majors.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 47D",
+  "title": "Ballet II",
+  "units": "0",
+  "description": "Further analysis and exploration of technical and expressive elements of ballet. For dance majors.",
+  "prerequisites_raw": "Dance 47C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 47E",
+  "title": "Ballet II",
+  "units": "0",
+  "description": "Further analysis and exploration of technical and expressive elements of ballet. For dance majors.",
+  "prerequisites_raw": "Dance 47C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 47F",
+  "title": "Ballet II",
+  "units": "0",
+  "description": "Further analysis and exploration of technical and expressive elements of ballet. For dance majors.",
+  "prerequisites_raw": "Dance 47C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 48A",
+  "title": "Pointe Technique",
+  "units": "2",
+  "description": "This course teaches ballet pointe technique, focusing on foot alignment and strength while learning the barre warm-up exercises, and center practice exercises that are vital to the training of all serious ballet dancers. Attention will be paid to various classical solo and duet pointe variations from well known ballets.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 48B",
+  "title": "Pointe Technique",
+  "units": "2",
+  "description": "This course teaches ballet pointe technique, focusing on foot alignment and strength while learning the barre warm-up exercises, and center practice exercises that are vital to the training of all serious ballet dancers. Attention will be paid to various classical solo and duet pointe variations from well known ballets.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 48C",
+  "title": "Pointe Technique",
+  "units": "2",
+  "description": "This course teaches ballet pointe technique, focusing on foot alignment and strength while learning the barre warm-up exercises, and center practice exercises that are vital to the training of all serious ballet dancers. Attention will be paid to various classical solo and duet pointe variations from well known ballets.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 50",
+  "title": "Fundamentals of Choreography",
+  "units": "3",
+  "description": "A study of the basic elements pertaining to the craft of choreography. Emphasis on exploration of movement variation, breath rhythm, the development of dance phrases, and the use of stage space. For dance majors.",
+  "prerequisites_raw": "Dance 51",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 51",
+  "title": "Improvisation",
+  "units": "3",
+  "description": "The fundamental exploration of movement potential with particular focus on the individual and group dynamics.",
+  "prerequisites_raw": "Dance 56C; dance majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 53",
+  "title": "Contact Improvisation",
+  "units": "2",
+  "description": "Lower division studio course in the fundamentals of Contact Improvisation (as developed by Steve Praxton, and his contemporaries.) Exploring the egalitarian effort of shared weight and mutual support. Contact Improvisation serves as a fundamental step in a dance student's partnering training, and informs a deeper sense of weight and sentimentality in individual dance technique.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 56A",
+  "title": "Modern Dance I",
+  "units": "0",
+  "description": "Analysis and exploration of the technical aspects of movement as an expressive medium. For dance majors.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ }
+]

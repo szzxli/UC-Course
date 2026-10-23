@@ -1,0 +1,319 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 196B",
+  "title": "Undergraduate Research",
+  "units": "0",
+  "description": "Advanced research for undergraduate students, by petition after completing a minimum of 4 units of CMPSC 196 for a letter grade. The student will propose a specific research project and make a public presentation of final results. Evaluation and grade will be based on feedback from faculty advisor and one other faculty member.",
+  "prerequisites_raw": "Students must: (1) have taken 4 letter graded units of CMPSC 196, (2) have consent of instructor",
+  "prerequisites_courses": [
+   "CMPSC 196",
+   "CMPSC 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 199",
+  "title": "Independent Studies in Computer Science",
+  "units": "0",
+  "description": "Independent studies in computer science for advanced students.",
+  "prerequisites_raw": "Upper-division standing; students must have completed at least two upper-division courses in computer science. May be repeated with consent of chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 209",
+  "title": "Logic and Applications in Computer Science",
+  "units": "4",
+  "description": "Propositional logic, first order logic, completeness, compactness, incompleteness, undecidability; selected topics from finite model theory, theorem proving, logic programming, program verification, databases, computational complexity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 211A",
+  "title": "Matrix Analysis and Computation",
+  "units": "4",
+  "description": "Graduate level-matrix theory with introduction to matrix computations. SVD's, pseudoinverses, variational characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 211B",
+  "title": "Numerical Simulation",
+  "units": "4",
+  "description": "Linear multistep methods and Runge-Kutta methods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equations. Numerical solution of boundary value problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 211C",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Difference Methods",
+  "units": "4",
+  "description": "Finite difference methods for hyperbolic, parabolic and elliptic PDE's, with application to problems in science and engineering. Convergence, consistency, order and stability offinite difference methods. Dissipation and dispersion. Finite volume methods. Software design and and adaptivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 211D",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Element Methods",
+  "units": "4",
+  "description": "Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptical partial differential equations, with application to problems in science and engineering. Error Estimates. Standard and discontinuous Galerkin methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 216",
+  "title": "Level Set Methods",
+  "units": "4",
+  "description": "Mathematical description of the level set method and design of the numerical methods used in its implementations (ENO-WENO, Godunov, Lax-Friedrich, etc.). Introduction to the Ghost Fluid Method. Applications in CFD, Materials Sciences, Computer Vision and Computer Graphics.",
+  "prerequisites_raw": "CMPSC 211C or CH E 211C or ECE 210C or ME 210C.",
+  "prerequisites_courses": [
+   "CMPSC 211C",
+   "CH E 211C",
+   "ECE 210C",
+   "ME 210C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 219",
+  "title": "Sparse Matrix Algorithms",
+  "units": "4",
+  "description": "Theory, implementation, and applications of sparse matrix algorithms. Direct, iterative, preconditioned, and multilevel methods for solving large, sparse systems of linear equations. Tools include graph theory, linear algebra, and computer architecture; applications range from physical modeling to data mining.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 220",
+  "title": "Theory of Computation and Complexity",
+  "units": "4",
+  "description": "Topics include: models of computation; time and space complexity classes (e.g., P, NP, CO-NP, and Pspace), efficient reducibilities, complete problems lower bounds; the polynomial hierarchy.",
+  "prerequisites_raw": "Computer Science 186.",
+  "prerequisites_courses": [
+   "CMPSC 186"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 225",
+  "title": "Information Theory",
+  "units": "4",
+  "description": "Entropy, mutual information, and Shannon's coding theorems; lossless source coding, Huffman, Shannon-Fano-Elias, and arithmetic codes; Channel capacity; rate-distortion theory, and lossy source coding; source-channel coding; algorithmic complexity and information; applications of information theory in various fields.",
+  "prerequisites_raw": "ECE 139 or equivalent, or PSTAT 120A-B.",
+  "prerequisites_courses": [
+   "ECE 139",
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 230",
+  "title": "Approximations, NP-Completeness and Algorithms",
+  "units": "4",
+  "description": "Epsilon approximations, PTAS and FPTAS. Techniques for the design of approximation algrorithms. P, NP, NP-complete problems, polynomial transformations, Turing reductions, strong NP-completeness, NP-hardness and inapproximability results. Topics in algorithms include: amortized analysis, advanced graph algorithms and data structures.",
+  "prerequisites_raw": "Computer Science 130A-B.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 231",
+  "title": "Topics in Combinatorial Algorithms",
+  "units": "4",
+  "description": "Advanced topics in algorithm design, including network flows, matchings in graphs, linear and integer programming.",
+  "prerequisites_raw": "Computer Science 130B.",
+  "prerequisites_courses": [
+   "CMPSC 130B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 235",
+  "title": "Computational Geometry",
+  "units": "4",
+  "description": "Algorithms and lower bound techniques in computational geometry; decision tree models of computation; geometric searching; point location and range search; convex hull and maxima of a point set; proximity algorithms; geometric intersections.",
+  "prerequisites_raw": "Computer Science 130A-B.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 240A",
+  "title": "Applied Parallel Computing",
+  "units": "4",
+  "description": "Interdisciplinary introduction to applied parallel computing on modern supercomputers. Topics include applications-oriented architectural issues, MPI, parallel MATLAB, and parallel numerical algorithms. A course project emphasizes understanding the realities and myths of what is possible on the world's fastest machines.",
+  "prerequisites_raw": "Computer Science 154 and 160.",
+  "prerequisites_courses": [
+   "CMPSC 154",
+   "CMPSC 160"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 254",
+  "title": "Advanced Computer Architecture",
+  "units": "4",
+  "description": "Advanced instruction set architectures, pipelining, dynamic scheduling, branch prediction, superscalar issue, out-of-order execution, memory-hierarchy design, advanced cache architectures and prefetching. Several real designs are dissected and simulators are developed for performing quantitative evaluations of design decisions.",
+  "prerequisites_raw": "CMPSC 154 or ECE 154.",
+  "prerequisites_courses": [
+   "CMPSC 154",
+   "ECE 154"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 260",
+  "title": "Advanced Topics in Program Analysis",
+  "units": "4",
+  "description": "Theoretical aspects of translation. Topics include: data flow analysis; control flow analysis; interprocedural analysis; optimization; type systems.",
+  "prerequisites_raw": "Computer Science 160 and 162.",
+  "prerequisites_courses": [
+   "CMPSC 160",
+   "CMPSC 162"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 263",
+  "title": "Runtime Systems",
+  "units": "4",
+  "description": "Topics central to modern programming languages and their implementation: garbage collection; memory system performance; characteristics and optimization of object-oriented languages; type systems and type inference; run-time compilation.",
+  "prerequisites_raw": "Computer Science 154, 160, and 162.",
+  "prerequisites_courses": [
+   "CMPSC 154",
+   "CMPSC 160",
+   "CMPSC 162"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 265",
+  "title": "Advanced Topics in Machine Intelligence",
+  "units": "4",
+  "description": "Topics covered include advanced programming techniques for representing and reasoning about complex objects and various applications of such techniques, including expert systems, natural language processors, image understanding systems and machine learning.",
+  "prerequisites_raw": "Computer Science 165A.",
+  "prerequisites_courses": [
+   "CMPSC 165A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 266",
+  "title": "Formal Specification and Verification",
+  "units": "4",
+  "description": "Introduction to existing specification and verification systems, and the underlying theory and techniques of verifying the correctness of algorithms with respect to specifications. This subject can be considered as the combination of specification and verification techniques, programming language semantics and formal logic.",
+  "prerequisites_raw": "Computer Science 130A-B; Computer Science 186.",
+  "prerequisites_courses": [
+   "CMPSC 130A",
+   "CMPSC 186"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 267",
+  "title": "Automated Verification",
+  "units": "4",
+  "description": "Covers automated verification algorithms and tools. Topics include: temporal logics, fixpoint characterizations of temporal properties, model checking, symbolic verification, explicit-state verification, verification using automated theorem provers, automated abstraction.",
+  "prerequisites_raw": "Computer Science 130A-B and 138.",
+  "prerequisites_courses": [
+   "CMPSC 130A",
+   "CMPSC 138"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 270",
+  "title": "Operating Systems",
+  "units": "4",
+  "description": "Develops an understanding of operating systems and operating systems research at both a conceptual level and from an engineering perspective. Fundamental design principles, culled primarily from the research literature, motivate an analysis of previous and current systems.This analysis is further validated through empirical investigation.",
+  "prerequisites_raw": "Computer Science 170",
+  "prerequisites_courses": [
+   "CMPSC 170"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 271",
+  "title": "Advanced Topics in Distributed Systems",
+  "units": "4",
+  "description": "Covers the fundamental problems in distributed systems and the various tools used to solve them. Of primary interest is the issue of fault-tolerance. Topics include event ordering, clocks, global states, agreement, fault-tolerance, and peer-to-peer systems.",
+  "prerequisites_raw": "cmpsc 170.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 272",
+  "title": "Software Engineering",
+  "units": "4",
+  "description": "Principles of software engineering disciplines emphasizing requirements analysis, specification design, coding, testing and correctness proofs, maintenance, and management. Students use a number of software engineering tools.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 273",
+  "title": "Data and Knowledge Bases",
+  "units": "4",
+  "description": "The focus is on the study of relational and post-relational data models and their query languages of different styles (algebraic, calculus, and deductive): complexity, expressive power, optimization, and database design.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 274",
+  "title": "Advanced Topics in Database Systems",
+  "units": "4",
+  "description": "Topics include: data models, semantics, data integrity, database design, serializability theory, concurrency control, recovery, distributed databases.",
+  "prerequisites_raw": "Computer Science 170.",
+  "prerequisites_courses": [
+   "CMPSC 170"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 276",
+  "title": "Advanced Topics in Networking",
+  "units": "4",
+  "description": "Focuses on advanced topics in networking. Topics may include, but are not limited to: Internet analysis, routing techniques, multimedia, approaches for network performance enhancements, and communication over new technologies.",
+  "prerequisites_raw": "Computer Science 176A or 176B.",
+  "prerequisites_courses": [
+   "CMPSC 176A",
+   "CMPSC 176B"
+  ]
+ }
+]

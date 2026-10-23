@@ -1,0 +1,282 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 197HA",
+  "title": "Honors Project Seminar",
+  "units": "4",
+  "description": "Seminar for the development of the honors research project. Emphasis is on the design of the project and the establishment of methodologies to be utilized. Background and initial research is undertaken.",
+  "prerequisites_raw": "Acceptance into the Chicana and Chicano Studies honors program; senior standing; consent of department; open to Chicana and Chicano Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 197HB",
+  "title": "Honors Project Research",
+  "units": "4",
+  "description": "Independent research comprising the bulk of the data acquisition and organization for the honors project.",
+  "prerequisites_raw": "Chicana/o Studies 197HA; acceptance into the Chicana and Chicano Studies honors program; senior standing; consent of department; open to Chicana and Chicano Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 197HC",
+  "title": "Honors Project Writing",
+  "units": "4",
+  "description": "Allows students to complete the writing of the honors thesis. Time is allotted to prepare a presentation of the project before an audience of peers and faculty members.",
+  "prerequisites_raw": "Chicana/o Studies 197HB; acceptance into Chicana and Chicano Studies honors program; senior standing; consent of department; open to Chicana and Chicano Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 198",
+  "title": "Readings in Chicano Studies",
+  "units": "0",
+  "description": "Readings in Chicano Studies under the guidance of a faculty member in the department. Students must prepare a short plan of study and have it approved by the sponsoring faculty member.",
+  "prerequisites_raw": "Upper-division standing; completion of two prior upper-division courses in Chicano Studies; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent studies in Chicana/o students under the guidance of a faculty member in the department. Students wishing to enroll should prepare a short plan of study.",
+  "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in Chicana/o Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 199RA",
+  "title": "Independent Research Assistance in Chicana/o Studies",
+  "units": "0",
+  "description": "Coursework consists of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Chicana/o Studies; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 200A",
+  "title": "History and Narrativity",
+  "units": "4",
+  "description": "Examines critical theories and methods in the production of historical narratives, social myths, and ideologies of racialization and ethnicity. Special attention is given to employment strategies, tropes, and allegorical forms in the construction of historical events and narratives.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 200B",
+  "title": "Social Processes",
+  "units": "4",
+  "description": "Explores critical theories and methods in the production of knowledge relevant to social, political, economic, and institutional structures. Special attention is given to interdisciplinary articulations with theories and methods in the humanities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 200C",
+  "title": "Cultural Texts",
+  "units": "4",
+  "description": "Explores critical theories and methods in the production of cultural knowledge in the humanities. Special attention is given to interdisciplinary articulations with theories and methods in the social sciences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 210",
+  "title": "Research Seminar",
+  "units": "4",
+  "description": "Introduces students to the practice of original research in the interdisciplinary field of Chicana and Chicano Studies, including articulating a research problem, placing it within theoretical discussions, selecting appropriate methods, and analyzing and writing data, results, and/or findings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 220",
+  "title": "Interdisciplinary Methods",
+  "units": "4",
+  "description": "A critical introduction to a broad range of approaches and methodologies used in Chicana and Chicano Studies. These methods include (but are not limited to) fieldwork, archival and historical research, textual analysis, action research, visual production, political economy, and statistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 222",
+  "title": "Ethnicity and Race in the Americas",
+  "units": "4",
+  "description": "Identifies different racial projects, of how \"ethnicity\" and \"race\" are understood in specific contexts. Special attention is put on the ideas of mestizaje, indigenismo and development, and the role that played in the racial projects of Latin America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 230",
+  "title": "Teaching Practicum",
+  "units": "4",
+  "description": "This pedagogical course is designed to help beginning instructors develop and refine their teaching methods, explore techniques, consider innovative strategies and syllabi, and conceptualize interdisciplinary course materials through discussions with appropriate members of the department's faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 230C",
+  "title": "Ethnography & Ethnographic Methods",
+  "units": "4",
+  "description": "This course examines the epistemology, ethics, and politics of ethnographic fieldwork and is designed to provide students with the methodological tools to conduct ethnographic research. Through close reading and seminar discussions, students reflect on the origins of ethnographic inquiry and engage with decolonial responses to Western ethnographic inquiry. Having developed a critical understanding of ethnographic research as theory and method in the first half of the course, students develop and workshop their own ethnographic research project and gain hands-on experience collecting, analyzing, and writing up ethnographic data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 238",
+  "title": "Barrio Popular Culture",
+  "units": "4",
+  "description": "A graduate level exploration of the various manifestations of popular and mass culture in Chicano urban and semi-rural communities throughout the Southwest. Both secular and religious cultural phenomena are analyzed (lowriders, saints, music, etc.). Relationships to mainstream culture are examined.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 240",
+  "title": "Chicana and Chicano Studies Colloquium",
+  "units": "1",
+  "description": "A year-long, bi-monthly colloquium required for all doctoral Chicana and Chicano Studies graduate students. Designed to provide cohort-identity and faculty-student exchange, the colloquium provides students with the opportunity to present research papers, hear guest lecturers, and see faculty presentations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 249",
+  "title": "Spanish for Graduate Students",
+  "units": "4",
+  "description": "Provides graduate students with basic and broad knowledge to familiarize them with texts from a variety of disciplines. Course will provide training in rules, vocabulary and linguistic tips.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 250A",
+  "title": "Theory of the Chicana/o Novel",
+  "units": "4",
+  "description": "Examines theoretical approaches to the Chicana/o novel. Combines questions and methods pertaining to specific texts of this genre: structuralism, formalism, Marxism, postmodernism, semiotics, cultural studies, and postcolonial studies. Centers notions of nationhood, identity, space, gender, and culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 250B",
+  "title": "Literary History in Chicana/o Literature",
+  "units": "4",
+  "description": "Attempts to explain factors and parameters contributing to literary history in Chicana and Chicana literature from the colonial period (1540s) to the contemporary period (twenty-first century). Each major period is characterized and studied through a representative text.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 251",
+  "title": "De-Colonizing Feminism",
+  "units": "4",
+  "description": "Key writings by US feminists-of-color have transformed intellectual and cultural production, and re-generated new modes of de-colonizing philosophy. Graduate students write a substantial paper. They also participate in organizing and leading class discussions on a rotating basis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 252A",
+  "title": "Indigenous Texts",
+  "units": "4",
+  "description": "Treats translations of primary indigenous documents. Investigates the oral performance inherent to written indigenous records. Attention focuses on the Popol Vuh and the Codex Chimalpopoca, but Classic Maya hieroglyphic texts and Aztec codices are considered as well.",
+  "prerequisites_raw": "Coursework on ancient Mesoamerica.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 253",
+  "title": "Queer Identities, Communities & Theories",
+  "units": "4",
+  "description": "Examines queer/LGBT community life and death; political and social identities; and multiple gender expressions and sexual desires. Grounded in narratives of identity and experience, the course explores dimensions of visibility, space, silence, and the politics of Chicana/o and Latina/o exclusion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 254",
+  "title": "Listening to Race",
+  "units": "4",
+  "description": "Explores various sound theories, listening studies, and sound-specific case studies that analyze the relationship made between sound and race. Material reviewed includes radio studies, sound semiotics, music as texts, and the queering of sound.",
+  "prerequisites_raw": "Graduate student standing. Preference given to Chicano Studies graduate students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 256",
+  "title": "Contemporary Readings in Chicana-o Latina-o Indigenous Studies",
+  "units": "4",
+  "description": "Focuses on recent publications covering different fields in Chicana-o Latina-o Indigenous studies in the Humanities, Social and/or Natural Sciences.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 259",
+  "title": "The Chicano Movement: New Historical Perspectives",
+  "units": "4",
+  "description": "Focuses on the Chicano Movement of the 1960s and 1970s and the developing historiographical literature on the Movement. Topics to be covered include Chicanismo, the student movement, the anti-war movement, and La Chicana.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 260A",
+  "title": "Seminar in Chicana and Chicano History",
+  "units": "4",
+  "description": "First part of a two-quarter research seminar exploring various facets of Chicano history, concentrating on the twentieth century. Examination of literature and projects covering immigration, labor, women, the Mexican-American, and the Chicano movement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 261A",
+  "title": "Chicana/o Education",
+  "units": "4",
+  "description": "A theoretical and empirical overview of Chicana/o educational issues in the U.S., analyzing effects of race, gender, class, language, sexuality, and immigrant status on attainment and achievement. Examination of social, political, economic, and historical contexts of Chicana/o educational experiences.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 263",
+  "title": "Comparative Ethnic Theory",
+  "units": "4",
+  "description": "Theories of ethnicity drawn primarily from the fields of Sociology, Anthropology, and Ethnic Studies. Comparative and historical approach, including an analysis of race, racialization, class and nationalism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]
