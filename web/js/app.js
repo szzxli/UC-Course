@@ -13,3 +13,28 @@ function unitsNum(u) {
   if (!m) return 4;
   return Math.max.apply(null, m.map(Number));
 }
+/* ---- 换校区统一规则（首页/查课/转学三页共用）----
+   校区绑定的状态：major/major2 意向专业、myCourses 选课清单、
+   have 已修、draft 排课草稿、transferCC。有存量时先 confirm
+   （msg 由调用方按当前语言传入），确认后一并清空，不静默带过去。 */
+function campusBoundCount() {
+  return Sget("myCourses", []).length + Object.keys(Sget("have", {})).length;
+}
+function resetCampusBound(newCampus) {
+  Sset("campus", newCampus);
+  Sset("major", "");
+  Sset("major2", "");
+  Sset("myCourses", []);
+  Sset("have", {});
+  Sset("draft", []);
+  Sset("transferCC", "");
+}
+/* 返回 true = 已切换到 newCampus；false = 没变（同校区或用户取消）。
+   取消时调用方负责把控件值改回 Sget("campus")。 */
+function switchCampus(newCampus, msg) {
+  var cur = Sget("campus", "UCI");
+  if (newCampus === cur) return false;
+  if ((campusBoundCount() > 0 || Sget("major", "")) && !confirm(msg)) return false;
+  resetCampusBound(newCampus);
+  return true;
+}

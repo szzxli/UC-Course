@@ -31,7 +31,9 @@
      "MATH 20B",
      "MATH 20C"
     ]
-   ]
+   ],
+   "name_zh": "低年级数学",
+   "note_zh": "必须 MATH 10A-B-C；推荐 MATH 20A-B-C（读研准备需要）"
   },
   {
    "id": "lower-econ",
@@ -40,7 +42,8 @@
    "courses": [
     "ECON 1",
     "ECON 3"
-   ]
+   ],
+   "name_zh": "低年级经济学"
   },
   {
    "id": "upper-core",
@@ -55,7 +58,9 @@
     "ECON 120B",
     "ECON 120C"
    ],
-   "note": "100A-B micro, 110A-B macro, 120A-B-C econometrics"
+   "note": "100A-B micro, 110A-B macro, 120A-B-C econometrics",
+   "name_zh": "高年级核心",
+   "note_zh": "100A-B 微观、110A-B 宏观、120A-B-C 计量经济学"
   },
   {
    "id": "upper-elect",
@@ -155,7 +160,9 @@
     "ECON 199"
    ],
    "count": 5,
-   "note": "Any 4-unit ECON 100-199; core courses cannot double-count; ECON 100C may count as elective"
+   "note": "Any 4-unit ECON 100-199; core courses cannot double-count; ECON 100C may count as elective",
+   "name_zh": "高年级选修（5 门）",
+   "note_zh": "任意 4 学分 ECON 100-199；核心课不能重复计入；ECON 100C 可作选修计入"
   }
  ],
  "file": "ucsd-economics.json"

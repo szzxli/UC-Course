@@ -51,7 +51,9 @@
      "MATH 154",
      "MATH 184"
     ]
-   ]
+   ],
+   "name_zh": "低年级 CS 核心",
+   "note_zh": "CSE 8B 或 CSE 11；CSE 15L 或 CSE 29；CSE 20 或 MATH 15A/31CH/109；CSE 21 或 MATH 154/184"
   },
   {
    "id": "lower-cs-extra",
@@ -94,7 +96,9 @@
     "NANO 15"
    ],
    "count": 1,
-   "note": "Minimum 4 units; any CSE upper-division course not used elsewhere also counts"
+   "note": "Minimum 4 units; any CSE upper-division course not used elsewhere also counts",
+   "name_zh": "低年级 CS：从清单至少修 4 学分",
+   "note_zh": "至少 4 学分；未在别处使用的任意 CSE 高年级课也可计入"
   },
   {
    "id": "lower-math",
@@ -122,7 +126,9 @@
     [
      "MATH 31AH"
     ]
-   ]
+   ],
+   "name_zh": "低年级数学（16 学分）",
+   "note_zh": "MATH 20C 或 MATH 31BH；MATH 18 或 MATH 31AH"
   },
   {
    "id": "lower-sci",
@@ -151,7 +157,8 @@
     "SIO 126",
     "SIO 128"
    ],
-   "count": 1
+   "count": 1,
+   "name_zh": "通识科学（一门，4 学分）"
   },
   {
    "id": "lower-prob",
@@ -181,7 +188,9 @@
     [
      "CSE 103"
     ]
-   ]
+   ],
+   "name_zh": "概率与统计（4 学分）",
+   "note_zh": "选一门"
   },
   {
    "id": "upper-core",
@@ -192,7 +201,9 @@
     "CSE 101",
     "CSE 110"
    ],
-   "note": "Data structures/programming; Algorithms; Software engineering"
+   "note": "Data structures/programming; Algorithms; Software engineering",
+   "name_zh": "高年级核心（12 学分）",
+   "note_zh": "数据结构/编程；算法；软件工程"
   },
   {
    "id": "upper-elect",
@@ -241,7 +252,9 @@
     "MATH 189"
    ],
    "count": 15,
-   "note": "60 units: >=12 Systems-tagged, >=12 Theory/Abstraction-tagged, >=12 Applications-tagged, +24 additional. Count=15 assumes 4-unit courses; see catalog for tag lists"
+   "note": "60 units: >=12 Systems-tagged, >=12 Theory/Abstraction-tagged, >=12 Applications-tagged, +24 additional. Count=15 assumes 4-unit courses; see catalog for tag lists",
+   "name_zh": "高年级选修（60 学分，含广度要求）",
+   "note_zh": "共 60 学分：Systems 类 ≥12、Theory/Abstraction 类 ≥12、Applications 类 ≥12，另加 24 学分。门数按每门 4 学分估算为 15 门；标签清单见官方目录"
   }
  ],
  "file": "ucsd-computer-science.json"

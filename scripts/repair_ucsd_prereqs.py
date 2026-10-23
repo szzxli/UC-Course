@@ -6,7 +6,8 @@ import json, re
 CODE_RE = re.compile(r"\b([A-Z]{2,5})\s+(\d{1,3}[A-Z]{0,2})\b")
 FAKE_DEPTS = {"THE", "AND", "FOR", "WITH", "FROM", "GPA", "ALL", "ANY", "ONE", "TWO",
               "UPPER", "LOWER", "PRIOR", "GRADE", "MINIMUM", "CONSENT", "INSTRUCTOR"}
-CUT_MARKERS = ["corequisites:", "recommended preparation:", "recommended:", "note:", "concurrent:"]
+CUT_MARKERS = ["corequisites:", "recommended preparation:", "recommended:", "note:", "concurrent:",
+               "restricted to", "students may not receive credit", "enrollment in"]
 
 def norm_code(s):
     return re.sub(r"\b0+(\d)", r"\1", s.strip())

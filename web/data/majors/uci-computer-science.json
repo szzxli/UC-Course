@@ -28,7 +28,9 @@
      "I&C SCI 33",
      "I&C SCI H32"
     ]
-   ]
+   ],
+   "name_zh": "低年级 A：编程入门系列（选一个系列）",
+   "note_zh": "系列一：I&C SCI 31-32-33；或系列二：I&C SCI H32-33（加速班）"
   },
   {
    "id": "lower-B",
@@ -56,7 +58,9 @@
     [
      "MATH 3A"
     ]
-   ]
+   ],
+   "name_zh": "低年级 B：全部必修",
+   "note_zh": "I&C SCI 6N 或 MATH 3A（二选一）"
   },
   {
    "id": "upper-A",
@@ -65,7 +69,8 @@
    "courses": [
     "COMPSCI 161",
     "I&C SCI 139W"
-   ]
+   ],
+   "name_zh": "高年级 A：核心课（2 门）"
   },
   {
    "id": "upper-B",
@@ -94,7 +99,9 @@
     "COMPSCI 184A"
    ],
    "count": 4,
-   "note": "FA1 Vision/Graphics; FA2 Info Mgmt; FA3 Networks/Security; FA4 Systems; FA5 Arch; FA6 Algorithms; FA7 AI/ML"
+   "note": "FA1 Vision/Graphics; FA2 Info Mgmt; FA3 Networks/Security; FA4 Systems; FA5 Arch; FA6 Algorithms; FA7 AI/ML",
+   "name_zh": "高年级 B：灵活核心（4 门，至少覆盖 4 个不同方向）",
+   "note_zh": "方向：FA1 视觉/图形；FA2 信息管理；FA3 网络/安全；FA4 系统；FA5 体系结构；FA6 算法；FA7 人工智能/机器学习"
   },
   {
    "id": "upper-C",
@@ -164,7 +171,9 @@
     "SWE 124"
    ],
    "count": 9,
-   "note": "Includes COMPSCI 103-189 range"
+   "note": "Includes COMPSCI 103-189 range",
+   "name_zh": "高年级 C：选修（9 门）",
+   "note_zh": "含 COMPSCI 103-189 号段课程"
   },
   {
    "id": "upper-D",
@@ -192,7 +201,8 @@
     "IN4MATX 134",
     "SWE 117"
    ],
-   "count": 2
+   "count": 2,
+   "name_zh": "高年级 D：项目课（2 门）"
   }
  ],
  "file": "uci-computer-science.json"

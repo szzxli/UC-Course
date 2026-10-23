@@ -31,7 +31,9 @@
      "PSY 10A",
      "PSY 10B"
     ]
-   ]
+   ],
+   "name_zh": "领域 I 课程",
+   "note_zh": "准入门槛：领域 I 的 UC GPA ≥ 2.7、领域 II ≥ 2.0；全部课程须以字母成绩修读；领域 I、II 中低于 C- 的课不接受，且 C- 最多只能有一门。须向系办公室（1814 Psychology East）提交「Petition to Change Major」申请进入预备与正式专业。修 PSY 10A 前须先完成 PSY 1、MATH 34A（或 2A 或 3A）、PSTAT 5ALS 或等效课、CHEM 1A-B（或 2A-B）；PSY 10A 是 PSY 10B 的先修。"
   },
   {
    "id": "area-ii-courses",
@@ -65,7 +67,9 @@
      "EEMB 7",
      "EEMB 2"
     ]
-   ]
+   ],
+   "name_zh": "领域 II 课程",
+   "note_zh": "注：CHEM 1C 是 MCDB 1A 的先修，可与 MCDB 1A 同时修"
   },
   {
    "id": "area-iii-courses",
@@ -111,7 +115,9 @@
     "PHYS 21",
     "POL S 1"
    ],
-   "note": "Complete 4 of the following. Note: The following courses are not required to be admitted into the major, but are required to complete the major:"
+   "note": "Complete 4 of the following. Note: The following courses are not required to be admitted into the major, but are required to complete the major:",
+   "name_zh": "领域 III 课程",
+   "note_zh": "以下完成 4 门。注：下列课程不是专业准入要求，但完成专业必须修"
   },
   {
    "id": "area-a",
@@ -130,14 +136,17 @@
      "PSY 106",
      "PSY 108"
     ]
-   ]
+   ],
+   "name_zh": "领域 A"
   },
   {
    "id": "area-b",
    "name": "Area B",
    "type": "elective",
    "courses": [],
-   "note": "Minimum 8 units. Course list is defined as a catalog course set; see the official program page for the courses in this area."
+   "note": "Minimum 8 units. Course list is defined as a catalog course set; see the official program page for the courses in this area.",
+   "name_zh": "领域 B",
+   "note_zh": "至少 8 学分；课程池以官方项目页为准"
   },
   {
    "id": "area-c",
@@ -155,7 +164,9 @@
     "PSY 155L",
     "PSY 156L"
    ],
-   "note": "Complete 1 of the following. At least one laboratory course from the following"
+   "note": "Complete 1 of the following. At least one laboratory course from the following",
+   "name_zh": "领域 C",
+   "note_zh": "以下完成 1 门；至少包含一门下列实验课"
   },
   {
    "id": "area-d",
@@ -213,7 +224,9 @@
      "PHIL 134",
      "RG ST 156BE"
     ]
-   ]
+   ],
+   "name_zh": "领域 D",
+   "note_zh": "从下列组合另选 16 学分。PSY 199P 最多 8 学分可按 P/NP 计入专业，其余专业课（预备/高年级，含他系计入的课）必须以字母成绩修读；替换须经 petition 批准；高年级及全部专业课 UC 平均 ≥ 2.0；双专业最多 8 学分可双计。"
   }
  ]
 }

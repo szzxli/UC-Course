@@ -26,19 +26,21 @@
     "notInReq": "No está en los requisitos de tu carrera",
     "noMajorTip": "Selecciona una carrera y aquí se mostrará qué requisito cumple este curso",
     "overlapBadge": "🔗 Doble cómputo",
-    "overlapHint": "Cuenta para ambas carreras"
+    "overlapHint": "Cuenta para ambas carreras",
+    "campusLabel": "Campus",
+    "goPlan": "Ir a planificar →"
   },
   "index": {
-    "campusHint": "v0.2 cubre tres campus: UCI, UCSD y UCSB (datos de cursos cargados).",
+    "campusHint": "Tres campus activos: UCI, UCSD, UCSB (datos de cursos cargados). Más campus en camino.",
     "campusTitle": "🏫 Tu campus",
-    "footnote": "v0.2: búsqueda de cursos + horario con prerrequisitos. Datos de UCLA/UCB en curso.",
+    "footnote": "Búsqueda de cursos + horario por prerrequisitos + importación de créditos. Datos de UCLA/UCB en curso.",
     "go": "Empezar a elegir cursos →",
     "goalHint": "La misma carrera exige estrategias muy distintas para posgrado o empleo. Elige una y el planificador adaptará sus consejos.",
     "goalTitle": "🎯 Elige tu meta primero",
     "grad": "📚 Posgrado / Doctorado",
-    "gradHint": "GPA primero + investigación + cursos de posgrado",
+    "gradHint": "GPA primero, más investigación y cursos de posgrado",
     "job": "💼 Prácticas / Empleo",
-    "jobHint": "Cursos con proyecto primero + trimestre de reclutamiento ligero",
+    "jobHint": "Cursos con proyecto primero y temporada de reclutamiento ligera para entrevistas",
     "undecided": "🤔 Aún no lo sé",
     "undecidedHint": "Planifica por requisitos de graduación; decide antes del tercer año",
     "majorTitle": "🎓 Carrera deseada",
@@ -52,7 +54,9 @@
     "resumeCourses": "{n} cursos",
     "transferTitle": "🎓 Soy transfer",
     "transferDesc": "¿Traes créditos de CC? Impórtalos y ve qué te falta.",
-    "transferGo": "Importar créditos →"
+    "transferGo": "Importar créditos →",
+    "quickPlan": "Ir directo a planificar →",
+    "quickTraj": "Ver mi trayectoria →"
   },
   "nav": {
     "courses": "Cursos",
@@ -81,12 +85,12 @@
     "goMajor": "Añadir obligatorios de mi carrera →",
     "goIndex": "Elige una carrera primero →",
     "timeline": "🎯 Cronograma de graduación",
-    "years": "Meta",
+    "years": "Años objetivo",
     "yr2": "2 años",
     "yr3": "3 años",
     "yr4": "4 años",
     "leaveQ": "Baja temporal",
-    "qunit": "trimestres",
+    "qunit": "quarters",
     "summer": "+ verano",
     "tEmpty": "Añade cursos primero",
     "verdict_feasible": "✅ Viable",
@@ -103,12 +107,15 @@
     "prereqViol": "El prerrequisito {pre} de {code} quedó después",
     "copyDraft": "📋 Copiar horario",
     "copied": "Copiado — busca por código en WebReg",
-    "draftNote": "Exporta códigos de curso (los CCN son por trimestre; consúltalos en WebReg).",
-    "draftExportHead": "Borrador UC SmartPick · {campus}"
+    "draftNote": "Exporta códigos de curso (el CCN es el número de inscripción de cada trimestre; consúltalo en el sitio de registro).",
+    "draftExportHead": "Borrador UC SmartPick · {campus}",
+    "scopeNote": "⚠️ Esta evaluación cubre solo los {n} curso(s) que seleccionaste. Los requisitos no agregados (GE, cursos restantes de la carrera, etc.) no están incluidos: no es un veredicto para todo el título.",
+    "coverageLine": "Seleccionado: {u} unidades / ~180 total de una licenciatura UC ≈ {p}%",
+    "genEmpty": "Tu lista está vacía: agrega algunos cursos primero y luego genera el horario."
   },
   "sub": {
     "index": "Planifica tus cursos UC según tu meta: posgrado / doctorado / empleo — cada meta, una estrategia distinta",
-    "plan": "Horario con prerrequisitos · motor determinista",
+    "plan": "Horario en orden de prerrequisitos · automático",
     "traj": "Cada elección es material para tu solicitud"
   },
   "tips": {
@@ -177,7 +184,12 @@
     "overlapNone": "No hay cursos en común entre las dos carreras.",
     "optLabel": "Vía {n}",
     "pickThis": "Elegir esta vía",
-    "openPool": "Pool abierto: elige {n}, añade desde Buscar cursos."
+    "openPool": "Pool abierto: elige {n}, añade desde Buscar cursos.",
+    "progressCount": "Hecho/elegido {n}/{m}",
+    "addAllNote": "{n} requisito(s) obligatorio(s) con varias opciones se agregaron usando el primer grupo (Opción A). Para cambiar de grupo, usa «Elegir este grupo» en la tarjeta del requisito.",
+    "campusMismatch": "Tu carrera prevista pertenece a {fc}, que no coincide con el campus actual {campus}. Vuelve a la página de inicio y vuelve a elegir campus y carrera.",
+    "importBannerN": "🎓 Se importaron {n} curso(s) completado(s) desde créditos de transferencia: el progreso de abajo está actualizado.",
+    "importBanner0": "🎓 Importación terminada: los cursos seleccionados ya estaban importados, no hay novedades."
   },
   "traj": {
     "empty": "Añade cursos desde la pestaña Carrera primero",
@@ -191,7 +203,11 @@
     "tagResearch": "📝 Experiencia de investigación",
     "tagGradLevel": "🎓 Nivel posgrado",
     "tagMethod": "📊 Curso de métodos, señal de doctorado",
-    "tagProject": "💼 Experiencia de proyecto"
+    "tagProject": "💼 Experiencia de proyecto",
+    "draftNote": "Se muestra desde tu borrador de la página de planificación, con tus ajustes manuales.",
+    "autoNote": "Aún no hay borrador: orden automático por prerrequisitos (límite de {maxu} unidades por quarter, igual que en la página de planificación). Visita la página de planificación para ajustar a mano.",
+    "notInDraft": "⚠️ Estos cursos están en tu lista pero aún no están en el borrador: {list}. Regenera en la página de planificación o colócalos en el borrador.",
+    "notPlaced": "⚠️ {n} curso(s) no cupieron en 12 quarters y no se muestran: {list}. Sube el límite de unidades o extiende el plazo en la página de planificación."
   },
   "chat": {
     "title": "💬 Ayuda",
@@ -215,5 +231,10 @@
     "backTitle": "¿Aún no te transfieres?",
     "backDesc": "Planifica tus cursos de CC en TransferOS-China primero, luego vuelve a importar.",
     "backGo": "Ir a TransferOS-China →"
+  },
+  "common": {
+    "campusSwitchMsg": "Cambiar a {campus} borra tus carreras previstas, lista de cursos, marcas de completado y borrador del campus actual (los cursos no se pueden mezclar entre campus). ¿Continuar?",
+    "foreignTag": "otro campus",
+    "clearForeign": "Quitar cursos de otro campus"
   }
 }

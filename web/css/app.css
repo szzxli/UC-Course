@@ -89,3 +89,4 @@ body.has-selbar{padding-bottom:140px}
 .tag.ov{background:#fef3c7;color:#92400e;font-weight:700}
 .chk{display:flex;gap:10px;align-items:flex-start;padding:9px 4px;border-bottom:1px solid #f1ecfb;font-size:14px;cursor:pointer}
 .chk input{margin-top:3px;accent-color:#7c3aed}
+.selbar[hidden]{display:none!important}

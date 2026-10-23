@@ -52,7 +52,9 @@
      "CHEM 2C",
      "CHEM 2CC"
     ]
-   ]
+   ],
+   "name_zh": "化学要求",
+   "note_zh": "转入完整专业（full major）有门槛：须满足专业预备（Pre-Biology）课程与 GPA 要求（以 General Catalog 与 Pre-Biological Sciences Major Sheet 为准）；至少完成 11 门指定预备课且 UC GPA ≥ 2.0。一门课只能满足一条要求；连字符表示整组系列须一起修完。"
   },
   {
    "id": "lower-division-biology",
@@ -65,7 +67,8 @@
     "MCDB 1A",
     "MCDB 1B",
     "MCDB 1LL"
-   ]
+   ],
+   "name_zh": "低年级生物"
   },
   {
    "id": "organic-chemistry-and-labs",
@@ -87,7 +90,8 @@
      "CHEM 109B",
      "CHEM 109BH"
     ]
-   ]
+   ],
+   "name_zh": "有机化学与实验"
   },
   {
    "id": "mathematics",
@@ -108,7 +112,8 @@
      "MATH 34A",
      "MATH 34B"
     ]
-   ]
+   ],
+   "name_zh": "数学"
   },
   {
    "id": "statistics",
@@ -130,7 +135,9 @@
     [
      "MATH 4A"
     ]
-   ]
+   ],
+   "name_zh": "统计",
+   "note_zh": "以下完成 1 门即可"
   },
   {
    "id": "physics",
@@ -143,7 +150,8 @@
     "PHYS 6BL",
     "PHYS 6C",
     "PHYS 6CL"
-   ]
+   ],
+   "name_zh": "物理"
   },
   {
    "id": "a-genetics",
@@ -170,7 +178,9 @@
      "EEMB 101",
      "EEMB 129"
     ]
-   ]
+   ],
+   "name_zh": "A. 遗传学",
+   "note_zh": "同一门课出现在多个领域时只能计入一个领域；B7 的课可同时满足 B1-B6 中列出的领域。高年级共需 48 学分，按 A、B1-B7 分布；每组按注明的组数完成。"
   },
   {
    "id": "b1-physiology",
@@ -212,7 +222,9 @@
     [
      "EEMB 165"
     ]
-   ]
+   ],
+   "name_zh": "B1. 生理学",
+   "note_zh": "以下每组完成 1 门或 1 个系列"
   },
   {
    "id": "b2-developmental-and-cell-biology",
@@ -258,7 +270,9 @@
     [
      "MCDB 153"
     ]
-   ]
+   ],
+   "name_zh": "B2. 发育与细胞生物学",
+   "note_zh": "以下完成 1 门"
   },
   {
    "id": "b3-biochemistry-and-molecular-biology",
@@ -290,7 +304,9 @@
     [
      "MCDB 134"
     ]
-   ]
+   ],
+   "name_zh": "B3. 生物化学与分子生物学",
+   "note_zh": "以下完成 1 门"
   },
   {
    "id": "b4-ecology",
@@ -360,7 +376,9 @@
     [
      "EEMB 179"
     ]
-   ]
+   ],
+   "name_zh": "B4. 生态学",
+   "note_zh": "以下完成 1 门"
   },
   {
    "id": "b5-evolution",
@@ -424,7 +442,9 @@
     [
      "EEMB 180"
     ]
-   ]
+   ],
+   "name_zh": "B5. 进化",
+   "note_zh": "以下完成 1 门"
   },
   {
    "id": "b6-biodiversity-and-systematics",
@@ -508,7 +528,9 @@
     [
      "MCDB 139"
     ]
-   ]
+   ],
+   "name_zh": "B6. 生物多样性与系统学",
+   "note_zh": "以下完成 1 门"
   },
   {
    "id": "b7-laboratory",
@@ -642,7 +664,9 @@
     [
      "EEMB 180"
     ]
-   ]
+   ],
+   "name_zh": "B7. 实验",
+   "note_zh": "本领域的课若同时列在 B1-B6，可同时满足原领域。专业课（预备与高年级）原则上不许 P/NP 计分（不提供字母成绩的课最多 8 学分除外）；替换课程须经系主任与院长批准（petition）；高年级专业课及全部专业课 UC 平均 ≥ 2.0；双专业经双方系主任批准，最多 8 学分可同时计入两个专业。"
   }
  ]
 }

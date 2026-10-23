@@ -18,7 +18,8 @@
     "ECE 45",
     "ECE 5",
     "ECE 65"
-   ]
+   ],
+   "name_zh": "低年级 EE（24 学分）"
   },
   {
    "id": "lower-prog",
@@ -40,7 +41,9 @@
     [
      "ECE 18"
     ]
-   ]
+   ],
+   "name_zh": "编程",
+   "note_zh": "ECE 15 所有方向必修；通信/系统/机器学习/信号方向另加 ECE 17 或 18"
   },
   {
    "id": "lower-math",
@@ -53,7 +56,8 @@
     "MATH 20C",
     "MATH 20D",
     "MATH 20E"
-   ]
+   ],
+   "name_zh": "数学（24 学分）"
   },
   {
    "id": "lower-phys",
@@ -95,7 +99,9 @@
      "PHYS 4D",
      "PHYS 4E"
     ]
-   ]
+   ],
+   "name_zh": "物理",
+   "note_zh": "PHYS 2A-B-C 或 4A-B-C（部分方向：2A-B-C-D 或 4A-B-C-D-E）"
   },
   {
    "id": "design",
@@ -109,7 +115,9 @@
     "ECE 191"
    ],
    "count": 1,
-   "note": "Required for graduation; written design project must be submitted"
+   "note": "Required for graduation; written design project must be submitted",
+   "name_zh": "设计课（选一门，成绩 ≥ C-）",
+   "note_zh": "毕业必须；须提交书面设计项目"
   },
   {
    "id": "prof-elect",
@@ -117,7 +125,9 @@
    "type": "elective",
    "courses": [],
    "count": 2,
-   "note": "Open pool: any two upper-division courses"
+   "note": "Open pool: any two upper-division courses",
+   "name_zh": "职业选修（两门高年级课）",
+   "note_zh": "开放池：任意两门高年级课"
   },
   {
    "id": "depth-communication-systems",
@@ -137,7 +147,9 @@
     "ECE 161A"
    ],
    "count": 11,
-   "note": "All breadth + all 6 depth courses required"
+   "note": "All breadth + all 6 depth courses required",
+   "name_zh": "深度方向：通信系统（须选一个方向）",
+   "note_zh": "广度课全修 + 6 门深度课全修"
   },
   {
    "id": "depth-computer-system-design",
@@ -161,7 +173,9 @@
     "ECE 165"
    ],
    "count": 9,
-   "note": "Breadth all required; any 5 of the depth list (ECE 111 must be taken as depth, tech elective, or design)"
+   "note": "Breadth all required; any 5 of the depth list (ECE 111 must be taken as depth, tech elective, or design)",
+   "name_zh": "深度方向：计算机系统设计（须选一个方向）",
+   "note_zh": "广度课全修；深度清单任选 5 门（ECE 111 必须作为深度课、技术选修或设计课修读）"
   },
   {
    "id": "depth-electronic-circuits-and-systems",
@@ -179,7 +193,9 @@
     "ECE 166"
    ],
    "count": 9,
-   "note": "All breadth + all 3 depth courses required"
+   "note": "All breadth + all 3 depth courses required",
+   "name_zh": "深度方向：电子电路与系统（须选一个方向）",
+   "note_zh": "广度课全修 + 3 门深度课全修"
   },
   {
    "id": "depth-electronic-devices-and-materials",
@@ -198,7 +214,9 @@
     "ECE 183"
    ],
    "count": 10,
-   "note": "All breadth + all 4 depth courses required"
+   "note": "All breadth + all 4 depth courses required",
+   "name_zh": "深度方向：电子器件与材料（须选一个方向）",
+   "note_zh": "广度课全修 + 4 门深度课全修"
   },
   {
    "id": "depth-machine-learning-and-controls",
@@ -217,7 +235,9 @@
     "ECE 175B"
    ],
    "count": 8,
-   "note": "Breadth all required; depth: 171A+174+175A and one of 171B/172A/175B"
+   "note": "Breadth all required; depth: 171A+174+175A and one of 171B/172A/175B",
+   "name_zh": "深度方向：机器学习与控制（须选一个方向）",
+   "note_zh": "广度课全修；深度：171A+174+175A，再加 171B/172A/175B 之一"
   },
   {
    "id": "depth-photonics",
@@ -236,7 +256,9 @@
     "ECE 185"
    ],
    "count": 9,
-   "note": "Breadth all required; depth: 181+182+183 and either 184 or 185"
+   "note": "Breadth all required; depth: 181+182+183 and either 184 or 185",
+   "name_zh": "深度方向：光子学（须选一个方向）",
+   "note_zh": "广度课全修；深度：181+182+183，再加 184 或 185"
   },
   {
    "id": "depth-power-engineering",
@@ -257,7 +279,9 @@
     "ECE 128B"
    ],
    "count": 10,
-   "note": "Breadth all required; depth: 121A-B+125A+128A and either 125B or 128B"
+   "note": "Breadth all required; depth: 121A-B+125A+128A and either 125B or 128B",
+   "name_zh": "深度方向：电力工程（须选一个方向）",
+   "note_zh": "广度课全修；深度：121A-B+125A+128A，再加 125B 或 128B"
   },
   {
    "id": "depth-signal-and-image-processing",
@@ -274,7 +298,9 @@
     "ECE 161C"
    ],
    "count": 8,
-   "note": "All breadth + all 4 depth courses required"
+   "note": "All breadth + all 4 depth courses required",
+   "name_zh": "深度方向：信号与图像处理（须选一个方向）",
+   "note_zh": "广度课全修 + 4 门深度课全修"
   }
  ],
  "notes": "Photonics depth courses beyond ECE 182/183 partially listed on page; technical electives are advisor-approved open pools.",

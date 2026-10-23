@@ -1,1 +1,94 @@
-{"campus":"UCI","checked":"2026-10-18","degree":"B.S.","department":"Department of Mathematics","file":"uci-mathematics.json","major":"Mathematics","requirements":[{"courses":["MATH 2A","MATH 2B","MATH 2D","MATH 3A","MATH 3D","MATH 9","MATH 13","MATH 120A","MATH 121A","MATH 130A","MATH 140A","MATH 140B"],"id":"core-A","name":"A. Core: calculus, linear algebra, analysis foundations","note":"MATH 2A-2B Single-Variable Calculus I-II; MATH 2D Multivariable Calculus I; MATH 3A Linear Algebra; MATH 3D Differential Equations; MATH 9 Programming for Numerical Analysis; MATH 13 Abstract Mathematics; MATH 120A Abstract Algebra: Groups; MATH 121A Linear Algebra I; MATH 130A Probability I; MATH 140A-140B Elementary Analysis I-II","type":"required"},{"courses":[],"id":"core-B","name":"B. Core: one three-quarter science sequence","note":"Select one of: CHEM 1A-1B-1C General Chemistry; PHYSICS 7C-7D-7E Classical Physics; or STATS 7 + MATH 10 + PHYSICS 7C","options":[["CHEM 1A","CHEM 1B","CHEM 1C"],["PHYSICS 7C","PHYSICS 7D","PHYSICS 7E"],["STATS 7","MATH 10","PHYSICS 7C"]],"type":"required"},{"courses":["MATH 2E"],"id":"pure-lower","name":"Pure Mathematics track — Lower-division","note":"Requirements for the Pure Mathematics Major = Core requirements for all Mathematics majors plus the items below","type":"required"},{"courses":["MATH 120B","MATH 121B","MATH 147"],"id":"pure-upper-A","name":"Pure Mathematics track — Upper-division core","note":"MATH 120B Abstract Algebra: Rings and Fields; MATH 121B Linear Algebra II; MATH 147 Complex Analysis","type":"required"},{"count":5,"courses":[],"id":"pure-upper-B","name":"Pure Mathematics track — Five additional MATH electives","note":"Five additional four-unit MATH lecture courses numbered 100–189. Variants NOT encoded here: Applied and Computational Mathematics B.S. is a separate major page; the Mathematics for Education specialization/concentration require application + interview and have their own course lists.","type":"elective"}],"school":"School of Physical Sciences","source_url":"https://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/mathematics_bs/"}
+{
+ "campus": "UCI",
+ "checked": "2026-10-18",
+ "degree": "B.S.",
+ "department": "Department of Mathematics",
+ "file": "uci-mathematics.json",
+ "major": "Mathematics",
+ "requirements": [
+  {
+   "courses": [
+    "MATH 2A",
+    "MATH 2B",
+    "MATH 2D",
+    "MATH 3A",
+    "MATH 3D",
+    "MATH 9",
+    "MATH 13",
+    "MATH 120A",
+    "MATH 121A",
+    "MATH 130A",
+    "MATH 140A",
+    "MATH 140B"
+   ],
+   "id": "core-A",
+   "name": "A. Core: calculus, linear algebra, analysis foundations",
+   "note": "MATH 2A-2B Single-Variable Calculus I-II; MATH 2D Multivariable Calculus I; MATH 3A Linear Algebra; MATH 3D Differential Equations; MATH 9 Programming for Numerical Analysis; MATH 13 Abstract Mathematics; MATH 120A Abstract Algebra: Groups; MATH 121A Linear Algebra I; MATH 130A Probability I; MATH 140A-140B Elementary Analysis I-II",
+   "type": "required",
+   "name_zh": "A. 核心：微积分、线性代数与分析基础",
+   "note_zh": "MATH 2A-2B 单变量微积分 I-II；MATH 2D 多变量微积分 I；MATH 3A 线性代数；MATH 3D 微分方程；MATH 9 数值分析编程；MATH 13 抽象数学；MATH 120A 抽象代数：群；MATH 121A 线性代数 I；MATH 130A 概率 I；MATH 140A-140B 初等分析 I-II"
+  },
+  {
+   "courses": [],
+   "id": "core-B",
+   "name": "B. Core: one three-quarter science sequence",
+   "note": "Select one of: CHEM 1A-1B-1C General Chemistry; PHYSICS 7C-7D-7E Classical Physics; or STATS 7 + MATH 10 + PHYSICS 7C",
+   "options": [
+    [
+     "CHEM 1A",
+     "CHEM 1B",
+     "CHEM 1C"
+    ],
+    [
+     "PHYSICS 7C",
+     "PHYSICS 7D",
+     "PHYSICS 7E"
+    ],
+    [
+     "STATS 7",
+     "MATH 10",
+     "PHYSICS 7C"
+    ]
+   ],
+   "type": "required",
+   "name_zh": "B. 核心：一个三学季的科学系列",
+   "note_zh": "三选一：CHEM 1A-1B-1C 普通化学；PHYSICS 7C-7D-7E 经典物理；或 STATS 7 + MATH 10 + PHYSICS 7C"
+  },
+  {
+   "courses": [
+    "MATH 2E"
+   ],
+   "id": "pure-lower",
+   "name": "Pure Mathematics track — Lower-division",
+   "note": "Requirements for the Pure Mathematics Major = Core requirements for all Mathematics majors plus the items below",
+   "type": "required",
+   "name_zh": "纯数学方向 — 低年级",
+   "note_zh": "纯数学专业要求 = 全部数学专业共同核心 + 以下各项"
+  },
+  {
+   "courses": [
+    "MATH 120B",
+    "MATH 121B",
+    "MATH 147"
+   ],
+   "id": "pure-upper-A",
+   "name": "Pure Mathematics track — Upper-division core",
+   "note": "MATH 120B Abstract Algebra: Rings and Fields; MATH 121B Linear Algebra II; MATH 147 Complex Analysis",
+   "type": "required",
+   "name_zh": "纯数学方向 — 高年级核心",
+   "note_zh": "MATH 120B 抽象代数：环与域；MATH 121B 线性代数 II；MATH 147 复分析"
+  },
+  {
+   "count": 5,
+   "courses": [],
+   "id": "pure-upper-B",
+   "name": "Pure Mathematics track — Five additional MATH electives",
+   "note": "Five additional four-unit MATH lecture courses numbered 100–189. Variants NOT encoded here: Applied and Computational Mathematics B.S. is a separate major page; the Mathematics for Education specialization/concentration require application + interview and have their own course lists.",
+   "type": "elective",
+   "name_zh": "纯数学方向 — 另选 5 门 MATH 选修",
+   "note_zh": "另选 5 门 100–189 号段的 4 学分 MATH 讲座课。未在此编码的变体：应用与计算数学 B.S. 是独立专业页；教育方向需申请 + 面试，有自己的课程表。"
+  }
+ ],
+ "school": "School of Physical Sciences",
+ "source_url": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/mathematics_bs/"
+}

@@ -16,7 +16,9 @@
     "ECON 2",
     "ECON 10A"
    ],
-   "note": "In order to qualify for admission into the Economics major, students must complete Economics 1, 2, and 10A with a UC grade-point average of 2.85 or above. No grade lower than a C in pre-major courses will be accepted. In addition, students must complete Economics 5 or PSTAT 120A and Math 2A-B or 3A-B or 34A-B with a grade of “C” or higher; the grades in these courses will not be used in computing the pre-major GPA but will apply to the overall major GPA. Econ 10A must be taken at UCSB."
+   "note": "In order to qualify for admission into the Economics major, students must complete Economics 1, 2, and 10A with a UC grade-point average of 2.85 or above. No grade lower than a C in pre-major courses will be accepted. In addition, students must complete Economics 5 or PSTAT 120A and Math 2A-B or 3A-B or 34A-B with a grade of “C” or higher; the grades in these courses will not be used in computing the pre-major GPA but will apply to the overall major GPA. Econ 10A must be taken at UCSB.",
+   "name_zh": "专业预备（Pre-Major）",
+   "note_zh": "准入门槛：Economics 1、2、10A 三门 UC GPA ≥ 2.85，且预备课成绩不得低于 C；另须完成 Economics 5 或 PSTAT 120A、Math 2A-B 或 3A-B 或 34A-B（成绩 ≥ C，这几门不计入预备 GPA 但计入专业总 GPA）。Econ 10A 必须在 UCSB 修。"
   },
   {
    "id": "preparation-for-the-major",
@@ -34,7 +36,9 @@
     [
      "PSTAT 120A"
     ]
-   ]
+   ],
+   "name_zh": "专业准备课",
+   "note_zh": "以下完成一组；Econ 5 必须在 UCSB 修"
   },
   {
    "id": "preparation-for-the-major-2",
@@ -62,7 +66,9 @@
      "MATH 34A",
      "MATH 34B"
     ]
-   ]
+   ],
+   "name_zh": "专业准备课",
+   "note_zh": "以下完成一组"
   },
   {
    "id": "a",
@@ -71,7 +77,9 @@
    "courses": [
     "ECON 100B"
    ],
-   "note": "40 UD Economics units required"
+   "note": "40 UD Economics units required",
+   "name_zh": "A. 高年级核心",
+   "note_zh": "高年级经济学共需 40 学分"
   },
   {
    "id": "b",
@@ -79,7 +87,8 @@
    "type": "required",
    "courses": [
     "ECON 101"
-   ]
+   ],
+   "name_zh": "B. 高年级核心"
   },
   {
    "id": "c",
@@ -87,7 +96,8 @@
    "type": "required",
    "courses": [
     "ECON 140A"
-   ]
+   ],
+   "name_zh": "C. 高年级核心"
   },
   {
    "id": "d",
@@ -305,7 +315,9 @@
     [
      "ECON 199"
     ]
-   ]
+   ],
+   "name_zh": "D. 高年级选修",
+   "note_zh": "以下完成 6 门：ECON 191AA-ZZ 等高年级经济学选修"
   },
   {
    "id": "e",
@@ -343,7 +355,9 @@
     [
      "ECON 185"
     ]
-   ]
+   ],
+   "name_zh": "E. 高年级选修（另选 1 门）",
+   "note_zh": "以下完成 1 门。E 区所列部分课程要求先修 Econ 3A-B；未修 3A-B 的学生改为从 D 区共选 7 门选修。Economics 199 最多 4 学分计入专业，199RA 不计入。专业课原则上不许 P/NP；替换须经 petition 批准；高年级专业课及全部专业课 UC 平均 ≥ 2.0；双专业最多 8 学分可双计。"
   }
  ]
 }

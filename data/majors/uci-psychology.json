@@ -14,7 +14,8 @@
    "courses": [
     "PSY 21",
     "PSY 22"
-   ]
+   ],
+   "name_zh": "A. 心理学基础（8 学分）"
   },
   {
    "id": "B",
@@ -25,7 +26,8 @@
     "PSY 102C",
     "PSY 103H",
     "PSY 104S"
-   ]
+   ],
+   "name_zh": "B. 四门高年级核心课（16 学分）"
   },
   {
    "id": "C1",
@@ -85,7 +87,9 @@
     "PSY 189S"
    ],
    "count": 3,
-   "note": "Groups: G1 Developmental (PSY 110D-134D, 138H, 152C, 153C, 155C); G2 Health (PSY 118D, 136H-149H, 159C, 160C, 163C, 164C, 167C, 184S); G3 Pre-Clinical (PSY 139H, 141H, 143H, 150C-169C, 173S, 178S); G4 Social/Personality/Environmental (PSY 116D, 121D, 126D, 127D, 170S-189S)"
+   "note": "Groups: G1 Developmental (PSY 110D-134D, 138H, 152C, 153C, 155C); G2 Health (PSY 118D, 136H-149H, 159C, 160C, 163C, 164C, 167C, 184S); G3 Pre-Clinical (PSY 139H, 141H, 143H, 150C-169C, 173S, 178S); G4 Social/Personality/Environmental (PSY 116D, 121D, 126D, 127D, 170S-189S)",
+   "name_zh": "C-1. 从三个不同组各选一门（发展 / 健康 / 临床前 / 社会-人格）",
+   "note_zh": "分组：G1 发展（PSY 110D-134D, 138H, 152C, 153C, 155C）；G2 健康（PSY 118D, 136H-149H, 159C, 160C, 163C, 164C, 167C, 184S）；G3 临床前（PSY 139H, 141H, 143H, 150C-169C, 173S, 178S）；G4 社会/人格/环境（PSY 116D, 121D, 126D, 127D, 170S-189S）"
   },
   {
    "id": "C2",
@@ -164,7 +168,9 @@
     "SOCECOL H190W"
    ],
    "count": 3,
-   "note": "From C-1 specialty areas or PSY 100, PSY 190A-193Z, PSY 196, SOCECOL 190/H190A/H190W"
+   "note": "From C-1 specialty areas or PSY 100, PSY 190A-193Z, PSY 196, SOCECOL 190/H190A/H190W",
+   "name_zh": "C-2. 另选三门高年级课",
+   "note_zh": "来自 C-1 的专业领域，或 PSY 100、PSY 190A-193Z、PSY 196、SOCECOL 190/H190A/H190W"
   }
  ],
  "file": "uci-psychology.json"

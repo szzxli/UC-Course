@@ -17,7 +17,8 @@
     "ECON 20B",
     "MATH 2A",
     "MATH 2B"
-   ]
+   ],
+   "name_zh": "A. 低年级必修"
   },
   {
    "id": "B",
@@ -29,7 +30,8 @@
     "ECON 100C",
     "ECON 122A",
     "ECON 122B"
-   ]
+   ],
+   "name_zh": "B. 高年级核心"
   },
   {
    "id": "C",
@@ -37,7 +39,9 @@
    "type": "elective",
    "courses": [],
    "count": 6,
-   "note": "Open pool: any ECON courses; at most constraint D applies"
+   "note": "Open pool: any ECON courses; at most constraint D applies",
+   "name_zh": "C. 另选 6 门 ECON 课（其中一门可为低年级）",
+   "note_zh": "开放池：任意 ECON 课程；另受 D 项上限约束"
   },
   {
    "id": "D",
@@ -49,7 +53,9 @@
     "ECON 199"
    ],
    "count": 3,
-   "note": "This is a cap, not a requirement to take 3"
+   "note": "This is a cap, not a requirement to take 3",
+   "name_zh": "D. 上限：ECON 190-199 中最多 3 门 4 学分课计入专业",
+   "note_zh": "这是上限规定，不是要求修满 3 门"
   }
  ],
  "file": "uci-economics.json"

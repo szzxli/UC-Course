@@ -150,22 +150,57 @@ function renderDraft() {
 }
 function renderMine() {
   var mine = Sget("myCourses", []);
+  var campus = Sget("campus", "UCI");
   document.getElementById("cnt").textContent = mine.length;
   var box = document.getElementById("myList");
   var U = I18N.t("courses.units");
-  box.innerHTML = mine.length ? mine.map(function (c, i) {
-    return '<div class="course-row"><span><b>' + esc(c.code) + '</b><span class="tag">' + esc(c.u) + ' ' + esc(U) + '</span></span><button class="btn ghost sm" data-i="' + i + '">' + esc(I18N.t("plan.remove")) + '</button></div>';
+  /* 旧校区课程打标（H1 下游兜底）：换校区已统一清理，这里只处理历史存量 */
+  var hasForeign = mine.some(function (c) { return c.campus && c.campus !== campus; });
+  var head = hasForeign
+    ? '<div class="btn-row" style="margin:0 0 8px"><button class="btn ghost sm" id="clearForeignBtn">' +
+      esc(I18N.t("common.clearForeign")) + '</button></div>'
+    : "";
+  box.innerHTML = head + (mine.length ? mine.map(function (c, i) {
+    var ftag = (c.campus && c.campus !== campus)
+      ? '<span class="tag" style="background:#fee2e2;color:#991b1b">' + esc(I18N.t("common.foreignTag")) + " · " + esc(c.campus) + "</span>"
+      : "";
+    return '<div class="course-row"><span><b>' + esc(c.code) + '</b><span class="tag">' + esc(c.u) + ' ' + esc(U) + '</span>' + ftag + '</span><button class="btn ghost sm" data-i="' + i + '">' + esc(I18N.t("plan.remove")) + '</button></div>';
   }).join("") : '<p class="hint">' + esc(I18N.t("plan.empty")) + '</p>' +
     (Sget("major", "")
       ? '<div class="btn-row"><a class="btn" href="major.html">' + esc(I18N.t("plan.goMajor")) + '</a></div>'
-      : '<div class="btn-row"><a class="btn" href="index.html">' + esc(I18N.t("plan.goIndex")) + '</a></div>');
-  box.querySelectorAll("button").forEach(function (b) {
+      : '<div class="btn-row"><a class="btn" href="index.html">' + esc(I18N.t("plan.goIndex")) + '</a></div>'));
+  var cfb = document.getElementById("clearForeignBtn");
+  if (cfb) cfb.addEventListener("click", function () {
+    var m = Sget("myCourses", []).filter(function (c) { return !c.campus || c.campus === campus; });
+    Sset("myCourses", m);
+    var keep = {};
+    m.forEach(function (c) { keep[normCode(c.code)] = true; });
+    var nd = Sget("draft", []).map(function (q) {
+      return q.filter(function (code) { return keep[normCode(code)]; });
+    });
+    Sset("draft", nd);
+    if (DRAFT) { DRAFT = nd; if (m.length) renderDraft(); else { DRAFT = null; document.getElementById("out").innerHTML = ""; } }
+    renderMine();
+    renderTimeline();
+  });
+  box.querySelectorAll("button[data-i]").forEach(function (b) {
     b.addEventListener("click", function () {
       var m = Sget("myCourses", []);
-      m.splice(+b.dataset.i, 1);
+      var removed = m.splice(+b.dataset.i, 1)[0];
       Sset("myCourses", m);
-      Sset("draft", []); DRAFT = null;
-      document.getElementById("out").innerHTML = "";
+      /* 删一门只从草稿摘除这一门（M3），其余手工排课成果保留 */
+      if (removed) {
+        var rk = normCode(removed.code);
+        var nd = Sget("draft", []).map(function (q) {
+          return q.filter(function (code) { return normCode(code) !== rk; });
+        });
+        Sset("draft", nd);
+        if (DRAFT) {
+          DRAFT = nd;
+          if (m.length) renderDraft();
+          else { DRAFT = null; document.getElementById("out").innerHTML = ""; }
+        }
+      }
       renderMine();
       renderTimeline();
     });
@@ -224,6 +259,9 @@ function renderTimeline() {
   else if (pace > maxU || hrs > 60) { v = "tight"; vk = "plan.verdict_tight"; }
   else { v = "feasible"; vk = "plan.verdict_feasible"; }
   var h = '<div class="tverdict ' + v + '">' + esc(I18N.t(vk)) + '</div>';
+  /* 口径声明（H3）：结论只针对已选子集，必须醒目交代，并给学位总量对照 */
+  h += '<div class="warn">' + esc(I18N.t("plan.scopeNote", { n: mine.length })) + '</div>';
+  h += '<div class="tstat">' + esc(I18N.t("plan.coverageLine", { u: Math.round(units), p: Math.min(100, Math.round(units / 180 * 100)) })) + '</div>';
   h += '<div class="tstat">' + esc(I18N.t("plan.statLine", { n: mine.length, u: Math.round(units), q: cp.minQuarters })) + '</div>';
   h += '<div class="tstat">' + esc(I18N.t("plan.paceLine", { y: years, q: q, p: pace.toFixed(1) })) + '</div>';
   h += '<div class="tstat">' + esc(I18N.t("plan.hoursLine", { h: hrs, f: free })) + '</div>';
@@ -237,7 +275,12 @@ I18N.init().then(function () {
   document.getElementById("maxU").innerHTML = [16, 19, 12].map(function (v) {
     return '<option value="' + v + '">' + v + ' ' + esc(U) + '</option>';
   }).join("");
-  document.getElementById("maxU").addEventListener("change", renderTimeline);
+  /* 学分上限持久化：轨迹页自动排课读同一个值（K5 两页统一） */
+  document.getElementById("maxU").value = String(Sget("maxUnits", 16));
+  document.getElementById("maxU").addEventListener("change", function () {
+    Sset("maxUnits", +this.value);
+    renderTimeline();
+  });
   /* 时间线选择器 */
   var TY = document.getElementById("tYears");
   TY.innerHTML = [2, 3, 4].map(function (y) {
@@ -249,8 +292,9 @@ I18N.init().then(function () {
   document.getElementById("genBtn").addEventListener("click", function () {
     var mine = Sget("myCourses", []);
     if (!mine.length) {
-      /* 空清单不死胡同：直接带去该去的地方 */
-      location.href = Sget("major", "") ? "major.html" : "index.html";
+      /* 空清单原地提示（L5）：不再无声跳页，下方空状态自带去向 */
+      alert(I18N.t("plan.genEmpty"));
+      document.getElementById("myList").scrollIntoView({ behavior: "smooth" });
       return;
     }
     var r = scheduleQuarters(mine, +document.getElementById("maxU").value, 12, fmtWarnings());

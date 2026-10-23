@@ -26,19 +26,21 @@
     "notInReq": "Not in your selected major's requirements",
     "noMajorTip": "Select an intended major and this will show which requirement this course satisfies",
     "overlapBadge": "🔗 Double-count",
-    "overlapHint": "Counts for both majors"
+    "overlapHint": "Counts for both majors",
+    "campusLabel": "Campus",
+    "goPlan": "Go to planning →"
   },
   "index": {
-    "campusHint": "v0.2 covers three campuses: UCI, UCSD and UCSB (course data loaded).",
+    "campusHint": "Three campuses live: UCI, UCSD, UCSB (course data loaded). More campuses on the way.",
     "campusTitle": "🏫 Your campus",
-    "footnote": "v0.2: course search + prerequisite scheduling. UCLA/UCB data pipelines in progress.",
+    "footnote": "Course search + prerequisite-chain planning + transfer-credit import. UCLA/UCB data in the pipeline.",
     "go": "Start picking courses →",
     "goalHint": "The same major calls for very different course strategies for grad school vs. employment. Pick one and the planner will tailor its advice.",
     "goalTitle": "🎯 Pick a goal first",
     "grad": "📚 Grad school / PhD",
-    "gradHint": "GPA first + research + graduate-level courses",
+    "gradHint": "GPA first, plus research and graduate-level courses",
     "job": "💼 Internships / Jobs",
-    "jobHint": "Project courses first + keep recruiting season light",
+    "jobHint": "Project courses first, keep recruiting season light for interviews",
     "undecided": "🤔 Not sure yet",
     "undecidedHint": "Plan by degree requirements first; decide by end of sophomore year",
     "majorTitle": "🎓 Intended Major",
@@ -52,7 +54,9 @@
     "resumeCourses": "{n} courses picked",
     "transferTitle": "🎓 I'm a transfer student",
     "transferDesc": "Bringing credits from CC? Import them in one tap and see what's left.",
-    "transferGo": "Import transfer credits →"
+    "transferGo": "Import transfer credits →",
+    "quickPlan": "Go straight to planning →",
+    "quickTraj": "View my trajectory →"
   },
   "nav": {
     "courses": "Courses",
@@ -81,12 +85,12 @@
     "goMajor": "Add required courses from my major →",
     "goIndex": "Choose a major first →",
     "timeline": "🎯 Graduation timeline",
-    "years": "Target",
+    "years": "Target years",
     "yr2": "2 yrs",
     "yr3": "3 yrs",
     "yr4": "4 yrs",
     "leaveQ": "Leave",
-    "qunit": "qtrs",
+    "qunit": "quarters",
     "summer": "+ summer",
     "tEmpty": "Add courses first",
     "verdict_feasible": "✅ Feasible",
@@ -103,12 +107,15 @@
     "prereqViol": "{code}'s prereq {pre} is scheduled after it",
     "copyDraft": "📋 Copy schedule text",
     "copied": "Copied — search by course code in WebReg",
-    "draftNote": "Exports course codes (CCNs are term-specific; look them up on WebReg).",
-    "draftExportHead": "UC SmartPick schedule draft · {campus}"
+    "draftNote": "Exports course codes (CCN is the per-term enrollment number assigned when classes open — look it up on the registrar site).",
+    "draftExportHead": "UC SmartPick schedule draft · {campus}",
+    "scopeNote": "⚠️ This assessment covers only the {n} course(s) you selected. Requirements you haven't added (GE, remaining major courses, etc.) are not included — it is not a verdict for the whole degree.",
+    "coverageLine": "Selected: {u} units / ~180 total for a UC bachelor's degree ≈ {p}%",
+    "genEmpty": "Your list is empty — add some courses first, then generate a plan."
   },
   "sub": {
     "index": "Goal-driven UC course planning: grad school / PhD / internships — different goals, different schedules",
-    "plan": "Prerequisite-aware scheduling · deterministic engine",
+    "plan": "Prerequisite-ordered planning · automatic",
     "traj": "Every choice becomes application material"
   },
   "tips": {
@@ -177,7 +184,12 @@
     "overlapNone": "No overlapping courses between the two majors.",
     "optLabel": "Track {n}",
     "pickThis": "Pick this track",
-    "openPool": "Open elective pool: pick {n}, add from Course Search."
+    "openPool": "Open elective pool: pick {n}, add from Course Search.",
+    "progressCount": "Done/picked {n}/{m}",
+    "addAllNote": "{n} multi-option required item(s) were added using the first option group (Option A). To switch groups, use “Pick this group” in the requirement card.",
+    "campusMismatch": "Your intended major belongs to {fc}, which doesn't match the current campus {campus}. Please go back to the home page and re-select campus and major.",
+    "importBannerN": "🎓 Imported {n} completed course(s) from transfer credits — the progress below is updated.",
+    "importBanner0": "🎓 Transfer import finished: the selected courses were already imported, nothing new was added."
   },
   "traj": {
     "empty": "Add courses from the Major tab first",
@@ -191,7 +203,11 @@
     "tagResearch": "📝 Research experience",
     "tagGradLevel": "🎓 Graduate-level",
     "tagMethod": "📊 Methods course, PhD signal",
-    "tagProject": "💼 Project experience"
+    "tagProject": "💼 Project experience",
+    "draftNote": "Shown from your planning-page draft, including your manual adjustments.",
+    "autoNote": "No draft yet — auto-arranged by prerequisite order (cap {maxu} units per quarter, same as the planning page). Visit the planning page to adjust by hand.",
+    "notInDraft": "⚠️ These courses are in your list but not placed in the draft yet: {list}. Regenerate on the planning page or place them in the draft box.",
+    "notPlaced": "⚠️ {n} course(s) could not fit within 12 quarters and are not shown: {list}. Raise the unit cap or extend the timeline on the planning page."
   },
   "chat": {
     "title": "💬 Help",
@@ -215,5 +231,10 @@
     "backTitle": "Not transferred yet?",
     "backDesc": "Plan your CC courses and transfer path in TransferOS-China first, then come back to import.",
     "backGo": "Go to TransferOS-China →"
+  },
+  "common": {
+    "campusSwitchMsg": "Switching to {campus} clears your intended majors, course list, completed marks and plan draft for the current campus (courses can't be mixed across campuses). Continue?",
+    "foreignTag": "other campus",
+    "clearForeign": "Remove other-campus courses"
   }
 }

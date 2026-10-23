@@ -32,7 +32,7 @@
 </div>
 <div class="selbar" id="importBar" hidden>
   <span id="importCnt"></span>
-  <button class="btn sm" id="importBtn">导入</button>
+  <button class="btn sm" id="importBtn" data-i18n="transfer.importGo">导入为已修 →</button>
 </div>
 <nav class="tabbar">
   <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
@@ -103,11 +103,22 @@ I18N.init().then(function () {
   I18N.initSwitcher("langSel");
   document.getElementById("campusSel").value = campus();
   document.getElementById("campusSel").addEventListener("change", function () {
-    Sset("campus", this.value); loadMap();
+    var nv = this.value;
+    if (nv !== campus()) {
+      /* 与首页同一套换校区规则（M1）：清意向专业等校区绑定状态，不再错位拼接 */
+      if (!switchCampus(nv, I18N.t("common.campusSwitchMsg", { campus: nv }))) {
+        this.value = campus();
+        return;
+      }
+      SEL = {};
+      updateBar();
+    }
+    loadMap();
   });
   document.getElementById("ccSel").addEventListener("change", renderList);
   document.getElementById("q").addEventListener("input", renderList);
   document.getElementById("importBtn").addEventListener("click", function () {
+    if (!Object.keys(SEL).length) return;
     var have = Sget("have", {}), n = 0;
     Object.keys(SEL).forEach(function (k) {
       var uc = k.split("|")[1], nk = normCode(uc);
@@ -115,6 +126,8 @@ I18N.init().then(function () {
     });
     Sset("have", have);
     Sset("transferCC", document.getElementById("ccSel").value);
+    /* 导入结果不在本页丢弃（M2）：写一次性标记，专业页顶部横幅报数 */
+    Sset("justImported", n);
     location.href = "major.html";
   });
   loadMap();

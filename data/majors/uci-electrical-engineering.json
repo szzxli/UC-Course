@@ -38,7 +38,9 @@
     [
      "CHEM 1A"
     ]
-   ]
+   ],
+   "name_zh": "数学与基础科学",
+   "note_zh": "ENGR 1A 或 CHEM 1A（二选一）"
   },
   {
    "id": "eng-topics",
@@ -65,7 +67,8 @@
     "EECS 70A",
     "EECS 70B",
     "EECS 70LB"
-   ]
+   ],
+   "name_zh": "工程专业课（每组都要完成）"
   },
   {
    "id": "tech-electives",
@@ -73,7 +76,9 @@
    "type": "elective",
    "courses": [],
    "count": 3,
-   "note": "Any EECS course not required for the major; at least one outside student's specialization; 4 units of EECS 199 = 1 elective"
+   "note": "Any EECS course not required for the major; at least one outside student's specialization; 4 units of EECS 199 = 1 elective",
+   "name_zh": "技术选修（至少 3 门、≥10 学分）",
+   "note_zh": "任意未被列为专业必修的 EECS 课；至少一门在本方向之外；EECS 199 的 4 学分 = 1 门选修"
   },
   {
    "id": "prof-topics",
@@ -81,7 +86,8 @@
    "type": "required",
    "courses": [
     "ENGR 190W"
-   ]
+   ],
+   "name_zh": "工程职业素养课"
   },
   {
    "id": "spec-electronic-circuit-design",
@@ -98,7 +104,9 @@
     "EECS 188"
    ],
    "count": 6,
-   "note": "Requires: EECS 170D, EECS 170E; select 4 from pool"
+   "note": "Requires: EECS 170D, EECS 170E; select 4 from pool",
+   "name_zh": "方向：电子电路设计（先修 + 选 4 门）",
+   "note_zh": "先修：EECS 170D、EECS 170E；再从池中选 4 门"
   },
   {
    "id": "spec-semiconductors-and-optoelectronics",
@@ -115,7 +123,9 @@
     "PHYSICS 52A"
    ],
    "count": 6,
-   "note": "Requires: EECS 174, EECS 188, PHYSICS 52A; select 3 from pool"
+   "note": "Requires: EECS 174, EECS 188, PHYSICS 52A; select 3 from pool",
+   "name_zh": "方向：半导体与光电子（先修 + 选 3 门）",
+   "note_zh": "先修：EECS 174、EECS 188、PHYSICS 52A；再选 3 门"
   },
   {
    "id": "spec-rf-antennas-and-microwaves",
@@ -131,7 +141,9 @@
     "PHYSICS 52A"
    ],
    "count": 6,
-   "note": "Requires: EECS 144, EECS 180B, EECS 182; select 3 from pool"
+   "note": "Requires: EECS 144, EECS 180B, EECS 182; select 3 from pool",
+   "name_zh": "方向：射频、天线与微波（先修 + 选 3 门）",
+   "note_zh": "先修：EECS 144、EECS 180B、EECS 182；再选 3 门"
   },
   {
    "id": "spec-digital-signal-processing",
@@ -148,7 +160,9 @@
     "EECS 22"
    ],
    "count": 6,
-   "note": "Requires: EECS 22, EECS 152A, EECS 152B; select 3 from pool"
+   "note": "Requires: EECS 22, EECS 152A, EECS 152B; select 3 from pool",
+   "name_zh": "方向：数字信号处理（先修 + 选 3 门）",
+   "note_zh": "先修：EECS 22、EECS 152A、EECS 152B；再选 3 门"
   },
   {
    "id": "spec-communications",
@@ -167,7 +181,9 @@
     "EECS 22"
    ],
    "count": 6,
-   "note": "Requires: EECS 141A, EECS 141B; select 4 from pool"
+   "note": "Requires: EECS 141A, EECS 141B; select 4 from pool",
+   "name_zh": "方向：通信（先修 + 选 4 门）",
+   "note_zh": "先修：EECS 141A、EECS 141B；再选 4 门"
   }
  ],
  "file": "uci-electrical-engineering.json"

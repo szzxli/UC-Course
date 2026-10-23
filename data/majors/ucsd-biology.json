@@ -17,7 +17,8 @@
     "BILD 3",
     "BILD 4",
     "BILD 5"
-   ]
+   ],
+   "name_zh": "低年级生物"
   },
   {
    "id": "lower-chem",
@@ -28,7 +29,8 @@
     "CHEM 6B",
     "CHEM 6C",
     "CHEM 7L"
-   ]
+   ],
+   "name_zh": "普通化学"
   },
   {
    "id": "lower-ochem",
@@ -37,7 +39,8 @@
    "courses": [
     "CHEM 40A",
     "CHEM 40B"
-   ]
+   ],
+   "name_zh": "有机化学"
   },
   {
    "id": "lower-math",
@@ -62,7 +65,9 @@
      "MATH 20A",
      "MATH 20B"
     ]
-   ]
+   ],
+   "name_zh": "数学",
+   "note_zh": "MATH 10A-B + 11，或 MATH 20A-B + 11"
   },
   {
    "id": "lower-phys",
@@ -110,7 +115,9 @@
      "PHYS 2C",
      "PHYS 2DL"
     ]
-   ]
+   ],
+   "name_zh": "物理",
+   "note_zh": "PHYS 1A/1AL+1B/1BL+1C/1CL，或 PHYS 2A-B-C +（2BL 或 2CL 或 2DL）"
   },
   {
    "id": "upper-biochem",
@@ -135,7 +142,8 @@
     [
      "CHEM 114B"
     ]
-   ]
+   ],
+   "name_zh": "生物化学（选一门）"
   },
   {
    "id": "upper-gen",
@@ -143,7 +151,8 @@
    "type": "required",
    "courses": [
     "BICD 100"
-   ]
+   ],
+   "name_zh": "遗传学"
   },
   {
    "id": "upper-bieb",
@@ -180,7 +189,9 @@
     "BIEB 194"
    ],
    "count": 1,
-   "note": "BIEB 102 or BIEB 150 recommended"
+   "note": "BIEB 102 or BIEB 150 recommended",
+   "name_zh": "一门 4 学分 BIEB 课",
+   "note_zh": "推荐 BIEB 102 或 BIEB 150"
   },
   {
    "id": "upper-molbio",
@@ -188,7 +199,8 @@
    "type": "required",
    "courses": [
     "BIMM 100"
-   ]
+   ],
+   "name_zh": "分子生物学"
   },
   {
    "id": "upper-physio",
@@ -196,7 +208,8 @@
    "type": "required",
    "courses": [
     "BIPN 100"
-   ]
+   ],
+   "name_zh": "人体生理学 I"
   },
   {
    "id": "upper-lab",
@@ -208,7 +221,9 @@
    "options": [
     [],
     []
-   ]
+   ],
+   "name_zh": "高年级实验（方案 A：一门 6 学分实验；方案 B：两门 4+ 学分实验）",
+   "note_zh": "方案 A：一门 6 学分高年级实验；方案 B：生物科学学院两门高年级实验课（每门 4+ 学分）；可计一门 BISP 196/197/199（4+ 学分）"
   },
   {
    "id": "upper-elect",
@@ -216,7 +231,9 @@
    "type": "elective",
    "courses": [],
    "count": 5,
-   "note": "UD biology courses through School of Biological Sciences; outside courses need prior approval+petition"
+   "note": "UD biology courses through School of Biological Sciences; outside courses need prior approval+petition",
+   "name_zh": "专业选修（20-22 学分）",
+   "note_zh": "须为生物科学学院的高年级生物课；院外课程须事先批准并提交 petition"
   }
  ],
  "notes": "Extracted for General Biology Major (closest to 'Biology B.S.'); UCSD also offers EBE, Human Bio, Microbiology, Mol/Cell, Neurobiology majors with different UD requirements.",

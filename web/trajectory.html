@@ -102,20 +102,57 @@ I18N.init().then(function () {
       goalTags(code).forEach(function (g) { lines.push(g); });
       return lines;
     }
-    var maxU = 19;
-    var r = scheduleQuarters(mine, maxU, 12, {
-      missingPrereq: function () { return ""; },
-      noRoom: function () { return ""; }
-    });
+    /* 数据来源（K5）：优先用排课页的课表草稿（含手工调整），不再自行重排；
+       没有草稿时才自动排，且用与排课页同一个学分上限、警告如实呈现、
+       排不进的课明示——绝不静默消失 */
+    var byCode = {};
+    mine.forEach(function (m) { byCode[normCode(m.code)] = m; });
+    var savedDraft = Sget("draft", null);
+    var hasDraft = !!(savedDraft && savedDraft.some(function (q) { return q && q.length; }));
+    var quarters = [], warnList = [], notPlaced = [], notInDraft = [];
+    if (hasDraft) {
+      var inDraft = {};
+      savedDraft.forEach(function (q) {
+        var cs = (q || []).filter(function (c) { return byCode[normCode(c)]; });
+        cs.forEach(function (c) { inDraft[normCode(c)] = true; });
+        quarters.push({ courses: cs, units: cs.reduce(function (s, c) { return s + parseUnits(byCode[normCode(c)].u); }, 0) });
+      });
+      mine.forEach(function (m) { if (!inDraft[normCode(m.code)]) notInDraft.push(m.code); });
+    } else {
+      var maxU = Sget("maxUnits", 16);
+      var r = scheduleQuarters(mine, maxU, 12, {
+        missingPrereq: function (code, list) {
+          return I18N.t("warn.missingPrereq", { code: code, list: list.join(I18N.t("warn.listSep")) });
+        },
+        noRoom: function (code, n) {
+          return I18N.t("warn.noRoom", { code: code, n: n });
+        }
+      });
+      quarters = r.quarters;
+      warnList = r.warnings;
+      var placedSet = {};
+      quarters.forEach(function (q) { q.courses.forEach(function (c) { placedSet[normCode(c)] = true; }); });
+      mine.forEach(function (m) { if (!placedSet[normCode(m.code)]) notPlaced.push(m.code); });
+    }
     var terms = [I18N.t("plan.fall"), I18N.t("plan.winter"), I18N.t("plan.spring")];
     var U = I18N.t("courses.units");
+    var srcNote = hasDraft ? I18N.t("traj.draftNote") : I18N.t("traj.autoNote", { maxu: Sget("maxUnits", 16) });
     var h = '<div class="card"><div class="section-title">' + esc(I18N.t("traj.myTraj")) + '</div>' +
       '<p class="hint">' + esc(I18N.t("tips.names." + (I18N.t("tips." + goal) ? goal : "undecided"))) + ' · ' +
-      esc((md1 ? md1.major : "") + (md2 ? " + " + md2.major : "")) + '</p></div>';
-    r.quarters.forEach(function (q, i) {
+      esc((md1 ? md1.major : "") + (md2 ? " + " + md2.major : "")) + '</p>' +
+      '<p class="hint">' + esc(srcNote) + '</p></div>';
+    warnList.forEach(function (w) { h += '<div class="warn">⚠️ ' + esc(w) + '</div>'; });
+    if (notPlaced.length) {
+      h += '<div class="warn">' + esc(I18N.t("traj.notPlaced", { n: notPlaced.length, list: notPlaced.join(I18N.t("warn.listSep")) })) + '</div>';
+    }
+    if (notInDraft.length) {
+      h += '<div class="warn">' + esc(I18N.t("traj.notInDraft", { list: notInDraft.join(I18N.t("warn.listSep")) })) + '</div>';
+    }
+    quarters.forEach(function (q, i) {
       if (!q.courses.length) return;
       h += '<div class="card"><div class="section-title">' +
-        esc(I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3]) + '</div>' +
+        esc(I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3]) +
+        ' <span class="tag">' + q.units + ' ' + esc(U) + '</span></div>' +
         q.courses.map(function (c) {
           var wl = whyLines(c);
           var t = (tmap[normCode(c)] || {}).t || "";
@@ -132,8 +169,15 @@ I18N.init().then(function () {
     window.__trajMD = function () {
       var md = "# " + I18N.t("traj.myTraj") + "\n" +
         (md1 ? md1.major + (md1.degree ? " (" + md1.degree + ")" : "") : "") +
-        (md2 ? " + " + md2.major : "") + " · " + campus + "\n\n";
-      r.quarters.forEach(function (q, i) {
+        (md2 ? " + " + md2.major : "") + " · " + campus + "\n\n" +
+        srcNote + "\n\n";
+      if (notPlaced.length) {
+        md += I18N.t("traj.notPlaced", { n: notPlaced.length, list: notPlaced.join(I18N.t("warn.listSep")) }) + "\n\n";
+      }
+      if (notInDraft.length) {
+        md += I18N.t("traj.notInDraft", { list: notInDraft.join(I18N.t("warn.listSep")) }) + "\n\n";
+      }
+      quarters.forEach(function (q, i) {
         if (!q.courses.length) return;
         md += "## " + I18N.t("plan.year", { y: Math.floor(i / 3) + 1 }) + " " + terms[i % 3] + "\n";
         q.courses.forEach(function (c) {

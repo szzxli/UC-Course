@@ -26,19 +26,21 @@
     "notInReq": "这门课不在所选专业的毕业要求里",
     "noMajorTip": "选择意向专业后，这里会显示该课满足哪条毕业要求",
     "overlapBadge": "🔗 双重学分",
-    "overlapHint": "同时满足两个专业，一门顶两门"
+    "overlapHint": "同时满足两个专业，一门顶两门",
+    "campusLabel": "校区",
+    "goPlan": "去排课 →"
   },
   "index": {
-    "campusHint": "v0.2 先上三校：UCI、UCSD、UCSB（课程数据已入库）。",
+    "campusHint": "已上线三校：UCI、UCSD、UCSB（课程数据已入库），更多校区陆续接入。",
     "campusTitle": "🏫 你的校区",
-    "footnote": "v0.2：课程搜索 + 先修链排课。UCLA/UCB 数据管线进行中。",
+    "footnote": "课程搜索 + 先修链排课 + 转学分导入。UCLA/UCB 数据管线进行中。",
     "go": "开始选课 →",
     "goalHint": "同一专业，读研和就业的选课策略完全不同。选一个，排课时会给你不同的建议。",
     "goalTitle": "🎯 先定目标，再选课",
     "grad": "📚 读研 / 直博",
-    "gradHint": "GPA 优先 + research + graduate-level 课",
+    "gradHint": "成绩（GPA）优先，多修科研课和高阶课",
     "job": "💼 实习 / 就业",
-    "jobHint": "项目课优先 + recruiting 季留白",
+    "jobHint": "项目课优先，给招聘季留出面试时间",
     "undecided": "🤔 还没定",
     "undecidedHint": "先按毕业要求排，大二前决定",
     "majorTitle": "🎓 意向专业",
@@ -52,7 +54,9 @@
     "resumeCourses": "已选 {n} 门",
     "transferTitle": "🎓 我是转学生",
     "transferDesc": "从 CC 带学分入学？一键导入转学分，看看还差什么课。",
-    "transferGo": "导入转学分 →"
+    "transferGo": "导入转学分 →",
+    "quickPlan": "直接去排课 →",
+    "quickTraj": "看我的轨迹 →"
   },
   "nav": {
     "courses": "查课",
@@ -67,7 +71,7 @@
     "empty": "清单是空的，先加课再排",
     "fall": "Fall",
     "gen": "⚡ 生成排课",
-    "maxU": "每 quarter 学分上限",
+    "maxU": "每学季（quarter）学分上限",
     "myTitle": "📋 我的选课",
     "noCourse": "先添加课程",
     "remove": "移除",
@@ -81,12 +85,12 @@
     "goMajor": "去专业页一键加入必修课 →",
     "goIndex": "先去首页选择专业 →",
     "timeline": "🎯 毕业时间线",
-    "years": "目标",
+    "years": "目标毕业年限",
     "yr2": "2年",
     "yr3": "3年",
     "yr4": "4年",
     "leaveQ": "休学",
-    "qunit": "个quarter",
+    "qunit": "个学季（quarter）",
     "summer": "含暑期",
     "tEmpty": "清单空，先加课",
     "verdict_feasible": "✅ 可行",
@@ -103,12 +107,15 @@
     "prereqViol": "{code} 的先修 {pre} 被排在了后面",
     "copyDraft": "📋 复制课表文本",
     "copied": "已复制，去 WebReg 按课程代码搜索抢课",
-    "draftNote": "导出的是课程代码（CCN 是每学期开课才有的，学校官网查）。",
-    "draftExportHead": "UC SmartPick 课表草稿 · {campus}"
+    "draftNote": "导出的是课程代码（CCN 是每学期选课时才分配的编号，在学校官网查）。",
+    "draftExportHead": "UC SmartPick 课表草稿 · {campus}",
+    "scopeNote": "⚠️ 本评估只针对已选的 {n} 门课，未包含尚未选入的毕业要求（通识、专业其余课程等），不能当作整个学位的毕业结论。",
+    "coverageLine": "已选 {u} 学分 / 学位总学分约 180（UC 学士学位通行总量）≈ {p}%",
+    "genEmpty": "清单是空的，先加几门课再回来生成排课。"
   },
   "sub": {
     "index": "目标驱动的 UC 选课：读研 / 直博 / 实习，不同目标不同排法",
-    "plan": "先修链拓扑排课 · 确定性引擎",
+    "plan": "按先修顺序排课 · 自动计算",
     "traj": "每一步选择，都是申请材料的素材"
   },
   "tips": {
@@ -177,7 +184,12 @@
     "overlapNone": "两个专业没有重叠课程。",
     "optLabel": "方案{n}",
     "pickThis": "选这组",
-    "openPool": "开放选修池：需选 {n} 门，在查课页自选加入。"
+    "openPool": "开放选修池：需选 {n} 门，在查课页自选加入。",
+    "progressCount": "已修/已选 {n}/{m}",
+    "addAllNote": "其中 {n} 条多方案必修要求已按第一组（方案A）加入；想换组，点要求卡里的「选这组」即可。",
+    "campusMismatch": "当前意向专业属于 {fc}，与当前校区 {campus} 不一致，数据无法对应。请回首页重新选择校区与专业。",
+    "importBannerN": "🎓 已从转学分导入 {n} 门「已修」课，下方进度已更新。",
+    "importBanner0": "🎓 转学分导入完成：所选课程之前已导入过，没有新增。"
   },
   "traj": {
     "empty": "先去专业页把课加入清单，再回来生成轨迹",
@@ -191,7 +203,11 @@
     "tagResearch": "📝 科研经历素材",
     "tagGradLevel": "🎓 研究生级课程",
     "tagMethod": "📊 方法课，读博信号",
-    "tagProject": "💼 项目经历素材"
+    "tagProject": "💼 项目经历素材",
+    "draftNote": "按你在排课页的课表草稿呈现（含手工调整的顺序）。",
+    "autoNote": "还没有课表草稿，以下按先修顺序自动排课（每学季上限 {maxu} 学分，与排课页一致）。去排课页可手工调整顺序。",
+    "notInDraft": "⚠️ 以下课程在选课清单里，但还没排进草稿：{list}。去排课页重新生成排课，或在草稿箱里手工排入。",
+    "notPlaced": "⚠️ 以下 {n} 门课在 12 个学季内排不下，未列入轨迹：{list}。去排课页提高学分上限或延长目标年限。"
   },
   "chat": {
     "title": "💬 智能客服",
@@ -215,5 +231,10 @@
     "backTitle": "还没转学？",
     "backDesc": "先去 TransferOS-China 规划 CC 选课与转学路径，录取后再回来一键导入。",
     "backGo": "去 TransferOS-China →"
+  },
+  "common": {
+    "campusSwitchMsg": "切换到 {campus} 后，当前校区的意向专业、选课清单、已修标记和排课草稿都会清空（不同校区的课程不能混用）。确定切换吗？",
+    "foreignTag": "其他校区",
+    "clearForeign": "清除旧校区课程"
   }
 }

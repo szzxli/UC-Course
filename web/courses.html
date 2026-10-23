@@ -15,6 +15,12 @@
 </div></div>
 <div class="page">
   <div class="card">
+    <div class="field"><label for="campusSel" data-i18n="courses.campusLabel">校区</label>
+      <select id="campusSel">
+        <option value="UCI">UC Irvine</option>
+        <option value="UCSD">UC San Diego</option>
+        <option value="UCSB">UC Santa Barbara</option>
+      </select></div>
     <div class="field"><label for="q" data-i18n="courses.searchLabel">搜索课程（代码或标题）</label>
       <input type="text" id="q" data-i18n-ph="courses.searchPh" placeholder="如 CSE 12 / data structures" autocomplete="off"></div>
     <div id="results"></div>
@@ -22,7 +28,7 @@
   <div class="card" id="detailCard" hidden>
     <div class="section-title" id="dTitle"></div>
     <div id="dBody"></div>
-    <div class="btn-row"><button class="btn sm" id="addBtn" data-i18n="courses.add">＋ 加入我的选课</button></div>
+    <div class="btn-row"><button class="btn sm" id="addBtn" data-i18n="courses.add">＋ 加入我的选课</button><a class="btn ghost sm" id="goPlanBtn" href="plan.html" data-i18n="courses.goPlan" hidden>去排课 →</a></div>
   </div>
 </div>
 <nav class="tabbar">
@@ -81,8 +87,9 @@ function showDetail(c) {
     if (REQIDX) {
       var reqs = REQIDX[nk] || [];
       if (reqs.length) {
+        var zh = I18N.getLocale() === "zh-CN" || I18N.getLocale() === "zh-TW";
         h += '<p style="font-size:14px;margin-top:8px"><b>' + esc(I18N.t("courses.satisfiesReq")) + '</b>' +
-          esc(reqs.map(function (r) { return r.name; }).join(I18N.t("warn.listSep"))) + '</p>';
+          esc(reqs.map(function (r) { return (zh && r.name_zh) ? r.name_zh : r.name; }).join(I18N.t("warn.listSep"))) + '</p>';
       } else if (MAJORNAME) {
         h += '<p class="hint">' + esc(I18N.t("courses.notInReq")) + '</p>';
       }
@@ -105,6 +112,18 @@ I18N.init().then(function () {
   navActive("courses");
   CAMPUS = Sget("campus", "UCI");
   setCampusSub();
+  /* 页内换校区（L3）：与首页同一套规则，切换后重载本页数据 */
+  var csel = document.getElementById("campusSel");
+  csel.value = CAMPUS;
+  csel.addEventListener("change", function () {
+    var nv = this.value;
+    if (nv === CAMPUS) return;
+    if (!switchCampus(nv, I18N.t("common.campusSwitchMsg", { campus: nv }))) {
+      this.value = CAMPUS;
+      return;
+    }
+    location.reload();
+  });
   document.getElementById("addBtn").addEventListener("click", function () {
     if (!cur) return;
     var mine = Sget("myCourses", []);
@@ -113,6 +132,8 @@ I18N.init().then(function () {
       Sset("myCourses", mine);
     }
     alert(I18N.t("courses.added", { code: cur.code, n: mine.length }));
+    /* 加完给下一步去向（L3），不用再靠用户自己想起 tabbar */
+    document.getElementById("goPlanBtn").hidden = false;
   });
   fetch("data/search/" + CAMPUS.toLowerCase() + "/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
     return Promise.all(m.files.map(function (f) {

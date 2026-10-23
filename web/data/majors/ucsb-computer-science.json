@@ -19,7 +19,9 @@
     "CMPSC 42",
     "CMPSC 64"
    ],
-   "note": "To satisfy major requirements, courses taken inside or outside the department of Computer Science, must be taken for a letter grade."
+   "note": "To satisfy major requirements, courses taken inside or outside the department of Computer Science, must be taken for a letter grade.",
+   "name_zh": "计算机科学课",
+   "note_zh": "计入专业要求的课程（系内或系外）必须以字母成绩（letter grade）修读"
   },
   {
    "id": "mathematics-courses",
@@ -31,7 +33,8 @@
     "MATH 4A",
     "MATH 4B",
     "MATH 6A"
-   ]
+   ],
+   "name_zh": "数学课"
   },
   {
    "id": "statistics-and-applied-probability-course",
@@ -39,7 +42,8 @@
    "type": "prereq",
    "courses": [
     "PSTAT 120A"
-   ]
+   ],
+   "name_zh": "统计与应用概率课"
   },
   {
    "id": "required-courses",
@@ -49,7 +53,8 @@
     "CMPSC 130A",
     "CMPSC 130B",
     "ENGR 101"
-   ]
+   ],
+   "name_zh": "必修课"
   },
   {
    "id": "major-field-electives",
@@ -279,21 +284,27 @@
     [
      "PSTAT 160B"
     ]
-   ]
+   ],
+   "name_zh": "专业选修",
+   "note_zh": "从下列清单选 14 门（至少 7 门须为 CMPSC）；CMPSC 192 与 196 合计最多计 4 学分，且仅限 GPA ≥ 3.0 的学生；CMPSC 196B 另有资格要求，详询系顾问。"
   },
   {
    "id": "science-electives-list-a",
    "name": "Science Electives - List A",
    "type": "elective",
    "courses": [],
-   "note": "Minimum 8 units. See the Computer Science Department for a list of approved courses."
+   "note": "Minimum 8 units. See the Computer Science Department for a list of approved courses.",
+   "name_zh": "科学选修 — 清单 A",
+   "note_zh": "至少 8 学分；批准课程清单见计算机科学系"
   },
   {
    "id": "science-electives-list-b",
    "name": "Science Electives - List B",
    "type": "elective",
    "courses": [],
-   "note": "Minimum 12 units. See the Computer Science Department for a list of approved courses."
+   "note": "Minimum 12 units. See the Computer Science Department for a list of approved courses.",
+   "name_zh": "科学选修 — 清单 B",
+   "note_zh": "至少 12 学分；批准课程清单见计算机科学系"
   }
  ]
 }

@@ -27,7 +27,9 @@
      "MATH 3A",
      "MATH 3B"
     ]
-   ]
+   ],
+   "name_zh": "微积分",
+   "note_zh": "转入完整专业门槛：预备数学课 UC GPA ≥ 2.5，且每门成绩 ≥ C；准备课不计入预备 GPA，但计入专业总 GPA。进入预备（pre-major）不保证能转入完整专业；完成准备期间学生身份为 pre-major。"
   },
   {
    "id": "linear-algebra-and-differential-equations",
@@ -37,7 +39,9 @@
     "MATH 4A",
     "MATH 4B"
    ],
-   "note": "Either Math 4A, 4B, 6A, or 6B must be completed with a grade of “B” or better in order to take Math 8."
+   "note": "Either Math 4A, 4B, 6A, or 6B must be completed with a grade of “B” or better in order to take Math 8.",
+   "name_zh": "线性代数与微分方程",
+   "note_zh": "Math 4A、4B、6A、6B 中任一门须达到 B 或以上，才能修 Math 8"
   },
   {
    "id": "vector-calculus",
@@ -47,7 +51,9 @@
     "MATH 6A",
     "MATH 6B"
    ],
-   "note": "Either Math 4A, 4B, 6A, or 6B must be completed with a grade of “B” or better in order to take Math 8."
+   "note": "Either Math 4A, 4B, 6A, or 6B must be completed with a grade of “B” or better in order to take Math 8.",
+   "name_zh": "向量微积分",
+   "note_zh": "Math 4A、4B、6A、6B 中任一门须达到 B 或以上，才能修 Math 8"
   },
   {
    "id": "higher-mathematics",
@@ -55,7 +61,8 @@
    "type": "prereq",
    "courses": [
     "MATH 8"
-   ]
+   ],
+   "name_zh": "高等数学"
   },
   {
    "id": "computer-programming",
@@ -81,7 +88,9 @@
     [
      "ENGR 3"
     ]
-   ]
+   ],
+   "name_zh": "计算机编程",
+   "note_zh": "以下完成 1 门"
   },
   {
    "id": "physics",
@@ -107,7 +116,9 @@
     [
      "PHYS 21"
     ]
-   ]
+   ],
+   "name_zh": "物理",
+   "note_zh": "以下完成 1 门"
   },
   {
    "id": "upper-division-major",
@@ -123,7 +134,9 @@
     "MATH 118B",
     "MATH 122A"
    ],
-   "note": "With an advisor’s approval, 4 of the 52 UD units may be non-mathematics courses taken as part of a coherent mathematics program. Note: The following courses will NOT apply to the major: Math 100A-B, 193, 195A-B; PSTAT 109, 188, 190, 193."
+   "note": "With an advisor’s approval, 4 of the 52 UD units may be non-mathematics courses taken as part of a coherent mathematics program. Note: The following courses will NOT apply to the major: Math 100A-B, 193, 195A-B; PSTAT 109, 188, 190, 193.",
+   "name_zh": "高年级专业课",
+   "note_zh": "经导师批准，52 个高年级学分中最多 4 学分可为连贯数学项目内的非数学课。以下课程不计入专业：Math 100A-B、193、195A-B；PSTAT 109、188、190、193。"
   },
   {
    "id": "upper-division-major-2",
@@ -141,7 +154,9 @@
     [
      "MATH 118C"
     ]
-   ]
+   ],
+   "name_zh": "高年级专业课",
+   "note_zh": "以下完成一组"
   },
   {
    "id": "upper-division-major-3",
@@ -159,14 +174,18 @@
     [
      "MATH 147A"
     ]
-   ]
+   ],
+   "name_zh": "高年级专业课",
+   "note_zh": "以下完成一组"
   },
   {
    "id": "upper-division-electives",
    "name": "Upper-Division Electives",
    "type": "elective",
    "courses": [],
-   "note": "Minimum 12 units. Course list is defined as a catalog course set; see the official program page for the courses in this area. MAJOR REGULATIONS PREREQUISITES Check the General Catalog for the prerequisites to all listed courses. P/NP GRADING OPTION Not allowed for major courses (prep or UD major), including courses applied to the major from other departments. SUBSTITUTIONS In the major requirements permissible only by petition to the department chair and dean. G.P.A REQUIREMENTS At least 2.0 overall UC average in all upper-division major courses and all courses (Prep and UD) for the major. DOUBLE MAJORS With the approval of each department chairperson, up to a total of 8 units may be applied simultaneously to both UD majors."
+   "note": "Minimum 12 units. Course list is defined as a catalog course set; see the official program page for the courses in this area. MAJOR REGULATIONS PREREQUISITES Check the General Catalog for the prerequisites to all listed courses. P/NP GRADING OPTION Not allowed for major courses (prep or UD major), including courses applied to the major from other departments. SUBSTITUTIONS In the major requirements permissible only by petition to the department chair and dean. G.P.A REQUIREMENTS At least 2.0 overall UC average in all upper-division major courses and all courses (Prep and UD) for the major. DOUBLE MAJORS With the approval of each department chairperson, up to a total of 8 units may be applied simultaneously to both UD majors.",
+   "name_zh": "高年级选修",
+   "note_zh": "至少 12 学分；课程池以官方项目页为准。专业课原则上不许 P/NP；替换须经 petition 批准；高年级专业课及全部专业课 UC 平均 ≥ 2.0；双专业最多 8 学分可双计。"
   }
  ]
 }
