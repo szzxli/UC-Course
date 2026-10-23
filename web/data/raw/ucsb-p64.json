@@ -1,0 +1,337 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 194",
+  "title": "Teaching, Mentoring, or Research in K-12 STEM Education",
+  "units": "24",
+  "description": "This course allows students to earn 1 unit per 32-40 hours of work in a given quarter with a K-12 science outreach program. Students will do one or more of the following activities with the program: mentor K-12 students, help with program operations, or help with research on the program.",
+  "prerequisites_raw": "Consent of Instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 196",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special topics and courses as a means of meeting special curriculum needs.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 198",
+  "title": "Research in Chemical Education",
+  "units": "0",
+  "description": "Coursework shall consist of research in chemical education supervised by a faculty member. This course is not intended for internship credit.",
+  "prerequisites_raw": "Upper-division standing in a physical science, life science, or engineering major.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Coursework shall consist of academic research supervised by a faculty member. This course is not intended for internship credit.",
+  "prerequisites_raw": "Upper-division standing in the major; completion of two upper division courses in chemistry.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 203",
+  "title": "Combinatorial Methods in Chemistry and Chemical Engineering",
+  "units": "3",
+  "description": "Foundation and methodologies of chemical, biological, and materials research and discovery using automated, high-speed synthesis and screening.Emphasis on the chemical, biochemical, physical, and mathematical fundamentals necessary for experimental design, synthesis, high-throughput screening, and analysis of combinatorial libraries.",
+  "prerequisites_raw": "Prior coursework in inorganic and organic chemistry; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 204",
+  "title": "Advanced Science and Engineering of Energy Conversion",
+  "units": "3",
+  "description": "The course provides a framework for understanding the energy supply issues facing society with a focus on the science, engineering, and economic principles of the major alternatives. Emphasis will be on the physical and chemical fundamentals of energy conversion technologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 214A",
+  "title": "Electrochemistry",
+  "units": "3",
+  "description": "Theory and applications of electrochemistry. Thermodynamics and kinetics. Discussion of practical technologies, including batteries, fuel cells, electrolysis, electroplating, biosensors and/or other selected topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 217A",
+  "title": "Statistical Mechanics",
+  "units": "3",
+  "description": "Fundamentals of statistical thermodynamics, partition functions for ideal gases and crystals, quantum statistics, calculations of thermodynamic properties.",
+  "prerequisites_raw": "Consent of graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 217B",
+  "title": "Statistical Mechanics",
+  "units": "3",
+  "description": "Fundamentals of non-equilibrium statistical mechanics, kinetic theory of gases, Boltzmann equation, correlation functions, linear response theory, fluctuation-dissipation theorem, Langevin and Fokker-Planck equations.",
+  "prerequisites_raw": "Consent of graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 217C",
+  "title": "Statistical Mechanics",
+  "units": "3",
+  "description": "Selected topics in advanced statistical mechanics. Phase transitions and the renormalization group. Theory of rate processes.",
+  "prerequisites_raw": "Consent of graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 218",
+  "title": "Photochemistry and Radiation Chemistry",
+  "units": "3",
+  "description": "Interaction of light and matter, reaction paths from electonically excited molecules, flash photolysis, high energy radiation.",
+  "prerequisites_raw": "Open only by consent of the chemistry graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 219",
+  "title": "Selected Topics in Physical Chemistry",
+  "units": "0",
+  "description": "The content of this course will vary and will cover a range of topics and disciplines, including: orbital symmetry rules for chemical reactions; classical theory of light, radiation, and spectroscopy; electronic structure theory, catalysis, biophysics, and theoretical chemistry.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 222A",
+  "title": "Fundamentals of Quantum Chemistry",
+  "units": "3",
+  "description": "Introduction to quantum mechanics-postulatory approach; particle in box, on ring, harmonic oscillator; lineral operator theory, matrix algebra; hydrogen atom; perturbation theory, variation theory; applications.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 222B",
+  "title": "Fundamentals of Quantum Chemistry",
+  "units": "3",
+  "description": "Molecular Orbital theory and Valence Bond theory (Secular Equ.) applications to conjugated systems, electronic spectra, and term symbols; introduction to infrared, raman, and microwave spectroscopy.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 222C",
+  "title": "Fundamentals of Quantum Chemistry",
+  "units": "3",
+  "description": "Introduction to NMR, EPR, group theory; applications.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 223",
+  "title": "Current Events in Organic Chemistry",
+  "units": "2",
+  "description": "Faculty and students present and critically discuss current chemical literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 224",
+  "title": "Organic Spectroscopic Analysis",
+  "units": "3",
+  "description": "Structure determination of complex organic molecules. Topics include NMR, IR, UV, and mass spectrometry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 225",
+  "title": "Instrumental Methods in Physical Chemistry",
+  "units": "3",
+  "description": "Fundamentals of basic measurements and advanced research instrumentation are taught. Emphasis is on both practical and conceptual understanding of the methods, suitable for experimental design. Signal electronics, vacuum techniques, molecularbeams, lasers, and optics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 226",
+  "title": "Computational Chemistry",
+  "units": "3",
+  "description": "Introduction to computational chemistry and molecular modeling. Applications of molecular mechanics, quantum mechanics, and computer graphical interfaces to problems in chemistry, biochemistry, drug design, and pharmacology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 227",
+  "title": "Structure and Reactivity in Organic Chemistry",
+  "units": "3",
+  "description": "Electronic structure, resonance, acid/base chemistry, thermodynamics, kinetics, transition state theory, and isotope effects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 228",
+  "title": "Organic Reaction Mechanisms",
+  "units": "3",
+  "description": "Mechanisms of thermal, photochemical, organometallic, electrochemical, asymmetric or other processes in organic chemistry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 229",
+  "title": "Synthetic Organic Reactions",
+  "units": "3",
+  "description": "A survey of reactions of organic substances with emphasis on those with practical synthetic utility, including discussion of mechanism, scope and limitations, and stereochemical issues.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 232",
+  "title": "Organometallics in Organic Synthesis",
+  "units": "3",
+  "description": "Synthetic methods and applications to natural products total syntheses involving transition metals.",
+  "prerequisites_raw": "Chemistry 129 or 229; graduate standing.",
+  "prerequisites_courses": [
+   "CHEM 129",
+   "CHEM 229"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 233",
+  "title": "Advanced Synthetic Chemistry",
+  "units": "3",
+  "description": "A comprehensive discussion of modern synthetic organic methods, including the applications of addition, condensation, substitution, and rearrangement reactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 234",
+  "title": "Chemical Synthesis of Biological Molecules",
+  "units": "3",
+  "description": "The synthesis, manipulation, and modification of biological molecules including peptides, carbohydrates, nucleic acids, and other metabolites are essential to advances in biomedicine. This course surveys chemical methods for the production of these molecules and their application to biological problems.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 239",
+  "title": "Selected Topics in Organic Chemistry",
+  "units": "3",
+  "description": "Selected topics from organic chemistry. Contents of the course will vary.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 239AA",
+  "title": "Complex Molecule Synthesis",
+  "units": "3",
+  "description": "Original contributions in the area of complex molecule total synthesis based on the most recent literature. Focus is on synthesis strategy and design, and any unusual chemistry transpired in the course of synthesis with complex substrates and intermediates.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 239RR",
+  "title": "Molecular Photoswitches: Chemistry, Properties and Applications",
+  "units": "3",
+  "description": "This course covers the emerging field of photoswitches and their applications in materials science and biology.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 239YY",
+  "title": "Methods for Asymmetric Synthesis",
+  "units": "3",
+  "description": "Surveys synthetically useful methods for stereoselective organic synthesis. The general principles underlying these processes are discussed. Applications of these methods are then examined in the context of target oriented synthesis.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 239ZZ",
+  "title": "Carbohydrate Synthesis and Basic Glycobiology",
+  "units": "3",
+  "description": "Course topics include: Monosaccharide, oligosaccharides and polysaccharides – structure, biosynthesis and function; Chemical glycosylation: general synthetic approaches and the state-of-the-art stereoselective glycosylation; Chemoenzymatic glycan synthesis; Bioactive glycosylated nature products and examples of their synthesis; Glycomedicine and carbohydrate-based vaccines.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 240",
+  "title": "Chemistry of Organic Semiconductors",
+  "units": "4",
+  "description": "Synthesis, electronic structure, photophysics and applications of organic semiconductors. Emphasis will be placed on materials based on conjugated polymers. Applications of interest include solar cell devices, biosensors, and light emitting diodes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 241",
+  "title": "Epigenetics: Biology, Mechanisms and Therapies",
+  "units": "3",
+  "description": "Covers epigenetic processes and molecular mechanisms in bacteria, fungi, plants, mammals, imprinting, gene regulation, repeat-induced point mutation (RIP), X-chromosome inactivation, epigenetic mechanisms including DNA methylation, histone modification, chromatin remodeling, RNA silencing, and epigentically based therapeutics and pharmaco-epigenetics.",
+  "prerequisites_raw": "Chemistry W142A or 142A, 142B-C; or, MCDB 108A-B-C; graduate standing.",
+  "prerequisites_courses": [
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 242",
+  "title": "TERPENES",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

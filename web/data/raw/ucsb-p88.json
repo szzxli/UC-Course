@@ -1,0 +1,234 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 181B",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Independent work with faculty sponsor culminating in senior thesis.",
+  "prerequisites_raw": "Upper-division standing; Open to Communication majors in the Honors Program only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 181C",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Independent work with faculty sponsor culminating in senior thesis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 182",
+  "title": "Using Communication Research in Everyday Life",
+  "units": "4",
+  "description": "Demonstrates how communication research is used in everyday and professional life. How does Nielsen determine viewership of TV? How do news polls determine public attitudes? Considers the public delivery and personal interpretation of communication research by examining underlying information against the claims made by media outlets and popular belief. Through understanding the capabilities and limitations of research methods and analyses, students learn not only to identify misleading claims, but also ways to improve those conclusions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 183",
+  "title": "Intercultural Communication Competence",
+  "units": "4",
+  "description": "Investigates theories and concepts related to the intersections between culture, ethnicity, race, identity, and human interaction. Students explore how cultural nuances, stereotypes, prejudices, and misperceptions lead to miscommunication, and will focus on differences and similarities between cultures and positive outcomes that may emerge from intercultural interactions. Also examines how differences based on sexual orientation, age, religion, disability, and gender can function as inter/cultural communication between people.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 184",
+  "title": "Social Media: The Good, the Bad & the Ugly",
+  "units": "4",
+  "description": "Examines the beneficial, harmful, and always complicated implications of social media use across micro- and macro- levels of analyses. We focus on how these systems enhance and impede individual and socio-political self-expression, especially for those from marginalized populations (e.g racial/ethnic/religious minorities, immigrants, women, LGBTQ individuals, people with disabilities, etc.). The class focuses on three primary topics: new media and social movements; new media and health; and new media and identity. Students gain both a theoretical and an applied understanding of how social media shape life in the 21st century.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 185",
+  "title": "Communication Technology and Relationships",
+  "units": "4",
+  "description": "Explores issues and questions about computer-mediated communication and social media in a variety of relationship stages (such as impression formation and relational development to relationship maintenance and termination), contexts (friendship and romantic relationships, collaboration and work), and technologies, in order to understand the psychological, interpersonal, professional, social, and cultural impacts of digital communication media on human relationships. The main course objective is to develop a critical and practical view of online communication--how it differs and how it doesnt--by applying the processes and principles from theories and research to issues and patterns of interactive communication technology use.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 186",
+  "title": "The Digital Divide",
+  "units": "4",
+  "description": "Information and communication technologies (ICT) have become essential for survival in the 21st century. Most people in industrialized settings rely on the internet for all aspects of life, including education, employment, healthcare, politics and personal relationships. At the same time, these tools are expensive, fragile, and often complicated to use. As a result, there are inequalities in who has access to digital technology and who can use it successfully. This class examines these inequalities and the ways they influence, and are influenced by, larger socio-economic inequalities. We explore relevant theories, review current data, and consider creative interventions to help reduce digital divides in years to come.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 187",
+  "title": "Data Science in Communication",
+  "units": "4",
+  "description": "We are generating massive amounts of data in our daily digital lives. The ability to understand this data, process it, interpret it, visualize it, and communicate it is an increasingly valuable skill today. These data analytical techniques allow us to make sense of people's behavior in many contexts, like when they communicate online, or when they engage in shopping and commerce, or when they vote in elections. In this class, we will learn some basic methods of conducting Data Science using the Python programming language and discuss important aspects of data ethics, social impact of technology, and data storytelling.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 188",
+  "title": "News, Politics, & Democracy",
+  "units": "4",
+  "description": "Explores the role of the news media in sustaining American democracy. Student projects identify the most difficult problems facing American journalism and propose creative solutions for helping the news media fulfill its democratic function. Topics include news industry consolidation, fake news, political polarization, and the role of social media. Students will come away from this course with a more engaged, critical, and empowered view of what the news can do for democracy.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 190",
+  "title": "The Litigation Laboratory",
+  "units": "2",
+  "description": "Examines how psychology, storytelling, theme development, and strategy shape jury decision-making in real trials. Students explore the roles of trial consultants, judges, attorneys, and experts. The course shows how credibility, bias, emotion, and narrative influence verdicts across personal injury, criminal law, corporate defense, family law, and medical malpractice litigation. Taught by one of the most respected trial consultants in the field, it uses real cases and experiential exercises revealing how themes are developed, stories built, witnesses prepped, juries selected, and cases researched, tested, and won. With guest attorneys each week, this is a can’t-miss course for anyone considering law school or litigation.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 191",
+  "title": "Applying Communication to Internships in Organizations",
+  "units": "4",
+  "description": "Field experience combined with communication theory and current literature. Students must hold an 8-10 hour internship in the field of communication throughout the quarter in which they are enrolled in the class. Weekly lecture topics include theories of interpersonal communication, organizational structures, management, and communication styles. The extensive term project analyzes, integrates and applies lay and academic approaches to understanding interns' communicative interactions.",
+  "prerequisites_raw": "Upper-division standing; open to communications majors only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 194",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Selected topics in accordance with instructor's area of specialization.",
+  "prerequisites_raw": "Upper-division standing; open to communications majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 197",
+  "title": "Communication Internship",
+  "units": "1",
+  "description": "An opportunity for pre-communication and communication majors to obtain credit for career-related experience and application of academic training in a communication-related internship. Required are 50 hours minimum of internship work, a final five-page report, and a supervisor's letter of verification.",
+  "prerequisites_raw": "Must be declared as pre-communication or communication major. Students must have 2.0 cumulative GPA.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 199",
+  "title": "Independent Studies in Communication",
+  "units": "0",
+  "description": "Independent studies in communication.",
+  "prerequisites_raw": "Upper-division standing; open to communication majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 199RA",
+  "title": "Independent Research Assistance in Communication",
+  "units": "0",
+  "description": "Coursework consists of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; Open to Communication majors only, or other majors by exception based on faculty member request.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 200",
+  "title": "Communication Theory Construction",
+  "units": "4",
+  "description": "The nature of theory and theory building in human communication.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 201",
+  "title": "Communication Theory",
+  "units": "4",
+  "description": "Provides a broad overview to the study of human communication by surveying theories of language, interpersonal communication, persuasion, small group communication, organizational communication, and mass communication.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 204A",
+  "title": "Research Methods in Communication",
+  "units": "4",
+  "description": "A survey of research methods in the social sciences applicable to communication research.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 204B",
+  "title": "Introduction to Applied Statistics",
+  "units": "4",
+  "description": "This course provides an introduction to applied statistics for communication research with a focus on the theory andpractice of significance testing, correlation and regression, and basic ANOVA modeling. This course prepares graduate students for the understanding of advanced statistics.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 204C",
+  "title": "Advanced Topics in Research Methods and Statistical Analysis",
+  "units": "4",
+  "description": "Provides students with experience in advanced topics in multivariate statistics and computer programs. Analyses includes multiple regression, MANOVA, log linear analyses, and other advanced techniques.",
+  "prerequisites_raw": "Communication 204A; graduate standing.",
+  "prerequisites_courses": [
+   "COMM 204A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 204M",
+  "title": "Mixed Methods in Communication Research",
+  "units": "4",
+  "description": "Mixed methods research is defined as research in which the investigator collects and analyzes data, integrates the findings, and draws inferences using both qualitative and quantitative approaches or methods in a single study or program of inquiry (JMMR, 2008). This class introduces students to advantages and uses of mixed methods designs for multidimensional inquiry. Students become familiar with mixed methods designs, qualitative methods, quantitative and qualitative data integration, pragmatic perspectives and reporting on mixed methods studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 205",
+  "title": "Evolution and Human Communication",
+  "units": "4",
+  "description": "An introduction to evolutionary psychology and costly signaling approaches to the evolution of human communication. Topics include but are not limited to: language, gossip, pathogen avoidance, deception, laughter, norms, aggression, hierarchies, mating, prejudice, and coalitional behavior. The goal is to enable students versed in the standard social science model to apply evolutionary thinking to their areas of interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 206",
+  "title": "Group Communication",
+  "units": "4",
+  "description": "Readings on research concerning group processes from social and behavioral sciences, with special attention to latest communication apporaches to group interaction. Design of research projects on small group communication.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

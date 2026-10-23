@@ -1,0 +1,381 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 502C",
+  "title": "Organic Chemistry Techniques of Teaching and Laboratory Class Supervision",
+  "units": "2",
+  "description": "An initial two-three day workshop is followed by weekly discussion. Topics covered: laboratory organization, supervising experiments, safety, presentations, leading discussions, writing quizzes, advising, and grading. Aimed at new teaching assistants in Organic Chemistry.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 594",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 595",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Critical review of research in selected fields. Regular meetings are held in which the student presents for discussion information from the recent chemical literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Instructor is usually the student's major research advisor. Each faculty member has a unique number designation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 597",
+  "title": "Individual Study for Master's Comprehensive Examinations and Ph.D. Examinations.",
+  "units": "0",
+  "description": "Instructor should be the student's major professor or chairman of the doctoral committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the thesis, writing the thesis. Instructor should be the chairman of the student's thesis committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the dissertation, writing the dissertation. Instructor should be the chair of the student's doctoral committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 1",
+  "title": "Major Unsolved Problems",
+  "units": "0",
+  "description": "Study of some of the major unsolved problems in chemistry, with the aim of developing general experimental and theoretical approaches to these problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 2",
+  "title": "Project",
+  "units": "0",
+  "description": "Investigation of a specific problem in chemistry, set up in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Chemistry & Biochemistry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 10",
+  "title": "Chemistry Colloquium",
+  "units": "0",
+  "description": "Students receiving credit will present talks in their field on material arranged in consultation with the instructor. credit assigned by the instructor will reflect the extent and quality of participation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 11A",
+  "title": "CCS General Chemistry",
+  "units": "0",
+  "description": "The sequence of topics will be similar to that in Chemistry 1A. Calculus will be used as needed, at the level of the concurrent MATH 3A course.",
+  "prerequisites_raw": "Consent of instructor required for non-majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 11B",
+  "title": "CCS General Chemistry",
+  "units": "0",
+  "description": "The sequence of topics will be similar to that in Chemistry 1B. Calculus will be used as needed, at the level of the concurrent MATH 3B course.",
+  "prerequisites_raw": "Consent of instructor for non-majors. CHEM 1A or CHEM 2A, or a Pass with a minimum of 3.0 units earned in CHEM CS 11A.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A",
+   "CHEM CS 11A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 11C",
+  "title": "CCS General Chemistry",
+  "units": "0",
+  "description": "The sequence of topics will be similar to that in Chemistry 1C. Calculus will be used as needed, at the level of preceding MATH 3A and 3B courses.",
+  "prerequisites_raw": "Consent of instructor for non-majors. CHEM 1B or CHEM 2B, or a Pass with a minimum of 3.0 units earned in CHEM CS 11B.",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2B",
+   "CHEM CS 11B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 103",
+  "title": "Seminar",
+  "units": "0",
+  "description": "Presentation and critical discussion of topics in chemistry.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 110",
+  "title": "Introduction to the Chemical Applications of Group Theory",
+  "units": "0",
+  "description": "The mathematics of group theory is introduced. Point groups and symmetry operations will be applied toward the normal coordinate analysis of molecular vibrations and the construction of molecular orbitals from symmetry adapted linear combinations of atomic orbitals.",
+  "prerequisites_raw": "Chem 1A, 1B, or 2A, 2B. �Concurrent enrollment in Chem 1C or 2C. Consent of instructor; creative studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM CS",
+  "code": "CHEM CS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in chemistry with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM W",
+  "code": "CHEM W 109C",
+  "title": "Organic Chemistry",
+  "units": "4",
+  "description": "An online class that studies the structure, reactivity, mechanisms, synthesis and nomenclature of organic molecules including aromatic heterocycles, carbohydrates, amino acids, proteins, nucleic acids, coenzymes, lipids, polymers, and their mechanisms.",
+  "prerequisites_raw": "Chemistry 130B or 109B or 109BH with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 130B",
+   "CHEM 109B",
+   "CHEM 109BH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM W",
+  "code": "CHEM W 142A",
+  "title": "Biochemistry",
+  "units": "3",
+  "description": "Macromolecules of biological importance. A survey of the physical and chemical properties of proteins, nucleic acids, and carbohydrates. Methods of preparation, chemical synthesis, degradation, and characterization of biomolecules.",
+  "prerequisites_raw": "Chemistry 107A-B-C or 109A or 109AH-109B or 109BH-109C or 109CH or W 109C",
+  "prerequisites_courses": [
+   "CHEM 109A",
+   "CHEM 109AH",
+   "CHEM 109B",
+   "CHEM 109BH",
+   "CHEM 109C",
+   "CHEM 109CH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 1",
+  "title": "Elementary Modern Chinese",
+  "units": "5",
+  "description": "The beginning course in Chinese. The student acquires a basic knowledge of the grammar, a limited general vocabulary, correct pronunciation, and an ability to read and understand simple texts. Weekly laboratory assignments support and enhance classroom learning.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 1NH",
+  "title": "First Year Chinese Heritage",
+  "units": "4",
+  "description": "Intended for Chinese heritage speakers who wish to learn to read and write Chinese. Content is similar to Chinese 1 with less emphasis on developing oral skills.",
+  "prerequisites_raw": "consent of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 2",
+  "title": "Elementary Modern Chinese",
+  "units": "5",
+  "description": "Continuation of Chinese 1.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 2NH",
+  "title": "First Year Chinese Heritage",
+  "units": "4",
+  "description": "Continuation of Chinese 1NH.",
+  "prerequisites_raw": "Chinese 1NH",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 3",
+  "title": "Elementary Modern Chinese",
+  "units": "5",
+  "description": "Continuation of Chinese 2.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 3NH",
+  "title": "First Year Chinese Heritage",
+  "units": "4",
+  "description": "Continuation of Chinese 2NH.",
+  "prerequisites_raw": "Chinese 2NH",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 4",
+  "title": "Intermediate Modern Chinese",
+  "units": "5",
+  "description": "Continuation of Chinese 3.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 4NH",
+  "title": "Second Year Chinese Heritage",
+  "units": "4",
+  "description": "Continuation of Chinese 3NH.",
+  "prerequisites_raw": "Chinese 3NH",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 5",
+  "title": "Intermediate Modern Chinese",
+  "units": "5",
+  "description": "Continuation of Chinese 4.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 5NH",
+  "title": "Second Year Chinese Heritage",
+  "units": "4",
+  "description": "Continuation of Chinese 4NH.",
+  "prerequisites_raw": "Chinese 4NH",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 6",
+  "title": "Intermediate Modern Chinese",
+  "units": "5",
+  "description": "Continuation of Chinese 5.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 32",
+  "title": "Contemporary Chinese Religions",
+  "units": "5",
+  "description": "Examines Chinese popular religion, Daoism, Buddhism, Confucianism, Christianity, and Islam as shaped and transformed by revolution and nationalism, and the recent rapid commercialization, urbanization, and globalization of China. Religiosity and changing notions of self, family, gender, community, and citizenship.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 40",
+  "title": "Popular Culture in Modern Chinese Societies",
+  "units": "5",
+  "description": "Provides an overview of Chinese popular culture from PRC, Taiwan, and Hong Kong, covering various media and genres such as popular literature, film, online culture, music, video games, and cartoons.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 41",
+  "title": "Introduction to Chinese Medicine",
+  "units": "5",
+  "description": "Looks at major concepts and practices that inform the plural traditions of Chinese medicine. Also considers the cultural and historical contexts in which these therapeutic traditions emerged as well as, briefly, their relation to other medical systems in Asia.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 42",
+  "title": "Global Yoga",
+  "units": "5",
+  "description": "This course examines the complex, transcultural, and entangled history of the contemporary global yoga phenomenon. It sheds light on the connection between modern transnational yoga and various posture-based systems of self-cultivation from Asia (India, Tibet, China) to Europe. It also considers the basic features of primarily physical modes of spiritual refinement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 48",
+  "title": "Nature and Ethics in Chinese Philosophy",
+  "units": "5",
+  "description": "A look at how major thinkers in classical Chinese thought grappled with questions related to the individual's place in society and their relationship to their environment. Highlighting their relevance, classical views will be applied to contemporary ethical, social, and environmental debates.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHIN",
+  "code": "CHIN 80",
+  "title": "Masterpieces in Chinese Literature",
+  "units": "5",
+  "description": "Examines a selection of works from Chinese literature, with the goal of understanding the major genres and their development over time. The cultural roles of literature, as well as criteria for critical evaluation, are also addressed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

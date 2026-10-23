@@ -1,0 +1,325 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 3",
+  "title": "Principles of Historical Geology",
+  "units": "5",
+  "description": "Antiquity and history of the Earth from an Earth system history approach. Focus is on processes and changes over time of the Earth's lithosphere, biosphere, atmosphere, and hydrosphere.",
+  "prerequisites_raw": "Earth 2 or 4 or 7 or 20.",
+  "prerequisites_courses": [
+   "EARTH 2",
+   "EARTH 4",
+   "EARTH 7",
+   "EARTH 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 3H",
+  "title": "Principles of Historical Geology (Honors)",
+  "units": "1",
+  "description": "A supplement to Earth 3 focusing on special topics in Earth system history.",
+  "prerequisites_raw": "Concurrent enrollment in Earth 3; honors standing.",
+  "prerequisites_courses": [
+   "EARTH 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 3LX",
+  "title": "Principles of Historical Geology (Laboratory)",
+  "units": "1",
+  "description": "Elementary problems in paleontology and stratigraphy.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 4",
+  "title": "Introduction to Oceanography",
+  "units": "5",
+  "description": "An introduction to oceanography covering the major physical, chemical, and geological features of the oceans, their role in Earth history, and potential use as a natural resource. Lab and lecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 4H",
+  "title": "Introduction to Oceanography (Honors)",
+  "units": "1",
+  "description": "A supplement to Earth 4 focusing on major physical, chemical, and geological features of the oceans, their role in Earth history, and potential use as a natural resource.",
+  "prerequisites_raw": "Honors standing; concurrent enrollment in Earth 4.",
+  "prerequisites_courses": [
+   "EARTH 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 6",
+  "title": "Mountains, Boots, and Backpacks: Field Study of the High Sierra",
+  "units": "4",
+  "description": "Ten-day, off-campus, field-based investigation of faults, volcanoes, glaciers, rivers, and related geologic processes in the Sierra Nevada and nearby mountains. Emphasis on observations; analysis of geologic and environmental field data. Held in September before the start of Fall Quarter classes.",
+  "prerequisites_raw": "Minimum 3.0 GPA requirement.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 7",
+  "title": "Dinosaurs",
+  "units": "5",
+  "description": "The origin and diversification of dinosaurs, including birds. Survey of evolutionary relationships within the group, and between the major groups of vertebrates. Broad introduction including anatomy, geography, climate, and vertebrate contemporaries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 7H",
+  "title": "Dinosaurs (Honors)",
+  "units": "1",
+  "description": "A supplement to Earth 7 focusing on the origin and diversification of dinosaurs, including birds. Survey of evolutionary relationships within the group, and between the major groups of vertebrates. Broad introduction including anatomy, geography, climate, and vertebrate contemporaries.",
+  "prerequisites_raw": "Concurrent enrollment in Earth 7; honors standing.",
+  "prerequisites_courses": [
+   "EARTH 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 8",
+  "title": "Africa: Climate and Human Evolution",
+  "units": "4",
+  "description": "Our human ancestors (hominin) originated from Africa. Addresses both major climate changes and steps in hominin evolution over the last 5 million years in Africa and discusses how climate and landscape changes interacted to modulate hominin evolution.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 9",
+  "title": "Giant Earthquakes",
+  "units": "5",
+  "description": "Study of the character and causes of large earthquakes, the hazards they pose, and how society can prepare for and mitigate their impacts. Historical case studies will illuminate why their slip characteristics and destructive effects vary so widely.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 10",
+  "title": "Antarctica: The Last Place on Earth",
+  "units": "5",
+  "description": "The interrelations of the physical and biological environments on the continent Antarctica; Antarctica as an Earth system. Included are studies of tectonic history, global warming, ozone depletion, mineral resources, and the history of scientific exploration of the continent.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 11",
+  "title": "Volcanoes and Humans",
+  "units": "5",
+  "description": "An introduction to volcanism and its consequences. Origins and physical processes of volcanism; the natural benefits of volcanoes; volcanic hazards and disasters; volcanoes in human history, society, and culture; volcanoes and climate; volcano monitoring and hazard mitigation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 12",
+  "title": "Climate Change: Lessons from the Past",
+  "units": "5",
+  "description": "Introduction to the fundamental forces that shape and modulate the Earth's climate. Learning about climate forcings (solar insolation, albedo, greenhouse effect, ocean circulation) will provide a scientific basis to understand past, current, and future climate changes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 18",
+  "title": "Field Studies in Geological Sciences",
+  "units": "1",
+  "description": "Four to five day field trip, fall and/or spring quarters. Field studies under guidance of two or three staff members introducing the geology of California.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 19",
+  "title": "Geology of Yosemite Valley",
+  "units": "1",
+  "description": "Introduction to the geology, surface processes, glacial history, and environmental geology of Yosemite valley. The four-day field trip includes one day in the lower Yosemite valley, and one day in the upper valley.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 20",
+  "title": "Geological Catastrophes",
+  "units": "5",
+  "description": "Course deals with geologic catastrophes, e.g., earthquakes, volcanic eruptions, tsunamis, and landslides. Students will learn the basic physical causes of these naturally occurring events and discuss the consequences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 30",
+  "title": "The History of Life",
+  "units": "5",
+  "description": "Examination of the geological and biological processes affecting the evolution of life on Earth from 3.8 billion years ago to the present. Strong emphasis on the nature of the scientific method as a way of understanding natural history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 30H",
+  "title": "History of Life (Honors)",
+  "units": "1",
+  "description": "Supplement of Earth 30 focusing on examination of geological and biological processes affecting evolution of life on Earth from 3.8 billion years ago to present. Strong emphasis on the nature of the \"scientific method\" as a way of understanding natural history.",
+  "prerequisites_raw": "Concurrent enrollment in Earth 30; honors standing.",
+  "prerequisites_courses": [
+   "EARTH 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 60W",
+  "title": "Geoscience Communication",
+  "units": "4",
+  "description": "Introduction to written and verbal communication skills in the Earth Sciences. Students attend the weekly department colloquium or other Earth Science related presentations, and read and discuss related articles. Weekly assignments develop scientific writing skills.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 98",
+  "title": "Readings in Geological Sciences",
+  "units": "0",
+  "description": "Critical reviews and discussions of selected geological subjects.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent research conducted under guidance of Earth Science faculty. Topic and scope varies, to be specified by student and supervisory faculty member prior to registration.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 100",
+  "title": "Introduction to Geophysics",
+  "units": "4",
+  "description": "Survey of major topics in geophysics at an elementary level; the figure of the Earth, its gravitational and magnetic fields, seismology and the deep structure of the Earth, heat flow, methods of geophysical exploration. The geophysical basis of plate tectonics and sea floor spreading.",
+  "prerequisites_raw": "Mathematics 4A and 4B; and Phys 7A and 7B, or Physics 1, 2, and 3 (may be taken concurrently), or Phys 21, 22, and 23, or Physics 6A-B-C (may be taken concurrently).",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "PHYS 7A",
+   "PHYS 1",
+   "PHYS 21",
+   "PHYS 6A",
+   "MATH 4B",
+   "PHYS 7B",
+   "PHYS 2",
+   "PHYS 3",
+   "PHYS 22",
+   "PHYS 23"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 101A",
+  "title": "Practical Research Skills",
+  "units": "4",
+  "description": "A hands-on introduction to research methods in the Earth and other natural sciences. Tools and approaches to identify research questions, design projects, and get involved in research opportunities. Involves a single-day local field trip.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 102A",
+  "title": "Petrology of Igneous Rocks",
+  "units": "5",
+  "description": "Introduction to the occurrence, associations, tectonics, and petrogenesis of plutonic and volcanic rocks. Introduction to the physical chemistry of magma systems; magmatic crystallization and differentiation; pluton emplacement, volcanic eruption mechanisms. Lab and lecture each offering. There can be an additional 1 day local field trip.",
+  "prerequisites_raw": "Earth 114 and 115 with a grade of C or better.",
+  "prerequisites_courses": [
+   "EARTH 114",
+   "EARTH 115"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 102B",
+  "title": "Sedimentology Petrology",
+  "units": "4",
+  "description": "The texture, mineralogy, classification, and primal structure of sedimentary rocks and their significance in relation to regional setting, environment of deposition, and postdepositional history. Field study emphasizes interpretation of sedimentary sequences.",
+  "prerequisites_raw": "Earth 114 or 114A-B and 115. Concurrent enrollment with Earth 102BL required.",
+  "prerequisites_courses": [
+   "EARTH 114",
+   "EARTH 102BL",
+   "EARTH 115"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 102BL",
+  "title": "Sedimentology Petrology Laboratory",
+  "units": "1",
+  "description": "Practical experience in identification of sedimentary rocks, using the petrographic microscope, and x-ray diffraction.",
+  "prerequisites_raw": "Geology 14 or 114 or 114A-B; and Geology 15; and Geology 102B (may be taken concurrently).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 102C",
+  "title": "Metamorphic Petrology",
+  "units": "5",
+  "description": "Study of metamorphic rocks to understand tectonic processes. Metamorphic minerals, metamorphic textures, physical processes responsible for metamorphism, phase equilibria, thermodynamics, diffusion, thermobarometry, kinetics, geochronology, and high-temperature rock deformation. Lecture and lab.",
+  "prerequisites_raw": "Earth 114 and 115 with a grade of C or better.",
+  "prerequisites_courses": [
+   "EARTH 114",
+   "EARTH 115"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EARTH",
+  "code": "EARTH 103",
+  "title": "Fundamentals of Structural Geology",
+  "units": "5",
+  "description": "Deformation of rocks--faulting, folding and flow. Theory and observations at scales ranging from mountain belts to microscopic. Lab, lecture and field trip(s). The field component consists of 1-2 one day trips and an overnight trip lasting 3-4 days.",
+  "prerequisites_raw": "Earth 104A or Earth 104G with a grade of C or better; Math 2B or 3B (may be taken concurrently); Physics 6A or 1 or 7A",
+  "prerequisites_courses": [
+   "EARTH 104A",
+   "EARTH 104G",
+   "MATH 2B",
+   "PHYS 6A",
+   "MATH 3B",
+   "PHYS 1",
+   "PHYS 7A"
+  ]
+ }
+]

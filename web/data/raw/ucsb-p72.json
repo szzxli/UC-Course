@@ -1,0 +1,302 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 180A",
+  "title": "Advanced Study in Classical Civilization",
+  "units": "4",
+  "description": "Specialized study in classical civilization addressing central themes or genres in detail. Topics vary and may include subjects such as The Family in Ancient Rome, Greek Oracles and Politics, and Imperial Theology: Augustus, Politics and Religion.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 180B",
+  "title": "Interfaces in Classical Civilization",
+  "units": "4",
+  "description": "Specialized study in classical civilization addressing influence or reception of classical culture, or meeting and competition of cultures. Topics vary and may include subjects such as Greek Tragedy and Western Theater, Greek and Roman Comedy and Reception, and Julius Caesars: Ancient and Modern.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 185",
+  "title": "Undergraduate Seminar",
+  "units": "4",
+  "description": "Study and research of special topics in classical literature, civilization, and culture. Topics may include: Rome: the ancient city, food in antiquity, the Roman family, religious thought and practice in Rome, culture and crisis in Athens, culture and crisis in Rome, etc.",
+  "prerequisites_raw": "Consent of instructor and upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 187",
+  "title": "Special Topics in the Humanities",
+  "units": "4",
+  "description": "Content varies by instructor. This course is designed to give the instructor maximum flexibility to explore a topic in the humanities that stresses a multi-disciplinary approach, including exposing students to methods of literary analysis, material culture, and possibly include anthropological and historical themes. Students gain experience working with primary sources and the secondary literature and are expected to convey research in oral and/or written form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 190",
+  "title": "Literary Text Mining",
+  "units": "4",
+  "description": "Literary text-mining is a decades-old field that uses quantitative methods to answer enduring literary questions about texts meaning, significance, politics, context, and more. Text- mining methods offer researchers the chance to answer new questions at larger scales. This course introduces students to a variety of computational methods, from foundational counting methods to machine-learning. We will investigate several literary datasets from the ancient world using Python programming language. No prior experience in Classics, literary theory or Python is required; different paths through the course are available for students with significant coding experience.",
+  "prerequisites_raw": "Sophmore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 192",
+  "title": "Computational Linguistics Lab",
+  "units": "8",
+  "description": "Directed and/or collaborative reading, research, or theoretical work in computational linguistics. Participation may include obtaining and organizing data, constructing open-source software packages, conducting original research projects in computational linguistics, or contributing to the research publication process. Instructor permission required. JH- Updated with Departmental Approval",
+  "prerequisites_raw": "Instructor approval required. Not open to Freshmen",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 195A",
+  "title": "Senior Honors Thesis in Classics",
+  "units": "4",
+  "description": "Research and writing of a senior thesis paper under the close supervision of a Classics faculty member.",
+  "prerequisites_raw": "Must have been in residence as a Classics major for at least one full quarter.Must have a grade point average of 3.6 or better in the major.Approval of the department's chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 195B",
+  "title": "Senior Honors Thesis in Classics",
+  "units": "4",
+  "description": "Research and writing of a senior thesis paper under the close supervision of a Classics faculty member.",
+  "prerequisites_raw": "Must have been in residence as a Classics major for at least two full quarters.Must have a grade point average of 3.6 or better in the major.Approval of the department's chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 196",
+  "title": "Internship in Classical Studies",
+  "units": "4",
+  "description": "Course enables students to obtain credit for internship experience related to the study of Classical antiquity and the Classical tradition. Faculty supervision and a final report are required.",
+  "prerequisites_raw": "Upper Division Standing and consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 198",
+  "title": "Special Readings.",
+  "units": "0",
+  "description": "Individual or small group reading and study in subjects not included in the regular curriculum.",
+  "prerequisites_raw": "Consent of instructor and department chair; upper-division standing; completion of 2 upper-division courses in Classics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 199",
+  "title": "Independent Studies In Greek And Latin.",
+  "units": "0",
+  "description": "Independent study in areas in which both Greek and Latin are necessary.",
+  "prerequisites_raw": "Consent of instructor and department chair; upper-division standing; completion of 2 upper-division courses in Classics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 199RA",
+  "title": "Independent Research Assistant.",
+  "units": "0",
+  "description": "To cooperate on an active basis with a professor on a research project involving the Classics.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Classics consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 201",
+  "title": "Proseminar",
+  "units": "2",
+  "description": "Bibliography, methodology, and history of classical scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 211",
+  "title": "History of Greek and Latin Literature",
+  "units": "2",
+  "description": "Survey of development of poetry and prose; major authors. Special readings and reports.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 212",
+  "title": "History of Greek and Latin Literature",
+  "units": "2",
+  "description": "Survey of development of poetry and prose; major authors. Special readings and reports.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 213",
+  "title": "History of Greek and Latin Literature",
+  "units": "2",
+  "description": "Survey of development of poetry and prose; major authors. Special readings and reports.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 214",
+  "title": "Topics in Classical Archaeology",
+  "units": "4",
+  "description": "A topical framework addressing a particular set of issues in Classical archaeology. These topics might include state formation, urbanization, colonization, the ancient economy, or a more focused examination of a particular issue or period. In each, students gain knowledge of some of the key sites and monuments of Classical archaeology and an understanding of archaeological contexts, methods of categorization, and chronologies. In addition, the course exposes students to various theoretical approaches to archaeological interpretation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 231",
+  "title": "Seminar in Literary Studies",
+  "units": "4",
+  "description": "A graduate-level course in Greek and Roman authors, themes, or genres. Topics vary and may include, Aristotle's De Anima, construction of gender in Augustan poetry, texts and intertexts, and Roman tragedy.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 232",
+  "title": "Seminar in Cultural Studies",
+  "units": "4",
+  "description": "A graduate-level course in the culture and cultures of the ancient Mediterranean. Topics vary and may include animals and ethics in the ancient world, religion and politics in the Roman Republic, and performance on and off the stage.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 233",
+  "title": "Seminar in Ancient History",
+  "units": "4",
+  "description": "Advanced study in the scholarship, methods, and ancillary disciplines of Greek and Roman history. Topics may include slavery in ancient Greece, naval strategy in classical Greece, current problems and debates in Roman history, and Augustus and foundation of the Principate.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 234",
+  "title": "Seminar in Archaeology",
+  "units": "4",
+  "description": "Advanced study in the material culture of the ancient Mediterranean, examining the scholarship, techniques, and methods of classical archaeology. Topics may include \"Greeks in Southern Italy,\" \"Athens in the Age of Pericles,\" and \"The rise of the Greek city-state.\"",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 235",
+  "title": "Seminar: Specialized Topics in Classical Studies",
+  "units": "4",
+  "description": "A graduate-level course in the major sub-disciplines of classical scholarship. Topics vary and may include, comparative Greek and Latin morphology and syntax, Greek and Latin textual criticism, Greek and Latin metrics, and Greek and Latin epigraphy.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 292",
+  "title": "Computational Linguistics Lab",
+  "units": "8",
+  "description": "Directed and/or collaborative reading, research, or theoretical work in computational linguistics for graduate students. Participation may include obtaining and organizing data, constructing open-source software packages, conducting original research projects in computational linguistics, or contributing to the research publication process. Instructor permission required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 500",
+  "title": "Teaching Assistant Practicum",
+  "units": "2",
+  "description": "Weekly discussions, directed by faculty, of topics especially relevant for teaching assistants assigned to Classics 40 (Greek Mythology). Includes analyses of texts and materials, discussion of teaching techniques, formulation of exam questions and paper topics, grading, and pedagogical ethics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 501",
+  "title": "Language Teaching Practicum",
+  "units": "2",
+  "description": "Weekly discussions, directed by faculty, of topics relevant for graduate students assigned to introductory language courses. Includes design of syllabi, quizzes and exams, and especially discussion of teaching techniques and evaluation of teaching methods by observation and follow-up consultations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "Written proposal approved by department chair and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 597",
+  "title": "Preparation for Comprehensive Exams",
+  "units": "0",
+  "description": "Study for master's examinations and Ph.D. examinations.",
+  "prerequisites_raw": "Consent of graduate advisor and chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Independent research.",
+  "prerequisites_raw": "Graduate standing and consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASS",
+  "code": "CLASS 599",
+  "title": "Ph.D Dissertation Preparation",
+  "units": "0",
+  "description": "Ph.D. dissertation presentation. Preparation of the dissertation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CLASSW",
+  "code": "CLASSW 36",
+  "title": "World of Heroes",
+  "units": "4",
+  "description": "A study of the Iliad, the Odyssey, the Aeneid and other ancient epics, and of the place of these works in Greek and Roman society. The course explores how the epic hero embodies a cultures ideals concerning the individual, the community, and the universe.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

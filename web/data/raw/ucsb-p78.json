@@ -1,0 +1,313 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 279",
+  "title": "Advanced Topics in Security",
+  "units": "4",
+  "description": "Security analysis of networked systems. Analysis of techniques for network scanning, spoofing, hijacking, and denial-of-service attacks. Vulnerability analysis of applications and web-based systems. Intrusion detection and prevention techniques.",
+  "prerequisites_raw": "Computer Science 177.",
+  "prerequisites_courses": [
+   "CMPSC 177"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 280",
+  "title": "Computer Graphics",
+  "units": "4",
+  "description": "Special topics in computer graphics including: curves and curved surfaces; visual perception of colors and color models; shading models; shadow generation; texture mapping; solid textures; stereographics; helmet-mounteddisplay; graphics hardware/architecture; solid modeling; physically based modeling; fractals and graphtals; volume rendering; scientific visualization.",
+  "prerequisites_raw": "Computer Science 180.",
+  "prerequisites_courses": [
+   "CMPSC 180"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 281",
+  "title": "Advanced Topics in Computer Vision",
+  "units": "4",
+  "description": "Topics in Computer Vision, including imaging and multi-view geometry; image and video segmentation; object detection, localization, and recognition; video activity recognition; machine learning models and methods applied to computer vision.",
+  "prerequisites_raw": "ECE OR CMPSC 181",
+  "prerequisites_courses": [
+   "CMPSC 181"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 281B",
+  "title": "Advanced Topics in Computer Vision",
+  "units": "4",
+  "description": "Advanced topics in computer vision: image sequence analysis, spatio-temporal filtering, camera calibration and hand-eye coordination, robot navigation, shape representation, physically-based modeling, regularization theory, multi-sensory fusion, biological models, expert vision systems, and other topics selected from recent research papers.",
+  "prerequisites_raw": "ECE OR CMPSC 181",
+  "prerequisites_courses": [
+   "CMPSC 181"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 284",
+  "title": "Mobile Computing",
+  "units": "4",
+  "description": "Focuses on mobile computing. Topics may include, but are not limited to: mobile network characteristics, types of mobile networks, challenges and sollutions in mobile computing, and power conservation techniques.",
+  "prerequisites_raw": "Computer Science 176A or 176B.",
+  "prerequisites_courses": [
+   "CMPSC 176A",
+   "CMPSC 176B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 285",
+  "title": "Advanced Image Synthesis",
+  "units": "4",
+  "description": "Theory and design of rendering systems for high-end image synthesis and modeling physically-based light transport. Topics include REYES-style architectures, Monte Carlo algorithms, variance reduction methods, path tracing, photon mapping, reflection and volumetric light transport. Students must have good software engineering skills.",
+  "prerequisites_raw": "Computer Graphics desired but not necessary",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 291",
+  "title": "Special Topics in Computer Science, Applications",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science applications. Topics are coded as follows: A. Applications, General; D. Database and Information Systems; G. Security and Cryptography; H. Computational Science and Engineering; I. Visual Computing and Interaction; K. Machine Learning and Data Mining.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 291A",
+  "title": "Special Topics in Computer Science, Applications, General",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science applications.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 291D",
+  "title": "Special Topics in Computer Science, Applications, Database and Information Systems",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science applications.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 291G",
+  "title": "Special Topics in Computer Science, Applications, Security and Cryptography",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science applications.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 291H",
+  "title": "Special Topics in Computer Science, Applications, Computational Science and Engineering",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science applications.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 291I",
+  "title": "Special Topics in Computer Science, Applications, Visual Computing and Interaction",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science applications.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 291K",
+  "title": "Special Topics in Computer Science, Applications",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science applications. Topics are coded as follows: A. Applications, General; D. Database and Information Systems; G. Security and Cryptography; H. Computational Science and Engineering; I. Visual Computing and Interaction; K. Machine Learning and Data Mining.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 292",
+  "title": "Special Topics in Computer Science, Foundations",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science foundations. Topics are coded as follows: C, Programming Languages and Software Engineering; F. Foundations, General; G. Security and Cryptography; H. Computational Science and Engineering.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 292A",
+  "title": "Special Topics in Computer Science, Foundations, Algorithms",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science foundations.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 292C",
+  "title": "Special Topics in Computer Science, Foundations, Programming Languages and Software Engineering",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science foundations.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 292F",
+  "title": "Special Topics in Computer Science, Foundations, General",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science foundations.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 292G",
+  "title": "Special Topics in Computer Science, Foundations",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science foundations. Topics are coded as follows: C, Programming Languages and Software Engineering; F. Foundations, General; G. Security and Cryptography; H. Computational Science and Engineering.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 292H",
+  "title": "Special Topics in Computer Science, Foundations, Computational Science and Engineering",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science foundations.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293",
+  "title": "Special Topics in Computer Science, Systems",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems. Topics are coded as follows: B. Operating Systems and Distributed Systems; C, Programming Languages and Software Engineering; D. Database and Information Systems; E. Computer Architecture and Embedded Systems; G. Security and Cryptography; K. Machine Learning and Data Mining; N. Networking; S. Systems, General",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293A",
+  "title": "Special Topics in Computer Science, Systems",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems. Topics are coded as follows: B. Operating Systems and Distributed Systems; C, Programming Languages and Software Engineering; D. Database and Information Systems; E. Computer Architecture and Embedded Systems; G. Security and Cryptography; K. Machine Learning and Data Mining; N. Networking; S. Systems, General",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293B",
+  "title": "Special Topics in Computer Science, Systems",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems. Topics are coded as follows: B. Operating Systems and Distributed Systems; C, Programming Languages and Software Engineering; D. Database and Information Systems; E. Computer Architecture and Embedded Systems; G. Security and Cryptography; K. Machine Learning and Data Mining; N. Networking; S. Systems, General",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293C",
+  "title": "Special Topics in Computer Science, Systems, Programming Languages and Software Engineering",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293D",
+  "title": "Special Topics in Computer Science, Systems, Database and Information Systems",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293E",
+  "title": "Special Topics in Computer Science, Systems, Computer Architecture and Embedded Systems",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293G",
+  "title": "Special Topics in Computer Science, Systems, Security and Cryptography",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293K",
+  "title": "Special Topics in Computer Science, Systems, Machine Learning and Data Mining",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293N",
+  "title": "Special Topics in Computer Science, Systems",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems. Topics are coded as follows: B. Operating Systems and Distributed Systems; C, Programming Languages and Software Engineering; D. Database and Information Systems; E. Computer Architecture and Embedded Systems; G. Security and Cryptography; K. Machine Learning and Data Mining; N. Networking; S. Systems, General",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 293S",
+  "title": "Special Topics in Computer Science, Systems, General",
+  "units": "4",
+  "description": "These courses provide for the study of topics of current interest in computer science systems.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 493",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Offered in conjunction with selected industrial and research firms, and under direct faculty supervision. Written proposal and final report required.",
+  "prerequisites_raw": "Consent of instructor and prior departmental approval needed.",
+  "prerequisites_courses": []
+ }
+]

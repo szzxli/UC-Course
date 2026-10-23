@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 130A",
+  "title": "Advanced Topics in Computer Science",
+  "units": "0",
+  "description": "Advanced topics course for advanced undergraduates, covering topics not offered in standard computer science courses, combining research orientation and current developments and technologies. A. Distributed and Network Computing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 130E",
+  "title": "Advanced Topics in Computer Science",
+  "units": "0",
+  "description": "Advanced topics course for advanced undergraduates, covering topics not offered in standard computer science courses, combining research orientation and current developments and technologies. E. Programming Languages, Systems and Technologies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 130G",
+  "title": "Advanced Topics in Computer Science",
+  "units": "0",
+  "description": "Advanced topics course for advanced undergraduates, covering topics not offered in standard computer science courses, combining research orientation and current developments and technologies. G. Software Systems and Technologies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 130H",
+  "title": "Advanced Topics in Computer Science",
+  "units": "0",
+  "description": "Advanced topics course for advanced undergraduates, covering topics not offered in standard computer science courses, combining research orientation and current developments and technologies. H. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 140",
+  "title": "Projects in Computer Science",
+  "units": "0",
+  "description": "Projects in computer science for advanced undergraduates. Students work with a faculty member on a research or creative project with the consent ofacademic advisor.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 191",
+  "title": "Exploratory Research in Computing",
+  "units": "0",
+  "description": "Exploratory Research in Computing offers students an accessible entry point into the research process within computer science and engineering. Designed for those curious about research but not yet ready to commit to a fully scoped and ready to execute project, this course supports early-stage engagement in a group setting but with individualized attention.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in computer science with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 25",
+  "title": "The Role of Research in Society",
+  "units": "4",
+  "description": "The course aims to help students understand the intersection between research and society by exploring the different types of research approaches and their impact on policies and programs. Students completing this course will have a basic foundation for evaluating the quality of research, and its use in policy and program design and evaluation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 26",
+  "title": "Equity and Diversity in School and Community Settings",
+  "units": "4",
+  "description": "Focuses on understanding historical and contemporary patterns in the relationship between human service institutions (e.g., schools, health care, community services, and support) and various diverse groups in the United States, and ways to include culturally-sustaining and inclusive practices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 97",
+  "title": "Special Topics in Applied Psychology",
+  "units": "0",
+  "description": "Topics vary by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Study of special problems in various fields of Applied Psychology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 99RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Faculty supervised research assistance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 101",
+  "title": "Introduction to Helping Skills: Theory, Research and Practice",
+  "units": "4",
+  "description": "Introduces students to theory and practice of psychotherapy and other helping relationships. Students learn about counseling, assessment, ethics, and helping skills. Students gain experience by serving as practice counseling clients or by volunteering in a relevant service setting.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 102",
+  "title": "Research in Applied Psychology",
+  "units": "4",
+  "description": "Introduces students to research in applied psychology, including approaches to survey, experimental, and qualitative investigation. Students will be exposed to current research in applied psychology through journal articles, presentations, and participation in research studies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 104",
+  "title": "Innovations in Health Equity Research: Participatory Action with Communities",
+  "units": "4",
+  "description": "The seminar introduces students to community-based participatory research (CBPR) methods focused on health/mental health disparities within the broader context of social inequalities and underrepresented populations living in California.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 110",
+  "title": "Introduction to Educational and Vocational Guidance",
+  "units": "4",
+  "description": "An overview of the theories and concepts involved in career decision making. Develop working knowledge of career information and field survey techniques for understanding the job market in relation to economic trends.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 111",
+  "title": "Identity and Pluralism",
+  "units": "4",
+  "description": "Course addresses topics such as racism, heterosexism, ageism, and gender inequality. Students will not only learn about the current ideas in these areas, but also engage in personal exploration pertaining to these and related topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 112",
+  "title": "Positive Psychology Across the Lifespan.",
+  "units": "4",
+  "description": "Positive Psychology examines how people live life well. It looks at those factors associated with living a happy, meaningful life. Course examines key concepts that include hope, gratitude, grit and optimism to promote well-being and authentic happiness.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 113",
+  "title": "The Achievement Gap: Societal and Educational Issues",
+  "units": "4",
+  "description": "Course examines various educational and societal contributors to the achievement gap and explores ways these issues might be addressed. Issues related to assessment, literacy, motivation, and learning will be the primary focus.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 114",
+  "title": "Psychology of Gender",
+  "units": "4",
+  "description": "Provides an overview of psychological theory and research related to gender issues. Topics include bias in psychology, gender socialization, communication styles, lifespan development, ethnicity, education, careers, relationships, violence and victimization, health and mental health.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 115",
+  "title": "College Student Peer-Helping and Leadership",
+  "units": "2",
+  "description": "Introduces students to theory, research, and practice of college student peer-helping and leadership, including college student development, helping skills, group facilitation, diversity, challenges faced by college students, and community-building.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 117",
+  "title": "School-Based Mental Health",
+  "units": "4",
+  "description": "This course introduces students to school-based efforts to promote mental health and wellness. We examine strategies implemented in schools directed toward the prevention and intervention of behavioral, emotional, and other mental health problems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 118",
+  "title": "The Psychology of Flourishing",
+  "units": "4",
+  "description": "The purpose of this experiential seminar is to explore and critique the empirical literature on the psychology of flourishing including the personal, interpersonal, and contextual factors that impede and/or promote this state of well-being.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 122",
+  "title": "Disaster Mental Health",
+  "units": "4",
+  "description": "This course focuses on the impact natural and human-made disasters have on people and their communities. Reviews the research on the influence of disasters on mental health and why, and provides an introduction to disaster mental health services.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 132",
+  "title": "Spanish in the Helping Professions: Research and Practice",
+  "units": "4",
+  "description": "Development of professional vocabulary in Spanish and skills pertinent to research and practice within the human helping professionals. Students' own processes as cultural beings seeking to become bilingual within a discipline (i.e. applied psychology) is addressed systematically throughout the course. Taught in Spanish.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 190",
+  "title": "Introduction to Autism",
+  "units": "4",
+  "description": "Overview of diagnostic, clinical, and educational approaches used for autism. Intervention procedures in clinical, school, and family settings are discussed in relation to language development, social development, and self-stimulatory behavior, self-injury, and pivotal behaviors related to a favorable prognosis.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 197",
+  "title": "Special Topics in Applied Psychology",
+  "units": "0",
+  "description": "Topics vary by instructor.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Study of special problems in various fields of Applied Psychology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Faculty supervised research assistance.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 200",
+  "title": "Research Design and Methods in Professional Psychology",
+  "units": "4",
+  "description": "Examination of both clinical and statistical approaches to professional psychology research. Special attention devoted to conceptualizing and developing research proposals in the area of professional psychology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 201",
+  "title": "Research Foundations in School Psychology",
+  "units": "4",
+  "description": "This course introduces research methods and statistical analytic approaches that are most useful for school psychologists. Includes descriptive and inferential statistics; test development / psychometrics; experimental, descriptive, and mixed method designs, single-subject designs; program evaluation; and research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

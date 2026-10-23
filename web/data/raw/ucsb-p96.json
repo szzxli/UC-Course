@@ -1,0 +1,309 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 189",
+  "title": "Elements of Performing",
+  "units": "0",
+  "description": "The study of stage technique for the development of alert, responsive, and dynamic performers. Individual coaching in the elements of performing such as projection, timing, and pre-performance preparation.",
+  "prerequisites_raw": "Dance 56F.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 190",
+  "title": "UCSB Dance Company",
+  "units": "0",
+  "description": "Selected students work as dancers in the UCSB Dance Company, studying and analyzing choreography through rehearsal and performance. The company performs locally and/or on tour. Students experience the integral workings of a touring dance company.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 191",
+  "title": "Senior Project",
+  "units": "3",
+  "description": "Choreographic or performance project produced as the culminating presentation for the B.F.A. degree. Course includes detailed documentation of the procedure followed during the creation of the final project, and results in a written and visual document following a closely crafted prompt.",
+  "prerequisites_raw": "Dance 151C.",
+  "prerequisites_courses": [
+   "THTR 151C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 193H",
+  "title": "Senior Honors Project",
+  "units": "4",
+  "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, will graduate with distinction in the major.",
+  "prerequisites_raw": "Senior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 193HA",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, graduate with distinction in the major.",
+  "prerequisites_raw": "Senior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 193HB",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, will graduate with distinction in the major.",
+  "prerequisites_raw": "Dance 193HA; senior standing.",
+  "prerequisites_courses": [
+   "THTR 193HA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 193HC",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, will graduate with distinction in the major.",
+  "prerequisites_raw": "Dance 193HA or 193HB; senior standing.",
+  "prerequisites_courses": [
+   "THTR 193HA",
+   "THTR 193HB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 194",
+  "title": "Group Studies in Dance",
+  "units": "0",
+  "description": "Group projects in selected areas of emphasis.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 195",
+  "title": "SBDT Apprentice/Mentor Program",
+  "units": "2",
+  "description": "Prepares students for professional work in the field of dance. Apprentices will join with professional dancers in UC Santa Barbaras resident professional dance company, Santa Barbara Dance Theater, to rehearse choreographic works, with the possibility of performing in studio showings, repertory previews and the companys concerts on and off campus. These experiences are expected to raise each apprentices awareness of collaborative methods and professional standards of performance artistry.The artistic director of Santa Barbara Dance Theater will be designated as the instructor of record, with mentoring and coordinating assistance from one or more company members.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 199",
+  "title": "Independent Study in Dance",
+  "units": "0",
+  "description": "Independent study in dance. Projects in choreography or dance research.",
+  "prerequisites_raw": "Consent of instructor and department; upper-division standing; completion of 2 upper-division courses in Dance.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 199RA",
+  "title": "Independent Research Assistance in Dance",
+  "units": "0",
+  "description": "Independent research assistance in dance. Supervised assistance in faculty research project.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Dance; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCEW",
+  "code": "DANCEW 36",
+  "title": "History of Modern Dance and Contemporary Performance",
+  "units": "5",
+  "description": "Historical development of modern dance in the United States and Europe in the twentieth century. Emphasis on visionary, feminist, and radical aspects of the form.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DYNS",
+  "code": "DYNS 592",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in dynamical neuroscience.",
+  "prerequisites_raw": "Only students in the Dynamical Neuroscience Program may register for this course. Other students interested in registering must have prior approval of the chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DYNS",
+  "code": "DYNS 596",
+  "title": "Directed Reading and Research in Dynamical Neuroscience",
+  "units": "0",
+  "description": "Provides supervised experience in experimental design and laboratory procedures on selected topics, including the formulation of experimental problems, discussion of relevant literature and the analysis and interpretation of experimental results.",
+  "prerequisites_raw": "Graduate Standing in Dynamical Neuroscience",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DYNS",
+  "code": "DYNS 599",
+  "title": "Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Empirical and theoretical investigations of special problems in dynamical neuroscience in relation to dissertation research.",
+  "prerequisites_raw": "Graduate Standing in Dynamical Neuroscience",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 3",
+  "title": "Introduction to Asian Religious Traditions",
+  "units": "5",
+  "description": "An introduction to the basic texts, institutions, and practices of the religious traditions of South Asia and East Asia.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 4A",
+  "title": "East Asian Traditions: Pre-modern",
+  "units": "5",
+  "description": "An introduction to the social structures, institutions, systems of thought and belief, and the arts and entertainments of China, Japan, Korea and their neighbors during the pre-modern period.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 4B",
+  "title": "East Asian Traditions: Modern",
+  "units": "5",
+  "description": "An introduction to the study of China, Japan, Korea, and their neighbors in modern times, including the process of modernization, intellectual and political movements, national identity, literature and the arts, and popular culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 5",
+  "title": "Introduction to Buddhism",
+  "units": "5",
+  "description": "The historical and cross-cultural exploration of Buddhism through the examination of basic texts, institutions, and practices of diverse Buddhist traditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 7",
+  "title": "Asian Values",
+  "units": "4",
+  "description": "Asian values are evoked when policies are made, human rights are globally discussed, or individuals explain their behavior. We examine them from philosophical, religious, social, and political perspectives and propose alternative, lesser known values developed in Asia over centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 14",
+  "title": "Environment and Power in Japan",
+  "units": "4",
+  "description": "What is the relationship between forms of power and environmental health in Japan? How do traditional values and practices influence contemporary ecologies? Traces the history of environmentalism and applies social science theories to assess contemporary environmental issues in Japan.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 21",
+  "title": "Zen Buddhism",
+  "units": "5",
+  "description": "An introduction to the history and texts of the major lineages of Ch`an Buddhism in China and Zen Buddhism in Japan.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 23",
+  "title": "Introduction to Chinese Buddhism",
+  "units": "4",
+  "description": "Provides a basic introduction to the key concepts, chief figures, principal schools, and major developments of Buddhism from its arrival in China two thousand years ago to the present day.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 40",
+  "title": "Gender and Sexuality in Modern Asia",
+  "units": "5",
+  "description": "Examines how modern social institutions have constructed and transformed gender and sexuality in China, Japan, Korea, India, and other Asian societies. Topics: marriage and kinship, capitalism, nationalism, modern state, third genders, commercialization of sex, public sphere and mass media.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 41",
+  "title": "Young Humans: Introduction to Childhood Studies",
+  "units": "4",
+  "description": "An introduction to interdisciplinary approaches to understanding and analyzing childhood and youth, including history of childhood, and childrens literature research, this course considers the role of childhood in human life, its construction across different periods and regions, different disciplinary perspectives on childhood, and contemporary approaches to deepening the understanding of children and their own views. By examining key critical texts, it considers childhood through multiple disciplinary perspectives, as well as childrens own co-creation of the performance of childhood and childrens voice, agency, activism, and rights.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 47",
+  "title": "Introduction to Daoism",
+  "units": "5",
+  "description": "A study of the classical sources of Daoism, followed by a consideration of the varieties of religious practice which developed from those sources.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 56",
+  "title": "Sex, Science, and Society: A Global History",
+  "units": "5",
+  "description": "Survey of the relationship between sex, science, and society in the history of the modern world. Emphasis on the development of scientific ideas about the human body against broader social, cultural, and political trends and from a global viewpoint.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 80",
+  "title": "Chinese Civilization",
+  "units": "5",
+  "description": "A survey of the history of Chinese civilization from 2,000 BCE to the present, focusing on the origins and later development of political, social, economic, philosophical, religious, and cultural traditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 99",
+  "title": "Independent Study in Asian Studies",
+  "units": "0",
+  "description": "Introduction to independent research in Asian Studies. Topic and content are decided by the supervising Professor in the Department of East Asian Languages and Cultural Studies.",
+  "prerequisites_raw": "minimum 3.0 cumulative GPA",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "EACS",
+  "code": "EACS 99RA",
+  "title": "Independent Research Assistance on Asia",
+  "units": "0",
+  "description": "Research details are decided by the supervising Professor in the Department of East Asian Languages and Cultural Studies.",
+  "prerequisites_raw": "minimum 3.0 cumulative GPA",
+  "prerequisites_courses": []
+ }
+]

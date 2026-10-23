@@ -1,0 +1,283 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 186",
+  "title": "Internet of Things (IoT) Systems",
+  "units": "4",
+  "description": "The Internet of Things (IoT) embeds ordinary physical objects in our environment with digital intelligence -- via sensing, control, communications, and computing capabilities. As such, IoT advances are likely key drivers of the next computing revolution. This course will teach IoT systems end-to-end, including the fundamentals of IoT devices, software architectures, communication protocols, security approaches, distributed, multi-tier (e.g. sensors, edge, and cloud) programming and deployment considerations needed to support emerging IoT applications.",
+  "prerequisites_raw": "CMPSC 32 or CMPSC 130A.",
+  "prerequisites_courses": [
+   "CMPSC 32",
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 187",
+  "title": "Deep Learning",
+  "units": "4",
+  "description": "Deep Learning has been driving the progress of AI in the past decade and has found versatile applications in many products and everyday life. This course will introduce general principles, methods, network architectures, and applications of Deep Learning. Covers neural network architectures including convolutional neural networks, recurrent neural networks, Transformer, and graph neural networks. Covers techniques for designing loss, training, and inference methods. Focus on both the principles, analytical skills, and implementation practice. Suitable for undergraduate and graduate students who want to pursue a career in AI or conduct research in deep learning.",
+  "prerequisites_raw": "CMPSC 165B.",
+  "prerequisites_courses": [
+   "CMPSC 165B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 188",
+  "title": "Introduction to Natural Language Processing",
+  "units": "4",
+  "description": "This NLP course explores AI's capability to understand human language, focusing on machine learning algorithms and large language models. It covers language modeling, sentiment analysis, tagging, and machine translation, discussing lexical, syntactic, and semantic processing. Key models include Naive Bayes, logistic regression, and neural networks like RNNs and CNNs. It emphasizes empirical analysis of text corpora and how to evaluate the strengths and limitations of statistical tools, including large language models, in NLP.",
+  "prerequisites_raw": "Open to computer science and computer engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 189A",
+  "title": "Senior Computer Systems Project",
+  "units": "4",
+  "description": "This course is the first in the 2-course Computer Science Capstone sequence. Student teams learn about modern software design and engineering techniques and work together to use them and their past educational experiences at UCSB to analyze, specify, design, and prototype innovative solutions to complex, real world problems using computers.",
+  "prerequisites_raw": "Computer Science 48 or 56 or 148 or 156 or 172; Senior standing in computer science or computer engineering.",
+  "prerequisites_courses": [
+   "CMPSC 148",
+   "CMPSC 156",
+   "CMPSC 172"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 189B",
+  "title": "Senior Computer Systems Project",
+  "units": "4",
+  "description": "This course is the second in the 2-course Computer Science Capstone sequence. Student teams continue their CMPSC 189A effort by evolving their specifications, design, and prototypes of advanced computer science solutions and systems. The students learn about interfaces, software integration, and testing, and prepare advanced demonstrations for public presentation at the end of the sequence.",
+  "prerequisites_raw": "CMPSC 189A; Senior standing in Computer Science or Computer Engineering.",
+  "prerequisites_courses": [
+   "CMPSC 189A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190A",
+  "title": "Special Topics in Computer Science: Foundations",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190B",
+  "title": "Special Topics in Computer Science: Software Systems",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest incomputer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190C",
+  "title": "Special Topics in Computer Science: Programming Languages and Software Engineering",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190D",
+  "title": "Special Topics in Computer Science: Information Management",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190DA",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190DB",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190DC",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190DD",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190DE",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190DF",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190E",
+  "title": "Special Topics in Computer Science: Architectures",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190F",
+  "title": "Special Topics in Computer Science: Networking",
+  "units": "4",
+  "description": "These variable unit coureses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190G",
+  "title": "Special Topics in Computer Science: Security",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190H",
+  "title": "Special Topics in Computer Science: Scientific Computing",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190I",
+  "title": "Special Topics in Computer Science: Intelligent and Interactive Systems",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190J",
+  "title": "Special Topics in Computer Science: General",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190K",
+  "title": "Special Topics in Computer Science: Computer Systems Modeling and Analysis",
+  "units": "4",
+  "description": "These variable unit courses provide for the study of topics of current interest in computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 190N",
+  "title": "Special Topics in Computer Science: General",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 192",
+  "title": "Projects in Computer Science",
+  "units": "0",
+  "description": "Projects in computer science for advanced undergraduate students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 193",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Offered in conjunction with selected industrial and research firms and under direct faculty supervision. Written proposal and final report required.",
+  "prerequisites_raw": "Consent of instructor and department chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 196",
+  "title": "Undergraduate Research",
+  "units": "0",
+  "description": "Research opportunities for undergraduate students. Students will be expected to giveregular oral presentations, actively participate in a weekly seminar, and prepare at least one written report on their research.",
+  "prerequisites_raw": "Students must: (1) have attained upper-division standing (2) have a minimum3.0 grade-point average for preceding three quarters, (3) have consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

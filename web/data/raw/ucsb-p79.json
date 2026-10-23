@@ -1,0 +1,340 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 501",
+  "title": "Techniques of Computer Science Teaching",
+  "units": "1",
+  "description": "An initial 1-2 day workshop on teaching techniques followed by a weekly seminar. Course emphasizes teaching skills, practical experience, and communication skills.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 502",
+  "title": "Teaching of Computer Science",
+  "units": "0",
+  "description": "Procedures and techniques for teaching computer science gained through actual teaching of lecture courses, leading discussion sections, and/or teaching laboratories. Meetings will be held as needed to discuss problems,methods, and procedures.",
+  "prerequisites_raw": "Computer Science 501.",
+  "prerequisites_courses": [
+   "CMPSC 501"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 592",
+  "title": "Group Studies: Controls, Dynamical Systems, and Computation",
+  "units": "1",
+  "description": "A series of weekly lectures given by university staff and outside experts in the fields of control systems, dynamical systems, and computation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 593",
+  "title": "Computer Science Graduate Tutorial",
+  "units": "0",
+  "description": "Individual studies exploring topics in computer science with a faculty advisor.",
+  "prerequisites_raw": "Consent of instructor or department chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 594",
+  "title": "Seminar in Computer Science",
+  "units": "0",
+  "description": "A seminar course offered on an irregular basis. Provides an in-depth discussion of advanced topics of general interest and broadens the scope ofknowledge in computer science.",
+  "prerequisites_raw": "Consent of instructor and advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595",
+  "title": "Group Studies in Computer Science",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595A",
+  "title": "Group Studies in Computer Science: Foundations",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595B",
+  "title": "Group Studies in Computer Science: Software Systems",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595C",
+  "title": "Group Studies in Computer Science: Programming Languages and Software Engineering",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595D",
+  "title": "Group Studies in Computer Science",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595E",
+  "title": "Group Studies in Computer Science: Architecture",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595F",
+  "title": "Group Studies in Computer Science: Networking",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595G",
+  "title": "Group Studies in Computer Science: Security",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595H",
+  "title": "Group Studies in Computer Science: Scientific Computing",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595I",
+  "title": "Group Studies in Computer Science: Intelligent and Interactive Systems",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595J",
+  "title": "Group Studies in Computer Science: General",
+  "units": "2",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, or by laboratory, or by a combination of the two. These courses provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595K",
+  "title": "Group Studies in Computer Science: Computer Systems Modeling and Analysis",
+  "units": "2",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, or by laboratory, or by a combination of the two. These courses provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595L",
+  "title": "Group Studies in Computer Science",
+  "units": "2",
+  "description": "Instruction in these variable unit course may be carried out by lecture, or by laboratory, or by a combination of the two. These courses provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595N",
+  "title": "Group Studies in Computer Science: Faculty Research Seminar",
+  "units": "2",
+  "description": "Special seminars focusing on topics of interest to faculty and graduate students. These seminars provide critical review of research in various areas of computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 595R",
+  "title": "Group Studies in Computer Science",
+  "units": "2",
+  "description": "Instruction in these variable unit course may be carried out by lecture, orby laboratory, or by a combination of the two. These courses provide critical review of research in various areas of computer science. See gcmps290AA-ZZ for list of topics. A: artificial intelligence. B: computer graphics. C: pattern recognition. D: program verification. E: computer architectures. F: algorithms and complexity. G: mathematical theory of computation. H: semantic models. I: software systems. J: general. K: computer systems modeling and analysis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 596",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Research, either experimental or theoretical, may be undertaken by qualified graduate students under the direction of a faculty member.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 597",
+  "title": "Individual Studies for Master of Science Comprehensive Examinations and Ph.D Examinations",
+  "units": "0",
+  "description": "Individual studies for M.S. comprehensive examination and Ph.D.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "Consent of graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Research and preparation of dissertation.",
+  "prerequisites_raw": "Consent of chair of student's doctoral committee.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSCW",
+  "code": "CMPSCW 8",
+  "title": "Introduction to Computer Science",
+  "units": "4",
+  "description": "Introduction to computer program development for students with little to no programming experience. Basic programming concepts, variables and expressions, data and control structures, algorithms, debugging, program design, and documentation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSCW",
+  "code": "CMPSCW 9",
+  "title": "Intermediate Python Programming",
+  "units": "4",
+  "description": "Intermediate topics in Computer Science using the Python programming language. Topics include object oriented programming, runtime analysis, data structures, and software testing methodologies.",
+  "prerequisites_raw": "CMPSC 8 or CMPSC W8 or ENGR 3 or ENGR W3 or ECE 3 with a grade of C or better.",
+  "prerequisites_courses": [
+   "CMPSC 8",
+   "ENGR 3",
+   "ECE 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 1A",
+  "title": "Computer Programming and Organization I",
+  "units": "0",
+  "description": "Introduction to computer science, programming, algorithms and data structures.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 1B",
+  "title": "Computer Programming and Organization II",
+  "units": "0",
+  "description": "Object oriented programming, operating systems, scripting and assembly languages, graphical user interfaces.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 1L",
+  "title": "Programming Laboratory",
+  "units": "0",
+  "description": "Laboratory offering hands on Unix and other operating system experience. Small to large scale software development projects.",
+  "prerequisites_raw": "Consent of instructor. Concurrent enrollment in Creative Studies-Computer Science 1A or 1B.",
+  "prerequisites_courses": [
+   "CMPSC 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 2",
+  "title": "Foundations of Computer Science",
+  "units": "0",
+  "description": "Mathematical foundations of computer science, including sets, relations, functions, logic and combinatorics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Computing.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 10",
+  "title": "Computer Science Colloquium",
+  "units": "0",
+  "description": "Students receiving credit will present talks in their field on material arranged in consultation with the instructor. Credit assigned by the instructor will reflect the extent and quality of participation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPTGCS",
+  "code": "CMPTGCS 20",
+  "title": "Special Topics in Computer Science",
+  "units": "0",
+  "description": "Lectures on a coherent body of computer science topics which are not usually presented in standard computer science courses.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

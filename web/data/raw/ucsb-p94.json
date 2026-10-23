@@ -1,0 +1,290 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 151B",
+  "title": "Choreography",
+  "units": "3",
+  "description": "Analysis of the elements of choreographic form; styles and trends; experience in development of dance studies; theory and technique of advanced group choreography. Part B taps more broadly into the methods and theories behind dance composition and movement invention and interrogates multiple points of entry into the making process. Self-solo, duet and trio form is explored.",
+  "prerequisites_raw": "Dance 151A",
+  "prerequisites_courses": [
+   "THTR 151A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 151C",
+  "title": "Choreography",
+  "units": "3",
+  "description": "Analysis of the elements of choreographic form; styles and trends; experience in development of dance studies; theory and technique of advanced group choreography. Known as Kinetic Lab, Part C functions as a choreographic workshop for student choreographers to synthesize the creative tools, techniques and methods learned in previous choreography courses to begin to find an individualized aesthetic voice, and approach to creative practice.",
+  "prerequisites_raw": "Thtr 23D",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 151DA",
+  "title": "Digital Editing for Dance",
+  "units": "3",
+  "description": "A video skill-building course that introduces students to non-linear editing software and video camera operation. Drawing upon choreographic principles, students will create short film projects expanding their compositional proficiency and their technical knowledge of video editing tools.",
+  "prerequisites_raw": "Dance 50 and upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 151DB",
+  "title": "Digital Dance Portfolio",
+  "units": "3",
+  "description": "Focus on the creation of a video portfolio of choreographic work. Building on technical editing skills with an introduction to formatting options for web-ready, DVD-ready and large screen-ready video, and compositional techniques in editing theatrical dance works.",
+  "prerequisites_raw": "Dance 151DA",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 151DC",
+  "title": "Dance Videography",
+  "units": "3",
+  "description": "Focus on the creation of a video portfolio of choreographic work. Building on technical editing skills with an introduction to formatting options for web-ready, DVD-ready and large screen-ready video, and compositional techniques in editing theatrical dance works.",
+  "prerequisites_raw": "Dance 50 and upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 151E",
+  "title": "Choreography for the Theatre",
+  "units": "2",
+  "description": "The study of important dance routines of the American musical theatre from 1789 to present, with opportunity for perfomance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 156A",
+  "title": "Modern Dance III",
+  "units": "0",
+  "description": "Advanced analysis and exploration of the technical aspects of dance as an expressive medium. For dance majors. Open to non majors by audition.",
+  "prerequisites_raw": "Dance 56F.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 156B",
+  "title": "Modern Dance III",
+  "units": "0",
+  "description": "Advanced analysis and exploration of the technical aspects of dance as an expressive medium. For dance majors.",
+  "prerequisites_raw": "Dance 56F.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 156C",
+  "title": "Modern Dance III",
+  "units": "0",
+  "description": "Advanced analysis and exploration of the technical aspects of dance as an expressive medium. For dance majors.",
+  "prerequisites_raw": "Dance 56F.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 156D",
+  "title": "Modern Dance IV",
+  "units": "0",
+  "description": "Further analysis and exploration of the technical aspects of dance as an expressive medium.",
+  "prerequisites_raw": "Dance 156C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 156E",
+  "title": "Modern Dance IV",
+  "units": "0",
+  "description": "Further analysis and exploration of the technical aspects of dance as an expressive medium.",
+  "prerequisites_raw": "Dance 156C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 156F",
+  "title": "Modern Dance IV",
+  "units": "0",
+  "description": "Further analysis and exploration of the technical aspects of dance as an expressive medium.",
+  "prerequisites_raw": "Dance 156C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 156S",
+  "title": "Advanced Modern Dance",
+  "units": "0",
+  "description": "Advanced analysis and exploration of the technical aspects of dance as an expressive medium.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 157",
+  "title": "Writing for Dance",
+  "units": "4",
+  "description": "A creative approach to writing about dance with practical application in viewing, reviewing, and criticism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 158",
+  "title": "Pedagogy II",
+  "units": "0",
+  "description": "Further analysis of the theory and practice of teaching dance, including function and esthetics in the development of movement vocabulary, application of anatomy, kinetics and musicality. Includes practical experience teaching dance classes.",
+  "prerequisites_raw": "Dance 56F and 58.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 158A",
+  "title": "Teaching Dance in Community: Fundamentals of Engaging the At-Risk Youth Artist",
+  "units": "4",
+  "description": "Upper-division, hands-on course that teaches undergraduate students how to teach dance, choreography, and digital media to at-risk youth in fragile economic communities. Students will be mentored by professor and master artists, develop syllabi and teach a dance curriculum.",
+  "prerequisites_raw": "Upper-division or permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 158B",
+  "title": "Fundamentals of Dance Pedagogy",
+  "units": "4",
+  "description": "Upper division course examining philosophical and practical methodologies in teaching dance for children and adults, while focusing on multicultural awareness, academic study, Laban Movement Analysis, neuroscience, and classroom management. The integration of theory and practice, critical thinking skills, communication, collaboration and creativity are all emphasized.",
+  "prerequisites_raw": "Dance 56C and Dance 45.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 158C",
+  "title": "Classical Ballet Pedagogy: The Art of Teaching Ballet Technique, Pointe, Male Technique, and Pas de Deux",
+  "units": "4",
+  "description": "Upper Division studio course in classical ballet instruction. The fundamentals of teaching ballettechnique from Vaganova, Balanchine, and the ABT Curriculum. Students learn how to structure a ballet class, understand alignment corrections, ballet vocabulary, step progression, and combination development for optimal dancer development. The course also covers pointe work, male technique, and partnering. The course stresses how to use positivity, encouragement, psychology, and emphasize using correct vocabulary when teaching to avoid physically handling students.",
+  "prerequisites_raw": "DANCE 47A, 47B, 47C, 47D, 47E, 47F",
+  "prerequisites_courses": [
+   "DANCE 47A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 161",
+  "title": "JAZZ & THEATER FORM",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 163",
+  "title": "Advanced Improvisation",
+  "units": "2",
+  "description": "An Advanced-level studio course focusing on various approaches and applications of dance improvisation. Topics covered include solo and group improvisation, score building and utilization, contact improvisation (CI), and improvisation for performance and site-specificwork. Students are assigned readings and viewings to ground their work in the classroom within past and current theory and improvisational practices.",
+  "prerequisites_raw": "Dance 51 or permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 164",
+  "title": "Integrated Dance Partnering",
+  "units": "2",
+  "description": "An Upper Division, intermediate/advanced study of the skills, mechanics and intersection of multiple partnering dance forms. Integrated Partnering will draw from contact improvisation, ballet and contemporary partnering in order to develop a broad understanding, and adaptable command of partnering. Beyond foundational mechanics, conditioning and safe practices, the course delves into selected repertory phrase workand partnered work in collaborative, compositional, and improvisational capacities; supporting the practical application of skills in a professional rehearsal context.",
+  "prerequisites_raw": "Dance 47F and Dance 56F or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 165",
+  "title": "Embodied Anatomy",
+  "units": "0",
+  "description": "For dancers and individuals interested in studying human anatomy from a dancer's perspective, including scientific information, experiential practice, and a focus on both the body's physical structure and its kinetic possibilities. Brings awareness to how we synthesize time and space in order to move rhythmically, create coherent shapes, locomote through space and organize complex coordination of multiple systems within the body. Anatomical awareness helps with injury prevention and offers one a more meaningful relationship to their human form.",
+  "prerequisites_raw": "Upper-division or permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 166",
+  "title": "DANCE DRAMATURGY: THEORY IN PRACTICE",
+  "units": "4",
+  "description": "A seminar/studio course centered on the theory and practice of new work dramaturgy, specifically in the areas of Dance, and Devised Dance/Physical Theater. Studying and practicing contemporary approaches to dramaturgy in American contexts, we consider its varied applications and locate its development from origins in the European Theater. Two-thirds of course activity is fulfilled in a seminar format--with discussions, readings and viewings--and one-third covers practical dramaturgical work on a chosen project during the quarter.",
+  "prerequisites_raw": "DA 151A, DA 151BNo pre-requisites for Graduate Students, instructor approval needed for non-Theater/Dance graduate students",
+  "prerequisites_courses": [
+   "DA 151A",
+   "DA 151BN"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 167A",
+  "title": "Senior Solo Experimental Performance: Workshop in Creative Practice",
+  "units": "2",
+  "description": "Project development techniques, exploring modes of creative expression through various art disciplines and live performance techniques. Students engage in weekly workshops and discussions to build a tool kit for innovative dance creation.",
+  "prerequisites_raw": "DANCE 50, DANCE 51, DANCE 151A.",
+  "prerequisites_courses": [
+   "DANCE 50",
+   "DANCE 51",
+   "DANCE 151A",
+   "THTR 151A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 167B",
+  "title": "Senior Solo Experimental Performance: Multimedia Project Development",
+  "units": "1",
+  "description": "Individually researched performance projects. Engaging with dance, music, theater, object-based storytelling, video projection, visual art and world building techniques. Students create a unique one-person show/presentation to be shared in a live public performance ant the end of the quarter. Based primarily in one on one mentor-ship through the process of devising and refining the final project.",
+  "prerequisites_raw": "DANCE 50, DANCE 51, DANCE 151A, DANCE 167A",
+  "prerequisites_courses": [
+   "DANCE 50",
+   "DANCE 51",
+   "DANCE 151A",
+   "THTR 151A",
+   "DANCE 167A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 171",
+  "title": "Music for Dance: Listening Based Survey of Contemporary Aesthetics",
+  "units": "3",
+  "description": "Overview of form, structure, and tonality in western music, including global and historical influences. Examination of styles of music composition and performance, related to dance and choreography.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "DANCE",
+  "code": "DANCE 172",
+  "title": "Music for Dance: Structural Relationships",
+  "units": "3",
+  "description": "In-depth examination of music terminology, methodology, and composition for choreographers and dancers. Musical scoring and analysis related to choreographic works. Collaborative process. Exploration of historical, multi-cultural and contemporary music resources for choreographers.",
+  "prerequisites_raw": "Dance 171.",
+  "prerequisites_courses": []
+ }
+]

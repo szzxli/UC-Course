@@ -1,0 +1,388 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274H",
+  "title": "Advanced Fieldwork: Advancing Science and Practice to Support Diverse Students",
+  "units": "4",
+  "description": "Course involves supervised work in local schools and training on bridging the science-practice gap. Designed to enhance awareness and skills for providing culturally relevant, sensitive, effective, and responsive services to diverse populations. Supervised work includes assessment, consultation, and school-based therapy.",
+  "prerequisites_raw": "CNCSP 274D-E-F-G",
+  "prerequisites_courses": [
+   "CNCSP 274D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274I",
+  "title": "Advanced Fieldwork: Fundamentals of Supervision",
+  "units": "4",
+  "description": "Course involves supervised work in local schools and content related to supervision. Theory and research on supervision of school psychologists with a focus on preparing students for their role as a supervisor. Supervised work includes assessment, consultation, and school-based therapy.",
+  "prerequisites_raw": "CNCSP 274D-E-F-G-H",
+  "prerequisites_courses": [
+   "CNCSP 274D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 275",
+  "title": "Internship in School Psychology",
+  "units": "0",
+  "description": "Advanced internship in school psychology in a setting approved by faculty. Twenty to forty hours weekly of fieldwork under the supervision of a credentialed school psychologist are required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 276A",
+  "title": "Advanced Fieldwork: Clinical Supervision",
+  "units": "4",
+  "description": "Supervised fieldwork experience in the supervision of beginning therapists. A minimum of three hours/week of classroom experience and three hours/week of supervision in individual group sessions are required.",
+  "prerequisites_raw": "At least 6 quarters of practicum experience in a clinical, counseling, or school setting; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 277",
+  "title": "Autism Center Clinical Practicum",
+  "units": "0",
+  "description": "CNCSP 277 is a clinical practicum course that gives graduate students the opportunity to gain supervised therapy/intervention and/or assessment experience with children and adults who have autism and related conditions. All practicum experiences are supervised by a licensed psychologist.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 279A",
+  "title": "Internship in Professional Psychology",
+  "units": "0",
+  "description": "Advanced fieldwork internship in an approved setting. Twenty to fourty hours weekly (minimum of 1500 hours) of fieldwork under supervision of a licensed psychologist. Setting must be approved by CCSP faculty.",
+  "prerequisites_raw": "Consent of instructor and advancement to candidacy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 279B",
+  "title": "Internship in Professional Psychology",
+  "units": "0",
+  "description": "Advanced fieldwork internship in an approved setting. Twenty to fourty hours weekly (minimum of 1500 hours) of fieldwork under supervision of a licensed psychologist. Setting must be approved by CCSP faculty.",
+  "prerequisites_raw": "Consent of instructor and advancement to candidacy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 279C",
+  "title": "Internship in Professional Psychology",
+  "units": "0",
+  "description": "Advanced fieldwork internship in an approved setting. Twenty to fourty hours weekly (minimum of 1500 hours) of fieldwork undersupervision of a licensed psychologist. Setting must be approved by CCSP faculty.",
+  "prerequisites_raw": "Consent of instructor and advancement to candidacy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 290",
+  "title": "Seminar in Professional Psychology",
+  "units": "0",
+  "description": "Consideration of emerging topics in counseling, clinical, and/or school psychology. Course content may vary.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 291A",
+  "title": "Human Sexuality for Applied Psychologists",
+  "units": "1",
+  "description": "Introduces graduate students in applied psychology to physiological and socio-cultural variables associated with sexual identity, sexual behavior, and sexual functioning.",
+  "prerequisites_raw": "Consent of instructor; must be enrolled in the Counseling/Clinical/School Psychology Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 291B",
+  "title": "Substance Related Disorders and Other Addictive Behaviors",
+  "units": "2",
+  "description": "Course addresses causes, prevention, and treatment of drug and alcohol abuse. Designed to meet the requirements for licensure as a psychologist in the State of California.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 291C",
+  "title": "Family Violence",
+  "units": "4",
+  "description": "Course covers theories relating to the reasons for child abuse and domestic violence as well as theories and research on family violence and its treatment.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 292",
+  "title": "Resiliency, Strengths, and Youth Development",
+  "units": "4",
+  "description": "An in-depth review of research literature related to risk and resiliency concepts based on research from fields of developmental psychopathology, developmental delay, school drop-out, and substance abuse prevention.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 293",
+  "title": "Pedagogy in Applied Psychology",
+  "units": "4",
+  "description": "Preparation in teaching psychological concepts and skills in college-level courses. The content includes course development, lectures, cooperative learning, grading, teaching to diverse audiences, and ethics. Students will gain teaching experience as group leaders for sections of CNCSP 101.",
+  "prerequisites_raw": "CNCSP students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 294",
+  "title": "Sex, Gender, and Related Constructs in Applied Psychology",
+  "units": "4",
+  "description": "Introduces students to psychological research, theory, and practice related to sex, gender, sexual orientation, gender identity/expression, and sexuality.",
+  "prerequisites_raw": "CNCSP 227",
+  "prerequisites_courses": [
+   "CNCSP 227"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial in doctoral and masters' degree subprogram special fields.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 597",
+  "title": "Individual Study for Comprehensive Examinations",
+  "units": "0",
+  "description": "Preparation for master's or Ph.D. comprehensive examinations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Supervised research and writing of dissertation in doctoral degree.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSPW",
+  "code": "CNCSPW 101",
+  "title": "Introduction to Helping Skills: Theory, Research and Practice",
+  "units": "4",
+  "description": "Introduces students to theory and practice of psychotherapy and other helping relationships. Students learn about counseling, assessment, ethics, and helping skills. Students gain experience by serving as practice counseling clients or by volunteering in a relevant service setting.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSPW",
+  "code": "CNCSPW 102",
+  "title": "Research in Applied Psychology",
+  "units": "4",
+  "description": "Introduces students to research in applied psychology, including approaches to survey, experimental, and qualitative investigation. Students will be exposed to current research in applied psychology through journal articles, presentations, and participation in research studies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 112",
+  "title": "NIETZCHE AMBIG ROMN",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 114A",
+  "title": "DOSTOYEVSKY & KAFKA",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 114B",
+  "title": "DOSTOYEVSKY & KAFKA",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 115A",
+  "title": "LANGUAGE OF POWER",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 115B",
+  "title": "LANGUAGE OF POWER",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 117",
+  "title": "POET ARTIST BOOK",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 118A",
+  "title": "THE URBAN POOR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 118B",
+  "title": "THE URBAN POOR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 118C",
+  "title": "THE URBAN POOR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 119",
+  "title": "MIND AND ITS MYTHS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 120",
+  "title": "UNIV STRUCT PURPOSE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 122",
+  "title": "HERIT CHUMASH IND",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COLLQ",
+  "code": "COLLQ 123",
+  "title": "MORAL RESPON",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 1",
+  "title": "Introduction to Communication",
+  "units": "5",
+  "description": "An introduction to the basic concepts and principles in the field of communication. Contexts include intrapersonal, interpersonal, intercultural, public, small group, organizational, and mass communication.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 87",
+  "title": "Statistical Analysis for Communication",
+  "units": "5",
+  "description": "An introduction to basic statistical concepts and applications in communication research. Through lecture and computer labs, students are exposed to the principles and procedures involved in quantitative data analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 88",
+  "title": "Communication Research Methods",
+  "units": "5",
+  "description": "An introduction to social scientific research methods in the study of communication. Important issues in conducting research are examined in the contexts of survey research, experimental design, content analysis, and qualitative research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 89",
+  "title": "Theories of Communication",
+  "units": "5",
+  "description": "An introduction to major theories and theoretical influences in the field of communication. Theories are examined in the areas of verbal and nonverbal messages, cognition and persuasion, and the contexts of interpersonal, intercultural, small group, organizational, and mass communication.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 99RA",
+  "title": "Independent Research Assistance in Communication",
+  "units": "0",
+  "description": "Coursework consists of faculty supervised research assistance.",
+  "prerequisites_raw": "Open to Communication and Pre-Communication Majors only, or other majors by exception based on faculty member request.",
+  "prerequisites_courses": []
+ }
+]

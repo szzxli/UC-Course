@@ -1,0 +1,300 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 261",
+  "title": "Counseling Psychology Seminar",
+  "units": "4",
+  "description": "Course covers key aspects of counseling psychology, such as social justice, positive psychology, and prevention. The course covers professional and research literature and skill development to prepare students to implement these approaches in research and practice.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 261A",
+  "title": "Theories of Career Development",
+  "units": "4",
+  "description": "Focuses on theories of career development, current trends in research and the input of technological and social changes in the society on the role of work in life span development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 261B",
+  "title": "Theory and Research of Group Counseling",
+  "units": "4",
+  "description": "Reviews current theory, research, and practices related to group counseling. Special attention is given to comparisons of theoretical approaches and accompanying research strategies used in assessing the effectiveness of group counseling modalities.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 262A",
+  "title": "Consultation in the Schools and Community",
+  "units": "4",
+  "description": "Review of consultation theory and problem-solving models, role of consultant as a systems-change agent. Students utilize data-based decision-making to identify system targets, develop solutions, and facilitate solution implementation to bring about systems change.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 262B",
+  "title": "School-Based Mental Health Services",
+  "units": "4",
+  "description": "Group, individual and system strategies for evidence-based prevention and intervention with children and adolescents in the schools and communities. Problems and processes involved in the implementation of these strategies and programs are also explored.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 262C",
+  "title": "Counseling Children and Families",
+  "units": "4",
+  "description": "Covers counseling and psychotherapy for children, adolescents, and families. CBT, play therapy, and family systems therapies are examined.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 262D",
+  "title": "School Safety, Violence, and Crisis Response",
+  "units": "4",
+  "description": "Seminar offers foundation knowledge regarding school safety, school violence, and school crisis response to contribute to scholarship and practice emphasizing understanding and implementation of prevention and intervention programs that promote the mental health and physical well-being of students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 263A",
+  "title": "Advanced Psychotherapy Techniques",
+  "units": "4",
+  "description": "Exploration of techniques of major psychotherapy theories, evidence based practices, and application to diverse populations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 264A",
+  "title": "Supervision and Consultation in Applied Psychology",
+  "units": "4",
+  "description": "An overview of theory and research on (a) the process and outcomes of supervision of professional psychologists and (b) consultation models in applied psychology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 267",
+  "title": "Liberation Psychology and Approaches to Decolonized Healing",
+  "units": "4",
+  "description": "Overview of decolonized approaches to working with marginalized populations including sexual, affectional, and gender minority individuals and communities, individuals with disabilities, and racially marginalized communities, including content related to abolition, liberatory harm reduction, spirituality, and egalitarian research methods.",
+  "prerequisites_raw": "CNCSP 226 OR CNCSP 227",
+  "prerequisites_courses": [
+   "CNCSP 226",
+   "CNCSP 227"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 268A",
+  "title": "Gender Issues in Counseling",
+  "units": "4",
+  "description": "Familiarizes students with theoretical approaches to working with gender in counseling, course reviews scholarship related to pscyho-social concerns that disproportionately affect women and men, and demonstrates clinical approaches to working with gender issues in therapy.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 268B",
+  "title": "Counseling LGBT Clients",
+  "units": "4",
+  "description": "Course equips students with the knowledge, attitude awareness, and skills necessary to work effectively with lesbian, gay, bisexual, and transgender clients on a variety of issues.",
+  "prerequisites_raw": "Consent of instructor; must be enrolled in Counseling/Clinical/School Psychology Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 268C",
+  "title": "Racial/Ethnic Minority Counseling Interventions",
+  "units": "4",
+  "description": "Critical examination of prevailing counseling intervention strategies with racial/ethnic minorities. Focus on identification of ways to improve the quality and utility of the interventions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 270",
+  "title": "Advanced Fieldwork: General",
+  "units": "4",
+  "description": "Course involves supervised work with adults, children, adolescents, and families in the Hosford Clinic. Supervised work includes intakes, assessment, counseling & psychotherapy. Related readings, case notes, written case conceptualizations, and other written assignments and clinic responsibilities are required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 271A",
+  "title": "Hosford Clinic Practicum",
+  "units": "0",
+  "description": "CCSP students see community clients on a periodic basis for psychological services in the CCSP Hosford Counseling and Psychological Services Clinic. Students are supervised by clinic supervisors and professionals from the field.",
+  "prerequisites_raw": "Limited to CCSP students only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 271AF",
+  "title": "Hosford Clinic Practicum",
+  "units": "4",
+  "description": "CCSP students see 3-5 community clients on a weekly basis for psychotherapy in the Gevirtz Graduate School of Education Hosford Counseling Clinic. Students are supervised by clinic supervisors and professionals from the field.",
+  "prerequisites_raw": "Limited to CCSP students only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 271AS",
+  "title": "Hosford Clinic Practicum",
+  "units": "4",
+  "description": "CCSP students see 3-5 community clients on a weekly basis for psychotherapy in the Gevirtz Graduate School of Education Hosford Counseling Clinic. Students are supervised by clinic supervisors and professionals from the field.",
+  "prerequisites_raw": "Limited to CCSP students only; consent of instructor.Must have completed CNCSP 271AF and CNCSP 271AW.",
+  "prerequisites_courses": [
+   "CNCSP 271AF",
+   "CNCSP 271AW"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 271AW",
+  "title": "Hosford Clinic Practicum",
+  "units": "4",
+  "description": "CCSP students see 3-5 community clients on a weekly basis for psychotherapy in the Gevirtz Graduate School of Education Hosford Counseling Clinic. Students are supervised by clinic supervisors and professionals from the field.",
+  "prerequisites_raw": "Limited to CCSP students only; consent of instructor.Must have completed CNCSP 271AF.",
+  "prerequisites_courses": [
+   "CNCSP 271AF"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 271B",
+  "title": "Advanced Practicum: Mind and Behavioral Assessment Clinic",
+  "units": "0",
+  "description": "CCSP students see 1-4 community clients on a weekly basis for psychotherapy in the Gevirtz Graduate School of Education Hosford Counseling Clinic. Students are supervised by clinic supervisors and professionals from the field.",
+  "prerequisites_raw": "CNCSP 250 or consent of instructor; limited to CCSP students only.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 272",
+  "title": "Advanced Fieldwork: Counseling Psychology",
+  "units": "4",
+  "description": "Advanced supervised fieldwork in an approved counseling setting under the supervision of a licensed psychologist. A minimum of two full days each week in an approved setting is required.",
+  "prerequisites_raw": "Three quarters of CNCSP 270; consent of instructor.",
+  "prerequisites_courses": [
+   "CNCSP 270"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 273",
+  "title": "Advanced Fieldwork: Clinical Psychology",
+  "units": "4",
+  "description": "Advanced supervised fieldwork in an approved clinical setting under the supervision of a licensed psychologist. A minimum of two full days each week in an approved setting is required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274A",
+  "title": "Contemporary Issues in Student Services: School Psychology First Year Induction",
+  "units": "4",
+  "description": "University-based supervision, school placements. A seminar course discussing contemporary issues in student services; includes practica.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274B",
+  "title": "Contemporary Issues in Special Education Process: School Psychology First Year Induction",
+  "units": "4",
+  "description": "University-based supervision and school placements. A seminar course discussing contemporary issues in special education process; including practica.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274C",
+  "title": "School Discipline and Alternative Schooling: Psychology First Year Induction",
+  "units": "4",
+  "description": "University-based supervision, school placements. A seminar course discussing school discipline and alternative schooling; includes practica.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274D",
+  "title": "Assessment and Data-Based Decision-Making in the Schools: School Psychology Practicum",
+  "units": "4",
+  "description": "Introduction to the school's instructional setting. Core instructional features and pro-social prevention efforts are operationalized and examined in schools. Students learn to identify system-level intervention targets.",
+  "prerequisites_raw": "Enrollment in the school psychology credential program; CNCSP 250 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274E",
+  "title": "Ethics, Diversity, and Specialized Assessment and Intervention: School Psychology Practicum",
+  "units": "4",
+  "description": "Participation in didactic instruction and practical experiences in working with culturally and linguistically diverse children. Examination of issues in working with children of different ages, in different settings, risk factors and disabilities. Specialized assessment models using single-subject design assessing intervention effectiveness.",
+  "prerequisites_raw": "Enrollment in school psychology credential program; CNCSP 250 with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CNCSP 250"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274F",
+  "title": "The School Psychologist as the Intervention Consultant: School Psychology Practicum",
+  "units": "4",
+  "description": "Planning and implementing interventions in the school. Students monitor progress, provide feedback, engage in data-based decision-making in collaboration with teachers, parents and system administrators to facilitate improved child outcomes.",
+  "prerequisites_raw": "Enrollment in the school psychology credential program; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CNCSP",
+  "code": "CNCSP 274G",
+  "title": "Advanced Fieldwork: School-based Mental Health Theories and Interventions",
+  "units": "4",
+  "description": "Course involves supervised work in local schools and training related to school-based mental health theories and evidence-based interventions. Supervised work includes assessment, consultation, and therapy. Related readings, case notes, written case conceptualizations, case presentations, and other assignments are required.",
+  "prerequisites_raw": "CNCSP 274D-E-F",
+  "prerequisites_courses": [
+   "CNCSP 274D"
+  ]
+ }
+]

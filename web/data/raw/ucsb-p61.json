@@ -1,0 +1,353 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Directed study, normally experimental, to be arranged with individual faculty members. Course offers exceptional students an opportunity to participate in a research group. Basic techniques and the operation of instruments used in research. A few students in chemistry are quite advanced having had extensive laboratory training in high school or elsewhere. This course allows them the opportunity to participate in a research group before they acquire 84 units and are then eligible for and capable of handling 199, Independent Studies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 102",
+  "title": "Teaching Chemistry at the High School/Junior High Level",
+  "units": "4",
+  "description": "Students will work to develop a high school/junior high curriculum unit. In addition, students will work in either a high school or junior high classroom and share their experiences through class discussions. Students will also have the opportunity to participate in one of two elementary outreach programs that are run out of the chemistry department.",
+  "prerequisites_raw": "Chemistry 1A-AL, 1B-BL, 1C-CL",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 1B",
+   "CHEM 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 104",
+  "title": "The Science and Engineering of Energy Conversion",
+  "units": "3",
+  "description": "Framework for understanding the energy supply issues facing society with a focus on the science,engineering, and economic principles of the major alternatives. Emphasis is on the physical andchemical fundamentals of energy conversion technologies.",
+  "prerequisites_raw": "Chem 112A-B-C or Chem 113A-B-C",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 109A",
+  "title": "Organic Chemistry",
+  "units": "4",
+  "description": "Introduction to organic chemistry. Topics include acid/base chemistry, conformational analysis, stereoisomers, thermodynamics and kinetics, aromaticity and resonance, and multistep synthesis as well as the nomenclature, structure, reactivity, and mechanisms of alkenes, alkynes, and alkyl halides. Reaction mechanisms include electrophilic addition, substitution, and elimination reactions.",
+  "prerequisites_raw": "Chemistry 1C or 2C or 3C with a minimum grade of C-; or Chemistry 1B or 2B or 3B with a minimum grade of B-.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 1B",
+   "CHEM 2C",
+   "CHEM 3C",
+   "CHEM 2B",
+   "CHEM 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 109AH",
+  "title": "Organic Chemistry (H)",
+  "units": "4",
+  "description": "Structure, nomenclature, stereochemistry, and reactivity of organic molecules. Suitable for undergraduates requiring strong understanding of organic chemistry and possessing strong background in science, such as honors students, majors in chemistry, biochemistry-chem, chemical engineering, etc. This course cannot be repeated.",
+  "prerequisites_raw": "Chemistry 1B/2B or 1C/2C with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2B",
+   "CHEM 1C",
+   "CHEM 2C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 109B",
+  "title": "Organic Chemistry",
+  "units": "4",
+  "description": "Structure, reactivity, mechanisms, synthesis, and nomenclature of organic molecules including alcohols, radicals, aldehydes, ketones, carboxylic acids and carboxylic acid derivatives, and aromatic rings. Other topics include organometallic compounds and reactions at the alpha carbon.",
+  "prerequisites_raw": "Chemistry 130A, 109A or 109AH with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 130A",
+   "CHEM 109A",
+   "CHEM 109AH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 109BH",
+  "title": "Organic Chemistry (H)",
+  "units": "4",
+  "description": "Structure, nomenclature, stereochemistry, and reactivity of organic molecules. Suitable for undergraduates requiring strong understanding of organic chemistry and possessing strong background in science, such as honors students, majors in chemistry, biochemistry-chem, chemical engineering, etc. This course cannot be repeated.",
+  "prerequisites_raw": "Chemistry 109A with a minimum grade of B+ or Chemistry 109AH with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CHEM 109A",
+   "CHEM 109AH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 109C",
+  "title": "Organic Chemistry",
+  "units": "4",
+  "description": "Structure, reactivity and synthesis of organic molecules including nomenclature, reaction mechanisms, and stereochemistry. Topics include organometallics, polymers, carbohydrates, amino acids, proteins, nucleic acids, coenzymes and their mechanisms.",
+  "prerequisites_raw": "Chemistry 130B or 109B or 109BH with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 130B",
+   "CHEM 109B",
+   "CHEM 109BH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 109CH",
+  "title": "Organic Chemistry (H)",
+  "units": "4",
+  "description": "Structure, reactivity, mechanisms, synthesis, nomenclature, and spectroscopic identification of the principal classes of organic compounds as well as organometallics, amino acids, proteins, and carbohydrates. This course is intended for chemistry majors and others requiring a strong basis in organic chemistry.",
+  "prerequisites_raw": "Chemistry 109B with a minimum grade of B+ or Chemistry 109BH with a minimum grade of B.",
+  "prerequisites_courses": [
+   "CHEM 109B",
+   "CHEM 109BH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 110",
+  "title": "Introduction to the Chemical Applications of Group Theory",
+  "units": "3",
+  "description": "The mathematics of group theory is introduced. Point groups and symmetry operations will be applied toward the normal coordinate analysis of molecular vibrations and the construction of molecular orbitals from symmetry adapted linear combinations of atomic orbitals.",
+  "prerequisites_raw": "Chem 1A, 1B, or 2A, 2B. �Concurrent enrollment in Chem 1C or 2C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 110L",
+  "title": "Introductory Biochemistry Laboratory",
+  "units": "5",
+  "description": "Gives students hands-on experience with modern methods of separation, identification, and study of biomolecules and macromolecular structures. Focus is on techniques but the course also gives an introduction to computer-based bioinformatics tools.",
+  "prerequisites_raw": "Chemistry 142A or Chemistry W 142A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 111",
+  "title": "Chemical Kinetics",
+  "units": "3",
+  "description": "The laws and theories governing rates of chemical reactions and reaction mechanisms. Empirical treatment of reaction rates, treatment of data, gas-phase reactions, reactions in solution, catalysis, complex reactions, chain reactions. Collision theory and potential energy surfaces.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 112A",
+  "title": "Biophysical Chemistry",
+  "units": "4",
+  "description": "Laws of thermodynamics, chemical equilibria and ligand binding, phase equilibria, electrochemistry, nonelectrolyte solutions, applications to biochemical problems.",
+  "prerequisites_raw": "Chemistry 1C or 2C or 3C; and, Mathematics 2A-B or 3A-B, and 6A; and, Physics 7A-B-C-L, or, Physics 1, 2, 3, 3L, 4, and 4L, or, Physics 6A-AL-B-BL-C-CL; Chemistry 142A, Chem W 142A or MCDB 108A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "MATH 2A",
+   "PHYS 7A",
+   "PHYS 1",
+   "PHYS 6A",
+   "CHEM 142A",
+   "MCDB 108A",
+   "CHEM 2C",
+   "CHEM 3C",
+   "MATH 3A",
+   "MATH 6A",
+   "PHYS 2",
+   "PHYS 3",
+   "PHYS 3L",
+   "PHYS 4",
+   "PHYS 4L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 112B",
+  "title": "Biophysical Chemistry",
+  "units": "4",
+  "description": "Forces influencing macromolecular conformation, microscopy and diffraction methods, quantum mechanics, statistical mechanics.",
+  "prerequisites_raw": "Chemistry 112A; Chemistry 142A or Chemistry W 142A or MCDB 108A; Chemistry 142B or MCDB 108B (may be taken concurrently); Math 4A.",
+  "prerequisites_courses": [
+   "CHEM 112A",
+   "CHEM 142A",
+   "MCDB 108A",
+   "CHEM 142B",
+   "MCDB 108B",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 112C",
+  "title": "Biophysical Chemistry",
+  "units": "4",
+  "description": "Biological spectroscopy, nuclear magnetic resonance, mass transport dynamics in solution, chemical and biochemical kinetics.",
+  "prerequisites_raw": "Chemistry 112B; Chemistry 142B or MCDB 108B; Chemistry 142C or MCDB 108C (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 112B",
+   "CHEM 142B",
+   "MCDB 108B",
+   "CHEM 142C",
+   "MCDB 108C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 112L",
+  "title": "Biophysical and Bioanalytical Laboratory",
+  "units": "5",
+  "description": "Application of modern biophysical and bioanalytical techniques to study the structure, function, and properties of biomolecules. Fluorescence spectroscopy, mass spectroscopy, FTIR, 2D-NMR, diffraction techniques, circular dichroism.",
+  "prerequisites_raw": "Chemistry 125L and Chemistry 142C (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 125L",
+   "CHEM 142C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 113A",
+  "title": "Physical Chemistry",
+  "units": "4",
+  "description": "Chemical thermodynamics: laws of thermodynamics, phase equilibria, chemical equilibria, equations of state.",
+  "prerequisites_raw": "Chemistry 1C or 2C; and, Mathematics 2A-B or 3A-B, and 6A; and, Physics 7A-B-C-L, or, Physics 1-2-3-3L-4-4L, or, Physics 6A-AL-B-BL-C-CL.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "MATH 2A",
+   "PHYS 7A",
+   "PHYS 1",
+   "PHYS 6A",
+   "CHEM 2C",
+   "MATH 3A",
+   "MATH 6A",
+   "PHYS 2",
+   "PHYS 3",
+   "PHYS 3L",
+   "PHYS 4",
+   "PHYS 4L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 113AL",
+  "title": "Physical Chemistry Laboratory",
+  "units": "3",
+  "description": "Lecture: instrumental techniques, data analysis, error analysis, instruction in Mathematica-R. Laboratory: Mathematica-R, a symbolic programming language, is taught in the computer laboratory.",
+  "prerequisites_raw": "Chemistry 113A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 113A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 113B",
+  "title": "Physical Chemistry",
+  "units": "4",
+  "description": "Quantum theory and spectroscopy: introduction to quantum mechanics; symmetry, molecular structure, and spectroscopy.",
+  "prerequisites_raw": "Chemistry 113A or Chemical Engineering 110A-B; Math 4A.",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CH E 110A",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 113C",
+  "title": "Physical Chemistry",
+  "units": "4",
+  "description": "Kinetic theory of gases, chemical kinetics, statistical mechanics, photochemistry.",
+  "prerequisites_raw": "Chemistry 113B.",
+  "prerequisites_courses": [
+   "CHEM 113B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 114A",
+  "title": "Electrochemistry",
+  "units": "3",
+  "description": "Theory and applications of electrochemistry. Thermodynamics and kinetics. Discussion of practical technologies, including batteries, fuel cells, electrolysis, electroplating, biosensors and/or other selected topics.",
+  "prerequisites_raw": "Chemistry 112A-B-C or Chemistry 113A-B-C",
+  "prerequisites_courses": [
+   "CHEM 112A",
+   "CHEM 113A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 115A",
+  "title": "Fundamentals of Quantum Chemistry",
+  "units": "3",
+  "description": "Introduction to quantum mechanics-postulatory approach; particle in box, on ring, harmonic oscillator; linear operator theory, matrix algebra; hydrogen atom; perturbation theory, variation theory; applications.",
+  "prerequisites_raw": "Mathematics 4B, and Chemistry 113A-B-C or Chemistry 112A-B-C.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "CHEM 113A",
+   "CHEM 112A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 115B",
+  "title": "Fundamentals of Quantum Chemistry",
+  "units": "3",
+  "description": "Molecular orbital theory and valence bond theory; Huckel theory (secular eqn.) applications to conjugated systems, electronic spectra, and term symbols; introduction to infrared, Raman, and microwave spectroscopy.",
+  "prerequisites_raw": "Chemistry 115A",
+  "prerequisites_courses": [
+   "CHEM 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 115C",
+  "title": "Fundamentals of Quantum Chemistry",
+  "units": "3",
+  "description": "Introduction to NMR, EPR, group theory; and applications.",
+  "prerequisites_raw": "Chemistry 115A.",
+  "prerequisites_courses": [
+   "CHEM 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 116AL",
+  "title": "Quantitative Analytical and Physical Methods Laboratory",
+  "units": "5",
+  "description": "Principles of analytical chemistry including spectroscopy, classical techniques and separation processes. Quantitative analysis of unknowns. Introduction to instrumental analysis.",
+  "prerequisites_raw": "Chemistry 150; Chemistry 113B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 150",
+   "CHEM 113B"
+  ]
+ }
+]

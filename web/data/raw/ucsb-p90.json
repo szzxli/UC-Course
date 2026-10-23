@@ -1,0 +1,222 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594CT",
+  "title": "Computational Textual Analysis for Communication Research",
+  "units": "4",
+  "description": "This course provides an introduction to computational methods in textual analysis, specifically designed for those in the field of communication research. This course is practical and hands-on in nature and focuses on theoretical and empirical questions we can ask with text-as-data from a social science perspective and learn how to answer them. The course content covers data scraping, text data cleaning and preprocessing, dictionary-based analysis, unsupervised topic modeling, supervised text classification, the use of large language models, and techniques for effective visualization and reporting of findings. To follow this course, basic Python and R knowledge would be beneficial, but advanced programming skills are not required.",
+  "prerequisites_raw": "Graduate standing; consent of department for students outside of COMM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594DD",
+  "title": "The Digital Divide",
+  "units": "4",
+  "description": "Information and communication technologies (ICT) have become essential for survival in the 21st century. Most people in industrialized settings rely on the internet for all aspects of life, including education, employment, healthcare, politics and personal relationships. At the same time, these tools are expensive, fragile, and often complicated to use. As a result, there are inequalities in who has access to digital technology and who can use it successfully. This class examines these inequalities and the ways they influence, and are influenced by, larger socio-economic inequalities. We explore relevant theories, review current data, and consider creative interventions to help reduce digital divides in years to come.",
+  "prerequisites_raw": "Graduate standing; consent of department for students outside of COMM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594EM",
+  "title": "Special Topics: Emotion and Media Effects",
+  "units": "0",
+  "description": "Overview of the the ways in which emotion has been integrated into the study of media effects, focusing on emotion as a predictor of media selection, as an outcome of media exposure, and as the mechanism by which other media effects occur. Traditional lines of research covered include mood management, fright-inducing media, and emotional persuasive appeals. More contemporary issues will receive particular emphasis, including emotion and message sharing, emotional effects of social media use, and the relationship between media use and well-being.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594GC",
+  "title": "Global Communication, International Relations and the Media",
+  "units": "0",
+  "description": "Explores the nature, role and influence of globalization and technology on communication and international relations. To do so we examine how these impact the media, the audience and policy makers. We begin by considering the context in which this communication occurs and how this has changed over time. Next, we examine how these communication changes have altered the conduct and understanding of international relations as well as the actors in the making of policy and explore public diplomacy by states and citizen diplomacy. Finally, we conclude by considering the implications of current trends in global communication for global relations.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594IR",
+  "title": "Communication & International Relations",
+  "units": "0",
+  "description": "Seminar exploring the nature, role and influence of globalization and technology on communication and international relations. Examines how these impact the media, the audience and policymakers. Considers the context in which this communication occurs and how this has changed over time with particular reference to globalization and technology. Examines how these communication changes have altered media manifestations in terms of both time and space and how these have affected the conduct and understanding of international relations. Examines the processes of diplomacy as well as the actors in the making of policy and explore public diplomacy by states and citizen diplomacy. Explores negative aspects of globalization, such as terrorism.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594MD",
+  "title": "Media Representation of Diversity",
+  "units": "0",
+  "description": "Explores social scientific theory and research on intergroup dynamics and how media representations of diversity affects these relations. In the beginning of the term, we focus on a) social psychological explanations of intergroup dynamics and biases, and b) theories explaining how media affects outgroup perceptions and attitudes. Next, we explore media effects literature on how racial majority and minority groups are presented in the media and the consequences of these portrayals on intergroup relations. Finally, we focus on how the media can be used to promote positive intergroup relations.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594MS",
+  "title": "Media & Stereotyping",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594PC",
+  "title": "Political Communication",
+  "units": "4",
+  "description": "This course offers an exploration of foundational and contemporary topics in Political Communication theory and research. We consider questions about the nature of politics and communication as well as diving into key theoretical debates in the subfield. The course aims to provide a broad overview of this area of research, while at the same time foregrounding how politics emerges in interpersonal, intergroup, and organizational settings.",
+  "prerequisites_raw": "Graduate standing; consent of department for students outside of COMM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594R",
+  "title": "R Programming for Communication Research",
+  "units": "4",
+  "description": "Covers fundamentals of the R statistical programming language for researchers and students in Communication and related fields. Students learn the basic skills needed to use R as a tool in their research and coursework. Topics include version control, data manipulation, data visualization, basic statistical analyses, and publication-ready output. No prior experience with R is required.",
+  "prerequisites_raw": "Graduate standing; consent of department for students outside of COMM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594RC",
+  "title": "Risk Communication",
+  "units": "4",
+  "description": "Explores theories and models that aid in risk message design, channels of communication, and barriers (psychological, communicative, and structural) to effective risk communication. We use Plough and Krimsky’s (1987) definition of risk communication: “any public or private communication that informs individuals about the existence, nature, form, severity, or acceptability of risks…” and it can go “from any source to any recipient through any channel” (pp. 6-7). Considers how risk communication design, access, and effects can vary based on the audience’s race/ethnicity, age, education, socioeconomic status, geographic location, etc.",
+  "prerequisites_raw": "Graduate standing; consent of department for students outside of COMM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594SW",
+  "title": "Scholarly Writing",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594TO",
+  "title": "Collaborative Technology and Organizing",
+  "units": "4",
+  "description": "Examination of contemporary theory and research on the role of communication technology in organizations and processes of organizing, including remote work, virtual teams, globally distributed organizations, online communities, and online social movements.",
+  "prerequisites_raw": "Graduate standing; consent of department for students outside of COMM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 595",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Critical review of research in selected fields.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 596",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Individual tutorial. Provides students with supervised research experience including any of the following: reviewing literature, formulating research questions, designing measures, collecting and analyzing data, and writing papers. Written proposal must be approved by the departmental graduate advisor.",
+  "prerequisites_raw": "Consent of instructor; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 596A",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Individual tutorial. Provides students with supervised research experience including any of the following: reviewing literature, formulating research questions, designing measures, collecting and analyzing data, and writing papers. Written proposal must be approved by the departmental graduate advisor.",
+  "prerequisites_raw": "Consent of instructor; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 597",
+  "title": "Preparation for the Qualifying Examination",
+  "units": "0",
+  "description": "Directed group or individual preparation for the master's or doctoral qualifying examination.",
+  "prerequisites_raw": "Consent of graduate advisor; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "The thesis is done under the direction of the chair of a student's thesis committee.",
+  "prerequisites_raw": "Consent of thesis advisor; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 599",
+  "title": "Dissertation Preparation",
+  "units": "0",
+  "description": "Course is reserved for writing the dissertation.",
+  "prerequisites_raw": "Graduate standing; consent of department; advancement to candidacy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM W",
+  "code": "COMM W 107",
+  "title": "Introduction to Interpersonal Communication",
+  "units": "4",
+  "description": "Survey of theory and research in interpersonal communication, including social and intimate relationships and conversational interaction.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM W",
+  "code": "COMM W 113",
+  "title": "Media Effects on Individuals",
+  "units": "4",
+  "description": "The effects of media communication on individual cognitive processes and the social environment. Emphasis on media effects on individual attitudes, family interaction, children, perceptions of minorities, sex-role stereotyping and other outcomes.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM W",
+  "code": "COMM W 117",
+  "title": "Persuasion",
+  "units": "4",
+  "description": "Analysis and synthesis of current persuasion theory to understand how messages influence attitudes and behaviors. Topics covered include: theories for altering attitudes and behaviors, the persuasion process, and the use of persuasion in applied contexts.",
+  "prerequisites_raw": "Not open to Freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM W",
+  "code": "COMM W 146",
+  "title": "Understanding and Detecting Human Deception",
+  "units": "4",
+  "description": "An interdisciplinary study of the methods of human deception detection from the perspectives of law enforcement, national security and intelligence analysis, criminal justice, psychology, sociology, and communication. How to accurately determine when someone is lying is a multi-disciplinary problem and requires a variety of technological and data analytic solutions. Our primary goal will be to comprehend a representative picture of the traditional and contemporary theories regarding the intersection of communication, cognition, and emotion in deception detection.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

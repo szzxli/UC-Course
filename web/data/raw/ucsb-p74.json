@@ -1,0 +1,276 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 42",
+  "title": "Logic and Automata",
+  "units": "4",
+  "description": "Introduction to formal logic and computational theory. Covers propositional and predicate logic and select topics from formal languages and automata theory, including regular, context-free languages, and Turing Machines.",
+  "prerequisites_raw": "Computer Science 41; open to Computer Science and Computer Engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 41"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 64",
+  "title": "Computer Organization and Logic Design",
+  "units": "4",
+  "description": "Assembly language programming and advanced computer organization; Digital logic design topics including gates, combinational circuits, flip-flops, and the design and analysis of sequential circuits.",
+  "prerequisites_raw": "Computer Science 16 with a grade of C or better; and Mathematics 3C or 4A with a grade of C or better.",
+  "prerequisites_courses": [
+   "CMPSC 16",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 90",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 90DA",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 90DB",
+  "title": "Special Topics in Computer Science",
+  "units": "4",
+  "description": "Provides for the study of topics of current interest in computer science: A. Foundations; B. Software Systems; C. Programming Languages and Software Engineering; D. Information Management; E. Architecture; F. Networking; G. Security; H. Scientific Computing; I. Intelligent and Interactive Systems; N. General.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 95",
+  "title": "Undergraduate Seminar in Computer Science",
+  "units": "0",
+  "description": "Provides an overview of the history, technology, applications, and impact in various areas of computer science, including: A. Foundations, B. Software Systems, C. Programming languages and software engineering, D. Information management,E. Architecture, F. Networking G. Security, H. Scientific computing,I. Intelligent and interactive systems, J. History, N. General.",
+  "prerequisites_raw": "Open to computer science and computer engineering majors only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 96",
+  "title": "Undergraduate Research",
+  "units": "0",
+  "description": "Research opportunities for undergraduate students. Students will be expected to give regular oral presentations, actively participate in a weekly seminar, and prepare at least one written report on their research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 99",
+  "title": "Independent Studies in Computer Science",
+  "units": "0",
+  "description": "Independent studies in computer science for advanced students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 100",
+  "title": "Introduction to Teaching Methods in Computer Science",
+  "units": "4",
+  "description": "Designed to train outstanding undergraduates for learning assistant positions in CS courses. Lecture/discussion surveys current research and best practices in CS pedagogy including student development theories, different pedagogical techniques, and methods for assessing learning. Students gain experience working one-on-one with students, fostering positive learning environments, and providing feedback on student work. Students who successfully complete this course will earn units by serving as an apprentice undergraduate learning assistant.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 110",
+  "title": "Introduction to Research in Computer Science",
+  "units": "4",
+  "description": "Defining a CS research problem, finding and reading technical papers, oral communication, technical writing, and independent learning. Course participants work in teams as they apprentice with a CS research group to propose an original research problem and write a research proposal.",
+  "prerequisites_raw": "Computer Science 40 and Computer Science 32; consent of instructor.",
+  "prerequisites_courses": [
+   "CMPSC 40",
+   "CMPSC 32"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 111",
+  "title": "Introduction to Computational Science",
+  "units": "4",
+  "description": "Introduction to the numerical algorithms that form the foundations of data science, machine learning, and computational science and engineering. Matrix computation, linear equation systems, eigenvalue and singular value decompositions, numerical optimization. The informed use of mathematical software environments and libraries, such as python/numpy/scipy.",
+  "prerequisites_raw": "Mathematics 4B with a grade of C or better; Mathematics 6A with a grade of C or better; Computer Science 24 with a grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 6A",
+   "CMPSC 24"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 123",
+  "title": "Overview of Computer Systems: Hardware and Software",
+  "units": "4",
+  "description": "Basic computer architecture: CPU, memory, I/O. Basic operating systemsConcepts: processes, synchronization, memory management, virtual memory, file systems.",
+  "prerequisites_raw": "Computer Science 32; or Computer Science 20 and 60.",
+  "prerequisites_courses": [
+   "CMPSC 32"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 130A",
+  "title": "Data Structures and Algorithms",
+  "units": "4",
+  "description": "Data structures and applications with proofs of correctness and analysis. Hash Tables, Priority Queues (heaps); Balanced Search Trees. Graph Traversal techniques and their applications.",
+  "prerequisites_raw": "Pre-requisites: CMPSC 40 or MATH 8 with a grade of C or better; CMPSC 24 or CMPSC 9 with a grade of C or better; PSTAT 120A or ECE 139 (may be taken concurrently with CMPSC 130A); open to computer science, computer engineering, and electrical engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 40",
+   "MATH 8",
+   "CMPSC 24",
+   "CMPSC 9",
+   "PSTAT 120A",
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 130B",
+  "title": "Data Structures and Algorithms II",
+  "units": "4",
+  "description": "Design and analysis of computer algorithms. Correctness proofs and solution of recurrence relations. Design techniques; divide and conquer, greedy strategies, dynamic programming. Applications of techniques to problems from several disciplines. NP - completeness.",
+  "prerequisites_raw": "Computer Science 130A.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 132",
+  "title": "Algorithms Engineering",
+  "units": "4",
+  "description": "Applying theoretical knowledge about algorithms, data structures, and complexity to performing the complete process of analyzing a computational problem, estimating the running time of suggested solutions, and implementing an effective and correct program for the computational problem.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 134",
+  "title": "Randomized Algorithms",
+  "units": "4",
+  "description": "Covers advanced algorithmic ideas, focusing on randomized algorithms. Explores how randomization can be used to make algorithms simpler and more efficient, and to understand the probabilistic analysis of algorithms.",
+  "prerequisites_raw": "CMPSC 130B with a letter grade of B or better.",
+  "prerequisites_courses": [
+   "CMPSC 130B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 135",
+  "title": "Mathematics of Artificial Intelligence",
+  "units": "4",
+  "description": "Comprehensive mathematical foundation for machine learning and AI. Covers key topics in statistics, linear algebra, and optimization as applied to modern AI systems. Topics include quantifying bias and variance, estimation theory (e.g., maximum likelihood estimation, ensemble methods), statistics on graphs, including the configuration model, probability distributions on graphs, summary statistics, and random walks. Optimization topics include gradient descent, continuous and convex optimization, backpropagation, kernel methods, and practical aspects of optimization.",
+  "prerequisites_raw": "Math 4A; CMPSC 12 or CMPSC 24; and ECE 139.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "CMPSC 12",
+   "CMPSC 24",
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 138",
+  "title": "Automata and Formal Languages",
+  "units": "4",
+  "description": "Formal languages; finite automata and regular expressions; properties of regular languages; pushdown automata and context-free grammars; properties of context-free languages; introduction to Turing machines and computability.",
+  "prerequisites_raw": "Computer Science 40 with a grade of C or better; open to Computer Science and Computer Engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 40"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 140",
+  "title": "Parallel Scientific Computing",
+  "units": "4",
+  "description": "Fundamentals of high performance computing and parallel algorithm design for numerical computation. Topics include parallel architectures and clusters, parallel programming with message-passing libraries and threads, program parallelization methodologies, parallel performance evaluation and optimization, parallel numerical algorithms and applications with different performance tradeoffs.",
+  "prerequisites_raw": "Mathematics 4B with a grade of C or better; Mathematics 6A with a grade of C or better; Computer Science 130A.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 6A",
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 148",
+  "title": "Computer Science Project",
+  "units": "4",
+  "description": "Team-based project development. Topics include software engineering and professional development practices, interface design, advanced library support; techniques for team oriented design and development, testing and test driven development, and software reliability and robustness. Students present and demonstrate final projects.",
+  "prerequisites_raw": "Computer Science 32 with a grade of C or better; open to Computer Science majors only.",
+  "prerequisites_courses": [
+   "CMPSC 32"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 153A",
+  "title": "Hardware/Software Interface",
+  "units": "4",
+  "description": "Design and coding of embedded programs. Real-time constraints and management of resources. Practical I/O interfaces and protocols, polling, interrupt maintenance, atomic code, blocking and non-blocking tasks. Static and dynamic task scheduling under real-time and limited resource constraints.",
+  "prerequisites_raw": "Upper division standing in Computer Science, ComputerEngineering, or Electrical Engineering. Familiarity with C, FiniteAutomata, and Computer Architecture.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 154",
+  "title": "Computer Architecture",
+  "units": "4",
+  "description": "Introduction to the architecture of computer systems. Topics include: central processing units, memory systems, channels and controllers, peripheral devices, interrupt systems, software versus hardware tradeoffs.",
+  "prerequisites_raw": "Computer Science 32 with a grade of C or better; Computer Science 64 with a grade of C or better.",
+  "prerequisites_courses": [
+   "CMPSC 32",
+   "CMPSC 64"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 156",
+  "title": "Advanced Applications Programming",
+  "units": "4",
+  "description": "Advanced application programming using a high-level, virtual-machine-based language. Topics include generic programming, exception handling, automatic memory management, and application development, management, and maintenance tools, third-party library use, version control, software testing, issue tracking, code review, and working with legacy code.",
+  "prerequisites_raw": "Computer Science 24 and 32 with a grade of C or better; open to Computer Science and Computer Engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 24",
+   "CMPSC 32"
+  ]
+ }
+]

@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 116BL",
+  "title": "Advanced Physical Chemistry Laboratory",
+  "units": "5",
+  "description": "Experiments in thermodynamics, spectroscopy, and electrochemistry. Synthesis and study of inorganic complexes. Instrumental techniques such as NMR, fluorescence, Raman and laser flash photolysis are explored. Methods of data and error analysis.",
+  "prerequisites_raw": "Chemistry 116AL; Chemistry 113C (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 116AL",
+   "CHEM 113C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 116CL",
+  "title": "Inorganic Synthesis and Physical Characterization Laboratory",
+  "units": "5",
+  "description": "Synthesis of inorganic and organometallic complexes including techniques for air-sensitive materials. Instrumental characterization and study of synthesized compounds in a research-like setting.",
+  "prerequisites_raw": "Chemistry 113C and 116BL; Chemistry 173A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 113C",
+   "CHEM 173A",
+   "CHEM 116BL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 117A",
+  "title": "Statistical Mechanics",
+  "units": "3",
+  "description": "Fundamentals of statistical thermodynamics, partition functions for ideal gases and crystals, quantum statistics, calculations of thermodynamic properties.",
+  "prerequisites_raw": "Chemistry 113A-B-C or Chemistry 112A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 112A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 118",
+  "title": "Photochemistry and Radiation Chemistry",
+  "units": "3",
+  "description": "Interaction of light and matter, reaction paths from electronically excited molecules, flash photolysis, high energy radiation.",
+  "prerequisites_raw": "Chemistry 113A-B-C or Chemistry 112A-B-C; and 150.",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 112A",
+   "CHEM 150"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 120",
+  "title": "Polymer Chemistry",
+  "units": "3",
+  "description": "Mechanism and kinetics of polymerization; vinyl, condensation, and diene polymers; ionic polymerizations; block and graft polymers; copolymerization; physical chemistry of high polymers; polymer degradations; radiation chemistry of polymer systems.",
+  "prerequisites_raw": "Chemistry 1C or 2C; and Chemistry 107A-B-C or 109A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 2C",
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 123",
+  "title": "Fundamentals of Environmental Chemistry",
+  "units": "3",
+  "description": "Study of Earth's biogeochemical cycles with respect to carbon, nitrogen, and sulfur. Introduction to the science of climate change, including effects of global warming on terrestrial and aquatic ecosystems. Environmental impacts of fossil fuel and biofuel technologies. Chemistry of the atmosphere, hydrosphere, and lithosphere, with emphasis on ozone depletion, photochemical smog, acid rain, global ocean acidification, soil and groundwater contamination, and environmental costs of industrialized agriculture.",
+  "prerequisites_raw": "Chemistry 1A-B.",
+  "prerequisites_courses": [
+   "CHEM 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 124",
+  "title": "Organic Spectroscopic Analysis",
+  "units": "3",
+  "description": "Structure determination of complex organic molecules. Topics covered include NMR, IR, UV, and mass spectrometry.",
+  "prerequisites_raw": "Chemistry 107A-B or 109A-B; and Chemistry 6A.",
+  "prerequisites_courses": [
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 125L",
+  "title": "Laboratory Techniques in Biochemistry",
+  "units": "5",
+  "description": "Application of molecular biology techniques to perform mutagenesis and cloning; restriction endonucleases, PCR, plasmid purification and DNA analysis. Protein purification and analysis methods: expression of proteins in bacterial systems.",
+  "prerequisites_raw": "Chemistry 110L; and Chemistry 142A or Chemistry W 142A; and Chemistry 142B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CHEM 110L",
+   "CHEM 142A",
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 126",
+  "title": "Computation Chemistry and Molecular Modeling",
+  "units": "3",
+  "description": "Introduction to computational chemistry and molecular modeling. Application of molecular mechanics, quantum mechanics and computer graphical interfaces to problems in chemistry, biochemistry, drug design and pharmacology.",
+  "prerequisites_raw": "Chemistry 109A-B.",
+  "prerequisites_courses": [
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 127",
+  "title": "Structure and Reactivity in Organic Chemistry",
+  "units": "3",
+  "description": "Electronic structure, resonance, acid/base chemistry, thermodynamics, kinetics, transition state theory, and isotope effects.",
+  "prerequisites_raw": "Chemistry 107A-B-C or 109A-B-C or 130A-B-C",
+  "prerequisites_courses": [
+   "CHEM 109A",
+   "CHEM 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 128",
+  "title": "Organic Reaction Mechanisms",
+  "units": "3",
+  "description": "Mechanisms of thermal, photochemical, organometallic, electrochemical asymmetric or other processes in organic chemistry.",
+  "prerequisites_raw": "Chemistry 107A-B-C or 109A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 129",
+  "title": "Synthetic Organic Reactions",
+  "units": "3",
+  "description": "A survey of reactions of organic substances with emphasis on those with practical synthetic utility, including discussion of mechanism, scope and limitations, and steriochemical issues.",
+  "prerequisites_raw": "Chemistry 107A-B-C or 109A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 130A",
+  "title": "Organic Chemistry for Majors",
+  "units": "4",
+  "description": "Introduction to organic chemistry. Topics include acid/base chemistry, conformational analysis, stereoisomers, thermodynamics and kinetics, aromaticity and resonance, and multistep synthesis as well as the nomenclature, structure, reactivity, and mechanisms of alkenes, alkynes, and alkyl halides. Reaction mechanisms include electrophilic addition, substitution, and elimination reactions. This course is intended for chemistry majors and others requiring a strong basis in organic chemistry.",
+  "prerequisites_raw": "Chemistry 1C or 2C or 3C with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 2C",
+   "CHEM 3C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 130B",
+  "title": "Organic Chemistry for Majors",
+  "units": "4",
+  "description": "Structure, reactivity, mechanisms, synthesis, and nomenclature of organic molecules including alcohols, radicals, aldehydes, ketones, carboxylic acids and carboxylic acid derivatives, and aromatic rings. Other topics include organometallic compounds and reactions at the alpha carbon. This course is intended for chemistry majors and others requiring a strong basis in organic chemistry.",
+  "prerequisites_raw": "Chemistry 130A, 109A or 109AH with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 130A",
+   "CHEM 109A",
+   "CHEM 109AH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 130C",
+  "title": "Organic Chemistry for Majors",
+  "units": "4",
+  "description": "Structure, reactivity, mechanisms, synthesis and nomenclature of organic molecules including aromatic heterocycles, carbohydrates, amino acids, proteins, nucleic acids, coenzymes, lipids, polymers, and their mechanisms. This course is intended for chemistry majors and others requiring a strong basis in organic chemistry.",
+  "prerequisites_raw": "Chemistry 130B, 109B or 109BH with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "CHEM 130B",
+   "CHEM 109B",
+   "CHEM 109BH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 132",
+  "title": "Organometallics in Organic Synthesis",
+  "units": "3",
+  "description": "Synthetic methods and applications to natural products total syntheses involving transition metals.",
+  "prerequisites_raw": "Chemistry 109A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 133",
+  "title": "Advanced Synthetic Chemistry",
+  "units": "3",
+  "description": "A comprehensive discussion of modern synthetic organic methods, including the applications of addition, condensation, substitution, and rearrangement reactions for building complicated molecules from scratch.",
+  "prerequisites_raw": "Chemistry 109A-B-C; upper-division standing; open to chemistry, biochemistry, and CCS chemistry and biochemistry majors only.",
+  "prerequisites_courses": [
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 134",
+  "title": "Chemical Synthesis of Biological Molecules",
+  "units": "3",
+  "description": "The synthesis, manipulation, and modification of biological molecules including peptides, carbohydrates, nucleic acids, and other metabolites are essential to advances in biomedicine. This course surveys chemical methods for the production of these molecules and their application to biological problems.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 141",
+  "title": "Epigenetics: Biology, Mechanisms and Therapies",
+  "units": "3",
+  "description": "Covers epigenetic processes and molecular mechanisms in bacteria, fungi, plants, mammals, imprinting, gene regulation, repeat-induced point mutation (RIP), X-chromosome inactivation, epigenetic mechanisms including DNA methylation, histone modification, chromatin remodeling, RNA silencing, and epigentically based therapeutics and pharmaco-epigenetics.",
+  "prerequisites_raw": "Chemistry W142A or 142A, 142B-C; or, MCDB 108A-B-C; upper-division standing.",
+  "prerequisites_courses": [
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 142A",
+  "title": "Biochemistry",
+  "units": "3",
+  "description": "Macromolecules of biological importance. A survey of the physical and chemical properties of proteins, nucleic acids, and carbohydrates. Methods of preparation, chemical synthesis, degradation, and characterization of biomolecules.",
+  "prerequisites_raw": "Chemistry 107A-B-C or 109A or 109AH-109B or 109BH-109C or 109CH or W 109C",
+  "prerequisites_courses": [
+   "CHEM 109A",
+   "CHEM 109AH",
+   "CHEM 109B",
+   "CHEM 109BH",
+   "CHEM 109C",
+   "CHEM 109CH"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 142AH",
+  "title": "Biochemistry-Honors Discussion",
+  "units": "1",
+  "description": "Discussion sections using science articles to convey how science gets done and its limitations. Students learn how to read science papers, the publication process, resources for finding papers and how to dissect them into experiments and conclusions. Students attend research seminars and group meetings involving presentations by Chemistry & Biochemistry graduate students.",
+  "prerequisites_raw": "Concurrent enrollment in Chem 142A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 142B",
+  "title": "Biochemistry",
+  "units": "3",
+  "description": "Chemical aspects of intermediary metabolism. The chemistry and elementary dynamic properties of enzymes; study of enzyme active sites; characterization of metabolic pathways and methods of examining cellular regulation.",
+  "prerequisites_raw": "Chem 142A or Chem W 142A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 142BH",
+  "title": "Biochemistry-Honors Discussion",
+  "units": "1",
+  "description": "Discussion sections using science articles to convey how science gets done and its limitations. Students learn how to read science papers, the publication process, resources for finding papers and how to dissect them into experiments and conclusions. Students will attend research seminars and group meetings involving presentations by Chemistry & Biochemistry graduate students.",
+  "prerequisites_raw": "Concurrent enrollment in Chem 142B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 142C",
+  "title": "Biochemistry",
+  "units": "3",
+  "description": "Macromolecular biosynthesis and specialized cellular processes. A survey of nucleic acid and protein biosynthesis, characterization of lipids and membranes; function of membranes in transport, energy transduction, and cellular control; mechanisms of muscle contraction and cell motility.",
+  "prerequisites_raw": "Chemistry 142B.",
+  "prerequisites_courses": [
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CHEM",
+  "code": "CHEM 142CH",
+  "title": "Biochemistry-Honors Discussion",
+  "units": "1",
+  "description": "Discussion sections using science articles to convey how science gets done and its limitations. Students learn how to read science papers, the publication process, resources for finding papers and how to dissect them into experiments and conclusions. Students will attend research seminars and group meetings involving presentations by Chemistry & Biochemistry graduate students.",
+  "prerequisites_raw": "Concurrent enrollment in Chem 142C.",
+  "prerequisites_courses": []
+ }
+]

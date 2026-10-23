@@ -1,0 +1,262 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 207",
+  "title": "Interpersonal Communication",
+  "units": "4",
+  "description": "Analysis of theory and research related to interpersonal communication processes.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 210",
+  "title": "Language and Communication Processes",
+  "units": "4",
+  "description": "Social psychology of language and communication examined from the \"social identity approach.\" From this perspective, which claims that our attitudes, beliefs, and behaviors flow from our self-conceptions as group members, we investigate concepts such as stereotyping, power and CMC.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 211",
+  "title": "Seminar: Nonverbal Communication",
+  "units": "4",
+  "description": "Analysis of nonverbal behavior as communication, with a special emphasis on design and implementation of research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 212",
+  "title": "Content Analysis",
+  "units": "4",
+  "description": "A methodology course focusing on the planning and execution of social scientific analyses of communication content; begins with the examination of where meaning resides, then moves into procedures for designing a content analysis study, gathering data, analyzing results, and writing the report.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 213",
+  "title": "Mass Media, the Individual, and Society",
+  "units": "4",
+  "description": "The cognitive and social psychological effects of mass media on the individual and society. Focus is on empirical research as it informs communication theory.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 214",
+  "title": "Social Media",
+  "units": "4",
+  "description": "Explores sociotechnical trends prompted by the evolution of technologies of communication and information. Using perspectives from social science, computer science, engineering, and the humanities, the course focuses on evidence, theory, and directions for future research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 217",
+  "title": "Theories of Persuasion",
+  "units": "4",
+  "description": "Surveys theories and research of persuasion in both interpersonal and mass mediated contexts. Students will be introduced to the major paradigms of persuasion research and will gain some degree of mastery over the sub-field(s) that most interest them.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 222",
+  "title": "Organizational Communication",
+  "units": "4",
+  "description": "Classical/administrative, human relations/resources, systems, interpretive/cultural, and critical approaches to organizational communication. Theory and research on organizational structures and environments; power, authority and influence; communication networks; leadership; decision making; assimilation and socialization; innovation and change; and strategic communication.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 222C",
+  "title": "Technology and Organization",
+  "units": "4",
+  "description": "Examination of critical issues in contemporary communication theory and research implicating advanced communication and information technologies and their relation to organizational dynamics, structure, and change.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 224",
+  "title": "Family Communication",
+  "units": "4",
+  "description": "Examines theory and research on the role of communication in voluntary and involuntary family relationships of diverse forms. Students will learn about the history of family communication scholarship, prominent theories of family communication, and emerging perspectives on contemporary family life. Students will also consider the effects of various social and contextual factors (e.g., culture, developmental stage, and gender) on family communication processes.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 228",
+  "title": "Intergroup Communication",
+  "units": "4",
+  "description": "Analysis of theory and research related to intergroup relations, with special attention to the role of language use and variation as a means of communication about intergroup relations.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 229",
+  "title": "Intergenerational Communication and Aging",
+  "units": "4",
+  "description": "Theory, research and practice in communication and aging. Focus on intergenerational discourse, age identity and psychological well being.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 232",
+  "title": "Mass Media Law and Policy",
+  "units": "4",
+  "description": "Survey of the fundamental and regulatory policies governing electronic mass media, emphasizing broadcast television. Considers both structural and content-based regulation. Analyzes the policy-making process as well as the outcome of major communication policy decisions.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 234",
+  "title": "Cognition and Mass Communication",
+  "units": "4",
+  "description": "Review of current research of theories in the cognitive processing of mass media. Special consideration is given to attention and memory for television.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 236",
+  "title": "Membership: Organization and Group Socialization and Identification",
+  "units": "4",
+  "description": "Focuses on membership negotiation (organizational socialization, assimilation, and identification). Examination of workplace interaction and communication that develops and maintains workplace relationships. Discussions/readings emphasize theories related to membership negotiation, but also mediating variables such as context and diversity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 251",
+  "title": "Relational Communication",
+  "units": "4",
+  "description": "Examines theory and research on the role of communication in the development, maintenance, and disintegration of close relationships, such as romantic relationships and friendships. Students will learn about diverse research methodologies utilized in relational communication scholarship. Students will also consider the effects of various social and contextual factors (e.g., culture, developmental stage, and gender) on relational communication processes.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 253",
+  "title": "Corporate Social Responsibility: A Communication Perspective",
+  "units": "4",
+  "description": "The study of Corporate Social Responsibility (CSR) is burgeoning as CSR is being rapidly transformed from a vision championed by a small number of companies to a widespread global movement that engages corporations, non-governmental and governmental organizations, activists, and civil society. Explores how contemporary environmental, economic, social, and technological changes influence CSR and are affected by interpersonal, stakeholder, organizational, inter-organizational and media communication dynamics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 255",
+  "title": "Survey of Health Communication",
+  "units": "4",
+  "description": "Students will be introduced to theories and research relating to health communication in intrapersonal, interpersonal, and mass mediated contexts broadly speaking as well as gain some degree of mastery over the sub-field(s) that most interest them.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 280",
+  "title": "Qualitative Methods in Communication",
+  "units": "4",
+  "description": "This course provides an overview of qualitative research methods, including in-depth interviewing, participant observation, and grounded theory. Using exemplars, it also examines approaches to data analysis, specifically, constant comparison method, narrative and discourse analyses, and computer assisted data management.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 500",
+  "title": "Teaching College Communication",
+  "units": "3",
+  "description": "Theory of teaching communication at the college level. Topics include self-presentation, facilitating discussion, constructing examinations, grading examinations and term papers, providing feedback, and professionalism.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 505",
+  "title": "Issues in Communication Research",
+  "units": "1",
+  "description": "Presentation of research completed or in progress by students, faculty and guest speakers followed by critical discussion of the issues raised.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 593",
+  "title": "Directed Reading",
+  "units": "0",
+  "description": "Individual tutorial. Provides students with the same material as a regular course except it is conducted on an individual basis with a faculty member. Written contract describing the course, readings, and assignments should be submitted to the departmental graduate adviser.",
+  "prerequisites_raw": "Consent of instructor; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 593A",
+  "title": "Directed Reading",
+  "units": "0",
+  "description": "Individual tutorial. Provides students with the same material as a regular course except it is conducted on an individual basis with a faculty member. Written contract describing the course, readings, and assignments should be submitted to the departmental graduate adviser.",
+  "prerequisites_raw": "Consent of instructor; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing; consent of department for students outside of COMM.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594CE",
+  "title": "Special Topics: Community-Engaged Communication Research",
+  "units": "0",
+  "description": "This graduate seminar introduces students to various types of community-engaged research across a wide range of domains within the communication discipline, including interpersonal, organizational, and media and technology. Philosophies, goals, and methods tied to a range of community-focused research are discussed, as are associated benefits and challenges. Students are expected to leave this course with an appreciation for the diversity in what community-engaged research looks like, and exposure to literatures that will allow pursuit of such research should they choose to do so.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "COMM",
+  "code": "COMM 594CM",
+  "title": "Computer Mediated Communication",
+  "units": "0",
+  "description": "Examines landmark theories from a variety of disciplines, all or most of which preceded digital communication, that provide the theoretical dynamics that inform, embody, or are altered by computer-mediated communication and online social interaction. By studying modern benchmarks in psychology, sociology, anthropology, education, management, nonverbal interaction, and communication, the objectives of the course are to cultivate participants social scientific foundation with which to ground the study of contemporary electronic media in historical and theoretical contexts, enhance their research by improving their ability to recognize and capitalize on existing theories, and to sharpen their conceptual analysis.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ }
+]

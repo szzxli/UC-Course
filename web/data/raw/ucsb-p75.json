@@ -1,0 +1,272 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 160",
+  "title": "Translation of Programming Languages",
+  "units": "4",
+  "description": "Study of the structure of compilers. Topics include: lexical analysis; syntax analysis including LL and LR parsers; type checking; run-time environments; intermediate code generation; and compiler-construction tools.",
+  "prerequisites_raw": "Computer Science 64 or Electrical Engineering 154 or Electrical Engineering 154A; Computer Science 130A; and Computer Science 138; open to computer science and computer engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 64",
+   "CMPSC 130A",
+   "CMPSC 138",
+   "CMPSC 154"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 162",
+  "title": "Programming Languages",
+  "units": "4",
+  "description": "Concepts of programming languages: scopes, parameter passing, storage management; control flow, exception handling; encapsulation and modularization mechanisms; reusability through genericity and inheritance; type systems; programming paradigms (imperative, object-oriented, functional, and others). Emerging programming languages and their development infrastructures.",
+  "prerequisites_raw": "Computer Science 130A and 138; open to computer science and computer engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 130A",
+   "CMPSC 138"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 165A",
+  "title": "Artificial Intelligence",
+  "units": "4",
+  "description": "Introduction to the field of artificial intelligence, which seeks to understand and build intelligent computational systems. Topics include intelligent agents, problem solving and heuristic search, knowledge representation and reasoning, uncertainty and probabilistic reasoning, machine learning, reinforcement learning, and responsible AI.",
+  "prerequisites_raw": "Computer Science 130A",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 165B",
+  "title": "Machine Learning",
+  "units": "4",
+  "description": "Covers the most important techniques of machine learning (ML) and includes discussions of: well-posed learning problems; artificial neural networks; concept learning and general to specific ordering; decision tree learning; genetic algorithms; Bayesian learning; analytical learning; and others.",
+  "prerequisites_raw": "Computer Science 130A.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 170",
+  "title": "Operating Systems",
+  "units": "4",
+  "description": "Basic concepts of operating systems. The notion of a process; interprocess communication and synchronization; input-output, file systems, memory management.",
+  "prerequisites_raw": "Computer Science 130A; and, Computer Science 154 or ECE 154A (may be taken concurrently); open to computer science, computer engineering or electrical engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 130A",
+   "CMPSC 154",
+   "ECE 154A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 171",
+  "title": "Distributed Systems",
+  "units": "4",
+  "description": "Distributed systems architecture, distributed programming, network of computers, message passing, remote procedure calls, group communication, naming and membership problems, asynchrony, logical time, consistency, fault-tolerance, and recovery.",
+  "prerequisites_raw": "Computer Science 130A.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 172",
+  "title": "Software Engineering",
+  "units": "4",
+  "description": "Software engineering is concerned with long-term, large-scale programming projects. Software management, cost estimates, problem specification and analysis, system design techniques, system testing and performance evaluation, and system maintenance. Students will design, manage, and implement a medium-sized project.",
+  "prerequisites_raw": "Computer Science 130A. Open to Computer Science or Computer Engineering majors only, or by consent of department.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 174A",
+  "title": "Fundamentals of Database Systems",
+  "units": "4",
+  "description": "Database system architectures, relational data model, relational algebra, relational calculus, SQL, QBE, query processing, integrity constraints (key constraints, referential integrity), database design, ER and object- oriented data model, functional dependence, lossless join and dependency preserving decompositions, Boyce-Codd and Third Normal Forms.",
+  "prerequisites_raw": "Computer Science 130A.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 174B",
+  "title": "Design and Implementation Techniques of Database Systems",
+  "units": "4",
+  "description": "Queries and processing, optimizer, cost models, execution plans, rewriting rules, access methods, spatial indexing; transactions, ACID properties, concurrency control, serializability, two-phase locking, timestamping, logging,checkpointing, transaction abort and commit, crash recovery; distributed databases.",
+  "prerequisites_raw": "Computer Science 130B.",
+  "prerequisites_courses": [
+   "CMPSC 130B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 174N",
+  "title": "Introduction to Databases",
+  "units": "4",
+  "description": "ER/object-oriented data modeling, relational data model, database design, query languages (algebra, calculus, SQL, QBE), updates and views, query processing, integrity constraints (key constraints, referential integrity), functional dependence, Boyce-Codd and Third Normal Forms.",
+  "prerequisites_raw": "Computer Science 130A (may be taken concurrently); or consent of instructor.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 176A",
+  "title": "Introduction to Computer Communication Networks",
+  "units": "4",
+  "description": "Basic concepts in networking, the OSI model, error detection codes, flow control, routing, medium access control, and high-speed networks.",
+  "prerequisites_raw": "CMPSC 32 with a grade of C or better; PSTAT 120A or ECE 139; open to computer science, electrical engineering, and computer engineering majors only.",
+  "prerequisites_courses": [
+   "CMPSC 32",
+   "PSTAT 120A",
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 176B",
+  "title": "Network Computing",
+  "units": "4",
+  "description": "Focus on networking and web technologies used in the Internet. The class covers socket programming and web-based techniques that are used to build distributed applications.",
+  "prerequisites_raw": "Computer Science 176A.",
+  "prerequisites_courses": [
+   "CMPSC 176A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 176C",
+  "title": "Advanced Topics in Internet Computing",
+  "units": "4",
+  "description": "General overview of wireless and mobile networking, multimedia, security, multicast, quality of service, IPv6, and web caching. During the second half of the course, one or more of the above are studied in greater detail.",
+  "prerequisites_raw": "Computer Science 176A.",
+  "prerequisites_courses": [
+   "CMPSC 176A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 177",
+  "title": "Computer Security",
+  "units": "4",
+  "description": "Introduction to the basics of computer security and privacy. Analysis of technical difficulties of producing secure computer information systems that provide guaranteed controlled sharing. Examination and critique of current systems, methods, certification.",
+  "prerequisites_raw": "Computer Science 170 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CMPSC 170"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 178",
+  "title": "Introduction to Cryptography",
+  "units": "4",
+  "description": "An introduction to the basic concepts and techniques of cryptography and cryptanalysis. Topics include: The Shannon Theory, classical systems, the enigma machine, the data encryption standard, public key systems, digital signatures, file security.",
+  "prerequisites_raw": "Computer Science 24 with a grade of C or better; Computer Science 40 with a grade of C or better; and PSTAT 120A or 121A or ECE 139 or permission of instructor.",
+  "prerequisites_courses": [
+   "CMPSC 24",
+   "CMPSC 40",
+   "PSTAT 120A",
+   "ECE 139"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 179P",
+  "title": "Introduction to Robotics: Planning and Kinematics",
+  "units": "4",
+  "description": "Motion planning and kinematics topics with an emphasis on geometric reasoning, programming, and matrix computations. Motion planning: configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics: reference frames, rotations and displacements, kinematic motion models.",
+  "prerequisites_raw": "Mathematics 4A and Upper-Division standing only.",
+  "prerequisites_courses": [
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 180",
+  "title": "Computer Graphics",
+  "units": "4",
+  "description": "Overview of OpenGL graphics standard, OpenGL statemachine, other 3D graphics libraries, 3D graphicspipeline, 3D transformations and clipping, colormodel, shading model, shadow algorithms, texturing,curves and curved surfaces, graphics hardware,interaction devices and techniques",
+  "prerequisites_raw": "Computer Science 130A or consent of instructor.",
+  "prerequisites_courses": [
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 181",
+  "title": "Introduction to Computer Vision",
+  "units": "4",
+  "description": "Overview of computer vision problems and techniques for analyzing the content of images and video. Topics include image formation, edge detection, image segmentation, pattern recognition, texture analysis, optical flow, stereo vision, shape representation and recovery techniques, issues in object recognition, and case studies of practical vision systems.",
+  "prerequisites_raw": "Upper-division standing in Electrical Engineering, Computer Engineering,Computer Science, Chemical Engineering or Mechanical Engineering.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 182",
+  "title": "Multimedia Computing",
+  "units": "4",
+  "description": "Introduction to multimedia and applications. Topics include streaming media, conferencing, webcasting, digital libraries, multimedia system architectures, standards (including JPEG and MPEG), and multimedia storage and retrieval. A key emphasis is on using the internet for delivery of multimedia data. (First offered 2003-2004)",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 183",
+  "title": "Ethics, Privacy, Fairness, and Bias in AI and Computing",
+  "units": "4",
+  "description": "Multifaceted ethical considerations of artificial intelligence, focusing on privacy, bias, fairness, and transparency. Students will engage in hands-on learning by examining practical tools and frameworks like AWS, Azure, and GCP, gaining insights into best practices for mitigating data privacy risks, detecting and managing bias, ensuring fairness, and monitoring model performance. Through case studies, discussions, and exercises, course addresses real-world challenges such as data poisoning, feature drift, and human oversight in decision-making processes. Explores key algorithms and methodologies for model explainability, including fairness and bias detection techniques, to develop a holistic understanding of responsible AI.",
+  "prerequisites_raw": "CMPSC 12.",
+  "prerequisites_courses": [
+   "CMPSC 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 184",
+  "title": "Mobile Application Development",
+  "units": "4",
+  "description": "An introduction to programming mobile computing devices. Students will learn about and study the shift in software development from desktop to mobile device applications. Topics will include software engineering and design practices, advances in programming practice, and support tools for mobile application development and testing. Students will develop and deploy mobile applications as part of their course work.",
+  "prerequisites_raw": "Computer Science 56 or Computer Science 156; and Computer Science 130A.",
+  "prerequisites_courses": [
+   "CMPSC 156",
+   "CMPSC 130A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CMPSC",
+  "code": "CMPSC 185",
+  "title": "Human-Computer Interaction",
+  "units": "4",
+  "description": "The study of human-computer interaction enables system architects to design useful, efficient, and enjoyable computer interfaces. This course teaches the theory, design guidelines, programming practices, and evaluation procedures behind effective human interaction with computers.",
+  "prerequisites_raw": "Upper division standing; Open to computer science, computer engineering, and electrical engineering majors.",
+  "prerequisites_courses": []
+ }
+]
