@@ -1,0 +1,357 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 5",
+  "title": "Basic Physics",
+  "units": "3",
+  "description": "Special relativity, blackbody radiation, Compton scattering, photoelectric effect, Bohr model, quantum mechanics, molecules, condensed matter, nuclear physics, elementary particles.",
+  "prerequisites_raw": "Physics 4 with a grade of C- or better.",
+  "prerequisites_courses": [
+   "PHYS 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 5L",
+  "title": "Physics Laboratory",
+  "units": "1",
+  "description": "Introductory laboratory emphasizing atomic spectra, diffraction and basic quantum physics.",
+  "prerequisites_raw": "Physics 4 or 24; and, Physics 5 or 25 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 4",
+   "PHYS 5",
+   "PHYS 24",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 6A",
+  "title": "Introductory Physics",
+  "units": "3",
+  "description": "Presents concepts and methodologies for understanding physical phenomena, and is particularly useful preparation for upper-division study in the life sciences. Vectors, velocity, acceleration. Newton's laws. Work and energy. Linear momentum. Gravity. Static equilibrium. Rotational motion. Angular momentum.",
+  "prerequisites_raw": "Mathematics 2A or 3A or 34A (may be taken concurrently) or AP Math AB Exam score of 3 or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A",
+   "MATH 34A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 6AL",
+  "title": "Introductory Experimental Physics",
+  "units": "1",
+  "description": "Self directed laboratory course where students seek to discover simple mathematical descriptions of laws governing various physical phenomena. Each student is responsible for deciding what to measure, how to measure it, and what interpretation can be placed on the results.",
+  "prerequisites_raw": "Concurrent enrollment in Physics 6A.",
+  "prerequisites_courses": [
+   "PHYS 6A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 6B",
+  "title": "Introductory Physics",
+  "units": "3",
+  "description": "Presents concepts and methodologies for understanding physical phenomena, and is particularly useful preparation for upper-division study in the life sciences. Oscillatory motion. Vibrations, waves, sound. Fluids. Electrostatics and DC circuits. Magnetism and magnetic forces. Induction and Faraday's law. AC circuits. If time permits: Heat and thermodynamics.",
+  "prerequisites_raw": "Physics 6A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 6A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 6BL",
+  "title": "Introductory Experimental Physics",
+  "units": "1",
+  "description": "Experiments in the mechanical, electrical and thermal properties of matter,the behavior of light, and quantum phenomena with application to the biological sciences.",
+  "prerequisites_raw": "Concurrent enrollment in Physics 6B.",
+  "prerequisites_courses": [
+   "PHYS 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 6C",
+  "title": "Introductory Physics",
+  "units": "3",
+  "description": "Presents concepts and methodologies for understanding physical phenomena, and is particularly useful preparation for upper-division study in the life sciences. Electromagnetic waves. Geometric optics, optical instruments. Interference and diffraction. Quantum theory of the atom. Nuclear physics. If time permits: Special relativity, elementary particle physics.",
+  "prerequisites_raw": "Physics 6B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 6CL",
+  "title": "Introductory Experimental Physics",
+  "units": "1",
+  "description": "Experiments in the mechanical, electrical and thermal properties of matter,the behavior of light, and quantum phenomena with application to the biological sciences.",
+  "prerequisites_raw": "Concurrent enrollment in Physics 6C.",
+  "prerequisites_courses": [
+   "PHYS 6C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 7A",
+  "title": "Basic Physics",
+  "units": "4",
+  "description": "Kinematics in 3D, Newton’s Laws, Energy, Momentum and Collisions, Rotation, Statics and Equilibrium",
+  "prerequisites_raw": "Mathematics 2A or 3A or AP Math AB Exam with a score of 3 or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 7B",
+  "title": "Basic Physics",
+  "units": "4",
+  "description": "Gravity, Periodic Motion and Oscillations, Mechanical Waves and Sound, Coulomb’s Law, Electric Field and Gauss’s Law, Electric Potential, DC circuits",
+  "prerequisites_raw": "Physics 7A with a grade of C- or better; Mathematics 2A-B or 3A-B or AP Math BC exam with a score of 3 or better.",
+  "prerequisites_courses": [
+   "PHYS 7A",
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 7BL",
+  "title": "EXP PHYS-ENGRS",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 7C",
+  "title": "Basic Physics",
+  "units": "4",
+  "description": "Magnetic Forces and Field, Induction, Inductance and AC circuits, Maxwell’s equations and E/M waves, Geometric and Physical Optics",
+  "prerequisites_raw": "Physics 7B with a grade of C- or better; Mathematics 2A-B or 3A-B or AP Math BC exam with a score of 3 or better.",
+  "prerequisites_courses": [
+   "PHYS 7B",
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 7D",
+  "title": "Basic Physics",
+  "units": "3",
+  "description": "Temperature, Heat, Laws of Thermodynamics, Special Relativity, Photons, Wave-particle duality of Matter, Intro to Quantum Mechanics, Schrodinger Equation in 1D, Hydrogen Atom.",
+  "prerequisites_raw": "Physics 7C with a grade of C- or better; Mathematics 2A-B or 3A-B (AP Math BC Exam score of 3 or better) and 4A.",
+  "prerequisites_courses": [
+   "PHYS 7C",
+   "MATH 2A",
+   "MATH 3A",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 7L",
+  "title": "Physics Laboratory",
+  "units": "1",
+  "description": "Periodic motion, sound, and basic electronics, while emphasizing good laboratory techniques such as uncertainty propagation, statistical analysis, developing and testing models, and good report writing.",
+  "prerequisites_raw": "Physics 7B; Co-requisite: Physics 7C",
+  "prerequisites_courses": [
+   "PHYS 7B",
+   "PHYS 7C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 8",
+  "title": "Introduction to Mathematical Methods for Physics",
+  "units": "5",
+  "description": "Single variable functions, derivatives and integrals with applications to kinematics. Taylor series. Introduction to ordinary differential equations and Newtons second law as an ODE. Vectors and scalars with physics applications. Dot and cross products. Matrices and determinants. Unit circle and trigonometric identities. Polar coordinates and kinematics in polar coordinates.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 10",
+  "title": "Concepts of Physics",
+  "units": "4",
+  "description": "A survey of important concepts in physics for the non-science major. The contents will vary depending on the interests of the students and instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 13AL",
+  "title": "Honors Introduction to Experimental Physics",
+  "units": "2",
+  "description": "Covers the essence of experimental research. Students study three different systems experimentally, and write short Physical Review style articles about the results. Students are responsible for deciding what to measure, how to analyze data, what conclusions can be reached, etc.",
+  "prerequisites_raw": "Physics 3 or 23 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 3",
+   "PHYS 23"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 13BL",
+  "title": "Honors Experimental Physics",
+  "units": "2",
+  "description": "Computer control of experiments. Students learn LabView, and use it to measure and generate analog signals using a data acquisition card and a personal computer. Students ultimately use their computers to measure and control the temperature of a copper rod.",
+  "prerequisites_raw": "Physics 4 or 24 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 4",
+   "PHYS 24"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 13CL",
+  "title": "Honors Experimental Physics",
+  "units": "2",
+  "description": "Design and construction of apparatus, drafting and computer-aided design. Machine shop practice including use of all major machine tools. The class acts as a team to design and, time permitting, build a scientific apparatus for a campus research group.",
+  "prerequisites_raw": "Physics 5 or 25 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 16",
+  "title": "Undergraduate Seminar",
+  "units": "1",
+  "description": "Selected topics of special interest designed to display the broad diversity of physics. Also designed to introduce students to faculty research and department labs.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 20AL",
+  "title": "Experimental Physics",
+  "units": "2",
+  "description": "Introduction to Measurement and Experimentation. Basic good practices in note-taking, data collection, data visualization, error estimation, error propagation, curve fitting, and drawing conclusions, all exercised in the context of phenomena from mechanics and electronics.",
+  "prerequisites_raw": "Physics 29 and Physics 23 (may be taken concurrently)",
+  "prerequisites_courses": [
+   "PHYS 29",
+   "PHYS 23"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 20BL",
+  "title": "Experimental Physics",
+  "units": "2",
+  "description": "Introduction to Measurement and Experimentation, continued. Basics of image analysis, technical drawing, additive manufacturing, oscilloscope use, searching and digesting scientific literature, as well as continued practice of skills introduced in 20AL in the context of electromagnetic and optical phenomena.",
+  "prerequisites_raw": "Physics 20AL and Physics 24 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 20AL",
+   "PHYS 24"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 20CL",
+  "title": "Experimental Physics",
+  "units": "2",
+  "description": "Introduction to Measurement and Experimentation, with an emphasis on Scientific Communication and Experimental Design. Searching the scientific literature, reading a scientific paper, proposing and executing a measurement, and formally reporting on a measurement in writing, as well as continued practice of skills introduced in 20AL and 20BL in the context of modern physics phenomena.",
+  "prerequisites_raw": "Physics 20BL and Physics 25 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 20BL",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 21",
+  "title": "General Physics",
+  "units": "4",
+  "description": "Classical mechanics, kinematics, vectors, Newtons laws, work and energy, conservation laws, rotational kinematics.",
+  "prerequisites_raw": "Mathematics 2A/3A and Mathematics 2B/3B or Physics 8 or AP Calculus BC Exam score of 5.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 2B",
+   "PHYS 8",
+   "MATH 3A",
+   "MATH 3B",
+   "PHYS 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 22",
+  "title": "General Physics",
+  "units": "4",
+  "description": "Rotational dynamics, fluid mechanics, gravitation, periodic motion, temperature and heat, thermodynamics.",
+  "prerequisites_raw": "Physics 21 with a grade of C- or better.",
+  "prerequisites_courses": [
+   "PHYS 21"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 23",
+  "title": "General Physics",
+  "units": "4",
+  "description": "Mechanical waves, sound, electric charge and electric field, Gauss Law, electric potential, capacitance and dielectrics, current, resistance, electromotive force, DC circuits.",
+  "prerequisites_raw": "Physics 22 with a minimum grade of C- or better.",
+  "prerequisites_courses": [
+   "PHYS 22"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 24",
+  "title": "General Physics",
+  "units": "4",
+  "description": "Magnetic fields, electromagnetic induction and inductance, AC circuits, Maxwell's equations, electromagnetic waves, light and geometrical optics, interference and diffraction.",
+  "prerequisites_raw": "Physics 23 with a minimum grade of C-; Mathematics 4A.",
+  "prerequisites_courses": [
+   "PHYS 23",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 25",
+  "title": "General Physics",
+  "units": "4",
+  "description": "Special relativity, blackbody radiation, Compton scattering, photoelectric effect, Bohr model, quantum mechanics, molecules, condensed matter, nuclear physics, elementary particles.",
+  "prerequisites_raw": "Physics 24 with a minimum grade of C-; Mathematics 6A.",
+  "prerequisites_courses": [
+   "PHYS 24",
+   "MATH 6A"
+  ]
+ }
+]

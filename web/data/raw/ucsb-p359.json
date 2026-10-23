@@ -1,0 +1,222 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225I",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225IB",
+  "title": "Special Topics: Defects in Engineering Materials & Analysis",
+  "units": "3",
+  "description": "In-depth look into the many classes of defects (e.g., point, linear, and planar) and the role they play in crystalline materials. While we cannot eliminate defects and they are usually seen as a weakness, proper understanding of defects is the best way to design stronger and better materials. Examples of the types of defects we may cover are vacancies, dislocations, grain boundaries, interfaces, and twins. We study their formation, mobility and interaction in environments where they are commonly found, such as elevated temperatures, mechanical strains, or irradiation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225J",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225JM",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225JS",
+  "title": "Special Topics: Li Ion Batteries",
+  "units": "3",
+  "description": "An introduction to lithium-ion batteries (LIB). The course consists of a significant laboratory component where students acquire hands-on experience in handling, analyzing, and studying state-of-the-art (SOA) LIBs. Students also learn how to design, manufacture, and test prototype batteries made using prototype manufacturing equipment. Course Prerequisites: General materials science course background and students must have valid UCSB general laboratory safety certification.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225KA",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225L",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225LF",
+  "title": "Special Topics: Vortex Dynamics and Turbulence",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments in one or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225M",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225MB",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments in one or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225MC",
+  "title": "Special Topics: MEMS Characterization",
+  "units": "3",
+  "description": "Focuses on developing the foundational understanding of experimental approaches and analysis techniques commonly used to characterize MEMS devices. Covered topics will include basic optics principles, optical microscopy (including stereoscopy, fluorescence imaging, confocal systems, and super-resolution techniques), force spectroscopy methods (optical tweezers, magnetic tweezers), electron microscopy, vibrational analysis and scanning probe techniques (AFM), with examples drawn from the use of MEMS devices for biosensor development, metrology, and other engineering applications, including device quality control.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225ML",
+  "title": "Special Topics in ME: Research Topics in Machine Learning and System Identification",
+  "units": "3",
+  "description": "Introduces students to research topics at the interface of system identification, data science, and machine learning. Reviews linear algebra, probability and information theory, and general concepts from learning algorithms. Introduction to the notion of estimators, maximum-likelihood estimation, stochastic gradient descent, and algorithm design. Provides an overview of deep feedforward networks, regularization strategies for deep learning, and optimization strategies for learning architectures. Introduces topics in system identification and reviews past and present approaches for using neural networks to perform system identification.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225MM",
+  "title": "Special Topics in Mechanical Engineering: Mathematical Methods in Systems and Controls",
+  "units": "3",
+  "description": "Aims to introduce mathematical tools which are essential for understanding fundamental techniques underlying several areas of control systems, dynamics and signal processing. The course focuses on aspects of advanced linear algebra and functional analysis, specifically related to the basics of Hilbert and Banach spaces and operator theory. The theory is complemented with several examples from areas such as optimal and robust control, and estimation/filtering theory.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225MV",
+  "title": "Engineering Approaches to Solve Wicked Problems and Global Challenges",
+  "units": "3",
+  "description": "Explore how engineers tackle solving 'wicked problems': problems that are ill-structured, with multiple interdependent variables and no clear optimal solutions. Such problems are highly multidisciplinary, often requiring input and innovation across technological, scientific and societal domains. Wicked problems seem to defy standard and structured solutions, and challenge engineers to develop new ways of thinking and communicating. Through case studies, discussions, and projects we will learn from past successes and failures and determine best practices, while exploring how engineers can prepare to lead solutions to the world's most pressing problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225N",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225NN",
+  "title": "Modeling and Optimization of Neural Networks",
+  "units": "3",
+  "description": "Intended primarily for graduate students interested in (1) the use of neural networks for control, optimization, and machine learning and (2) the use of systems theory to model the dynamics and functionality of neural circuits. Contains an overview of recent research literature and involves a final project to be selected among a number of recent developments in this area.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225O",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225OC",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225OK",
+  "title": "Soft Mechanics: Design and Applications",
+  "units": "3",
+  "description": "We will discuss some applications of soft mechanics to study various complex systems. There will be weekly presentations by students and readings of several classic book chapters and papers from the literature of applied mathematics, soft matter physics, and engineering. Examples of topics include elasticity, fluid mechanics, biophysics, and biomechanics, along with their applications to societal challenges such as epidemiology and health. Each student will work on a project throughout the quarter and is expected to write a research-like manuscript on the investigated topic. The final manuscript could be a review and not (necessarily) original new work.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225P",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225PL",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225Q",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

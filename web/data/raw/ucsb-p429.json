@@ -1,0 +1,344 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 158C",
+  "title": "Consciousness and the Body in Hindu Traditions",
+  "units": "4",
+  "description": "An exploration of Hindu constructions of embodiment and the relationship of the mind-body complex to consciousness. Critical analysis of discursive representations and practices in various Hindu traditions, including ritual traditions, ascetic movements, legal codes, medical discourses, devotional movements, and Tantric traditions.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 158E",
+  "title": "Intensive Advanced Persian I",
+  "units": "4",
+  "description": "A continuation of Intensive Intermediate Persian II (RGST 58D). The course objectives are: develop advanced language skills in listening, speaking, writing, and reading comprehension; practice reading and translating texts at an advanced level; communicate in Persian on a variety of topics; learn variety of real-life language tasks through writing paragraphs, short essays, reports, and summaries.",
+  "prerequisites_raw": "RGST 58D or Instructor Approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 158F",
+  "title": "Intensive Advanced Persian II",
+  "units": "4",
+  "description": "A continuation of Intensive Advanced Persian I (RGST 158E). The course objectives are: develop advanced language skills; initiate and carry complex conversations; practice reading and translating texts at an advanced level; write complex paragraphs; develop cultural awareness through additional readings, movies, and class discussions.",
+  "prerequisites_raw": "Religious Studies 158E or instructor approval.",
+  "prerequisites_courses": [
+   "RG ST 158E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159A",
+  "title": "Elementary Sanskrit",
+  "units": "4",
+  "description": "An introduction to the phonology, morphology, and syntax of classical Sanskrit.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159B",
+  "title": "Elementary Sanskrit",
+  "units": "4",
+  "description": "Continuation of Elementary Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159A.",
+  "prerequisites_courses": [
+   "RG ST 159A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159C",
+  "title": "Elementary Sanskrit",
+  "units": "4",
+  "description": "Reading and analysis of classical Sanskrit religious texts.",
+  "prerequisites_raw": "Religious Studies 159A-B.",
+  "prerequisites_courses": [
+   "RG ST 159A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159D",
+  "title": "Intermediate Sanskrit",
+  "units": "4",
+  "description": "Selected readings in intermediate level Sanskrit religious texts: Bhagavad-Gita",
+  "prerequisites_raw": "Religious Studies 159A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 159A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159E",
+  "title": "Intermediate Sanskrit",
+  "units": "4",
+  "description": "Selected readings in intermediate level Sanskrit religious texts: Upanishads",
+  "prerequisites_raw": "Religious Studies 159A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 159A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159F",
+  "title": "Intermediate Sanskrit",
+  "units": "4",
+  "description": "Selected readings in intermediate level Sanskrit religious texts: Epics",
+  "prerequisites_raw": "Religious Studies 159A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 159A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159G",
+  "title": "Religious Literature in Sanskrit",
+  "units": "4",
+  "description": "Readings in religious literature in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159H",
+  "title": "Religious Literature in Sanskrit: Vedic Literature",
+  "units": "4",
+  "description": "Readings in Vedic literature in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159I",
+  "title": "Religious Literature in Sanskrit: Mahabharata",
+  "units": "4",
+  "description": "Readings in the Mahabharata in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159J",
+  "title": "Religious Literature in Sanskrit: Puranas",
+  "units": "4",
+  "description": "Readings in the Puranas in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159K",
+  "title": "Religious Literature in Sanskrit: Yoga Literature",
+  "units": "4",
+  "description": "Readings in Yoga literature in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159L",
+  "title": "Religious Literature in Sanskrit: Philosophical Literature",
+  "units": "4",
+  "description": "Readings in Philosophical literature in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159M",
+  "title": "Religious Literature in Sanskrit: Tantric Literature",
+  "units": "4",
+  "description": "Readings in Tantric literature in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159N",
+  "title": "Religious Literature in Sanskrit: Buddhist Literature",
+  "units": "4",
+  "description": "Readings in Buddhist literature in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159O",
+  "title": "Religious Literature in Sanskrit: Jain Literature",
+  "units": "4",
+  "description": "Readings in Jain literature in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159D-E-F.",
+  "prerequisites_courses": [
+   "RG ST 159D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 159P",
+  "title": "Religious Literature in Sanskrit: Buddhist Shastras",
+  "units": "4",
+  "description": "Readings in the Buddhist Shastras in Sanskrit.",
+  "prerequisites_raw": "Religious Studies 159F or instructor approval",
+  "prerequisites_courses": [
+   "RG ST 159F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 160A",
+  "title": "Religious Traditions of India",
+  "units": "4",
+  "description": "An introduction to the classical religious traditions of India, with particular attention to three major areas of Indian religion and culture: the ritual, moral and social order; philosophical perspectives and traditions; and traditions of mythology and devotion.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 161A",
+  "title": "Yoga Traditions of India",
+  "units": "4",
+  "description": "Religio-historical analysis of classical Samkhya and yoga, Jain and Buddhist yoga, and Tantric yoga. Study of the role and function of meditation in Indian religion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 161B",
+  "title": "Buddhist Meditation Traditions",
+  "units": "4",
+  "description": "A consideration of major forms of Buddhist meditation, from both the South Asian and the East Asian traditions, with special attention given to determining the nature of meditation as a variety of religious experience.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 161C",
+  "title": "Buddhist Tantric Traditions",
+  "units": "4",
+  "description": "A comparative historical study of Buddhist Tantric traditions in South and Central Asia.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 161E",
+  "title": "Buddhist Cognitive and Contemplative Sciences",
+  "units": "4",
+  "description": "Introduces students to the Buddhist theories of mind and mental factors, and to diverse Indian and Tibetan Buddhist methods of exploring the nature of the mind and transforming mental states. The course also gives attention to contemporary dialogues and scientific research of Western cognitive scientists with Buddhist scholars and practitioners.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 162A",
+  "title": "Indian Philosophy",
+  "units": "4",
+  "description": "An overview of the six classical philosophical schools (darshanas) of Hinduism. May also include analysis of selected portions of the Jain and Buddhist philosophical traditions.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 162D",
+  "title": "Introduction to Jainism",
+  "units": "4",
+  "description": "Focuses on the Jain tradition with its historical roots in South Asia. Surveys the sacred writings, beliefs, religious figures, and practices integral to the Jain tradition from the time of Mahavira (fifth century B.C.E.) to the present day.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 162G",
+  "title": "Sacred Laws, Social Injustice: Caste in Indian Society",
+  "units": "4",
+  "description": "The reverse of the principle of Separate but Equal, caste implies Together but Unequal. This course stresses two aspects of caste hierarchy: 1) caste as lived in India; and 2) caste as conceived and reformed within Hindu thought. At the theoretical level, caste has inspired efforts to map social relations along multiple axespower, purity, material exchangein counterpoint to Western modernity. Along with social theory, we'll read memoirs, ethnographic and sacred texts, as well as watch Bollywood movies.",
+  "prerequisites_raw": "Upper-division standing and completion of at least one upper-division Religious Studies or Anthropology course or permission of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 162I",
+  "title": "Desire, Sex, and Romance in Traditions of India",
+  "units": "4",
+  "description": "Explores questions of love and sex across two thousand years of Indian religious thought. The reading list includes some of the most famous voices in South Asian literary history. We will tour various genres: moral teachings, epic narrative, drama, devotional and mystical poetry, modern fiction. Yes, we will read the Kama Sutra, and yes, there will be Bollywood films.",
+  "prerequisites_raw": "Upper Division standing and one course from the following: RGST 19, 20, 140D, 158C, 159 G-H-J-K-L-M-N-O, 160 A, 161D, 169 or equivalent; or Instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 162J",
+  "title": "Modern Hinduism: Colonial and Nationalist Contexts",
+  "units": "4",
+  "description": "The names Hinduism, a religion, and India, a nation, come from the same word. What's at stake in mapping one onto the other? We will study the consolidation of Hindu traditions as a modern religionhow the ism got in the Hinduismin historical context. A major theme will be the development under colonialism of Hindutva ideology, which recasts the religion in a militant, masculinized mode. Who speaks for Hinduismwithin academia and outside it?",
+  "prerequisites_raw": "Upper Division standing and one course from the following: RGST 19, 20, 140D, 158C, 159 G-H-J-K-L-M-N-O, 160A, 161D, 169 or equivalent; or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 162R",
+  "title": "Many Ramayanas: Ancient and Modern",
+  "units": "4",
+  "description": "India’s Ramayana is a rip-roaring adventure story, with kings, queens, heroes, villains, lovers, monsters, magic, and miracles. Over thousands of years across South Asia, it has also been the master narrative defining issues of critical ideological importance: power, gender, race, caste, divinity, dharma. In this course we study the canonical Sanskrit text in translation and sample some of the epic’s tellings in vernacular media, including comic books, live performance, and television. The emphasis, however, will be on cinema, with a lineup of films featuring several spectacular recent Bollywood productions. How does this story, popular for more than two thousand years, speak to the politics of the present?",
+  "prerequisites_raw": "Upper-division standing or instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 163C",
+  "title": "Doctors and Diviners: Science, Medicine, and Religion in Premodern China",
+  "units": "4",
+  "description": "This course undertakes a critical history of science and medicine in premodern China, focusing primarily on their role as instigators of interchange between Buddhism, Daoism, and various intellectual currents.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ }
+]

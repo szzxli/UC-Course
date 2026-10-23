@@ -1,0 +1,202 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125MC",
+  "title": "Special Topics: MEMS Characterization",
+  "units": "3",
+  "description": "Focuses on developing the foundational understanding of experimental approaches and analysis techniques commonly used to characterize MEMS devices. Covered topics will include basic optics principles, optical microscopy (including stereoscopy, fluorescence imaging, confocal systems, and super-resolution techniques), force spectroscopy methods (optical tweezers, magnetic tweezers), electron microscopy, vibrational analysis and scanning probe techniques (AFM), with examples drawn from the use of MEMS devices for biosensor development, metrology, and other engineering applications, including device quality control.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125ML",
+  "title": "Special Topics in ME: Research Topics in Machine Learning and System Identification",
+  "units": "3",
+  "description": "Introduces students to research topics at the interface of system identification, data science, and machine learning. Reviews linear algebra, probability and information theory, and general concepts from learning algorithms. Introduction to the notion of estimators, maximum-likelihood estimation, stochastic gradient descent, and algorithm design. Provides an overview of deep feedforward networks, regularization strategies for deep learning, and optimization strategies for learning architectures. Introduces topics in system identification and reviews past and present approaches for using neural networks to perform system identification.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125MS",
+  "title": "Special Topics in Mechanical Engineering- Rapid Prototyping Design: Advanced CAD and 3D Printing",
+  "units": "3",
+  "description": "Students learn advanced software techniques used in rapid prototyping. Computer aided design (CAD), Finite Element Analysis (FEA), reverse engineering and 3D printing are employed to create a prototype of your invention. We also review the way companies use CAD to manage prototypes and production.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125MV",
+  "title": "Engineering Approaches to Solve Wicked Problems and Global Challenges",
+  "units": "3",
+  "description": "Explores how engineers tackle solving 'wicked problems': problems that are ill-structured, with multiple interdependent variables and no clear optimal solutions. Such problems are highly multidisciplinary, often requiring input and innovation across technological, scientific and societal domains. Wicked problems seem to defy standard and structured solutions, and challenge engineers to develop new ways of thinking and communicating. Through case studies, discussions, and projects we will learn from past successes and failures and determine best practices, while exploring how engineers can prepare to lead solutions to the world's most pressing problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125N",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125OK",
+  "title": "Soft mechanics: Design and Applications",
+  "units": "3",
+  "description": "We will discuss some applications of soft mechanics to study various complex systems. There will be weekly presentations by students and readings of several classic book chapters and papers from the literature of applied mathematics, soft matter physics, and engineering. Examples of topics include elasticity, fluid mechanics, biophysics, and biomechanics, along with their applications to societal challenges such as epidemiology and health. Each student will work on a project throughout the quarter and is expected to write a research-like manuscript on the investigated topic. The final manuscript could be a review and not (necessarily) original new work.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125P",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125PL",
+  "title": "Special Topics in Mechanical Engineering: Wind and Tidal Extraction Over Large Scales",
+  "units": "3",
+  "description": "Covers the fluid mechanics of wind and tidal energy, with an emphasis on quantitatively estimating available resources and power extracted. Requires prior completion of ME152A/B or similar introductory fluid mechanics course.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125Q",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125R",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125RA",
+  "title": "Special Topics in Mechanical Engineering: Radiative Energy Transfer",
+  "units": "3",
+  "description": "This course investigates the role of thermal radiation in the exchange of energy between engineered surfaces, and the problem of managing overall heat transfer. Topics include the fundamentals of thermal radiation, covering Plank's spectral distribution, Stefan-Boltzmann law, Wien's displacement law, Kirchhoff's law, spectral and total properties of radiative surfaces, including black, diffuse, gray, specular, and nongray surfaces. Analytical methods for analysis of radiative exchange between surfaces are developed using both Radiosity formulations and Network Analogies. Finally, radiative exchange between surfaces is coupled to multimode heat transfer problems, including those having contributions from conduction and convection.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125RM",
+  "title": "Chemo-Mechanics: The Intersection of Solid Mechanics and Chemistry",
+  "units": "3",
+  "description": "Covers basic thermodynamics, the role of chemistry and mechanics in thermodynamics, and the issue of kinetics when the system is not in thermodynamic equilibrium. Emphasis will be placed on the thermodynamics of deformable solids, with mechanical stress, chemical reactions, other chemical phenomena, and species transport included in the formulation. As indicated above, examples will be selected from oxidation and corrosion, electrochemical energy conversion and storage, the behavior of gels and elastomers, biological cell mechanics, and other topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125RS",
+  "title": "Special Topics: Engineering Biomaterials",
+  "units": "3",
+  "description": "This lecture-based course provides an overview of material structure-property relationships, processing, and characterization techniques for metals, polymers, and ceramics. We discuss the unique design constraints imposed by the human body and discuss strategies to enhance biocompatibility. Throughout the course, emphasis is placed on applications of biomaterials engineering in medical devices.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125SD",
+  "title": "Special Topics: Mechanics and Measurements",
+  "units": "3",
+  "description": "The objective of the course is to give students an understanding of the fundamentals of experimental design and analysis of resulting data, with an emphasis on calculating uncertainties in experimental systems, understanding the various means of measuring temperature, strain, etc. including advantages and limitations, and statistical characterization of sample sets for meaningful results.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125T",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125TB",
+  "title": "Special Topics in Mechanical Engineering: Waves and Flow",
+  "units": "3",
+  "description": "Waves are one of the most distinct and important phenomena in fluid mechanics. Various aspects of waves and their role in different types of flows will be considered in this advanced undergraduate course. Topics include open-channel incompressible flows and closed-channel compressible flows. Appropriate conservation laws, thermodynamics principles and numerical methods will be developed to support these topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125TD",
+  "title": "Advanced Engineering Thermodynamics",
+  "units": "3",
+  "description": "This course is an extension to ME151A and will discuss advanced concepts in engineering thermodynamics, with practical applications in energy generation, transport, conversion, and storage processes. Topics include: free energies, Maxwell relations, refrigeration cycles and technologies, thermodynamics of solar energy, introduction to statistical thermodynamics, and other topics related to renewable energy research. Prerequisite: ME151A or equivalent courses on thermodynamics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125TM",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125V",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125WY",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

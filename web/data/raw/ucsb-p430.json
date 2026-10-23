@@ -1,0 +1,288 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 164",
+  "title": "Topics in Buddhist Studies",
+  "units": "4",
+  "description": "Various courses on the topic of Buddhist Studies",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 164A",
+  "title": "Buddhist Traditions of South Asia",
+  "units": "4",
+  "description": "A historical analysis of Buddhist ideas and practices in South Asia from the inception of Buddhist traditions to the fifteenth century CE.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 164C",
+  "title": "Buddhist Ethics",
+  "units": "4",
+  "description": "A study of Buddhist ethical traditions, including a consideration of soteriological, social, political, environmental, and gender issues. Critical analysis and assessment of various ethical perspectives based on Buddhist textual sources and ethnographic evidence from the lives of contemporary Buddhist practitioners.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 165",
+  "title": "Vedic Traditions of India",
+  "units": "4",
+  "description": "A study of the sociocultural, mythological, and ritual traditions of Vedic India. Includes an exploration of the Indo-Aryan debate concerning Vedic origins, the canonical authority of Veda, cosmogonic and cosmological speculations, sociocultural taxonomies, and theories of Vedic ritual.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 166",
+  "title": "Race and Religion in the American West",
+  "units": "4",
+  "description": "Examines the role of race, religion, and region within a history of encounters that influenced the construction and development of the American West from the 19th century to the present. Topics explored can include how the convergence of different racial and religious groups transformed ideas related to race and ethnicity, transnationalism, the environment and technology, new religious traditions, and broader conceptions of American religious history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 166AX",
+  "title": "Chinese Texts",
+  "units": "1",
+  "description": "Readings from some of the primary texts associated with various Chinese religious traditions considered in Religious Studies 166A. Texts from which selections will be drawn include the Lun Yu, the Tao Te Ching, and the Lotus Sutra.",
+  "prerequisites_raw": "Chinese 6 or equivalent; concurrent enrollment in Religious Studies 166A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 167A",
+  "title": "Religion in Japanese Culture",
+  "units": "4",
+  "description": "A historical analysis of the major components of the classical and medieval religious systems of Japan, through investigation of texts, rituals, and institutions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 169",
+  "title": "Hindu Devotional Traditions",
+  "units": "4",
+  "description": "Introduction to the 2000-year history of Hindu devotion as expressed in myth, poetry, and theology as well as to perennial worship practices in South Asia, including temple rituals, pilgrimage, procession, and possession.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 171",
+  "title": "Buddhism and Local Cults in Asia",
+  "units": "4",
+  "description": "This course examines the multiple ways in which various Buddhist traditions have interacted with local cults in various parts of Asia (including China, Tibet, Japan, Burma, and Thailand). We will discuss issues of localization and translocalization as important religious phenomena.",
+  "prerequisites_raw": "One lower division or upper division course on Buddhism, or prior approval of the instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 171A",
+  "title": "The Schools of Tibetan Buddhism",
+  "units": "4",
+  "description": "A detailed treatment of one (or a combination) of the four major schools of Tibetan Buddhism, focusing of their history, major figures, texts, institutions, doctrines, and principal practices. A. Nyingma",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 172",
+  "title": "Evolutionary and Cognitive Science of Religion",
+  "units": "4",
+  "description": "An introduction to evolutionary and cognitive science approaches to the study of religion.",
+  "prerequisites_raw": "Psychology 1 and one course in Religious Studies",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 172A",
+  "title": "Religion and Science",
+  "units": "4",
+  "description": "The impact of western science on religion; the compatability and complementarity of their discourses. The implications for religion of contemporary scientific theories concerning man and the universe in which he lives.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 172B",
+  "title": "Religion, Science, and the Problem of Consciousness",
+  "units": "4",
+  "description": "A comparative exploration of the nature of consciousness as presented by Western scientists and philosophers and by Hindu and Buddhist philosophers and contemplatives.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 173A",
+  "title": "Aramaic Seminar",
+  "units": "4",
+  "description": "A focus on grammar and readings on select dialects of premodern Aramaic.",
+  "prerequisites_raw": "Religious Studies 17C or equivalent.",
+  "prerequisites_courses": [
+   "RG ST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 173B",
+  "title": "Aramaic Seminar",
+  "units": "4",
+  "description": "A focus on grammar and readings in select dialects of premodern Aramaic.",
+  "prerequisites_raw": "Religious Studies 17C.",
+  "prerequisites_courses": [
+   "RG ST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 175A",
+  "title": "Shinto: Concepts and Practices in History",
+  "units": "4",
+  "description": "The study of religious and cultural phenomena associated with Shinto inJapan through a survey of doctrinal developments, practices, andconsiderations on the relationship between Shinto and other religious andintellectual systems such as Buddhism, Daoism, Confucianism, andChristianity.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 175B",
+  "title": "Shinto through the Ages",
+  "units": "4",
+  "description": "Explores the diversity of the Shinto tradition through an analysis of representative original texts in English translation ranging from ancient mythology (Kojiki, Nihon shoki, and Fudoki) and medieval syncretic discourses, to modern forms of Shinto nationalism.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 176",
+  "title": "Buddhist Political Thought and Institutions",
+  "units": "4",
+  "description": "Buddhist political theories and practices in various Asian countries from antiquity to the present, with special emphasis on ideas of kinship and republicanism, state-formation process, cultural identity, and the interactions with other religions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 177",
+  "title": "Religion and Law",
+  "units": "4",
+  "description": "A comparative study of the interrelationship of law and religion within society. Examples selected from the legal traditions of small-scale societies, the great civilizations of the past, and modern societies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 179",
+  "title": "Visual Culture of Buddhism",
+  "units": "4",
+  "description": "This course explores the rich world of Buddhist visual culture, ranging from meditation to addressing the use of painted images in public performances. It focuses on sacred images, their rituals, and theories of representation behind their creation and use.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 179B",
+  "title": "Mysticism",
+  "units": "4",
+  "description": "Analysis of German mystical writing, its roots in ancient Greek texts, revolutionary impact, links with other mystical traditions, and influence on secular literature. Texts include Hildegard von Bingen, Meister Eckhart, Mechthild von Magdeburg, Novalis, Rilke, etc. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 181B",
+  "title": "Political Islam and the Response of Iranian Cinema",
+  "units": "4",
+  "description": "Course will explore the rise of an increasingly militant Islamic discourse in the Middle East and North Africa in the last three decades. It will also look at the responses of award-winning film directors from the region who have advocated a more tolerant discourse on Islam through cinema.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 181F",
+  "title": "Shi'ism Before and After the Iranian Revolution",
+  "units": "4",
+  "description": "An examination of a century of evolution of Iranian Shi'ism. Readings include: Early 20th century secular Iranian thinkers who formulated a new discourse on rationalist Shi'ism; the mid-twentieth-century lay writers and religious thinkers moved to a more militant discourse of Islamism; and a generation of clerics and theologians who have articulated a more tolerant and hermeneutic interpretation of Shi'ism in the last two decades in an attempt to reconcile Shi'i doctrines with social and economic modernities.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 181G",
+  "title": "Shiism, Politics and Everyday Life",
+  "units": "4",
+  "description": "Will explore the reformist movement that has arisen within and outside the Islamic Republic, which attempts to reconcile social and economic modernity with newer and more tolerant interpretations of Shi'i Islam. Readings will be in English.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 183B",
+  "title": "Religious Practice and the State in China",
+  "units": "4",
+  "description": "Historical and anthropological approaches to the interaction between religious practice and state forces, with emphasis on popular religion and the decline and revival of religion in Chinese modernity.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 184B",
+  "title": "Tibetan Buddhist Literature",
+  "units": "4",
+  "description": "A thematic and text-centered investigation of an aspect of the Tibetan Buddhist religious/philosophical tradition. In any given year, focuses on a genre of the Tibetan religious/literary corpus; e.g., biography and the \"stages of the path,\" \"great perfection,\" or Tantric literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 185",
+  "title": "Food, Religion, and Culture in the Middle East",
+  "units": "4",
+  "description": "Explores the significance of foods in the religious and cultural life of Middle Eastern peoples. Using primary and secondary resources, takes a historical approach to the culinary cultures of Muslims, Christians and Jews, including feasting, fasting, and dietary rules. Includes critical examination of how Arab, Persian, Turkish, and Jewish ethnic communities establish identities and relationships through culinary practices. Food sovereignty, sustainability, and social resilience in the face of adversity are also examined in different contexts.",
+  "prerequisites_raw": "A previous course in Global Studies, Religious Studies, History, Anthropology, or Sociology; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 186B",
+  "title": "The Arabic Qur'an",
+  "units": "4",
+  "description": "Systematic study of the Arabic vocabulary, grammar, syntax, performance, calligraphy, and commentary (tafsir) from historical and cultural perspectives.",
+  "prerequisites_raw": "Religious Studies 10F.",
+  "prerequisites_courses": [
+   "RG ST 10F"
+  ]
+ }
+]

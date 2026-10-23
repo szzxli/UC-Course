@@ -1,0 +1,226 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160ZL",
+  "title": "Language and Thought",
+  "units": "4",
+  "description": "Human language is incredibly complex. In addition to enabling communication, language changes how people think. In this class, we investigate (1) the cognitive processes that help human infants and young children acquire a (first) language, (2) the lifelong social and cognitive impacts of acquiring more than one language -- bilingualism, and (3) how the particular language(s) people think may shape their conceptual processes and thought.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 161",
+  "title": "SYSTEMS NEUROSCIENCE",
+  "units": "4",
+  "description": "An introduction to how neural circuits mediate specific sensory, motor, and cognitive behaviors, drawing on research from a range of species and brain regions. Also serves as an introduction to the methodological approaches used in systems neuroscience, including electrophysiology, cellular imaging, optogenetics, and behavior.",
+  "prerequisites_raw": "PSY 111 or MCDB 151; open to Psychological & Brain Sciences, Biopsychology, Pharmacology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111",
+   "MCDB 151"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 162",
+  "title": "NEUROETHOLOGY",
+  "units": "4",
+  "description": "This course describes the studies of different animal models, ranging from insects and amphibians to birds and mammals, to learn about their specialized behaviors and the neural circuitries that govern them. The goal of this classic branch of behavioral neuroscience is to understand how the nervous system encodes relevant natural stimuli to trigger an appropriate evolutionarily-robust behavioral response in order to uncover fundamental principles of the nervous system.",
+  "prerequisites_raw": "PSY 111 or MCDB 151 or MCDB 126B; for MCDB 151 and 126B must be with a minimum grade of C or better; open to Psychological & Brain Sciences, Biopsychology, Pharmacology, Cell & Developmental Biology, BioChemistry, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111",
+   "MCDB 151",
+   "MCDB 126B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163",
+  "title": "Contemporary Issues in Biopsychology",
+  "units": "4",
+  "description": "An examination of special topics of current importance in biopsychology. Content will vary. Information on content may be obtained in department office.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163AA",
+  "title": "Neural basis of spatial cognition",
+  "units": "4",
+  "description": "Across the animal kingdom, intelligent behavior requires long term storage of the structure of the spatial environment to enable efficient navigation between goal locations. Given this, it is perhaps unsurprising that the brain evolved systems for generating, storing, and using spatial information. This course will examine the neural circuits that mediate spatial cognition and navigation, with strong focus on neurophysiology and behavior. Special emphasis is placed on comparisons of navigation between species and consideration of the overlapping nature of spatial and episodic memory processing.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163BG",
+  "title": "The Active Brain",
+  "units": "4",
+  "description": "Engaging in physical activity not only affects one's body, but it also has wide ranging effects on the brain and cognitive functions. This course gives students an overview of the current understanding of the cognitive and neural consequences of engaging in physical activity. The approach will be multidisciplinary, including not only cognitive, systems, and clinical neuroscience approaches to studying the effects of physical activity on behavior and brain function across species, but also more applied approaches relating these effects to performance in real world settings.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163BR",
+  "title": "RETINAL DEVELOPMENT",
+  "units": "4",
+  "description": "An examination of the development processes underlying the formation of the retina, including proliferation, neurogenesis, fate determination, differentiation, target recognition, synaptogenesis, and cell death.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163IT",
+  "title": "Neurocircuitry of Psychiatric Disorders",
+  "units": "4",
+  "description": "In this course, we will visit some of Oliver Sacks’ accounts of his patients and their neurological predicaments and learn about neurocircuitry underlying the observed conditions. The goal of this course in neuroscience is to understand some of the principal functions of neural circuits that govern human behavior and perception from the perspective of basic neuroscience research and learn what happens when these principles go awry.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163ME",
+  "title": "AI and Visual Cognition",
+  "units": "4",
+  "description": "The goal of the course is to provide students with a survey of how artificial intelligence has been used over the last 10 years to advance the fields of vision and visual cognition. It is best suited for students with a background in visual perception and/or visual neuroscience, as well as a solid foundation in mathematics (e.g., Algebra, Calculus).",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163MG",
+  "title": "Contemporary Issues in Biopsychology - Systems Neuroscience",
+  "units": "4",
+  "description": "Presentation and discussion of current research in systems neuroscience. Focus on how neural circuits mediate specific behaviors, drawing on research from a range of species and preparations. Also serves as an introduction to the methodological approaches used in systems neuroscience, including electrophysiology, cellular imaging, and optogenetics.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163RE",
+  "title": "Neuroanatomy",
+  "units": "4",
+  "description": "A lecture course examining the organization and connectivity of the nervous system. Required reading: Nolte, The Human Brain;Recommended reading: Pinel, A Colorful Introduction to the Anatomy of the Human Brain",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163RK",
+  "title": "Neuroscience of Learning and Motivation",
+  "units": "4",
+  "description": "Retraces the history of our understanding of motivated behavior, from the early psychological/neuroscientific studies to the modern day. We survey and discuss primary research literature (mainly from nonhuman animal models), with a focus on how neural circuits and dynamics mediate specific psychological (computational) processes.We also examine how alterations in relevant brain circuits contribute to maladaptive behaviors in neuropsychiatric disorders.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163SJ",
+  "title": "Diffuse Neurocellular Systems",
+  "units": "4",
+  "description": "This Special Topics course focuses on the cellular and molecular neurobiology of brain systems that show little regional specificity. Topics include diffuse neurotransmitter systems, glial cells, neuroimmunology, and other related topics. The course does not cover cognitive processes, and a strong background in molecular neurobiology is assumed.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 163TS",
+  "title": "Models of Working Memory",
+  "units": "4",
+  "description": "Working memory (WM), a core cognitive function, enables the maintenance and manipulation of a limited amount of information over disruptions in sensory input. This correlates with measures of academic achievement and general intelligence, and the neural mechanisms of WM can be effectively studied in animal model systems. We will survey the history of models of WM, with emphasis on modern study of WM capacity limits in humans and animals based on performance in visual tasks. We will cover theoretical & computational models of behavioral performance on WM tasks, theories of the neural mechanisms supporting WM, and how such models can be evaluated empirically in animal model systems and with human cognitive neuroscience methods.",
+  "prerequisites_raw": "PSY 106 or 111; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 166",
+  "title": "Neurocircuitry of Psychiatric Disorders",
+  "units": "4",
+  "description": "In this course, we visit some of Oliver Sacks’ accounts of his patients and their neurological predicaments and learn about neurocircuitry underlying the observed conditions. The goal of this course in neuroscience is to understand some of the principal functions of neural circuits that govern human behavior and perception from the perspective of basic neuroscience research and learn what happens when these principles go awry.",
+  "prerequisites_raw": "PSY 106. Open to psychological & brain science, biopsychology, and interdisciplinary studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 183",
+  "title": "Psychopathology",
+  "units": "4",
+  "description": "Covers the concepts, theory, and research within psychopathology. Focuses on the concepts of mental illness and mental disorder, including diagnosis, causes, and treatments. Topics may include: exploration of the cultural influences, and social consequences of current and historical definitions of mental disorders.",
+  "prerequisites_raw": "PSY 1 or upper-division standing.",
+  "prerequisites_courses": [
+   "PSY 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 190L",
+  "title": "Supervised Laboratory Research",
+  "units": "5",
+  "description": "Exploration of topics in experimental methodology, including APA writing requirements, under the guidance of a faculty member in the department.",
+  "prerequisites_raw": "upper-division psychology and biopsychology majors only; completion of 2 upper-division courses in psychology; consent of department and instructor; completion of psy 99P or 199P. Students must have a minimum 3.0 grade-point average for the preceding 3 quarters.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 196D",
+  "title": "Introduction to Tutoring in Psychology",
+  "units": "0",
+  "description": "A focus on modern, evidence-based practices that can be useful when supporting undergraduate students via peer tutoring and peer mentorship roles. Students in this course complete a variety of readings, written assignments, and group discussions focused on best practices in undergraduate education. Students engage in self-reflective exercises and learn how to effectively support students in the Psychological & Brain Sciences and Biopsychology majors.",
+  "prerequisites_raw": "Upper-division standing, a PSY grade point average of 3.5 or above and consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

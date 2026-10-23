@@ -1,0 +1,247 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289F",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289G",
+  "title": "Phase Stability & Microstructure Evolution",
+  "units": "3",
+  "description": "Phase diagrams for binary, ternary and higher order systems: thermodynamic foundation, construction and applications. Metastability upon synthesis and processing far from equilibrium: approaches, thermodynamic and kinetic principles, phase selection, solubility extension. Stability and evolution of metastable phases and microstructures.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289H",
+  "title": "Statistical Mechanics of Crystalline Solids",
+  "units": "3",
+  "description": "Covers first-principles methods to predict thermodynamic and kinetic properties of multi-component crystalline solids. Topics include: (i) a review of thermodynamics and statistical mechanics of crystalline solids; (ii) effective Hamiltonians for configurational and vibrational degrees of freedom with a focus on the Ising model, cluster expansions, harmonic and anharmonic lattice dynamical Hamiltonians; (iii) Monte Carlo methods, low temperature expansions, free energy integration methods; (iv) First-principles methods to calculate multi-component phase diagrams; (v) Order-disorder and structural phase transitions and (vi) Atomic diffusion, transition state theory, kinetic Monte Carlo simulations, Kubo-Green.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289I",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289J",
+  "title": "Crystal Growth and Solidification",
+  "units": "3",
+  "description": "Addresses crystallization from the melt and solidification of alloys and compounds. Fundamental macroscopic thermal, fluid and mass transfer aspects of growth. Nucleation, growth, the stability of solid/liquid interfaces and microstructure formation during solidification of multicomponent systems. Crystal growth processes are addressed, including Czrochralski and Bridgman growth, shape casting methods and directed energy processes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289JK",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289L",
+  "title": "Topics in Engineering Leadership",
+  "units": "3",
+  "description": "As technology increasingly drives strategy and innovation, technical professionals must nurture leadership skills to effectively guide teams, influence organizational decisions, and translate complex technical concepts into value. This graduate-level course introduces essential skills in self-awareness, team management, strategic communication, effective mentorship, negotiation, feedback delivery, and budget management. Each week combines theoretical foundations with hands-on practice through role-playing case studies and conversations with technical leaders. By course completion, students will have exposure to a comprehensive toolkit for charting their leadership journey and driving organizational success.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289LM",
+  "title": "Dislocations and Dislocation Dynamics",
+  "units": "3",
+  "description": "Fundamentals of dislocations in crystalline solids and the dynamical behavior of dislocations. Topics covered include: elastic properties of dislocations, dislocation interactions, intersections, arrays, nucleation and sources. Thermally activated glide and climb are addressed along with statistical aspects of dislocation obstacle interactions. Partial dislocations, faults and unique aspects of dislocations in metals, semiconductors, ceramics and intermetallics are covered.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289M",
+  "title": "Machine Learning for Materials Science",
+  "units": "3",
+  "description": "Covers the fundamentals of machine learning tools used in materials science. Application areas include surrogate models for atomistic simulations as well as machine-learning tools for 3-dimensional image analysis and the analysis of experimental data. The course starts with an overview of probability theory and Bayesian inference followed by treatments of regularized regression, Gaussian process models and neural networks. Concepts of invariance and equivariance in the context of spatial transformations will be developed and neural network architectures that are equivariant to translational and rotational transformations will be analyzed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289MT",
+  "title": "Foundations of Machine Learning for Materials Science",
+  "units": "3",
+  "description": "Covers fundamental machine learning tools for materials science, including surrogate models for atomistic simulations, 3D image analysis, and experimental data analysis. It begins with probability theory and Bayesian inference, followed by regularized regression, Gaussian processes, and neural networks. Concepts of invariance and equivariance are introduced, with equivariant neural network architectures discussed. The course also covers ML methods for image analysis (e.g., variational autoencoders, diffusion models, GANs) and natural language processing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289N",
+  "title": "Introduction of nano- and micro-machining",
+  "units": "3",
+  "description": "Explores the intersection of functional materials and advanced device engineering in the context of nano- and micro-electro-mechanical systems. Students examine the properties and structures of 0D, 1D, and 2D materials—including quantum dots, nanowires, nanotubes, and thin films—and learn how these materials are leveraged in the design, fabrication, and functionalization of N/MEMS devices. Emphasis is placed on understanding how quantum effects and material characteristics influence the performance of sensors, actuators, and other micro/nano-scale components.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289O",
+  "title": "Additive Manufacturing",
+  "units": "3",
+  "description": "Additive manufacturing (AM) encompasses processing techniques that fabricate three- dimensional objects from computer-generated designs through sequential material deposition. This course will provide an overview of current additive manufacturing processes, explore the principles and models for each process, with an emphasis on material evolution during processing. We will discuss process limitations and challenges, as well as process selection considerations. Additionally, we will review current state-of-the-art in process development, applied AM research, and materials development for AM.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289P",
+  "title": "Alloy Systems and Design",
+  "units": "3",
+  "description": "Overview of major principles to be considered in the design of metallic systems, including thermodynamics, kinetics, physical and mechanical properties, processing approaches and environmental considerations. The structure, properties, properties and applications of major metallic systems will be addressed. Systems to be considered include light alloys, titanium alloys, lithium alloys, refractory metals, nickel and cobalt alloys, platinum group metals, copper and ferrous alloys. New tools to guide design of emerging systems will be covered.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289Q",
+  "title": "Micromechanics",
+  "units": "3",
+  "description": "Broad overview of micromechanics, emphasizing the microstructure of materials, its connection to atomic structure, and its consequences on macroscopic properties. Topics include order-disorder transition; phase transformations in crystalline solids, including martensitic, ferroelectric, and diffusional phase transformations, twinning and domain patterns, active materials; kinetics of phase transformation; phase field methods with an emphasis on implementing it numerically; computationally interpret the role of diffusion kinetics and surface energy effects on nucleation and growth mechanisms; interpret the origins of material microstructures; as well as several applications to battery electrodes, ferroelectrics, and soft magnets.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289X",
+  "title": "Dynamic Mechanical Behavior",
+  "units": "3",
+  "description": "Dynamic wave propagation in solids. Elastic, plastic and shock waves. Dynamic test techniques and diagnostic tools. Shock-induced phase transformations. Plastic deformation at high strain rates. Dynamic fracture.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 290",
+  "title": "Research Group Studies",
+  "units": "0",
+  "description": "In this course students or instructors present recently published papers and/or results relevant to their own research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 493",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Offered in conjunction with engineering practice in selected industrial and research firms, under direct faculty supervision.",
+  "prerequisites_raw": "Prior departmental approval needed. Materials majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 501",
+  "title": "Teaching Assistant Practicum",
+  "units": "0",
+  "description": "Practical experience in the various activities associated with teaching including: lecturing, supervision of laboratories and discussion sections, preparation, and grading of homework and exams.",
+  "prerequisites_raw": "Consent of graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Instructor usually student's major professor. A written proposal for each tutorial must be approved by the department chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "Consent of graduate adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Research and preparation of the dissertation.",
+  "prerequisites_raw": "Consent of chair of student's doctoral committee.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 1A",
+  "title": "Introductory Biology I",
+  "units": "4",
+  "description": "Introduction to biochemistry, cell biology and development, and genetics.",
+  "prerequisites_raw": "Chemistry 1A-B-C with a grade of C- or better (Chem 1C may be taken concurrently), or a score of 4 or better on either the Advanced Placement Chemistry or Advanced Placement Biology exams.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 1AL",
+  "title": "Introductory Biology Laboratory I",
+  "units": "1",
+  "description": "Laboratory investigations illustrate basic principles of biochemistry, molecular and cell biology, development, and genetics.",
+  "prerequisites_raw": "MCDB 1A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 1AZ",
+  "title": "Selected Topics from MCDB 1A",
+  "units": "0",
+  "description": "Designed for transfer students who have completed part of MCDB 1A through transfer work. Topics will be selected by the department, as appropriate, to fulfill the introductory biology requirement at UCSB.",
+  "prerequisites_raw": "Consent of department.",
+  "prerequisites_courses": []
+ }
+]

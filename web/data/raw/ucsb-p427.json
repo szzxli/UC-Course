@@ -1,0 +1,302 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 140E",
+  "title": "Islam in America",
+  "units": "4",
+  "description": "Examines Islam in American setting, from introduction by African slaves and immigrants from Islamic countries, to transformation into the black Muslim movement, to rise as one of the leading non-Christian religions in the United States during the 1970s and 80s.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 140F",
+  "title": "Modern Islamic Movements",
+  "units": "4",
+  "description": "Analysis of the variety of movements that have emerged in the modern Muslimworld: Sufi, reformist, and revolutionary. Includes comparison of Islamic political movements, leaders, and ideologies in Arabia, Africa, Iran, India, and south east Asia.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 141",
+  "title": "Religious Diversity in Theory and Practice",
+  "units": "4",
+  "description": "An introduction to interreligious literacy, religious pluralism, models of interreligious relations, and interreligious conflict resolution. Students will learn about the ways in which religious diversity impacts daily life, about models for religiously diverse environments, and about tools for interreligious conflict resolution. Students will gain understanding of theories of interreligious and interfaith studies by considering contemporary case studies on the local, national, and global scale.",
+  "prerequisites_raw": "Upper Division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 141A",
+  "title": "Sociology of Religion: The Classical Statements",
+  "units": "4",
+  "description": "Religion as it is treated by major social theorists, including Marx, Weber,Durkheim, Freud, Simmel, Malinowski.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 141D",
+  "title": "Church-State Relations",
+  "units": "4",
+  "description": "Examines relationship between American government and religion with particular attention to Establishment Clause jurisprudence and interest group politics. Teaches analytical methods of reading case law and public interest litigation.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 141E",
+  "title": "Religious Liberty",
+  "units": "4",
+  "description": "Examines commitments to religious freedom as an essential part of modern politics. Teaches analytical case law method to read U.S. cases as well as rulings of international courts protecting civil and human rights.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 142A",
+  "title": "Religious Literature in Hebrew",
+  "units": "4",
+  "description": "An application of grammatical and analytic skills acquired in introductory Hebrew to the rapid reading of biblical Hebrew texts, complemented by an emphasis on critical and interpretive approaches to the Hebrew bible. Textschange with each offering of the course.",
+  "prerequisites_raw": "Religious Studies 17A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 142B",
+  "title": "Religious Literature in Hebrew",
+  "units": "4",
+  "description": "Introduction to poetry of the Hebrew bible with special reference to Culticsongs. Texts will be selected from psalms, song of songs, and Koheleth in order to examine the varieties of poetic style.",
+  "prerequisites_raw": "Religious Studies 17A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 142C",
+  "title": "Religious Literature in Hebrew",
+  "units": "4",
+  "description": "Continuation of Religious Studies 142A and/or 142B",
+  "prerequisites_raw": "Religious Studies 17A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 143",
+  "title": "Seminar in Religion and Society: Research Methods",
+  "units": "4",
+  "description": "Applied research experience, with attention to practical aspects of research such as interviewing, field work, analysis, and write-up.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 144",
+  "title": "The Problem of Evil in Religious Traditions",
+  "units": "4",
+  "description": "This course surveys key philosophical formulations and responses to the problem of evil, including natural evil (e.g. diseases) and moral evil (e.g. injustices), as expressed across religious traditions, including the Ancient Greeks, Judaism, Christianity and Islam. The focus of the course is a comparative reading of philosophical and religious primary sources in their historical and cultural contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 144A",
+  "title": "ATHEISM",
+  "units": "4",
+  "description": "Do atheists believe in anything? If so, what? Is a religious atheist an oxymoron?This course explores what atheism is and how its changed over time. It also introduces students to related forms of nonbelief, such as agnosticism, humanism, and freethought. By looking at the wide variety of atheisms, a fascinating story emerges about what it means to believe, behave, and belong in religious and nonreligious ways.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 145",
+  "title": "Patterns in Comparative Religion",
+  "units": "4",
+  "description": "Study of major religious issues as addressed by more than one religious tradition. The problem of comparative religion as an academic discipline.",
+  "prerequisites_raw": "Upper division standing and one course on religion (lower or upper division).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 146E",
+  "title": "Hindu Mysticism",
+  "units": "4",
+  "description": "The history of Hindu mysticism and the lived experience of the Hindu mysticfrom the Vedas through the Tantras in doctrinal literature, mythology, ritual, and art.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 147",
+  "title": "Religion and the American Experience",
+  "units": "4",
+  "description": "Study of one selected topic in U.S. religious history in cultural context. Examples include evangelicalism, revivalism, fundamentalism, millennialism, communalism, Transcendentalism, new religions past and present, metaphysical traditions, religion and ethnicity, religion and healing, nature religion, New Age.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 147T",
+  "title": "Introduction to Daoism",
+  "units": "4",
+  "description": "A study of the classical sources of Daosim, followed by a consideration of the varieties of religious practice which developed from those sources.",
+  "prerequisites_raw": "Upper Division Only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 148A",
+  "title": "Advanced Arabic",
+  "units": "4",
+  "description": "Advanced study of grammar and vocabulary; readings in the major genres of classical and modern Arabic literature, including Qur'an, medieval poetry and prose, modern short story and novels, etc.",
+  "prerequisites_raw": "Religious Studies 10F.",
+  "prerequisites_courses": [
+   "RG ST 10F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 148B",
+  "title": "Advanced Arabic",
+  "units": "4",
+  "description": "Continuation of Relgious Studies 148A.",
+  "prerequisites_raw": "Religious Studies 148A.",
+  "prerequisites_courses": [
+   "RG ST 148A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 148C",
+  "title": "Advanced Arabic",
+  "units": "4",
+  "description": "Continuation of Relgious Studies 148B.",
+  "prerequisites_raw": "Relgious Studies 148B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 148X",
+  "title": "Reading and Translating Arabic",
+  "units": "4",
+  "description": "Introduces Advanced Arabic Grammar and vocabulary with readings of Arabic literature from a variety of contexts, ranging from Medieval to Modern Arabic literatures and cultures, and is open to students of different backgrounds in Arabic, with minimum proficiency in two years of Arabic or their equivalent.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 149",
+  "title": "Comparative Religion and Politics of the Middle East",
+  "units": "4",
+  "description": "Focus on \"Primordialism\" in the contemporary Middle East and how kinship, ethnicity and religion impact nation-building. Four cases are selected from Egypt, Saudi Arabia, Israel-Palestine, Lebanon, Syria, and Iraq.",
+  "prerequisites_raw": "Upper Division Standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 149A",
+  "title": "History of Islamic Theology",
+  "units": "4",
+  "description": "Survey of major trends and schools in Islamic theology throughout the early, formative classical, and post-classical periods. Attention given to formulations of Islamic theology as expressed in doctrinal, heresiographical, theological, philosophical, and mystical texts in historical and social contexts.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 149B",
+  "title": "The Individual in Islamic Civilization",
+  "units": "4",
+  "description": "Examine the formation of Islamic religious traditions from the perspective of the individual by exploring how representative archetypes of the individual in classical Muslim civilization articulated an understanding of the Divine.",
+  "prerequisites_raw": "upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 149C",
+  "title": "Language and Knowledge in Medieval Islam",
+  "units": "4",
+  "description": "Examines representative conceptions and practices of language in Islamic thought and history. Questions addressed in this course range from conceptions of language in exegetical, theological, mystical, and legal traditions to its practices in writing and transmission of knowledge.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 149D",
+  "title": "History of Islamic Philosophy",
+  "units": "4",
+  "description": "A history of Islamic philosophy with a focus on its early and classical phases. Attention will be given to the universalist aspirations and articulations of Islamic philosophy as well as to its interaction with Islamic doctrines and with theologies.",
+  "prerequisites_raw": "Upper-division standing or instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 149H",
+  "title": "Islamic Humanism",
+  "units": "4",
+  "description": "This course investigates humanist themes that were the product of the Arab-Islamic reception of Greek thought in the early and classical period of Islamic history (~800- 1258) as championed in the works of literators, philosophers, and historians. The objective of this course is to introduce these humanist themes through close reading and examination of primary sources in their historical, multicultural, and multi-religious contexts.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 149R",
+  "title": "Islamic Philosophy and Theology",
+  "units": "4",
+  "description": "This course surveys the history of rationalist thought in pre-modern Islamic history, focusing on the genesis and development of the disciplines of rationalist theology and Neoplatonized Aristotelian philosophy. The objective of this course is to highlight the experimental and dynamic scope of rationalist thought in pre-modern Islamic history through close reading of primary sources in their broader historical and intellectual contexts.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 150A",
+  "title": "Theory in Magic, Magic in Theory",
+  "units": "4",
+  "description": "Explores theories of \"magic\" and \"religion\" alongside the careers of traveling spiritualists, faith healers, and illusionists in America. Challenging persistent notions of secularization, our subjects elevate skepticism itself as a basic religious presumption, and they recover the popular spaces of its performance.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 150B",
+  "title": "Religion and Tourism in Modern America",
+  "units": "4",
+  "description": "Explores the complicated relationship between tourism and religion in modernity. Through analysis of historical case studies, travelogues, fiction, and film, we interrogate the categories of \"religion,\" \"pilgrimage,\" \"tourism,\" and \"secularity\"; and we pursue new understandings of their co-dependency in the West.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,364 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 45TB",
+  "title": "Trombone Ensemble",
+  "units": "1",
+  "description": "Trombone ensemble.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 46",
+  "title": "Clarinet Choir",
+  "units": "1",
+  "description": "Clarinet choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 47S",
+  "title": "Jazz Ensemble",
+  "units": "1",
+  "description": "Instruction in interpretation and performance of jazz music. Improvization is stressed. Audition is required.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 48S",
+  "title": "Collegium Musicum: Musica Antiqua",
+  "units": "1",
+  "description": "Performance workshop in medieval and renaissance music. Specialized in instrumental and solo vocal music.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 49",
+  "title": "Percussion Ensemble",
+  "units": "1",
+  "description": "Rehearsal and performance of standard percussion ensemble literature. Instruction of appropriate playing techniques for standard and exotic percussion instruments.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 52",
+  "title": "Violin Ensemble",
+  "units": "1",
+  "description": "A course designed for violin students which explores repertoire for multiple violins.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 53",
+  "title": "Viola Choir",
+  "units": "1",
+  "description": "The Viola Choir studies literature written or arranged for viola ensemble, perfecting elements of technique, intonation and interpretation. Works prepared by the Viola Choir will be performed in public and in studio recitals.",
+  "prerequisites_raw": "By audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 54",
+  "title": "Cello Choir",
+  "units": "1",
+  "description": "The cello choir studies cello literature in depth, including duos, trios, quartets and larger cello ensemble works. Cellists work together on blend of sound, perfecting technique and intonation, as well as balance.The choir prepares works for public performances.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures: A. American folk music I. Indian music J. Gamelan M. Middle Eastern music P. West African drumming V. Gospel choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70A",
+  "title": "Ethnomusicology Performance Ensemble: American Folk Music",
+  "units": "1",
+  "description": "The study of English-language folk music, emanating from the southeastern United States, focusing on the string band music usually called \"old-time,\"and the distinct but related style of \"bluegrass.\" These traditions are related to commerical genres known as \"country.\"",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70I",
+  "title": "Ethnomusicology Performance Ensemble: Music of India: Sitar",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70J",
+  "title": "Ethnomusicology Performance Ensemble: Beginning Gamelan",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures.",
+  "prerequisites_raw": "Enrollment by audition. students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70M",
+  "title": "Ethnomusicology Performance Ensemble: Middle East Music",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures.",
+  "prerequisites_raw": "Enrollment by audition. students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70N",
+  "title": "Middle East Chorus",
+  "units": "1",
+  "description": "The chorus learns a variety of songs from Arab, Armenian, Greek, Persian and Turkish music cultures and performs with the Middle East ensemble.",
+  "prerequisites_raw": "Enrollment by audition. students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70S",
+  "title": "Ethnomusicology Performance Ensemble: Afro-Brazilian Ensemble",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures: A. American folk music I. Indian music J. Beginning Gamalan K. Advanced Gamelan M. Middle Eastern music P. West African drumming V. Gospel choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70SJ",
+  "title": "Ethnomusicology Performance Ensemble: Son Jarocho",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures: Son Jarocho.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70T",
+  "title": "Ethnomusicology Performance Ensemble: Mariachi",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures: Mariachi.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70V",
+  "title": "Ethnomusicology Performance Ensemble: Gospel Choir",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures.",
+  "prerequisites_raw": "Enrollment by audition. students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 70Z",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "1",
+  "description": "Group performance of music from selected world cultures: I) Indian music; J) Beginning Gamelan; K) Advanced Gamelan; M) Middle East Music; V) Gospel Choir.",
+  "prerequisites_raw": "Enrollment by audition. students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 132",
+  "title": "Young Soloists Ensemble",
+  "units": "1",
+  "description": "A small, select vocal ensemble specialized in one- or two-on-a-part singing. Requires concurrent enrollment in Mus A136, A137 or A137M.",
+  "prerequisites_raw": "Enrollment by audition; Requires concurrent enrollment in A136, A137, or A137M.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 134",
+  "title": "Wind Ensemble",
+  "units": "1",
+  "description": "Masterworks of the literature for ensembles smaller than orchestral or full band scoring. Although the basic ensembles feature winds, both strings and percussion are utilized.",
+  "prerequisites_raw": "Enrollment by audition. For upper-division students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 136",
+  "title": "UCSB Chamber Choir",
+  "units": "1",
+  "description": "A select ensemble of voice majors and non-majors, the Chamber Choir prepares musicians for professional ensemble work and offers advanced study in choral literature, techniques, styles and interpretation covering five centuries of choral repertoire.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 137",
+  "title": "UCSB Lumina",
+  "units": "1",
+  "description": "This chorus studies and performs the main repertory for treble voices, from Renaissance to 21st Century. Occasionally undertakes collaboration with other UCSB choirs and community entities. No audition required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 137M",
+  "title": "UCSB Singing Gauchos",
+  "units": "1",
+  "description": "The UCSB Singing Gauchos is a tenor and bass choir performing fine choral literature representative of various style periods and vocal techniques from the global choral tradition. Regular performances on and off campus.",
+  "prerequisites_raw": "No audition required",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 138",
+  "title": "Opera Workshop",
+  "units": "1",
+  "description": "Participation in opera scenes.",
+  "prerequisites_raw": "By audition only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 138P",
+  "title": "Opera Production",
+  "units": "1",
+  "description": "Participation in annual opera production.",
+  "prerequisites_raw": "By audition only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 139",
+  "title": "Opera Outreach",
+  "units": "2",
+  "description": "The Opera Outreach Program is the touring performance of a staged opera scene by advanced voice students from UCSB's Department of Music, presented to various high schools and community choirs in the Santa Barbara Area and beyond.Students (and their understudies) will learn and rehearse an operatic scene in the first 5-7 weeks of the Spring Quarter. Once they are memorized, staged, and choreographed, the outreach performances (in full costume/make-up) begin in the last weeks of the quarter.",
+  "prerequisites_raw": "Music 25",
+  "prerequisites_courses": [
+   "MUS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 139G",
+  "title": "The Fundamentals of Popular Guitar",
+  "units": "1",
+  "description": "A skills course designed for developing guitar technique used in folk, rock, blues, classical and jazz styles. The curriculum focuses on strumming patterns, finger picking, chords and their voicings, riffs and soloing. Emphasis is on learning to play songs by ear. Neck geography is taught through relational patterns of scales and modes. All guitar types (acoustic, classical, electric) are welcome, though acoustic/ classical are preferred. This class accommodates a variety of playing levels, from complete beginner to intermediate-advanced shredders and classical players, and everything in-between. Guitar to be provided by the student.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 140",
+  "title": "Ensemble for Contemporary Music",
+  "units": "1",
+  "description": "Reading sessions and preparation for performance of contemporary music. There will be one or two concerts each quarter. Includes departmental scholarship players, and is open to composers who also perform.",
+  "prerequisites_raw": "Enrollment by audition. For upper-division students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 141",
+  "title": "Piano Ensemble",
+  "units": "1",
+  "description": "Piano duets (1 piano, 4 hands) and duos (2 pianos) in separate sections.",
+  "prerequisites_raw": "Enrollment by audition. Upper-division students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 142",
+  "title": "Orchestra",
+  "units": "1",
+  "description": "UCSB Chamber Orchestra performs pieces from the traditional chamber orchestra repertoire, as well as more contemporary pieces for chamber orchestra.",
+  "prerequisites_raw": "Enrollment by audition. For upper-division students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 143",
+  "title": "Flute Choir",
+  "units": "1",
+  "description": "The flute choir studies flute literature in depth, perfects technique and interpretation, employs the complete flute family of bass, alto flutes and piccolos. Prepares ensemble for public performances each quarter.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 144",
+  "title": "Chamber Music Ensemble",
+  "units": "2",
+  "description": "Chamber music ensemble.",
+  "prerequisites_raw": "Enrollment by audition. For upper-division students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 145",
+  "title": "Brass Quintet",
+  "units": "1",
+  "description": "Participation in scholarship brass quintet.",
+  "prerequisites_raw": "By audition. Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 145BR",
+  "title": "Brass Orchestral Repertoire",
+  "units": "1",
+  "description": "Intensive exploration of staple brass orchestral repertoire, emphasizing the works of important 19th and 20th century composers. Classes include rehearsal sessions, guided listening and analysis, mock auditions, resume and taped audition preparation.",
+  "prerequisites_raw": "By audition; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 145H",
+  "title": "Horn Ensemble",
+  "units": "1",
+  "description": "Horn ensemble.",
+  "prerequisites_raw": "Enrollment by audition. Upper-division only.",
+  "prerequisites_courses": []
+ }
+]

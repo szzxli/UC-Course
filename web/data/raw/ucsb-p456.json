@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 151C",
+  "title": "Catalan Language and Culture",
+  "units": "4",
+  "description": "Catalan language and culture for students with no previous study of Catalan. Continues activities commenced in Spanish 151A and 151B.",
+  "prerequisites_raw": "Spanish 151B",
+  "prerequisites_courses": [
+   "SPAN 151B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 152",
+  "title": "Barcelona: The Making of an Urban Landscape",
+  "units": "4",
+  "description": "Explores the rich history and cultural evolution of Barcelona, one of the most iconic cities in the world. From its humble beginnings as a Roman colony to its current status as a bustling cosmopolitan city, Barcelona has undergone numerous transformations throughout its history. Through a multidisciplinary approach, which includes a combination of films, readings, and other visual materials, we delve into the construction of Barcelona as a modern metropolis and trace the ways in which its cultural legacies are still present in its urban landscape today.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 153",
+  "title": "Basque Studies",
+  "units": "4",
+  "description": "An overview of the cultural and historical characteristics of the Basque Country while analyzing how minoritized groups, such as the Basque, negotiate their identity in the face of globalization.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 153E",
+  "title": "Basque Studies",
+  "units": "4",
+  "description": "An overview of the cultural and historical characteristics of the Basque Country while analyzing how minoritized groups, such as the Basque, negotiate their identity in the face of globalization. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 154A",
+  "title": "Basque Language and Culture",
+  "units": "4",
+  "description": "An intensive course for students with no previous study of the Basque language.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 154B",
+  "title": "Basque Language and Culture",
+  "units": "4",
+  "description": "Continues activities commenced in Spanish 154A.",
+  "prerequisites_raw": "Spanish 154A.",
+  "prerequisites_courses": [
+   "SPAN 154A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 154C",
+  "title": "Basque Language and Culture",
+  "units": "4",
+  "description": "Continues activities commenced in SPAN 154A and SPAN 154B.",
+  "prerequisites_raw": "Spanish 154B.",
+  "prerequisites_courses": [
+   "SPAN 154B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 155A",
+  "title": "Discourses of Love and Desire: from The Book of Good Love to the Present",
+  "units": "4",
+  "description": "This course sequence (SPAN 155 A - B) traces the literary constructions, elaborations, and treatments of love in Spanish literature from Middle Ages to the present. SPAN 155A (Pre-1700) focuses specifically on the development of courtly love and neoplatonic visions of love in the Iberian Peninsula as they pertain to a variety of literary and cultural forms.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 155B",
+  "title": "Discourses of Love and Desire: from The Book of Good Love to the Present",
+  "units": "4",
+  "description": "This course sequence (SPAN 155 A - B) traces the literary constructions, elaborations, and treatments of love in Spanish literature from Middle Ages to the present. SPAN 155B (Post- 1700) explores the psychological and sociological implications and the cultural significance of love in a variety of art forms, poetry, drama, novel and film.",
+  "prerequisites_raw": "Spanish 30 or Spanish 102L (prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 156",
+  "title": "Introduction to Galician Studies",
+  "units": "4",
+  "description": "The uniqueness of the culture and language of Galicia, its history, ethnography, folklore, and literature, in Galician and Spanish.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 157",
+  "title": "Introduction to Digital Humanities",
+  "units": "4",
+  "description": "An introduction to the way in which new text formats and tools are changing the way we read, view, communicate, produce knowledge and art and share them in the humanities, specifically in the Hispanic world and/or the U.S. Latinx communities.The course intertwines literary and creative studies with a focus on the principles of digital media, through the practice of digital desktop publishing using the Adobe Creative Suite. Students are to discuss and reflect critically on a variety of genres and work on a collaborative technical project. Speaking Spanish is not a prerequisite.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 157A",
+  "title": "Galician Language and Culture",
+  "units": "4",
+  "description": "An intensive course for students with no previous study of the Galician language.",
+  "prerequisites_raw": "upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 157B",
+  "title": "Galician Language and Culture",
+  "units": "4",
+  "description": "An intensive course for students with no previous study of the Galician language; builds on Spanish 157A.",
+  "prerequisites_raw": "Spanish 157A",
+  "prerequisites_courses": [
+   "SPAN 157A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 158",
+  "title": "Exploring Minor Theatrical Genres: Analysis, Writing, and Staging",
+  "units": "4",
+  "description": "Familiarizes students with a usually understudied field, the \"minor\" genres of drama during the Golden Age. Combines theory with praxis by asking the students to write and stage their own \"minor\" texts as a final project for the class. Performances are open to the general public.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 159",
+  "title": "Survey of Transborder Cultural Production",
+  "units": "4",
+  "description": "A general overview of the literature, music, and visual arts created by Transborder cultural producers in the U.S. / México border region. People's socio-historical experiences are examined to understand ethnicity, creativity, and world citizenship.",
+  "prerequisites_raw": "Spanish 30",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 160",
+  "title": "Literature and Technology in Latin-America",
+  "units": "4",
+  "description": "Explores how Latin America theoretical discourses have reflected upon technology, including vaccines, agriculture, film and contemporary cyberpunk fiction.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 161",
+  "title": "Horror and Mystery",
+  "units": "4",
+  "description": "A panoramic view of short stories and films belonging to the horror genre in Spain and Latin America. The course offers contextualization and analysis of each story or film. Included are short stories by Espronceda, Bcquer, Ochoa, Zorrilla, Quiroga, Cortzar, Anderson Imbert and films by Gonzlez, Larraaga, Ibez Serrador, Naschy, Franco, Padrn and Brugus.",
+  "prerequisites_raw": "Spanish 30",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 163",
+  "title": "Nicaraguan Poetry",
+  "units": "4",
+  "description": "Surveys the poetry of Nicaragua from its origins to the present. It frames key authors and representative poetic texts within their literary and cultural context. Poets include Daro, Corts, Selva, Cuadra, and Belli.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently.)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 164",
+  "title": "Media Culture",
+  "units": "4",
+  "description": "This course studies a variety of cultural practices in the media and related literary texts, including serialized culture such as the telenovela, the radio drama, films, sequels and prequels, comic strips, and social media such as Facebook and Twitter.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 165",
+  "title": "Andean Literature, Music, and Culture",
+  "units": "4",
+  "description": "This course focuses on literature, music and culture of certain ethnic groups inhabiting the Andean region of South America including, but not limited to, the Aymara and Quechua peoples, their cosmovision and their languages. Through literary texts belonging to different genres, and through films, special attention is placed on expressions of syncretism in seasonal festivals in which pre-Hispanic, European, and African music traditions and religions were shaped due to forced migration, wars and colonization. A strong emphasis on the ecological regions of the nations that share the Andean mountain range contextualizes current indigenous movements of resistance against the degradation of its environment and the impact on its culture.",
+  "prerequisites_raw": "Spanish 30; and Spanish 100 (may be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30",
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 166",
+  "title": "The Universe in a Nutshell: J.L. Borges and his Fictions",
+  "units": "4",
+  "description": "A study of one of the greatest writers of the twentieth century: Jorge Luis Borges. Explores his various creative registers, from his short stories in the vein of fantastic literature, to his poetry and his work as an essayist. The perspective of the course is comparative around topics (some seminal, some relatively unexplored) that Borges treats across a variety of literary genres.",
+  "prerequisites_raw": "Spanish 30 or Spanish 102L (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 166E",
+  "title": "The Universe in a Nutshell: J.L. Borges and his Fictions",
+  "units": "4",
+  "description": "A study of one of the greatest writers of the twentieth century: Jorge Luis Borges. Explores his various creative registers, from his short stories in the vein of fantastic literature, to his poetry and his work as an essayist. The perspective of the course is comparative around topics (some seminal, some relatively unexplored) that Borges treats across a variety of literary genres. Taught in English.",
+  "prerequisites_raw": "Upper-Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 168",
+  "title": "Posmodernismo",
+  "units": "4",
+  "description": "Study of the Spanish and Spanish-American Postmodernistas, exploring the link between the culture of modernity and the emergence of a colloquial, prosaic, but lyrical discourse in late nineteenth and twentieth century Spanish and Spanish-American poetry.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 169",
+  "title": "Literature and Cultural Identity in the Spanish Caribbean",
+  "units": "4",
+  "description": "Survey of Spanish Caribbean literature from the standpoint of interaction of culture and race. It traces the counterpoint among the diverse ethnic groups that populate the Caribbean and the manner in which the discourse ofthe oppressor and the oppressed intertwine.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 170",
+  "title": "Spain's \"Disaster\" and the Avant-Garde",
+  "units": "4",
+  "description": "Focuses on Spain’s political and cultural transformation from the world’s largest empire to an isolated country. The course covers the contentious discussions about the modernization of the country and the irruption of the Avant-Garde",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently.)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 170A",
+  "title": "SP LIT 1898 TO 1936",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 170B",
+  "title": "SP LIT 1898 TO 1936",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

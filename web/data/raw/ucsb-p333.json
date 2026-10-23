@@ -1,0 +1,342 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260UU",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260V",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260W",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260X",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260Y",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260Z",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 500",
+  "title": "Teaching Assistant Practicum",
+  "units": "0",
+  "description": "Supervised teaching of undergraduate mathematics courses.",
+  "prerequisites_raw": "Appointment as teaching assistant and departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 501",
+  "title": "Teaching Assistant Training",
+  "units": "0",
+  "description": "Consideration of ideas about the process of learning mathematics and discussion of approaches to teaching.",
+  "prerequisites_raw": "Departmental and instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 502",
+  "title": "Teaching Associate Practicum",
+  "units": "0",
+  "description": "Supervised teaching of undergraduate courses.",
+  "prerequisites_raw": "Appointment as associate; departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 510",
+  "title": "Reading for Area Examinations",
+  "units": "0",
+  "description": "Reading for area examinations.",
+  "prerequisites_raw": "Enrollment in M.A. or Ph.D. program. Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Directed reading and research.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 596AA",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Directed reading and research.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Master's thesis research and preparation.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 598AA",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Master's thesis research and preparation.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 599",
+  "title": "Dissertation Preparation",
+  "units": "0",
+  "description": "Dissertation preparation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 1",
+  "title": "Problem Solving",
+  "units": "0",
+  "description": "Discussion and solution of nonroutine mathematical problems",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 2",
+  "title": "Project",
+  "units": "0",
+  "description": "Set up by the student in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 4",
+  "title": "GENERAL TOPOLOGY",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Mathematics.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 10",
+  "title": "Mathematics Colloquium",
+  "units": "0",
+  "description": "Students receiving credit will present talks in thei field on material arranged in consultation with the instructor. Credit assigned by the instructor will reflect the extent and quality of participation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 101A",
+  "title": "Problem Solving I",
+  "units": "0",
+  "description": "Discussion and solution of nonroutine mathematical problems related with different problem-solving techniques. Possible topics are: Pigeonhole principle, use of invariants and symmetries in problem solving, coloring arguments, parity, recursive arguments, extreme principle, inclusion-exclusion principle.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 101B",
+  "title": "Problem Solving II",
+  "units": "0",
+  "description": "Discussion and solution of nonroutine problems in different areas of mathematics like Graph Theory, Number Theory, Combinatorics, Geometry, Game Theory, Topology, Algebra, and Analysis.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 103",
+  "title": "Topics in Modern Algebra",
+  "units": "0",
+  "description": "Topics may include groups; modules; vector spaces; algebras; metric structures on vector spaces; representation theory; multilinear algebra; graded structures; universal properties; a survey of important algebraic structures.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 108A",
+  "title": "Advanced Linear Algebra I",
+  "units": "0",
+  "description": "An introduction to the theory of Linear Algebra with topics: Algebra of matrices, linear systems of equations, vector spaces, linear independence, basis and dimension, infinite-dimensional vectors spaces, linear transformations, matrix representation, isomorphisms, quotient spaces, dual spaces, and determinants.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 108B",
+  "title": "Advanced Linear Algebra II",
+  "units": "0",
+  "description": "Eigenvalues, eigenvectors, and diagonalization. Canonical form under similarity: Jordan canonical form and rational canonical form, inner product and norm. Gram-Schmidt process, adjoint of a linear operator, normal and self-adjoint operators, unitary and orthogonal operators, spectral theorem.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 109",
+  "title": "Advanced Independent Research",
+  "units": "0",
+  "description": "Independent research on an original subject under faculty supervision carried out in a mathematics faculty reserach group. These advanced projects will attempt research of publishable quality; generally resulting in the preparation of a written report or manuscript for publication.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 117",
+  "title": "Introduction to Real Analysis",
+  "units": "0",
+  "description": "A rigorous introduction to the elements of analysis. Covers sequences, accumulation points, Bolzano-Weierstrass, Cauchy's criterion, the completeness property of the real number system, limits of functions, continuity, differentiability, compact sets, and the Heine-Borel theorem.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120",
+  "title": "Special Topics in Mathematics",
+  "units": "0",
+  "description": "Lectures on a coherent body of mathematical topics which are not usually presented in standard mathematics courses.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120AG",
+  "title": "Special Topics in Mathematics - Algebraic Geometry",
+  "units": "0",
+  "description": "An introduction to algebraic geometry, in which we study solutions of polynomial equations. We will focus on concrete examples from classical algebraic geometry, as well as the use of commutative algebra methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120AI",
+  "title": "Introduction to Data Science and Machine Learning: Foundations and Applications",
+  "units": "0",
+  "description": "This course provides an accessible introduction to the field of data science and related techniques from machine learning. The course will develop both mathematical foundations and theory behind learning algorithms as well as discussing practical aspects for their use in applications.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120BC",
+  "title": "Math Book Club",
+  "units": "0",
+  "description": "A collaborative seminar on mathematical topics not ordinarily covered in the standard curriculum. Students work as a cohort under faculty supervision to study a common textbook or collection of research papers. Participants give weekly presentations, lead peer discussions, and solve related problem sets. The course emphasizes independent learning within a shared seminar setting, with focus on mathematical reading, proof analysis, problem solving, and oral communication. Topic varies by term.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120C",
+  "title": "Special Topics in Mathematics: Combinatorics",
+  "units": "0",
+  "description": "Combinatorics has its historical roots in mathematical recreations and games. Combinatorics is concerned with arrangements of the objects in a set into patterns satisfying specified rules.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120CT",
+  "title": "Special Topics in Mathematics: Category Theory",
+  "units": "0",
+  "description": "An introduction to category theory, suitable for sophomores in mathematics or computer science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120DA",
+  "title": "Theory of Distributions and their Applications",
+  "units": "0",
+  "description": "Distributions, also known generalized functions, are objects that generalize the classical notion of functions in mathematical analysis. Distributions make it possible to differentiate functions whose derivatives do not exist in the classical sense. Distributions are widely used in the theory of partial differential equations, in physics and engineering where many problems naturally lead to differential equations whose solutions or initial conditions are singular, such as the Dirac delta function.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

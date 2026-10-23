@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595NB",
+  "title": "Molecular and Cellular Neurobiology",
+  "units": "2",
+  "description": "Topics include mechanisms of sensory transduction, processing of sensory information within the brain, mechanisms of muscle control, cell signaling, neuronal plasticity, neuronal polarity, and the mapping of neural information to the brain.Previous or concurrent enrollment in MCDB 252 should not also take MCDB 595NB. Concurrent with MCDB 194NB.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595NC",
+  "title": "Neural Circuits",
+  "units": "2",
+  "description": "Presentation and discussion of current research in circuit-level neuroscience. This course will focus on how neural circuits mediate specific behaviors, drawing on research from a range of species and preparations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595NN",
+  "title": "Literature in Eukaryotic Molecular Genetics",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595RF",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matter for these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595SF",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matter for these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595X",
+  "title": "Cell Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Hours and credit by arrangement with faculty.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 597",
+  "title": "Individual Study for Master's Comprehensive Examinations and Ph.D. Examinations",
+  "units": "0",
+  "description": "Individual study for M.A. comprehensive examinations and Ph.D. examinations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "M.A. (thesis) candidate and consent of committee chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "For writing of the dissertation.",
+  "prerequisites_raw": "Ph.D. candidate and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB W",
+  "code": "MCDB W 108A",
+  "title": "Biochemistry - Structure and Function of Macromolecules",
+  "units": "4",
+  "description": "Introduction to the structures and functions of proteins, including enzymes, with emphasis on their basic architecture and biological mechanisms of action and regulation. Methods used for characterizing proteins and analyzing enzyme kinetic data are also emphasized.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B; and Chemistry 1A-B-C; and Chemistry 109A-B-C (Chem 109C may be taken concurrently). Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "CHEM 1A",
+   "CHEM 109A",
+   "CHEM 109C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB W",
+  "code": "MCDB W 111",
+  "title": "Human Physiology",
+  "units": "4",
+  "description": "Fundamentals of human physiology at the molecular, cellular and organismal levels. Emphasis on homeostatic mechanisms regulating intercellular communication, muscle function, circulation, metabolism and body fluid balance/composition.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB W",
+  "code": "MCDB W 138",
+  "title": "Medical Immunology",
+  "units": "4",
+  "description": "By focusing on recent groundbreaking advances in our understanding of the vertebrate immune system, this course explores the contrasting mechanisms of protective immunity against parasites and cancer with various immune disorders that mainly stem from immune dysregulation, such as autoimmunity, acquired immunodeficiency syndrome (AIDS), allergies, and other diseases. By engaging in interactive, case-based computer exercises, students will have an opportunity to emulate the discovery of the underlying biological defects that give rise to these and other immune-related diseases.",
+  "prerequisites_raw": "MCDB 101A OR EEMB 129 with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 101A",
+   "EEMB 129"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 6",
+  "title": "Basic Electrical and Electronic Circuits",
+  "units": "4",
+  "description": "Introduction to basic electrical circuits and electronics. Includes Kirchhoff's laws, phasor analysis, circuit elements, operational amplifiers and transistor circuits.",
+  "prerequisites_raw": "Physics 7B, or Physics 3 and Physics 3L; and Mathematics 4A, or 4AI, or 3C; open to ME majors only.",
+  "prerequisites_courses": [
+   "PHYS 7B",
+   "PHYS 3",
+   "PHYS 3L",
+   "MATH 4A",
+   "MATH 4AI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 10",
+  "title": "Engineering Graphics: Sketching, CAD and Conceptual Design",
+  "units": "4",
+  "description": "Introduces hands-on engineering design via lessons on the design process, Computer Aided Design (CAD), free hand sketching, use of a laser cutter, soldering, basic circuits, basic microprocessor programming, motors and gear trains. Makes use of a robotic project to allow students to practice all above topics. Students create dimensioned engineering drawings and present their designs at a final design fair. The focus of the course is to empower students to leverage all engineering tools listed above in their future engineering courses.",
+  "prerequisites_raw": "Mechanical Engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 11",
+  "title": "Introductory Concepts in Mechanical Engineering",
+  "units": "1",
+  "description": "The theme question of this course is, \"What do mechanical engineers do?\" Survey of mechanical engineering applications. Lectures by mechanical engineering faculty and practicing engineers.",
+  "prerequisites_raw": "Lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 12",
+  "title": "Manufacturing Processes",
+  "units": "1",
+  "description": "Processes used to convert raw material into finished objects. Overview of manufacturing processes including: casting, forging, machining, presswork, plastic and composite processing. Videos, demonstrations, and tours illustrate modern industrial practice. Selection of appropriate processes.",
+  "prerequisites_raw": "ME majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 12S",
+  "title": "Introduction to Machine Shop",
+  "units": "1",
+  "description": "Basic machine shop skills course. Students learn to work safely in a machine shop. Students are introduced to the use of hand tools, the lathe, the milling machine, drill press, saws, and precision measuring tools. Students apply these skills by completing a project.",
+  "prerequisites_raw": "Mechanical engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 13",
+  "title": "Leadership and Equitable Resources",
+  "units": "1",
+  "description": "Assisting emerging leaders in understanding diversity to advocate, build, and sustain a collaborative culture of learning and opportunities for constituencies. Guides emerging leaders in evaluating the significance and consequences of decisions linked to professional outcomes and accountability systems. An introduction to theoretical and practical frameworks for the engagement and advocacy for social justice leadership.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 14",
+  "title": "Statics",
+  "units": "4",
+  "description": "Introduction to applied mechanics. Forces, moments, couples, and resultants; vector algebra; construction of free body diagrams; equilibrium in 2- and 3-dimensions; analysis of frames, machines, trusses and beams; distributed forces; friction.",
+  "prerequisites_raw": "Math 2B, or Math 3B, or AP Calculus AB with a score of 5, or AP Calculus BC with a score of 3 or better; and Physics 7A, or Physics 1",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "MATH 3B",
+   "PHYS 7A",
+   "PHYS 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 15",
+  "title": "Strength of Materials",
+  "units": "4",
+  "description": "Properties of structural materials, including Hookes law and behavior beyond the elastic limit. Concepts of stress, strain, displacement, force, force systems, and multiaxial stress states. Design applications to engineering structures, including problems of bars in tension, compression, and torsion, beams subject to flexure, pressure vessels, and buckling.",
+  "prerequisites_raw": "ME 14 with a minimum grade of C-; open to mechanical engineering majors only.",
+  "prerequisites_courses": [
+   "ME 14"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 16",
+  "title": "Engineering Mechanics: Dynamics",
+  "units": "4",
+  "description": "Vectorial kinematics of particles. Coordinate systems, moving frames, relative and constrained motion. Dynamics of particles and systems of particles. Energy and momentum methods. Collisions. Planar kinematics and kinematics of rigid bodies. Energy and momentum methods for rigid body systems.",
+  "prerequisites_raw": "Physics 7A or Physics 2, and ME 14 with a minimum grade of C-, and Math 6B or Math 5C (may be taken concurrently); open to ME majors only.",
+  "prerequisites_courses": [
+   "PHYS 7A",
+   "PHYS 2",
+   "ME 14",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 17",
+  "title": "Mathematics of Engineering",
+  "units": "3",
+  "description": "Introduction to basic numerical and analytical methods, with implementation using MATLAB. Topics include a Matlab review, ordinary differential equations, partial differential equations and boundary conditions, eigenvalue/eigenvectors. Graphic and visualization tools in Matlab.",
+  "prerequisites_raw": "Engineering 3; open to ME majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 18",
+  "title": "Toy Product Design",
+  "units": "3",
+  "description": "Introduction to the product design process with a focus on designing for play and entertainment. It is a project-centric class. Students work in small teams of 5-6 members to design and prototype new toys. Students will be introduced to various design topics, including: brainstorming; estimation; sketching; graphic design; industrial design drawing; sketch modeling; concept development; design aesthetics; prototyping; and written, visual, and oral communication.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 95",
+  "title": "Introduction to Mechanical Engineering",
+  "units": "0",
+  "description": "Participation in projects in the laboratory or machine shop. Projects may be student- or faculty-originated depending upon student interest and consent of faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 97",
+  "title": "Mechanical Engineering Design Projects",
+  "units": "0",
+  "description": "Course offers students opportunity to work on established departmental design projects. P/NP grading, does not satisfy technical elective requirement.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Directed study to be arranged with individual faculty members. Course offers exceptional students an opportunity to participate in a research group.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 100",
+  "title": "Professional Seminar",
+  "units": "1",
+  "description": "A series of weekly lectures given by university staff and outside experts in all fields of mechanical engineering.",
+  "prerequisites_raw": "Undergraduate standing.",
+  "prerequisites_courses": []
+ }
+]

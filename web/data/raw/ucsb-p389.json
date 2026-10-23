@@ -1,0 +1,299 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 140RQ",
+  "title": "Topics in Physics: Relativistic Quantum Mechanics",
+  "units": "0",
+  "description": "This course will develop the wave function approach to relativistic quantum mechanics as originally formulated by P.A. M. Dirac. The energies considered will be below the energy required for electron positron pair creation. Thus, relativistic quantum field theory (RQFT) will not be needed. However, this course will be helpful to prepare for RQFT.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 140TA",
+  "title": "Special Topics - Tensor Analysis",
+  "units": "0",
+  "description": "Lectures on a coherent body of physical topics which are not usually presented in standard undergraduate physics courses. Tensor Analysis course focuses on Special Relativity & flat spacetime, and General Relativity & curved spacetime.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 140VA",
+  "title": "Topics in Physics: Vector Analysis with Application to Physics",
+  "units": "0",
+  "description": "Subjects include: Functions of more than one variable, double integrals, Divergence Theorem, Curl of a Vector function, Stokes' Theorem, and more.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in physics with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 1",
+  "title": "Introduction to Political Philosophy",
+  "units": "5",
+  "description": "An introduction to central texts and problems of political philosophy with an emphasis on such concepts as liberty, equality, authority, justice, and obligation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 6",
+  "title": "Introduction to Comparative Politics",
+  "units": "5",
+  "description": "Introduction to the workings of various political systems with an emphasis on governmental institutions and political processes. Comparison of political systems using some of the basic concepts of political analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 7",
+  "title": "Introduction to International Relations",
+  "units": "5",
+  "description": "An introduction to the basic concepts, theories, and problems of international relations; balance of power, deterrence, the states system, imperialism, realism, idealism, levels of explanation, war and peace.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 12",
+  "title": "American Government and Politics",
+  "units": "5",
+  "description": "Political ideas, institutions, and processes of American government. The role of congress and the president in policy formation and of the supreme court in interpreting the constitution.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 15",
+  "title": "Introduction to Research in Political Science",
+  "units": "5",
+  "description": "An introduction to the design and evaluation of political research, from formulating clear questions and gathering appropriate data, to the use of simple statistical techniques for analyzing data and presenting evidence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 98",
+  "title": "Readings in Political Science",
+  "units": "0",
+  "description": "Critical reviews and discussions of related topics in political science.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member in the department. Course offers exceptional students the opportunity to undertake independent research or work in a research group.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 100",
+  "title": "AMER NATIONAL GOVT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "NOT OPEN TO STUDENTS WHO HAVE RECEIVED CREDIT FOR POLITICAL SCIENCE 5, 10, 12.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 101",
+  "title": "Mexican Politics",
+  "units": "4",
+  "description": "This course focuses on understanding the contemporary Mexican political system from a political economy perspective. It explores the development and behavior of Mexican institutions and actors, and the challenges facing them in a context of major economic and political change.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 103",
+  "title": "Causal Inference in Political Science",
+  "units": "4",
+  "description": "This course is about what quantitative political scientists do when they can’t do experiments. You will learn more about when and how political scientists make causal statements about observational data. We will start by reviewing the promise and pitfalls of experiments as a tool for political scientists. Then, we will think about a series of other approaches that political scientists use to tease apart cause and effect in their work.",
+  "prerequisites_raw": "POLS 15; or COMM 87 & COMM 88; or PSTAT5A & COMM 88.",
+  "prerequisites_courses": [
+   "COMM 87",
+   "COMM 88"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 105",
+  "title": "Theories of Comparative Politics",
+  "units": "4",
+  "description": "A comparison of federalism, political parties, and executive leadership in different countries. A core course generally recommended, and in some cases required, for advanced work in comparative government.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific course titles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AB",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific coursetitles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AC",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific course titles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AD",
+  "title": "American Political Development",
+  "units": "4",
+  "description": "This reading-intensive course examines the evolution of American political institutions, policies, and ideas. It will consider the interplay between constitutional design, social movements, economic forces, and cultural shifts, from the colonial period to the present.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AF",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific course titles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AI",
+  "title": "American Indian Politics",
+  "units": "4",
+  "description": "American Indian tribes play a significant role in the contemporary American political system. This is true at the national, state, and local levels. From a historical perspective, interactions between tribes and settler governments also shaped many of the governing institutions in the United States. This class examines the influence of American Indian tribes and their evolving relationship with federal and state governments. Issues and concepts covered include colonization, economic development, resource and environment, tribal sovereignty, assimilation, stereotypes, and American political development. This class is both focused on historical change and contemporary issues.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AJ",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific coursetitles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AM",
+  "title": "Special Topics: African American Politics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific course titles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AS",
+  "title": "American Social Movements",
+  "units": "4",
+  "description": "Designed to teach students on the social origins and political impact of American social movements on the left and right. We explore the individual, social psychological, and institutional dynamics of movements.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106AT",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific coursetitles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106BP",
+  "title": "Special Topics: Business and Politics in a Comparative Perspective",
+  "units": "4",
+  "description": "Politicians and public thinkers have long worried about the out-sized role that business plays in public debates. This course examines their concerns head on. How much power doesbusiness really have in shaping politics and policy in the United States and around the world? Do political institutions prioritize business interests over the public good? Does business power threaten to erode democratic institutions around the world? Or are businesses unfairly maligned political actors who work hard to support the social and economic prosperity of global publics?",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106BT",
+  "title": "Black Political Thought",
+  "units": "4",
+  "description": "Takes as a point of departure the push for equality among the Black community in the Black community. It surveys the various strategies and approaches undertaken by Black thought leaders toward that end.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106CA",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific course titles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106CC",
+  "title": "Climate Change and Conflict",
+  "units": "4",
+  "description": "In this course we will learn about how climate change creates conflict around the globe. We will focus on conflict within civil wars and other forms of intrastate violence. Climate change is the single most important long-term threat to the peace and stability of the planet. The conflicts of the sort we look at in this class may be the most important short-term threat. Are they linked? If so, how? By the end of this class, you will be prepared to answer these questions. We will begin by looking the idea of climate change itself, to make sure we understand what exactly that concept means. Next, we will overview conflict and its causes. After that, we will analyze the debates in the academic literature about climate conflict linkages.",
+  "prerequisites_raw": "Upper-division, full POLS major standing.",
+  "prerequisites_courses": []
+ }
+]

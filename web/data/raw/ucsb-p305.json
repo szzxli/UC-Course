@@ -1,0 +1,324 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 256",
+  "title": "Stem Cell Biology",
+  "units": "3",
+  "description": "Focuses on the latest developments in stem cell biology, including ongoing clinical trials using stem cell therapies to treat unmet medical needs. In depth analysis of the current literature in stem cell biology, bioengineering and biophysical analyses is also covered. The discipline of stem cell biology and applications of cell therapy have elements of bioengineering, biomaterials, and biophysics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 257",
+  "title": "Special Topics in Biophysics",
+  "units": "0",
+  "description": "Course varies from year to year according to the currents of the times.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 258",
+  "title": "Methods in Mechanobiology and Biofabrication",
+  "units": "3",
+  "description": "Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning, and cell stimulation. Weekly lecture with final project in the form of a research proposal.",
+  "prerequisites_raw": "The course assumes an engineering background but is structured to be accessible to graduate students in life sciences who have a strong physics and math background, and to engineering graduate students with basic biology knowledge.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 259",
+  "title": "Selected Topics in Biological Chemistry",
+  "units": "0",
+  "description": "Selected topics from bio-organic, biophysical, or biological chemistry. Thecontent of this course will vary.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 260",
+  "title": "Research Progress in Biomolecular Science and Engineering",
+  "units": "1",
+  "description": "Seminars on research being conducted by the faculty of the BMSE interdisciplinary program.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 262",
+  "title": "Research Progress in Biomolecular Science and Engineering",
+  "units": "1",
+  "description": "Research presentations by postdoctoral fellows and advanced Ph.D. students of research progress in the department.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 264",
+  "title": "Literature in Signal Transduction",
+  "units": "1",
+  "description": "Critical reading and presentation of the literature on signal transduction mechanisms that control cell growth and differentiation.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 265",
+  "title": "BMSE Seminar Discussion Group",
+  "units": "1",
+  "description": "A weekly seminar discussion group to review, in advance, relevant literature of participating BMSE seminar guests.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 272",
+  "title": "Mechanical Force and Biomolecules",
+  "units": "2",
+  "description": "Explores single-molecule biophysics and the role of mechanical force in biomolecular behavior. Emphasis is placed on modern experimental techniques and the effects of mechanical stress on DNA conformation, protein unfolding, and force-generation by motor proteins. Recent literature is used throughout.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 276A",
+  "title": "Biomolecular Materials I: Structure and Function",
+  "units": "3",
+  "description": "Survey of classes of biomolecules (lipids, carbohydrates, proteins, nucleic acids). Structure and function of molecular machines (enzymes for biosynthesis, motors, pumps).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 276B",
+  "title": "Biomolecular Materials II: Applications",
+  "units": "3",
+  "description": "Interactions and self assembly in biomolecular materials. Chemical and drug delivery systems. Tissue engineering. Protein synthesis using recombinant nucleic acid methods: advanced materials development. Nonviral gene therapy.",
+  "prerequisites_raw": "Materials/IQB 276A.",
+  "prerequisites_courses": [
+   "IQB 276A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 281",
+  "title": "Protein Crystallography",
+  "units": "3",
+  "description": "Introduction to diffraction techniques. Protein crystal growth and morphology. Data collection and reduction strategies. Approaches for solving the phase problem. Crystallographic refinement, including moleculardynamics. Interpretation of crystal structures.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: A. Biomolecular Materials Synthesis; B. Biomineralization; BP. Bacterial Pathogenesis; CE. C. elegans Development; DN. Developmental Neurobiology; HW. Marine Structural Proteins; PM. Molecular Plant-Microbe Interactions; PR. Protein-Nucleic Acid Interactions; S. Molecular Virology and Interferon Action.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290A",
+  "title": "Group Studies: Biomolecular Materials Synthesis",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: A. Biomolecular Materials Synthesis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290B",
+  "title": "Group Studies: Biomineralization",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: B. Biomineralization.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290BP",
+  "title": "Group Studies: Bacterial Pathogenesis",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: BP. Bacterial Pathogenesis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290C",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: C. Studies in regulation of cell proliferation; CC. Centromeres and Chromosomes - Models and Analysis; CS. Advanced topics in Chromosome Segregation; PM. Molecular Plant-Microbe interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290CC",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: C. Studies in regulation of cell proliferation; CC. Centromeres and Chromosomes - Models and Analysis; CS. Advanced topics in Chromosome Segregation; PM. Molecular Plant-Microbe interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290CE",
+  "title": "Group Studies: C. elegans Development",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: CE. C. elegans Development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290CS",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: C. Studies in regulation of cell proliferation; CC. Centromeres and Chromosomes - Models and Analysis; CS. Advanced topics in Chromosome Segregation; PM. Molecular Plant-Microbe interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290D",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: A. Biomolecular Materials Synthesis; B. Biomineralization; BP. Bacterial Pathogenesis; CE. C. elegans Development; DN. Developmental Neurobiology; HW. Marine Structural Proteins; PM. Molecular Plant-Microbe Interactions; PR. Protein-Nucleic Acid Interactions; S. Molecular Virology and Interferon Action.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290DN",
+  "title": "Group Studies: Developmental Neurobiology",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: DN. Developmental Neurobiology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290HW",
+  "title": "Group Studies: Marine Structural Proteins",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: HW. Marine Structural Proteins.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290LK",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: C. Studies in Regulation of Cell Proliferation; CC. Centromeres and Chromosomes - Models and Analysis; CS. Advanced Topics in Chromosome Segregation; PM. Molecular Plant-Microbe Interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290PM",
+  "title": "Group Studies: Molecular Plant-Microbe Interactions",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: PM. Molecular Plant-Microbe Interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290PR",
+  "title": "Group Studies: Protein-Nucleic Acid Interactions",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: PR. Protein-Nucleic Acid Interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 290S",
+  "title": "Group Studies: Molecular Virology and Interferon Action",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list: S. Molecular Virology and Interferon Action.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 293",
+  "title": "Computational Methods in Biochemistry-Molecular Biology",
+  "units": "1",
+  "description": "Survey of computational methods in molecular biology. Topics include analysis and presentation of data, database searching, quantitative image analysis, and protein homology modeling. Emphaisis is on utilizing accessible software tools that are designed for non-programmers.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 294B",
+  "title": "Bioengineering: Career and Development Opportunities at the Interface between Biotechnology and Engineering",
+  "units": "2",
+  "description": "Based on presentations by experts from the bioengineering industry. Presenters describe their companies' technologies and developments, including biosensors, therapeutics, tissue engineering, quantum dots and advanced instrumentation. Training and educational requirements for different career tracks are discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 592",
+  "title": "Laboratory Research Rotation in Biochemistry",
+  "units": "0",
+  "description": "Laboratory rotation project in BMSE faculty laboratories.",
+  "prerequisites_raw": "Enrollment in the BMSE Ph.D. program; open to first year graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 595",
+  "title": "Biochemistry/Molecular Biology Literature Seminar",
+  "units": "2",
+  "description": "A critical review of research in selected areas of biochemistry-molecular biology.",
+  "prerequisites_raw": "Consent of instructor; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 595BG",
+  "title": "Bacterial Genetics",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

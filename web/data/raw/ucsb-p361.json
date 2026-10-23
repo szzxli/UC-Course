@@ -1,0 +1,290 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 236",
+  "title": "Nonlinear Control Systems",
+  "units": "4",
+  "description": "Analysis and design of nonlinear control systems. Focus on Lyapunov stability theory, with sufficient time devoted to contrasts between linear and nonlinear systems, input-output stability and the describing function method.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 237",
+  "title": "Nonlinear Control Design",
+  "units": "4",
+  "description": "Stabilizability by linearization and by geometric methods. State feedback design and input/output linearization. Observability and output feedback design. Singular perturbations and composite control. Backstepping design of robust controlers for systems with uncertain non-linearities. Adaptive nonlinear control.",
+  "prerequisites_raw": "ECE 236 or ME 236.",
+  "prerequisites_courses": [
+   "ECE 236",
+   "ME 236"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 238",
+  "title": "Advanced Control Design Laboratory",
+  "units": "4",
+  "description": "A laboratory course requiring students to design and implement advanced control systems on a physical experiment. Experiments from any engineering or scientific discipline are chosen by the student.",
+  "prerequisites_raw": "ME 243A/ECE 230A and at least one class among the following: ME 243B/ECE 230B, ME 236/ECE 236, ME 256/ECE 232, or ME 254/ECE 271C.",
+  "prerequisites_courses": [
+   "ME 243A",
+   "ECE 230A",
+   "ME 243B",
+   "ECE 230B",
+   "ME 236",
+   "ECE 236",
+   "ME 256",
+   "ECE 232",
+   "ME 254",
+   "ECE 271C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 240",
+  "title": "Convective Heat Transfer",
+  "units": "3",
+  "description": "Solutions to the momentum, continuity, and energy equations will be considered for both natural and forced convection. Applications to industrial problems, convective transfer in high-speed flows, heat transferin rarefied flows, and the effects of chemical reactions on convective rates will be included.",
+  "prerequisites_raw": "Undergraduate course in heat transfer.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 241",
+  "title": "Radiative Energy Transfer",
+  "units": "3",
+  "description": "The physical nature of radiation and of its interaction with matter, conservation principles in radiative transfer and their relation to molecular and convective processes, and thermodynamic equilibrium with consideration of nondimensional parameters is considered. Applications to astrophysics, combustion, and plasma technology are discussed.",
+  "prerequisites_raw": "Undergraduate course in heat transfer.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 241",
+  "title": "Engineering Biomaterials",
+  "units": "3",
+  "description": "This lecture-based course provides an overview of material structure-property relationships, processing, and characterization techniques for metals, polymers, and ceramics. We discuss the unique design constraints imposed by the human body and discuss strategies to enhance biocompatibility. Throughout the course, emphasis is placed on applications of biomaterials engineering in medical devices.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 243A",
+  "title": "Linear Systems I",
+  "units": "4",
+  "description": "Internal and external descriptions. Solution of state equations. Controllability and observability realizations. Pole assignment, assignment, observers; modern compensator design. Disturbance localization and decoupling. Least-squares control. Least-squares estimation; Kalman filters; smoothing. The separation theorem; LQG compensator design. Computational considerations. Selected additional topics.",
+  "prerequisites_raw": "ME 210A, ECE 210A, CH E 211A, CMPSC 211A, or MATH 206A; may be taken concurrently",
+  "prerequisites_courses": [
+   "ME 210A",
+   "ECE 210A",
+   "CH E 211A",
+   "CMPSC 211A",
+   "MATH 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 243B",
+  "title": "Linear Systems II",
+  "units": "4",
+  "description": "Internal and external descriptions. Solution of state equations. Controllability and observability realizations. Pole assignment, assignment, observers; modern compensator design. Distribance localization and decoupling. Least-squares control. Least-squares estimation; Kalman filters; smoothing. The seperation theorem; LQG compensator design. Computational considerations. Selected additional topics.",
+  "prerequisites_raw": "ECE 230A or ME 243A; and ME 210A, ECE 210A, CH E 211A, CMPSC 211A, or MATH 206A",
+  "prerequisites_courses": [
+   "ECE 230A",
+   "ME 243A",
+   "ME 210A",
+   "ECE 210A",
+   "CH E 211A",
+   "CMPSC 211A",
+   "MATH 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 244A",
+  "title": "Advanced Theoretical Methods in Engineering",
+  "units": "4",
+  "description": "Methods of solution of partial differential equations and boundary value problems. Linear vector and function spaces, generalized fourier analysis, Sturm-Liouville theory, calculus of variations, and conformal mapping techniques.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 244B",
+  "title": "Advanced Theoretical Methods in Engineering",
+  "units": "3",
+  "description": "Advanced mathematical methods for engineers and scientists. Complex analysis, integral equations and Green's functions. Asymptotic analysis of integrals and sums. Boundary layer methods and WKB theory.",
+  "prerequisites_raw": "Mechanical Engineering 244A and consent of instructor.",
+  "prerequisites_courses": [
+   "ME 244A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 245",
+  "title": "Modeling and Control of Spatially Distributed Systems",
+  "units": "4",
+  "description": "Modeling, dynamics, and control of spatially distributed systems described by partial differential equations or dynamical systems on lattices. The emphasis is on linear, constructive, and algebraic techniques, with motivation from physical examples such as oscillator networks and hydrodynamic stability.",
+  "prerequisites_raw": "ME 243B or ECE 230B or consent of instructor.",
+  "prerequisites_courses": [
+   "ME 243B",
+   "ECE 230B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 246",
+  "title": "Molecular and Cellular Biomechanics",
+  "units": "3",
+  "description": "Course introduces fundamental concepts in molecular and cellular biomechanics. Will consider the role of physical, thermal and chemical forces, examine their influence on cell strength and elasticity, and explore the properties of enzymatically-active materials.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 250",
+  "title": "Advanced Thermodynamics",
+  "units": "3",
+  "description": "An extended treatment of the fundamentals of classical thermodynamics, including availability and reversibility, the chemical potential, properties of matter, thermochemistry, chemical equilibrium of real gases and gas mixtures.",
+  "prerequisites_raw": "ME 151A-B.",
+  "prerequisites_courses": [
+   "ME 151A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 252A",
+  "title": "Computational Fluid Dynamics",
+  "units": "3",
+  "description": "Numerical simulation of fluid flows. Basic discretization techniques for parabolic, elliptic, and hyperbolic conservation laws. Stability and accuracy. Diffusion equation, linear convection equation.",
+  "prerequisites_raw": "ME 210C or Computer Science 211C or ECE 210C or Mathematics 206C or ChemicaEngineering 211C.",
+  "prerequisites_courses": [
+   "ME 210C",
+   "CMPSC 211C",
+   "ECE 210C",
+   "MATH 206C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 252B",
+  "title": "Computational Fluid Dynamics",
+  "units": "3",
+  "description": "Discussion of appropriate boundary conditions. Nonlinear convection dominated problems, curvilinear coordinates, basics of grid generation. Inviscid flow, boundary layer flow, incompressible Navier-Stokes flows.",
+  "prerequisites_raw": "ME 210C or Computer Science 211C or ECE 210C or Mathematics 206C or ChemicaEngineering 211C.",
+  "prerequisites_courses": [
+   "ME 210C",
+   "CMPSC 211C",
+   "ECE 210C",
+   "MATH 206C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 254",
+  "title": "Dynamic Programming and Reinforcement Learning",
+  "units": "4",
+  "description": "This graduate course provides a comprehensive treatment of dynamic programming (DP) as the fundamental framework for staged optimization problems under uncertainty. Core topics include the principle of optimality, Bellman equations, value and policy iteration, deterministic and stochastic dynamic programming, and Markov decision processes. Applications span linear-quadratic optimal control, inventory control, asset management, hypothesis testing, the Viterbi algorithm, among others. The course concludes with modern reinforcement learning topics including Q-learning, temporal difference learning, and value function approximation, demonstrating how classical DP principles form the theoretical foundation for contemporary AI algorithms.",
+  "prerequisites_raw": "ECE 230A or ME 243A or equivalent",
+  "prerequisites_courses": [
+   "ECE 230A",
+   "ME 243A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 256",
+  "title": "Robust Control Theory",
+  "units": "4",
+  "description": "Uncertainty modeling; stability of systems in the presence of norm-bounded perturbations; induced norm performance problems; H-infinity and linear quadratic control theory; Integral Quadratic Constraints (IQCs); structured singular value analysis; model reduction; computer aided design projects for control systems.",
+  "prerequisites_raw": "ECE 230A or ME 243A; and, ECE 230B or ME 243B, or consent of instructor.",
+  "prerequisites_courses": [
+   "ECE 230A",
+   "ME 243A",
+   "ECE 230B",
+   "ME 243B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 257",
+  "title": "Introduction to Multiphysics Simulation",
+  "units": "3",
+  "description": "Introduces students to the concepts of multiphysics simulation. Students are introduced to PDE's, associated analytical solutions, and the finite element method. Multiphysics problems are solved in multiple domains, and with fluid/structure interactions. Each student conducts a project where multiphysics tools are used to explore details of multiphysical processes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 258",
+  "title": "Methods in Mechanobiology and Biofabrication",
+  "units": "3",
+  "description": "Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning, and cell stimulation. Weekly lecture with final project in the form of a research proposal.",
+  "prerequisites_raw": "The course assumes an engineering background but is structured to be accessible to graduate students in life sciences who have a strong physics and math background, and to engineering graduate students with basic biology knowledge.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 260A",
+  "title": "Materials Structure and Bonding",
+  "units": "3",
+  "description": "Crystal structures (Miller indices, Bravais lattices, symmetry operations).Modeling of atomic bonding, determination and applications of interatomic potentials, atomic basis for elastic moduli. Crystal anisotrophy. Lattice statics and molecular dynamics computations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 264",
+  "title": "Mechanical Behavior of Materials",
+  "units": "3",
+  "description": "Concepts of stress and strain. Deformation of metals, polymers, and ceramics. Elasticity, viscoelasticity, plastic flow, and creep. Linear elastic fracture mechanics. Mechanisms of ductile and brittle fracture.",
+  "prerequisites_raw": "ME 219; consent of instructor.",
+  "prerequisites_courses": [
+   "ME 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 265",
+  "title": "Composite Materials",
+  "units": "3",
+  "description": "Stress and strain relations in composites. Residual stresses. The fracture resistance of organic and inorganic matrix composites. Statistical aspects of fiber failure. Composite laminates and delamination cracks. Cumulative damage concepts. Interface properties. Design criteria.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 267",
+  "title": "Thin Films and Multilayers",
+  "units": "3",
+  "description": "The development of stresses in thin films and its relaxation. Edge effects and discontinuities. Cracks in films and at interfaces. Delamination of residually stressed films. Buckling and buckle propagation of compressed films. Cyclic behavior and ratcheting effects.",
+  "prerequisites_raw": "Materials 207 (same course as ME 219); consent of instructor",
+  "prerequisites_courses": [
+   "MATRL 207",
+   "ME 219"
+  ]
+ }
+]

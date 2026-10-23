@@ -1,0 +1,336 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 236C",
+  "title": "Social Categories in Interaction",
+  "units": "4",
+  "description": "Drawing on conversation analytic research, this course explores how social categories, including those traditionally of interest to sociologists (e.g., gender, race, sexuality), are used by participants in naturally occurring interactions. Methodological challenges and debates in this area are also examined. Graduate students who register for this cross-listed course will attend the weekly lectures, additional weekly seminar-type meetings with the instructor, and will complete an expanded set of the assignments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 236I",
+  "title": "The Analysis Of Interaction In Institutional Settings",
+  "units": "4",
+  "description": "This seminar focuses on how the dynamics of interactional processes contribute to the constitution of formal settings of social action.",
+  "prerequisites_raw": "Sociology 236.",
+  "prerequisites_courses": [
+   "SOC 236"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 236T",
+  "title": "Theorizing Social Action in Interaction",
+  "units": "4",
+  "description": "This course takes up ubiquitous matters of social action, especially in co-present interactions, by tracing the lineages of sociological theories of action. It is grounded in close reading of key developments in theorizing and empirically investigating social action in interaction evident in the writings of both classical and contemporary sociologists.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 236V",
+  "title": "Video Study Of Social Interaction",
+  "units": "4",
+  "description": "This course examines visible aspects of social interaction. It explores theorganization of gesture, gaze, and body movement in the production of interaction through a survey of published research and direct inspection ofrecordings of ordinary social occasions.",
+  "prerequisites_raw": "Sociology 236.",
+  "prerequisites_courses": [
+   "SOC 236"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 239",
+  "title": "Sociology Of Law",
+  "units": "4",
+  "description": "Selected topics in the sociological analysis of legal stuctures and processes, and of theories of jurisprudence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 240",
+  "title": "Sociology of Health",
+  "units": "4",
+  "description": "In this course we review some of the interdisciplinary literature on the relationship between human health and social forces, with a focus on research and theory in the academic field of sociology.",
+  "prerequisites_raw": "No prerequisites required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 242",
+  "title": "Seminar In Language And Social Interaction",
+  "units": "4",
+  "description": "The seminar will explore selecte topics in the analysis of naturally occurring conversation with an emphasis on conversational exchange as a form of social interaction.",
+  "prerequisites_raw": "Sociology 136.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 244",
+  "title": "Seminar In Socialization",
+  "units": "4",
+  "description": "Selected topics in social development and social learning theory will be discussed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 245A",
+  "title": "Seminar on Gender",
+  "units": "4",
+  "description": "Current research, theories and concepts of gender will be considered. Topics vary from quarter to quarter and by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 245B",
+  "title": "Seminar on Gender",
+  "units": "4",
+  "description": "Current research, theories and concepts of gender will be considered. topics vary from quarter to quarter and by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 245D",
+  "title": "Sociology of Masculinities",
+  "units": "4",
+  "description": "This is a survey course covering the sociology of masculinities, which is a subfield that primarily engages the sociologies of gender and sexualities. The course covers theoretical frameworks in the field, key debates, and engages with diverse empirical work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 245GV",
+  "title": "Gendered Violence",
+  "units": "4",
+  "description": "Examines the relationship between the gender system and violence, exploring how the gender system facilitates and constrains various types of violence and how violence shapes understandings of gender.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 245T",
+  "title": "Transgender Studies",
+  "units": "4",
+  "description": "Examines the history of Transgender Studies as a field of research with a focus on Transgender Studies work within Sociology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 246",
+  "title": "Seminar on the Life Course",
+  "units": "4",
+  "description": "Examines theoretical and methodological approaches to the study of the lifecourse. The dynamic relation between changing social structures, institutions, and life patterns is emphasized.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 248MA",
+  "title": "Social Network Analysis",
+  "units": "4",
+  "description": "Introduction to concepts, methods, and applications of social network analysis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 255R",
+  "title": "Seminar On Gender, Race, and Class",
+  "units": "4",
+  "description": "An examination of the intersection of race, class, and gender in empirical and theoretical socialogical work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 256S",
+  "title": "Seminar on Sexualities",
+  "units": "4",
+  "description": "Research and theory on sexual meanings, identities, behavior, and communities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 257",
+  "title": "THRYS-REL BEHAVIOR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265",
+  "title": "Development and its Alternatives",
+  "units": "4",
+  "description": "The seminar will explore a range of theories issues and case studies in the sociology of development and social change, primarily in the Third World. Topics and cases covered will vary according to students' and instructor's interests.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265CJ",
+  "title": "Climate Justice",
+  "units": "4",
+  "description": "Explores the diverse meanings and impacts of the concept and practice of the term climate justice as used by scholars, governments, social movement organizations, and activists to imagine and create a sustainable, equitable, democratic world for future generations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265EC",
+  "title": "Earth in Crisis",
+  "units": "4",
+  "description": "Explores the causes and consequences of climate change on a global scale, covering the state of the science in layman's terms, the current and future social impacts of climate change, the global negotiations process, and climate justice activism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265G",
+  "title": "Sociology of Globalization",
+  "units": "4",
+  "description": "Overview of the sociology of globalization and theories of globalism. Topics include: the politics of globalization, transnational state apparatuses; social movements; global civil society; transnational migrations; globalization and race/ethnicity; gender and globalization; local-global linkages.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265GC",
+  "title": "Global Culture",
+  "units": "4",
+  "description": "The course addresses cultural dimensions of globalization including migration, diasporas and ethnic 'others', multiculturalism, hybridity, problems of intercultural representation and stereotypes, fundamental problems of global cognition (eurocentrism, orientalism), cosmopolitanism, and transnational aesthetics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265GH",
+  "title": "Globalization History and Theory",
+  "units": "4",
+  "description": "The course addresses contemporary debates on globalization focusing on the periodization and time dimension of globalization, globalization and capitalism, globalization and modernity, and the rise of emerging societies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265GR",
+  "title": "Globalization and Resistance",
+  "units": "4",
+  "description": "Perspectives on the multiple, unfolding processes of globalization and attendant structural transformation; critical assessment of emergent forms of resistance/emancipation, from the struggles of women, displaced communities, and peoples of color, to the global justice movement and new paths to revolution.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265GS",
+  "title": "Global Political Economy",
+  "units": "4",
+  "description": "An advanced graduate seminar covering recent theory and research about global production systems, including developments in world-systems theory, flexible production, post-fordism, and global commodity chains.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265I",
+  "title": "Introduction to Global, International, and Development Sociology",
+  "units": "4",
+  "description": "Introduces students to the range of core issues and debates within the fields of global, international, and development sociology, from political economy to culture, gender to REN, social movements to micro-issues.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265M",
+  "title": "New Modernities",
+  "units": "4",
+  "description": "Contemporary emerging societies don't simply adopt the model of western modernity. Modernities and capitalisms are analytics that seek to address these questions. Course examines social debates and reflexivities in emerging societies as well as the entanglement of modernities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265N",
+  "title": "Conflict, Identity, and The Nation",
+  "units": "4",
+  "description": "The course focuses on three different but correlated themes: 1)The sociological meaning of \"the nation\" and the conceptualization of national identity; 2) The comparative sociological history of nationalism and identity; 3) The correlation between identity, conflict, and global change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265SD",
+  "title": "The World in 2050: Sustainable Development and Its Alternatives",
+  "units": "4",
+  "description": "Explores the diverse meanings and impacts of the concept and practice of the term sustainable development as used by scholars, social movement organizations, communities, and activists to imagine and create a sustainable, equitable, democratic world for future generations by 2050.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 265W",
+  "title": "Women, Culture And Development",
+  "units": "4",
+  "description": "Identifying, reading, and critiquing theoretical and empirical materials from all regions of the Third World that address the interrelated themes ofwomen, culture, and development.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 266LA",
+  "title": "Sociology of Latin America",
+  "units": "4",
+  "description": "Examines social, political, economic, and cultural trends in Latin America in historical context, including but not limited to political economy, development processes, women, indigenous people, revolutionary movements, transnational migration, and different debates, theories and perspectives for studying Latin America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 272",
+  "title": "Race, Crime, and Punishment",
+  "units": "4",
+  "description": "Critical analysis of theory and research on the racial-ethnic dimensions of crime and punishment. Focal topics include: race and the incidence of crime; racial disparities in the criminal law; mass incarceration and communities of color.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

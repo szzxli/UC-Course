@@ -1,0 +1,332 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 238",
+  "title": "Soft Matter Physics",
+  "units": "4",
+  "description": "A physics-based approach to study the structure, assembly and dynamical properties of a variety of soft materials, such as simple and complex fluids, colloidal systems, liquid crystals, polymers, granular matter and gels, including biological examples. Topics covered will include elasticity, viscosity and viscoelasticity, capillarity and wetting, phases and phase diagrams of soft materials, entropy-driven phase transitions, Brownian motion and active matter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 239",
+  "title": "Physical Biology of the Cell",
+  "units": "4",
+  "description": "The role of physics in biology through quantitative measurements and modeling, the organization of a cell, and exemplary quantitative results of biological model systems. The physics of biologically relevant macromolecules, including DNA, RNA and mechanisms of transcription and translation; introduction to protein folding and the role of electrostatics in biology. The physics of the cytoskeleton including beam theory, persistence length, molecular motors, instrumentation used to characterize motor properties, as well as the role of active stresses in cell biology. If time permits, a brief introduction to cell motility and the structure of epithelial tissue.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 240",
+  "title": "Statistics, Data Analysis, and Machine Learning for Physicists",
+  "units": "4",
+  "description": "A survey of statistical and machine learning techniques as applied in modern physics research, with extensive applications to real data. Some of the topics covered include Bayesian and frequentist approaches to statistics; formulating and integrating likelihood functions; confidence intervals with and without assumptions of Gaussianity; Markov Chain Monte Carlo; principal component analysis and dimensionality reduction; Gaussian process regression; and time series analysis. Assignments will make use of published research and data sets, and will require the application of analysis techniques covered in class.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 250",
+  "title": "Special Topics in Physics",
+  "units": "0",
+  "description": "The course varies from year to year according to current interests.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260A",
+  "title": "Colloquium",
+  "units": "1",
+  "description": "Colloquium.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260B",
+  "title": "Seminar in Macromolecular Physics and Organic Solids",
+  "units": "1",
+  "description": "Seminar in macromolecular physics and organic solids.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260C",
+  "title": "Seminar in General Relativity",
+  "units": "1",
+  "description": "Talks on topics in gravity and general relativity pertinent to current doctoral research in the field.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260D",
+  "title": "Seminar in Theoretical Physics",
+  "units": "1",
+  "description": "Seminar in theoretical physics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260E",
+  "title": "Condensed Matter and Applied Physics Seminar",
+  "units": "1",
+  "description": "A lecture series of topics in materials and condensed matter physics, solid state physics, liquid helium, polymers, and related phenomenon.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260F",
+  "title": "Seminar in High Energy Physics",
+  "units": "1",
+  "description": "Discussions of those topics in experimental and theoretical high energy andelementary particle physics pertinent to current doctoral research in the field.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260G",
+  "title": "Graduate Seminar",
+  "units": "1",
+  "description": "Weekly seminar on topics of research currently being pursued in the department of physics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260H",
+  "title": "Seminar in Astrophysics and Cosmology",
+  "units": "1",
+  "description": "Talks on topics in astrophysics and cosmology pertinent to current doctoralresearch in the field.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 260J",
+  "title": "Physics Outreach",
+  "units": "1",
+  "description": "Active participation in an outreach program that presents physics demonstrations and experiments on the road to local schools in order to provide a valuable learning experience for K-12 students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 500",
+  "title": "Teaching Assistant Seminar",
+  "units": "2",
+  "description": "Covers development of teaching techniques especially oriented to lower-division physics laboratory instruction. Theoretical aspects covered at beginning of each quarter. Practical techniques discussed including weekly meeting with class instructor, formal evaluation, and videotaping analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 594",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest. Each staff memberhas a seminar identified by a number code listed in the schedule of classes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 595",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Each staff member has a group studies course identified by a number code listed in the schedule of classes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Reading and research in special topics including work done as the basis for the dissertation. Each staff member has a directed reading and research course identified by a number code listed in the schedule of classes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 599",
+  "title": "Dissertation Preparation",
+  "units": "0",
+  "description": "This course is reserved for writing the dissertation. Each staff member has a research course identified by a number code listed in the schedule ofclasses.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Physics.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 10",
+  "title": "Physics Colloquium",
+  "units": "0",
+  "description": "Students receiving credit will present talks in their field on material arranged in consultation with the instructor. Credit assigned by the instructor will reflect the extent and quality of participation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 15A",
+  "title": "Introduction to Experimental Physics",
+  "units": "0",
+  "description": "Covers the essence of experimental research. Students study three different systems experimentally, and write short Physical Review style articles about the results. Students are responsible for deciding what to measure, how to analyze data, and what conclusions can be reached.",
+  "prerequisites_raw": "Physics CS 31; consent of instructor; Creative Studies and CCS Physics majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 15B",
+  "title": "Experimental Physics",
+  "units": "0",
+  "description": "Computer control of experiments. Students learn LabView, and use it to measure and generate analog signals using a data acquisition card and a personal computer. Students ultimately use their computers to measure and control the temperature of a copper rod.",
+  "prerequisites_raw": "Physics CS 15A; consent of instructor; Creative Studies and CCS Physics majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 15C",
+  "title": "Experimental Physics",
+  "units": "0",
+  "description": "Design and construction of apparatus, drafting and computer-aided design. Machine shop practice including use of all major machine tools. The class acts as a team to design and, time permitting, build a scientific apparatus for a campus research group.",
+  "prerequisites_raw": "Physics CS 15B; consent of instructor; Creative Studies and CCS Physics majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 31",
+  "title": "Newtonian Mechanics",
+  "units": "0",
+  "description": "Vectors. Kinematics. Newton's laws of motion. Work and energy. Conservativeforces. Momentum. Conservation of momentum. Center of mass motion. Collisions. Systems with variable mass.",
+  "prerequisites_raw": "Consent of instructor; creative studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 32",
+  "title": "Mechanics and Waves",
+  "units": "0",
+  "description": "Oscillatory motion. Rotational Motion. Angular momentum gravity and centralforce motion. Elastic waves.",
+  "prerequisites_raw": "Physics CS 31.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 33",
+  "title": "Waves, Kinetic Theory and Relativity",
+  "units": "0",
+  "description": "Sound waves. Fluid dynamics. Kinetic theory of matter. The Maxwell-Boltzmann distribution. Specific heat. Entropy. The special theory of relativity.",
+  "prerequisites_raw": "Physics CS 31 and 32; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 34",
+  "title": "Electromagnetism",
+  "units": "0",
+  "description": "Electrostatics. DC circuits. Magnetostatics. Vector Potential.",
+  "prerequisites_raw": "Consent of instructor; creative studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 35",
+  "title": "Electromagnetics and Optics",
+  "units": "0",
+  "description": "Faraday's Law of Induction. Magnetic materials. AC circuits. Maxwell's equations. Electromagnetic waves. Ray optics. Wave optics. Diffraction Theory.",
+  "prerequisites_raw": "Physics CS 34; consent of instructor; creative studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 36",
+  "title": "Quantum Physics",
+  "units": "0",
+  "description": "Wave-particle duality. Photons. Matter waves. The Uncertainty Principle. The Schrodinger Equation. Potential wells and barriers. The quantized simple harmonic oscillator. The hydrogen atom.",
+  "prerequisites_raw": "Physics CS 34 and 35; consent of instructor; creative studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 109",
+  "title": "Advanced Independent Research",
+  "units": "0",
+  "description": "Independent research on an original subject under faculty supervision carried out in a physics faculty research group. These advanced projects will attempt research of publishable quality; generally resulting in the preparation of a written report or manuscript for publication.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 120",
+  "title": "Laboratory Project",
+  "units": "0",
+  "description": "Set up by the student in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 130",
+  "title": "Reading Project",
+  "units": "0",
+  "description": "Set up by the student in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS CS",
+  "code": "PHYS CS 140",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Lectures on a coherent body of physical topics which are not usually presented in standard undergraduate physics courses.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

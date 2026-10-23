@@ -1,0 +1,259 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 200",
+  "title": "Critical Issues in Asian American Studies",
+  "units": "4",
+  "description": "Graduate Seminar exploring critical themes and major debate in Asian American Studies. Readings cover perspectives that may include history, literature, sociology, anthropology, cultural studies, political science, gender and sexuality studies, psychology, and religious studies.",
+  "prerequisites_raw": "Graduate standing in the social sciences or humanities or instructor consent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 209",
+  "title": "Gender and Labor in Transnational Asian America",
+  "units": "4",
+  "description": "Examines Asian American women and the politics of labor. Will equal pay for equal work resolve long-standing inequities? Why are women of color over-represented in certain kinds of jobs? We will examine women's experiences of the gendering of labor.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 218",
+  "title": "Asian Americans in Popular Culture",
+  "units": "4",
+  "description": "Critical and historical approaches to popular culture representation of Asian Americans in the United States in films, theater, performance, print media, sports, and music.",
+  "prerequisites_raw": "Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 227",
+  "title": "Asian American Television and Digital Media",
+  "units": "4",
+  "description": "Asian American film, video, and new media produced within Asian American framework life, culture, and politics or \"socio-aesthetics.\" Moving image production, criticism, and theory is reviewed in order to formulate an analysis of production, authorship, and spectatorship of various forms. Readings of Peter Feng, E. Franklin Wong, Eve Oishi, and others are a must. Students will write two page response papers every week, attend lectures and screenings as part of Asian American 127, meet with the professor weekly, and read extensively in the field of Asia American Film Studies.",
+  "prerequisites_raw": "Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 238",
+  "title": "Asian American Sexualities",
+  "units": "4",
+  "description": "Examines the critical lens of sexuality in studying Asian American culture, history, and politics. Survey of interdisciplinary texts on concepts of sexuality in Asia and America, constructions of sexual difference, de-naturalizing heterosexuality and queer theory.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 240",
+  "title": "Theory and Production of Social Experience",
+  "units": "4",
+  "description": "Graduate level theory and production course. Theory and video production of social experience course focused on performance studies and ethnography in the context of Asian American studies. Central texts in these fields as well as production of performances and ethnographies in video are covered.",
+  "prerequisites_raw": "Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 264",
+  "title": "The Politics of The Global War on Terror",
+  "units": "4",
+  "description": "Examines the politics of terrorism and the \"Global War on Terror\". Focusing on the impact it has on South Asian, Arab, and Muslim Americans. How have the politics of terrorism impacted the lives of those living in the U.S.",
+  "prerequisites_raw": "Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 500",
+  "title": "Laboratory for Teaching Assistants",
+  "units": "4",
+  "description": "Supervised teaching of Asian American studies lower-division courses.",
+  "prerequisites_raw": "Appointment as a teaching assistant in an Asian American Studies course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 595",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Colloquium series in which graduate students attend lectures and engage in discussion of topics central to the discipline and participate in professional development activities, such as presenting papers, evaluating arguments, and advancing interdisciplinary knowledge.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AM",
+  "code": "AS AM 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Reading and research in special topics in Asian American studies.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AMW",
+  "code": "AS AMW 1",
+  "title": "Introduction to Asian American History, 1850-Present",
+  "units": "5",
+  "description": "Historical survey of Asian Americans in the United States from 1850 to the present. Topics include: Immigration patterns, settlement and employment, race and gender relations, community development, and transnational connections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "AS AMW",
+  "code": "AS AMW 10",
+  "title": "Martial Arts in U.S. Culture",
+  "units": "5",
+  "description": "How did martial arts come to suffuse Hollywood action films? How did taekwondo studios crop up in Midwestern suburbs? This cultural-studies course explores those questions and more while engaging students in a range of research methods ethnography, textual analysis, phenomenology to contribute to collective knowledge about these histories and practices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ASTRO",
+  "code": "ASTRO 1",
+  "title": "Basic Astronomy",
+  "units": "5",
+  "description": "A survey of the development of astronomy with an emphasis on understanding the observable properties of the solar system, the sun and other stars, our own and other galaxies, and the entire universe. Topics of current interest will be discussed as time permits.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ASTRO",
+  "code": "ASTRO 1H",
+  "title": "Honors Supplement to Basic Astronomy",
+  "units": "1",
+  "description": "A supplement to Astronomy 1 emphasizing fundamental concepts and additional topics in astronomy. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Honors standing. Concurrent enrollment in ASTRO 1.",
+  "prerequisites_courses": [
+   "ASTRO 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ASTRO",
+  "code": "ASTRO 2",
+  "title": "History of the Universe",
+  "units": "5",
+  "description": "Content will vary with the professor and student interests. Course has included modern extragalactic astronomy and cosmology, quasars, active galactic nuclei, dark matter, gravitational lenses, the early universe, the origins of life, and the possibility of extraterrestrial intelligence.",
+  "prerequisites_raw": "Astronomy 1.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ASTROW",
+  "code": "ASTROW 1",
+  "title": "Basic Astronomy",
+  "units": "5",
+  "description": "A survey of the development of astronomy with an emphasis on understanding the observable properties of the solar system, the sun and other stars, our own and other galaxies, and the entire universe. Topics of current interest will be discussed as time permits.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 101",
+  "title": "Responsible Conduct of Research",
+  "units": "1",
+  "description": "The responsible conduct of research (RCR) is essential to good science. Examples of goals of RCR education and training are to:Develop, foster, and maintain a culture of integrity in science;discourage and prevent unethical conduct; empower researchers to hold themselves and others accountable to high ethical standards; increase knowledge of, and sensitivity to, ethical issues surrounding the conduct of research by researchers with diverse backgrounds; improve the ability to make responsible choices when faced with ethical dilemmas involving research; provide an appreciation for the range of accepted scientific practices for conducting research; inform scientists and research trainees about the regulations, policies, and statutes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 120A",
+  "title": "Molecular Bioengineering",
+  "units": "3",
+  "description": "Introduces students to molecular components of biology with application of engineering principles for analysis. Topics include: molecular components of cells, DNA/RNA structure and function, protein structure/function/folding, gene and protein regulation, DNA replication, and experimental and computational research methods.",
+  "prerequisites_raw": "Chemistry 1B or 3B, Chemistry 2AL, Math 6B, and Physics 7B",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2AL",
+   "MATH 6B",
+   "PHYS 7B",
+   "CHEM 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 120B",
+  "title": "Cellular Bioengineering",
+  "units": "3",
+  "description": "Introduces students to structural components of cells with application of engineering principles for analysis. Topics include: biomembrane structure and function, membrane proteins, membrane transport, intracellular compartments, intracellular trafficking, chemotaxis, cell cycle, apoptosis, and stem cells.",
+  "prerequisites_raw": "BIOE 120A, or ENGR 120A, or consent of Instructor",
+  "prerequisites_courses": [
+   "BIOE 120A",
+   "ENGR 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 201",
+  "title": "Responsible Conduct of Research",
+  "units": "2",
+  "description": "The responsible conduct of research (RCR) is essential to good science. Examples of goals of RCR education and training are to: Develop, foster, and maintain a culture of integrity in science; discourage and prevent unethical conduct; empower researchers to hold themselves and others accountable to high ethical standards; increase knowledge of, and sensitivity to, ethical issues surrounding the conduct of research by researchers with diverse backgrounds; improve the ability to make responsible choices when faced with ethical dilemmas involving research; provide an appreciation for the range of accepted scientific practices for conducting research; inform scientists and research trainees about the regulations, policies, and statutes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 210",
+  "title": "Biomolecular and Biochemical Methods",
+  "units": "3",
+  "description": "The goal of the course is to generate in our students an understanding of the logic behind the key tools used to characterize biomolecules and biosystems. Both the mechanisms by which these techniques work, and the rationale for why each would be employed (strengths, weaknesses, potential pitfalls).",
+  "prerequisites_raw": "General biology, general chemistry, and differential equations",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 211",
+  "title": "Quantitative Experiments",
+  "units": "3",
+  "description": "This course is built around experimental design, data analysis, and quantitative modeling of biological processes and phenomena. Topics including experimental design considerations and a priori assumptions, probability, dimensional reduction, hypothesis testing, statistical analysis, and quantitative modeling through ordinary and partial differential equations. Case studies of recent and classic research papers in Bioengineering are used to illustrate key course topics through class discussions.",
+  "prerequisites_raw": "At least one undergraduate course in biochemistry/cell biology and differential equations, or consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 212",
+  "title": "Great Experiments",
+  "units": "4",
+  "description": "Introduces students to seminal experiments that introduced pioneering biological engineering methods and experimental analysis. Students learn the principles of sound experimental design to test a hypothesis, become familiar with techniques using bacterial and stem cell model systems, as well as imaging and analysis methods.",
+  "prerequisites_raw": "BIOE 210 and BIOE 211 or consent of instructor.",
+  "prerequisites_courses": [
+   "BIOE 210",
+   "BIOE 211"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 220A",
+  "title": "Molecular Bioengineering",
+  "units": "3",
+  "description": "Introduces students to molecular components of biology and application of engineering principles for their analysis. Topics include: molecular components of cells; DNA structure and function, including replication; gene regulation; protein structure, function, and folding; chemical kinetics; signal transduction and mathematical descriptions thereof; and mechanics of biomolecules and subcellular structures (membranes, cytoskeleton).",
+  "prerequisites_raw": "Chem 1B/2B, Math 6B, Physics 3",
+  "prerequisites_courses": [
+   "MATH 6B",
+   "PHYS 3"
+  ]
+ }
+]

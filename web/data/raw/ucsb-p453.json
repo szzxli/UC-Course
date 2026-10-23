@@ -1,0 +1,353 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 59",
+  "title": "The US/México Border",
+  "units": "5",
+  "description": "The class purpose is to survey the Mexico/U.S border regions cultural production of the past century. It pays special attention to aesthetic and ideological discourses that nurture artistic and political ties required to resist state violence at and across the U.S.-Mexico border. It takes an interdisciplinary approach to understand the sociopolitical realities of the most populated merging points between Latin America and the United States. Material includes readings from different disciplines as well as cultural productions: film, visual arts, literature, music, podcasts and performance art to offer a rich and diverse examination of cultural manifestations and socio-political movements from a transborder perspective. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 100",
+  "title": "Introduction to Hispanic Linguistics",
+  "units": "4",
+  "description": "Introduction to linguistic theories, methods, and problems as applied to Spanish. Taught in Spanish with Spanish examples.",
+  "prerequisites_raw": "SPAN 16B or SPAN 25 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 101",
+  "title": "American Spanish",
+  "units": "4",
+  "description": "Geographical, social, and stylistic distribution of phonemic, morphosyntactic, and lexical features in Spanish as spoken in Latin America.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 102A",
+  "title": "Advanced Composition through Literature",
+  "units": "4",
+  "description": "The study of the finer points of Spanish grammar and syntax. Stress is placed on writing critical analyses of literary readings.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 102B",
+  "title": "Advanced Composition through Literature",
+  "units": "4",
+  "description": "The study of the finer points of Spanish grammar and syntax. Stress is placed on writing critical analyses of literary readings.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 102HS",
+  "title": "Introduction to Hispanic Studies",
+  "units": "4",
+  "description": "Introduces students to key concepts, methods, and debates in Hispanic Studies, with a focus on literature, media, cultural production, and historical contexts from Spain, Latin America, and U.S. Latinx communities. Students learn to analyze texts and cultural artifacts using interdisciplinary approaches, including cultural studies, history, and critical theory. The course provides a foundation for upper-division coursework and strengthens analytical, writing, and research skills in Spanish. Taught in Spanish.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25 or consent of instructor.",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 103",
+  "title": "Beyond Advanced Spanish Proficiency",
+  "units": "4",
+  "description": "Designed to provide students who have completed Span 25 or Span 16B and one additional upper-division Spanish course with the opportunity to practice the four language skills: speaking, listening, reading, and writing. Students will practice different communicative skills, from defending an opinion to mastering transactions and exchanges.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25.",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 104",
+  "title": "Teaching Spanish for Heritage Speakers",
+  "units": "4",
+  "description": "Designed for students who have completed Span 100 and who are considering a teaching career. The course covers frequent issues encountered when working with students who have learned Spanish through their family history or place of origin.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 105",
+  "title": "Spanish/English Contrasts",
+  "units": "4",
+  "description": "The scope of this course is the Spanish language and its differences vis-a-vis English, ranging from pronunciation and grammar to word meaning, language use, and social and dialectical variation.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 106",
+  "title": "Introduction to Latin American and Iberian Studies",
+  "units": "4",
+  "description": "Designed to acquaint students with current research on the main areas of Latin American and Iberian Studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 106H",
+  "title": "Introduction to Latin American and Iberian Studies - Honors Section",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors seminar, which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in SPAN 106 or LAIS 100; honors standing in LAIS or the College of Letters and Science.",
+  "prerequisites_courses": [
+   "SPAN 106",
+   "LAIS 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 107",
+  "title": "Interdisciplinary Approaches to the History and Societies of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues central to the study of Latin America and Iberia across the social sciences and history. Topics include nationalism, revolution, politics and the state, economic development and international relations, labor, popular culture, race, gender, religion, migration, environment, imperialism, and colonialism.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 108",
+  "title": "Interdisciplinary Approaches to the Cultures, Languages, and Literatures of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues pertinent to the diverse cultures, languages, and literatures of Latin America and Iberia. Disciplines and approaches may include: pre-Columbian studies, Spanish and Spanish American literatures, Portuguese and Brazilian literatures, translation studies, cultural, gender, and queer studies, romance language and linguistics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 109",
+  "title": "Spanish in the United States: The Language and Its Speakers",
+  "units": "4",
+  "description": "Study of Spanish used in United States by native and immigrant groups: Mexicans, Chicanos, Cubans, Puerto Ricans and others in Spanish-speaking enclaves. Focus on language and social and cultural manifestations arising in contact between linguistically different groups. Taught in Spanish.",
+  "prerequisites_raw": "Spanish 100; Upper-division standing.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 110A",
+  "title": "Spanish Literature from the Beginning to the Present",
+  "units": "4",
+  "description": "Medieval Spanish literature.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 110B",
+  "title": "Spanish Literature from the Beginning to the Present",
+  "units": "4",
+  "description": "Golden age literature.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 110C",
+  "title": "Spanish Literature from the Beginning to the Present",
+  "units": "4",
+  "description": "Eighteenth- and nineteenth-century Spanish literature.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 110D",
+  "title": "Spanish Literature from the Beginning to the Present",
+  "units": "4",
+  "description": "Twentieth-century Spanish literature.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 111A",
+  "title": "Spanish-American Literature from the Beginning to the Present",
+  "units": "4",
+  "description": "Colonial Spanish-American literature.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 111B",
+  "title": "Spanish-American Literature from the Beginning to the Present",
+  "units": "4",
+  "description": "Nineteenth-century Spanish-American literature.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 111C",
+  "title": "Spanish-American Literature from the Beginning to the Present",
+  "units": "4",
+  "description": "Twentieth-century Spanish-American literature.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 112A",
+  "title": "Non-Castilian Literatures of Spain",
+  "units": "4",
+  "description": "Introduction to Spains medieval linguistic and cultural diversity through literary works written in such languages as Latin, Arabic, Hebrew, Mozarabic, Occitan, Catalan-Valencian, Galician-Portuguese and Galician. Texts read in Spanish or English translation.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 112B",
+  "title": "Non-Castilian Literatures of Spain",
+  "units": "4",
+  "description": "Introduction to Spains linguistic and cultural diversity in modern and contemporary times through literary works written in Asturian, Basque, Catalan and Galician. Texts read in Spanish translation.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 113",
+  "title": "An Introduction to Linguistic Variation in Modern Spanish",
+  "units": "4",
+  "description": "After a presentation of traditional and contemporary approaches to dialect variation, the course compares a set of different Spanish dialects from Spain and America in order to observe both common trends and diversity factors. The interrelations between regional dialects and other kinds of linguistic varieties are studied, especially social dialects and dialects in contact with other languages.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 114A",
+  "title": "The Spanish Language: A Linguistic Approach",
+  "units": "4",
+  "description": "Study of the systematic aspects of language structure which make communication possible. Each quarter deals with a different aspect of the Spanish system, as follows: phonetics and phonemics.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 114B",
+  "title": "The Spanish Language: A Linguistic Approach",
+  "units": "4",
+  "description": "Study of the systematic aspects of language structure which make communication possible. Each quarter deals with a different aspect of the Spanish system, as follows: morphology and syntax.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 114C",
+  "title": "The Spanish Language: A Linguistic Approach",
+  "units": "4",
+  "description": "Study of the systematic aspects of language structure which make communication possible. Each quarter deals with a different aspect of the Spanish system, as follows: semantics.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 115",
+  "title": "Introduction to Translation I",
+  "units": "4",
+  "description": "Comprises topics necessary to develop skills that are needed for writing at a specialized level and to carry out written translation into and from Spanish, mostly texts on business and medical topics.",
+  "prerequisites_raw": "Span 25 OR Span 16B",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 116",
+  "title": "Introduction to Interpreting",
+  "units": "4",
+  "description": "Comprised of topics necessary in developing skills for interpretation to and from Spanish. Intended mostly for proficient Spanish-language speakers.",
+  "prerequisites_raw": "SPAN 16B or SPAN 25 (may be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ }
+]

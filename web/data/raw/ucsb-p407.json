@@ -1,0 +1,358 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262RM",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262S",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262SP",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262ST",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. PSTAT 262FM is reserved for topics in financial mathematics and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262TL",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262WL",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262WM",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262Y",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262YS",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262YY",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262Z",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informational conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 263",
+  "title": "Research Seminars in Probability and Statistics",
+  "units": "1",
+  "description": "Research seminars presented by faculty, visiting scholars, and invited speakers on current research topics.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 274",
+  "title": "Time Series",
+  "units": "4",
+  "description": "Stationary and non-stationary models, seasonal time series, ARMA models: calculation of ACF, PACF, mean and ACF estimation. Barlett's formula, model estimation: Yule-Walker estimates, ML method. Identification techniques, diagnostic checking, forecasting, spectral analysis, the periodogram. Current software and applications.",
+  "prerequisites_raw": "PSTAT 120A-B.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 275",
+  "title": "Survival Analysis",
+  "units": "4",
+  "description": "Basic concepts: survival functions, hazard functions, cumulative hazard functions, and censoring types. Kaplan-Meier and Nelson-Fleming-Harrington estimates. Log-rank tests. Exponential and Weibull models. Cox proportional hazards and accelerated failure time regression models. Current software and applications.",
+  "prerequisites_raw": "PSTAT 120A-B-C and PSTAT 220A.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 276",
+  "title": "ADVANCED MATHEMATICAL FINANCE",
+  "units": "4",
+  "description": "Advanced topics in asset pricing models, portfolio optimization, interest rate modeling and derivative pricing. Fundamental Theorem of Asset Pricing, Markowitz Mean-Variance Frontier, Capital Asset Pricing Theory, Monte Carlo methods and variance reduction techniques.",
+  "prerequisites_raw": "PSTAT 160A-B, PSTAT 170; PSTAT 160B may be taken concurrently. PSTAT 160A and PSTAT 170 must be completed with a B- or higher.",
+  "prerequisites_courses": [
+   "PSTAT 160A",
+   "PSTAT 170",
+   "PSTAT 160B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 277A",
+  "title": "Advanced Time Series",
+  "units": "4",
+  "description": "Advanced univariate time series methods, decomposition and prediction methods, time series regression methods and factor models and ARIMA and state space model characterization, Kalman filtering and score recursion, MIDAS regression, GLARMA models and method of scoring, Cox and Sichel models and introduction to panel regression.",
+  "prerequisites_raw": "PSTAT 274; and, PSTAT 207A or 213A or 220A.",
+  "prerequisites_courses": [
+   "PSTAT 274",
+   "PSTAT 207A",
+   "PSTAT 213A",
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 277B",
+  "title": "Advanced Time Series",
+  "units": "4",
+  "description": "Multivariate time series models, cointegration models,multivariate stochastic volatility models, multivariate timeseries regression models, quantile time series models and non-linear time series models. Mathematical treatment ofspecification, estimation and forecasting as well asapplications in R.",
+  "prerequisites_raw": "PSTAT 274; and, PSTAT 207A or 213A or 220A.",
+  "prerequisites_courses": [
+   "PSTAT 274",
+   "PSTAT 207A",
+   "PSTAT 213A",
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 296A",
+  "title": "Intro to Research in Actuarial Science",
+  "units": "4",
+  "description": "Introduction to research skills. Discussion of current research trends, writing literature reviews etc. Students will be required to present material reflecting their interests in actuarial science, which will be critically appraised for both content and presentation. Emphasis will be placed on aiding students to acquire a high-level of professionalism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 296B",
+  "title": "Research Projects in Actuarial Science",
+  "units": "4",
+  "description": "Introduction to research opportunities. Planning, organizing and managing projects; quality and time management. Students will complete projects on topics of their interest in the areas of actuarial science and financial mathematics. A written report will be required.",
+  "prerequisites_raw": "PSTAT 296A",
+  "prerequisites_courses": [
+   "PSTAT 296A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 500",
+  "title": "Teaching Assistant Practicum",
+  "units": "0",
+  "description": "Supervised teaching of undergraduate Probability and Statistics courses.",
+  "prerequisites_raw": "Appointment as teaching assistant.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 501",
+  "title": "Teaching Assistant Training",
+  "units": "0",
+  "description": "Consideration of ideas about the process of learning probability and statistics, and discussion of approaches to teaching.",
+  "prerequisites_raw": "Appointment as teaching assistant.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 502",
+  "title": "Teaching Associate Practicum",
+  "units": "0",
+  "description": "Supervised teaching of undergraduate courses.",
+  "prerequisites_raw": "Appointment as associate.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 510",
+  "title": "Readings for Area Examinations",
+  "units": "0",
+  "description": "Readings for area examinations.",
+  "prerequisites_raw": "Enrollment in M.A. or Ph.D. program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Directed reading and research.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the thesis, writing the thesis. Instructor should be the chair of the student's thesis committee.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 599",
+  "title": "Ph.D Dissertation Preparation",
+  "units": "0",
+  "description": "Ph.D dissertation preparation.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTATW",
+  "code": "PSTATW 120A",
+  "title": "Probability and Statistics",
+  "units": "4",
+  "description": "Concepts of probability; random variables; combinatorial probability; discrete and continuous distributions; joint distributions, expected values; moment generating functions; law of large numbers and central limit theorems.",
+  "prerequisites_raw": "Math 3C or Math 4A or Math 4AI or Math 6A or Math 6AI completed with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 4AI",
+   "MATH 6A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTATW",
+  "code": "PSTATW 160A",
+  "title": "Applied Stochastic Processes",
+  "units": "4",
+  "description": "Discrete probability models. Review of discrete and continuous probability. Conditional expectations. Simulation techniques for random variables. Discrete time stochastic processes: random walks and Markov chains with applications to Monte Carlo simulation and mathematical finance. Introduction to Poisson process.",
+  "prerequisites_raw": "Mathematics 4A or 4AI or 5A, Mathematics 8 or PSTAT 8, and PSTAT 120A. A minimum letter grade of C or better must be earned in each course.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 8",
+   "PSTAT 8",
+   "PSTAT 120A",
+   "MATH 4AI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTATW",
+  "code": "PSTATW 174",
+  "title": "Time Series",
+  "units": "4",
+  "description": "Stationary and non-stationary models, seasonal time series, ARMA models: calculation of ACF, PACF, mean and ACF estimation. Barlett's formula, model estimation: Yule-Walker estimates, ML method. identification techniques, diagnostic checking forecasting, spectral analysis, the periodogram. Current software and applications.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTATW",
+  "code": "PSTATW 182T",
+  "title": "Tutorial in Actuarial Statistics",
+  "units": "2",
+  "description": "Problem solving sessions to prepare students for the first four actuarial examinations. Topics corresponding to these examinations (probability, financial mathematics, statistical modeling, and risk management) will be offered in different quarters.",
+  "prerequisites_raw": "Statistics 120A",
+  "prerequisites_courses": []
+ }
+]

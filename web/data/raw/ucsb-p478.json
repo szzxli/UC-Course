@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 199",
+  "title": "Independent Study",
+  "units": "0",
+  "description": "Serious independent study in writing and literature with consenting faculty member.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 1",
+  "title": "Approaches to University Writing",
+  "units": "5",
+  "description": "Principles of critical reading, thinking, and writing in the university. Writing focuses on analysis of academic discourse and development of rhetorical strategies. Completion with a grade of C or better meets Entry Level Writing Requirement.",
+  "prerequisites_raw": "Has not completed the Entry Level Writing Requirement and received a score of 6 or lower on the Analytical Writing Placement Exam.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 1E",
+  "title": "Approaches to University Writing for Engineers",
+  "units": "4",
+  "description": "Principles of critical reading, thinking, and writing in the university. Students analyze academic discourse, develop rhetorical strategies for exposition and argument, practice examination writing, and write and revise papers.",
+  "prerequisites_raw": "Has not completed the Entry Level Writing Requirement and received a score of 6 or lower on the Analytical Writing Placement Exam.Freshmen only; open to ECE, Chemical Engineering, Mechanical Engineering, and Computer Engineering majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 2",
+  "title": "Academic Writing",
+  "units": "5",
+  "description": "A writing course focusing on developing analytical skills, synthesizing multiple sources, sustaining coherent arguments, and revising for clarity of style. Reading and writing assignments are drawn from a range of academic disciplines.",
+  "prerequisites_raw": "Satisfaction of the Entry Level Writing requirement or Linguistics 12 with a grade of \"C\" or better.",
+  "prerequisites_courses": [
+   "LING 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 2E",
+  "title": "Academic Writing for Engineers",
+  "units": "4",
+  "description": "A writing course focusing on developing analytical skills, synthesizing multiple sources, sustaining coherent arguments, and revising for clarity of style. Reading and writing assignments are drawn from a range of engineering disciplines.",
+  "prerequisites_raw": "Satisfaction of the Entry Level Writing requirement or Linguistics 12; freshmen only; open to ECE, Chemical Engineering, Mechanical Engineering, and Computer Engineering majors only.",
+  "prerequisites_courses": [
+   "LING 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 2LK",
+  "title": "Academic Writing",
+  "units": "5",
+  "description": "A writing course focusing on developing analytical skills, synthesizing multiple sources, sustaining coherent arguments, and revising for clarity of style. This course is taught in conjunction with a specified companion course in such areas as classics, music, psychology, sociology. Readings and assignments are related to the subject matter of the companion course.",
+  "prerequisites_raw": "Satisfaction of the Entry Level Writing requirement or Linguistics 12, and co-enrollment in linked companion course.",
+  "prerequisites_courses": [
+   "LING 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 18",
+  "title": "Public Speaking",
+  "units": "5",
+  "description": "Practical and historical introduction to public speaking in context (e.g., legal, political, professional). Focuses on critical rhetorical analysis of speeches. Students write and deliver original speeches while offering feedback on those of their peers. Students also write an analytical essay.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 20",
+  "title": "The Gabler Professional Writing Seminar",
+  "units": "5",
+  "description": "A cohort-based seminar focusing on the strategic habits of mind necessary for effective professional leadership and communication. Students cultivate an \"executive\" toolkit to analyze audiences, manage resources, and execute decisions within diverse professional contexts. The curriculum centers on the creation of a comprehensive Professional Capstone Portfolio, developed through interactive workshops, guest lectures, and weekly consultation with embedded peer mentors. Students emerge with a polished professional identity and a cohesive body of work demonstrating their ability to think and lead strategically.",
+  "prerequisites_raw": "Writing 1 or fulfillment of Entry Level Writing Requirement.",
+  "prerequisites_courses": [
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 24",
+  "title": "Journalism Today",
+  "units": "4",
+  "description": "Writing 24 provides an introduction to journalism and is a prerequisite for the Journalism Certificate. Students study and practice reporting and writing basics and are introduced to the history of journalism, its place in society, and journalistic law and ethics.",
+  "prerequisites_raw": "WRIT 2 or 2E or 2LK.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 28",
+  "title": "Gabler Promise Scholars Writing Seminar",
+  "units": "1",
+  "description": "The Gabler Promise Scholars Writing Seminar is for selected students in the Promise Scholars Program who will take the course each quarter of their sophomore year. The course is designed to help scholars develop strategies for writing effectively in personal/creative, academic, and civic contexts. Mentoring and support through this course is intended to support students development as writers and enhance opportunities for success at UC Santa Barbara and beyond.",
+  "prerequisites_raw": "Writing 1 or fulfillment of Entry Level Writing Requirement.",
+  "prerequisites_courses": [
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 50",
+  "title": "Writing and the Research Process",
+  "units": "4",
+  "description": "A writing course addressing the analytical skills underlying the research processes of various academic and professional communities. Sections vary in topic and disciplinary emphasis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 50E",
+  "title": "Writing and the Research Process for Engineers",
+  "units": "4",
+  "description": "A writing course addressing the analytical skills underlying the research process of academic and professional communities within engineering.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; freshmen only; open to ECE, Chemical Engineering, Mechanical Engineering, and Computer Engineering majors only.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 99",
+  "title": "Independent Studies in Writing",
+  "units": "0",
+  "description": "Independent studies in writing.",
+  "prerequisites_raw": "Lower-division standing; students must have satisfied the Subject A and Writing 2 requirements; consent of instructor.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105AI",
+  "title": "Writing and Generative AI",
+  "units": "4",
+  "description": "Study of and practice with writing and generative AI in academic, civic, and professional settings, with emphasis on strategic communication, metacognitive awareness, epistemic development, and ethical decision-making.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK ; upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105C",
+  "title": "Writing Creative Nonfiction",
+  "units": "4",
+  "description": "Course in creative nonfiction, a prose form whose practitioners consciously merge elements of traditional fiction and nonfiction. Students get extensive practice in reading and composing within this genre.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105CD",
+  "title": "Writing with Code",
+  "units": "4",
+  "description": "Design and analysis of texts that integrate both writing and coding components, such as video games, data visualizations, web documents, and interactive narratives. No prior coding experience necessary.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105CH",
+  "title": "Writing for Change",
+  "units": "4",
+  "description": "Students apply rhetorical strategies in a series of assignments designed to implement change. Emphasis on writing, speaking, and visuals as a means of effecting change across personal, academic, workplace, and civic contexts.",
+  "prerequisites_raw": "Writing 2 or 2E; upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105CR",
+  "title": "Writing for Cultural Rhetorics",
+  "units": "4",
+  "description": "Writing 105CR offers students writing practice that will serve both to advance their undergraduate work in cultural rhetorics and to prepare them for graduate level study or professional activity relating to cultural rhetorics. Students explore central issues and problems within cultural rhetorics scholarship while practicing strategies for evaluating and writing short and long papers.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105CW",
+  "title": "Writing in Community",
+  "units": "4",
+  "description": "Analysis and practice of various forms of community-based writing (such as reports and proposals) by and for local groups that promote the social good. Attention is paid to direct interaction with the community, research, metacognitive awareness, genre awareness, and writing conventions.",
+  "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK",
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105G",
+  "title": "Grammar and Stylistics",
+  "units": "4",
+  "description": "Focuses on grammar and stylistics for professional writers and editors. The emphasis is practical and analytical, attending to issues of sentence structure and semantics and stylistics, in order to become more rhetorically effective writers.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105M",
+  "title": "Multimedia Writing",
+  "units": "4",
+  "description": "Focuses on new modes of writing and publishing enabled by computer technology. Projects involve analyzing, creating, reading about, and reflecting on multimedia writing. Students create works suitable for web or other digital formats.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105P",
+  "title": "Writing and Philosophies of Language",
+  "units": "4",
+  "description": "Introduction to theories of language and communication, with concentration on linguistic structure and the conditions through which meaning is produced and transmitted incommunication situations. Students reflect on writing, and produce written research, in a related area of inquiry.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105PD",
+  "title": "Writing and Public Discourse",
+  "units": "4",
+  "description": "Introduction to writing and public discourse in local, regional, national, and global contexts through analysis of writing in civic contexts, political activism, and public policy. Students reflect on, and produce written research in a related area of inquiry.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105PS",
+  "title": "Writing for Public Speaking",
+  "units": "4",
+  "description": "Analysis and practice of writing, researching, and delivering oral presentations for various academic and professional audiences. Course efforts focus primarily on creating clear and engaging speech scripts, multimedia support, and related presentation documents.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ }
+]

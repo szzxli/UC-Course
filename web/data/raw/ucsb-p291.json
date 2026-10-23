@@ -1,0 +1,322 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 88AE",
+  "title": "Second Year Exploration Seminars",
+  "units": "1",
+  "description": "Selected topics of interest to students pursuing various degrees in the College of Letters and Science. Small group discussions which emphasize active class participation. Topics vary each quarter.",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 88AF",
+  "title": "Second Year Exploration Seminars",
+  "units": "1",
+  "description": "Selected topics of interest to students pursuing various degrees in the College of Letters and Science. Small group discussions which emphasize active class participation. Topics vary each quarter.",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 88AG",
+  "title": "Second Year Exploration Seminars",
+  "units": "1",
+  "description": "Selected topics of interest to students pursuing various degrees in the College of Letters and Science. Small group discussions which emphasize active class participation. Topics vary each quarter.",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 88AH",
+  "title": "Second Year Exploration Seminars",
+  "units": "1",
+  "description": "Selected topics of interest to students pursuing various degrees in the College of Letters and Science. Small group discussions which emphasize active class participation. Topics vary each quarter.",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 88AI",
+  "title": "Second Year Discovery Seminar: Social Innovation: Tools for Changemakers",
+  "units": "1",
+  "description": "This seminar explores the field of social entrepreneurship--work that seeks to address the worlds most intractable problems through entrepreneurial behavior and a commitment to the public good--through the lens of writing and communication. Through case studies and real world examples students will learn practical tools for effective collaboration, communication, and problem solving aimed at advancing social progress. For full seminar description go to College of Letters & Science Academic Programs website: https://www.duels.ucsb.edu/academics/seminars/list",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 88AJ",
+  "title": "Second Year Discovery Seminar: Regeneration: Exhibiting Black Cinema",
+  "units": "1",
+  "description": "This seminar revolves around a visit an Academy of Motion Pictures exhibition entitled Regeneration: Black Cinema 18981971. This exhibit serves as context for learning about the history and display of Black Cinema as both a historical legacy and contemporary context for exhibition. Students will read selections from the exhibition catalogue, and the lead curator will present a talk about it on Tuesday, March 7th. For full seminar description go to College of Letters & Science Academic Programs website: https://www.duels.ucsb.edu/academics/seminars/list",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 88AK",
+  "title": "Second Year Discovery Seminar: Asian American Intergenerational Conflict",
+  "units": "1",
+  "description": "Intergenerational conflict is a common fixture of Asian American immigrant family-life. Examine and weigh varying approaches to this topic across the social sciences and humanities, as the professor takes you through a tour of her two books on the subject. For full seminar description go to College of Letters & Science Academic Programs website: https://www.duels.ucsb.edu/academics/seminars/list",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 90M",
+  "title": "Research and Professional Development for NcNair Scholars",
+  "units": "2",
+  "description": "Introduction to research skills for faculty-mentored research projects for McNair Scholars in the sciences, humanities, and social sciences. Lectures, discussions, faculty visits and presentation of research in McNair Symposium are included.",
+  "prerequisites_raw": "Admission to McNair Scholars Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 91",
+  "title": "Interdisciplinary Issues: Special Topics",
+  "units": "0",
+  "description": "A seminar-style course examining interdisciplinary issues in various fields.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92BA",
+  "title": "ICA Baseball",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92BC",
+  "title": "Introduction to Capoeira - Brazilian Martial Art",
+  "units": "0.5",
+  "description": "An introduction to the Afro-Brazilian martial art that presents elements of self-defense, acrobatics, music, dance and ritual. Students will improve their body's physical strength, power and flexibility, as well as their mind's concentration, self-confidence, courage and creativity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92BM",
+  "title": "ICA Men’s Basketball",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92BW",
+  "title": "ICA Women’s Basketball",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92FM",
+  "title": "ICA Men’s Track & Field",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92FW",
+  "title": "ICA Women’s Track & Field",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92GO",
+  "title": "ICA Golf",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92PM",
+  "title": "ICA Men’s Swimming",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92PW",
+  "title": "ICA Women’s Swimming",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92SB",
+  "title": "ICA Softball",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92SM",
+  "title": "ICA Men’s Soccer",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92SW",
+  "title": "ICA Women’s Soccer",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92TM",
+  "title": "ICA Men’s Tennis",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92TW",
+  "title": "ICA Women’s Tennis",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92VM",
+  "title": "ICA Men’s Volleyball",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92VW",
+  "title": "ICA Women’s Volleyball",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92WM",
+  "title": "ICA Men’s Water Polo",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 92WW",
+  "title": "ICA Women’s Water Polo",
+  "units": "1",
+  "description": "Participation in Intercollegiate Athletics sport, conditioning, and weight training.",
+  "prerequisites_raw": "Only open to Intercollegiate student athletes.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 93LS",
+  "title": "Introduction to Research in STEM, Humanities, and Social Sciences",
+  "units": "0",
+  "description": "Introduction to university-level research experiences in STEM, Humanities, and Social Sciences disciplines. Students participate in project based, directed research while learning about current practices and trends. The course culminates with a group presentation and submission of findings.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 93P",
+  "title": "Presentation Techniques in Interdisciplinary University Research",
+  "units": "4",
+  "description": "Introduction to presentation techniques in interdisciplinary research for students working in research projects. Oral/poster presentation methods, elevator pitch techniques. Exposure to a variety of research projects by way of lectures given by researchers who are leaders in their fields.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 93R",
+  "title": "Introduction to Interdisciplinary University Research Techniques",
+  "units": "4",
+  "description": "Introduction to University level interdisciplinary research writing techniques for students working on research projects this summer. Abstract, introduction, research goals/methods, discussion and results. Reference style techniques. Hands-on guided research experience in laboratories and/or libraries for all disciplines.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 93S",
+  "title": "Readings and Lectures in the Social, Life, and Physical Sciences",
+  "units": "0",
+  "description": "Introductory course for students interested in research in the social, life or physical sciences. Students read papers written by and about recent research at UCSB and meet with researchers to discuss their research tools and concepts.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 95",
+  "title": "The Modern Research University: Pathways to Discovery and Creativity",
+  "units": "2",
+  "description": "Introduces students to the nature of research in the various disciplines represented at UCSB through weekly lectures by faculty artists, engineers, humanists, scientists, and social scientists speaking about their creative or scholarly research projects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

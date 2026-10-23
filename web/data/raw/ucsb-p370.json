@@ -1,0 +1,353 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 204A",
+  "title": "Graduate Musicianship I",
+  "units": "1",
+  "description": "An introduction for graduate students who fail the musicianship placement exam. 204A reviews diatonic ear-training skills and their relation to theory. All graduate students encouraged to enroll; theory/ composition students should especially consider 204 as a pedagogical study.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 204B",
+  "title": "Graduate Musicianship II",
+  "units": "1",
+  "description": "Continues skills of 204A; reviews musicianship skills for modulation. All graduate students encouraged to enroll; theory/ composision students shouldespecially consider 204B as a pedagogical study of musicianship.",
+  "prerequisites_raw": "204A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 204C",
+  "title": "Graduate Musicianship III",
+  "units": "1",
+  "description": "Continue skills of Music 204A and B; reviews musicianship skills for chromatic harmony.",
+  "prerequisites_raw": "Music 204B.",
+  "prerequisites_courses": [
+   "MUS 204B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 207A",
+  "title": "Seminar in Orchestration",
+  "units": "4",
+  "description": "Instrumental families of the orchestra.",
+  "prerequisites_raw": "Graduate standing in composition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 207B",
+  "title": "Seminar in Orchestration",
+  "units": "4",
+  "description": "Writing for full orchestra.",
+  "prerequisites_raw": "Graduate standing in composition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 208",
+  "title": "Graduate Composition",
+  "units": "4",
+  "description": "Individual instruction in composition.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209IA",
+  "title": "Direct Digital Synthesis, Processing and Composition",
+  "units": "4",
+  "description": "First quarter of general purpose computing for computer music applications. Topics include: introduction to the UNIX operating system and the vi editor, music synthesis using C-based computer programs and score input programs.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209IB",
+  "title": "Direct Digital Synthesis, Processing and Composition",
+  "units": "4",
+  "description": "Second quarter of a three-quarter sequence will concentrate on computer music instrument design using C-based music software and exploring applications of frequency modulation, amplitude modulation, additive/subtractive synthesis, digital signal processing and computer music composition.",
+  "prerequisites_raw": "Music 109IA.",
+  "prerequisites_courses": [
+   "MUS 109IA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209L",
+  "title": "Introduction to Electroacoustic Music",
+  "units": "2",
+  "description": "An introductory course on electroacoustic music. Historical perspective. Analysis of different types of electronic/acousmatic/mixed compositions. Introduction to different techniques of sound transformation.",
+  "prerequisites_raw": "CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209LA",
+  "title": "Real-Time Digital Music Synthesis, Processing and Composition",
+  "units": "2",
+  "description": "First quarter of a three-quarter sequence course will concentrate on multi-track recording, mixing, digital signal processing using micro-computers and special purpose dsp equipment.",
+  "prerequisites_raw": "Consent of instructor. Graduate music majors and graduate non-majors in areas of electrical engineering, computer science, physics, and mathematics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209LB",
+  "title": "Real-Time Digital Music Synthesis, Processing and Composition",
+  "units": "2",
+  "description": "Second quarter of a three-quarter sequence course will concentrate on digital synthesis (primarily frequency modulation, simple and complex; but also amplitude modulation and additive synthesis) using micro-computers, digital synthesizers and processing equipment.",
+  "prerequisites_raw": "Music 209LA.",
+  "prerequisites_courses": [
+   "MUS 209LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209LC",
+  "title": "Real-Time Digital Music Synthesis, Processing and Composition",
+  "units": "2",
+  "description": "Third quarter of a three-quarter sequence course will concentrate on real-time computer music composition with micro-computer and digital synthesis/processing equipment.",
+  "prerequisites_raw": "Music 209LA and 209LB.",
+  "prerequisites_courses": [
+   "MUS 209LA",
+   "MUS 209LB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209N",
+  "title": "Special Topics in Electronic Music",
+  "units": "3",
+  "description": "Advanced topics in computer music composition, synthesis, and digital signal processing.",
+  "prerequisites_raw": "Music 209LA-B-C, or Music 209IA-B-C.",
+  "prerequisites_courses": [
+   "MUS 209LA",
+   "MUS 209IA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209TA",
+  "title": "Introduction to Visual Music",
+  "units": "2",
+  "description": "Introductory course on Visual Music. Historical perspective. Introduction to Final Cut Pro, After Effects, Cinema 4D and other visual music composition software.Several short exercises will be required during the quarter.",
+  "prerequisites_raw": "Mus 211B or Mus 109IA or Mus 209IA or Mus 109LA or Mus 209LA or consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 211B",
+   "MUS 109IA",
+   "MUS 209IA",
+   "MUS 109LA",
+   "MUS 209LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 209TB",
+  "title": "Visual Music Composition",
+  "units": "4",
+  "description": "Visual Music composition. Mixing, synthesis, animation, sound-image integration. An original Visual Music composition is required after the end of the course.",
+  "prerequisites_raw": "MUS 209TA or consent of the instructor",
+  "prerequisites_courses": [
+   "MUS 209TA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 210A",
+  "title": "Software Development as a Means to Composition",
+  "units": "4",
+  "description": "First quarter of a course devoted to composition by means of software. Existing software of this nature will be demonstrated, discussed and where possible, used by students to generate compositions.",
+  "prerequisites_raw": "Consent of Instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 210B",
+  "title": "Theory and Analysis of Electroacoustic Music",
+  "units": "4",
+  "description": "Discussion of selected readings in the field. Analysis of compositions. A short analysis or aesthetics paper is required after the end of the course.",
+  "prerequisites_raw": "Mus 209L or Mus 209IA or Mus 209LA or consent of the instructor",
+  "prerequisites_courses": [
+   "MUS 209L",
+   "MUS 209IA",
+   "MUS 209LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 211A",
+  "title": "Contemporary Composition Techniques (Instrumental)",
+  "units": "4",
+  "description": "Study of different compositional techniques based on the analysis of pieces from the repertoire. Rhythm manipulation, harmonic contents, formal aspects, integration between instruments and electronics, extended techniques, gesture control, etc. A short paper explaining the application of one or more of these techniques in an original composition is required after the end of the course.",
+  "prerequisites_raw": "Passing grade on all theory placement examinations.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 211B",
+  "title": "Contemporary Composition Techniques (Electroacoustic)",
+  "units": "4",
+  "description": "Study of different compositional techniques based on sound objects transformations. Analysis of pieces from the repertoire. Synthesis, recording, mixing, sound object transformation techniques, spatialization. An original 5-8 min acousmatic/electronic music composition is required after the end of the course.",
+  "prerequisites_raw": "Mus 209L or Mus 209IA or Mus 209LA or consent of the instructor",
+  "prerequisites_courses": [
+   "MUS 209L",
+   "MUS 209IA",
+   "MUS 209LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 211C",
+  "title": "Contemporary Composition Techniques (Electroacoustic and Mixed Music)",
+  "units": "4",
+  "description": "Composition class in electroacoustic music (acousmatic/electronic/mixed). An original 5-8 min acousmatic/electronic/mixed music composition is required after the end of the course.",
+  "prerequisites_raw": "Music 211A and Music 211B",
+  "prerequisites_courses": [
+   "MUS 211A",
+   "MUS 211B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 211D",
+  "title": "Special Topics in Composition",
+  "units": "3",
+  "description": "Advanced topics in classical or contemporary composition techniques or aesthetics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 212A",
+  "title": "Advanced Counterpoint",
+  "units": "2",
+  "description": "Study of 16th or 18th century counterpoint. Compositional exercises required during the quarter.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 212B",
+  "title": "Advanced Harmony",
+  "units": "2",
+  "description": "Study of chorale, elaborated chorale, lied and other harmonization techniques. Compositional exercises required during the quarter.",
+  "prerequisites_raw": "Consent of Instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 212C",
+  "title": "Canon and Fugue",
+  "units": "4",
+  "description": "A detailed study of Bach's canons and fugues, including invertible counterpoint, stretto, triple and quadruple counterpoint, as well as extensions by later and contemporary composers. Extensive compositional exercises required.",
+  "prerequisites_raw": "Passing grade on all theory placement guidance examinations.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 219",
+  "title": "Applied Instruction",
+  "units": "2",
+  "description": "Applied vocal or instrumental instruction for graduate students other than in the performance emphasis discipline of MM and DMA degree programs.",
+  "prerequisites_raw": "Graduate standing. Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 220",
+  "title": "MM/DMA Performance Instruction",
+  "units": "4",
+  "description": "Applied instruction in the performance emphasis discipline (MM piano accompanying: instruction in piano) of MM and DMA degree programs.",
+  "prerequisites_raw": "Entrance audition for MM or DMA degree program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 222",
+  "title": "Practicum in World Music Performance",
+  "units": "0",
+  "description": "Individual or group instruction in non-Western instruments: the Indian sitar, the Middle Eastern `ud (lute) and nay (end-blown flute), and Middle Eastern percussion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 222X",
+  "title": "Practicum in World Music Performance",
+  "units": "0",
+  "description": "Individual or group instruction in non-Western instruments: the Indian sitar, the Middle Eastern `ud (lute) and nay (end-blown flute), and Middle Eastern percussion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 224",
+  "title": "Organology",
+  "units": "4",
+  "description": "A systematic study of musical instruments in world cuiltures involving classification, distribution, acoustical phenomena, and physical typo- groupings, and the role of musical instruments in the study of acculturation, historical diffusion, and aesthetics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 225",
+  "title": "Field and Laboratory Methods in Ethnomusicology",
+  "units": "4",
+  "description": "The development and execution of field research designs. Practical field experience using various techniques of data collection and management, including music recording, photography, filming, questionaires, and interviewing. The use and interpretation of standard and innovative laboratory methods for processing data, including computer analysis.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 226",
+  "title": "Notation and Transcription in Ethnomusicology",
+  "units": "4",
+  "description": "Survey of existing notational systems and exercises in ethnomusicological transcription, with particular attention to issues related to the visual representation of performed musical sound.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 227",
+  "title": "Seminar in Ethnomusicology",
+  "units": "4",
+  "description": "A graduate seminar examining special problems, current theories, analytic procedures, and recent innovations in ethnomusicology.",
+  "prerequisites_raw": "Graduate standing in ethnomusicology.",
+  "prerequisites_courses": []
+ }
+]

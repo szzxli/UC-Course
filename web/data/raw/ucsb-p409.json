@@ -1,0 +1,260 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 119L",
+  "title": "Laboratory in Neuroanatomy",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to the study of neuroanatomy, by examining the organization and connectivity of the mammalian nervous system. Topics may include: neurohistological techniques; neurology and neuropsychology; comparative neuroanatomy.",
+  "prerequisites_raw": "PSY 111 or MCDB 151 (either may be taken concurrently); open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111",
+   "MCDB 151"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 120",
+  "title": "CONSCIOUSNESS AND COGNITION",
+  "units": "4",
+  "description": "Reviews the scientific and philosophic investigation of consciousness. Topics include: the problem of consciousness, the neuroscience of consciousness, how consciousness relates to the body and the world, consciousness and evolution, the borders of consciousness, and the self and consciousness.",
+  "prerequisites_raw": "PSY 108; open to Psychological & Brain Sciences, Biopsychology, Pharmacology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 108"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 120L",
+  "title": "Laboratory in Advanced Research Methods",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to the study of psychology. The lab exposes students to sophisticated aspects of experimentation in psychology including the bases for theoretical inference, experimental designs, development of procedures and analyses.",
+  "prerequisites_raw": "PSY 102, 105, 106, or 108; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 102",
+   "PSY 105",
+   "PSY 106",
+   "PSY 108"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 121",
+  "title": "Mindfulness",
+  "units": "4",
+  "description": "An overview of theory and research from multiple perspectives on the science and practice of mindfulness. Topics may include: what mindfulness is and is not, how it can be achieved and maintained, and its consequences for cognition, performance, and well-being.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 122",
+  "title": "Neuroscience of Motivation",
+  "units": "4",
+  "description": "This course retraces the history of our understanding of motivated behaviors, from the early psychological and neuroscientific studies to the modern day. We examine how coordinated activity within specific neural circuits mediates specific psychological components of motivation. Topics may include: consummatory behaviors, appetitive behaviors, pleasure, and decision-making.",
+  "prerequisites_raw": "PSY 106; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 123",
+  "title": "Cognitive Neuroscience",
+  "units": "4",
+  "description": "An overview of theory and research in cognitive neuroscience. Material is drawn from research in psychology, clinical neurology, and the neurosciences with brain injured and healthy humans, using methods like neuroimaging, electrophysiology, and neurostimulation. Topics may include: the neural basis of memory, language, and perception.",
+  "prerequisites_raw": "PSY 106 or 111; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 124",
+  "title": "Educational Psychology",
+  "units": "4",
+  "description": "An overview of theory and research in educational psychology, examining how instruction affects student learning. Topics may include: development of learning and thinking strategies, instructional methods, learning in subject matter areas, individual differences, and classroom processes.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 125",
+  "title": "Multimedia Learning",
+  "units": "4",
+  "description": "An overview of theory and research in multimedia learning. Topics may include: exploring how people learn from words (such as spoken text or printed text) and graphics (such as pictures, diagrams, video, or animation), with a focus on evidence-based principles for designing effective multimedia presentations.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 126",
+  "title": "HORMONES AND COGNITION",
+  "units": "4",
+  "description": "Introduce students to the enormous impact hormones have on brain structure, function and cognition. Through close examination of primary source material, review articles, book chapters and popular media, we consider hormones role in shaping brain function with a life-course perspective.",
+  "prerequisites_raw": "PSY 108 and 111 (or MCDB 151); open to Psychological & Brain Sciences, Biopsychology, Pharmacology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 108",
+   "MCDB 151",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 128",
+  "title": "Thinking and Problem Solving",
+  "units": "4",
+  "description": "An overview of theory and research in thinking and problem solving in humans, examining the nature of human thought processes. Topics may include: creative problem solving, reasoning, decision making, computer simulation of thinking, meaningful learning, intelligence, expertise, mathematical thinking, and spatial thinking.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 129",
+  "title": "Perception",
+  "units": "4",
+  "description": "An overview of theory and research in perception. A variety of demonstrations are used to allow the student to experience the phenomena of perception. Topics may include: the underlying psychological and biological processes of vision, audition, olfactory, and other senses.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 129L",
+  "title": "Laboratory in Perception",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to the study of sensation and perception.",
+  "prerequisites_raw": "PSY 129 or 110A or 130 or 110B or 131 or 132; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only",
+  "prerequisites_courses": [
+   "PSY 129",
+   "PSY 130",
+   "PSY 131",
+   "PSY 132"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 130",
+  "title": "Perception: Vision",
+  "units": "4",
+  "description": "An overview of theory and research into the human performance and biological processes of visual perception. Typical topics may range from the detection of simple stimuli to the identification of objects and events.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 131",
+  "title": "Perception: Audition",
+  "units": "4",
+  "description": "An overview of theory and research into the human performance and biological processes of auditory perception. Topics may include: the physics of sound, psychophysical methods, the structure and function of the ear and auditory pathway, detection and discrimination, masking, pitch performance, musical scales, 3-D localization, and speech perception.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 132",
+  "title": "Visual Neuroscience",
+  "units": "4",
+  "description": "An overview of the biological foundations of vision, emphasizing the retina and early visual cortex. Explores how the retinal image is encoded into neural signals, focusing on the diversity of neurons, their unique responses to light, and the precise microcircuitry of neural connections. Evidence from behavioral and biological approaches will be integrated to understand how these processes underpin all visual processing.",
+  "prerequisites_raw": "PSY 111 may be taken concurrently; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 133",
+  "title": "Psychopharmacology: Psychotherapeutic Drugs",
+  "units": "4",
+  "description": "An overview of theory and research in psychopharmacology relating to therapeutic drugs. Topics may include: principles of pharmacology, neurotransmission and signaling pathways, symptoms and etiology of common mental disorders, and the biochemical, physiological, and behavioral effects of therapeutic drugs.",
+  "prerequisites_raw": "PSY 106 or PSY 111 or MCDB 126A or MCDB 126B or MCDB 126C; open to Psychological & Brain Sciences, Biopsychology, Pharmacology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111",
+   "MCDB 126A",
+   "MCDB 126B",
+   "MCDB 126C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 134",
+  "title": "Psychopharmacology: Drugs of Abuse",
+  "units": "4",
+  "description": "An overview of theory and research in psychopharmacology relating to drugs of abuse. Topics may include: principles of pharmacology, neurotransmission and signaling pathways, and the neural bases of abused drugs.",
+  "prerequisites_raw": "PSY 111 or MCDB 126; open to Psychological & Brain Sciences, Biopsychology, Pharmacology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111",
+   "MCDB 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 134L",
+  "title": "Laboratory in the Psychopharmacology of Drugs of Abuse",
+  "units": "5",
+  "description": "The Laboratory in the Psychopharmacology of Drugs of Abuse is intended to serve as a first basic training for students interested in developing a research career in behavioral pharmacology. Participating in this laboratory exposes students to the various research methods used in the field of addiction-related research and exposes students to the psychobehavioral effects produced by the major classes of drugs of abuse: psychomotor stimulants, sedative hypnotics/depressants, hallucinogens, and narcotics.",
+  "prerequisites_raw": "PSY 106 or MCDB 126A or MCDB 126B or MCDB 126C; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "MCDB 126A",
+   "MCDB 126B",
+   "MCDB 126C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 135",
+  "title": "Development and Plasticity of the Brain",
+  "units": "4",
+  "description": "An overview of theory and research in development and plasticity of the brain. Explores the major developmental events producing the organization and connectivity of the nervous system.",
+  "prerequisites_raw": "PSY 111; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 136",
+  "title": "Neurobiology of Brain States",
+  "units": "4",
+  "description": "An overview of theory and research in neurobiology of brain states. Explores the neuroanatomy and neurophysiology of a variety of brain states. Topics may include: sleep, transcendental experience, autism, depression, and schizophrenia.",
+  "prerequisites_raw": "PSY 106 or PSY 111; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 137",
+  "title": "Behavioral Endocrinology",
+  "units": "4",
+  "description": "An overview of theory and research in the roles of hormones in the regulation of behavior. Focus on the neural and/or cellular mechanisms underlying the effects of hormones on various behaviors (e.g. reproduction, ingestion, aggression, rhythmicity, and cognition).",
+  "prerequisites_raw": "PSY 106 or PSY 111; open to Psychological & Brain Sciences, Biopsychology, Pharmacology and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106",
+   "PSY 111"
+  ]
+ }
+]

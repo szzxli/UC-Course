@@ -1,0 +1,202 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225BP",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225C",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225CP",
+  "title": "Special Topics in Mechanical Engineering: Individual COMSOL projects in Thermal and Fluid Sciences",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments in one or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225CV",
+  "title": "Learning in Model Predictive Control",
+  "units": "3",
+  "description": "Explores the use of data to design safe and effective controllers, through the lens of model predictive control. Introduction to standard optimal control and model predictive control formulations, with emphasis on implementation rather than theory. Introduction to “learning model predictive control”, which then serves as a foundation for evaluating performance and safety of other common data-driven control methods (e.g. Reinforcement Learning and Imitation Learning). The course is implementation-focused through a combination of lectures and simulation-based control design activities. Experience with controls is required; experience with optimization is helpful. Prereqs: 155A or equivalent.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225D",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225E",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225ED",
+  "title": "Special Topics in ME: Bio-Inspired Design in Fluid Mechanics",
+  "units": "3",
+  "description": "Students will study evolutionary adaptation as a source for inspiration, extracting design principles to leverage the functionality, adaptability, and robustness of biological systems. The course focuses on Biologically Inspired Design in Fluids to advance student knowledge of natural strategies and facilitate quantitative analysis of the proposed solutions. Over the quarter, the students will learn how biological systems deal with fluids and the bio-inspired design process. The course includes lectures, case studies, and design activities. The final projects aim to share bio-inspired design through STEM programs for K-6 students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225EH",
+  "title": "Special Topics in Soft Robotics",
+  "units": "3",
+  "description": "Learning from the versatility and robustness of bodies in nature, robotic devices are moving away from traditional rigid form to designs that intentionally and carefully incorporate compliance. We explore this emerging paradigm of robots by 1) understanding and analytically modeling subcomponents, such as soft actuators, sensors, and bodies, 2) examining current literature and gleaning design principles, and 3) designing and fabricating in a hands-on setting. Course includes a final group project; students are expected to design, model, fabricate, and test either a subcomponent or a full soft robot. Students prepare a short academic paper based on the results of their project, potentially suitable for submission to a robotics conference.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225EM",
+  "title": "Special Topics in ME: Advanced Topics in Fluid Mechanics and Heat Transfer",
+  "units": "3",
+  "description": "Addresses topics in the Fluid Mechanics and Thermal Sciences areas that are of current interest, such as Finite Elements-based numerical modeling of engineering phenomena. Contact the instructor for more information.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225EN",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225EY",
+  "title": "Special Topics in Biological Computing",
+  "units": "3",
+  "description": "Introduces the basics of design of synthetic biological systems, including the architecture of genetic networks, circuits, and pathways controlling engineered biological function, as well as single-cell microbial behavior, and microbe population dynamics. Also provides a gentle introduction to workflows in biomolecular engineering, genetic circuit design, genomicediting, as well as principles of experimental design. An overview of various engineered and natural biological functions is provided, including multi-stability, biological oscillations, stochasticeffects in genetic circuits, robustness of circuit performance, and cellular capacity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225F",
+  "title": "Special Topics: Hydrodynamic Instability and Turbulence",
+  "units": "3",
+  "description": "Hydrodynamic instabilities and turbulent flows are ubiquitous in fluid mechanics, from natural phenomena to industrial and technological applications. The goal of the course is to provide an introduction to the transition to unstable and turbulent flows. We will discuss some classical hydrodynamic instabilities and the analytical tools available to predict their existence and the patterns generated. The second part of the class will focus on turbulence and the methods of statistical analysis available to provide a description of such flows.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225FA",
+  "title": "Special Topics: Failure Analysis",
+  "units": "3",
+  "description": "Failures leading to investigation, examination, innovation, and redesign into improved, safer, and more efficient components and structures. In this course, we will study engineering failures that have occurred across a wide range of disciplines, and examine why they happened. This includes a discussion of the fundamental engineering concepts at play (e.g. stress corrosion cracking, creep, high cycle fatigue), as well as the path by which these factors caused the disaster under study, and the ethics involved in each case.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225FB",
+  "title": "Contraction Theory for Dynamical Systems",
+  "units": "3",
+  "description": "The course provides a mathematical introduction to contraction theory for dynamical systems. Contractivity is a robust and computationally-friendly stability theory. Special emphasis is given to continuous-time differential equations arising in the study of network multi-agent systems, neural networks, gradient dynamical systems, monotone dynamics, and semi-contracting systems. The course is intended primarily for graduate students interested in nonlinear dynamical systems, control, computation and optimization.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225FE",
+  "title": "Special Topics in ME: Modeling of Flow and Heat Transfer using COMSOL Finite Elements Software",
+  "units": "3",
+  "description": "Modeling of Flow and Heat Transfer phenomena using COMSOL Finite Elements Analysis software. Introduce students to the development, implementation, and use of numerical models for the investigation and analysis of Thermal and Fluid Science phenomena and equipment. No prior experience of numerical analysis is required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225FM",
+  "title": "Fluid Mechanics and Soft Matter in Additive Manufacturing",
+  "units": "3",
+  "description": "The evolution of product design, prototyping, and industrial production is being reshaped by additive manufacturing methods. These innovative techniques play a pivotal role in minimizing material usage for manufacturing, paving the way for significant advancements. The customization potential has particularly revolutionized healthcare, while the expedited prototyping process has shortened product time-to-market and facilitates on-site repairs of essential components. This course will cover fundamental aspects of fluid mechanics and soft matter applied to some methods of additive manufacturing, such as extrusion-based processes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225G",
+  "title": "Special Topics in Mechanical Engineering: Geophysical Fluid Dynamics",
+  "units": "3",
+  "description": "Drawing from classical journal articles from the scientific literature, this graduate course will review selected mathematical models used to predict the dynamics of such geophysical flows, introduce available analytical solutions that provide useful insight in simplified cases, and numerical approaches to solve the corresponding partial differential equations and get useful insight for realistic scenarios. To best enjoy this course, a good background and enthusiasm for fluid mechanics, applied mathematics, and scientific computing is required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225H",
+  "title": "Haptics: Touch Perception, Interaction, and Engineering",
+  "units": "3",
+  "description": "Haptics lies at the intersection of robotics, human-computer interaction, and computational and human perception. The term haptics is often used to refer to science and engineering related to the sense of touch. This course introduces human haptics, including sensory specializations and touch perception. It reviews the engineering of electronic technologies for haptic (touch) feedback, emerging technologies, and the design of haptic systems for human-computer interaction, sensory substitution, virtual reality, augmented reality, and other emerging areas. The class involves a mix of readings, hands-on activities, lecture/discussion, and projects.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225HS",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments in one or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225HT",
+  "title": "Advanced Heat Transfer",
+  "units": "3",
+  "description": "Advanced treatment of fundamental aspects of heat transfer. Covers topics such as conservation laws, steady-state and unsteady-state heat conduction, convection fundamentals, mass transfer including diffusion and phase change, and basic thermal radiation. Problems and examples include theory and applications drawn from a spectrum of engineering design and manufacturing problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

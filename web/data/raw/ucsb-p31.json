@@ -1,0 +1,334 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 272",
+  "title": "Omics-enabled Biotechnology",
+  "units": "3",
+  "description": "Integrates genomic, transcriptomic, metabolomic, and proteomic approaches to quantify and understand intricate biological systems. Complementary bioinformatics approaches to curate the large datasets associated with these experiments are also discussed. Recent examples from the literature reinforce core concepts, ranging from applications to human health to the environment. By the end of the course, students should be able to design an integrated experiment that capitalizes on these omics-based approaches to enhance the scope of their research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 274",
+  "title": "Model-Guided Engineering of Biological Systems",
+  "units": "3",
+  "description": "Introduction to fundamental principles underlying synthetic biology with an emphasis on mathematical modeling of gene regulation using ordinary differential equations and mass action kinetics. Students are introduced to foundational concepts in molecular and cellular engineering, synthetic biology, quantitative modeling of various genetic circuits, as well as cutting edge applications of innovative molecular biotechnologies such as cancer immunotherapy and cell-based diagnostics. Students will also learn to design and predict the functional outcomes of synthetic gene circuits and review primary literature in the field. Graduate students enrolled will be required to submit an additional project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 299",
+  "title": "Independent Study",
+  "units": "0",
+  "description": "Independent study related to pursuit of a research project related to the field of Bioengineering under the advisement of a BioE faculty mentor.",
+  "prerequisites_raw": "Prior departmental approval needed.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 493",
+  "title": "Internship in Industry",
+  "units": "3",
+  "description": "This course is an internship experience to be carried out an external company, government, or another private organization apart from UCSB. Students will work alongside working professionals to gain applied experience and skills in industry.",
+  "prerequisites_raw": "Prior departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 596",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Experimental or theoretical research undertaken under the direction of a faculty member for graduate students who have not yet advanced to candidacy.",
+  "prerequisites_raw": "Must be a graduate student enrolled in the Biological Engineering PhD Program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 2A",
+  "title": "SPEC TOPICS IN BIO",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 2B",
+  "title": "SPEC TOPICS IN BIO",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 2C",
+  "title": "SPEC TOPICS IN BIO",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 103L",
+  "title": "LAB DEV MECHANISMS",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 150A",
+  "title": "MARINE BIOLOGY",
+  "units": "6",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 194P",
+  "title": "GRP STDS-POP ECOL",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 218",
+  "title": "ADVANCED IMMUNOLOGY",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL",
+  "code": "BIOL 245",
+  "title": "ADV POPULATION BIOL",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "AN ECOLOGY COURSE AND CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 1",
+  "title": "Models and Experiments",
+  "units": "0",
+  "description": "Interplay between models and experimentation in the development of an understanding of the principles of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 2",
+  "title": "Laboratory Project",
+  "units": "0",
+  "description": "Set up by the student in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 3",
+  "title": "Reading Project",
+  "units": "0",
+  "description": "Set up by the student in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Biology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 10",
+  "title": "Biology Colloquium",
+  "units": "0",
+  "description": "Students receiving credit will present talks in their field on material arranged in consultation with the instructor. Credit assigned by the instructor will reflect the extent and quality of participation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 12",
+  "title": "CCS Introductory Biology I",
+  "units": "0",
+  "description": "This course is supplementary to MCDB 1A. It is intended for and open only to CCS students enrolled in MCDB 1A. Students will attend MCDB 1A lectures and also meet for more in-depth consideration and analysis of the lecture materials and their broader implications.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 20",
+  "title": "CCS Introductory Biology II - Evolution and Diversity",
+  "units": "0",
+  "description": "Lecture, field and laboratory activities explore the evolutionary origin and diversification of life in a phylogenetic context, from bacteria and archaea to plants, fungi and animals.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 25",
+  "title": "Walking Biology",
+  "units": "0",
+  "description": "Field course introducing students to the ecological communities in Santa Barbara County, including oak woodlands, chaparral, coastal dune, salt marsh, sandy beach, rocky inter-tidal, and stream.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 30",
+  "title": "CCS Introductory Biology III - Ecology and Physiology",
+  "units": "0",
+  "description": "An integrative approach introduces students to fundamental concepts of population and community ecology, and to plant and animal physiology. Field and laboratory activities illustrate basic principles in ecology and physiology as they influence the distribution and abundance or organisms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 101",
+  "title": "Models and Experiments",
+  "units": "0",
+  "description": "Interplay between models and experimentation in the development of an understanding of the principles of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 102",
+  "title": "Laboratory Project",
+  "units": "0",
+  "description": "Set up by the student in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 103",
+  "title": "Reading Project",
+  "units": "0",
+  "description": "Set up by the student in consultation with the instructor, and concluding with the student's report of progress.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 104",
+  "title": "Environmental Problem Solving",
+  "units": "0",
+  "description": "Introduction to a variety of techniques for approaching environmental problems. Real-world situations are used to illustrate the process of problem solving and for thinking quantitatively and creatively about such environmental concerns as energy, water resources, food production and climate change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 105",
+  "title": "Presentation Literacy",
+  "units": "0",
+  "description": "Introduction to the major methods of presenting research results: formal talks, research papers and posters. Students will practice presenting their research in different formats for different audiences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 109",
+  "title": "Advanced Independent Research",
+  "units": "0",
+  "description": "Independent research on an original subject under faculty supervision carried out in a biology faculty research group. These advanced projects will attempt reseach of publishable quality; generally resulting in the preparation of a written report or manuscript for publication.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOL CS",
+  "code": "BIOL CS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in biology with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 1",
+  "title": "Introduction to African-American Studies",
+  "units": "5",
+  "description": "Explores historical and current social conditions of Black people in the United States. Topics include the following: origins of Black Studies; chattel slavery and resistance; Reconstruction; Jim Crow segregation; Harlem Renaissance; Black Nationalism; structural racism and anti-Blackness; Civil Rights and Black Power Movements; racial wealth gap; critical race theory and Neo-liberalism; carcerality and the prison industrial complex; white privilege and rage; and the intersection of race, gender, class, and sexuality in shaping Black identity and life chances. As a 5 unit course, BLST 1 is reading and writing intensive, with a focus on developing research skills through a Black Studies lens.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 1H",
+  "title": "Introduction to African-American Studies- Honors Seminar",
+  "units": "1",
+  "description": "Seminar course for select group of students participating in the College Honors program designed to enrich the large lecture experience. Additional assignments and rigorous discussion of readings. Intended for highly motivated and well-prepared students actively engaged in critical thought.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 1; consent of the instructor.",
+  "prerequisites_courses": [
+   "BL ST 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 2",
+  "title": "Global Blackness: Race, Repair and Reparation",
+  "units": "5",
+  "description": "Discusses historical and contemporary conditions of Black and racialized communities living under economic and militarized oppression in a global perspective. Texts, films and lecture presentations foregrounds the critical role of Black subjects in the expansion of global capitalism. Explores current global conditions of Black and racialized communities living under militarized and economic apartheid. Spotlights the role of culture in shaping struggles of Black communities around the world for self-determination, the (im)possibilities of colonial repair and collective demands for reparation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 3",
+  "title": "Introduction to African Studies",
+  "units": "5",
+  "description": "A survey of the subject matter, themes, and methods of African Studies. While briefly surveying the prehistory and early states of Africa, the course focuses on the culture and society of the colonial and independence eras.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

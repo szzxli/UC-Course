@@ -1,0 +1,288 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 197A",
+  "title": "Honors Research in Psychological & Brain Sciences",
+  "units": "4",
+  "description": "Independent study under supervision of faculty member, involving either design and execution of independent research project or scholarly analysis and critique of theoretical and research literature pertaining to substantial issues. Honors thesis qualifies student for distinction in major upon graduation.",
+  "prerequisites_raw": "Full major status, at least 3 finalized UD PSY courses (12 units) on record, at least a 3.5 UD PSY GPA, and an agreement with a faculty mentor to supervise a research project.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 197B",
+  "title": "Honors Research in Psychological & Brain Sciences",
+  "units": "4",
+  "description": "Independent study under supervision of faculty member, involving either design and execution of independent research project or scholarly analysis and critique of theoretical and research literature pertaining to substantial issues. Honors thesis qualifies student for distinction in major upon graduation.",
+  "prerequisites_raw": "PSY 197A and Department approval",
+  "prerequisites_courses": [
+   "PSY 197A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 197C",
+  "title": "Honors Research in Psychological & Brain Sciences",
+  "units": "4",
+  "description": "Independent study under supervision of faculty member, involving either design and execution of independent research project or scholarly analysis and critique of theoretical and research literature pertaining to substantial issues. Honors thesis qualifies student for distinction in major upon graduation.",
+  "prerequisites_raw": "PSY 197B and Department approval",
+  "prerequisites_courses": [
+   "PSY 197B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 198",
+  "title": "Readings in Psychological & Brain Sciences",
+  "units": "0",
+  "description": "Readings in psychological and brain sciences under the guidance of a faculty member in the department. Students wishing to enroll should prepare a short plan of study.",
+  "prerequisites_raw": "Open to Psychological and Brain Sciences, Biopsychology and Interdisciplinary Studies majors only; upper-division standing; completion of 2 upper-divison courses in psychology; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 199",
+  "title": "Independent Research in Psychological & Brain Sciences",
+  "units": "0",
+  "description": "Advanced independent research under the guidance of a faculty member in the department, including writing a research report or review.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-divison courses in psychology; consent of department; one quarter of Psychology 99P or 199P.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 199P",
+  "title": "Independent Research in Psychological & Brain Sciences",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member in the department.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in psychology; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 202",
+  "title": "Advanced Social Psychology",
+  "units": "4",
+  "description": "An intensive consideration of concepts, theories, and major problems in social psychology. Topics covered include both intrapersonal processes including the self, social perception, attitudes, persuasion, motivation, emotion and interpersonal processes including social influence, groups, prejudice, stereotyping, health, close relationships, and culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 210",
+  "title": "Motivation in Social Psychology",
+  "units": "4",
+  "description": "Examine motivational theories and approaches within social psychology. Topics include theory and research on intrinsic/extrinsic motivation, approach/avoidance motivation, goals, motivated social cognition, self motivations, and motivation from a cultural perspective. The course will also examine the application of these motivational approaches to social issues.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 211",
+  "title": "Basic Concepts in Behavioral Neuroscience",
+  "units": "4",
+  "description": "Intended to provide fundamental understanding of neuroscience and behavior for graduate students at the beginning of their studies. Provides a broad overview of brain function with focus on the molecular, cellular, system, and behavioral level of analysis in order to instill a comprehensive appreciation of the biological mechanisms important to behavior.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 215",
+  "title": "Neuropharmacology of Psychoactive Drugs",
+  "units": "4",
+  "description": "An examination of the pharmacological and neurochemical mechanisms influencing the actions of psychoactive drugs.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 221A",
+  "title": "Design and Measurement",
+  "units": "4",
+  "description": "Experimental design and statistical analysis in psychological research. Includes basic probability, sampling and distribution theory, hypothesis testing, and estimation.",
+  "prerequisites_raw": "Graduate standing in Psychological & Brain Sciences",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 221B",
+  "title": "Design and Measurement",
+  "units": "4",
+  "description": "Experimental design and statistical analysis in psychological research. Analysis of variance and related topics.",
+  "prerequisites_raw": "Graduate standing in PBS; Psychology 221A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 221C",
+  "title": "Multivariate Analysis in Psychology and Related Social Sciences",
+  "units": "4",
+  "description": "The use in psychology of the general linear model, multiple regression, discriminant function analysis, factor-analysis, and prinicipal components analysis.",
+  "prerequisites_raw": "Graduate standing in PBS; Psychology 221A-B.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 221D",
+  "title": "Structural Equation Modeling",
+  "units": "4",
+  "description": "Theory and methods of structural equation modeling including path analysis, confirmatory factor analysis, and latent variable structural models. Course emphasizes application and includes hands-on experience with computer programs such as AMOS and EQS.",
+  "prerequisites_raw": "Psychology 221A-B-C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 221E",
+  "title": "Statistical Analysis of fMRI Data",
+  "units": "4",
+  "description": "Experimental design and statistical analysis in fMRI research. Linear and nonlinear models of the hemodynamic response function, the general linear model in fMRI analysis, post hoc testing, group testing with the random effects model, and connectivity analysis.",
+  "prerequisites_raw": "Psychology 221A and Psychology 221B; graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 221F",
+  "title": "Computational Neuroscience",
+  "units": "4",
+  "description": "A lecture-based course surveying computational neuroscience, focusing on mathematical models and theoretical analysis to understand brain function. The course explores computational principles across different brain areas, including the visual cortex (object recognition), auditory cortex (spiking models), hippocampus (learning & memory), hippocampal-entorhinal complex (spatial navigation), basal ganglia (reinforcement learning), and prefrontal cortex (decision making).",
+  "prerequisites_raw": "PSY 221A-B.",
+  "prerequisites_courses": [
+   "PSY 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 226",
+  "title": "Cognitive Development",
+  "units": "4",
+  "description": "Discusses the concept of cognitive development, its psychobiological basis, and representative psychobiological, information processing, Piagetian, and linguistic theories of cognitive development.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 227",
+  "title": "Human Memory and Cognitive Processes",
+  "units": "4",
+  "description": "Survey of theoretical approaches and empirical findings in the areas of learning, memory, psycholinguistics, and cognitive processing. Topics include structure and process models of memory, nature of the information-processing approach, and related experimental methodology and findings.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 228",
+  "title": "Perception",
+  "units": "4",
+  "description": "Analysis of psychophysical relations in sensory processes with stress on detection, scaling, discrimination, spatial and temporal resolution, and the interaction of cue systems in perceptual behavior.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 231",
+  "title": "Cognitive Neuroscience",
+  "units": "4",
+  "description": "Examination of the neurological basis of cognition with material drawn fromresearch in psychology, neurology and the neurosciences with brain injured and healthy human and non-human subjects. Topics include memory, language, and perception.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 232",
+  "title": "Neuroimaging",
+  "units": "4",
+  "description": "Introduces students to the theoretical and practical issues involved in conducting functional magnetic resonance imaging (fMRI) experiments. Content includes basic MR physics, physiology of the BOLD signal, experimental design, image processing, statistical analysis, and brain mapping.",
+  "prerequisites_raw": "Graduate standing in Psychology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 233",
+  "title": "Electroencephalography",
+  "units": "4",
+  "description": "An examination of the use of electroencephalography (EEG) to understand the neural mechanisms of cognition and perception. Topics include the neural basis of the EEG signal, methods of acquisition, experimental design, analysis, and interpretation.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 234",
+  "title": "Computer Programming For Experimental Psychologists",
+  "units": "4",
+  "description": "There are two main goals of this course: 1) expose students to the fundamental principles of computer programming and 2) apply the fundamentals principles to the control and analysis of cognitive neuroscience and psychology experiments. Emphasis is placed on practical application of programming skills, including designing and coding experimental and analysis programs using development platforms such as MATLAB.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 235",
+  "title": "Neuroendocrinology",
+  "units": "4",
+  "description": "Focus on the regulation of hormone secretion by the central nervous system and on the neural mechanisms underlying hormonal effects on the behavior/physiology of the whole organism.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 237",
+  "title": "Cognition",
+  "units": "4",
+  "description": "An in-depth analysis of advanced topics in human cognition. The course willinclude discussion of the cognitive processes involved in areas such as human thinking, problem solving, memory, and learning.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 238",
+  "title": "Social Perception",
+  "units": "4",
+  "description": "Review of current research in person perception, social categorization, andsocial judgment.",
+  "prerequisites_raw": "Graduate standing in psychology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 239",
+  "title": "The Social Psychology of Intergroup Relations",
+  "units": "4",
+  "description": "Surveys the major social_psychological theories of intergrouprelations and the social psychologicalprocesses that facilitate intergroup conflict and its reduction.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 245",
+  "title": "Cultural Psychology",
+  "units": "4",
+  "description": "Review of research on cultural influences on psychological processes. Examines theoretical and methodological foundations of cultural research in psychology. Also discusses the effects of culture-specific assumptions, practices, and institutions on human cognition, motivation, emotion, and social interaction.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ }
+]

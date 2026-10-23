@@ -1,0 +1,245 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 40",
+  "title": "Young Humans: Introduction to Childhood Studies",
+  "units": "4",
+  "description": "An introduction to interdisciplinary approaches to understanding and analyzing childhood and youth, including history of childhood, and childrens literature research, this course considers the role of childhood in human life, its construction across different periods and regions, different disciplinary perspectives on childhood, and contemporary approaches to deepening the understanding of children and their own views. By examining key critical texts, it considers childhood through multiple disciplinary perspectives, as well as childrens own co-creation of the performance of childhood and childrens voice, agency, activism, and rights.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 43A",
+  "title": "Dreaming Revolutions: Introduction to Marx, Nietzsche, and Freud",
+  "units": "5",
+  "description": "Introduction to the revolutionary theories of Karl Marx, Friedrich Nietzsche, and Sigmund Freud. Explorations of three authors whose writing has profoundly changed our world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 50",
+  "title": "Love in the Western World, from Plato to Dating Apps",
+  "units": "5",
+  "description": "From ancient Eros to the divine union of mystics, from medieval chivalry to romantic passion and the scientific study of sexuality, Western societies have been reinventing the meaning and experience of love. These reinventions offer an insight into the arrangements, needs, and purposes of these societies. The course proposes to investigate how, why, and to what end a social order defines and understands love at a particular historical junction. Readings include Plato and Neoplatonism, the Christian Gospel, medieval mysticism, romances of chivalry, Renaissance theatre and poetry, the romantic novel, and contemporary culture.",
+  "prerequisites_raw": "Writing 2",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 50A",
+  "title": "Tales of Love in the Western Tradition",
+  "units": "5",
+  "description": "A comparative and interdisciplinary approach to the literatures and philosophies of love, desire, and sexuality in the western world, in antiquity, the Middle Ages, and the Renaissance. In English.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 50B",
+  "title": "Tales of Love in the Western Tradition",
+  "units": "5",
+  "description": "A comparative and interdisciplinary approach to the literatures and philosophies of love, desire, and sexuality in the western world in the 17th and 18th centuries. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 50C",
+  "title": "Tales of Love in the Western Tradition",
+  "units": "5",
+  "description": "A comparative and interdisciplinary approach to the literatures and philosophies of love, desire, and sexuality in the western world in the 19th and 20th centuries. In English.",
+  "prerequisites_raw": "Writing 2.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 50H",
+  "title": "Tales of Love Honors",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors seminar, which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in Comparative Literature 50A or 50B or 50C; honors students only; consent of instructor.",
+  "prerequisites_courses": [
+   "C LIT 50A",
+   "C LIT 50B",
+   "C LIT 50C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 52",
+  "title": "Culture and Revolution in the Americas",
+  "units": "5",
+  "description": "What is a revolution? What do art and literature tell us about revolutionary movements and the hopes, promises, and memories associated with them? This course will examine these questions focusing on some of the major revolutionary episodes in the history of the Americas: the Haitian Revolution (1791-1804), the Wars of Independence in Spanish America (1810-1824), the Mexican Revolution (1910-1920), and the Cuban Revolution (1959). Through the analysis of artistic and literary pieces across various genres and media, we will delve into topics such as identity, liberty, governance, legitimacy, violence, trauma, and the construction of history. Taught in English. There may be a discussion section in Spanish depending on the enrollment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 60",
+  "title": "Introduction to Disability Studies",
+  "units": "4",
+  "description": "Focus on the common representations of the disabled bodies and minds in historical perspectives, theories of disability and culture, and disability in literature, art, the media, and medicine. Content will vary according to instructors.",
+  "prerequisites_raw": "No prerequisites",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 82",
+  "title": "Modern Chinese Literature",
+  "units": "5",
+  "description": "This course, taught in English, surveys an archive of seminal short fiction, novellas, novels, and poems that tell the story of China and the Chinese from the end of the Qing dynasty to the present. What has been the place of literature in China in the modern era? What vision of modern China do we find in its literature? How, moreover, does literature subvert the national narrative? Through literature as a window on the history of modern China, students gain a better understanding of Chinese history and culture with regard to its social reform, revolution, war, cultural revolution, cultural revival, and economic growth.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 99",
+  "title": "Independent Study",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member in the program. Course offers motivated students the opportunity to undertake independent research or work in a research group.",
+  "prerequisites_raw": "8 units from any Comparative Literature courses numbered 30 to 36; minimum 3.0 cumulative GPA; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 100",
+  "title": "Introduction to Comparative Literature",
+  "units": "4",
+  "description": "Focus on various practices and methodologies of Comparative Literature as a cross-disciplinary and transnational endeavor, including recent developments and debates on translation studies and world literature in an era of cultural globalization. Content will vary with instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 101",
+  "title": "Introduction to Literary and Critical Theory",
+  "units": "4",
+  "description": "How does critical theory help us to read and write literature? Potential foci include structuralism, semiotics, social theory, psychoanalysis, deconstruction, cultural criticism, gender studies and feminism, queer studies, postcolonial criticism, ecocriticism. Content will vary with instructor.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 102A",
+  "title": "Introduction to Translation I",
+  "units": "4",
+  "description": "Comprises topics necessary to develop skills that are needed for writing at a specialized level and to carry out written translation into and from Spanish, mostly texts on business and medical topics.",
+  "prerequisites_raw": "Spanish 25 OR Spanish 16B.",
+  "prerequisites_courses": [
+   "SPAN 25",
+   "SPAN 16B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 102B",
+  "title": "Introduction to Interpreting",
+  "units": "4",
+  "description": "Comprised of topics necessary in developing skills for interpretation to and from Spanish. Intended mostly for proficient Spanish-language speakers.",
+  "prerequisites_raw": "Spanish 25 OR Spanish 16B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 25",
+   "SPAN 16B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 102C",
+  "title": "Specialized Translation - Technical",
+  "units": "4",
+  "description": "Comprised of topics necessary in developing skills for writing at a specialized level, and with specialized vocabulary and format, for the translation of different types of technical texts (instruction manuals, medical, patents, etc.).",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 103",
+  "title": "Going Postal: Epistolary Narratives",
+  "units": "4",
+  "description": "Investigates reappearance of the letter-novel at particular historical moments, and paradoxes built into the letter-form itself. Range of works emphasizing eighteenth- and later twentieth-century novels, likely works by Austen, Goethe, Hoffman, James, Montesquieu, Choderlos de Laclos, Lydia Davis, Pynchon.",
+  "prerequisites_raw": "Writing 2 or 50 or 109 or English 10 or upper-division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 106",
+  "title": "Lusophone Cityscapes: Cultures, Histories, and Urban Imaginaries",
+  "units": "4",
+  "description": "This course examines the urban landscapes of cities in the Portuguese-speaking world across Europe, Africa, Asia, and the Americas, exploring their histories, cultural productions, and evolving identities. From Lisbon to Luanda, Rio de Janeiro to Maputo, and Goa to Dili, we delve into the architecture, literature, music, and cinema that shape these urban centers. Themes include colonial and postcolonial transformations, social inequality, migration, and the intersection of urban life with environmental challenges. Students will analyze how cityscapes serve as spaces of memory, resistance, and creativity, revealing the complexities of urban life across this interconnected planetary network. Taught in English",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 106E",
+  "title": "Survey of Brazilian Literature from its Beginnings to the Present",
+  "units": "4",
+  "description": "A survey of the main works of literature produced in Brazil and about Brazil from its beginnings up to the present. Involves travel literature about Brazil, written in the sixteenth century, at the time of its discovery, as well as the literature produced in Brazil up to the present, represented by significant authors and periods. Designed to give the student a historical, cultural and literary context, a chronological panel, in order to prepare the student for more specific and focused courses within the area of Portuguese. Also prepares the student for the understanding of cultural contexts in order to apply the knowledge acquired in this survey to other fields of interest. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 107",
+  "title": "Voyages to the Unknown",
+  "units": "4",
+  "description": "The impact of the voyages of discovery on late 15th and 16th century Europe. Readings on real and imaginary voyages: Columbus, Cartier, Lery, More, Rabelais, Montaigne.",
+  "prerequisites_raw": "Writing 2 or equivalent.",
+  "prerequisites_courses": [
+   "WRIT 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 108",
+  "title": "Crossreadings : French and Italian Cultures in Dialogue and Translation",
+  "units": "4",
+  "description": "Ever since the Renaissance, when the notion of a national culture had taken hold, the historic, literary and intellectual trajectories of France and Italy have been intimately entangled. Taking a chronological approach from the Renaissance to the post-modern period, this course will embark on a number of comparative readings from these two countries: from Rabelais carnivalesque uptake of Boccaccios humor and vulgarity; to Italys attempt at emulating the French Revolution; to Giuseppe Ungarettis debt to avant-garde literary figures, and more. Our goal will be to reveal that cultures and intellectual traditions exist not in isolation but emerge out of a perpetual conversation withand translation ofeach other. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 109",
+  "title": "Game and Literature",
+  "units": "4",
+  "description": "An interdisciplinary inquiry into the motive of game in 18th-20th century literature. Focus is on the moral, psychological and epistemological dimensions of game according to both form and function. Considerations of the stylistic, narrative and rhetorical components of texts.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

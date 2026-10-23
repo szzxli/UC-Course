@@ -1,0 +1,297 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 84",
+  "title": "Internship in Biological Sciences",
+  "units": "0",
+  "description": "Opportunity to obtain practical biological-related research experience by working under faculty direction as an intern with local, state, federal, or private agencies. A written report will be submitted for evaluation.",
+  "prerequisites_raw": "Lower-division standing; instructor and departmental approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 90A",
+  "title": "Honors Forum in Molecular, Cellular, Developmental Biology",
+  "units": "2",
+  "description": "Seminar for selected students in molecular, cellular, and developmental biology. Students will be introduced to research opportunities in the department. Focus will center on the use of the science library and the internet as tools to produce a basic research paper.",
+  "prerequisites_raw": "Honors standing in College of Letters and Science and consent of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 90B",
+  "title": "Honors Forum in Molecular, Cellular, Developmental Biology",
+  "units": "2",
+  "description": "Continuation of MCDB 90A. Students are introduced to various faculty in thedepartment and begin reading and reviewing some of the original literature in the field. Students are expected to critically analyze basic research papers.",
+  "prerequisites_raw": "Honors standing in College of Letters and Science and consent of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 90C",
+  "title": "Honors Forum in Molecular, Cellular, Developmental Biology",
+  "units": "2",
+  "description": "Continuation of MCDB 90B. Students meet with selected faculty in a defined area of research interest, attend various research seminars and laboratory meetings, and begin involving themselves with a research group.",
+  "prerequisites_raw": "Honors standing in College of Letters and Science and consent of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 92",
+  "title": "Special Topics in Biology",
+  "units": "0",
+  "description": "Special topics in molecular, cellular, and developmental biology. Course content varies. Information may be obtained in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 98",
+  "title": "Readings in Biology",
+  "units": "0",
+  "description": "Special readings on selected topics in biology. Individual conferences one hour every week. Designed to broaden the outlook and experience of advanced lower-division students. Hours and credit by arrangement with any member of the staff.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Laboratory experience for advanced lower-division students. Hours and credit by arrangement with any member of the staff.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 101A",
+  "title": "Molecular Genetics I: Prokaryotes",
+  "units": "4",
+  "description": "From the double helix and genetic code to the latest breakthroughs. Structure, function, evolution and manipulation of DNA, RNA. Replication, expression, recombination, complementation, and their regulation in prokaryotes (bacteria, plasmids, viruses). Recombinant DNA technology in medicine, research, agriculture and industry.",
+  "prerequisites_raw": "MCDB 1A-B, EEMB 2; and, Chemistry 1A-B-C; completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "CHEM 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 101AH",
+  "title": "Molecular Genetics I: Prokaryotes - Honors",
+  "units": "1",
+  "description": "Honors section designed to permit an in-depth analysis of topics relating to genetics.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 101A; consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 101B",
+  "title": "Molecular Genetics II: Eukaryotes",
+  "units": "4",
+  "description": "Mendelian and molecular genetics. Replication, recombination, transmission and expression of DNA in eukaryotic organisms from yeast to man. Uses of traditional genetics and modern molecular techniques, including molecular genetic approaches to the study of human disease.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and MCDB 101A. Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 101BH",
+  "title": "Molecular Genetics II: Eukaryotes - Honors",
+  "units": "1",
+  "description": "Honors section designed to permit an in-depth analysis of topics relating to genetics.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 101B; consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 101B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 101L",
+  "title": "Molecular Genetics Laboratory",
+  "units": "4",
+  "description": "Current molecular genetics techniques used to study model organisms. Module1 - Forward genetics: Mutagenesis and genetic mapping of mutants using single nucleotide polymorphisms, classical Mendelian inheritance. 2) Reverse genetics: gene knockdown by RNAi. 3) Genetic analysis of cell signaling. 4) Cellular reprogramming using transgenic strains. Techniques: PCR, gel electrophoresis, Computer based sequence analysis, fluorescence and light microscopy and imaging. Experiments are based on ongoing research at UCSB. Students get to design their own experiment in final module.",
+  "prerequisites_raw": "MCDB 101A-B or EEMB 129; MCDB 101B may be taken concurrently. Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 101A",
+   "EEMB 129",
+   "MCDB 101B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 103",
+  "title": "Cell Biology",
+  "units": "4",
+  "description": "An introduction to the structure and function of cell organelles; membranes, nucleus, mitochondria, chloroplasts, endoplasmic reticulum, golgi apparatus, lysosomes, microbodies, microtubules, cilia, centrioles, and microfilaments.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B. Completion of all listed prerequisites wita grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 103H",
+  "title": "Cell Biology - Honors",
+  "units": "1",
+  "description": "The overall goal of MCDB 103H is to extend the concepts covered in MCDB 103 and apply them to the context of research. For each selected topic, students read a short review article in the first week which provides the historical background and current consensus, followed by a landmark research article in the following week. The course is in the format of journal club with an emphasis on open discussion. Each week, a group of students give an oral presentation and lead class discussion.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 103; consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 103L",
+  "title": "Laboratory in Molecular Cell Biology",
+  "units": "4",
+  "description": "Laboratory techniques of modern cell biology; molecular dissection of cell structure and function.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B, and MCDB 103 (may be taken concurrently). Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "MCDB 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 108A",
+  "title": "Biochemistry - Structure and Function of Macromolecules",
+  "units": "4",
+  "description": "Introduction to the structures and functions of proteins, including enzymes, with emphasis on their basic architecture and biological mechanisms of action and regulation. Methods used for characterizing proteins and analyzing enzyme kinetic data are also emphasized.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B; and Chemistry 1A-B-C; and Chemistry 109A-B-C (Chem 109C may be taken concurrently). Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "CHEM 1A",
+   "CHEM 109A",
+   "CHEM 109C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 108AH",
+  "title": "Biochemistry - Structure and Function of Macromolecules - Honors",
+  "units": "1",
+  "description": "Honors component of MCDB 108A or W108A designed to permit an in-depth consideration of selected aspects of the structure/function relationships of proteins and nucleic acids.",
+  "prerequisites_raw": "MCDB 108A or MCDB W 108A (may be taken concurrently). Consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB W 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 108B",
+  "title": "Biochemistry - Bioenergetics, Enzymology, and Metabolism",
+  "units": "4",
+  "description": "Principles of human energy metabolism. Chemistry and physiology of the major metabolic pathways of energy production. Metabolic interrelationships of the major body organs. Applications to human nutrition and disease, exercise, starvation, obesity, and atherosclerosis.",
+  "prerequisites_raw": "MCDB 108A or MCDB W 108A with a grade of C or better.Chem 109C with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB W 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 108C",
+  "title": "Biochemistry - Computational & Systems Biology",
+  "units": "4",
+  "description": "Models of Biochemical and Cellular Systems. Introductory systems-biology approach to model the design and the function of biological systems. Students will develop an intuition about physical concepts that are fundamental to discuss how biological organisms acquire and process information from the environment. Those concepts and tools will cover probabilities and basic dynamical systems theory. Students will build models of processes of increasing complexity, ranging from viral dynamics, bacterial resistance to drugs, the maintenance of homeostatic equilibrium (trp operon), biological oscillators (mitotic clock) and genetic switches underlying cellular decisions (bacteriophage lambda and lac operon).",
+  "prerequisites_raw": "MCDB 108A-B with a grade of C or better or MCDB W 108A and MCDB 108B with a grade of C or better; Physics 6A-B-C with minimum grade of C (Physics 6C may be taken concurrently); Math 34A-B with a grade of C or better or Math 3A-B with a grade of C or better or Math 2A-B with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB W 108A",
+   "MCDB 108B",
+   "PHYS 6A",
+   "PHYS 6C",
+   "MATH 34A",
+   "MATH 3A",
+   "MATH 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 109L",
+  "title": "Laboratory in Biochemistry",
+  "units": "4",
+  "description": "Laboratory techniques in biochemistry. Focus will be on contemporary biochemical techniques used in biomedical research including the analysis of proteins, recombinant DNA expression and protein purification, enzyme regulation, steady-state kinetic analysis and metabolic control. Emphasis will be on both theoretical and practical aspects.",
+  "prerequisites_raw": "MCDB 108A or MCDB W 108A; and MCDB 108B; and MCDB 1A-1B. Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB W 108A",
+   "MCDB 108B",
+   "MCDB 1A",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 110",
+  "title": "Principles of Biochemistry",
+  "units": "4",
+  "description": "An introduction to molecular structures and mechanisms of living systems.",
+  "prerequisites_raw": "Chemistry 1A-B-C; and Chemistry 109A-B. Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 111",
+  "title": "Human Physiology",
+  "units": "4",
+  "description": "Fundamentals of human physiology at the molecular, cellular and organismal levels. Emphasis on homeostatic mechanisms regulating intercellular communication, muscle function, circulation, metabolism and body fluid balance/composition.",
+  "prerequisites_raw": "MCDB 1A, and EEMB 2 and MCDB 1B with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 111H",
+  "title": "Human Physiology - Honors",
+  "units": "1",
+  "description": "Honors section designed to permit an in-depth analysis of topics relating to fundamentals of human physiology at the molecular, cellular and organismal levels. Emphasis on homeostatic mechanisms regulating intercellular communication, muscle function, circulation, metabolism and body fluid balance/composition.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 111; consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 111"
+  ]
+ }
+]

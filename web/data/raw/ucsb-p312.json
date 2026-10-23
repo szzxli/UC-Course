@@ -1,0 +1,282 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 123",
+  "title": "Korean War in Literature and Film",
+  "units": "4",
+  "description": "Examines the representations of the Korean War in transnational literature and film. All reading, viewing, and listening material will be available in English translation.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 139",
+  "title": "Contemporary Korean Cinema",
+  "units": "4",
+  "description": "Explores a range of contemporary South Korean films. Different genres and major directors are studied against the backdrop of the nation's dramatic socio-political changes, with particular emphasis on such issues as youth culture, violence, gender, subjection, and nationhood.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 142",
+  "title": "Introduction to Popular Korean Melodrama",
+  "units": "4",
+  "description": "A literary survey of popular TV broadcasts focusing on historical dramas, romance, and melodrama based on screenplays, their readings, and translations. Designed for the advanced student interested in how to write scenarios, analyze plots, themes, and characters.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 152",
+  "title": "Cultures of Protest in South Korea",
+  "units": "4",
+  "description": "This course engages with diverse medialiterature, music, film, digital mediato explore how culture is mobilized as an active site of protest in South Korea. All reading, viewing, and listening material will be available in English translation.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 153",
+  "title": "Korean Popular Culture",
+  "units": "4",
+  "description": "This course engages with diverse media—literature, music, film, digital media—as active sites of cultural production, distribution, and consumption in modern and contemporary Korea. All reading, viewing, and listening material will be available in English translation.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 175",
+  "title": "Introduction to Popular Culture in Korean Film and TV Dramas",
+  "units": "4",
+  "description": "A survey of popular Korean cinema from 1990s to present. Focuses on a select number of award winning/block buster films by major directors in the most popular genres including War films, Cold-War espionage films, gangster films, and popular TV dramas.",
+  "prerequisites_raw": "upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 181",
+  "title": "Special Topics in Korean Studies",
+  "units": "4",
+  "description": "Special Topics in Korean Studies. Course content varies.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 182A",
+  "title": "Korean History and Civilization: Part I",
+  "units": "4",
+  "description": "A survey history of Korea from prehistoric to the Yi dynasty. Topics include the rise of states and kingship, the introduction of Buddhism, cultural interaction with China, Japan, the Mongols, the foundations of Confucian Society and women's history.",
+  "prerequisites_raw": "History 80 or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 182B",
+  "title": "Korean History and Civilization Part II",
+  "units": "4",
+  "description": "A survey of the history of Korea from the late Yi dynasty to the Korean War. Focus on Korea's diplomatic, cultural and economic interactions with the West and the neighboring countries, especially China and Japan.",
+  "prerequisites_raw": "History 80 or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 80"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 198",
+  "title": "Readings in Korean",
+  "units": "0",
+  "description": "Guided reading in Korean on a subject not covered in the regularly offered courses.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Korean. Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR",
+  "code": "KOR 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Individual investigations in literary fields.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division Korean courses; one of those two courses taken with the instructor for KOR 199; GPA for those two courses 3.5 or higher",
+  "prerequisites_courses": [
+   "KOR 3",
+   "KOR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR W",
+  "code": "KOR W 1",
+  "title": "First Year Korean",
+  "units": "5",
+  "description": "KOREAN 1 is the first part of First Year Korean and is designed for students with no prior background in Korean. This course introduces the Korean writing system (Hangul), pronunciation, and essential grammar and vocabulary for basic communication. Students will learn to understand, speak, read, and write short sentences and paragraphs on familiar topics such as self-introduction, school and classes, daily activities, and past experiences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR W",
+  "code": "KOR W 2",
+  "title": "First Year Korean",
+  "units": "5",
+  "description": "KOREAN 2 is the second part of First Year Korean. This course aims to train students to perform appropriate spoken and written communication in most essential daily life situations. This course will focus on introducing Korean sounds, writing system, and basic vocabulary and grammar used in carrying out simple tasks; students will learn how to speak, understand, read and write short sentences and paragraphs on concrete and familiar topics such as self-introduction, school and classes, daily activities, past experiences and future plans.",
+  "prerequisites_raw": "KOR 1 or KOR W 1",
+  "prerequisites_courses": [
+   "KOR 1",
+   "KOR W 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR W",
+  "code": "KOR W 3",
+  "title": "First Year Korean",
+  "units": "5",
+  "description": "KOREAN 3 is the third part of First Year Korean. This course aims to train students to perform appropriate spoken and written communication in most essential daily life situations. This course will focus on introducing basic vocabulary and grammar used in carrying out simple tasks; students will learn how to speak, understand, read and write short sentences and paragraphs on concrete and familiar topics such as self-introduction, school and classes, daily activities, past experiences and future plans. In addition, this course will introduce the Korean honorific system.",
+  "prerequisites_raw": "KOR 1, 2 or KOR W 1, 2",
+  "prerequisites_courses": [
+   "KOR 1",
+   "KOR W 1",
+   "KOR 2",
+   "KOR W 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "KOR W",
+  "code": "KOR W 153",
+  "title": "Korean Popular Culture",
+  "units": "4",
+  "description": "Korean popular culture has gained global momentum over the past two decades, creating the phenomenon known as Hallyu [the Korean Wave]. This course explores the technological innovations, sociopolitical changes, and historical forces behind South Korea's cultural rise and what it reveals about global cultural shifts. We will engage with various forms of Korean popular culture—graphic novels, folk songs, music, TV, film, digital media, and food—as both reflections of contemporary Korean society and active sites of cultural production and exchange. The course includes theories on media politics, authorship, and cultural consumption. No prior knowledge of Korean history or culture is required.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 2",
+  "title": "Global Blackness: Race, Repair and Reparation",
+  "units": "5",
+  "description": "Discusses historical and contemporary conditions of Black and racialized communities living under economic and militarized oppression in a global perspective. Texts, films and lecture presentations foregrounds the critical role of Black subjects in the expansion of global capitalism. Explores current global conditions of Black and racialized communities living under militarized and economic apartheid. Spotlights the role of culture in shaping struggles of Black communities around the world for self-determination, the (im)possibilities of colonial repair and collective demands for reparation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 6H",
+  "title": "Survey: Arts of the Ancient Americas",
+  "units": "5",
+  "description": "An introduction to select art traditions from Mesoamerica to Andean South America. Examines architecture, ceramics, sculpture, painting and other classes of material culture for their meaning and function within sociopolitical, religious, and economic contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 7",
+  "title": "Introduction to Caribbean Studies",
+  "units": "5",
+  "description": "A survey of the culture and society of the Caribbean. After surveying Amerindian communities and examining the impact of the Atlantic slave trade, focus will be on slavery, emancipation, African and Creole cultures,and the issues accompanying an independent nationhood status.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 10",
+  "title": "Introduction to the Latin American and Iberian World",
+  "units": "5",
+  "description": "Introduction to issues debates, and approaches in the study of Latin America, Spain and Portugal, and the Latinx world, from an interdisciplinary perspective. Topics considered include history, culture, society, and literature from various places and times.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 10H",
+  "title": "Introduction to the Latin American and Iberian World - Honors Section",
+  "units": "1",
+  "description": "Honors discussion section for students enrolled in LAIS 10. This discussion section will be taught in Spanish.",
+  "prerequisites_raw": "Concurrent enrollment in LAIS 10.",
+  "prerequisites_courses": [
+   "LAIS 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 100",
+  "title": "Introduction to Latin American and Iberian Studies",
+  "units": "4",
+  "description": "Designed to acquaint students with current research on the main areas of Latin American and Iberian Studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 100H",
+  "title": "Introduction to Latin American and Iberian Studies - Honors Section",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors seminar, which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in SPAN 106 or LAIS 100; honors standing in LAIS or the College of Letters and Science.",
+  "prerequisites_courses": [
+   "SPAN 106",
+   "LAIS 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 100S",
+  "title": "Introduction to Latin American and Iberian Studies",
+  "units": "4",
+  "description": "Designed to acquaint students with current research on the main areas of Latin American and Iberian Studies. Taught in Spanish.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 101",
+  "title": "Interdisciplinary Approaches to the History and Societies of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues central to the study of Latin America and Iberia across the social sciences and history. Topics include nationalism, revolution, politics and the state, economic development and international relations, labor, popular culture, race, gender, religion, migration, environment, imperialism, and colonialism.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 101S",
+  "title": "Interdisciplinary Approaches to the History and Societies of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues central to the study of Latin America and Iberia across the social sciences and history. Topics include nationalism, revolution, politics and the state, economic development and international relations, labor, popular culture, race, gender, religion, migration, environment, imperialism, and colonialism. Taught in Spanish.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 102",
+  "title": "Interdisciplinary Approaches to the Cultures, Languages, and Literatures of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues pertinent to the diverse cultures, languages, and literatures of Latin America and Iberia. Disciplines and approaches may include: pre-Columbian studies, Spanish and Spanish American literatures, Portuguese and Brazilian literatures, translation studies, cultural, gender, and queer studies, romance language and linguistics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

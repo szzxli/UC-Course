@@ -1,0 +1,342 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287A",
+  "title": "Structure and Symmetry",
+  "units": "3",
+  "description": "Fundamentals of structure and symmetry commonly observed in soft materials. Direct and reciprocal space lattices, symmetry operations, group theory categorization, and tensor calculations of distances, angles, and coordinate transformations. Experimental structure determination. Complex phases.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287B",
+  "title": "Electrostatics in Polar Solvents",
+  "units": "3",
+  "description": "This course is devoted to an up-to-date description of the behavior of ions in polar solvents. The focus is on water containing salts and possibly in contact with charged surfaces. While the emphasis is on equilibrium properties such as screening of electric fields, there is some discussion on dynamical properties, e.g. effects on viscosity and response to ac electric fields.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287C",
+  "title": "Soft Matter Mechanics",
+  "units": "3",
+  "description": "Discusses the molecular basis of macroscopic mechanics of soft matter systems. Topics to be covered include rubber (entropic) elasticity; hydrogel mechanics, including the effects of swelling and charge; colloidal gel (fractal aggregate) mechanics; and isostatic mechanics, with applications to biopolymer networks.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287D",
+  "title": "Special Topics in Macromolecular Materials",
+  "units": "3",
+  "description": "This course will be offered on a irregular basis and will concern in-depth discussions of advanced topics in macromolecular materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287E",
+  "title": "Special Topics in Macromolecular Materials",
+  "units": "3",
+  "description": "This course will be offered on a irregular basis and will concern in-depth discussions of advanced topics in macromolecular materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287F",
+  "title": "Special Topics in Macromolecular Materials",
+  "units": "3",
+  "description": "This course will be offered on a irregular basis and will concern in-depth discussions of advanced topics in macromolecular materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287G",
+  "title": "Special Topics in Macromolecular Materials",
+  "units": "3",
+  "description": "This course will be offered on a irregular basis and will concern in-depth discussions of advanced topics in macromolecular materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287H",
+  "title": "Special Topics in Macromolecular Materials",
+  "units": "3",
+  "description": "This course will be offered on a irregular basis and will concern in-depth discussions of advanced topics in macromolecular materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287X",
+  "title": "Sustainability in Materials Science",
+  "units": "3",
+  "description": "Survey of the role of materials in sustainability. Overview of topics in materials usage and recycling, materials designs for energy efficiency, and manufacturing. Key concepts and models for sustainability including life cycle/materials flow analysis, and energy content. Considerations for sustainability of major classes of materials including metals, semiconductors, and polymers. Applications in energy conversion and storage.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288A",
+  "title": "Special Topics in Materials for Quantum Information Science",
+  "units": "3",
+  "description": "Selected topics relating to materials issues in Quantum Information Science. Quantum Defects: single-spin centers, single-photon emitters. Natively Entangled Materials. Interfaced Topological States.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288C",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288D",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288DD",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288E",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288F",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288G",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288H",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288I",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288J",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288K",
+  "title": "Power Semiconductor Materials and Devices",
+  "units": "3",
+  "description": "Material properties and transport physics relevant to power devices, power rectifiers and transistors, superjunctions, wide bandgap power device technologies, emerging topics in power semiconductors.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288L",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288M",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288N",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288O",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288P",
+  "title": "Thin Film and Amorphous Semiconductors",
+  "units": "3",
+  "description": "Discusses fundamental properties of thin film and amorphous semiconductors with an emphasis on the electronic structure of materials with defective electronic structure. Organic and inorganic materials are discussed. Applications of these materials to flexible electronics and photovoltaics are discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288V",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 288X",
+  "title": "Special Topics in Electronic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depth discussions of advanced topics in electronic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289A",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289B",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289C",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289D",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 289E",
+  "title": "Special Topics in Structural Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will concern in-depthdiscussions of advanced topics in structural materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

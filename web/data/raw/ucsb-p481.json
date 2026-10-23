@@ -1,0 +1,226 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 155B",
+  "title": "Digital Portfolio",
+  "units": "4",
+  "description": "Creation of digital work using software and coding. The major project is the design and production of a professional website, using HTML, CSS, JavaScript, WordPress, and other tools. Focus on developing effective design and communication skills within a digital environment.",
+  "prerequisites_raw": "Writing 155A; upper-division standing. Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": [
+   "WRIT 155A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 157A",
+  "title": "Business Communication for Client Projects",
+  "units": "4",
+  "description": "Development of written, visual, and oral skills for the workplace. Students begin with a unit on personal branding, then move on to experiential learning through a client-based project. Working directly with clients in teams, students develop collaborative writing and project management skills in such professional genres as Gantt charts, style sheets, status reports, promotional plans, news releases, and formal reports. The course culminates in an oral presentation to the class and client on each team’s project.",
+  "prerequisites_raw": "At least one prior course from Writing 105AA-ZZ, 107AA-ZZ, or 109AA-ZZ; upper-division standing. Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 157B",
+  "title": "Strategic Business Communication",
+  "units": "4",
+  "description": "Through course readings and case study analysis, students will explore business communication strategy in reputation management, corporate social responsibility, crisis communication, and external/internal communication. Students also prepare a variety of professional documents for their final digital portfolio and online presence through the creation of a personal website.",
+  "prerequisites_raw": "Writing 157A; upper-division standing; Must be admitted to the Minor in Professional Writing for enrollment.",
+  "prerequisites_courses": [
+   "WRIT 157A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 159A",
+  "title": "Scientific Literacy",
+  "units": "4",
+  "description": "The first minor course (Writing 159A) focuses on the literacy skills necessary to understand and critically examine scientific research from across the disciplines. Students learn how to evaluate the quality of scientific information, examine science from inside a wider social context, and explore why the public sometimes resists the scientific consensus. Assignments might include a range of texts—such as academic essays, presentations, short videos, and podcasts—that examine the historical, ethical, and sociocultural dimensions of science.",
+  "prerequisites_raw": "At least one prior course from Writing 105AA-ZZ, 107AA-ZZ, or 109AA-ZZ; upper-division standing. Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 159B",
+  "title": "Science Communication for the Public",
+  "units": "4",
+  "description": "Second capstone course for the Science Communication track of the Professional Writing minor. Focus on critiquing and composing scientific content for nonspecialist and public audiences, using various genres, media, modes, and technologies. Project-based course culminating in document portfolio.",
+  "prerequisites_raw": "Writing 159A; upper-division standing. Must be admitted to the Professional Writing Minor.",
+  "prerequisites_courses": [
+   "WRIT 159A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 160",
+  "title": "Theory and Practice of Writing Center Consulting",
+  "units": "4",
+  "description": "Prepares students to tutor writing at the college level. Students respond to tutoring scenarios, respond to each others writing, learn to work with OWLS (on-line writing labs), and prepare a resource notebook for tutoring.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 161",
+  "title": "Digital Storytelling",
+  "units": "4",
+  "description": "Analysis and production of multimedia, interactive, digital narratives in a range of genres and using a range of technologies.",
+  "prerequisites_raw": "Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 162",
+  "title": "Advanced Public Speaking",
+  "units": "4",
+  "description": "Advanced analysis and practice of writing and delivering oral presentations, including scripts and visual aids, with an emphasis on rhetoric and delivery techniques. Assignments include a career pitch, strategic industry analysis, and TED-style expert lecture for specific audiences and purposes.",
+  "prerequisites_raw": "Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 199",
+  "title": "Independent Studies in Writing",
+  "units": "0",
+  "description": "Writing, reading, and conference with specialized research or focus topic.",
+  "prerequisites_raw": "Upper-division standing; consent of instuctor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 199RA",
+  "title": "Independendent Research Assistance in Writing",
+  "units": "0",
+  "description": "Faculty-supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 251",
+  "title": "Academic Research Writing",
+  "units": "4",
+  "description": "Study of and instruction in the writing of graduate academic documents, including proposals, theses, course papers, articles for publication, and C.V.'s. Emphasis on writing clearly and mastering disciplinary conventions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 252",
+  "title": "Teaching Technical Communication",
+  "units": "4",
+  "description": "Offers graduate students a theoretical and peadogogical foundation for teaching introductory courses in technical communication, and, in particular, UCSB's writing courses for freshman engineering majors.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 253",
+  "title": "Introduction to Technical Communication",
+  "units": "4",
+  "description": "In this course, students with an interest in professional writing will explore the history, theory, and practice of technical communication. Students will practice the criticalanalysis of technical communication discourse, both through the analysis of secondary sources and case studies, and through their own research project to be undertakenduring the quarter. Course assignments may focus on the analysis and production of technical manuals, online documentation, technical digital media, instructions, research proposals, and other related genres. Final documents suitable for a professional portfolio.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 254",
+  "title": "Environmental Rhetoric",
+  "units": "4",
+  "description": "Through the analysis of historic and contemporary cases and literature, students consider how language is used by different stakeholders and audiences in the production and circulation of written, visual, and digital communication related to environmental issues in the public sphere.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 256",
+  "title": "Public Writing and Advocacy",
+  "units": "4",
+  "description": "Through the analysis of public discourse, students will articulate their academicresearch expertise in the context of broader public discussions of social issues, with special attention to the writing conventions and genres best suited for advocacy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 259",
+  "title": "Science Communication",
+  "units": "4",
+  "description": "Provides a foundation in science communication practices that explain, persuade, describe, and entertain to graduate students in both STEM (scientific, engineering, technological and mathematical) and non-STEM disciplines. Coursework focuses on composition, public speaking, graphics designs and numeric representations for creating effective written works, talks, podcasts, blogs, videos, press releases, policy briefs, posters, and reports about scientific topics. Students will learn how to craft scientific stories that are accurate, realistic and compelling.",
+  "prerequisites_raw": "Graduate standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 272",
+  "title": "Writing Studies Colloquim",
+  "units": "0",
+  "description": "Presentations on current topics in writing studies by visiting scholars, faculty, and graduate students.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 280",
+  "title": "Introduction to Graduate Writing Expectations",
+  "units": "4",
+  "description": "Graduate students who would like to develop their writing skills will have the opportunity to practice drafting and revising a variety of advanced writing assignmentscommon to the graduate experience. Students will first study the rhetorical features associated with various advanced graduate writing genres before producing disciplinary-specific versions of these texts.",
+  "prerequisites_raw": "Graduate students must have completed no more than one year of course work to enroll. Should students attempt to enroll in any section of this course other than GRAD/WRIT 280AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": [
+   "WRIT 280AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 280AA",
+  "title": "Introduction to Graduate Writing Expectations",
+  "units": "4",
+  "description": "Graduate students who would like to develop their writing skills will have the opportunity to practice drafting and revising a variety of advanced writing assignments common to the graduate experience. Students will first study the rhetorical features associated with various advanced graduate writing genres before producing disciplinary-specific versions of these texts.",
+  "prerequisites_raw": "Graduate students must have completed no more than one year of course work to enroll. Should students attempt to enroll in any section of this course other than GRAD/WRIT 280AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 281",
+  "title": "Introduction to Article Writing",
+  "units": "4",
+  "description": "Graduate students interested in learning the underlying conventions related to professional academic writing through article writing will have the opportunity to draft and revise a disciplinary-relevant article. Students will first study the rhetorical features associated with articles, by discipline, in order to learn the conventions pertinent to article writing instudents chosen fields. Then, students will produce a discipline and journal-specific draft of an article.",
+  "prerequisites_raw": "Graduate students must have completed the relevant research/scholarship to produce an article. Students who are still in the middle of their research projects will not be admitted. Should students attempt to enroll in any section of this course other than GRAD/WRIT 281AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": [
+   "WRIT 281AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 281AA",
+  "title": "Introduction to Article Writing",
+  "units": "4",
+  "description": "Graduate students interested in learning the underlying conventions related to professional academic writing through article writing will have the opportunity to draft and revise a disciplinary-relevant article. Students will first study the rhetorical features associated with articles, by discipline, in order to learn the conventions pertinent to article writing in students' chosen fields. Then, students will produce a discipline and journal-specific draft of an article.",
+  "prerequisites_raw": "Graduate students must have completed the relevant research/scholarship to produce an article. Students who are still in the middle of their research projects will not be admitted. Should students attempt to enroll in any section of this course other than GRAD/WRIT 281AA, students must ensure that their disciplinary field is included in that special topic of the course.",
+  "prerequisites_courses": []
+ }
+]

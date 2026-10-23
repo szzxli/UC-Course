@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 193HA",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, will graduate with distinction in the major.",
+  "prerequisites_raw": "Senior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 193HB",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, will graduate with distinction in the major.",
+  "prerequisites_raw": "Theater 193HA.",
+  "prerequisites_courses": [
+   "THTR 193HA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 193HC",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, will graduate with distinction in the major.",
+  "prerequisites_raw": "Theater 193HA or 193HB.",
+  "prerequisites_courses": [
+   "THTR 193HA",
+   "THTR 193HB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 194A",
+  "title": "Group Studies in Acting and Directing",
+  "units": "0",
+  "description": "Intensive study, research, and project preparation in acting and directing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 194D",
+  "title": "Group Studies in Design",
+  "units": "0",
+  "description": "Intensive study, research, and project preparation in theatrical design.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 194L",
+  "title": "Group Studies in Literature",
+  "units": "0",
+  "description": "Intensive study, research, and project preparation in dramatic literature.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 194T",
+  "title": "Group Studies in Theatre",
+  "units": "0",
+  "description": "Intensive study, research, and project preparation in theatre.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 195",
+  "title": "Principles of Stage Management",
+  "units": "2",
+  "description": "Upper division course that builds upon the foundational information of THTR 95, providing a greater depth and breadth of exploration into the duties of the stage manager from pre-production through strike. Topics include communication, organizational skills, rehearsal procedures, and performance responsibilities. Greater stage management practical experience gained through in-class exercises and outside assignments.",
+  "prerequisites_raw": "Upper-division standing or instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 195P",
+  "title": "Stage Management Practicum",
+  "units": "0",
+  "description": "Production oriented course allowing student practical experience in stage management training. Student will serve as assistant stage manager or stagemanager for a main stage or student directed departmental production.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 196",
+  "title": "Dance Production",
+  "units": "0",
+  "description": "Exploration of the process of collaboration between dance choreographers and theater designers in the development of designs for dance productions. Final project is a public performance of the choreographers' and designer' work.",
+  "prerequisites_raw": "Theater 19; 22 or 123 or 125; upper-division standing; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 19",
+   "THTR 22",
+   "THTR 123",
+   "THTR 125"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 199",
+  "title": "Independent Studies in Theater",
+  "units": "0",
+  "description": "Independent studies in theater.",
+  "prerequisites_raw": "Consent of instructor; completion of 2 upper-division courses in Theater.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 199RA",
+  "title": "Independent Research Assistance in Theater",
+  "units": "0",
+  "description": "Independent research assistance in theater. Supervised assistance in faculty research project.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Theater; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210",
+  "title": "Research Methods in Theater, Dance and Performance Studies",
+  "units": "4",
+  "description": "Introduction to select methods for conducting advanced research in theatre, drama, and performance. Students will read exemplary monographs and statements of method from leading scholars in the field. They will then practically apply those methods to an original, ongoing research project that will culminate in a substantive seminar paper.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210A",
+  "title": "Research Methods: Ethnography and Performance",
+  "units": "4",
+  "description": "Introduction to select methods for conducting advanced research in theatre, drama, and performance. The methodological focus, which varies according to instructor, may include ethnography, historiography, dramatic criticism, phenomenology, or audience reception, among others. Students will read exemplary monographs and statements of method from leading scholars in the field. They will then practically apply those methods to an original, ongoing research project that will culminate in a substantive seminar paper.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210AE",
+  "title": "From Archive to Edit",
+  "units": "4",
+  "description": "A look at the nuts and bolts of academic research, from gaining access to sources to reading proofs. Topics include: search methods, finding aids, documentation, citation, self-editing, writing strategies, review process (receiving and giving), self-editing, and publication procedures. The course also examines the practical and intellectual problems associated with editing a literary text or historical document for publication, also editing an anthology or journal. Practical exercises throughout.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210B",
+  "title": "Advanced Critical Writing",
+  "units": "4",
+  "description": "Workshop on the style, structure, and ideology of crafting persuasive critical arguments and creating authority in writing. Focus on introductions, conclusions, definitions, proofs, refutation, and interaction with sources through analysis, critique, practice, and peer review.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210C",
+  "title": "Professional Studies",
+  "units": "4",
+  "description": "Content varies from year to year. Offerings may include preparation for publication and conference presentations, orientation to the academic job market, and issues related to pedagogy.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210CM",
+  "title": "Critical Methods",
+  "units": "4",
+  "description": "This seminar introduces critical methods central to the fields of Theater, Dance, and Performance Studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210E",
+  "title": "Ethnography",
+  "units": "4",
+  "description": "Provides doctoral students with the groundwork necessary to undertake ethnographic research on a wide range of theatre and performance contexts, including staged theatre, ritual, and performance in everyday life. We engage key issues relating to this methodology, including tools for engagement (interviews, participant-observation, surveys) and the complex ethics of studying other human beings. Melds theory and practice by incorporating a number of exercises based on original fieldwork students conduct locally during the quarter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 210H",
+  "title": "Historiography",
+  "units": "4",
+  "description": "Covers diverse methods and theoretical approaches of historiography of performance and performance as historiography. Readings trouble ideas of history production and understandings of the past. We explore past assumptions about subject, time, and place central to traditional historiographical methods and identify new approaches and directions. And, we consider how theoretical and methodological approaches under the umbrella of historiography adjust to reflect changes in understandings of people, places, and systems of knowledge.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 211",
+  "title": "Theories for Performance, Theater, and Dance Research",
+  "units": "4",
+  "description": "Introduction to key theories and conceptual frameworks for conduction advanced research in theater, dance, and performance studies. Students will read exemplary theoretical texts from established and newer scholarly voices. Topics vary and may include Marxism, Brecht, Artaud, theories fo the avant-garde, psychoanalysis, critical race theory, feminism, structuralism, post-structuralism, postmodernism, postcolonialism, and transnationalism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 211ED",
+  "title": "Theories of the Everyday and Performance",
+  "units": "4",
+  "description": "Examines theories of the everyday that relate to theater, dance, and performance studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 211GP",
+  "title": "Theories for Performance, Theater, and Dance Research",
+  "units": "4",
+  "description": "Examines and reevaluates performance theory and its application with attention to global theater forms and performance practices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 212",
+  "title": "Drama of Mixed Genres",
+  "units": "4",
+  "description": "Masterpieces of intermingled forms from Greeks to the present. Dramatists include Euripides, Shakespeare, Moliere, Pinter, and others.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 213",
+  "title": "Histories of Theater, Dance, and Performance Studies",
+  "units": "4",
+  "description": "Introduction to pre-1900 historical time periods in theater, dance, and performance studies. Students read exemplary historical texts and learn key historiographical methods from established and newer scholarly voices. Periods and topics vary and may include material conditions of performance, gender and sexuality studies, global theater and dance, and embodied and dramaturgical approaches to dance and theater history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 221",
+  "title": "The History and Theory of Directing",
+  "units": "4",
+  "description": "Readings in the major theorists of directing and in the history of directing in the modern and contemporary theatre.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 222",
+  "title": "The History of Physical Theatre",
+  "units": "4",
+  "description": "A study of the architectural development of Western and Asian theatre with attention paid to the impact of the theatre space on modes of performance.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 223",
+  "title": "History and Theory of Acting",
+  "units": "4",
+  "description": "The history and theory of acting in Europe and Asia from classical times to the present. Documents that address phenomenology and philosophy of acting are studied.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 230",
+  "title": "Dramatic Theory: Aristotle to Nietzsche",
+  "units": "4",
+  "description": "Detailed study of theories from The Poetics to The Birth of Tragedy.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 232",
+  "title": "Modern and Contemporary Theory",
+  "units": "4",
+  "description": "A graduate level introduction to twentieth and twenty-first century critical theory. Topics vary and may include Marxism, Brecht, Artaud, theories of the avant-garde, psychoanalysis, feminism, structuralism, post-structuralism, postmodernism, and postcolonialism.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

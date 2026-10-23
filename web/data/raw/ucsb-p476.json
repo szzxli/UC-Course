@@ -1,0 +1,322 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 14",
+  "title": "Introductory Screenwriting Workshop",
+  "units": "0",
+  "description": "Introduction to the craft of screenwriting. Students develop original works for the screen to be read and discussed in a workshop setting.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 20",
+  "title": "Introduction to Writing Studies",
+  "units": "0",
+  "description": "Provides an introduction to the intellectual orientation, practices, and epistemologies of Writing Studies.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 30",
+  "title": "Introduction to Literary Studies",
+  "units": "0",
+  "description": "Provides an introduction to the intellectual orientation, practices, and epistemologies of Literary Studies.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 110",
+  "title": "Poetry Workshop",
+  "units": "0",
+  "description": "Students write original poems to be read and discussed in a workshop setting. Students learn the essentials of the craft of poetry as well as strategies to generate and revise work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 111",
+  "title": "Outdoor Poetry",
+  "units": "0",
+  "description": "Students write original poems to be read and discussed in a workshop setting. Students learn the essentials of the craft of poetry as well as strategies to generate and revise work. This workshop class focuses on writing poetry outside (with some time spent in the classroom). Students also read widely, and complete a portfolio of poems by quarter's end.",
+  "prerequisites_raw": "N/A",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 120",
+  "title": "Fiction Workshop",
+  "units": "0",
+  "description": "Students write original works of fiction to be read and discussed in a workshop setting. Students learn the essentials of the craft of fiction writing as well as strategies to generate and revise work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 121",
+  "title": "Diaries to Stories",
+  "units": "0",
+  "description": "Students write diary entries as a literary form to be read and discussed in a workshop setting. Students learn to use diaries as a tool for invention and how to craft diary entries into narratives.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 122",
+  "title": "Novel Writing Workshop",
+  "units": "0",
+  "description": "Students should bring work from a novel-in-progress to be read and discussed in a workshop setting. Students learn the essentials of the craft of travel writing as well as strategies to generate and revise work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 123",
+  "title": "Vignettes and Very Short Fiction",
+  "units": "0",
+  "description": "Students write creative pieces--stories that are more or less based on their experiences using fictional techniques such as dialog and scenes. The course is the workshop so attendance is very important. Students write a piece for the various topics that are presented weekly and discuss stories anonymously in class. Students also write short critiques and do in class writing assignments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 130",
+  "title": "Creative Nonfiction Workshop",
+  "units": "0",
+  "description": "Students write original works of creative nonfiction to be read and discussed in a workshop setting. Students learn the essentials of the craft of creative nonfiction as well as strategies to generate and revise work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 131",
+  "title": "Travel Writing Workshop",
+  "units": "0",
+  "description": "Students write original works of travel writing to be read and discussed in a workshop setting. Students learn the essentials of the craft of travel writing as well as strategies to generate and revise work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 132",
+  "title": "Humor Writing Workshop",
+  "units": "0",
+  "description": "Students write original works of humor to be read and discussed in a workshop setting. Students learn the essentials of the craft of humor writing as well as strategies to generate and revise work",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 133",
+  "title": "Food Writing Workshop",
+  "units": "0",
+  "description": "Students write original works of food writing to be read and discussed in a workshop setting. Students learn the essentials of the craft of food writing as well as strategies to generate and revise work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 135",
+  "title": "Memoir Writing Workshop",
+  "units": "0",
+  "description": "Students write original works of memoir to be read and discussed in a workshop setting. Students learn the essentials of the craft of memoir writing as well as strategies to generate and revise work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 140",
+  "title": "Playwriting Workshop",
+  "units": "0",
+  "description": "Students write original scripts to be read and discussed in a workshop setting. Students learn the essentials of the craft of playwriting as well as strategies to generate and revise work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 141",
+  "title": "Screenwriting Workshop",
+  "units": "0",
+  "description": "Students write original scripts to be read and discussed in a workshop setting. Students learn the essentials of the craft of screenwriting as well as strategies to generate and revise work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 141A",
+  "title": "Beginning Screenwriting Workshop",
+  "units": "0",
+  "description": "Students learn the basic techniques of screenwriting. Students write original screenplays to be read and discussed in a workshop setting.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 141B",
+  "title": "Advanced Screenwriting Workshop",
+  "units": "0",
+  "description": "Students learn advanced techniques of screenwriting. Students write original screenplays to be read and discussed in a workshop setting.",
+  "prerequisites_raw": "Writing & Literature CS 141A",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 142",
+  "title": "Graphic Novel Workshop",
+  "units": "0",
+  "description": "Students write and illustrate original comic scripts to be read and discussed in a workshop setting. Students learn the essentials of the craft of graphic novel writing as well as strategies to generate and revise work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 143",
+  "title": "Multimedia Writing Workshop",
+  "units": "0",
+  "description": "Students write original multimedia compositions to be read and discussed in a workshop setting. Students learn the essentials of multimedia composing as well as strategies to generate and revise. work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 149",
+  "title": "Multigenre Writing Workshop",
+  "units": "0",
+  "description": "Students write original work in multiple genres to be read and discussed in a workshop setting. Students learn strategies to generate and revise work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 150",
+  "title": "Topics in Literary Studies",
+  "units": "0",
+  "description": "Intensive study of varying topics in literary studies, including single authors, genres, themes.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 150FP",
+  "title": "Topics in Literary Studies - Feminist Poetics and the Archive",
+  "units": "0",
+  "description": "Archives tell stories. The shape and scope of these stories is usually a matter of power and access. We will inquire into the relation between poetics and the archive by considering the narration of lives oppressed, erased, or forgotten as a feminist act. How does one depict the lives of those who leave few traces other than in private writings, oral histories, or visual records?",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 150MA",
+  "title": "Topics in Literary Studies: Mail Art",
+  "units": "0",
+  "description": "The post office has been a lifeline for marginalized groups and a connection between unlikely friends, just as it provided a network of expression for cold war Eastern European and Latin American artists, struggling with censorship. We will examine examples of the unique genre of mail art from the 1960s through today, viewing and working with online archives and Special Collections materials.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 150TL",
+  "title": "Topics in Literary Studies - Translation",
+  "units": "0",
+  "description": "Intensive study of varying topics in literary studies, including single authors, genres, themes.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 150TR",
+  "title": "Topics in Literary Studies - Literary Turns",
+  "units": "0",
+  "description": "Examines the ways authors lead their readers into and out of a literary work. The last part of the course will focus on turns, climax, and leaps.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 151",
+  "title": "Reading Like a Writer - Single Author Study",
+  "units": "0",
+  "description": "Invites students to complete intensive reading the works of a single author from the perspective of a writer. Students focus on how the elements of the craft demonstrated by the author might apply to their own work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 151EF",
+  "title": "Reading Like a Writer - Single Author Study: Elena Ferrante",
+  "units": "0",
+  "description": "Invites students to complete intensive reading the works of a single author from the perspective of a writer. Students focus on how the elements of the craft demonstrated by the author might apply to their own work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 152",
+  "title": "Reading Like a Writer - Genre Study",
+  "units": "0",
+  "description": "Invites students to complete intensive reading of a single genre from the perspective of a writer. Students focus on how the elements of the genre might apply to their own work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 152CA",
+  "title": "Reading Like a Writer - Genre Study - Contemporary American Poetry",
+  "units": "0",
+  "description": "Invites students to complete intensive reading of Contemporary American Poetry from the perspective of a writer. Students focus on how the elements explored might apply to their own work.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 152CS",
+  "title": "Genre Study - Contemporary Screenwriters",
+  "units": "0",
+  "description": "Examines how contemporary screenwriters have approached the adaption of novels into film. This course involves study of story structure and full character development into screenplays.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "W L CS",
+  "code": "W L CS 152FF",
+  "title": "Reading Like a Writer - Genre Study: Fiction to Film",
+  "units": "0",
+  "description": "Invites students to complete intensive reading of a single genre from the perspective of a writer. Students focus on how the elements of the genre might apply to their own work. In this course we examine classics of literature that became classic films, and how these written narratives were transformed into classic film narratives.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ }
+]

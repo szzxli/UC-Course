@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 247",
+  "title": "Human Mating Psychology",
+  "units": "4",
+  "description": "Surveys the current status of evolutionary approaches to human mating psychology. Focuses on emerging interdisciplinary approaches to this topic, with emphasis on the potential integration of phylogenetic, physiological, cognitive, and behavioral levels of analysis.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 252",
+  "title": "Advanced Research Methods In Social Psychology",
+  "units": "4",
+  "description": "Introduction to philosophy o science, advanced experimental designs, specific methodologies, methodological problems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 253",
+  "title": "Social Psychology of Close Relationships",
+  "units": "4",
+  "description": "Review of research and theory on the social psychology of close relationships. Explores cognitive, affective, and motivational factors that shape interpersonal behavior. Topics include attachment processes, commitment, intimacy, trust, social support, equity, social cognition, and the self in close relationships.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 254",
+  "title": "Evolutionary Psychology",
+  "units": "4",
+  "description": "Introduction to basic concepts in evolutionary psychology; how natural selection works, ancestral environments, how to use theories of adaptive problems to discover new cognitive mechanisms, standards of evidence for adaptations, relation of evolved psychology to culture.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 257",
+  "title": "Advanced Topics in Human Behavioral Endocrinology",
+  "units": "3",
+  "description": "This course focuses on developing functional accounts of the roles of hormones in human psychology and behavior. Existing hormone research commonly neglects functional explanations and instead attempts to develop parsimonious descriptions of the general effects of specific hormones. Uses published findings to develop and critically evaluate models of how hormones act as signals that prime functional output responses to the eliciting conditions that trigger hormone release. This exercise could be applied to research on human estradiol and progesterone, testosterone, cortisol, and oxytocin, but there is flexibility in the specific topics emphasized depending on the interests of students enrolled in the class.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 268",
+  "title": "Development and Plasticity of the Brain",
+  "units": "4",
+  "description": "An examination of the major developmental events producing the organizationand connectivity of the nervous system. offered concurrently with Psychology 168, but graduate students will be required to complete additional reading and writing assignments.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 269",
+  "title": "Neuroanatomy",
+  "units": "4",
+  "description": "An examination of the organization of the vertebrate nervous system. Topicsinclude neurohistological techniques; neurology and neuropsychology; comparative neuroanatomy; neural degeneration; developmental neuroscience.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 590A",
+  "title": "Seminar On Teaching Of Psychology",
+  "units": "1",
+  "description": "Seminar designed to prepare psychology graduate students for various roles related to the teaching of undergraduate psychology courses. Topics may include leading discussions, preparing and grading exams, conferencing, evaluating writing, ethical issues, lecturing effectively, and using audio-visual aids.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 590B",
+  "title": "Seminar On Teaching Of Psychology",
+  "units": "1",
+  "description": "Seminar designed to prepare psychology graduate students for various roles related to the teaching of undergraduate psychology courses. Topics may include leading discussions, preparing and grading exams, conferencing, evaluating writing, ethical issues, lecturing effectively, and using audio-visual aids.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 590C",
+  "title": "Seminar On Teaching Of Psychology",
+  "units": "1",
+  "description": "Seminar designed to prepare psychology graduate students for various roles related to the teaching of undergraduate psychology courses. Topics may include leading discussions, preparing and grading exams, conferencing, evaluating writing, ethical issues, lecturing effectively, and using audio-visual aids.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 591",
+  "title": "Specialized Seminar in PBS",
+  "units": "2",
+  "description": "Specialized seminars on various topics ranging from presentation skills and tutorials to instructor specific topics.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 591BW",
+  "title": "Writing Workshop",
+  "units": "2",
+  "description": "Writing is key to success in graduate school and in many careers in science, but there are aspects of it that people can struggle with (e.g., clearly communicating complex ideas, writing regularly, writing for general audiences, etc.). In this course, students (i) learn about and discuss the mechanics of writing academic papers, (ii) receive feedback on their writing and learn to provide constructive feedback to others, and (iii) engage in reading and discussion about time management, handling rejection, and other challenges that academic writers may face.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 591GZ",
+  "title": "Current Sage Topics in the Mind Sciences",
+  "units": "2",
+  "description": "A variety of topics in the mind sciences are discussed and feature views of The Sage Center for the Study of Minds guests of that quarter. An interdisciplinary approach is taken over a broad range of topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 591MG",
+  "title": "Research Presentation",
+  "units": "2",
+  "description": "Focuses on developing skills for delivering compelling research presentations. We will discuss effective structuring, slide design, public speaking skills, and how to tailor presentations for specific audiences. As part of the course, each student will give a presentation on their research project and receive extensive feedback.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592AE",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592AF",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592AH",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592BD",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592BM",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592BN",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592BR",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592BV",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592CG",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592CM",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592CP",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592DB",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592DH",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592DM",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592DO",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 592DV",
+  "title": "Special Interest Group Research Seminar",
+  "units": "1",
+  "description": "Research seminar for special interest groups in psychology. Each special interest group has its own letter designation available in department office.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

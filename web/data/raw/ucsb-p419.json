@@ -1,0 +1,370 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10",
+  "title": "Introduction to Biblical Law",
+  "units": "5",
+  "description": "A survey of the major codes in the Hebrew Bible, including a comparison with Mesopotamian Laws, and an emphasis on the evolution of biblical law. Themes examined include gender, ethics, and sacred space. Other themes include narratives of law outside the legal codes, and the New Testament approach to the law.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10A",
+  "title": "Elementary Arabic I",
+  "units": "5",
+  "description": "Introductory modern standard Arabic: pronunciation, script, conversation, and oral comprehension. Weekly sections involve cultural materials such as elementary calligraphy, Middle Eastern cooking, Arabic television shows, films, singing, and folk dance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10B",
+  "title": "Elementary Arabic II",
+  "units": "5",
+  "description": "Continuation of Arabic I.",
+  "prerequisites_raw": "Relgious Studies 10A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10C",
+  "title": "Elementary Arabic III",
+  "units": "5",
+  "description": "Continuation of Arabic II.",
+  "prerequisites_raw": "Religious Studies 10A-B.",
+  "prerequisites_courses": [
+   "RG ST 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10D",
+  "title": "Intermediate Arabic IV",
+  "units": "5",
+  "description": "Intermediate Arabic: complex grammar, and vocabulary, readings in classical and modern Arabic literature, including short stories, newspaper articles, and poetry. Extensive use of audio-visual materials including news broadcasts, television shows, and films. weekly conversation section.",
+  "prerequisites_raw": "Religious Studies 10A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10E",
+  "title": "Intermediate Arabic V",
+  "units": "5",
+  "description": "Continuation of Arabic IV.",
+  "prerequisites_raw": "Religious Studies 10D.",
+  "prerequisites_courses": [
+   "RG ST 10D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10F",
+  "title": "Intermediate Arabic VI",
+  "units": "5",
+  "description": "Continuation of Arabic V.",
+  "prerequisites_raw": "Religious Studies 10E.",
+  "prerequisites_courses": [
+   "RG ST 10E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10X",
+  "title": "Egyptian Colloquial Arabic I",
+  "units": "2",
+  "description": "Introduction to the spoken colloquial Arabic of Egypt, the most widely understood dialect in the Arab world. Covers pronunciation, basic grammar, and vocabulary taught through conversation and selected viewing of television and film. Emphasis is on spoken communication.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10Y",
+  "title": "Egyptian Colloquial Arabic II",
+  "units": "2",
+  "description": "Continuation of Egyptian Colloquial Arabic I.",
+  "prerequisites_raw": "Religious Studies 10X with a passing grade.",
+  "prerequisites_courses": [
+   "RG ST 10X"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 10Z",
+  "title": "Egyptian Colloquial Arabic III",
+  "units": "2",
+  "description": "Continuation of Egyptian Colloquial Arabic II.",
+  "prerequisites_raw": "Religious Studies 10Y with a passing grade.",
+  "prerequisites_courses": [
+   "RG ST 10Y"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 11A",
+  "title": "Elementary Hindi I",
+  "units": "4",
+  "description": "The beginning course in Hindi. Survey of grammar. Graded exercises and readings drawn from Hindi literature, leading to mastery of grammatical structures and essential vocabulary and achievement of basic reading and writing competence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 11B",
+  "title": "Elementary Hindi II",
+  "units": "4",
+  "description": "Continuation of Hindi I.",
+  "prerequisites_raw": "Religious Studies 11A.",
+  "prerequisites_courses": [
+   "RG ST 11A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 11C",
+  "title": "Elementary Hindi III",
+  "units": "4",
+  "description": "Continuation of Hindi II.",
+  "prerequisites_raw": "Religious Studies 11B.",
+  "prerequisites_courses": [
+   "RG ST 11B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 11D",
+  "title": "Intermediate Hindi IV",
+  "units": "4",
+  "description": "Intermediate Hindi. Selected readings in Hindi fiction and nonfiction, with exercises in grammar, composition, and conversation.",
+  "prerequisites_raw": "Religious Studies 11C.",
+  "prerequisites_courses": [
+   "RG ST 11C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 11E",
+  "title": "Intermediate Hindi V",
+  "units": "4",
+  "description": "Continuation of Hindi IV.",
+  "prerequisites_raw": "Religious Studies 11D.",
+  "prerequisites_courses": [
+   "RG ST 11D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 11F",
+  "title": "Intermediate Hindi VI",
+  "units": "4",
+  "description": "Continuation of Hindi V.",
+  "prerequisites_raw": "Religious Studies 11E.",
+  "prerequisites_courses": [
+   "RG ST 11E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 12",
+  "title": "Religious Approaches to Death",
+  "units": "5",
+  "description": "Surveys twenty world religious traditions in their approaches to the problem of death, care for the dead, and death-related doctrines and practices within their broader cultural, historical, and social contexts from a cross-cultural perspective.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 13",
+  "title": "Religion and Popular Culture",
+  "units": "5",
+  "description": "Explores the relationship between religion and popular culture. What can trends and the stories we tell one another teach us about power and the structures that pattern us? Topics covered can include superheroes, astrology, tarot, basketball, zombies, vampires, food, money, science fiction, ethnonationalism, yoga, reality television, music festivals, ouija boards, Christian rock, Oprah, kitsch, the art world, magic, death metal, psychonauts, hip hop, architecture, and the war on Christmas.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 14",
+  "title": "Introduction to Native American Religious Studies",
+  "units": "5",
+  "description": "This course is designed as an introduction to the contribution that Native American religions make to the general study of religion. Metaphysical and philosophical aspects of North American native culture. Major concepts of belief systems, religion, and medicine. Theories of balance, harmony, knowledge, power, ritual, and ceremony.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 14H",
+  "title": "Introduction to Native American Religious Studies",
+  "units": "1",
+  "description": "Students receive one unit for this honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent with RG ST 14",
+  "prerequisites_courses": [
+   "RG ST 14"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 15A",
+  "title": "Religion and Psychology: Major Figures",
+  "units": "4",
+  "description": "A survey of theories and approaches to the study of religion from the perspective of psychology, with an emphasis on psychoanalytical, analytical, and humanistic psychology as well as on other theorists and trends emerging out of or relating to these traditions in psychology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 15B",
+  "title": "Religion and Psychology: Research Approaches",
+  "units": "4",
+  "description": "A sampling of theories and approaches to the study of religion from the perspective of psychology, emphasizing clinically rooted theories (psychoanalytic, analytic, and humanistic psychology) and experimentally rooted theories (evolutionary, cognitive, and social psychology).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 16",
+  "title": "Religion and Food",
+  "units": "5",
+  "description": "Foodwhat people eat, avoid, and prepare for gods andancestorscommands intense attention among religious practitioners around the world. This course adopts a comparative approach to the question, What can studying food tell us about religion? We begin with classical Hindu discourses, moving from the most ancient sources concerning sacrifice to debates about nonviolence (and theirimplications for peoples diets). We also explore commensality: whom you break bread with and whom you exclude. We then delve into Afro-Diasporic religions and how West African deities appetites construct their identities. Cooking the gods soul food is revealedto be a gendered and racialized ritual no less meaningful than the sharing of sacred meals.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 17A",
+  "title": "Introduction to Biblical Hebrew I",
+  "units": "4",
+  "description": "Introduction to the orthography, phonology, grammar, and lexicon of Tiberian Biblical Hebrew as found in most printed Bibles. Concludes with selected Pentateuchal readings where the student applies grammatical knowledge to texts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 17B",
+  "title": "Introduction to Biblical Hebrew II",
+  "units": "4",
+  "description": "Continuation of Religious Studies 17A.",
+  "prerequisites_raw": "Religious Studies 17A.",
+  "prerequisites_courses": [
+   "RG ST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 17C",
+  "title": "Introduction to Biblical Hebrew III",
+  "units": "4",
+  "description": "Continuation of Religious Studies 17B.",
+  "prerequisites_raw": "Religious Studies 17B.",
+  "prerequisites_courses": [
+   "RG ST 17B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 18",
+  "title": "Comparing Religions",
+  "units": "5",
+  "description": "A historical and comparative analysis of the way that six worldviews -- five religious (Hinduism, Buddhism, Judaism, Christianity, and Islam) and one nonreligious (Humanism) have grappled with big questions, such as who we are, where we come from, and where we are (or should be) going.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 18H",
+  "title": "Comparing Religions Honors",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors seminar which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in RGST 18 and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 19",
+  "title": "The Gods and Goddesses of India",
+  "units": "5",
+  "description": "An introduction to the gods and goddesses of the Hindu pantheon. Consideration is given to mythological, iconographic, and pilgrimage traditions as well as to the various types of movements - ascetic, devotional, and Tantric - associated with each deity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 20",
+  "title": "Indic Civilization",
+  "units": "5",
+  "description": "Surveys the religious history of the subcontinent beginning with the Indus valley culture and continuing to examine the rise of Hindu, Buddhist, and Jain beliefs, the arrival of Islam and Christianity, and the region's confrontation with modernity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 21",
+  "title": "Zen Buddhism",
+  "units": "5",
+  "description": "An introduction to the history and texts of the major lineages of Ch`an Buddhism in China and Zen Buddhism in Japan.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 23",
+  "title": "Introduction to Chinese Buddhism",
+  "units": "4",
+  "description": "Provides a basic introduction to the key concepts, chief figures, principal schools, and major developments of Buddhism from its arrival in China two thousand years ago to the present day.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 24",
+  "title": "Jesus in Comparative Perspective",
+  "units": "5",
+  "description": "Exploration of key interpretations of the life and teachings of Jesus, with attention to historical sources, portrayals of Jesus in other religious traditions, and the effects of his teachings in contemporary social movements.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 25",
+  "title": "Global Catholicism Today",
+  "units": "5",
+  "description": "An introduction to Roman Catholicism as a global religion with particular attention to the basic structures of the church and the beliefs and practices of Catholics as lived out in different regions of the world today.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

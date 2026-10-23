@@ -1,0 +1,244 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 99",
+  "title": "Independent Study in Religious Studies",
+  "units": "0",
+  "description": "Introduction to independent research in Religious Studies. Topic and content are decided by the supervising Professor in the Department of Religious Studies.",
+  "prerequisites_raw": "minimum 3.0 cumulative GPA",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 99PL",
+  "title": "Persian Language Independent Study",
+  "units": "4",
+  "description": "Independent study in Persian language in conjunction with the Persian instructor.",
+  "prerequisites_raw": "Minimum 3.0 cumulative GPA.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 99PS",
+  "title": "Persian Support",
+  "units": "0",
+  "description": "Independent study in Persian language designed to supplement current work in the concurrent Persian course.",
+  "prerequisites_raw": "minimum 3.0 cumulative GPA",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 99RA",
+  "title": "Independent Research Assistance in Religious Studies",
+  "units": "0",
+  "description": "Details of the research project are decided by the supervising Professor in the Department of Religious Studies.",
+  "prerequisites_raw": "minimum 3.0 cumulative GPA",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 100C",
+  "title": "Seminar in Religion in America",
+  "units": "4",
+  "description": "Examination of selected topics in American religion to investigate its basic religious structures and to explore the relationship of religious phenomena to their cultural context. Course content variable.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 100D",
+  "title": "Religion, Politics, Modernity: An Anthropological Approach",
+  "units": "4",
+  "description": "Modernity produced different religio-political configurations. Liberal capitalist democracies pushed religious life to the private sphere, out of the public sphere of politics and economy. Religious nationalism in colonial and post-colonial societies reacted to external threats. Communist societies promoted extreme state secularization.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 101",
+  "title": "New Religious Movements",
+  "units": "4",
+  "description": "Looks at new religious movements over the past several decades, both sectarian movements within religious traditions and other movements that are combinative and eclectic in nature. Focus is primarily on the United States, though not exclusively.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 101A",
+  "title": "New Religious Movements",
+  "units": "4",
+  "description": "This seminar examines the emergence of networks, movements, and organizations that claim access to new revelations, such as Mormonism, Christian Science, Jehovah's Witnesses, Spiritualism, Scientology, and UFO religions. The primary focus - the United States in the last two centuries.",
+  "prerequisites_raw": "upper division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 101B",
+  "title": "Religious Experience",
+  "units": "4",
+  "description": "Introduction to scientific and humanistic methods that can be used to study anomalous experiences often viewed as religiously significant. Various experiences - spontaneous, learned, or induced will be considered, e.g. dreams, visions, possession, out of body, and ecstatic or mystical experiences.",
+  "prerequisites_raw": "upper division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 102A",
+  "title": "Muslim Diasporas and Law",
+  "units": "4",
+  "description": "An examination of the legal and social issues raised by the presence of Muslims in contemporary Western Europe and the United States. Civil rights, accommodation, and the construction of a dichotomy between \"moderate\" Islam and Islamism will be discussed.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 103",
+  "title": "Nature Spirituality",
+  "units": "4",
+  "description": "Is the human connection to nature a form of religion? Can activities like hiking, surfing, swimming and birdwatching be understood as spiritual practices? What are the implications of framing environmentalism as a religious commitment? Through a variety of lenses, including nature writing, neo-pagan and animistic practices, BIPOC perspectives, and the reflections of scientists and religion scholars, this course considers the many ways in which humans engage spiritually with nature and nonhumans.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 104",
+  "title": "Problems in the Study of Religion",
+  "units": "4",
+  "description": "Advanced seminar for juniors and seniors majoring in Religious Studies, which is offered at least twice a year by various faculty. The seminar introduces students to the history of the discipline and a range of approaches to the study of religion, including established and emerging theories and methods. Instructors might also choose to emphasize UCSB's distinctive approach to Religious Studies and the strengths of its current faculty.",
+  "prerequisites_raw": "Religious studies majors with upper division standing and consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 105",
+  "title": "Nature and the Human World",
+  "units": "4",
+  "description": "Recent upheaval in our livessuch as from the global COVID-19 pandemic, or fromthe catastrophic effects of climate change and ecological devastationcall forcritical and creative reflection on relations between nature and our humanly builtworlds. While attending to influential understandings of nature operative inmodern politics, economics, technology, and science, this course aims above all toexplore the philosophical and religious significance of our human relations withnature in the contemporary world. Readings in the course cover a range ofperspectives from modern Western philosophy, the history of Christianity,American agrarian and ecological thinking, and indigenous traditions.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 105A",
+  "title": "Nature and the Human World: Existential Crisis",
+  "units": "4",
+  "description": "Recent upheaval in our individual and collective livessuch as from the global COVID-19 pandemic, or from the catastrophic effects of climate changecalls for critical and creative reflection on relations between nature and our humanly built worlds. Engaging a range of perspectives in modern philosophy, the history of Christianity, and American agrarian and ecological thinking, this course explores both the existential lessons we can learn when our worlds undergo crisis and the roles that nature can play within our experience of such existential crisis. Authors to be studied include St. Augustine, Martin Heidegger, Michel Serres, Henry Bugbee, Wendell Berry, and Annie Dillard.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 105B",
+  "title": "Nature and the Human World: Ecology, Politics, and Religion",
+  "units": "4",
+  "description": "Aiming to shed critical and constructive light on a contemporary world facing both the threat of ecological disaster and the failure of democratic norms and institutions, this course focuses on a range of American writers and thinkers—from Walt Whitman to Galway Kinnell—for whom our human relations with nature and the relations of democratic political life are intimately tied to one another—and according to whom those relations must be understood first not in terms of scientific reason or technical expertise but in terms of moral and religious sensibilities whose cultivation would require education and creative practice in the philosophical, literary, and artistic domains.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 106",
+  "title": "Modernity and the Process of Secularization",
+  "units": "4",
+  "description": "A study of sociological, psychological, and philosophical attempts to define the modern west in terms of the marginalization and/or transformation of traditional Christian thought and institutions.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 107",
+  "title": "Black Gods of Cuba, Brazil, and Beyond: The Orishas",
+  "units": "4",
+  "description": "This reading-intensive course delves into the stories and histories of the gods called orishas, orichas, or orixas in the Americas, from their emergence as orisa among West African Yoruba groups to their veneration in Cuba, Brazil, Trinidad, the U.S., and elsewhere. The course pays special attention to their \"mythobiographies\" as communicated through divination verses and expressed in altars, dances, drum rhythms, food, and other material offerings (which ironically complicate any description of orishas as \"gods\"). Readings address the impact of transatlantic slave trade and racialization on the orishas worship; analyze gender/sexuality in rituals of initiation and possession; and emphasize the voices of Black and AfroLatinx practitioners.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 108",
+  "title": "Global Religion",
+  "units": "4",
+  "description": "Examines the globalization of religious traditions in the modern world. Topics include the polarities between homeland and diaspora, the relationships between transnational religions and nation states, and how these dynamics change the very nature of religious traditions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 109B",
+  "title": "Christianity, Judaism, and Islam in China",
+  "units": "4",
+  "description": "Examines Christian, Jewish, and Muslim communities in the Middle Kingdom from 500 to the present day, debunking the myth of a closed and insular China.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 110",
+  "title": "Religion and Literature",
+  "units": "4",
+  "description": "An examination of the interaction between religion and literature through the study of literary works. Figures like John Milton, William Blake, and T.S. Eliot are among those considered.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 110B",
+  "title": "Religion and Journalism",
+  "units": "4",
+  "description": "Explores how the place of religion has changed in American journalism, how journalists are involved in the articulation of religion, and how journalism of religion is related to the larger issue of the changing nature of American religious pluralism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 110C",
+  "title": "Religion and Art",
+  "units": "4",
+  "description": "Exploration of the relationship between religion and twentieth-century art. Special attention on the symbolisms of space, body, time, word, and memory in modern artists such as Mondrian, Chagall, and O'Keefe, and in contemporary artists like Bill Viola, James Turrell, Marina Abramovic, Wolfgang Laib, Anselm, Kiefer, Anish Kapoor and Christian Boltanski.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 110D",
+  "title": "Ritual Art and Verbal Art of the Pacific Northwest",
+  "units": "4",
+  "description": "Religious ethos of selected peoples of the Pacific Northwest, as is expressed in masking, body paint, art, and architecture. Study of mythology, ritual, symbolism, and contemporary developments.",
+  "prerequisites_raw": "Religious Studies 14 or consent of instructor",
+  "prerequisites_courses": [
+   "RG ST 14"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 110E",
+  "title": "Mexican and Chicana Spiritualism",
+  "units": "4",
+  "description": "Course addresses the religious history of indigenous women in Mexico and Chicanas in the American Southwest. Current survival issues - freedom of religion, land claims, environmental racism, sexism, inappropriate health care, education, and employment will be addressed through interpretation and critique.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

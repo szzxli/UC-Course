@@ -1,0 +1,329 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 231B",
+  "title": "Lie Groups and Lie Algebras",
+  "units": "4",
+  "description": "Differentiable manifolds, definition and examples of lie groups, lie group-lie algebra correspondence, nilpotent and solvable lie algebras, classification of semi-simple lie algebras over the complexes, representations of lie groups and lie algebras, special topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 232A",
+  "title": "Algebraic Topology",
+  "units": "4",
+  "description": "Singular homology and cohomology, exact sequences, Hurewicz theorem, Poincare duality.",
+  "prerequisites_raw": "Mathematics 108A-B and 145.",
+  "prerequisites_courses": [
+   "MATH 108A",
+   "MATH 145"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 232B",
+  "title": "Algebraic Topology",
+  "units": "4",
+  "description": "Singular homology and cohomology, exact sequences, Hurewicz theorem, Poincare duality.",
+  "prerequisites_raw": "Mathematics 108A-B and 145.",
+  "prerequisites_courses": [
+   "MATH 108A",
+   "MATH 145"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 232C",
+  "title": "Algebraic Topology",
+  "units": "4",
+  "description": "Singular homology and cohomology, exact sequences, Hurewicz theorem, Poincare duality.",
+  "prerequisites_raw": "Mathematics 108A-B and 145.",
+  "prerequisites_courses": [
+   "MATH 108A",
+   "MATH 145"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 236A",
+  "title": "Homological Algebra",
+  "units": "4",
+  "description": "Algebraic construction of homology and cohomology theories, aimed at applications to topology, geometry, groups and rings. Special emphasis on hom and tensor functors; projective, injective and flat modules; exact sequences; chain complexes; derived functors, in particular, ext and tor.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 236B",
+  "title": "Homological Algebra",
+  "units": "4",
+  "description": "Algebraic construction of homology and cohomology theories, aimed at applications to topology, geometry, groups and rings. Special emphasis on hom and tensor functors; projective, injective and flat modules; exact sequences; chain complexes; derived functors, in particular, ext and tor.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 237A",
+  "title": "Algebraic Geometry",
+  "units": "4",
+  "description": "Affine/projective varieties, Hilbert's Nullstellensatz, morphisms of varieties, rational maps, dimension, singular/nonsingular points, blowing up of varieties, tangent spaces, divisors, differentials, Riemann-Roch theorem. Special topics may include: elliptic curves, intersection numbers, Bezout's theorem, Max Noether's theorem.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 237B",
+  "title": "Algebraic Geometry",
+  "units": "4",
+  "description": "Affine/projective varieties, Hilbert's Nullstellensatz, morphisms of varieties, rational maps, dimension, singular/nonsingular points, blowing up of varieties, tangent spaces, divisors, differentials, Riemann-Roch theorem. Special topics may include: elliptic curves, intersection numbers,Bezout's theorem, Max Noether's theorem.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 237C",
+  "title": "Algebraic Geometry",
+  "units": "4",
+  "description": "Affine/projective varieties, Hilbert's Nullstellensatz, morphisms of varieties, rational maps, dimension, singular/nonsingular points, blowing up of varieties, tangent spaces, divisors, differentials Riemann-Roch theorem. Special topics may include: elliptic curves, intersection numbers, Bezout's theorem, Max Noether's theorem.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 240A",
+  "title": "Introduction to Differential Geometry and Riemannian Geometry",
+  "units": "4",
+  "description": "Topics include geometry of surfaces, manifolds, differential forms, Lie groups, Riemannian manifolds, Levi-Civita connection and curvature, curvature and topology, Hodge theory. Additional topics such as bundles and characteristic classes, spin structures, and Dirac operator, comparison theorems in Riemannian geometry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 240B",
+  "title": "Introduction to Differential Geometry and Riemannian Geometry",
+  "units": "4",
+  "description": "Topics include geometry of surfaces, manifolds, differential forms, Lie groups, Riemannian manifolds, Levi-Civita connection and curvature, curvature and topology, Hodge theory. Additional topics such as bundles and characteristic classes, spin structures, and Dirac operator, comparison theorems in Riemannian geometry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 240C",
+  "title": "Introduction to Differential Geometry and Riemannian Geometry",
+  "units": "4",
+  "description": "Topics include geometry of surfaces, manifolds, differential forms, Lie groups, Riemannian manifolds, Levi-Civita connection and curvature, curvature and topology, Hodge theory. Additional topics such as bundles and characteristic classes, spin structures, and Dirac operator, comparison theorems in Riemannian geometry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 241A",
+  "title": "Topics in Differential Geometry",
+  "units": "4",
+  "description": "Various topics are covered including sectional curvature and Ricci curvature, minimal submanifolds, Atiyah-Singer index theorem and eta invariant, Einstein manifold, symplectic geometry, geometry of gauge theories, geometric PDE, Morse theory and Floer theory.",
+  "prerequisites_raw": "Mathematics 240A-B-C..",
+  "prerequisites_courses": [
+   "MATH 240A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 241B",
+  "title": "Topics in Differential Geometry",
+  "units": "4",
+  "description": "Various topics are covered including sectional curvature and Ricci curvature, minimal submanifolds, Atiyah-Singer index theorem and eta invariant, Einstein manifold, symplectic geometry, geometry of gauge theories, geometric PDE, Morse theory and Floer theory.",
+  "prerequisites_raw": "Mathematics 240A-B-C.",
+  "prerequisites_courses": [
+   "MATH 240A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 241C",
+  "title": "Topics in Differential Geometry",
+  "units": "4",
+  "description": "Various topics are covered including sectional curvature and Ricci curvature, minimal submanifolds, Atiyah-Singer index theorem and eta invariant, Einstein manifold, symplectic geometry, geometry of gauge theories, geometric PDE, Morse theory and Floer theory.",
+  "prerequisites_raw": "Mathematics 240A-B-C.",
+  "prerequisites_courses": [
+   "MATH 240A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 243A",
+  "title": "Ordinary Differential Equations",
+  "units": "4",
+  "description": "Existence and stability of solutions, Floquet theory, Poincare-Bendixson theorem, invariant manifolds, existence and stability of periodic solutions, Bifurcation theory and normal forms, hyperbolic structure and chaos, Feigenbaum period-doubling cascade, Ruelle-Takens cascade.",
+  "prerequisites_raw": "Mathematics 118A-B-C.",
+  "prerequisites_courses": [
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 243B",
+  "title": "Ordinary Differential Equations",
+  "units": "4",
+  "description": "Existance and stability of solutions, Floq uet theory, Poincare-Bendixson theorem, invariant manifolds, existence and stability of periodic solutions, Bifurcation theory and normal forms, hyperbolic structure and chaos, Feigenbaum period-doubling cascade, Ruelle-Takens cascade.",
+  "prerequisites_raw": "Mathematics 118A-B-C.",
+  "prerequisites_courses": [
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 243C",
+  "title": "Ordinary Differential Equations",
+  "units": "4",
+  "description": "Existance and stability of solutions, Floquet theory, Poincare-Bendixson theorem, invariant manifolds, existence and stability of periodic solutions, Bifurcation theory and normal forms, hyperbolic structure and chaos, Feigenbaum period-doubling cascade, Ruelle-Takens cascade.",
+  "prerequisites_raw": "Mathematics 118A-B-C.",
+  "prerequisites_courses": [
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 244A",
+  "title": "Computational Fluid Dynamics",
+  "units": "4",
+  "description": "Nonlinear hyperbolic conservation laws, Euler equations, shock capturing schemes, Navier-Stokes equations, multigrid method for elliptic equations.",
+  "prerequisites_raw": "Mathematics 204A-B-C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 244B",
+  "title": "Computational Fluid Dynamics",
+  "units": "4",
+  "description": "Nonlinear hyperbolic conservation laws, Euler equations, shock capturing schemes, Navier-Stokes equations, multigrid method for elliptic equations.",
+  "prerequisites_raw": "Mathematics 204A-B-C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 244C",
+  "title": "Computational Fluid Dynamics",
+  "units": "4",
+  "description": "Nonlinear hyperbolic conservation laws, Euler equations, shock capturing schemes, Navier-Stokes equations, multigrid method for elliptic equations.",
+  "prerequisites_raw": "Mathematics 204A-B-C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 246A",
+  "title": "Partial Differential Equations",
+  "units": "4",
+  "description": "First-order nonlinear equations; the Cauchy problem, elements of distribution theory an Sobolev spaces; the heat, wave, and Laplace equations; additional topics such as quasilinear symmetric hyperbolic systems, elliptic regularity theory.",
+  "prerequisites_raw": "Mathematics 201A-B-C.",
+  "prerequisites_courses": [
+   "MATH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 246B",
+  "title": "Partial Differential Equations",
+  "units": "4",
+  "description": "First-order nonlinear equations; the Cauchy problem, elements of distribution theory and Sobolev spaces; the heat, wave, and Laplace equations; additional topics such as quasilinear symmetric hyperbolic systems, elliptic regularity theory.",
+  "prerequisites_raw": "Mathematics 201A-B-C.",
+  "prerequisites_courses": [
+   "MATH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 246C",
+  "title": "Partial Differential Equations",
+  "units": "4",
+  "description": "First-order nonlinear equations; the Cauchy problem, elements of distribution theory and Sobolev spaces; the heat, wave, and Laplace equations; additional topics such as quasilinear symmetric hyperbolic systems, ellipitic regularity theory.",
+  "prerequisites_raw": "Mathematics 201A-B-C.",
+  "prerequisites_courses": [
+   "MATH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260A",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260AA",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260B",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 260BB",
+  "title": "Seminars in Mathematics",
+  "units": "0",
+  "description": "Topics in algebra, analysis, applied mathematics, combinatorial mathematics, functional analysis, geometry, statistics, topology, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

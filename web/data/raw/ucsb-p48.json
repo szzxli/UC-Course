@@ -1,0 +1,253 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 222",
+  "title": "Colloids and Biosurfaces",
+  "units": "3",
+  "description": "Basic forces and interactions between atoms, molecules, small particles and extended surfaces. Special features and interactions associated with (soft) biological molecules, biomaterials and surfaces: lipids, proteins, fibrous molecules (DNA), biological membranes, hydrophobic and hydrophilic interactions, bio-specific and non-equilibrium interactions. Graduate students do a project on a topic to be proposed by the students, and with a report to be presented to the class at the end of the quarter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 222A",
+  "title": "Colloids and Interfaces I",
+  "units": "3",
+  "description": "Introduction to the various intermolecular interactions in solutions and in colloidal systems: Van Der Waals, electrostatic, hydrophobic, solvation, H-bonding. Introduction to colloidal systems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 222B",
+  "title": "Colloids and Interfaces II",
+  "units": "3",
+  "description": "Continuation of 222A. Interparticle interactions, coagulation, DLVO theory, steric interactions, polymer-coated surfaces, polymers in solution, thin film viscosity. Surfactant and lipid self-assembly: micelles, microemulsions. Surfaces: wetting, contact angles, surface tension. Surfactants on surfaces: langmuir-blodgett films, adsorption, adhesion. Non-equilibrium and dynamic interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 224",
+  "title": "Microfluidic Physics",
+  "units": "3",
+  "description": "This course explores the physical effects underlying microfluidic systems, including viscous flows, the transport of suspended molecules and particles (advection, diffusion, reaction, and non-Newtonian effects), capillary effects in multi-phase systems, linear and nonlinear electrokinetic effects (electrophoresis, dielectrophoresis, induced-charge electrokinetics).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 226",
+  "title": "Level Set Methods",
+  "units": "4",
+  "description": "Mathematical description of the level set method and design of the numerical methods used in its implementations (ENO-WENO, Godunov, Lax-Friedrich, etc.). Introduction to the Ghost Fluid Method. Applications in CFD, Materials Sciences, Computer Vision and Computer Graphics.",
+  "prerequisites_raw": "CMPSC 211C or CH E 211C or ECE 210C or ME 210C.",
+  "prerequisites_courses": [
+   "CMPSC 211C",
+   "CH E 211C",
+   "ECE 210C",
+   "ME 210C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 227",
+  "title": "Atomistic and Particle Modeling",
+  "units": "3",
+  "description": "Study the basic theory, equations and algorithms of atomistic and particle methods. Particular emphasis placed on molecular dynamics and Monte Carlo methods; other techniques, such as Brownian dynamics and smoothed particle hydrodynamics, are also studied.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 228",
+  "title": "Non-Newtonian Fluids, Soft Materials and Chemical Products",
+  "units": "3",
+  "description": "Overview of soft materials (suspensions, gels, polymers, surfactants, emulsions, powders and granules) that arise in diverse industries, including consumer products, foods, advanced materials, biotechnology, and mineral and energy production. Influence of non-Newtonian rheology (shear-thickening and thinning, viscoelasticity, extension-thickening, yield stresses, normal stress differences, and metastability) upon handling, processing, production, and performance of chemical products. Strategies to design chemical products that meet performance targets, and to scale-up production. Real-world case studies and classroom demonstrations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 230A",
+  "title": "Advanced Theoretical Methods in Engineering",
+  "units": "4",
+  "description": "Methods of solution of partial differential equations and boundary value problems. Linear vector and function spaces, generalized fourier analysis, Sturm-Liouville theory, calculus of variations, and conformal mapping techniques.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 230B",
+  "title": "Advanced Theoretical Methods in Engineering",
+  "units": "3",
+  "description": "Advanced mathematical methods for engineers and scientists. Complex analysis, integral equations and green's functions. Asymptotic analysis of integrals and sums. Boundary layer methods and WKB theory.",
+  "prerequisites_raw": "Chemical Engineering 230A and consent of instructor.",
+  "prerequisites_courses": [
+   "CH E 230A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 230C",
+  "title": "Nonlinear Analysis of Dynamical Systems",
+  "units": "3",
+  "description": "Bifurcation and stability theory of solutions to nonlinear evolution equations; introduction to chaotic dynamics. Emphasis on asymptotic and numerical methods for the analysis of steady-state and time-dependent nonlinear boundary-value problems.",
+  "prerequisites_raw": "Chemical Engineering 230A and consent of instructor.",
+  "prerequisites_courses": [
+   "CH E 230A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 230D",
+  "title": "Statistical Methods in Chemical Engineering",
+  "units": "3",
+  "description": "An introduction to basic and intermediate statistical, probabilistic, and data analysis methods in engineering: probability functions and their properties, sampling distributions and limits, data collection and statistical inference, hypothesis testing, design of experiments, maximum likelihood and Bayesian methods, linear regression and regularization techniques, nonlinear regression, classification methods, error analysis and model assessment/validation, clustering and data reduction.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 238A",
+  "title": "Rheology of Complex Fluids",
+  "units": "3",
+  "description": "An introduction to molecular and microscale theories for the viscoelastic behavior of complex fluids: suspensions, colloidal dispersions, liquid crystals, dilute polymer solutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 240A",
+  "title": "Advanced Chemical Reaction Engineering",
+  "units": "3",
+  "description": "Following review of the theory of reaction kinetics for catalyzed and noncatalyzed systems, detailed consideration is given to design and performance of catalysts and chemical reactors. Mathematical studies of stability and optimization are emphasized in relationship to mass, energy, and momentum transport.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 240B",
+  "title": "Advanced Chemical Reaction Engineering",
+  "units": "3",
+  "description": "Following review of the theory of reaction kinetics for catalyzed and noncatalyzed systems, detailed consideration is given to design and performance of catalysts and chemical reactors. Mathematical studies of stability and optimization are emphasized in relationship to mass, energy, and momentum transport.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 240C",
+  "title": "Advanced Catalysis",
+  "units": "3",
+  "description": "Theories of reaction rates. Heterogeneous and homogenous catalysis, including physical structure and characterization of catalysts. Catalyst poisoning.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 241",
+  "title": "Advanced Science and Engineering of Energy Conversion",
+  "units": "3",
+  "description": "The course provides a framework for understanding the energy supply issues facing society with a focus on the science, engineering, and economic principles of the major alternatives. Emphasis will be on the physical and chemical fundamentals of energy conversion technologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 246",
+  "title": "Advanced Catalysis",
+  "units": "3",
+  "description": "Theories of reaction rates. Heterogeneous and homogenous catalysis, including physical structure and characterization of catalysts. Catalyst poisoning.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 248",
+  "title": "Reaction Rate Theory",
+  "units": "3",
+  "description": "Advanced theoretical and computational methods for the analysis of reaction kinetics and mechanisms. Topics include transition state theory, Kramers' theory, tunneling effects, transition state search algorithms, transition path sampling, kinetic Monte Carlo, reaction coordinate and degree-of-rate-control analyses.",
+  "prerequisites_raw": "Same course as Chemistry 248.",
+  "prerequisites_courses": [
+   "CHEM 248"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 255",
+  "title": "Methods in Systems Biology",
+  "units": "3",
+  "description": "Fundamentals of dynamic network organization in biology (genes, metabolites). Emphasis on mathematical approaches to model and analyze complex biophysical network systems. Detailed case studies demonstrating successes of systems biology. Basic biological systems reviewed for nonbiologists.",
+  "prerequisites_raw": "Prior coursework in cellular biology, mathematics; consent of instuctor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 258",
+  "title": "Protein Design and Engineering",
+  "units": "3",
+  "description": "Introduction to principles of the development of proteins and peptides for technological applications; including consumer products, materials, chemicals, biofuels, and medicine. Topics include protein engineering technologies, experimental and computational tools for sequence design, structural and immunogenicity analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 260",
+  "title": "Introduction to Polymer Science",
+  "units": "3",
+  "description": "Introductory course covering synthesis, characterization, structure, and mechanical properties of polymers. The course is taught from a materials perspective and includes polymer thermodynamics, chain architecture, measurement and control of molecular weight as well as crystallization and glass transitions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 266",
+  "title": "Mechatronics and Instrumentation for Chemical Engineers",
+  "units": "3",
+  "description": "Introduction to electromechanical systems and instrumentation used in Chemical Engineering. Fundamentals of transducers, sensors and actuators; interfacing and controlling hardware with software (Labview & Matlab programming); analog and digital circuits; hands-on electrical and mechanical design, prototyping, and construction. Students produce a final computer-controlled electromechanical project of their own design, or in conjunction with a ChE-faculty research laboratory. Graduate students taking the course will have an extensive final design project related to some aspect of their thesis research involving automated data acquisition and/or control of instrumentation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 272",
+  "title": "Omics-enabled Biotechnology",
+  "units": "3",
+  "description": "Integrates genomic, transcriptomic, metabolomic, and proteomic approaches to quantify and understand intricate biological systems. Complementary bioinformatics approaches to curate the large datasets associated with these experiments are also discussed. Recent examples from the literature reinforce core concepts, ranging from applications to human health to the environment. By the end of the course, students should be able to design an integrated experiment that capitalizes on these omics-based approaches to enhance the scope of their research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 274",
+  "title": "Model-Guided Engineering of Biological Systems",
+  "units": "3",
+  "description": "Introduction to fundamental principles underlying synthetic biology with an emphasis on mathematical modeling of gene regulation using ordinary differential equations and mass action kinetics. Students are introduced to foundational concepts in molecular and cellular engineering, synthetic biology, quantitative modeling of various genetic circuits, as well as cutting edge applications of innovative molecular biotechnologies such as cancer immunotherapy and cell-based diagnostics. Students will also learn to design and predict the functional outcomes of synthetic gene circuits and review primary literature in the field. Graduate students enrolled will be required to submit an additional project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

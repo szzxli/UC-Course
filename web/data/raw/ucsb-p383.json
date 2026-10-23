@@ -1,0 +1,355 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 281G",
+  "title": "Topics in Cognitive Science",
+  "units": "4",
+  "description": "Cognitive science is the interdisciplinary study of how minds work. The project of understanding the mind requires tools drawn from fields that include psychology, computer science, philosophy, linguistics, anthropology, behavioral economics, neuroscience, and even the arts. This course is designed for graduate students from all disciplines wishing to understand the fundamentals of cognitive science. It will introduce you to the major tools and theories from these areas as they relate to the study of the mind. This course is the core requirement of the UCSB graduate emphasis in cognitive science, and It serves as a foundation for continued study in the cognitive sciences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 283G",
+  "title": "Beginning Symbolic Logic",
+  "units": "4",
+  "description": "An introduction to symbolic logic at the graduate level.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 284G",
+  "title": "Intermediate Symbolic Logic",
+  "units": "4",
+  "description": "A continuation of the study of symbolic logic.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 285G",
+  "title": "Advanced Symbolic Logic",
+  "units": "4",
+  "description": "An advanced study of symbolic logic.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 286G",
+  "title": "Philosophical Logic",
+  "units": "4",
+  "description": "Topics in logical theory and the philosophy of logic: intensional logic andother non-standard logics (such as modal logic); discussion of results of modern logic and their philosophical implications.",
+  "prerequisites_raw": "Philosophy 183 and 184, or equivalent.",
+  "prerequisites_courses": [
+   "PHIL 183",
+   "PHIL 184"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 287G",
+  "title": "Philosophy of Mathematics",
+  "units": "4",
+  "description": "A study at the graduate level of selected problem in the philosophy of mathematics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 288G",
+  "title": "Theory of Value",
+  "units": "4",
+  "description": "A study at the graduate level of selected problems in the theory of value.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 290",
+  "title": "The Profession of Academic Philosophy",
+  "units": "99",
+  "description": "Introduces students to the evolving realities of the profession of academic philosophy. It orients students towards success in the Ph.D. program milestones: the qualifying paper, prospectus development, and completion of the dissertation. It also imparts skills that go beyond graduation, such as preparing a CV, crafting a syllabus, delivering research talks, and writing proposals for grants and fellowships. In the course of covering these topics, the class will also provide a forum for students to reflect on issues in academia more broadly. These include pedagogical innovation, work/life balance, the current state of the discipline, the purposes of the university, and how best to support our diverse undergraduate population.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 296A",
+  "title": "Seminar in Ethics",
+  "units": "4",
+  "description": "Graduate seminar in ethics. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 296B",
+  "title": "Seminar in Epistemology",
+  "units": "4",
+  "description": "Graduate seminar in epistemology. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 296C",
+  "title": "Seminar in the Philosophy of Language",
+  "units": "4",
+  "description": "Graduate seminar in the philosophy of language. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 296D",
+  "title": "Seminar in the Philosophy of Mind",
+  "units": "4",
+  "description": "Graduate seminar in the philosophy of mind. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 296E",
+  "title": "Seminar in Metaphysics",
+  "units": "4",
+  "description": "Graduate seminar in metaphysics. Specific subject matter is selected by theinstructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 297A",
+  "title": "Seminar in the History of Philosophy",
+  "units": "4",
+  "description": "Graduate seminar in the history of philosophy. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 297B",
+  "title": "Seminar on Contemporary Figures in Philosophy",
+  "units": "4",
+  "description": "Graduate seminar on contemporary figures in philosophy. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 298A",
+  "title": "Seminar in Aesthetics",
+  "units": "4",
+  "description": "Graduate seminar in aesthetics. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 298B",
+  "title": "Seminar on Problems in Legal and Political Philosophy",
+  "units": "4",
+  "description": "Graduate seminar on problems in legal and political philosophy. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 299A",
+  "title": "Seminar in the Philosophy of Logic",
+  "units": "4",
+  "description": "Graduate seminar in the philosophy of logic. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 299B",
+  "title": "Seminar in the Philosophy of Mathematics",
+  "units": "4",
+  "description": "Graduate seminar in the philosophy of mathematics. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 299C",
+  "title": "Seminar in the Philosophy of Science",
+  "units": "4",
+  "description": "Graduate seminar in the philosophy of science. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 500",
+  "title": "Apprentice Teaching in Philosophy",
+  "units": "0",
+  "description": "A teaching practicum involving the study and development of effective teaching techniques in philosophy. Each student will be responsible for andteach a class section in an undergraduate course in philosophy. One meetingper week with instructor and one or more discussion section meetings, and attendance in the lecture of the assigned course are required.",
+  "prerequisites_raw": "Teaching assistantship in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 501",
+  "title": "Teaching Assistant Training",
+  "units": "2",
+  "description": "Instructional training. Orientation in professional conduct and responsibilities; observation of student's teaching (in the form of facultyvisits or videotaping) and follow-up conferences; discussion of teaching evaluations and workshops on pedagogical problems.",
+  "prerequisites_raw": "Teaching assistant in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 594",
+  "title": "First-Year Proseminar",
+  "units": "4",
+  "description": "Special seminar for first-year graduate students in Philosophy.",
+  "prerequisites_raw": "Graduate standing. Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "A written proposal must be approved by the instructor and department chair.",
+  "prerequisites_raw": "Graduate student in philosophy; Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 597",
+  "title": "Individual Study for Master's and/or Ph.D. Examinations for Advancement to Candidacy",
+  "units": "0",
+  "description": "Individual preparation for the doctoral qualifying examination.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "This course is for research and writing of the master's thesis.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Ph.D. dissertation research and preparation.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 1",
+  "title": "Basic Physics",
+  "units": "4",
+  "description": "Introduction to classical mechanics for students in engineering and the physical sciences. Measurement, units, and foundations of physics; vectors; kinematics; circular motion; forces, mass, and Newton's laws; center of mass; momentum; work and energy; conservation laws; collisions; rotational kinematics.",
+  "prerequisites_raw": "Mathematics 2A or 3A or AP Math AB Exam with a score of 3 or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 2",
+  "title": "Basic Physics",
+  "units": "4",
+  "description": "Rotational dynamics and angular momentum; equilibrium and elasticity; periodic motion including LRC electrical circuits; gravitation; fluid mechanics; temperature; thermal expansion; heat and the first law of thermodynamics; heat conduction; kinetic theory of gases; entropy and the second law; heat engines.",
+  "prerequisites_raw": "Physics 1 with a grade of C- or better; Mathematics 2A-B or 3A-B or AP Math BC exam with a score of 3 or better.",
+  "prerequisites_courses": [
+   "PHYS 1",
+   "MATH 2A",
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 3",
+  "title": "Basic Physics",
+  "units": "3",
+  "description": "Mechanical waves, wave interference and normal modes, sound and hearing, electric field, Gauss's law, electric potential, capacitance and dielectrics, current, resistance, electromotive force, DC circuits.",
+  "prerequisites_raw": "Physics 2 with a grade of C- or better; Mathematics 2A-B or 3A-B (AP Math BC Exam score of 3 or better) and 4A.",
+  "prerequisites_courses": [
+   "PHYS 2",
+   "MATH 2A",
+   "MATH 3A",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 3L",
+  "title": "Physics Laboratory",
+  "units": "1",
+  "description": "Introductory laboratory emphasizing periodic motion, sound and basic electronics.",
+  "prerequisites_raw": "Physics 3 or 23 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 3",
+   "PHYS 23"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 4",
+  "title": "Basic Physics",
+  "units": "3",
+  "description": "Magnetic fields, electromagnetic induction and inductance, AC circuits, Maxwell's equations, electromagnetic waves, light and geometrical optics, interference and diffraction.",
+  "prerequisites_raw": "Physics 3 with a grade of C- or better.",
+  "prerequisites_courses": [
+   "PHYS 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 4L",
+  "title": "Physics Laboratory",
+  "units": "1",
+  "description": "Introductory laboratory emphasizing magnetism, circuits and optics.",
+  "prerequisites_raw": "Physics 4 or 24 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 4",
+   "PHYS 24"
+  ]
+ }
+]

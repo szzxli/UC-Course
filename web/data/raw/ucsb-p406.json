@@ -1,0 +1,370 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 250",
+  "title": "Quantitative Methods in the Social Sciences Colloquium",
+  "units": "2",
+  "description": "Required colloquium course for students in the interdisciplinary Quantitative Methods in the Social Sciences emphasis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. PSTAT 262FM is reserved for topics in financial mathematics and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262A",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262AA",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262AI",
+  "title": "Statistical Deep Learning for Artificial Intelligence",
+  "units": "0",
+  "description": "Deep learning predictive models, optimization, and sampling methods. Emphasis is on learning the probabilistic framework, deriving efficient estimators using matrix algebra, and developing scalable artificial intelligence algorithms and code to solve real-world research problems.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262AP",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262AS",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262AT",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262B",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262BN",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262BT",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262C",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262D",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262DD",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. PSTAT 262DD is reserved for topics in directional data and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262DH",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262DM",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. PSTAT 262DM is reserved for topics in diffusion models and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262DS",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. PSTAT 262FM is reserved for topics in financial mathematics and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262E",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262ES",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262F",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262FD",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262FE",
+  "title": "Feature Extraction Methods",
+  "units": "0",
+  "description": "Provides an introduction to core linear and non-linear feature extraction methods that form the basis of the mathematical treatment of modern multivariate analysis in machine learning practice and kernel methods. The topics covered will include aspects of kernel theory, efficient and robust computation with large Gram matrices, kernel construction, multivariate methods such as Principle Component Analysis (PCA), kernel PCA, Independent Component Analysis (ICA), Partial Least Squares (PLS) and kernel PLS, Canonical Correlation Analysis (CCA) and Kernel CCA, Fisher Discriminant Analysis and kernel FDA. Regularization methods in feature extraction, compressive sampling and random projections.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262FM",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. PSTAT 262FM is reserved for topics in financial mathematics and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262FR",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. Reserved for topics in financial mathematics and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262G",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262GS",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor. .",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262GT",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262JH",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262JL",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262LC",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff. PSTAT 262LC is reserved for topics in financial mathematics and statistics.",
+  "prerequisites_raw": "PSTAT 120A-B-C; consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 262MC",
+  "title": "Seminars In Probability and Statistics",
+  "units": "0",
+  "description": "Topics of current research interest in probability and/or statistics, by means of lectures and informal conferences with members of staff.",
+  "prerequisites_raw": "PSTAT 120A-B-C and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ }
+]

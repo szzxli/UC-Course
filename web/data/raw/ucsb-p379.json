@@ -1,0 +1,335 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 121",
+  "title": "Political Philosophy",
+  "units": "4",
+  "description": "Analysis of fundamental political conceptions; the state, sovereignty, political obligation, natural rights, natural law, etc.",
+  "prerequisites_raw": "Major in philosophy, law & society, political science, or global and international studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 122",
+  "title": "Theories of Justice",
+  "units": "4",
+  "description": "An examination, in detail, of one or more influential philosophical theories of justice.",
+  "prerequisites_raw": "Major in philosophy, law & society, political science, or global and international studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 124A",
+  "title": "Philosophy of Science",
+  "units": "4",
+  "description": "What is science? How does it differ from non-science? Course examines both the history of science and the history of philosophy of science in an effort to discover just what science is and what it has to offer.",
+  "prerequisites_raw": "A prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 124B",
+  "title": "Philosophy of Physics",
+  "units": "4",
+  "description": "Emphasizes the role that philosophical considerations played in both the evolution and actual practice of science. The major emphasis is on the creation and development of the watersheds of twentieth-century physics: relativity and quantum mechanics.",
+  "prerequisites_raw": "A prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 124C",
+  "title": "Philosophy of Space and Time",
+  "units": "4",
+  "description": "Is space a thing or a series of relations holding between objects? Does time pass differently for different observers, or in different parts of the universe? Consideration of these and other questions lead to an examination of contemporary physics.",
+  "prerequisites_raw": "A prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 124D",
+  "title": "Philosophy of Quantum Mechanics",
+  "units": "4",
+  "description": "Examines the history of the development of quantum mechanics, focusing on the philosophical conundrums that arose from the tortured process of finding a theory that \"worked.\" This is done at the conceptual level, with minimal reliance on mathematical techniques.",
+  "prerequisites_raw": "A prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 124E",
+  "title": "Philosophy of Biology",
+  "units": "4",
+  "description": "The biological sciences are distinctively different from the physical sciences. This course will focus on philosophical topics central to biology, such as evolutionary theory and its implications, the proper understanding of concepts such as function, fitness, selection, gene, or the nature of organisms and species.",
+  "prerequisites_raw": "A prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 124F",
+  "title": "Philosophical Foundations of Cognitive Science",
+  "units": "4",
+  "description": "What is the mind and how can we model it? Cognitive science offers a distinctive approach to fundamental philosophical questions about the mind. This course begins with the classical foundations of cognitive science and surveys recent developments in the field, including neural networks, theories of embodiment, dynamical systems, and recent statistical approaches to cognition and artificial intelligence.",
+  "prerequisites_raw": "A prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 124G",
+  "title": "Philosophy and Neuroscience",
+  "units": "4",
+  "description": "The brain is the seat of who we are. This course will focus on topics at the intersection of philosophy and the brain sciences, such as neuroethics, philosophy of neuroscience, representation in the brain, or philosophical and scientific theories of consciousness.",
+  "prerequisites_raw": "A prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 125",
+  "title": "Animal Minds",
+  "units": "4",
+  "description": "The goal of this course is to examine current research in animal cognition with a view to understanding how philosophical and scientific questions about animal minds interact. Topics may include whether nonhuman animals can feel pain; whether they can suffer; whether they have episodic memory; whether they are conscious. We will also consider ethical implications of the answers we find to the above questions.",
+  "prerequisites_raw": "Philosophy 100D, or two prior courses in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 126",
+  "title": "Social Philosophy",
+  "units": "4",
+  "description": "This course will examine moral problems associated with economic activity; for example, economic justice and the moral basis of property rights.",
+  "prerequisites_raw": "Philosophy 100A; or, two prior courses in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 127",
+  "title": "Philosophy of Gender",
+  "units": "4",
+  "description": "Philosophical issues involving the concept of gender. Topics may include the distinction between sex and gender, gender and sexuality, theories of gender, gender identity and expression, non-binary and queer genders, and gender subordination and oppression.",
+  "prerequisites_raw": "One course from PHIL 100A-F and one additional course in Philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 128",
+  "title": "Feminist Philosophy",
+  "units": "4",
+  "description": "In this course, we examine philosophical approaches to feminism and feminist issues. Topics covered may include inequality in the workplace and in family structures; global feminism; objectification; pornography; and prostitution.",
+  "prerequisites_raw": "Philosophy 100A; or, two prior courses in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 129",
+  "title": "Philosophy of International Relations",
+  "units": "4",
+  "description": "Study of philosophical problems in international relations.",
+  "prerequisites_raw": "Major in philosophy, law & society, political science, or global and international studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 130",
+  "title": "Freedom and Determinism",
+  "units": "4",
+  "description": "Determinism is the doctrine that the laws of nature plus the past necessitate the future. Is determinism compatible with the view that we often act freely and are often morally responsible for what we do?",
+  "prerequisites_raw": "Prerequisite: one prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 131",
+  "title": "Advanced Topics in Applied Ethics.",
+  "units": "4",
+  "description": "Advanced topics in applied ethics, such as the ethics of war; the ethics of procreation; and the ethics of how we treat animals.",
+  "prerequisites_raw": "Philosophy 100A; or, two prior courses in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 132",
+  "title": "Existentialism",
+  "units": "4",
+  "description": "A study of some existentialist writings.",
+  "prerequisites_raw": "One prior course in philosophy; or, junior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 133",
+  "title": "History of Political Thought",
+  "units": "4",
+  "description": "A study of one or more important figures from the history of political thought.",
+  "prerequisites_raw": "Major in philosophy, law & society, political science, or global and international studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 134",
+  "title": "Moral Psychology",
+  "units": "4",
+  "description": "An examination of the nature of desires, emotions, the imagination and other aspects of human psychology, and of the ways these bear on the moral evaluation of people and actions.",
+  "prerequisites_raw": "Philosophy 4 or 100A; and, Philosophy 100B or 100C or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 4",
+   "PHIL 100B",
+   "PHIL 100A",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 135",
+  "title": "Contemporary Philosophy",
+  "units": "4",
+  "description": "Systematic investigation of topics drawn from contemporary analytic or continental philosophy.",
+  "prerequisites_raw": "Philosophy 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 136",
+  "title": "Advanced Topics in Feminist Philosophy",
+  "units": "4",
+  "description": "Focuses on advanced topics in feminist philosophy, sometimes covering one topic or one author over the course. Content will vary but may include contemporary debates, such as gender, pornography, consent, single authors such as Wollstonecraft, or de Beauvoir, and themes, such as early feminist thinkers, or feminist epistemology.",
+  "prerequisites_raw": "Philosophy 1 or Philosophy 4 or Philosophy 100A",
+  "prerequisites_courses": [
+   "PHIL 1",
+   "PHIL 4",
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 137",
+  "title": "Aesthetic Theory",
+  "units": "4",
+  "description": "A study of some major works in the philosophy of art from Plato to the present, with emphasis on the development and analysis of the basic concepts employed in criticism of the arts.",
+  "prerequisites_raw": "One prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 138",
+  "title": "Normative Ethics",
+  "units": "4",
+  "description": "An examination of what makes actions morally right or wrong and people morally good or bad.",
+  "prerequisites_raw": "Philosophy 100A; or, two prior courses in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 139",
+  "title": "Meta-Ethics",
+  "units": "4",
+  "description": "An examination of problems concerning the meaning and justification of moral judgments.",
+  "prerequisites_raw": "Philosophy 100A; or, two prior courses in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 141",
+  "title": "History of Ethics",
+  "units": "4",
+  "description": "A study of one or more historically important moral philosophers.",
+  "prerequisites_raw": "Philosophy 100A; or, two prior courses in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 142",
+  "title": "Advanced Topics in Philosophy of Religion",
+  "units": "4",
+  "description": "Advanced topics in the philosophy of religion. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Philosophy 112; or two prior upper-division courses in philosophy; and, oneadditional course in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 112"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 143",
+  "title": "Philosophy of Law",
+  "units": "4",
+  "description": "An introduction to some of the main issues generated by the philosophical question, \"What is law?\" In what sense is conduct made obligatory by the existence of law? What, if any, is the relationship between law and morals? What are rules? What does it mean to say that a rule exists? Do courts really apply rules or merely pretend to do so?",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 144",
+  "title": "Advanced Topics in the Philosophy of Law",
+  "units": "4",
+  "description": "Study of advanced topics in the philosophy of law.",
+  "prerequisites_raw": "Major in philosophy, law & society, political science, or global and international studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 145",
+  "title": "Punishment and Responsibility",
+  "units": "4",
+  "description": "An examination of some of the philosophical problems of punishment and responsibility: The rationale of punishment and the legal doctrine of Mensrea; the analysis of conditions of responsibility, relations between punishment, responsibility, retribution, guilt, shame, etc.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 146",
+  "title": "Philosophy in Literature",
+  "units": "4",
+  "description": "Introduction to major problems at the intersection of philosophy and literature. Issues addressed may include philosophical assessments of literature, authorship and interpretation, truth in fiction, significance of literary works and form for philosophy; texts include imaginative literature and philosophical essays.",
+  "prerequisites_raw": "One course completed in Philosophy.",
+  "prerequisites_courses": []
+ }
+]

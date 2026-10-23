@@ -1,0 +1,316 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 158D",
+  "title": "Diction",
+  "units": "1",
+  "description": "French diction.",
+  "prerequisites_raw": "Primarily for Voice majors. Music 25 or equivalent.",
+  "prerequisites_courses": [
+   "MUS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 160A",
+  "title": "Form and Analysis of Classical Music",
+  "units": "4",
+  "description": "Analysis of small- and large-scale formal structures in music from the late Baroque through the late Classic period (ca. 1720-1820).",
+  "prerequisites_raw": "Music 4C; Music 5C with a grade of at least C-.",
+  "prerequisites_courses": [
+   "MUS 4C",
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 160B",
+  "title": "Twentieth Century Analysis",
+  "units": "4",
+  "description": "Analysis of non-tonal and twelve-tone music.",
+  "prerequisites_raw": "Music 4C; Music 5C with a grade of at least C-.",
+  "prerequisites_courses": [
+   "MUS 4C",
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 160C",
+  "title": "Advanced Tonal Analysis",
+  "units": "4",
+  "description": "Continuation of Music 160A, advanced tonal analysis through nineteenth century works.",
+  "prerequisites_raw": "Music 4C, 5C, and 160A.",
+  "prerequisites_courses": [
+   "MUS 4C",
+   "MUS 5C",
+   "MUS 160A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 160D",
+  "title": "Tuning and Temperament",
+  "units": "3",
+  "description": "Survey of a number of tuning systems found around the world, including those of Ancient Greece, Europe, India, China, the Arab Middle East, Turkey, and Indonesia. The mathematical, aesthetic, and symbolic bases of each system will be considered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 160E",
+  "title": "The Arabic System of Melodic Modes: The Maqamat",
+  "units": "3",
+  "description": "An intensive examination of the system of melodic modes (Maqamat) that governs present-day practice in the eastern Arab world. Emphasis given to theoretical issues (quarter tones, tetrachordel structures, and theories of intonation), analysis of standard repertoire, and procedures governing improvisation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 160F",
+  "title": "Sound Color: Timbre and Music",
+  "units": "3",
+  "description": "\"Sound color\" refers to the quality or timbre of musical sound, whether instrumental, vocal, or synthetic. This course investigates timbre's special perceptual and cognitive qualities, as well as its unique expressive power in music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 160P",
+  "title": "Analysis of Popular Music",
+  "units": "4",
+  "description": "Explores different approaches to analyzing popular music (specifically post-1960, predominantly American popular music), including not only theory and analysis of harmony and melody, form, timbre, rhythm/meter but also issues of meanings and expression, intertextuality, race and gender.",
+  "prerequisites_raw": "Music 5B with a grade of at least C-",
+  "prerequisites_courses": [
+   "MUS 5B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 161",
+  "title": "Keyboard Literature",
+  "units": "3",
+  "description": "A comprehensive survey of the history and development of stringed keyboard instruments and the repertoire associated with these diverse instruments. An extensive listening list will be available via the Naxos Music Library.",
+  "prerequisites_raw": "Music 11 or Music 5A; Music 10A, or Music 10B, or Music 10COR WITH CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": [
+   "MUS 11",
+   "MUS 5A",
+   "MUS 10A",
+   "MUS 10B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 162",
+  "title": "Choral Literature",
+  "units": "3",
+  "description": "A historical and analytical survey of major choral works from the seventeenth century to the present.",
+  "prerequisites_raw": "Three quarters of the Music 112A-F series.",
+  "prerequisites_courses": [
+   "MUS 112A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168A",
+  "title": "Popular Music & Globalization",
+  "units": "4",
+  "description": "Through the interface of globalization and music, we will explore the cultural politics of nation and person, community and commodity, in modern societies, as well as the ways recording and broadcasts of music have changed musical practices and experiences.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168C",
+  "title": "Music and Religion",
+  "units": "4",
+  "description": "An examination of the structural role and symbolic functions of music in religious systems. Case studies will be drawn from diverse world traditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168G",
+  "title": "Other Issues in Ethnomusicology",
+  "units": "4",
+  "description": "A study of other cultural issues in ethnomusicology. Specific issue or topics will vary by quarter and will be announced in advance by the department.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168H",
+  "title": "Music and Tourism",
+  "units": "4",
+  "description": "Students read folklore, anthropology, tourism studies, musicology, and ethnomusicology in an attempt to develop theories for interpreting the impact of tourism on music locally and globally.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168I",
+  "title": "Film Music Cognition",
+  "units": "4",
+  "description": "A consideration of film music as a medium of communication between the director, composer, music supervisor, editors, performers and the audience. Emphasis given to cognitive psychological theories of meaning in terms of structure and affect in audio/visual contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168J",
+  "title": "Music and Documentary Film",
+  "units": "4",
+  "description": "View global popular music through the lens of documentary film. We will analyze a series of films depicting cultural and political histories, creative performances, and everyday lives of musicians in different representational frames and social contexts.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168K",
+  "title": "The Musical World of the Grateful Dead: from Americana to Psychedelia",
+  "units": "4",
+  "description": "An examination of the Grateful Dead and its impact on popular culture, festivals and the music business. We study the Dead’s music from folk to improvisational rock as a creative Americana response to the political turbulence of the Sixties.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168M",
+  "title": "Music as Media",
+  "units": "4",
+  "description": "Recorded media are central to the way we hear, create, exchange and experience music in contemporary social life. Topics include the early uses of the phonograph, recording studios, file-sharing, online musical exchange and roles of technological media in globalizing cultures.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168P",
+  "title": "Creative Arts, Memories and Experimental Performance",
+  "units": "4",
+  "description": "Through creative arts practices, analysis, workshops and new performance, this course explores processes of transformation and translation of traces of memories and experiences into provocative art works. Experimental performance practices encompass theatrical, movement based, sonic, music-based and visual arts.",
+  "prerequisites_raw": "Upper-division.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168R",
+  "title": "History and Practice of the Recording Studio",
+  "units": "4",
+  "description": "Explores contemporary histories and techniques of the recording studio, focusing on the role of sound engineers in US/UK postwar popular music. In addition to exploring the history of recorded sound, the class will provide students with opportunities to learn practical methods of music production.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168S",
+  "title": "Music and Sports",
+  "units": "4",
+  "description": "In this course, students study connections between the human cultural practices of music and sport. We draw from rich literatures in performance studies, sports studies, and ethnomusicology to consider selected case studies where music and sport intersect.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168T",
+  "title": "Birds, sonic arts & environmental sensitivities",
+  "units": "4",
+  "description": "Focusing on birds and sonic arts, this course engages creative, analytical & experiential activities. Topics include: ecoacoustics, sound maps, deep listening, sensory memory, soundscape ecologies and environmental issues, blurring borders between more-than-human/human interactions, art/science, and local/global.",
+  "prerequisites_raw": "Upper-division. Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 168X",
+  "title": "Umm Kulthum: Her Music, Her Life, Her Times",
+  "units": "4",
+  "description": "Analysis of the music, life, an times of the predominant Arab singer of the twentieth century. Individual projects may focus on music or text analysis, issues of gender, nationalism, agency, performance practice, and investigation of related arts (film, novels, etc.).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 169",
+  "title": "Notation and Transcription in Ethnomusicology",
+  "units": "3",
+  "description": "Survey of existing notational systems and exercises in ethnomusicological transcription, with particular attention to issues related to the visual representation of performed musical sound.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 174",
+  "title": "Musical Acoustics",
+  "units": "4",
+  "description": "Consideration of the relationships between acoustics, perception and music. Emphasis on the physical and psychophysiological bases for tonality, dynamics, timbre and rhythm. Additional focus on the vibrational properties of musical instruments and features of digital recording and playback.",
+  "prerequisites_raw": "Upper-division standing; Music 11 or Music 5A (which may be concurrent).",
+  "prerequisites_courses": [
+   "MUS 11",
+   "MUS 5A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175BR",
+  "title": "Understanding Brazilian Music in its Cultural Context",
+  "units": "4",
+  "description": "This course enables students to understand what Brazilian music is, and what is the role of Music in Brazilian culture. It offers a comprehensive panel of the history of music in Brazil. The course also provides students with a full cultural context, discussing the role of music during the two dictatorship periods in Brazil, 1930-1945 and 1964-1985 and the political impact of censorship. It also discusses the contributions of the Africans, brought to Brazil by the Portuguese colonizers, and the impact African culture has both in music and religion. Taught in English.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175E",
+  "title": "Music Cultures of the World: China",
+  "units": "4",
+  "description": "An examination of universal music issues through case studies of Chinese musical works, musicians, theories, and practices. Special attention given to interdisciplinary understanding of Chinese music and culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175F",
+  "title": "Music Cultures of the World: The Middle East",
+  "units": "4",
+  "description": "Arab, Turkish, and Persian music traditions from historical, cultural, and musicological perspectives. Emphasis given to the position of music in Islam, present-day performers, and modal and rhythmic structures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175G",
+  "title": "Music Cultures of the World: India",
+  "units": "4",
+  "description": "A survey of music traditions of the Indian subcontinent from classical to folk and popular. Emphasis on the position of music in Hindu philosophy, the role of music in society, musical instruments, and modal and rhythmic structures (Raga and Tala).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,366 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Instructor is usually the student's major research advisor. Each faculty member has a unique number designation.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Writing of the Ph.D. dissertation.",
+  "prerequisites_raw": "Graduate standing as a Ph.D. student and advancement to Doctoral Candidacy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 1",
+  "title": "Elementary Italian",
+  "units": "5",
+  "description": "Introduction to the most basic elements of Italian grammar. Articles, adjectives, gender. Verbs in the present tense.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 1HY",
+  "title": "Elementary Italian 1 Hybrid",
+  "units": "5",
+  "description": "Beginning Italian in areas of grammar and basic language skills. Face-to-face classroom contact combined with online work. ITAL 1HY, ITAL 2HY, and ITAL 3HY form a three-course series equivalent to ITAL 1, 2, & 3, Elementary Italian series.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 1SP",
+  "title": "Italian for Spanish Speakers I",
+  "units": "5",
+  "description": "Intensive introductory course sequence on the fundamentals of speaking, reading, writing, and comprehending Italian, with an emphasis on structural similarities between Italian and Spanish. This 2-course sequence covers the first full year of Italian.",
+  "prerequisites_raw": "1 year of college Spanish; or 3 years of high school Spanish; or be native or heritage speaker of Spanish.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 2",
+  "title": "Elementary Italian",
+  "units": "5",
+  "description": "Logical continuation of Italian 1. Direct and indirect pronouns. Verbs in the past tense and the imperfect. Emphasis on the correct writing and speaking of Italian.",
+  "prerequisites_raw": "Italian 1 or equivalent.",
+  "prerequisites_courses": [
+   "FR 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 2HY",
+  "title": "Elementary Italian 2 Hybrid",
+  "units": "5",
+  "description": "Continuation of ITAL 1HY in areas of grammar and basic language skills. Face-to-face classroom contact combined with online work. ITAL 1HY, 2HY, and 3HY form a three-course series equivalent to the ITAL 1, 2, and 3 or ITAL 16A and 16B Elementary Italian series.",
+  "prerequisites_raw": "Completion of Italian 1 or Italian 1HY with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "FR 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 2SP",
+  "title": "Italian for Spanish Speakers II",
+  "units": "5",
+  "description": "Intensive introductory course sequence on the fundamentals of speaking, reading, writing, and comprehending Italian, with an emphasis on structural similarities between Italian and Spanish. This 2-course sequence covers the first full year of Italian.",
+  "prerequisites_raw": "Italian 16A or Italian 1SP with a grade of P or a grade of C or higher; or ITA1 and ITA2 with one year of college Spanish or 3 years of high school Spanish; or be native or heritage speaker of Spanish.",
+  "prerequisites_courses": [
+   "FR 16A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 3",
+  "title": "Elementary Italian",
+  "units": "5",
+  "description": "Continuation of Italian 2. Verbs in the future, conditional. Introduction to subjunctive. Further emphasis on the correct writing and speaking of Italian.",
+  "prerequisites_raw": "Italian 2 or equivalent.",
+  "prerequisites_courses": [
+   "FR 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 3HY",
+  "title": "Elementary Italian 3 Hybrid",
+  "units": "5",
+  "description": "Continuation of ITAL 2HY in areas of grammar and basic language skills. Face-to-face classroom contact combined with online work. ITAL 1HY, 2HY, and 3HY form a three-course series equivalent to ITAL 1, 2, and 3 or ITAL 16A and 16B, Elementary Italian series.",
+  "prerequisites_raw": "Completion of Italian 2 or Italian 2HY with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "FR 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 4",
+  "title": "Intermediate Italian",
+  "units": "5",
+  "description": "Intended to develop the linguistic skills of students who have completed the first year. Review of basic grammar structures with emphasis on exceptions, enrichment of vocabulary, reading comprehension, and discussion of modern short stories. In Italian.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 5",
+  "title": "Intermediate Italian",
+  "units": "5",
+  "description": "Increases the students' reading, writing, and speaking skills. Review of more complex grammar structures through written exercises, enrichment of vocabulary, reading comprehension and discussion of contemporary short stories. In Italian.",
+  "prerequisites_raw": "Italian 4.",
+  "prerequisites_courses": [
+   "FR 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 6",
+  "title": "Intermediate Italian",
+  "units": "5",
+  "description": "Further develops the students' reading, writing, and speaking skills. Intensive review of the most advanced grammar structures: subjunctive, passive voice, indirect discourse. Reading and discussion of contemporary short stories. In Italian.",
+  "prerequisites_raw": "Italian 5.",
+  "prerequisites_courses": [
+   "FR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 8A",
+  "title": "Italian Conversation",
+  "units": "2",
+  "description": "Improves comprehension and conversational skills through the discussion of contemporary issues selected by the instructor.",
+  "prerequisites_raw": "Italian 1 or equivalent.",
+  "prerequisites_courses": [
+   "FR 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 8B",
+  "title": "Italian Conversation",
+  "units": "2",
+  "description": "Improves comprehension and conversational skills through the discussion of contemporary issues selected by the instructor.",
+  "prerequisites_raw": "Italian 1 or equivalent.",
+  "prerequisites_courses": [
+   "FR 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 11A",
+  "title": "Italian for Graduate Students",
+  "units": "4",
+  "description": "A service course for graduate students from other departments who need to satisfy language requirements. Class meets twice weekly. Focus is on grammatical preparation and translation skills, not spoken fluency.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 20X",
+  "title": "Introduction to Italian Culture",
+  "units": "4",
+  "description": "A sweeping inquiry into Italian culture, from its origins to its current trends. Exploration of the media, sports, gastronomy, art, music, politics, language, regional and ethnic identity, sexuality, the family, and urban life. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 20XH",
+  "title": "Introduction to Italian Culture, Honors",
+  "units": "1",
+  "description": "(Taught in English) Eligible students are invited to enroll in the honors seminar, which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in Italian 20X; honors students only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 30X",
+  "title": "Italy in Film",
+  "units": "5",
+  "description": "An introduction to the great directors of the Italian cinema including Rossellini, de Sica, Fellini, Visconti, Antonioni, Pasolini, Rosi, and Pontecorvo. Overview of the chief social and aesthetic issues of postwar Europe. Taught in English (films subtitled).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 99RA",
+  "title": "Independent Research",
+  "units": "0",
+  "description": "Individual research project supervised by a faculty member.",
+  "prerequisites_raw": "Italian 3 or equivalent with a grade of a minimum grade of B.",
+  "prerequisites_courses": [
+   "FR 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 101",
+  "title": "Advanced Reading and Composition: Italian Culture and Literature",
+  "units": "4",
+  "description": "(Taught in Italian) Focused on literary texts and movies. Students are expected to do oral presentations and write original compositions in Italian.",
+  "prerequisites_raw": "Italian 6 or equivalent",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 101A",
+  "title": "CONV & COMP",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 101B",
+  "title": "CONV & COMP",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 101C",
+  "title": "CONV & COMP",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 102",
+  "title": "Advanced Reading and Composition: Medieval and Renaissance Italy",
+  "units": "4",
+  "description": "(Taught in Italian) Interdisciplinary introduction to Medieval and Renaissance Italian culture, art, and society, through readings, oral presentations, and composition. Advanced grammar topics are coordinated with cultural themes, such as courtly love, the development of Italian city-states, humanism, the role of women, art and artists.",
+  "prerequisites_raw": "Italian 6 or equivalent",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 103",
+  "title": "Advanced Communication: Travel, Tourism, and Mobility",
+  "units": "4",
+  "description": "(Taught in Italian) Focused on the themes of mobility and travel in contemporary Italy. Students will practice both composition and conversation skills through the production of cross-disciplinary and multimedia projects.",
+  "prerequisites_raw": "Italian 6 or equivalent.",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 104",
+  "title": "Advanced Communication: Business Italian",
+  "units": "4",
+  "description": "(Taught in Italian) Thematically focused on “Made in Italy.” Students will practice written and oral skills through multidisciplinary projects, oral presentations, and discussions.",
+  "prerequisites_raw": "Italian 6 or equivalent",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 105",
+  "title": "ELEMENTI D STILISTC",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "ITALIAN 6 OR CONSENT OF DEPARTMENT.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 109",
+  "title": "Advanced Italian Conversation",
+  "units": "4",
+  "description": "(Taught in Italian) Discussion of contemporary issues selected by the instructor. Emphasis on idiomatic speech and vocabulary building.",
+  "prerequisites_raw": "Italian 5. Concurrent enrollment in Italian 6 or upper-division standing.",
+  "prerequisites_courses": [
+   "FR 5",
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 111",
+  "title": "Italian Short Fiction",
+  "units": "4",
+  "description": "(Taught in Italian) A study of the briefest forms of Italian narrative fiction ranging from the exemplum to the TV script, the short story, and the novella, leading to an exercise in creative writing in Italian.",
+  "prerequisites_raw": "Italian 101 or 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 112",
+  "title": "Italian Narrative Fiction",
+  "units": "4",
+  "description": "(Taught in Italian) A study of the longer forms of Italian narrative fiction, particularly the prose romance and the novel.",
+  "prerequisites_raw": "Italian 101 or 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 114X",
+  "title": "Dante's Divine Comedy",
+  "units": "4",
+  "description": "(Taught in English) Dante's masterpiece, The Divine Comedy, remains among the most astonishing works of world literature. This course follows the pilgram's progress through Inferno, Pergatorio and Paradiso in search of love that moves the sun and the other stars.",
+  "prerequisites_raw": "Upper-division standing or instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 119A",
+  "title": "The Art of Translation",
+  "units": "4",
+  "description": "(Taught in Italian) An intensive workshop exploring the theory and practice of translation. Students work at translating literary texts from Italian to English and vice versa.",
+  "prerequisites_raw": "Italian 1-6 or equivalent",
+  "prerequisites_courses": [
+   "FR 1",
+   "FR 6"
+  ]
+ }
+]

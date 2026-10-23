@@ -1,0 +1,349 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 185",
+  "title": "Advanced Modern Logic",
+  "units": "4",
+  "description": "Topics from the theory of formal systems, set theory, recursive function theory, and automata theory.",
+  "prerequisites_raw": "Philosophy 184 or Mathematics 109A.",
+  "prerequisites_courses": [
+   "PHIL 184"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 186",
+  "title": "Philosophical Logic",
+  "units": "4",
+  "description": "Topics in logical theory and the philosophy of logic: intensional logic andother non-standard logics (such as modal logic); discussion of results of modern logic and their philosophical implications.",
+  "prerequisites_raw": "Philosophy 184.",
+  "prerequisites_courses": [
+   "PHIL 184"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 187",
+  "title": "Philosophy of Mathematics",
+  "units": "4",
+  "description": "Logistic, formalist, and intuitionist views of th nature of mathematics. Epistemological problems of applied mathematics.",
+  "prerequisites_raw": "Philosophy 183 or Mathematics 108A or 109A.",
+  "prerequisites_courses": [
+   "PHIL 183",
+   "MATH 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 188",
+  "title": "Theory of Value",
+  "units": "4",
+  "description": "Study of theories of the nature and structure of the good and of value judgments generally.",
+  "prerequisites_raw": "One prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 189",
+  "title": "Philosophy of Love and Sex",
+  "units": "4",
+  "description": "An examination of philosophical theories about the nature and moral significance of romantic love, of sex, and of the relation between the two.",
+  "prerequisites_raw": "Two prior upper-division courses in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 192",
+  "title": "Internship in Philosophy",
+  "units": "0",
+  "description": "Practical experience and application of analytical skills learned in philosophy as interns with agencies and business. Periodic and final reports required under faculty direction.",
+  "prerequisites_raw": "Upper-division standing in philosophy; consent of department and instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 197A",
+  "title": "Senior Honors Thesis",
+  "units": "2",
+  "description": "A continuous two-quarter research and writing tutorial designed for senior honors majors. The first term will be spent mainly in selecting and researching a topic for the thesis.",
+  "prerequisites_raw": "Enrollment limited to senior honors philosophy majors; by consent of instructor and departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 197B",
+  "title": "Senior Honors Thesis",
+  "units": "2",
+  "description": "A continuous two-quarter research and writing tutorial designed for senior honors majors. The second term will be spent mainly in the writing of the thesis.",
+  "prerequisites_raw": "Enrollment limited to senior honors philosophy majors; by consent of instructor and departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 197P",
+  "title": "Senior Project for Majors with Ethics and Public Policy Emphasis",
+  "units": "0",
+  "description": "A research and writing tutorial on some topic relevant to issues in ethics and public policy. A written proposal of the project must be approved by the undergraduate adviser and the instructor.",
+  "prerequisites_raw": "Upper-division standing in philosophy; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 199",
+  "title": "Independent Studies in Philosophy",
+  "units": "0",
+  "description": "A written statement of the proposed program of study must be presented to the instructor for his or her approval before the student signs up for the course.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 199RA",
+  "title": "Independent Research Assistant",
+  "units": "0",
+  "description": "Course work shall consist of faculty supervised research.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 207G",
+  "title": "Continental Philosophy",
+  "units": "4",
+  "description": "A survey of recent continental philosophy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 208G",
+  "title": "Philosophy of the Social Sciences",
+  "units": "4",
+  "description": "Questions and problems in the methodology of the social sciences, includingwhether the social sciences have distinctive methods of explanation; modelsof rationality employed in the social sciences and whether the social sciences can or should be value-neutral.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 212G",
+  "title": "Philosophy of Religion",
+  "units": "4",
+  "description": "Study at the graduate level of topics in the philosophy of religion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 216G",
+  "title": "Meaning and Reference",
+  "units": "4",
+  "description": "An examination of the classical theories of meaning and reference: John Stuart Mill, Gottlob Frege, Bertrand Russell, and the theory of direct reference. Solutions to the classical puzzles of meaning and reference are investigated.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 217",
+  "title": "Philosophy of Computing and Artificial Intelligence",
+  "units": "4",
+  "description": "Advances in artificial intelligence and the widespread use of computers in society confront us with many interesting philosophical questions. What is computation? Is AI really intelligence? Could computers ever think or feel? Is the Turing test a good test? Are we really computers? Are there decisions computers should never make? Do computers threaten our privacy in special ways? Should AI be regulated, and how? We will survey some of the controversies and puzzles that AI has provoked.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 220G",
+  "title": "Topics in Bio-medical Ethics",
+  "units": "4",
+  "description": "A study at the graduate level of selected topics in bio-medical ethics; topics will include (but not be limited to ) abortion, euthanasia, medical experimentation, genetic engineering, and debts to future generations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 221G",
+  "title": "Political Philosophy",
+  "units": "4",
+  "description": "A study at the graduate level of selected problems in political philosophy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 222G",
+  "title": "Theories of Justice",
+  "units": "4",
+  "description": "A study at the graduate level of an examination, in detail, of one or more influential philosophical theories of justice.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 224A",
+  "title": "Philosophy of Science",
+  "units": "4",
+  "description": "What is science? How does it differ from non-science? Course examines both the history of science and the history of philosophy of science in an effort to discover just what science is and what it has to offer.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 224B",
+  "title": "Philosophy of Physics",
+  "units": "4",
+  "description": "Emphasizes the role that philosophical considerations played in both the evolution and actual practice of science. The major emphasis is on the creation and development of the watersheds of twentieth-century physics: relativity and quantum mechanics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 224C",
+  "title": "Philosophy of Space and Time",
+  "units": "4",
+  "description": "Is space a thing or a series of relations holding between objects? Does time pass differently for different observers, or in different parts of the universe? Consideration of these, and other questions leads to an examination of contemporary physics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 224D",
+  "title": "Philosophy of Quantum Mechanics",
+  "units": "4",
+  "description": "Examines the history of the development of quantum mechanics, focusing on the philosophical conundrums that arose from the tortured process of finding a theory that \"worked.\" This is done at the conceptual level, with minimal reliance on mathematical techniques.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 224E",
+  "title": "Philosophy of Biology",
+  "units": "4",
+  "description": "The biological sciences are distinctively different from the physical sciences. This course will focus on philosophical topics central to biology, such as evolutionary theory and its implications, the proper understanding of concepts such as function, fitness, selection, gene, or the nature of organisms and species.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 224F",
+  "title": "Philosophical Foundations of Cognitive Science",
+  "units": "4",
+  "description": "What is the mind and how can we model it? Cognitive science offers a distinctive approach to fundamental philosophical questions about the mind. This course begins with the classical foundations of cognitive science and surveys recent developments in the field, including neural networks, theories of embodiment, dynamical systems, and recent statistical approaches to cognition and artificial intelligence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 224G",
+  "title": "Philosophy and Neuroscience",
+  "units": "4",
+  "description": "The brain is the seat of who we are. This course will focus on topics at the intersection of philosophy and the brain sciences, such as neuroethics, philosophy of neuroscience, representation in the brain, or philosophical and scientific theories of consciousness.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 225",
+  "title": "Animal Minds",
+  "units": "4",
+  "description": "The goal of this course is to examine current research in animal cognition with a view to understanding how philosophical and scientific questions about animal minds interact. Topics may include whether nonhuman animals can feel pain; whether they can suffer; whether they have episodic memory; whether they are conscious. We will also consider ethical implications of the answers we find to the above questions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 226G",
+  "title": "Social Philosophy",
+  "units": "4",
+  "description": "A study at the graduate level of moral problems associated with economic activity, for example, economic justice and the moral basis of property rights.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 227G",
+  "title": "Philosophy of Gender",
+  "units": "4",
+  "description": "Philosophical issues involving the concept of gender. Topics may include the distinction between sex and gender, gender and sexuality, theories of gender, gender identity and expression, non-binary and queer genders, and gender subordination and oppression.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 228G",
+  "title": "Feminist Philosophy",
+  "units": "4",
+  "description": "A study at the graduate level of philosophical approaches to feminism and feminist issues. Topics covered may include inequality in the workplace and in family structures; global feminism; objectification; pornography; and prostitution.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 229G",
+  "title": "Philosophy of International Relations",
+  "units": "4",
+  "description": "The study of philosophical problems in international relations.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 230G",
+  "title": "Freedom and Determinism",
+  "units": "4",
+  "description": "A study at the graduate level of the problem of whether human action is free or determined.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 231G",
+  "title": "Advanced Topics in Applied Ethics",
+  "units": "4",
+  "description": "Advanced topics in applied ethics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 232G",
+  "title": "Existentialism",
+  "units": "0",
+  "description": "A study at the graduate level of selected existentialist writers.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

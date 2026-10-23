@@ -1,0 +1,281 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 191",
+  "title": "Undergraduate Learning Assistant Practicum",
+  "units": "0",
+  "description": "Students will intern as course Learning Assistants under the supervision of faculty and Teaching Assistants. Activities are determined in consultation with the instructor and include assisting instruction of one or two lab sections per week, as well as mentoring students within the Statistics Learning Lab.",
+  "prerequisites_raw": "PSTAT 190; Upper-division standing; and consent of the instructor. Minimum GPA 3.0. May not be applied towards major requirements.",
+  "prerequisites_courses": [
+   "PSTAT 190"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 193",
+  "title": "Internship in Statistics",
+  "units": "0",
+  "description": "Faculty sponsored academic internship in industrial or research firms. A seven to ten page written report is required and evaluated for credit.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 194",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Lectures and discussions on special topics in probability and statistics.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 194CS",
+  "title": "Computational Methods in Statistics",
+  "units": "0",
+  "description": "Using the computational power of a computer has become central to the many fields - modern statistics , data science, machine learning, deep learning, artificial intelligence etc. In this course students develop a working knowledge of modern computational statistics applicable to data science, machine learning, deep learning. Students will develop an understanding of how computers are used to do statistics and why these methods work. This will enable effective use of methods of computational statistics in applications. We will use R programming language.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 194FM",
+  "title": "Financial Market Risk and Modeling",
+  "units": "0",
+  "description": "Modern financial markets involve a wide range of risks and investment vehicles. Understanding and modeling financial markets requires an understanding of interest rate risk andits effect on government bonds, corporate bonds, other fixed income investments and equities.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 194TR",
+  "title": "Transfer Exploration Seminar: Statistics & Data Science",
+  "units": "0",
+  "description": "In part I of the course, students will learn about the UCSB's approach to Statistics & Data Science and get introduced to the other Majors offered in the Department of Statistics & Applied Probability. Students will learn about PSTAT research areas and undergraduate research opportunities, and get exposed to the varied career tracks available to SDS graduates. Part II of the course will review the mathematical concepts underlying probability, foundational programming concepts in the context of exploratory data analysis & data visualization, and the data science lifecycle, targeting preparation for pre-Majors going into PSTAT 8, 10 and 120A. Course includes Labs conducted w/Python Jupyter notebooks.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 195",
+  "title": "Special Topics in Statistics",
+  "units": "0",
+  "description": "Special topics of current importance in statistical sciences, actuarial science, or financial mathematics and statistics. Course content will vary.",
+  "prerequisites_raw": "Upper-division standing in statistics, actuarial science, and financial mathematics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 196",
+  "title": "Undergraduate Research in Actuarial Science and Mathematical Finance",
+  "units": "0",
+  "description": "Research opportunities for undergraduate students. Presentation and discussion of current research and reviews of the literature. Students will be expected to give regular oral presentations, actively participate in a weekly seminar, and prepare at least one written report on their research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 197A",
+  "title": "Data Science Capstone Project Preparation",
+  "units": "4",
+  "description": "Introduction to research skills. Discussion of current research trends, writing literature reviews, etc. Students will be required to present materials reflecting their interests, which will be critically appraised for both content and presentation. Emphasis will be placed on aiding students to acquire a high-level of professionalism.",
+  "prerequisites_raw": "PSTAT 126; and consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 197B",
+  "title": "Capstone Project in Data Science",
+  "units": "4",
+  "description": "Research opportunities for undergraduate students. Students practice their data science and applied statistics skills by completing a hands-on team project on a practical problem proposed by a project sponsor. Students are expected to give regular oral presentations and prepare at least one written report on their research.",
+  "prerequisites_raw": "PSTAT 197A; and consent of the instructor. Upper-division standing only. No more than 4.0 units may be applied towards department major electives.",
+  "prerequisites_courses": [
+   "PSTAT 197A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 197C",
+  "title": "Capstone Project in Data Science",
+  "units": "4",
+  "description": "Research opportunities for undergraduate students. Students practice their data science and applied statistics skills by completing a hands-on team project on a practical problem proposed by a project sponsor. Students are expected to give regular oral presentations and prepare at least one written report on their research.",
+  "prerequisites_raw": "PSTAT 197A; PSTAT 197B; and consent of the instructor. Upper-division standing only. No more than 4.0 units may be applied toward department major electives.",
+  "prerequisites_courses": [
+   "PSTAT 197A",
+   "PSTAT 197B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 199",
+  "title": "Independent Studies in Statistics",
+  "units": "0",
+  "description": "Independent studies in statistics.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in PSTAT.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; PSTAT 120A-B-C; an additional upper-division cours in PSTAT; consent of instructor and department.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 207A",
+  "title": "Statistical Theory",
+  "units": "4",
+  "description": "Univariate and multivariate distribution theory; generating functions; inequalities in statistics; order statistics; estimation theory: likelihood, sufficiency, efficiency, maximum likelihood; testing hypotheses: likelihood ratio and score tests, power; confidence and prediction intervals; bayesian estimation and hypothesis testing; basic decision theory, linear regression; analysis of variance.",
+  "prerequisites_raw": "PSTAT 120A-B-C. Part of a three quarter sequence with 207B and 207C.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 207B",
+   "PSTAT 207C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 207B",
+  "title": "Statistical Theory",
+  "units": "4",
+  "description": "Univariate and multivariate distribution theory; generating functions; inequalities in statistics; order statistics; estimation theory: likelihood, sufficiency, efficiency, maximum likelihood; testing hypotheses: likelihood ratio and score tests, power; confidence and prediction intervals; bayesian estimation and hypothesis testing; basic decision theory, linear regression; analysis of variance.",
+  "prerequisites_raw": "PSTAT 207A. Part of a three quarter sequence with 207A and 207C.",
+  "prerequisites_courses": [
+   "PSTAT 207A",
+   "PSTAT 207C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 207C",
+  "title": "Statistical Theory",
+  "units": "4",
+  "description": "Univariate and multivariate distribution theory; generating functions; inequalities in statistics; order statistics; estimation theory; likelihood, sufficiency, efficiency, maximum likelihood; testing hypotheses: likelihood ratio and score tests, power; confidence and prediction intervals; bayesian estimation and hypothesis testing; basic decision theory, linear regression; analysis of variance.",
+  "prerequisites_raw": "PSTAT 207B. Part of a three quarter sequence with 207A and 207B.",
+  "prerequisites_courses": [
+   "PSTAT 207B",
+   "PSTAT 207A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 210",
+  "title": "Measure Theory for Probability",
+  "units": "4",
+  "description": "Probability spaces: axioms, sigma-algebras, monotone class theorems, construction of probability measures on measurable spaces. Random variables. Expectations (integral Lebesque). Product spaces and Fubini theorem. L2 spaces of random variables.",
+  "prerequisites_raw": "PSTAT 120A.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 213A",
+  "title": "Introduction To Probability Theory And Stochastic Processes",
+  "units": "4",
+  "description": "Generating functions, discrete and continuous time Markov chains; random walks; branching processes; birth-death processes; Poisson processes, point processes.",
+  "prerequisites_raw": "PSTAT 120A-B.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 213B",
+  "title": "Introduction to Probability Theory and Stochastic Processes",
+  "units": "4",
+  "description": "Convergence of random variables: different types of convergence; characteristic functions, continuity theorem, laws of large numbers, central limit theorem, large deviations, infinitely divisible and stable distributions, uniform integrability. Conditional expectation.",
+  "prerequisites_raw": "Prerequisites: PSTAT 213A, and either PSTAT 210 or Math 118 A-B-C",
+  "prerequisites_courses": [
+   "PSTAT 213A",
+   "PSTAT 210"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 213C",
+  "title": "Introduction To Probability Theory And Stochastic Processes",
+  "units": "4",
+  "description": "Martingales, martingale convergence, stopping times, optional sampling, optional stopping theorems and applications, maximal inequalities. Brownian motion, introduction to diffusions.",
+  "prerequisites_raw": "PSTAT 213B",
+  "prerequisites_courses": [
+   "PSTAT 213B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 215A",
+  "title": "Bayesian Inference",
+  "units": "4",
+  "description": "Fundamentals of the Bayesian inference, including the likelihood principle, the discrete version of Bayes theorem, prior and posterior distributions, Bayesian point and interval estimations, and predictions. Bayesian computational methods such as Laplacian approximations andMarkov Chain Monte Carlo (MCMC) simulation.",
+  "prerequisites_raw": "PSTAT 207A or PSTAT 220A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PSTAT 207A",
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 215B",
+  "title": "Statistical Decision Theory",
+  "units": "4",
+  "description": "Statistical inference including estimation, testing and multiple decision rules in decision theoretic framework, relationship to game theory, admissibility, optimality including Bayes and minimax rules, empirical and hierarchical Bayes, invariant decisions.",
+  "prerequisites_raw": "PSTAT 207A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 207A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 215C",
+  "title": "Statistical Decision Theory",
+  "units": "4",
+  "description": "Statistical inference including estimation, testing and multiple decision rules in decision theoretic framework, relationship to game theory, admissibility, optimality including Bayes and minimax rules, empirical and hierarchical Bayes, invariant decisions.",
+  "prerequisites_raw": "PSTAT 207A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 207A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 216",
+  "title": "Multivariate Analysis",
+  "units": "4",
+  "description": "Statistical theory associated with the multivariate normal, wishart and related distributions, partial and multiple correlation, principal components. Hotelling's T2-statistic, multivariate linear models, classification and discriminant analysis. Other topics may include invariance, admissibility, minimax, james-stein estimates, multivariate probability inequalities, majorization, and Schur functions.",
+  "prerequisites_raw": "PSTAT 207A-B-C or equivalent.",
+  "prerequisites_courses": [
+   "PSTAT 207A"
+  ]
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 119HR",
+  "title": "Ethical Issues in International Relations: Human Rights",
+  "units": "4",
+  "description": "An examination of the possibility and desirability of normative international political theory and an exploration of the moral dimensions of statecraft; use of force, nuclear deterrence, humanitarian intervention, distributive justice, and human rights.",
+  "prerequisites_raw": "Political Science 1 and 7.",
+  "prerequisites_courses": [
+   "POL S 1",
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 119JW",
+  "title": "Ethical Issues in International Relations: Just War",
+  "units": "4",
+  "description": "An examination of the possibility and desirability of normative international political theory and an exploration of the moral dimensions of statecraft; use of force, nuclear deterrence, humanitarian intervention, distributive justice, and human rights.",
+  "prerequisites_raw": "Political Science 1 and 7.",
+  "prerequisites_courses": [
+   "POL S 1",
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 120",
+  "title": "Negotiation in Theory and Practice",
+  "units": "4",
+  "description": "This course focuses on negotiation in theory and practice. It uses lectures and hands-on exercises in class to build students skills. It draws on research on negotiation, with a focus on applying these ideas to political contexts and institutions. It also helps build practical skills in communication, leadership and decision-making.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 121",
+  "title": "International Politics",
+  "units": "4",
+  "description": "An examination of theories concerning the actions, interactions, and relationships among nation-states.",
+  "prerequisites_raw": "Political Science 7.",
+  "prerequisites_courses": [
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 123",
+  "title": "The Politics of International Monetary Relations",
+  "units": "4",
+  "description": "The politics of international monetary relations. The aim is to learn how to understand and evaluate the current functioning of money and finance in the global economy.",
+  "prerequisites_raw": "POLS 7 and Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 124",
+  "title": "International Organizations",
+  "units": "4",
+  "description": "The nature and function of international organizations, including a study of the United Nations and the European community.",
+  "prerequisites_raw": "Political Science 7.",
+  "prerequisites_courses": [
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 126",
+  "title": "International Security",
+  "units": "4",
+  "description": "Examines how states use diplomacy, strategic coercion, and military force to achieve political objectives.",
+  "prerequisites_raw": "Political Science 7 or 121, and 15.",
+  "prerequisites_courses": [
+   "POL S 7",
+   "POL S 121",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 127",
+  "title": "American Foreign Policy",
+  "units": "4",
+  "description": "The United States in world politics. Policy making institutions, particularly the presidency, congress, state department, and the military establishment. Interaction between domestic and external politics.",
+  "prerequisites_raw": "Political Science 7.",
+  "prerequisites_courses": [
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 128",
+  "title": "Russian Foreign Policy",
+  "units": "4",
+  "description": "Examination of recent work on foreign policies of Russia, with attention to methodological and substantive issues. Topics include: strategic theory, East-West relations, trade and the monetary system, and relations among states of the former Soviet Union.",
+  "prerequisites_raw": "Political Science 6 or 7, and 15.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 7",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 130",
+  "title": "Politics of South Asia",
+  "units": "4",
+  "description": "South Asia is home to 1.5 billion people and its politics has important implications for the rest of the world. This course is structured around several themes including: democratization, economic development, ethnic conflict and civil war.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 131",
+  "title": "Foreign Relations Between China and the United States",
+  "units": "4",
+  "description": "The ideological and cultural attitudes of mainland China, with emphasis on general policies both within the communist world and other areas (South Asia, Africa, and America).",
+  "prerequisites_raw": "Political Science 7 and upper-division standing.",
+  "prerequisites_courses": [
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 132",
+  "title": "Politics of the Poor",
+  "units": "4",
+  "description": "By drawing on examples from industrializing and post-industrial countries, we will examine a variety of aspects related to the politics of the poor. Some questions we will grapple with include: What does it mean to be poor? How economically and socially disadvantaged people resist oppression; how attempts at organizing these people succeed or fail; how the poor engage with democratic reforms; and why the democratic system fails them.",
+  "prerequisites_raw": "Political Science 6 and 15.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 133",
+  "title": "Comparative Military Politics",
+  "units": "4",
+  "description": "Examines a militarys role in domestic politics by focusing on a diverse set of topics including civil-military relations, militarys role in citizen making, economic progress, conflict management, and nation building.",
+  "prerequisites_raw": "POLS 6 or POLS 7.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 134",
+  "title": "Relations Between the United States and Mexico",
+  "units": "4",
+  "description": "A general examination of relations between the United States and Mexico in the nineteenth and twentieth centuries. Emphasis on issues such as the origins of conflict and cooperation, and current issue areas including immigration.",
+  "prerequisites_raw": "Political Science 6 or 7, and 15.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 7",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 135",
+  "title": "Government and Politics of Japan",
+  "units": "4",
+  "description": "The organization and operation of Japanese politics, with particular attention to domestic political forces and problems.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 136",
+  "title": "GOVT & POLTCS CHINA",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 137",
+  "title": "Politics of Economic Development",
+  "units": "4",
+  "description": "An exploration of the difference between economic growth and economic development. Why do some countries develop faster than others? The course will reflect on the political factors that impact a state's economic development, including order and violence, historical and contemporary institutions, collective action, culture, ethnic diversity, rural-urban linkages, international trade and foreign aid.",
+  "prerequisites_raw": "Political Science 6 and 15.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 138",
+  "title": "Select Topics in Comparative Politics",
+  "units": "4",
+  "description": "A comparison of federalism, political parties, and executive leadership in different countries, focusing on select topics in comparative politics.",
+  "prerequisites_raw": "Upper-division standing. Political Science 6 and 15.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 139",
+  "title": "Gender Rights in World Politics",
+  "units": "4",
+  "description": "This class analyzes the state of women’s rights in world politics and how to respond to global challenges. We examine themes from international relations including international political economy, global security, and migration as drivers and locations of gender rights struggles. We also consider the relationship between gender rights and the comparative politics of development, democracy, social movements, and law and society. A feminist analysis will add the complementary issues of the politics of reproduction, rights in the private sphere, and the importance of gender roles and norms as a dimension of power.",
+  "prerequisites_raw": "Political Science 6 or 7.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 140",
+  "title": "Water Politics",
+  "units": "4",
+  "description": "Climate change and rapidly depleting water resources are the biggest challenges facing humanity in the 21st century. Claims over water by powerful sectors including commercial farming, industrialization and urbanization will get stronger and water scarcity will further marginalize the poor from their livelihoods. This course has examples from around the world, deals with the pressing challenges related to water, and gives the students a better understanding of politics related to water.",
+  "prerequisites_raw": "Political Science 6 OR Global Studies 2",
+  "prerequisites_courses": [
+   "POL S 6",
+   "GLOBL 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 141",
+  "title": "Civil War",
+  "units": "4",
+  "description": "Patterns in the phenomenon of civil war and ethnic conflict. A survey of the causes of these conflicts and an exploration of the consequences. Special attention is given to several key cases of civil conflict to illustrate core concepts.",
+  "prerequisites_raw": "Political Science 7.",
+  "prerequisites_courses": [
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 142",
+  "title": "Foreign Policy Decision Making",
+  "units": "4",
+  "description": "Examines how leaders and organizations make and implement foreign policy.",
+  "prerequisites_raw": "Political Science 7.",
+  "prerequisites_courses": [
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 143",
+  "title": "Russian Domestic Politics",
+  "units": "4",
+  "description": "The course examines the basic characteristics of the Soviet ancient regime and the forces and institutions which shaped the emerging states and societies. Topics include: parliamentary and economic systems, political parties, interest groups, ethnicity, legitimacy, sovereignty and inter-state relations.",
+  "prerequisites_raw": "Political Science 6 and 15; not open to freshmen.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 144",
+  "title": "West European Political Systems",
+  "units": "4",
+  "description": "The politics and political institutions of Europe. Objective of the course is to familiarize students with both the political institutions that structure European politics and the issues that are the focus of political debates in Europe.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 145",
+  "title": "The European Union",
+  "units": "4",
+  "description": "Introduction to the history and organization of the European Union (the institutions, policies, goals, and successes of the EU). Focus on the ongoing process of economical, political, social, and cultural integration in Europe since the Second World War. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 146",
+  "title": "Globalization and Politics",
+  "units": "4",
+  "description": "An examination and assessment of theories of globalization in relation to the distribution of political power on a global scale, future scenarios of global political domination, and the role of the nation-state in the international system of power.",
+  "prerequisites_raw": "Political Science 6 or 7; upper-division standing.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 147",
+  "title": "POLITICS IN DEVELOPING COUNTRIES",
+  "units": "4",
+  "description": "A comparative analysis of the political system of a selected number of African, Asian and Middle Eastern countries, with particular development and modernization common to all of them.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 148",
+  "title": "Latin American Politics",
+  "units": "4",
+  "description": "An introduction to government and politics in Latin America.",
+  "prerequisites_raw": "Political Science 6",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ }
+]

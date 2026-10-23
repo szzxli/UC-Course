@@ -1,0 +1,276 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 1B",
+  "title": "Introductory Biology II--Physiology",
+  "units": "4",
+  "description": "Introduction to animal and plant physiology.",
+  "prerequisites_raw": "MCDB 1A and Chemistry 1A-B-C with a grade of C- or better; or MCDB 1A with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "CHEM 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 1BL",
+  "title": "Introductory Biology Laboratory II",
+  "units": "1",
+  "description": "Laboratory investigations illustrate basic principles of animal and plant physiology, ecology, and evolution.",
+  "prerequisites_raw": "MCDB 1A; and, concurrent enrollment in MCDB 1B and EEMB 2.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 1BZ",
+  "title": "Selected Topics from MCDB 1B",
+  "units": "0",
+  "description": "Designed for transfer students who have completed part of MCDB 1B through transfer work. Topics will be selected by the department, as appropriate, to fulfill the introductory biology requirement at UCSB.",
+  "prerequisites_raw": "Consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 1LL",
+  "title": "Introductory Biology Laboratory I",
+  "units": "1.5",
+  "description": "Laboratory investigations illustrate basic principles of biochemistry, molecular and cell biology, development, genetics & physiology.",
+  "prerequisites_raw": "Grade of C- or better in MCDB 1A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 6",
+  "title": "Principles of Molecular and Cellular Biology for Brain Sciences",
+  "units": "4",
+  "description": "Introduction to basic biochemistry, cell biology and genetics. Topics include biological macromolecules, molecular basis of heredity, cell theory, cellular organelles, cell division cycle, mitosis, meiosis, fertilization, early development, Mendelian genetics, and molecular genetics. Biological principles will be taught with examples involving the nervous system where appropriate. Designed for Psychological and Brain Sciences majors.",
+  "prerequisites_raw": "Chem 1A-B with a minimum grade of C- or better in each.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 11",
+  "title": "Biology Mentoring and Engagement I",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. Focus is on developing scientific study skills and fostering the confidence and motivation involved in higher cognitive learning. Students will engage in peer mentoring activities, problem-solving exercises and relevant discussion promoting academic success.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1A or Chemistry 2A.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 12",
+  "title": "Biology Mentoring and Engagement II",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. Emphasis on developing critical thinking skills by utilizing interactive panel discussions ascertaining why biologists care about subjects like chemistry and math. Deliberation on biology news articles designed to get students thinking like scientists.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1B or 2B.",
+  "prerequisites_courses": [
+   "CHEM 1B",
+   "CHEM 2B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 13",
+  "title": "Biology Mentoring and Engagement III",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. Active learning enhancement via topics exploring students' self-identifying themselves as scientists, conversation on careers within the sciences and health professions, and discussion regarding the research process in order spark motivation and questions.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1C or Chemistry 2C.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 2C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 14",
+  "title": "Biology Mentoring and Engagement IV",
+  "units": "1",
+  "description": "Seminar for first year pre-biology students. A laboratory course designed to be a research experience for undergraduate students where they learn to apply the scientific method, critical thinking and experimental design to test relevant hypotheses in molecular biology.",
+  "prerequisites_raw": "Concurrent enrollment in Chemistry 1C or Chemistry 2C.",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "CHEM 2C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 15",
+  "title": "Current Biology Topics for Freshmen",
+  "units": "1",
+  "description": "This seminar series is designed to introduce freshmen biology major students to current topics in the biological sciences. Each instructor will select a specific topic of interest that will be the focus of the course.",
+  "prerequisites_raw": "Freshmen/1st year Prebiology majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 15HG",
+  "title": "Past, Present, and Future of the Human Genome",
+  "units": "1",
+  "description": "This course covers the history of human genetics including the eugenics movement in America, the discovery of the genetic material, and sequencing of the human genome. We then explore current research on personal genomics, ancient humanoid DNA, epigenetics, genetics of human behavior, and advances in human genome engineering. Finally, we explore the implications of humans being the first species on earth that can direct its own evolution.",
+  "prerequisites_raw": "Freshmen/1st year Prebiology majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 15JS",
+  "title": "SCIENCE/fiction",
+  "units": "1",
+  "description": "This seminar introduces cutting-edge biology, genetics, and neuroscience through primary research papers while encouraging discussion of whats next through short science fiction stories. Sometimes imagination leads science; other times fiction popularizes a scientific discovery, tool, or invention. What is possible, aspirational, or cautionary? Topics include: memory, identity, evolution, humanity, destiny, augmentation. Papers on zombie cockroaches, de-extinction, synthetic life, extra senses, implanted memories; Stories by Borges, Dick, Butler, Murakami, McCaffrey, Jemison, and Chiang",
+  "prerequisites_raw": "Freshmen/1st year Prebiology majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 15NG",
+  "title": "Sensory Neuroscience at the Dining Table",
+  "units": "1",
+  "description": "Gastronomy and sensory neuroscience share a fundamental interest in perception. In this course, we discuss recent progress made in our understanding of the molecular and cellular inner workings of our gustatory and olfactory systems. We review principles of multisensory integration that affect our everyday life and that are exploited by Michelin star chefs. Finally, we examine how the existence of genetic variability in sensation across individuals can explain differences in the way we interact with food.",
+  "prerequisites_raw": "Freshmen/1st year Prebiology majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 15RM",
+  "title": "Introduction to Regenerative Medicine",
+  "units": "1",
+  "description": "A broad introduction to regenerative medicine and cell and gene therapies. Students learn about the diverse career opportunities within the field and the myriad of resources available to them through the California Institute for Regenerative Medicine. Upperclassmen and faculty will participate as guest speakers to review good study habits and other strategies that students can use to pursue a career in regenerative medicine and succeed. As an interactive seminar series, opportunities to practice networking with other scientists are explored. This class offers a safe space where students challenge themselves to explore new ideas in a supporting environment.",
+  "prerequisites_raw": "Freshmen/1st year Prebiology majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 15SF",
+  "title": "Biology in Science Fiction",
+  "units": "1",
+  "description": "We discuss the scientific underpinnings of Biology as it is portrayed in science fiction literature and film. Class discussion focuses on examining the reality behind the fiction by discussing questions such as: How close are we to living forever? Could we actually build Spiderman or clone armies? Do zombies exist?",
+  "prerequisites_raw": "Freshmen/1st year Prebiology majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 16",
+  "title": "Unraveling the Science of Flavor: From Genetics and Data to Michelin Stars",
+  "units": "2",
+  "description": "This introductory course investigates the intersection between gastronomy and neuroscience, focusing on the principles underlying food perception. Through hands-on experiments, we explore the molecular and cellular mechanisms that shape our senses of taste and smell. For instance, we will examine the genetic basis that makes cilantro taste delightful to some and soapy to others. By understanding multi-sensory integration, we will discuss why it is a secret weapon for any skilled cook. During the whole class, theory is presented through interactive demonstrations, offering a practical approach to understanding flavor science. Additionally, the course covers basics of experimental design, data analysis and hypothesis testing.",
+  "prerequisites_raw": "Freshmen/1st year Prebiology majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 20",
+  "title": "Concepts of Biology",
+  "units": "5",
+  "description": "Introduction to the science of life; cells, genetics, metabolism, molecular biology, physiology, natural selection, evolution, ecosystems; current news and controversial topics in biology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 21",
+  "title": "The Immune System and Aids",
+  "units": "5",
+  "description": "The basic properties of the immune system; the basic biology of aids and AIDS virus infection; and the biology of other sexually transmitted diseases.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 23",
+  "title": "Biology of Cancer",
+  "units": "3",
+  "description": "An introduction to developments regarding the etiology and treatment of various cancers. Lectures compare normal cells and tissues with those which have become malignnant. Discussion of causes, treatment, and prevention of specific cancers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 24",
+  "title": "Genetics and Human Disease",
+  "units": "3",
+  "description": "Introduction to genetics with emphasis on humans. Topics focus on human diseases with strong evidence for genetic components. Diseases covered include cancer, cystic fibrosis, Huntington's, muscular dystrophy, and others.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 25",
+  "title": "Human Anatomy",
+  "units": "4",
+  "description": "Emphasis on fundamental structural and functional approaches of organ systems based on the human organism. Discussion of modern biomedical advances, techniques, and current topics in relation to their respective systems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 25L",
+  "title": "Laboratory in Human Anatomy",
+  "units": "4",
+  "description": "Emphasis on fundamental structural and function al approaches of organ systems based on the human organism. Discussion of modern biomedical advances, techniques, and current topics in relation to their respective systems.",
+  "prerequisites_raw": "EEMB 25 or MCDB 25 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "EEMB 25",
+   "MCDB 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 26",
+  "title": "Contemporary Nutrition",
+  "units": "5",
+  "description": "Presents the scientific basis for human nutrition including dietary nutrients and requirements, energy balance in health and disease, and needs of various life stages. Food safety, preservation, and undernutrition throughout the world is discussed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 28",
+  "title": "Human Genetics and Society",
+  "units": "4",
+  "description": "Principles of Mendelian inheritance as illustrated by human traits and diseases; chromosomes and sex determination; distribution of genes in populations; social, cultural and ethical implications of modern genome research are reviewed. Appropriate for non-science majors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 29",
+  "title": "Fundamentals of Biomedical Research",
+  "units": "3",
+  "description": "Basics of the scientific method as applied to basic biomedical research; examples of how basic research influences human health. Students will develop the intellectual tools to deconstruct primary literature and interpret data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

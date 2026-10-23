@@ -1,0 +1,206 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MARSC",
+  "code": "MARSC 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "For writing of the dissertation.",
+  "prerequisites_raw": "Ph.D. candidate and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 10",
+  "title": "Introduction into Media, Arts, Design, Engineering, and Science in a Computational Context",
+  "units": "4",
+  "description": "Introduces students to the technology/art/science/society/creativity/computation matrix. Covers the history of this field, and a set of conceptual and theoretical strategies that will enable them to navigate this complex transdisciplinary environment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 80",
+  "title": "Mediated Worlds: MAT",
+  "units": "5",
+  "description": "Integrative overview of media arts and technologies, emphasizing the interconnections between technologies and humanities (means and ends), engineering and mathematics (concrete and abstract), and arts and science (synthesis and analysis). The THEMAS model proposes a continuum across disciplines previously separated by narrow specializations. It builds upon the successes of STEM/STEAM, with greater emphasis on the humanities, creativity, and synthesis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 80AS",
+  "title": "Mediated Worlds/THEMAS Arts+Sciences Emphasis",
+  "units": "5",
+  "description": "Integrative overview of media arts and technologies, emphasizing the interconnections between technologies and humanities (means and ends), engineering and mathematics (concrete and abstract), and arts and science (synthesis and analysis). The THEMAS model proposes a continuum across disciplines previously separated by narrow specializations. This class emphasizes Arts+Sciences (synthesis/analysis) within the overall model of THEMAS.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 80EM",
+  "title": "Mediated Worlds/THEMAS Engineering+Mathematics Emphasis",
+  "units": "5",
+  "description": "Integrative overview of media arts and technologies, emphasizing the interconnections between technologies and humanities (means and ends), engineering and mathematics (concrete and abstract), and arts and science (synthesis and analysis). The THEMAS model proposes a continuum across disciplines previously separated by narrow specializations. This class emphasizes Engineering+Mathematics (concrete/abstract) within the overall model of THEMAS.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 80TH",
+  "title": "Mediated Worlds/THEMAS Technologies+Humanities Emphasis",
+  "units": "5",
+  "description": "Integrative overview of media arts and technologies, emphasizing the interconnections between technologies and humanities (means and ends), engineering and mathematics (concrete and abstract), and arts and science (synthesis and analysis). The THEMAS model proposes a continuum across disciplines previously separated by narrow specializations. This class emphasizes Technologies+Humanities (means/ends) within the overall model of THEMAS.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 80VR",
+  "title": "Mediated Worlds: Enacting the Metaverse - Generative Worldmaking and Virtual Reality",
+  "units": "5",
+  "description": "Enacting the Metaverse studies the imminent integration of real and virtual worlds. Recent advancements in parallel computation have fueled the growth of transformative new technologies. Artificial intelligence performs tasks at a level that exceeds human ability. Blockchain technology enables virtual ownership of digital assets. Extended reality augments and reconfigures our experience of the world. The metaverse is the outgrowth of these technologies. It is a shared virtual 3D world that intermeshes with the real. We will be the citizens of this new hyper-mediated world. It is our responsibility to confront these developments from technical and critical perspectives. This course develops the knowledge and skills needed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 80XU",
+  "title": "Mediated Worlds:THEMAS Special Topics:(E)Utopian Design Tools",
+  "units": "5",
+  "description": "A making-based, creative-computing class examining eutopian (good, possible) vs. utopian (ideal, impossible) design. The course explores the operationalization of positive and innovative change via multimedia worldmaking and speculative design through the transdisciplinary lens of THEMAS (STEM/STEAM+creative Humanities).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 110",
+  "title": "Media Arts and Design Concepts",
+  "units": "4",
+  "description": "Courses exploring the intersection of art and technology, including its broader social impacts and ethical implications. Topics vary.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 110CF",
+  "title": "Media Arts and Design Concepts: MAD Concepts - Fundamental Concepts of Media Arts and Design",
+  "units": "4",
+  "description": "Media Arts and Design: Concepts and Fundamentals is an introductory course that covers the principles and practices of media arts and design. Students learn to create digital graphics, audio compositions, and video productions using digital tools and technologies. The course adopts a hands-on approach, emphasizing emerging design techniques such as generative artificial intelligence, parametric design, and algorithmic composition. The course challenges students to critically evaluate the role of media arts and design in contemporary society. The course format includes two in-person lecture sessions and one section per week, with a focus on technological literacy, software proficiency, and computational design.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111",
+  "title": "Media Arts and Design Skills",
+  "units": "4",
+  "description": "Project-based course with an emphasis on technical skills within the context of digital arts or music. Topics vary.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111AU",
+  "title": "MAD Skills: Audio Engineering, Sound Design, and Generative Music Systems",
+  "units": "4",
+  "description": "This project-based course will cover concepts in audio mixing, editing, and sound design. You will learn fundamentals of audio engineering through recording and producing original audio tracks, develop skills in audio programming to create bespoke audio effects and generative music systems, gain skills using industry-standard audio software Ableton Live as well as Max4Live, get a chance to collaborate and work alongside other creators here on campus, and have your work showcased in an event at the end of the session.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111FS",
+  "title": "Media Arts and Design Skills: MAD Skills - Fundamental Skills of Media Arts and Design",
+  "units": "4",
+  "description": "Media Arts and Design Skills - Fundamental Skills is an introductory course that focuses on the skills and practices of media arts and design. Students identify a theme and explore it through reading and making over six weeks. The course emphasizes a hands-on approach and requires physical evidence of students' efforts. Students analyze successful architects, designers, and artists who defined the areas of media, arts, and design. The course format includes two in-person lectures and one in-person section per week, with a focus on producing examples for the final project. The end goal is a successful final project presented in an exhibition format on campus.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111MC",
+  "title": "Musical Computation & Design",
+  "units": "4",
+  "description": "Investigates the musical potential in seemingly non-musical systems through computational design principles. Students engage in compositional experimentation by translating patterns from architecture, quantum fields, biology, and linguistics into musical form. Develops both technical and creative competencies, welcoming arts/humanities students exploring computational thinking and STEM students pursuing creative expression. Concepts introduced from first principles with emphasis on discovery and exploration. No prior knowledge of music theory, programming, or referenced fields required.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111NW",
+  "title": "Designing Technology through Diverse Cultural Practices",
+  "units": "4",
+  "description": "This course redefines technology by examining Black, Indigenous and other diverse computational contributions to global innovation. Students explore practices like braiding and crocheting as algorithmic design; DJing as data manipulation and signal processing; and sustainable film development as an alternative approach to materials science. Hands-on projects uncover the computational principles embedded in these traditions, challenging students to rethink technology, embrace new paradigms of creativity and develop technical skills and cultural awareness. Students of all levels of familiarity with technology, art and design are welcome.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111PC",
+  "title": "Physical Computing for Design",
+  "units": "4",
+  "description": "This introductory course explores the intersection of electronics, computation, and creative practice, empowering students to design interactive systems, instruments, and interfaces using microcontrollers, sensors, and actuators. Emphasizing hands-on learning, it bridges the digital and physical realms to create expressive, multi-sensory experiences. Students will prototype interactive objects and devices, gaining technical skills and a creative mindset to engage with technologies like IoT, wearable computing, and interactive installations. No prior experience is required—only curiosity and enthusiasm for experimentation.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111PF",
+  "title": "MAD Skills: Materialize: Prototyping and Fabrication",
+  "units": "4",
+  "description": "Covers the entire process from concept design to detailed plans, and students navigate it using traditional sketching and cutting-edge AI tools. Practical lessons in laser cutting and 3D printing empower students to create multi-material constructs, emphasizing iterative design processes to refine outcomes. The course is partly held in the Library Makerspace, and it includes hands-on sections promoting active learning. Students culminate their learning in a final project, where they explore innovative form factors, interactive prototypes, and fabrication practices.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111WN",
+  "title": "MAD Skills: Web-Based Interactive Narratives",
+  "units": "4",
+  "description": "This course offers a hands-on approach to learning creative coding, enabling students to design and develop web-based interactive stories with a blend of text, images, sound, and interactions. The curriculum will introduce narrative structures, creative coding techniques, and the basics of web design and development. Projects range from simple animations to complex, user-driven narratives. No prior coding experience is required.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 111XR",
+  "title": "Extended Reality and Worldmaking",
+  "units": "4",
+  "description": "Extended Reality (XR) shapes how people experience emotion, narrative, and embodiment. This course approaches XR as a worldmaking practice, treating virtual space as an interface through which cultural and experiential meaning emerges. Students explore XR environments as sites of empathy, identity, and relationality, connecting critical theory with hands-on spatial storytelling. Through readings, case studies, and prototyping, students create XR experiences using Unity3D, photogrammetry, Gaussian splatting, and selected AI-based tools. The course culminates in a first-person XR walking simulator presented in VR. Instruction begins from foundational concepts, and no prior coding or XR experience is required.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 189",
+  "title": "Media Arts and Design Capstone",
+  "units": "2",
+  "description": "Capstone course for the Media Arts and Design Minor. Synthesizes learning from other Media Arts and Design courses through the development of a digital portfolio and meetings with guest speakers.",
+  "prerequisites_raw": "MAT 10 or CMPSC 8 or CMPSCW 8",
+  "prerequisites_courses": [
+   "MAT 10",
+   "CMPSC 8",
+   "CMPSCW 8"
+  ]
+ }
+]

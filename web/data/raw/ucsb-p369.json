@@ -1,0 +1,376 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175I",
+  "title": "Music Cultures of the World: Indonesia",
+  "units": "4",
+  "description": "Introduces Indonesian musical and cultural practices through folk, classical, popular musics; religious traditions, theater and dance. Topics include interconnection of sonic and social structures, historical conditions of colonial and postcolonial relationships with the West, and transitions to contemporary transnational circulations.",
+  "prerequisites_raw": "Upper-division.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175J",
+  "title": "Music in Modern Japan",
+  "units": "4",
+  "description": "This course explores music and culture in modern Japan. What kind of society do we hear in its diverse mix of sounds and musical practices? We explore this question through traditional genres, national politics, and transnational exchanges of popular media.",
+  "prerequisites_raw": "Upper-division.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175K",
+  "title": "Music Cultures of the World: Other Regions",
+  "units": "4",
+  "description": "A study of music traditions and genres from other regions of the world. Specific regions studied vary by quarter and are announced in advance by the department.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175L",
+  "title": "Music Culture of the Polish Tatra Mountains",
+  "units": "4",
+  "description": "The Tatras are the home of a distinct folk culture, including music based on polyphonic singing ad violin ensembles. Course investigates the present-day music from this region and its history, and examines the influence of tourism and ethnography on the music-culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175M",
+  "title": "American Folk Music: Old-Time, Bluegrass and Country",
+  "units": "4",
+  "description": "Study of English-language American folk music, using mixed-media tools for learning. The focus is on string band music often associated with Appalachia and usually called \"old-time,\" and the distinct but related styles of bluegrass and country.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175P",
+  "title": "Eco-Acoustic-Arts: Sounding & Creating with Global Environmental Elements",
+  "units": "4",
+  "description": "In eco-acoustic-arts, students investigate & create with geo and bio elements (including water, plants, rocks, animals). Using sounding as an inspirational process to explore ecological entanglements (scientific, cultural, artistic), methods include sensory ethnography, ethography, mapping & digital technologies.",
+  "prerequisites_raw": "Upper division standing, instructor approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175W",
+  "title": "Music, Community, Wellbeing: Advocacy and Activism",
+  "units": "4",
+  "description": "Taking a vocational and facilitatory approach, this course uses case studies to explore concepts and processes of generating and sustaining musical activity as community-engaged practice. Topics include: social justice, health and wellbeing, education, senses of place, ecology, and technology.",
+  "prerequisites_raw": "Upper division standing, instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 175X",
+  "title": "Musics in Mexico",
+  "units": "4",
+  "description": "An exploration of a range of musics of Mexico, contextualized in their historical, political, ideological, and social milieu. Encompassing discussion, readings, and performance. (No prior instrumental skills required.)",
+  "prerequisites_raw": "No prior instrumental skills required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 176",
+  "title": "Studies in Ethnomusicology",
+  "units": "4",
+  "description": "An introduction to the field of ethnomusicology using theories and methods derived from the social sciences and humanities. Topic areas to include transcription and analysis, musicians, musical instruments, music acculturation, and the function of music in society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 180",
+  "title": "STDS RENAISS MUSIC",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "MUSIC 12A-B-C OR PERMISSION OF INSTRUCTOR. PRIMARILY FOR THE MAJOR EMPHASIZHISTORY AND THEORY.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 181",
+  "title": "Proseminar in Baroque Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of Baroque music.",
+  "prerequisites_raw": "Upper-division standing; Music 10-A-B-C.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 182",
+  "title": "Proseminar in Classical Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of classical music.",
+  "prerequisites_raw": "Upper-division standing; Music 10A-B-C.",
+  "prerequisites_courses": [
+   "MUS 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 183",
+  "title": "Proseminar in Romantic Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of romantic music.",
+  "prerequisites_raw": "Upper-division standing; Music 10A-B-C.",
+  "prerequisites_courses": [
+   "MUS 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 184",
+  "title": "Proseminar in Contemporary Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of contemporary music.",
+  "prerequisites_raw": "Upper-division standing; Music 10A-B-C.",
+  "prerequisites_courses": [
+   "MUS 10A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 188",
+  "title": "Ethnomusicology Forum",
+  "units": "1",
+  "description": "A forum for the presentation of research and performance by students, faculty, and visiting scholars and performers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 191",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, theory, or performance.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 192",
+  "title": "B.A. Senior Project",
+  "units": "3",
+  "description": "Preparation of senior audition, composition, or paper.",
+  "prerequisites_raw": "Open to B. A. senior Music majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 192A",
+  "title": "B.A. Senior Project",
+  "units": "1",
+  "description": "The first quarter of preparation of senior audition, composition, or paper.",
+  "prerequisites_raw": "Open to B.A. senior Music Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 192B",
+  "title": "B.A. Senior Project",
+  "units": "1",
+  "description": "The second quarter of preparation of senior audition, composition, or paper.",
+  "prerequisites_raw": "Music 192A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "MUS 192A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 192C",
+  "title": "B.A. Senior Project",
+  "units": "1",
+  "description": "The third and final quarter of preparation of senior audition, composition, or paper.",
+  "prerequisites_raw": "Music 192B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "MUS 192B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 195",
+  "title": "Junior Recital",
+  "units": "2",
+  "description": "Preparation of junior recital.",
+  "prerequisites_raw": "Passing of B.M. sophomore audition; open to upper-division Bachelor of Music Performance Emphasis major only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 195B",
+  "title": "Junior Composition Portfolio",
+  "units": "2",
+  "description": "Preparation of junior composition portfolio.",
+  "prerequisites_raw": "Passing of B.M. sophomore audition; and, consent of instructor; open to upper-division Bachelor of Music Composition Emphasis major only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 196",
+  "title": "Honors Music",
+  "units": "4",
+  "description": "An undergraduate independent research for honor students. Carefully selected topics intended to foster excellence in research, theory, composition, or performance.",
+  "prerequisites_raw": "Upper-division standing; honors students only; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 197",
+  "title": "Senior Recital",
+  "units": "3",
+  "description": "Preparation of senior recital.",
+  "prerequisites_raw": "Passing of junior recital; open to senior Music Performance emphasis majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 197B",
+  "title": "Senior Composition Portfolio and Recital",
+  "units": "3",
+  "description": "Preparation of senior composition portfolio.",
+  "prerequisites_raw": "Passing of junior composition portfolio; and, consent of instructor; open tsenior BM Composition emphasis majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 198",
+  "title": "Readings In Music",
+  "units": "0",
+  "description": "Critical review and discussion of related topics in musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "Upper-division standing; completion of three quarters of the Music 112A-F series; consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 112A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 199",
+  "title": "Individual Research in Music",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member in the department. Course offers qualified students the opportunity to undertake independent research or work in a research group in topics in musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "Upper-division standing; completion of three quarters of the Music 112AB-F series; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 199RA",
+  "title": "Independent Research Assistance in Music",
+  "units": "0",
+  "description": "Faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; completion of three quarters of the Music 112AB-F series; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 200A",
+  "title": "Bibliography and Research Techniques",
+  "units": "2",
+  "description": "A survey of music bibliography and research methods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 200B",
+  "title": "Bibliography and Research Techniques",
+  "units": "4",
+  "description": "Survey and discussion of select historical, methodological, and theoretical approaches to research in musicology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 200C",
+  "title": "Bibliography and Research Techniques",
+  "units": "4",
+  "description": "Survey of bibliographic sources and individual research projects in ethonomusicology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 200D",
+  "title": "Bibliography and Research Techniques",
+  "units": "4",
+  "description": "A survey of music bibliography and research methods in theory.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 201C",
+  "title": "Notation and Music: Their Historical Interrelation",
+  "units": "4",
+  "description": "White mensural notation, lute and keyboard tablatures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 202A",
+  "title": "Seminar in Musicology",
+  "units": "4",
+  "description": "May be repeated for credit. Seminar in musicology. First quarter of a two-quarter doctoral seminar dealing with selected topics in musicology.",
+  "prerequisites_raw": "M.A. or equivalent with consent of instructor. For advanced students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 202B",
+  "title": "Seminar in Musicology.",
+  "units": "4",
+  "description": "Taken upon completion of Music 202A. Seminar in musicology. Second quarter of a two-quarter doctoral seminar dealing with selected topics in musicology.",
+  "prerequisites_raw": "M.A. or equivalent with consent of instructor. For advanced students only. Music 202A.",
+  "prerequisites_courses": [
+   "MUS 202A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 203MT",
+  "title": "Musicology-Theory Forum",
+  "units": "1",
+  "description": "Theory students, faculty and visiting scholars present their current research.",
+  "prerequisites_raw": "Graduate standing in musicology or theory emphasis.",
+  "prerequisites_courses": []
+ }
+]

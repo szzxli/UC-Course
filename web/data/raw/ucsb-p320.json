@@ -1,0 +1,296 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 203",
+  "title": "Phonetic Methodology",
+  "units": "4",
+  "description": "Training in the use of quantitative phonetic techniques to perform linguistic analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 204",
+  "title": "Statistical Methodology",
+  "units": "4",
+  "description": "More advanced aspects of (generalized) linear modeling (planned contrasts, polynomials), robust statistics, mixed-effects/multilevel modeling; conditional inference trees; more advanced cluster-analytic methods; bootstrapping.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 205",
+  "title": "Programming for Linguists",
+  "units": "4",
+  "description": "Hands-on introduction to programming in Python, with emphasis on methods for retrieving, structuring, and interacting with textual data. Focus on developing practical programming skills and transferable methodology, such as debugging, task decomposition and abstraction, and best practices for documenting and structuring code. Targeted toward students with no programming background.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 208",
+  "title": "Foundations of Computational Linguistics",
+  "units": "4",
+  "description": "An introduction to foundational ideas in computational linguistics, such as: n-gram language models; noisy channel models; supervised and unsupervised learning; and distributional semantics. Focus on developing an understanding of the intuitions behind the ideas, including relevant algorithms and math, and implementing this understanding in hands-on programming applications.",
+  "prerequisites_raw": "Linguistics 102 or Linguistics 205 or Computer Science 8 or equivalent experience.",
+  "prerequisites_courses": [
+   "LING 102",
+   "LING 205",
+   "CMPSC 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 209",
+  "title": "Advanced Computational Linguistics: Speech Processing",
+  "units": "4",
+  "description": "Advanced topics in the computational processing of language in spoken form, such as: forced alignment; speech recognition; speaker recognition; and text-to-speech. Focus on developing a high-level understanding of modern approaches and how to use them. Discussion of applications to areas such as natural language processing, corpus linguistics, and computational psycholinguistics.",
+  "prerequisites_raw": "Linguistics 110, or equivalent background.",
+  "prerequisites_courses": [
+   "LING 110"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 210",
+  "title": "Advanced Computational Linguistics: Text Processing",
+  "units": "4",
+  "description": "Advanced topics in the computational processing of language in text form, such as: neural network language models; parsing; topic modeling; and machine translation. Focus on developing a high-level understanding of modern approaches and how to use them. Discussion of applications to areas such as natural language processing, corpus linguistics, and computational psycholinguistics.",
+  "prerequisites_raw": "Linguistics 110, or equivalent background",
+  "prerequisites_courses": [
+   "LING 110"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 211",
+  "title": "Experimental Methods in Linguistics",
+  "units": "4",
+  "description": "Provides hands-on experience in techniques required for the process of designing and analyzing psycholinguistic experiments. This course provides the opportunity to develop an experiment, from the formulation of a research question to the interpretation of results.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 212",
+  "title": "Discourse Transcription",
+  "units": "4",
+  "description": "Methods for transcribing conversational discourse, with focus on discourse features relevant to linguistic and interactional research. Features include pause, laughter, intonation, voice, speaker overlap, turn-taking, participation, others. Recording natural conversation, computer-assisted transcription, transcription as theory, alternative transcription systems, transcription ethics/politics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 213",
+  "title": "Advanced Phonetics",
+  "units": "4",
+  "description": "An experimental approach to the articulation, acoustics, and perception of speech. The relation of phonetics to phonological alternations and sound change. The use of phonetic data to resolve phonological questions. Interpretation and evaluation of experiments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 214",
+  "title": "Discourse",
+  "units": "4",
+  "description": "Advanced research methods for analyzing discourse in light of grammar, and grammar in light of discourse. Hands-on analysis of naturally occurring language use, especially conversational interaction. Topics include referent tracking, topicality, information structure, accessibility, constructions as functional units, functional niches, preferred argument structure, dialogic syntax, resonance, narrative structure. Theories of functional explanation for grammar; cognitive and interactional functions, competing motivations, grammaticization, emergence of linguistic structure.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 215",
+  "title": "Neural Networks in Linguistics",
+  "units": "4",
+  "description": "An overview of symbolic modeling approaches and their use in psycholinguistics/computational linguistics. The course covers the foundational principles behind simulation-based approaches including connectionist models, PDP models, and ANN/RNN models and the insights these give us into the representations and mechanisms supporting language use in the human mind. The course also provides an opportunity to implement a simple symbolic model for the purposes of testing linguistic theory.",
+  "prerequisites_raw": "Linguistics 102 or Linguistics 205 or equivalent background.",
+  "prerequisites_courses": [
+   "LING 102",
+   "LING 205"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 216",
+  "title": "Grammar Writing",
+  "units": "4",
+  "description": "Training in writing a description of a language, including critical review of selected existing grammars, discussion of contents, and practice in writing.",
+  "prerequisites_raw": "Linguistics 234, 235.",
+  "prerequisites_courses": [
+   "LING 234",
+   "LING 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 217",
+  "title": "Discourse and Grammar",
+  "units": "4",
+  "description": "Survey of recent approaches to discourse and grammar, including referential pragmatics, dialogic syntax, construction grammar, preferred argument structure, and emergent grammar. Application of these approaches to natural language data, including face-to-face conversation.",
+  "prerequisites_raw": "Linguistics 212 and 214.",
+  "prerequisites_courses": [
+   "LING 212",
+   "LING 214"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 218",
+  "title": "Corpus Linguistics",
+  "units": "4",
+  "description": "An introduction to computerized research methods, which are applied to large data bases of language used in natural communicative settings to supplement more traditional methods of linguistic analysis in all linguistic subdisciplines.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 219",
+  "title": "Corpus Construction",
+  "units": "4",
+  "description": "Design and construction of electronic corpora to represent spoken or written forms of language. Data collection from electronically available text/transcripts, linguistic fieldwork, archives. Issues of sampling, balancedness, representativity, scale; formatting, markup, annotation, coding, tools; archival preservation, orthography, politics, ethics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 220",
+  "title": "Prosody",
+  "units": "4",
+  "description": "Perceptual and acoustic aspects of pitch, amplitude, and tempo and their interaction with discourse. Comparison of prosodic theories.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 221A",
+  "title": "Field Methods",
+  "units": "6",
+  "description": "Introduction to fieldwork and language documentation. Students work with a speaker of a language unknown to the students for three consecutive quarters. Techniques of data collection, elicitation, management, and analysis. Emphases include collaborative research, theoretical contextualization of field data, and descriptive and theoretical writing.",
+  "prerequisites_raw": "Linguistics 214, 234, 235.",
+  "prerequisites_courses": [
+   "LING 214",
+   "LING 234",
+   "LING 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 221B",
+  "title": "Field Methods",
+  "units": "6",
+  "description": "Introduction to fieldwork and language documentation. Students work with a speaker of a language unknown to the students for three consecutive quarters. Techniques of data collection, elicitation, management, and analysis. Emphases include collaborative research, theoretical contextualization of field data, and descriptive and theoretical writing.",
+  "prerequisites_raw": "Linguistics 214, 234, 235.",
+  "prerequisites_courses": [
+   "LING 214",
+   "LING 234",
+   "LING 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 221C",
+  "title": "Field Methods",
+  "units": "6",
+  "description": "Introduction to fieldwork and language documentation. Students work with a speaker of a language unknown to the students for three consecutive quarters. Techniques of data collection, elicitation, management, and analysis. Emphases include collaborative research, theoretical contextualization of field data, and descriptive and theoretical writing.",
+  "prerequisites_raw": "Linguistics 214, 234, 235.",
+  "prerequisites_courses": [
+   "LING 214",
+   "LING 234",
+   "LING 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 222",
+  "title": "Typology and Universals",
+  "units": "4",
+  "description": "Reading and discussion of major contributions to the literature in typology and universals, focusing on such problems as lexical categories, systems of case marking, voice, reflexives, tense-aspect-mood, and relative clauses.",
+  "prerequisites_raw": "Linguistics 234.",
+  "prerequisites_courses": [
+   "LING 234"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 223",
+  "title": "Languages in Contact",
+  "units": "4",
+  "description": "Types, causes, mechanisms, and consequences of contact induced language change, including a consideration of pidgins and creoles.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 224",
+  "title": "Spoken and Written Discourse",
+  "units": "4",
+  "description": "Comparisons of different genres and styles of writing and speaking, focusing on ways in which language use determines its form.",
+  "prerequisites_raw": "Linguistics 212 and 214.",
+  "prerequisites_courses": [
+   "LING 212",
+   "LING 214"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 225",
+  "title": "Semantics",
+  "units": "4",
+  "description": "Introduction to the study of meaning. How meanings are integrated into linguistic sign systems, contexts of use. Pragmatic theories of indexicality, deixis, implicature, presupposition, speech acts, discourse comprehension. Semantic differences across languages.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 226",
+  "title": "Cognitive Foundations of Language",
+  "units": "4",
+  "description": "A psycholinguistic overview of the relationship between language and cognition, including the nature of categories and the process of categorization; processes involved in the production and comprehension of lexicon, syntax and discourse; priming; psycholinguistic models of these processes and of first language acquisition; and the nature of mental representations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 227",
+  "title": "Language as Culture",
+  "units": "4",
+  "description": "Examines language through the lens of culture, taking culture as the pattern that gives meaning to social life. Culture of linguistic structure, practice, cognition. Classic readings in linguistic anthropology, sociocultural linguistics through current research linking language, thought, culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 228",
+  "title": "Discourse Practice and Social Interaction",
+  "units": "4",
+  "description": "This course explores language in action via the practices participants enact in social interaction. Focus on understanding linguistic action in contexts of sequence, activity, stance, field, frame, intersubjectivity, dialogicality, voice, identity, participation, communities of practice. Close analysis of recorded interaction.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

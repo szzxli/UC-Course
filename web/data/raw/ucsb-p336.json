@@ -1,0 +1,292 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 211B",
+  "title": "Engineering Quantum Mechanics II",
+  "units": "4",
+  "description": "Continuation of Materials 211A; symmetry and degeneracy; electrons in crystals, angular momentum; perturbation theory II; transition probabilities; quantized fields and radiative transitions; magnetic fields;electron spin; indistinguishable particles.",
+  "prerequisites_raw": "ECE 211A or MATRL 211A, or ECE 215A or MATRL 206A.",
+  "prerequisites_courses": [
+   "ECE 211A",
+   "MATRL 211A",
+   "ECE 215A",
+   "MATRL 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 214",
+  "title": "Advanced Topics in Equilibrium Statistical Mechanics",
+  "units": "3",
+  "description": "Application of the principles of statistical mechanics and thermodynamics to treat classical fluid systems at equilibrium. Topics include liquid state theory, computer simulation methods, critical phenomena and scaling principles, interfacial statistical mechanics, and electrolyte theory.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 215A",
+  "title": "Semiconductor Device Processing",
+  "units": "4",
+  "description": "Intensive theoretical and laboratory instruction in solid-state device and integrated circuit fabrication. Topics include 1) semiconductor material properties and characterization; 2) phase diagrams; 3) diffusion; 4) thermal oxidation; 5) vacuum processes; 6) thin-film deposition; 7) scanning electron microscopy. Both gallium arsenide and silicon technologies are presented.",
+  "prerequisites_raw": "ECE 132 or equivalent.",
+  "prerequisites_courses": [
+   "ECE 132"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 215B",
+  "title": "Semiconductor Device Processing",
+  "units": "4",
+  "description": "Continued theoretical and laboratory instruction and the characterization of junction and field-effect devices. Topics will include bipolar characterization, design fabrication, and testing. The laboratory effort initiated in 215A will be continued in these two quarters.",
+  "prerequisites_raw": "Materials 215A.",
+  "prerequisites_courses": [
+   "MATRL 215A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 215C",
+  "title": "Semiconductor Device Processing",
+  "units": "4",
+  "description": "Continued theoretical and laboratory instruction and the characterization of junction and field-effect devices. Topics will include bipolar characterization, design fabrication, and testing. The laboratory effort initiated in 215A will be continued in these two quarters.",
+  "prerequisites_raw": "Materials 215A.",
+  "prerequisites_courses": [
+   "MATRL 215A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 216",
+  "title": "Defects in Semiconductors",
+  "units": "3",
+  "description": "Structural and electronic properties of elementar defects in semiconductors. Point defects and impurity complexes. Deep levels. Dislocations and grain boundary electronic properties. Measurement techniques for radiative and nonradiative defect centers.",
+  "prerequisites_raw": "ECE 162A-B.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 217",
+  "title": "Molecular Beam Epitaxy and Band Gap Engineering",
+  "units": "3",
+  "description": "Fundamentals and recent research developments in the growth and properties of thin crystalline films of electronic and optical materials bythe process of molecular beam epitaxy. Artificially structured materials with quantized electron confinement and artificially engineered electronic band structure properties.",
+  "prerequisites_raw": "MATRL 162A-B or ECE 162A-B",
+  "prerequisites_courses": [
+   "MATRL 162A",
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 218",
+  "title": "Introduction to Inorganic Materials",
+  "units": "3",
+  "description": "Structures of inorganic materials: close-packing, linking of simple polyhedra. Factors that control structure: ionic radii, covalency, ligand field effects, metal-metal bonding, electron/atom ratios. Structure property relationships in e.g. spinels, garnets, perovskites, rutiles, fluorites, zeolites, b-aluminas, graphites, common inorganic glasses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 219",
+  "title": "Phase Transformations",
+  "units": "3",
+  "description": "Introduction to the unifying concepts underlying phas transformations in metals, ceramics, polymers, and electronic materials. Includes the thermodyanamics, kinetics, crystallography and microstructural characteristics of displacive and diffusional transformations. Role of elastics, compositional, configurational, electrical, magnetic and gradientenergy contributions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 220",
+  "title": "Mechanical Behavior of Materials",
+  "units": "3",
+  "description": "Concepts of stress and strain. Deformation of metals, polymers, and ceramics. Elasticity, viscoelasticity, plastic flow, and creep. Linear elastic fracture mechanics. Mechanisms of ductile and brittle fracture.",
+  "prerequisites_raw": "Materials 207; consent of instructor.",
+  "prerequisites_courses": [
+   "MATRL 207"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 222A",
+  "title": "Colloids and Interfaces I",
+  "units": "3",
+  "description": "Introduction to the various intermolecular interactions in solutions and in colloidal systems: Van der Waals, electrostatic, hydrophobic, solvation, H-bonding. Introduction to colloidal systems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 222B",
+  "title": "Colloids and Interfaces II",
+  "units": "3",
+  "description": "Continuation of 222A. Interparticle interactions, coagulation, DLVO theory, steric interactions, polymer-coated surfaces, polymers in solution, thin film viscosity. Surfactant and lipid self-assembly: micelles, microemulsions. Surfaces: wetting, contact angles, surface tension. Surfactants on surfaces: langmuir-blodgett films, adsorption, adhesion. Non-equilibrium and dynamic interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 224",
+  "title": "Optical and Luminescent Materials",
+  "units": "3",
+  "description": "Description of the principles underlying the optical and luminescent behavior of materials illustrated with applications drawn from phosphors, optical fibers, optical memories, and electro-optical components and immuno-assay techniques. Fundamental concepts of absorption and emission, and their relation to electronic structure and crystal properties.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 226",
+  "title": "Symmetry and Tensor Properties of Materials",
+  "units": "3",
+  "description": "Description of the principles of crystal symmetry, functional materials, and their properties, including dielectrics, piezoelectrics, and magnetic and transport phenomena. Fundamental concepts, tensorial and mathematical description of functional behavior.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 227",
+  "title": "Metal-Organic Chemical Vapor Deposition",
+  "units": "3",
+  "description": "Electronic and optical properties of thin films grown by vapor phase transport techniques. Growth mechanisms, kinetics and thermodynamics of vapor phase epitaxy. Special emphasis on the process of metalorganic vapor phase epitaxy for optoelectronic materials and devices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 228",
+  "title": "Computational Materials",
+  "units": "3",
+  "description": "Basic computational techniques and their application to simulating the behavior of materials. Techniques include: finite difference methods, MonteCarlo, molecular dynamics, cellular automata, and simulated annealing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 230",
+  "title": "Elasticity and Plasticity",
+  "units": "3",
+  "description": "Review field equations of elasticity and plasticity. Energy principles and uniqueness theorems. Elementary problems in one and two dimensions, stress functions, and complex variable methods. Plastic stress-strain laws; flow potentials. Torsion and bending of plastic flow, slip line theory. Bounding theorems.",
+  "prerequisites_raw": "Materials 207 or ME 219",
+  "prerequisites_courses": [
+   "MATRL 207",
+   "ME 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 232",
+  "title": "Plasticity",
+  "units": "3",
+  "description": "Plastic, creep, and relaxation behavior of solids. Mechanics of inelastically strained bodies, plastic stress-strain laws; flow potentials. Torsion and bending of prismatic bars, expansion of thick shells, plane plastic flow, slip line theory. Variational formulations, approximate methods.",
+  "prerequisites_raw": "Materials 207.",
+  "prerequisites_courses": [
+   "MATRL 207"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 234",
+  "title": "Fracture Mechanics",
+  "units": "3",
+  "description": "Analytic solutions of a stationary crack under static loading. Elastic and elastoplastic analysis. The J integral. Energy balance and crack growth. Criteria for crack initiation and growth. Dynamic crack propagation. Fatigue. The micromechanics of fracture.",
+  "prerequisites_raw": "Materials 207.",
+  "prerequisites_courses": [
+   "MATRL 207"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 238A",
+  "title": "Rheology of Complex Fluids",
+  "units": "3",
+  "description": "An introduction to molecular and microscale theories for the viscoelastic behavior of complex fluids: suspensions, colloidal dispersions, liquid crystals, dilute polymer solutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 240",
+  "title": "Finite Element Structural Analysis",
+  "units": "3",
+  "description": "Definitions and basic element operations displacement approach in linear elasticity. Element formulation: direct methods and variational methods. Global analysis procedures: assemblage and solution. Plane stress and planestrain. Solids of revolution and general solids. Isoparametric representation and numerical integration. Computer implementation.",
+  "prerequisites_raw": "Materials 207 or equivalent.",
+  "prerequisites_courses": [
+   "MATRL 207"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 241",
+  "title": "Structural Inorganic Chemistry",
+  "units": "3",
+  "description": "The use of x-ray and neutron scattering to characterize solid state materials. Subjects include the crystal unit cell, space groups, structure determination and refinement. It is recommended that the student have an elementary introduction to vectors, matrices and fourier series.",
+  "prerequisites_raw": "Chemistry 173A-B, and 175; or equivalent.",
+  "prerequisites_courses": [
+   "CHEM 173A",
+   "CHEM 175"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 242",
+  "title": "Symmetries and Group Theory",
+  "units": "3",
+  "description": "Symmetries have profound and far-reaching effects on material properties. This course introduces the fundamentals of symmetry groups as they relate to molecules and crystalline solids. Topics covered include: point and space groups, irreducible representations, tensor properties of materials, Raman and IR selection rules, Landau's theory of phase transitions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 245",
+  "title": "Electrochemistry and Electrochemical Methods",
+  "units": "3",
+  "description": "Introduction to electrochemistry and electrochemical methods used to study (photo)electrochemical systems for energy storage and conversion (rechargeable batteries, fuel cells, solar cells). Introduction to corrosion electrochemistry.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 251",
+  "title": "Processing of Inorganic Materials",
+  "units": "3",
+  "description": "Fundamental concepts and mathematical models underlying major types of processes for inorganic materials, with emphasis on the relationships between processing and microstructure. Topics include: melting and solidification, powder synthesis and consolidation, coatings and surface treatments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 251B",
+  "title": "Densification and Microstructural Control",
+  "units": "3",
+  "description": "Mass transport and kinetic sintering theories. Thermodynamics of pore phase disappearance. Grain growth during densification. Effects of a liquidphase (liquid phase sintering). Effects of inert phases on densification. Effects of applied pressure. Control of grain growth after densification.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

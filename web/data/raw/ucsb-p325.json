@@ -1,0 +1,212 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 200A",
+  "title": "Arts and Technology",
+  "units": "4",
+  "description": "Overview of the digital media arts field with an emphasis on technological developments and their integration in art research and production. Students are introduced to contemporary and historical directions and methodologies through seminar lectures, research presentation, and a final project.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 200B",
+  "title": "Music and Technology",
+  "units": "4",
+  "description": "Overview of music and technology, including historical aspects. Readings and exercises with a range of music software applications. Basics of Internet audio and evolving media, music production, business, technical, and aesthetic aspects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 200C",
+  "title": "Digital Media Technology and Engineering",
+  "units": "4",
+  "description": "This course surveys pattern formation mechanisms. Many complex visual phenomena can be generated from less than 100 lines of code, such as the Mandelbrot set, reaction-diffusion, and the Lorenz attractor. We will study and implement a variety of these phenomena.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 201A",
+  "title": "Media Signal Processing",
+  "units": "4",
+  "description": "Basic concepts in digital signal and image processing (transforms, convolutions, etc.), filter design, image enhancement and coding, digital video.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 201B",
+  "title": "Computing with Media Data",
+  "units": "4",
+  "description": "Hands-on introduction to developing multimedia applications. Representation and perception of sound, images, and time. Media computing paradigms including OOP, callbacks, multithreading, OpenGL, distributed computing, algorithmic control, indeterminacy, real-time interactivity, and mapping data between sensory modalities. Students develop a series of audiovisual works (as C++ software) leading to a final project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 201C",
+  "title": "Media and Society",
+  "units": "4",
+  "description": "Comparison of electronic and traditional media. Topics: Impact of networks on art and commerce, social history of communication technologies. Notions of authorship, shifting role of corporations in an increasingly global economy. Impact of multi-user environments and virtual reality technology on society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 225",
+  "title": "CREATE Ensemble",
+  "units": "0",
+  "description": "Hands on practical approach to composition, improvisation, critique, refinement, and research dedicated to live performance. Open to laptops, new interfaces for artistic expression, audiovisual art, live coding, local and/or wide area networked performance, interactive dance, music for acoustic and electronic instruments, performance art, trans-categorical live performance, etc.",
+  "prerequisites_raw": "Graduate standing in MAT or MUS or consent of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 232",
+  "title": "Advanced Computer Graphics",
+  "units": "4",
+  "description": "Covers advanced computer graphics topics in rendering, animation, and modeling. Topics may include, but are not limited to: programmable shading, General-Purpose GPU (GPGPU) computing, rigid body dynamics, OpenCL programming, physically based animation, subdivision surfaces, shadow algorithms, character skinning methods, ambient occlusion, and fractal growth algorithms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 236",
+  "title": "Computational Systems for Visual Art and Design",
+  "units": "4",
+  "description": "Computational systems of rules, relationships, and behaviors can extend traditional art and design practices or support new creative workflows. We will explore the creation of computational systems for visual art and design.We will use creative coding platforms and algorithms to create visual works that are flexible, dynamic, and generative. In the process, we will touch onthe design philosophy and abstractions of existing creative coding platforms and examine methods to create alternatives. Students learn basic approaches to modify creative programming languages and frameworks or develop new software interfaces for visual expression. Technical production will be complemented by readings on computational art and design theory.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 237",
+  "title": "Designing Expressive Technologies",
+  "units": "4",
+  "description": "Computational tools create new opportunities for making things, yet designing expressive computational systems poses many challenges.Addressing these challenges requires finding ways to integrate rigorous and structured research and development methodologies with observations of real-world creative production, and dialog and collaboration with different kinds of makers. This course is for Ph.D and Masters students with an interest in researching and designingcomputational technologies for art, design, manufacturing, or craft. The course is run as a seminar involving discussion of readings and concepts presented in lecture and exploration of human-computer interaction research methodologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 238",
+  "title": "Computational Fabrication",
+  "units": "4",
+  "description": "Computational fabrication enables people to design digital forms by writing code and then construct these forms, at least partially, via fabrication machines, like 3D printers and computer-numerical-controlled (CNC) machines.In this course, students explore tools, workflows, representations, and applications of computational fabrication. Students are instructed in theuse of computer-aided-design software tools and programming languages aimed at the design of physical artifacts. The course also covers the process of converting digital designs to physical form through computer-aided machining (CAM) for different forms of additive and subtractive CNC machines.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 240A",
+  "title": "Digital Audio Programming: The Series",
+  "units": "4",
+  "description": "A six-quarter practical programming course devoted to digital audio applications development. The emphasis is on learning to use current state-of-the-art programming methods, tools, and library APIs. Programming assignments are given in the C, C++, Java, Smalltalk and/or SuperCollider programming language. Topics: A. Using Commerical I/O APIs; B. Spectral Transformations; C. Spatial Sound Manipulation; D. Sound Synthesis Techniques; E. Multi-rate Control and Synchronization; F. Media Application Integration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 240B",
+  "title": "Digital Audio Programming: The Series",
+  "units": "4",
+  "description": "A six-quarter practical programming course devoted to digital audio applications development. The emphasis is on learning to use current state-of-the-art programming methods, tools, and library APIs. Programming assignments are given in the C, C++, Java, Smalltalk and/or SuperCollider programming language. Topics: A. Using Commerical I/O APIs; B. Spectral Transformations; C. Spatial Sound Manipulation; D. Sound Synthesis Techniques; E. Multi-rate Control and Synchronization; F. Media Application Integration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 240C",
+  "title": "Digital Audio Programming: The Series",
+  "units": "4",
+  "description": "A six-quarter practical programming course devoted to digital audio applications development. The emphasis is on learning to use current state-of-the-art programming methods, tools, and library APIs. Programming assignments are given in the C, C++, Java, Smalltalk and/or SuperCollider programming language. Topics: A. Using Commerical I/O APIs; B. Spectral Transformations; C. Spatial Sound Manipulation; D. Sound Synthesis Techniques; E. Multi-rate Control and Synchronization; F. Media Application Integration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 240D",
+  "title": "Digital Audio Programming: The Series",
+  "units": "4",
+  "description": "A six-quarter practical programming course devoted to digital audio applications development. The emphasis is on learning to use current state-of-the-art programming methods, tools, and library APIs. Programming assignments are given in the C, C++, Java, Smalltalk and/or SuperCollider programming language. Topics: A. Using Commerical I/O APIs; B. Spectral Transformations; C. Spatial Sound Manipulation; D. Sound Synthesis Techniques; E. Multi-rate Control and Synchronization; F. Media Application Integration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 240E",
+  "title": "Digital Audio Programming: The Series",
+  "units": "4",
+  "description": "A six-quarter practical programming course devoted to digital audio applications development. The emphasis is on learning to use current state-of-the-art programming methods, tools, and library APIs. Programming assignments are given in the C, C++, Java, Smalltalk and/or SuperCollider programming language. Topics: A. Using Commerical I/O APIs; B. Spectral Transformations; C. Spatial Sound Manipulation; D. Sound Synthesis Techniques; E. Multi-rate Control and Synchronization; F. Media Application Integration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 240F",
+  "title": "Digital Audio Programming: The Series",
+  "units": "4",
+  "description": "A six-quarter practical programming course devoted to digital audio applications development. The emphasis is on learning to use current state-of-the-art programming methods, tools, and library APIs. Programming assignments are given in the C, C++, Java, Smalltalk and/or SuperCollider programming language. Topics: A. Using Commerical I/O APIs; B. Spectral Transformations; C. Spatial Sound Manipulation; D. Sound Synthesis Techniques; E. Multi-rate Control and Synchronization; F. Media Application Integration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 245",
+  "title": "Advanced Lessons in Media Composition",
+  "units": "0",
+  "description": "This is a studio-based course in media composition for making media art works for advanced students working on their portfolios. We will deal with the compositional process with regard to multimodal content that unfolds over time and space. The object of this seminar is to make, and also to discuss our compositional processes as we build our portfolios. Each student will work on their individual or group project and will present work each week. We can meet as a group and individually as well. During the class/lab sessions, students will also bring in various works and readings from artists and researchers from which their philosophy of making is being drawn.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 254",
+  "title": "Arts-Engineering Research",
+  "units": "4",
+  "description": "Theoretical and applied directions in arts-engineering research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 255",
+  "title": "Concepts and Aesthetics of the Computational Image",
+  "units": "4",
+  "description": "Interdisciplinary course to analyze the digital computational image, its history, the theoretical, conceptual, philosophical underpinnings, issues of aesthetics, and critical analysis of simulation and representation. Course bridges arts, engineering, humanities. Assignments include reports and possibly projects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 258",
+  "title": "Art and Science of Aerospace Culture",
+  "units": "4",
+  "description": "Interdisciplinary course/seminar/practice for artists, academics, engineers, and designers interested in exploring the technological aesthetic, cultural, and political aspects of the space side of the aerospace complex. Design history, space complex aesthetics, cinema intersections, imaging/telecommunications, human spaceflight history, reduced/alternating gravity, experimentation, space systems design/utilization.",
+  "prerequisites_raw": "Upper-Division standing; Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

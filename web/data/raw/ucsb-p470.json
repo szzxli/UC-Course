@@ -1,0 +1,259 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. A written proposal for each tutorial must be approved by the department chair.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 598",
+  "title": "Master's Thesis Project, Research and Creative",
+  "units": "0",
+  "description": "Master's thesis project, research and creative.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 599",
+  "title": "Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Dissertation research and preparation.",
+  "prerequisites_raw": "Consent of chair of student's doctoral committee. (Repeatable to 108 units - not 99).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR W",
+  "code": "THTR W 2B",
+  "title": "Performance in Global Contexts, Asia",
+  "units": "5",
+  "description": "This course surveys a range of Asian performances across a diversity of locations, from thetraditional theater forms of Japanese Kabuki, Indonesian Wayang Kulit, and Indian Kathakali tomodern forms in India and Japan to contemporary Chinese performance art. Theater forms like Chinese Jingju and Japanese Noh will prompt us to reevaluate what the performer does in rehearsal and in situations on and off the stage. By exploring recent modern and contemporary performance forms, we will reassess how an actor, dancer, or puppeteer can challenge the status quo and effect change. As we ask these questions, we will situate Asian performance within social, political, and historical contexts to understand its rich functions and significances.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR W",
+  "code": "THTR W 19",
+  "title": "Design Fundamentals for Dance and Theater",
+  "units": "5",
+  "description": "Lectures, demonstrations and projects to provide an understanding of the stage design process for theater and dance. Study of the elements, principles, terminology, and basic techniques. Exploration of the communicative and collaborative process between designer and choreographer/director. Concentration in scenic, costume, and lighting design.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR W",
+  "code": "THTR W 43",
+  "title": "The People’s Voice/The Odyssey Project",
+  "units": "4",
+  "description": "A collaborative theater program between the Theater Department at the University of California, Santa Barbara (UCSB), and County of Santa Barbara Probation. Student participants from both institutions will partner in a work setting that fosters equity to process and perform original performance pieces using analog and digital technology. The framework for this class is ancient Greek canonical literature with healing and heroic dimensions. The Odyssey of Homer provides the template. Through a series of writing and drawing exercises, the participants discover the heroic elements in their lives and how to utilize them to tell the Odyssey story in their own words.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR W",
+  "code": "THTR W 143",
+  "title": "The People’s Voice/The Odyssey Project",
+  "units": "4",
+  "description": "A collaborative educational theater program between the Theater Department at the University of California, Santa Barbara (UCSB), and County of Santa Barbara Probation. Student participants from both institutions will partner in a work setting that fosters equity to process and perform original performance pieces using analog and digital technology. The framework for this class is ancient Greek canonical literature with healing and heroic dimensions. The Odyssey of Homer provides the template. Through a series of writing and drawing exercises, the participants discover the heroic elements in their lives and how to utilize them to tell the Odyssey story in their own words.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 21",
+  "title": "Past, Present & Future of Entrepreneurship",
+  "units": "3",
+  "description": "The historical and present state of entrepreneurship will be explored, along with the potential future direction of startups. Students will be encouraged to start small ventures as a means of determining their productivity for an entrepreneurial lifestyle.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 34",
+  "title": "Business Persuasion and Sales",
+  "units": "4",
+  "description": "Learn the art of persuasion and selling. Theory and applications of the basictenetsof persuasion and how such scientifically supported techniques can be deployed to positively impact the sales process.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 111",
+  "title": "Issues in Technology, Business, and Society",
+  "units": "1",
+  "description": "Lecture series where entrepreneurial, technological, business, and governmental leaders share their lessons of experience and discuss current business issues. For anyone interested in entrepreneurship, management, technology development, and commercialization and the impact that innovation has on society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 120",
+  "title": "Fundamentals of Business Strategy",
+  "units": "4",
+  "description": "An introduction to business strategy, principles and practices required for business success in the competitive market place. Students are exposed to key management theories, models and tools including competitive strategy, finance, planning, new product development, marketing, leadership and others.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 122",
+  "title": "Entrepreneurship",
+  "units": "4",
+  "description": "Learn how to start any type of venture; for profit, non-profit, service, sole-proprietorship, with a focus on high-tech ventures. Analysis of new business opportunities, development of customer-centric value propositions, financing, marketing, selling, and protection of intellectual property.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 124",
+  "title": "Principles of Marketing",
+  "units": "4",
+  "description": "Introduces fundamental principles, processes, and tools of marketing which are used to create, communicate and deliver the value of products and services to customers, clients, partners, and society. This is done with an array of essential topics, such as the identification of customer needs and wants, assessment of the competitive environment, selection of the most appropriate target opportunities, development of an integrated marketing strategy, and disciplined execution.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 125",
+  "title": "Fundamentals of Business Finance",
+  "units": "4",
+  "description": "Students learn essential tools to understand and analyze financial information and financing strategies for ongoing and new business ventures. This course is designed for those who will be participating in the decision-making processes of a small to large size business organization either as an analyst or an operating manager. Major topics covered include financial analysis and management, time value of money, interpreting financial statements and their analysis, cash flow analysis, capital budgeting, project evaluation, financial decision making, and valuing an existing or new venture. In addition to the practical application of financial theory, you will be asked to solve several business case studies.",
+  "prerequisites_raw": "Sophomore standing or higher",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 126",
+  "title": "New Venture Finance",
+  "units": "2",
+  "description": "Presents the tools necessary for the strategic analysis and understanding of financial information particular to new ventures. Provides insight into how financial information can be used to design optimal financing strategies, prepare valuation models for new ventures, and assist in strategic planning for the venture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 127",
+  "title": "Understanding and Managing Technology Organizations",
+  "units": "4",
+  "description": "Participating in, managing and leading successful careers, teams and organizations. Current theories and practices concerning motivation, organizational culture, communications, effective decision making, team effectiveness and others are presented and discussed.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 130",
+  "title": "Operations Management",
+  "units": "3",
+  "description": "Studies the flow of materials and information necessary to effectively and efficiently supply products and or services to customers. Provides an understanding of the principles of design and management of manufacture, service and supply chain organizations, business processes and systems.",
+  "prerequisites_raw": "Upper Division standing and Writing 2 and Writing 50, with grades of B- or better.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 131",
+  "title": "Introductions to Patents and Intellectual Property",
+  "units": "3",
+  "description": "Provides emerging inventors, entrepreneurs, and scientists with a working knowledge of intellectual property (patents, copyrights, trademarks, and trade secrets), with the main focus being on patents. Will cover the basic functions of patents, structure of patents, and patent prosecution.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 132",
+  "title": "Business Planning for New Ventures",
+  "units": "4",
+  "description": "Analysis and creation of a business plan for a new business venture including demand forecasting, financial modeling, selling of the new business idea, and other issues for current business conditions.",
+  "prerequisites_raw": "Engineering 120 or Engineering 122; and Writing 50 or equivalent (English 10, Writing 50*, Writing 105*, Writing 107*, or 109*) with a minimum grade of B-.",
+  "prerequisites_courses": [
+   "WRIT 50",
+   "ENGL 10",
+   "WRIT 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 135",
+  "title": "New Product Development",
+  "units": "4",
+  "description": "New product development requires technical and non-technical business persons to work across disciplines. Instruction is provided in a wide range of topics concerning customer driven product innovation. Students learn new product development processes, tools, techniques, and organizational skills.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 136",
+  "title": "Project Management",
+  "units": "3",
+  "description": "Introduces the theory, concepts, techniques, vocabulary and practical knowledge of project management practice. Students will learn about the process groups and knowledge areas comprising PMI's Project Management Body of Knowledge. Provides a framework for conducting projects using project management principles.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 144",
+  "title": "Market Research",
+  "units": "4",
+  "description": "Provides a high level introduction to modern marketing research. Course covers the fundamental principles and techniques for market validation that are critical to launch, grow, and sustain a viable business.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 147",
+  "title": "Seminar in Entrepreneurial Leadership",
+  "units": "3",
+  "description": "A seminar in the art and science of entrepreneurship. Identifying opportunities for innovation based on current trends. Preparing students to enter the real world as leaders with the skills to present themselves as professionals with confidence and a world perspective.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 148A",
+  "title": "New Venture Seminar",
+  "units": "3",
+  "description": "A twice-weekly series of seminars about the creation of sustainable new business ventures from inception to launch. Intended for students participating in the TMP New Venture Competition.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 148B",
+  "title": "New Venture Seminar",
+  "units": "3",
+  "description": "Continuation of twice-weekly seminar series covering the development of a validated and sustainable new business, with a focus on creating a writing business plan and oral presentation. Intended for students participating in the TMP New Venture Competition finals.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

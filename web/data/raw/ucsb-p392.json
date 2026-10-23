@@ -1,0 +1,338 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106WE",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific coursetitles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 106WP",
+  "title": "Special Topics in Political Science",
+  "units": "4",
+  "description": "Lectures in special areas of interest in political science. Specific coursetitles to be announced by the department each quarter offered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 108",
+  "title": "Politics and Literature",
+  "units": "4",
+  "description": "This course will explore problems concerning alienation, obligation, power,freedom, and fulfillment as treated by ancient and modern authors.",
+  "prerequisites_raw": "POL S 6 or 12.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 109",
+  "title": "Revolution and Mass Movement",
+  "units": "4",
+  "description": "Analyzing the dynamics of revolution from the French and Soviet to contemporary revolutions in Asia, Latin America and the Middle East.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Sophomore standing or higher.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110AA",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110AM",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110AN",
+  "title": "Political Concepts: Critical Theory & Marxism",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110CD",
+  "title": "Political Concepts: Civil Disobedience",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110CT",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110DA",
+  "title": "Political Concepts: Defense Against the Political Dark Arts",
+  "units": "4",
+  "description": "An exploration of themes in political theory concerned with sinister social forces that undermine good politics - and how to fight back against them. Topics include political manipulation, misinformation, charismatic leadership and rhetoric.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110DT",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110ET",
+  "title": "Political Concepts: Environmental Political Theory",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110J",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110OT",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110PA",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110PC",
+  "title": "Political Concepts: The Philosophy of Capitalism",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110PO",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110S",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 110U",
+  "title": "Political Concepts",
+  "units": "4",
+  "description": "Introduction to some of the main concepts of political theory, such as the individual and the state, freedom and equality, political obligation, and their relevance to modern society and government.",
+  "prerequisites_raw": "Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 114",
+  "title": "Democracy and Diversity",
+  "units": "4",
+  "description": "Introduction to the ancient and modern models of democracy which underpin contemporary democratic life. An analysis of the philosophical bases of democracy, diversity, political obligation, equality, liberty, consent, representation, and rights.",
+  "prerequisites_raw": "Chicana/o Studies 1B or Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 115",
+  "title": "Courts, Judges and Politics",
+  "units": "4",
+  "description": "The role and significance of the judiciary in the American political system. Such questions as: how cases go through the courts, how \"interests\" are represented through litigation, the processes by which judges are recruited, and the \"independence\" of the judiciary will be explored. The course will also entail an exploration of how judges reach decisions and the impacts and consequences of those decisions. The emphasis will be largely on the federal courts, especially the U.S. Supreme Court, and the main focus will be on \"public,\" rather than \"private\" law.",
+  "prerequisites_raw": "Political Science 12 and 15.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 116",
+  "title": "Comparative Democratic Political Institutions",
+  "units": "4",
+  "description": "Study of the key political institutional structure of democracy in comparative perspective. Political institutions of the United States and peer democracies covered will include constitutions, the electoral system, the system of government (presidential vs. parliamentary), vertical relations (centralization vs. decentralization), and the legislature. In addition to familiarizing students with the variety and operation of these political institutions, attention will be paid to their advantages and disadvantages, political and policy effects, and implications for the challenges confronting contemporary democracies.",
+  "prerequisites_raw": "Political Science 6.",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 117",
+  "title": "Comparative Social Movement Politics",
+  "units": "4",
+  "description": "Social movements embody pure politics. They mobilize citizens and are a form of collective action. Scholars have shown that outcomes as wide-ranging as quality of governance, the survival of regimes and nation states, electoral mobilization, citizenship rights, and levels of violence during civil wars can be explained by movements and their attributes.",
+  "prerequisites_raw": "Political Science 6",
+  "prerequisites_courses": [
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 118",
+  "title": "Comparative Ethnic Politics",
+  "units": "4",
+  "description": "Examination of the political consequences of ethnicity. Theoretical approaches to issues addressing problems of multiethnic states in the developing world, and the successor states of the Soviet Union.",
+  "prerequisites_raw": "Political Science 6 or 7, and 15.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 7",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 119",
+  "title": "Ethical Issues in International Relations",
+  "units": "4",
+  "description": "An examination of the possibility and desirability of normative international political theory and an exploration of the moral dimensions of statecraft; use of force, nuclear deterrence, humanitarian intervention,distributive justice, and human rights.",
+  "prerequisites_raw": "Political Science 7.",
+  "prerequisites_courses": [
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 119AA",
+  "title": "Ethical Issues in International Relations",
+  "units": "4",
+  "description": "An examination of the possibility and desirability of normative international political theory and an exploration of the moral dimensions of statecraft; use of force, nuclear deterrence, humanitarian intervention,distributive justice, and human rights.",
+  "prerequisites_raw": "Political Science 1 and 7.",
+  "prerequisites_courses": [
+   "POL S 1",
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 119DJ",
+  "title": "Ethical Issues in International Relations: Distributive Justice",
+  "units": "4",
+  "description": "An examination of the possibility and desirability of normative international political theory and an exploration of the moral dimensions of statecraft; use of force, nuclear deterrence, humanitarian intervention, distributive justice, and human rights.",
+  "prerequisites_raw": "Political Science 1 and 7.",
+  "prerequisites_courses": [
+   "POL S 1",
+   "POL S 7"
+  ]
+ }
+]

@@ -1,0 +1,276 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "INT W",
+  "code": "INT W 25",
+  "title": "Bridge to STEM",
+  "units": "4",
+  "description": "Bridge to STEM helps incoming students build quantitative and navigational skills necessary for success in science, math, technology, engineering, economics, and other quantitative disciplines. The course also creates a supportive learning community, builds navigational skills that support success, and helps develop time management abilities important for UCSB courses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT W",
+  "code": "INT W 120",
+  "title": "Transferring to the Research University",
+  "units": "2",
+  "description": "This fully online course introduces incoming transfer students to the varying disciplines of study and research opportunities available at UCSB. The course delivers a series of videos featuring UCSB faculty detailing their specific discipline, and explaining how research is conducted within the discipline. Videos also include professional and personal information about faculty members interest in the area of study. Transfer students will learn about their selected major (if previously determined) and have opportunities to consider additional majors/minors, and research interests.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT W",
+  "code": "INT W 188C",
+  "title": "Transfer Exploration Seminar: Ways of Thinking and Practicing in Communication",
+  "units": "1",
+  "description": "Introduces incoming transfer students to the academic discipline of communication with emphasis on scientific theoretical and methodological issues relevant to the systematic inquiry and pursuit of knowledge about human communication.",
+  "prerequisites_raw": "Incoming Transfer students only; Instructor approval required prior to registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT W",
+  "code": "INT W 188E",
+  "title": "Transfer Start Seminar: Economics",
+  "units": "1",
+  "description": "This course will consist of 12 videos, each followed by a set of questions to test comprehension and understanding of the video. The first video listed in each week is meant to teach economics content, while the second is generally meant to help students understand what is necessary to succeed in economics in an R1 research university. Each week of videos and assignments is expected to require about 1.5 hours to complete. Although the standard completion rate for the videos is two per week, students can complete the videos and assignments at their own pace, as long as they are completed in the six week session.",
+  "prerequisites_raw": "Instructor approval required prior to registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Hours and credit arranged with any member of the staff. Laboratory.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 201A",
+  "title": "Protein Structure and Function",
+  "units": "2",
+  "description": "Traces the physical interactions by which sequence-specific polypeptides attain a unique, functional native state. Fold design, fold prediction, and protein folding kinetics are also discussed.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 201B",
+  "title": "Chemistry and Structure of Nucleic Acids",
+  "units": "2",
+  "description": "Primary, secondary, and higher-order structures of DNA and RNA, thermodynamic stability and folding, protein-nucleic acid interactions, ribozymes, applications to gene regulation, RNA world evolution.",
+  "prerequisites_raw": "MCDB 108A-B-C; and, Chemistry 113A or 142A or 142B or 142C.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "CHEM 113A",
+   "CHEM 142A",
+   "CHEM 142B",
+   "CHEM 142C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 201C",
+  "title": "Biomembrane Structure and Function",
+  "units": "2",
+  "description": "Lipid diversity, lipid aggregates, dynamics and phase behavior of lipid aggregates, permeabilities of model and cellular bilayers, manipulation and quantification of ionic and pH gradients, related special topics in physiology such as the mechanisms of anesthesia.",
+  "prerequisites_raw": "Chemistry 142A-B-C or MCDB 108A-B-C, or equivalents.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 202",
+  "title": "Biomaterials and Biosurfaces",
+  "units": "3",
+  "description": "Fundamentals of natural and artificial biomaterials and biosurfaces with emphasis on molecular level structure and function and their interactions with the body. Design issues of grafts and biopolymers. Basic biological, biophysical and biochemical systems reviewed for nonbiologists.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 203",
+  "title": "Protein Engineering and Design",
+  "units": "3",
+  "description": "Rational design of protein structure, activity, and stability. Current methods and applications of protein engineering including protein evolution, unnatural amino acids, and combinatorial methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 204",
+  "title": "Post-translational Protein Processing",
+  "units": "4",
+  "description": "Structure/function relationships in interesting macromolecules isolated from marine organisms. Focus is on well-characterized pathways from horseshoe crabs, abalones, mussels, and fish as well as others.",
+  "prerequisites_raw": "MCDB 108A or 218A or equivalent.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB 218A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 205A",
+  "title": "Biochemical Techniques",
+  "units": "1",
+  "description": "Practical theory and application of basic biochemical techniques. Topics include SDS-PAGE, buffers, centrifugation, antibody methods, spectroscopy and fluorescence techniques.",
+  "prerequisites_raw": "One year of undergraduate biochemistry (e.g., MCDB 108A-B-C) or equivalent.",
+  "prerequisites_courses": [
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 205B",
+  "title": "Strategies in Protein Characterization",
+  "units": "1",
+  "description": "A presentation of traditional and state-of-the-art approaches for characterizing the primary structure of proteins and polysaccharides. Techniques to be included are amino acid analysis, mass spectrometry, gas-phase sequencing, capillary electrophoresis, and covalent modification chemistry.",
+  "prerequisites_raw": "A grade of B- or better in MCDB 108A or 208A, or the equivalent.",
+  "prerequisites_courses": [
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 206",
+  "title": "Introduction to Machine Learning for Processing of Biological Images and Structural Biology",
+  "units": "3",
+  "description": "Provides a general introduction to modern Machine Learning techniques with a focus on neural networks with relevance for biological image processing and structural biology applications across scales from the atomic level to organisms. Introductions to relevant concepts in biological image processing and structural biology will be part of the curriculum as well.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 207",
+  "title": "Enzyme Mechanisms",
+  "units": "2",
+  "description": "Chemical mechanisms of enzyme catalysis. Enzyme models and non-classical enzymes. Theory, experimental design, and data analysis.",
+  "prerequisites_raw": "Undergraduate biochemistry course (e.g., MCDB 108).",
+  "prerequisites_courses": [
+   "MCDB 108"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 210",
+  "title": "Biochemistry & Molecular Biology Techniques for Physical Scientists",
+  "units": "4",
+  "description": "An intensive laboratory course for physical science and engineering students providing background knowledge and laboratory experience in standard molecular biology and protein purification techniques, as well as techniques for characterizing purified proteins.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 210L",
+  "title": "Quantitative Biosciences iQB2 Laboratory Course",
+  "units": "5",
+  "description": "This hands-on research course integrates investigation of diverse biological phenomena in the lab with quantitative analysis of hypotheses related to the function of living systems. Analysis across different length scales and levels of complexity invokes a synergistic combination of tool building, quantitative data acquisition, complementary theoretical model building. Students work in subgroups on modules developed by different IQB faculty to illustrate current research topic in Quantitative Biology.",
+  "prerequisites_raw": "For first-year IPQB (formerly BMSE) graduate students only. Grad students from other programs will be considered but they should seek for the approval of the teaching coordinators. Number of participants will be limited to 12 or the number of first-year IPQB (formerly BMSE) students, whichever is smaller.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 215",
+  "title": "Biophysical Thermodynamics",
+  "units": "2",
+  "description": "An overview of those parts of chemical thermodynamics relevant to the study of biomolecules and biological systems. Topics include fundamental biopolymer structure formation.",
+  "prerequisites_raw": "Undergraduate course in Physical Chemistry (e.g., Chem 113A-B-C).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 216B",
+  "title": "Diffraction of Biological Molecules",
+  "units": "2",
+  "description": "Single-crystal macromolecular crystallography methods; crystal growth, geometric and physical basis of diffraction, approaches to phasing and refinement. Xray and neutron solution scattering.",
+  "prerequisites_raw": "MCDB 108A-B-C; and, Chemistry 113A or 142A or 142B or 142C.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "CHEM 113A",
+   "CHEM 142A",
+   "CHEM 142B",
+   "CHEM 142C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 217",
+  "title": "Electrostatics of Biopolymers",
+  "units": "2",
+  "description": "Electrostatics of highly charged sufaces in contact with a polar solvent with application to biopolymers (e.g., DNA, f-actin).",
+  "prerequisites_raw": "Knowledge of elementary ideas and methods of electrostatics and statisticalmechanics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 218A",
+  "title": "Methods and Logic in Molecular Cell Biology I",
+  "units": "3",
+  "description": "Molecular genetics and gene regulation. Experimental design and approaches, and a focus on critical thinking and problem solving, will reveal how fundamental, highly significant biological problems are unraveled using molecular genetic strategies. Reading will be assigned from a mix of classic and current peer-reviewed papers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 218B",
+  "title": "Methods and Logic in Molecular Cell Biology II",
+  "units": "5",
+  "description": "Molecular cellular biology in a variety of model systems and contexts from an integrated perspective. A collection of approaches, and a focus on critical thinking and problem solving, will reveal how highly significant biological problems are unraveled using cutting edge technologies. Includes an introduction to bioinformatics, computational, and systems biology. Reading will be assigned from a mix of classic and current peer-reviewed papers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 219",
+  "title": "Basic Microscopy for Quantitative Biology",
+  "units": "3",
+  "description": "Fluorescence live imaging is a powerful tool to study dynamics of living matter. This course provides an overview on geometric & Fourier optics, bright field microscopy, and fluorescence & absorption spectroscopy. Practicing these concepts students will construct a light-sheet microscope.",
+  "prerequisites_raw": "Course is limited to 10 students, preference is given to students with interest in applying microscopy methods in their own research.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 220A",
+  "title": "Chromosomes and Cell Cycle",
+  "units": "2",
+  "description": "Structure and organization of the nucleus, Chromatin and chromosome structure, organization, and function; DNA replication and replication origins; Eukaryotic cell cycle regulation.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 220B",
+  "title": "Cell Biology - Cytoskeleton & Membrane Trafficking",
+  "units": "2",
+  "description": "Structure and function of the eukaryotic cytoskeleton. Intracellular protein transport and membrane trafficking.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

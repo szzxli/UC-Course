@@ -1,0 +1,302 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 165",
+  "title": "Popular Culture in Japan",
+  "units": "4",
+  "description": "Examines popular culture in present-day Japan: advertising, music, fashion, television, animation, comics, sports. Integrates visual and acoustic material.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 167",
+  "title": "Body and Self in Japanese Culture",
+  "units": "4",
+  "description": "Addresses how historians, anthropologists, artists, creators of popular culture, film makers, and literary authors have attached meanings to the human body and its relation to selfhood since the 19th century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 167A",
+  "title": "Religion in Japanese Culture",
+  "units": "4",
+  "description": "A historical analysis of the major components of the classical and medieval religious systems of Japan, through investigation of texts, rituals, and institutions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 169",
+  "title": "Seminar in Traditional Japanese Theater",
+  "units": "4",
+  "description": "Survey and in-depth examinations of specific selected topics in traditional Japanese theater. Knowledge of Japanese not required.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 175A",
+  "title": "Shinto: Concepts and Practices in History",
+  "units": "4",
+  "description": "Course presents the variety of religious and cultural phenomena associated with Shinto in Japan through a survey of doctrinal developments throughout history, description of practices, and considerations on the relationship between Shinto and other religions and intellectual systems such as Buddhism, Daoism, Confucianism, and Christianity.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 175B",
+  "title": "Shinto through the Ages",
+  "units": "4",
+  "description": "Explores the diversity of the Shinto tradition through an analysis of representative original texts in English translation ranging from ancient mythology (Kojiki, Nihon shoki, and Fudoki) and medieval syncretic discourses, to modern forms of Shinto nationalism.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 176",
+  "title": "Advanced Readings in Japanese Texts",
+  "units": "4",
+  "description": "Readings in Japanese texts on religion (Buddhism and Shinto) and intellectual history. The course focuses on an accurate understanding of linguistic representation of concepts and stylistic nuances in the fields of Japanese religious and cultural history.",
+  "prerequisites_raw": "Japan 144 and 145 or prior approval of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180",
+  "title": "Special Topics in Japanese Studies",
+  "units": "4",
+  "description": "Special topics in Japanese Studies. Course content varies.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180AI",
+  "title": "Asia and Italy: From the Silk Road to WEIBO",
+  "units": "4",
+  "description": "Students study a wide variety of texts and images related to the exchangesboth cultural and materialbetween China, Japan, and Italy, from Marco Polo's journey along the Silk Road to today's Eastern and Western hypermodernity.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180DL",
+  "title": "Death, Love & Money in Modern Japan",
+  "units": "4",
+  "description": "How does capitalism remake intimacy and love? How does intimate kinship shape the experiences of aging and death? What kind of relationship exists between family and economy? Students explore these key questions by examining the theoretical texts about our life under capitalism jointly with the case studies from modern and contemporary Japan. The assigned materials will include readings, movies, and other visual-audio materials.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180ET",
+  "title": "Imagining Edo/Tokyo",
+  "units": "4",
+  "description": "An interdisciplinary exploration of the city formerly known as Edo, and now known as Tokyo, from the nineteenth century to the present. Sources include literature, films, maps, photographs, and woodblock prints. All readings will be in English translation; no knowledge of Japanese is required.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180JE",
+  "title": "Special Topics in Japanese Studies",
+  "units": "4",
+  "description": "Special topics in Japanese Studies. Course content varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180JY",
+  "title": "Youth and Social Change in Contemporary Japan",
+  "units": "4",
+  "description": "Examines the lives of youth and young adults in Japan, particularly their struggles with, adaptations to, and active involvement in social change. Discussion topics include generational conflict, gender, family, employment, marginalization, migration, resistance, activism and media representation.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180MJ",
+  "title": "Media and Japanese Society",
+  "units": "4",
+  "description": "Examines different forms of media and their influence on society starting with a brief historical overview and then focusing on postwar to contemporary media including music, film, computer games/anime, and the internet including social media.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180SJ",
+  "title": "Shamanism in the Japanese Archipelago",
+  "units": "4",
+  "description": "Considers the term shaman and its application to diverse traditions in the Japanese archipelago. After exploring definitions and theories of shamanism, we examine historical and contemporary shamanic traditions among the Japanese, Ainu, and Okinawan cultures.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180TV",
+  "title": "Japanese TV: History, Genres, and Content",
+  "units": "4",
+  "description": "Surveys the history of Japanese TV and the development of the most important genres, including rom-com, detective drama, and variety shows. We will analyze content for how they depict social issues, including work culture, gender, and conflict resolution.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180WJ",
+  "title": "Women and Womanhood in Japanese History",
+  "units": "4",
+  "description": "From rulers to entertainers, court ladies to feminists, women in Japanese history were defined by and responded to their various societal roles. Examining texts by and about diverse women, we reconsider the history of Japan through the lens of gender.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 180WL",
+  "title": "Women's Literature in Japan",
+  "units": "4",
+  "description": "This course surveys various genres of women's literature and other artistic expressions (i.e. film, comic essay, and performance art) by contemporary women in Japan. By doing so, it introduces issues of gender and sexuality in postwar Japanese society and some of the major cultural analyses and discourses around the issues.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 181",
+  "title": "Introduction to Classical Japanese",
+  "units": "4",
+  "description": "Introduction to classical Japanese grammar, vocabulary, and major genres. Foundation for the study of premodern through prewar texts. Prerequisite for JAPAN 183.",
+  "prerequisites_raw": "Japanese 120C",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 183",
+  "title": "Readings in Premodern through Meiji Japanese Texts",
+  "units": "4",
+  "description": "Selected readings in medieval, early modern, and Meiji texts.",
+  "prerequisites_raw": "Japanese 181.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 197",
+  "title": "Senior Honors Project",
+  "units": "0",
+  "description": "An independent study course (one to three quarters) directed by a faculty member with a carefully chosen topic and bibliography which will result in a documented project or a senior thesis.",
+  "prerequisites_raw": "Open to senior majors only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 198",
+  "title": "Readings in Japanese",
+  "units": "0",
+  "description": "Guided reading in Japanese on a subject not covered in the regularly offered courses.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Japaneseconsent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 199",
+  "title": "Independent Studies in Japanese",
+  "units": "0",
+  "description": "Individual investigations in literary fields.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Japanese; at least one of those two courses taken with instructor for Japan 199; GPA for those two courses 3.5 or higher",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Faculty supervised research.",
+  "prerequisites_raw": "Completion of at least 2 upper-division courses in Japanese studies or EastAsian Cultural Studies; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 201",
+  "title": "Readings in Selected Texts",
+  "units": "0",
+  "description": "Course will center on readings of japanese texts type and period to depend on needs of students and wishes of instructor. Research methods to be taught as appropriate.",
+  "prerequisites_raw": "Ability to read japanese at graduate level; consent of instructor. Normallygraduate status is required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 211",
+  "title": "Bibliography and Research Methodology",
+  "units": "4",
+  "description": "Introduction to bibliographies, reference works, and methodologies of research in japanese studies.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 226",
+  "title": "Japan Modern",
+  "units": "4",
+  "description": "Examines Japanese modernity from the mid-nineteenth century to today and analyzes theoretical and methodological approaches to the study of modern Japanese history and society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 235",
+  "title": "Representation in Japanese and European Drama",
+  "units": "4",
+  "description": "A comparative study of theoretical and critical texts that address representation in drama, with particular attention to ideas about imitation and realism, character development, and audience/actor relationships. We will study a range of texts from Japanese and European theater history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 236",
+  "title": "Transnational Japanese Studies",
+  "units": "4",
+  "description": "The broad goal of this seminar is to teach graduate students how to utilize theory to produce scholarly knowledge. Specifically, it introduces theories pertinent to the study of diaspora, globalization, and transnationalism with a focus on empirical research about Japan.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 237",
+  "title": "Anthropology of Japan",
+  "units": "4",
+  "description": "This course focuses on the history, methods, theories, and politics pertaining to the anthropological study of Japan. It primarily covers the postwar academic texts in English, and occasionally engages sources in Japanese, in alternative formats, and/or from earlier historical periods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

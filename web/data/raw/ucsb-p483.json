@@ -1,0 +1,37 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "WRIT W",
+  "code": "WRIT W 109ST",
+  "title": "Writing for Science and Technology Online",
+  "units": "4",
+  "description": "An online class that analyzes and practices various forms of scientific and technical writing, both academic and professional, such as reports, proposals, journal articles, and abstracts. Attention to research methods, design of papers, digital visualizations, technical style, and editing strategies.",
+  "prerequisites_raw": "Writ 2 or Writ 2LK or Writ 2E or AP36 >=4 or AP 37 >=4 or WAIV AW >=1 or IB BL >=6 or IB E >=6",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2LK",
+   "WRIT 2E",
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ZOOL",
+  "code": "ZOOL 112L",
+  "title": "PROB INVERT ZOOLOGY",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ZOOL",
+  "code": "ZOOL 128",
+  "title": "VERTBR PHYS CYCLES",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

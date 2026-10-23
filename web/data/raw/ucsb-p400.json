@@ -1,0 +1,326 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 116",
+  "title": "Portuguese Literature in Translation",
+  "units": "4",
+  "description": "A broad overview of Modern and Contemporary Portuguese literature, in English translation. It investigates the relationship between literature and society in novels, short-stories, poems, and essays produced between the Modernist period and the present. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 125A",
+  "title": "Artistic and Interdisciplinary Approaches to Portuguese Language Countries",
+  "units": "4",
+  "description": "The distinctive features of Portugal, Brazil, and African countries as manifested in institutions, art, music, and literature. Taught in English",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 125B",
+  "title": "Culture and Civilization of Brazil",
+  "units": "4",
+  "description": "Provides students with tools to understand, discuss, and learn many aspects of Brazilian culture. From the beginning, the complexities involved in the Portuguese colonization, the special conjuncture bringing the Portuguese Royal family to Rio de Janeiro, and the circumstances involving the formation of Brazil and Brazilians, make Brazilian culture one of the most complex in the whole of the Americas. Students engage with important texts and materials that provide a full perspective of Brazilian culture.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 128",
+  "title": "Luso-Brazilian Cinema",
+  "units": "4",
+  "description": "Portuguese and Brazilian films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 128AA",
+  "title": "Luso-Brazilian Cinema",
+  "units": "4",
+  "description": "Portuguese and Brazilian films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 128C",
+  "title": "Luso-Brazilian Cinema",
+  "units": "4",
+  "description": "Portuguese and Brazilian films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in english.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 128D",
+  "title": "Luso-Brazilian Cinema",
+  "units": "4",
+  "description": "Portuguese and Brazilian films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 128RB",
+  "title": "Luso-Brazilian Cinema",
+  "units": "4",
+  "description": "Portuguese and Brazilian films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 129",
+  "title": "Portuguese Cinema",
+  "units": "4",
+  "description": "Portuguese films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 129A",
+  "title": "Portuguese Cinema",
+  "units": "4",
+  "description": "Portuguese films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 129B",
+  "title": "Portuguese Cinema",
+  "units": "4",
+  "description": "Portuguese films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 129C",
+  "title": "Portuguese Cinema",
+  "units": "4",
+  "description": "Portuguese films of the past forty years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course on a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 130",
+  "title": "Brazilian Cinema",
+  "units": "4",
+  "description": "Brazilian films of the past 40 years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course of a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 130A",
+  "title": "Brazilian Cinema",
+  "units": "4",
+  "description": "Brazilian films of the past 40 years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course of a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 130B",
+  "title": "Brazilian Cinema",
+  "units": "4",
+  "description": "Brazilian films of the past 40 years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course of a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 130C",
+  "title": "Brazilian Cinema",
+  "units": "4",
+  "description": "Brazilian films of the past 40 years both as an art medium and as a document of changing society. Topic or author to be chosen by faculty member; each course of a different topic. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 145",
+  "title": "Portuguese for STEM Students",
+  "units": "4",
+  "description": "Provides an intermediate level of Portuguese with knowledge of vocabulary, grammar, and culture in the context of the science, technology, engineering, or mathematics (STEM) world. The material and activities revolve around terminology and communication relevant to any STEM field, with a significant focus on biology, healthcare, computer sciences, and engineering. The objective is to equip students with the language tools necessary to collaborate, conduct research, and engage with Portuguese-speaking colleagues and resources within the STEM community. Whether students plan to work in a Portuguese-speaking country, collaborate on international projects, this course will foster global competence and enhance career opportunities.",
+  "prerequisites_raw": "Portuguese 6",
+  "prerequisites_courses": [
+   "SPAN 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 147",
+  "title": "Business Portuguese",
+  "units": "4",
+  "description": "Provides students with knowledge of vocabulary, grammar, and culture in the specific context of the business world. The material and activities revolve around topics related to business in the Portuguese-speaking world (money & banking, the market, the company, the stock market, imports & exports, marketing & advertising, society & consumption, and human resources). The objective is to develop advanced language proficiency and a professional register in Portuguese through the explorations of those topics. These two aspects will be creatively explored through the representation of real-life situations in the professional environment, interactive activities, and a group project where students will design their own company.",
+  "prerequisites_raw": "Portuguese 6",
+  "prerequisites_courses": [
+   "SPAN 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183",
+  "title": "Studies in Portuguese Literatures",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183A",
+  "title": "Postcolonial Dynamics in Lusophone Africa",
+  "units": "4",
+  "description": "This course, taught in English, explores literatures and cultures through contemporary film, music, and literature from the Portuguese-speaking world in Africa, focusing on Angola, Mozambique, and Cape Verde. We analyze literary, historical, and political texts to deepen our understanding of post-colonial identities and African societies. Discussions center on anti-colonial struggles, nationhood, colonial legacies, ethnicity, trauma, reconciliation, and utopian/dystopian cultural identities.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183B",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183BP",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183C",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183D",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183E",
+  "title": "Studies in Portuguese Literatures",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183G",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183J",
+  "title": "Studies in Portuguese Literatures",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183M",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183P",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183R",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183S",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 183T",
+  "title": "Studies in Portuguese Literature",
+  "units": "4",
+  "description": "Topic or author to be chosen by faculty member; each course on a different topic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

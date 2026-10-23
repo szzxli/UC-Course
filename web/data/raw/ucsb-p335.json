@@ -1,0 +1,268 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 135",
+  "title": "Biophysics and Biomolecular Materials",
+  "units": "3",
+  "description": "Structure and function of cellular molecules (lipids, nucleic acids, proteins, and carbohydrates). Genetic engineering techniques of molecular biology. Biomolecular materials and biomedical applications (e.g., bio-sensors, drug delivery systems, gene carrier systems).",
+  "prerequisites_raw": "Physics 5 or 6C or 25.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 6C",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 160",
+  "title": "Introduction to Polymer Science",
+  "units": "3",
+  "description": "Introductory course covering synthesis, characterization, structure, and mechanical properties of polymers. The course is taught from a materials perspective and includes polymer thermodynamics, chain architecture, measurement and control of molecular weight as well as crystallization and glass transitions.",
+  "prerequisites_raw": "Chemical Engineering 110A or Chemistry 113A or equivalent.",
+  "prerequisites_courses": [
+   "CH E 110A",
+   "CHEM 113A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 162A",
+  "title": "The Quantum Description of Electronic Materials",
+  "units": "4",
+  "description": "Electrons as particles and waves, Schrodinger's equation and illustrative solutions. Tunneling. Atomic structures, the exclusion principle and the periodic table. Bonds. Free electrons in metals, periodic potentials and energy bands.",
+  "prerequisites_raw": "ECE 130A-B and 134 with a minimum grade of C- in all; open to EE, senior students in the BS/MS programs and Materials graduate students only.",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ECE 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 162B",
+  "title": "Fundamentals of the Solid State",
+  "units": "4",
+  "description": "Crystal lattices and the structure of solids, with emphasis on seminconductors. Lattice vibartations. Electronic states and energy bands. Electrical and thermal conduction. Dielectic and optical properties. Semiconductor devices: diffusion, P-N junctions and diode behavior.",
+  "prerequisites_raw": "ECE 162A with a minimum grade of C-; open to EE, senior students in the BS/MS programs and Materials graduate students only.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 185",
+  "title": "Materials in Engineering",
+  "units": "3",
+  "description": "Introduces the student to the main families of materials and the principlesbehind their development, selection, and behavior. Discusses the generic properties of metals, ceramics, polymers, and composites more relevant to structural applications. The relationship of properties to structure and processing is emphasized in every case.",
+  "prerequisites_raw": "Materials 100B or 101.",
+  "prerequisites_courses": [
+   "MATRL 100B",
+   "MATRL 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 186A",
+  "title": "Manufacturing and Materials",
+  "units": "3",
+  "description": "Introduction to the fundamentals of common manufacturing processes and their interplay with the structure and properties of materials as they are transformed into products. Emphasis on process understanding and the key physical concepts and basic mathematical relationships involved in each of the processes discussed.",
+  "prerequisites_raw": "ME 151C; and ME 15; and Materials 101 or Materials 100C",
+  "prerequisites_courses": [
+   "ME 151C",
+   "ME 15",
+   "MATRL 101",
+   "MATRL 100C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 186B",
+  "title": "Introduction to Additive Manufacturing",
+  "units": "3",
+  "description": "Introduction to additive manufacturing processes: review ofmanufacturing methods and process selection consideration, economies of production, common additive manufacturing strategies, and brief description of the physics of photopolymerization, extrusion, selective laser melting and e-beam melting fabrication.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 188",
+  "title": "Topics In Materials",
+  "units": "2",
+  "description": "Topics in Materials for renewable energy-efficient applications: Thermoelectrics, Solid State Lighting, Solar Cells, High Temperature coatings for turbines and engines.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 200A",
+  "title": "Thermodynamic Foundation of Materials",
+  "units": "4",
+  "description": "The microscopic statistical mechanical foundations of the macroscopic thermodynamics of materials, with applications to ideal and non-ideal gases, electrons and phonons in solids, multicomponent solutions, phase equilibria in single and multicomponent systems, and capillarity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 200B",
+  "title": "Electronic and Atomic Structure of Materials",
+  "units": "4",
+  "description": "The free electron model; electron levels in periodic potentials. Classification of solids. Role of electronic structure in atomic bonding and atomic packing. Cohesion. Surfaces, interfaces and junction effects. Semiconductors. Transition-metal compounds. Amorphous solids. Liquid crystals. Colloids and soft materials.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 200C",
+  "title": "Structure Evolution",
+  "units": "4",
+  "description": "Study of phenomena underlying the evolution of structure across the relevant length and time scales in Materials. Structural defects. Drving forces, mechanisms and kinetics of structural change. Diffusional transport. Fundamentals of phase transformations. Crystallization. Evolution of microstructural features and patterns.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 200Q",
+  "title": "Introduction to Quantum Mechanics for Materials",
+  "units": "3",
+  "description": "A primer course on quantum mechanics for materials incoming graduate students who have had limited exposure to the subject. Topics include: The Schrodinger equation, wave functions, observables and operators; solutions to a particle in a box, harmonic oscillator and a free particle; the formalism of quantum mechanics, dirac notation; angular momentum, solutions to the hydrogen atom; spin and two state systems; perturbation theory, composite systems, entanglement, Pauli exclusion principle.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 200S",
+  "title": "Introduction to Structure and Phase Stability",
+  "units": "3",
+  "description": "A primer course for incoming graduate students with non-MSE background. Basic concepts of structure and descriptors: crystalline and non-crystalline solids, compounds, solid solutions. Structural imperfections: point defects, dislocations and strain fields, surfaces, interfaces. Defects in ionic crystals. Thermodynamic underpinnings of phase diagrams: phase rule, chemical potential, equilibrium conditions, metastability. Unary systems. Fundamentals of binary systems, allotropes, invariant reactions, phase fractions and compositions, relationship with structure evolution. Maps for reacting systems, Ellingham diagrams, predominance diagrams. Introduction to ternary systems: liquidus surfaces and basic invariant reactions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 204",
+  "title": "Introduction to Magnetism and Magnetic Materials",
+  "units": "3",
+  "description": "Review of elementary magnetostatics. Discussion of quantum mechanical origins of magnetism. Properties of ferro-, para- dia- and antiferro-magnetics and the theories that describe them. Magnetic phenomena and materials manifesting magnetic states in both localized and itinerant limits.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 205",
+  "title": "Wide-Band Gap Materials and Devices",
+  "units": "3",
+  "description": "Optical and electrical properties of wide and ultra-wide band gap semiconductors (Al,In,Ga) N, SiC, Ga2O3, diamond-based semiconductor materials. Theory and practical applications of wide-band materials in electronic and optoelectronic devices. Materials growth techniques of MOCVD and MBE are discussed in the particular context of WBG semiconductors. Applications of these materials in lasers, LEDs, high frequency transistors and power devices emphasized.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 206A",
+  "title": "Fundamentals of Electronic Solids I",
+  "units": "4",
+  "description": "Introduction into the physics of semiconductors for beginning engineering graduate students. Crystal structure. Reciprocal lattice and crystal diffraction. Electrons in periodic structures. Energy and bands. Semiconductor electrons and probes, fermi statistics.",
+  "prerequisites_raw": "ECE 162A-B.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 206B",
+  "title": "Fundamentals of Electronic Solids II",
+  "units": "4",
+  "description": "Phonons, electron scattering, electro nic transport, selected optical properties, heterostructures, effective mass, quantum wells, two-dimensional electron gas, quantum wires, deep levels, crystal binding.",
+  "prerequisites_raw": "ECE 162A-B.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 207",
+  "title": "Mechanics of Materials",
+  "units": "3",
+  "description": "Matrices and tensors, stress and deformation, compatibility and equilibrium conditions, constitutive equations, and boundary conditions, applications in elasticity, plasticity and fracture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 209A",
+  "title": "Crystallography and Diffraction Fundamentals",
+  "units": "3",
+  "description": "Diffraction theory: fourier transformation, schrodinger equation, Maxwell's equations, kinematical theory, Fresnel diffraction, Fraunhofer diffraction, scattering of x-rays, electrons and neutrons by isolated atoms and assemblies of atoms, pair correlation and radial distribution functions. Basic symmetry operations, point groups, space groups.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 209B",
+  "title": "X-Ray Diffraction II: Advanced Methods",
+  "units": "3",
+  "description": "Focuses on modern diffraction techniques from crystalline materials. High resolution x-ray diffraction. Analysis of epitaxial layers. X-ray scattering theory. Simulation of x-ray rocking curves. Analysis of thin films and multiple layers. Triple-axis x-ray diffractometry. Topography. Synchrotron techniques.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 209BL",
+  "title": "X-Ray Diffraction I: Principles & Practices",
+  "units": "3",
+  "description": "Exposes students to practical aspects of powder and single crystal X-ray diffraction, including the determination and refinement of crystal structures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 209C",
+  "title": "Electron Microscopy II: Crystalline Materials",
+  "units": "3",
+  "description": "Electron microscopy to study defect structures, elastic and inelastic scattering, kinematics theory of image contrast, bright and dark field imaging, two-beam conditions, contrast from imperfections, dynamical theory of diffraction and image contrast. Howie Whellan equations, dispersion surface.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 209CL",
+  "title": "Electron Microscopy I: Principles and Practices",
+  "units": "4",
+  "description": "Laboratory course with lecture component. Topics include: TEM alignment; basic functions; eletctron diffraction and reciprocal space; basic imaging; bright field and dark field; diffraction contrast; quantitative analysis of defects; HRTEM imaging and simulation. Involves TEM sample preparation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 211A",
+  "title": "Engineering Quantum Mechanics I",
+  "units": "4",
+  "description": "Wave-particle duality; bound states; uncertainty relations; expectation values and operators; variational principle; eigenfunction expansions; perturbation theory I. Treatment matches needs and background of ECE and materials students emphasizing solid state or quantum electronics.",
+  "prerequisites_raw": "ECE 162A-B. Students must have some knowledge of linear algebra.",
+  "prerequisites_courses": [
+   "ECE 162A"
+  ]
+ }
+]

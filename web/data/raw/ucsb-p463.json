@@ -1,0 +1,353 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 29A",
+  "title": "Scenic Practicum",
+  "units": "1",
+  "description": "Empirical understanding of methods of assembly and materials for stage scenery. Shop organization and operation are experienced during the construction process.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 29B",
+  "title": "Lighting Practicum",
+  "units": "1",
+  "description": "Empirical understanding of optical properties of lightin units, available hanging positions and apparatus, lighting control, electrical safety and stage crew organization.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 29C",
+  "title": "Costume Practicum",
+  "units": "1",
+  "description": "Empirical understanding of methods of assembly and materials for stage dress. Costume shop organization and operation are experienced during the construction process.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 29D",
+  "title": "Run Crew Practicum",
+  "units": "1",
+  "description": "Empirical understanding of backstage organization and operation during live performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 31A",
+  "title": "Costume Construction",
+  "units": "0",
+  "description": "Introduction to materials and construction techniques used in the production of theatrical costumes.",
+  "prerequisites_raw": "Theater 29C.",
+  "prerequisites_courses": [
+   "THTR 29C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 31B",
+  "title": "Costume Techniques",
+  "units": "0",
+  "description": "Introduction to process of constructing specialized costume crafts such as millinary, masks, and theatrical wigs. Subject matter varies by quarter.",
+  "prerequisites_raw": "Theater 29C.",
+  "prerequisites_courses": [
+   "THTR 29C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 40",
+  "title": "Theater Games",
+  "units": "4",
+  "description": "Using theater games, improvisation and storytelling, this course expands the imagination and frees the instincts of the actor. Exercises reflect the work of improvisation icons such as Viola Spolin, Augusto Boal, and Paul Sills. Students also explore techniques for sharing/teaching these games in community settings such as schools, senior citizen centers, etc. Prerequisite: Theater 5 or Instructor's Approval. Highly recommended for students focusing on Theater and Community.",
+  "prerequisites_raw": "Theater 5 or permission of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 42",
+  "title": "I.V. Live",
+  "units": "2",
+  "description": "This course produces a weekly performance series in Isla Vista. Students get first-hand experience in the rigors of theatrical production, as they learn to execute all logistical, technical, and promotional details. The course is affiliated with Isla Vista Arts.",
+  "prerequisites_raw": "Lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 43",
+  "title": "The People's Voice",
+  "units": "4",
+  "description": "Students and teens from the community collaborate in writing, crafting, and performing an epic myth through the lens of their personal stories.",
+  "prerequisites_raw": "Lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 49",
+  "title": "Theater Workshop",
+  "units": "0",
+  "description": "Projects in costume, scenery, lighting, acting, directing.",
+  "prerequisites_raw": "Lower-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 75",
+  "title": "Summer Theater Laboratory",
+  "units": "4",
+  "description": "Workshops in playwriting, solo performance, acting, directing, and choreography. Students develop their own projects and take master classes with nationally prominent guest artists. Students also have the opportunity to perform in projects by guest artists.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 90",
+  "title": "Community Theater",
+  "units": "3",
+  "description": "Preparation and creation of performance in UCSB community related to student health issues (i.e., binge drinking, sexual health, eating disorders, relationship success) adapted to campus life.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 91",
+  "title": "Summer Theater in Orientation",
+  "units": "3",
+  "description": "Explore college health and wellness through the art of community theater. Students draw from experience to tell the story of student life at UCSB, using drama as a behavioral change tool. Students are trained to be paid actors for Summer Orientation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 94",
+  "title": "Group Studies For Lower-Division Students",
+  "units": "0",
+  "description": "Special opportunities for study, research, and project preparation.",
+  "prerequisites_raw": "Freshmen or sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 95",
+  "title": "Introduction to Stage Management",
+  "units": "2",
+  "description": "Foundational course exploring the full range of duties and responsibilities of a stage manager, a vital role for all theatrical and dance productions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 104A",
+  "title": "Playwriting Workshop",
+  "units": "4",
+  "description": "An exploration of the essential components of playwriting. Exercises focus on writing dialogue, monologue, creating three-dimensional characters, building effective story structures, and developing action through language and stage images. A series of written assignments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 104B",
+  "title": "Advanced Playwriting Workshop",
+  "units": "4",
+  "description": "A continued exploration of the essential components of playwriting. Writing exercises in dialogue, monologue, character, story structure, action and stage images. Students focus on developing their individual writing voice. A series of written assignments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 104C",
+  "title": "Collaboration & Ensemble Devising",
+  "units": "4",
+  "description": "Open to playwrights, dancers, directors, actors, and designers. A series of written and ensemble performance-based assignments in which small groups explore different ways of generating and staging new material.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 104D",
+  "title": "New Works Lab",
+  "units": "4",
+  "description": "An exploration of story structures and technique through rigorous workshopping and on-its-feet development, and a series of written and performance-based assignments.",
+  "prerequisites_raw": "Consent of Instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 104E",
+  "title": "Generating New Material (Solo Performance)",
+  "units": "4",
+  "description": "Focuses on the development of solo performance pieces through the theatrical exploration of objects and how they can be used to construct visual metaphors. Emphasis is on physical forms of storytelling and methods of building a dramatic work moment by moment through research and generative writing. A series of written and performance-based assignments. Open to playwrights, designers, dancers, actors, and directors.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 105C",
+  "title": "Chicano Theatre In Performance",
+  "units": "3",
+  "description": "Utilizing the experience and materials created in Dramatic Art 105A and B, a series of performance events will be moulded in four weeks of intensive rehearsal. The remainder of the quarter will be given to an extensive series of performances by the teatro group, including presentations in schools, prisons, parks, community centers, and theatres.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 110A",
+  "title": "Advanced Movement for the Stage",
+  "units": "2",
+  "description": "A continuation of the Theater 10 series with increased focus on physical characterization and technical skills.",
+  "prerequisites_raw": "Theater 10C; concurrent enrollment in Theater 151A. Consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 10C",
+   "THTR 151A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 110B",
+  "title": "Advanced Movement For The Stage",
+  "units": "2",
+  "description": "A continuation of the Theater 10 series with increased focus on physical characterization and technical skills.",
+  "prerequisites_raw": "Concurrent enrollment in Theater 151B. Consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 151B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 110C",
+  "title": "Advanced Movement For The Stage",
+  "units": "2",
+  "description": "A continuation of the Theater 10 series with increased focus on physical characterization and technical skills.",
+  "prerequisites_raw": "Concurrent enrollment in Theater 151C. Consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 151C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 110D",
+  "title": "Advanced Performance Projects",
+  "units": "3",
+  "description": "Advanced studio projects utilizing the actor's physical and vocal skills to develop original theater.",
+  "prerequisites_raw": "Theater 110C.",
+  "prerequisites_courses": [
+   "THTR 110C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 110E",
+  "title": "Stage Combat for Actors",
+  "units": "3",
+  "description": "A practical exploration of the basic techniques and methods required to create the illusion of violence on stage. Hand to hand, quarterstaff, broadsword, rapier and dagger and other historical weapon systems will be integrated with foundational acting and storytelling principles. A materials fee will be required for use of theatrical weapons.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 111A",
+  "title": "Advanced Voice Laboratory",
+  "units": "2",
+  "description": "Advanced problems in voice for the actor with continued emphasis on craft, plus the creative and expressive uses of the voice with the body.",
+  "prerequisites_raw": "Theater 11C; and concurrent enrollment in 151A.",
+  "prerequisites_courses": [
+   "THTR 11C",
+   "THTR 151A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 111B",
+  "title": "Advanced Voice Laboratory",
+  "units": "2",
+  "description": "Advanced problems in voice for the actor with continued emphasis on craft, plus the creative and expressive uses of the voice with the body.",
+  "prerequisites_raw": "Theater 11C; and concurrent enrollment in 151B.",
+  "prerequisites_courses": [
+   "THTR 11C",
+   "THTR 151B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 111C",
+  "title": "Advanced Voice Laboratory",
+  "units": "2",
+  "description": "Advanced problems in voice for the actor with continued emphasis on craft, plus the creative and expressive uses of the voice with the body.",
+  "prerequisites_raw": "Theater 11C; and concurrent enrollment in 151C.",
+  "prerequisites_courses": [
+   "THTR 11C",
+   "THTR 151C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 112",
+  "title": "Senior Voice Laboratory",
+  "units": "2",
+  "description": "Seminar in advanced voice work for senior students in B.F.A.-Acting program. Concentration on projects to find a personal voice in the theatre.",
+  "prerequisites_raw": "Theater 111C.",
+  "prerequisites_courses": [
+   "THTR 111C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 119",
+  "title": "Design Critical Studies",
+  "units": "5",
+  "description": "This course introduces advanced design and directing students to key concepts and skills that promote successful theatrical collaboration. Directing and design teams will research all aspects of a play and develop a proposed unified production using a shared verbal and visual language.",
+  "prerequisites_raw": "Theater 19.",
+  "prerequisites_courses": [
+   "THTR 19"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 121",
+  "title": "Advanced Theater Production",
+  "units": "2",
+  "description": "An investigation of problems in planning, drafting, construction, scenic crafts, special effects, properties, automated fixtures, show control, safety, and rigging of stage scenery.",
+  "prerequisites_raw": "Dramatic Art 21; and Dramatic Art 22 or 23 or 25; consent of department.",
+  "prerequisites_courses": [
+   "ART 21",
+   "ART 22"
+  ]
+ }
+]

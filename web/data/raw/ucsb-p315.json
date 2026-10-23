@@ -1,0 +1,440 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 116",
+  "title": "Cicero: Essays, Letters, And Orations",
+  "units": "4",
+  "description": "Reading and study of selected works of Cicero, normally one of the major speeches. Translation; discussion of philological, stylistic, and rhetorical points.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 117",
+  "title": "Prose Of The Empire",
+  "units": "4",
+  "description": "Reading, translation, and discussion of authors such as Seneca, Pliny, and Tacitus.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 118",
+  "title": "Roman Epistles",
+  "units": "4",
+  "description": "Reading, translation, and discussion of the letters of Cicero, Seneca, and Pliny.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 120",
+  "title": "Sallust",
+  "units": "4",
+  "description": "Study of one of the extant works of Rome's first great historian: the Bellum Catilinae or the Bellum Iugurthinum. Translation; discussion of philological, stylistic, literary, and historical points.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 121",
+  "title": "SALLUST",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 122",
+  "title": "Livy",
+  "units": "4",
+  "description": "Reading and study of the annalistic history of Livy with attention to the author's style, literary, and historical context, and the recent scholarly approaches to the text.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 123",
+  "title": "Tacitus",
+  "units": "4",
+  "description": "Study of portions of one of Tacitus' major histories of the early empire (Annales, Historiae), or of the shorter works (Agricola, Dialogus, Germania). Translation; discussion of philological, stylistic, literary, and historical points.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 124",
+  "title": "Caesar",
+  "units": "4",
+  "description": "Study of Caesar as historian and Latin prose stylist. Extensive reading.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 125",
+  "title": "Roman Biography",
+  "units": "4",
+  "description": "Exploration of Roman biographical writing: its historical and literary context, themes, and techniques. Translation and discussion of selections from the biographies of Nepos, Suetonius, and Tacitus, as well as biographical passages from the histories of Sallust, Livy, and Tacitus.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 131",
+  "title": "POETS ROMAN REPUBLI",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 132",
+  "title": "AUGUSTAN POETS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 133",
+  "title": "POST-AUGUSTAN POETS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 134",
+  "title": "Lucretius",
+  "units": "4",
+  "description": "Reading, translation, and discussion of style, meter and philosophy in Lucretius' epic poem De Rerum Natura.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 135",
+  "title": "Vergil",
+  "units": "4",
+  "description": "Reading, translation, and discussion of Vergil's epic poem Aeneid, as well as his Georgics and Eclogues.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 136",
+  "title": "Ovid",
+  "units": "4",
+  "description": "Translation and discussion of Ovid's epic or elegiac poetry (Metamorphoses, Fasti, Ars Amatoria, Tristia, Heroides) in its literary, social and historical contexts.",
+  "prerequisites_raw": "Latin 102 or equivalent.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 137",
+  "title": "Catullus",
+  "units": "4",
+  "description": "Translation and discussion of Catullus' poetry in its literary, social, and historical contexts.",
+  "prerequisites_raw": "Latin 102 or equivalent.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 138",
+  "title": "Horace",
+  "units": "4",
+  "description": "Reading, translation, and discussion of selected poems of Horace (Odes, Epodes, Satires, Epistles) in their literary, social, and historical contexts.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 139",
+  "title": "Seneca: Tragedies",
+  "units": "4",
+  "description": "Reading, translation, and discussion of several tragedies by Seneca.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 199",
+  "title": "Independent Studies In Latin.",
+  "units": "0",
+  "description": "Independent investigations in Latin language and literature.",
+  "prerequisites_raw": "Consent of instructor and department chair. upper-division standing; completion of 2 upper-division courses in Latin.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 200",
+  "title": "Introduction to Latin Prose",
+  "units": "4",
+  "description": "Reading and analysis of various Latin prose authors to develop reading skills and introduce study of the style and thought of historical, rhetorical and/or philosophical writers.",
+  "prerequisites_raw": "One year of Latin or more.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 210",
+  "title": "Latin Prose Composition",
+  "units": "4",
+  "description": "Study of Latin grammar and syntax through English composition, combined with analysis of Latin prose style in a variety of authors, including Cato, Caesar, Cicero, Sallust, and Tacitus.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 211",
+  "title": "Roman Epic",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of authors such as Vergil and Lucan.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 212",
+  "title": "Roman Elegy",
+  "units": "4",
+  "description": "Advanced study and discussion of the elegiac works of Tibullus, Propertius, and/or Ovid. Consideration of the genre of elegy in its literary and historical contexts, with special attention to elegiac themes and motifs.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 213",
+  "title": "Roman Satire",
+  "units": "4",
+  "description": "Advanced readings in Horace, Juvenal, Persius, and/or Martial.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 214",
+  "title": "Roman Comedy",
+  "units": "4",
+  "description": "Advanced study of Plautus and Terence. Reading of complete plays and study of the origins of Roman comedy.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 215",
+  "title": "The Roman Novel",
+  "units": "4",
+  "description": "Advanced study of Petronius and/or Apuleius, with attention to the language and style of their satiric novels, and to their social and historical context.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 216",
+  "title": "Cicero: Essays, Letters, and Orations",
+  "units": "4",
+  "description": "Advanced reading and study of selected works of Cicero, normally one of the major speeches. Translation; discussion of philological, stylistic, and rhetorical points; introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 217",
+  "title": "Prose of the Empire",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of authors such as Seneca, Pliny, and Tacitus.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 218",
+  "title": "Roman Epistles",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of authors such as Cicero, Seneca, and Pliny.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 220",
+  "title": "Sallust",
+  "units": "4",
+  "description": "Advanced study of one of the extant works of Rome's first great historian: The Bellum Catilinae or the Bellum Iugurthinum. Translations; discussion of philological, stylistic, literary, and historical points; introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221A",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221B",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221C",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221I",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221J",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221M",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221N",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221R",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221S",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "classics 201 or consent of instructor. course number may be repeated, but n",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221W",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 221Y",
+  "title": "Seminar in Latin Literature",
+  "units": "4",
+  "description": "Intensive study and research in a Latin author or genre. Author varies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

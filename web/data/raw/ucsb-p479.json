@@ -1,0 +1,343 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105R",
+  "title": "Rhetoric and Writing",
+  "units": "4",
+  "description": "Traces the history, theory, and practice of rhetoric (effective persuasion) from classical times to the modern era. Students analyze key works and apply rhetorical strategies in written argumentation.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105S",
+  "title": "Writing About Sustainability",
+  "units": "4",
+  "description": "Analysis and practice of various forms of writing that address sustainability in interdisciplinary contexts. Students will research, write, and reflect on concepts and practices of sustainability, examining the role of words and images in communicating sustainability ideas to diverse audiences.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105SO",
+  "title": "Writing and Sound",
+  "units": "4",
+  "description": "Students learn and write about sound in reflective, analytical, and rhetorical ways and incorporate sound or a sonic topic into writing and compositional projects.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105SW",
+  "title": "Science Writing for the Public",
+  "units": "4",
+  "description": "Focus on analyzing, practicing, and applying strategies for communicating scientific concepts, research projects, and findings with non-specialist audiences. Students will employ both traditional and new media forms of communicating scientific knowledge.",
+  "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK",
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105WC",
+  "title": "Writing in Community",
+  "units": "4",
+  "description": "Analysis and practice of various forms of community-based writing (such as reports and proposals) by and for local groups that promote the social good. Attention is paid to direct interaction with the community, research, metacognitive awareness, genre awareness, and writing conventions.",
+  "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK",
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 105WE",
+  "title": "Writing and Ethics",
+  "units": "4",
+  "description": "Focus on ethics in writing, rhetoric, and communication. By researching, analyzing, and composing texts related to ethics in various genres and disciplines, students explore how writing contributes to the good life for individuals and communities.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing; or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >=1 or Exam: IB BL >=6 or Exam: IB E >=6",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK",
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107A",
+  "title": "Writing for Accounting Economics",
+  "units": "4",
+  "description": "Writing practices in academic and professional accounting. Research sources include publications, databases, case studies, interviews. Assignments include reports, correspondence, memorandum, presentations. Attention to critical thinking, research techniques, international context, use of information technology, and visual communications.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; Economics 136A (may be taken concurrently); upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ECON 136A",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107B",
+  "title": "Business and Administrative Writing",
+  "units": "4",
+  "description": "Analysis and practice in business genres that focuses on writing strategy, concise style, and visual aspects of communication. Attention to typical documents such as letters, memos, e-mail, proposals, and collaborative reports. Courses also typically integrate oral presentations, job search documents, and the use of relevant technology.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107DJ",
+  "title": "Digital Journalism",
+  "units": "4",
+  "description": "Students acquire skills in digital journalism, including writing for web and social media using text, photo, graphics and video. The class forms an editorial group that covers campus events as well as profiles, interviews, blogs, and social media. Course work may be offered to UCSB's College of Letters and Science for publication.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107EP",
+  "title": "Writing for Environmental Professions",
+  "units": "4",
+  "description": "Analysis and practice of professional writing in addressing environmental topics such as water management, carbon neutrality, or sustainability. Attention to research methods, audience analysis, document design, conciseness, collaboration, and editing strategies.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107G",
+  "title": "Professional Writing for Global Careers",
+  "units": "4",
+  "description": "Analysis and practice of writing in global contexts related to business, government, and non-governmental organizations. Attention to typical formats such as formal email, proposals, job application materials, and research reports, including a significant collaborative project. Emphasis on factors affecting international research and document design.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107J",
+  "title": "Journalism and News Writing",
+  "units": "4",
+  "description": "Analysis and practice of news writing for print, broadcast and digital media, with focus on inverted pyramid and feature style, interview techniques, background research, editing, writing to deadline, and ethical issues.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107L",
+  "title": "Legal Writing",
+  "units": "4",
+  "description": "Practice in applying rules to facts, analyzing issues, and writing clearly, succinctly, and cogently in various forms of legal discourse such as case briefs, law essays, persuasive letters, short office memoranda, mediation and appellate briefs. Fundamentals of legal research are touched upon.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107M",
+  "title": "Magazine Writing for Publication",
+  "units": "4",
+  "description": "Focuses on interviews, writing, reviews, and general articles for print media, and submitting them for publication. Students learn about the audience and the demands of each genre, as well as editing skills and the rigor of deadlines.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107P",
+  "title": "Writing for Public Relations",
+  "units": "4",
+  "description": "Analysis and practice of writing in the field of public relations with focus on the news release, web copy, brochures, media kits, and newsletters.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107T",
+  "title": "Technical Writing",
+  "units": "4",
+  "description": "Analysis and practice in writing for technology users with attention given to task analysis, design principles, and writing strategies. Projects include technology related documents such as instructions, user manuals, online documentation, and web content. Final documents suitable for professional portfolio.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 107WC",
+  "title": "Writing Web Content",
+  "units": "4",
+  "description": "Analysis and practice with strategies underlying creation of Web 2.0 content. Students will create common content modalities that may include websites, blogs, email newsletters, and social media as used in professional contexts.",
+  "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK",
+   "WRIT 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109",
+  "title": "Writing for the Disciplines",
+  "units": "4",
+  "description": "Analysis and practice of various forms of academic and professional writing for and in the disciplines.",
+  "prerequisites_raw": "Writing 2 or 2LK or 2E; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2LK",
+   "WRIT 2E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109CS",
+  "title": "Writing for Chicano/a Studies",
+  "units": "4",
+  "description": "Analysis and practice of various forms of writing and research methods in Chicana/o Studies. Attention to strategies for argumentation, analysis, organization, and documentation used in humanities and social sciences",
+  "prerequisites_raw": "Writing 2 or 2LK or 2E; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2LK",
+   "WRIT 2E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109ED",
+  "title": "Writing for the Teaching Professions",
+  "units": "4",
+  "description": "Research, discussion, and analysis of current issues in educational theory,practice, and policy. Appropriate for prospective credential students.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109ES",
+  "title": "Writing for Environmental Studies",
+  "units": "4",
+  "description": "Analysis and practice of professional writing used in addressing environmental topics such as water management, carbon neutrality, and sustainability. Attention to research methods, audience analysis, document design, conciseness, collaboration, and editing strategies.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109F",
+  "title": "Writing about Film",
+  "units": "4",
+  "description": "Analysis and practice of various forms of writing for film, including argumentative writing, film reviews, critical texts, and essays. Of special interest to majors in film studies, English, and social sciences.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109GS",
+  "title": "Writing And Gender Studies",
+  "units": "4",
+  "description": "Students research and analyze writing and rhetoric with a particular focus on the methods and theories of gender studies. Attention to strategies for argumentation, analysis, organization, and documentation used in humanities and social sciences. Writing projects incorporate interdisciplinary and multimedia sources.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109HP",
+  "title": "Writing for Health Professions",
+  "units": "4",
+  "description": "Strategy, analysis, format for various types of academic and professional writing in the health care field. Contemporary topics/issues will be the basis of study, discussion, research, and writing.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ }
+]
