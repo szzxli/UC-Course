@@ -1,0 +1,297 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 597AA",
+  "title": "Individual Study for Master's Comprehensive or Ph.D. Examinations",
+  "units": "0",
+  "description": "Individual study for Master's comprehensive or Ph.D. examinations. Individual study under instructor who is member of the student's program committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Ph.D. dissertation research and preparation. Research and writing of the dissertation. Instructor should be the chair of the student's doctoral committee.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 599AA",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Ph.D. dissertation research and preparation. Research and writing of the dissertation. Instructor should be the chair of the student's doctoral committee.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT W",
+  "code": "PORT W 1",
+  "title": "Online Elementary Portuguese I",
+  "units": "4",
+  "description": "Port W1 is the first course of the Elementary Portuguese three-course sequence delivered in a fully online format. The course follows a communicative approach. The online format combines technology-based language instruction with virtual class meetings and live, guided conversation sessions. The course materials and activities focus on consolidating the same array of skills promoted in the regular Elementary Portuguese I course (face-to-face). By the end of this course students are expected to develop basic proficiency in Portuguese at the Novice-mid level.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT W",
+  "code": "PORT W 2",
+  "title": "Online Elementary Portuguese II",
+  "units": "4",
+  "description": "Continues activities commenced with Portuguese W1.",
+  "prerequisites_raw": "Portuguese 1, or Portuguese 16A, with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 1",
+   "SPAN 16A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT W",
+  "code": "PORT W 3",
+  "title": "Online Elementary Portuguese III",
+  "units": "4",
+  "description": "Completes the basic study of the elements of the language.",
+  "prerequisites_raw": "Portuguese 2 with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 5A",
+  "title": "Understanding Data",
+  "units": "5",
+  "description": "Introduction to data science. Concepts of statistical thinking. Topics include random variables, sampling distributions, hypothesis testing, correlation and regression. Visualizing, analyzing and interpreting real world data using Python. Computing labs required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 5H",
+  "title": "Honors Seminar, Statistics",
+  "units": "1",
+  "description": "Introduction to a variety of statistics and applied probability applications. Active participation and a 15- minute group presentation or a short (2-3 pages) analytical essay will be required.",
+  "prerequisites_raw": "Concurrent enrollment in PSTAT 5A, 5LS, 8, or 10",
+  "prerequisites_courses": [
+   "PSTAT 5A",
+   "PSTAT 5LS",
+   "PSTAT 8",
+   "PSTAT 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 5LS",
+  "title": "Statistics for Life Sciences",
+  "units": "5",
+  "description": "An introduction to statistics for students interested in the quantitative analysis of problems in the life sciences. The focus is on application; topics include probability, correlation and regression, sampling distributions, confidence intervals, and hypothesis testing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 8",
+  "title": "Transition to Data Science, Probability and Statistics",
+  "units": "5",
+  "description": "Introduction to techniques of mathematical logic, proof, and fundamental structures in probability and statistics. The curriculum includes sets, inequalities, functions, continuity, limits, infinity, and random numbers and simulation. Applications to high-dimensional probability, data science, and statistics. Mastery of this material is essential for students continuing to all three PSTAT programs.",
+  "prerequisites_raw": "Mathematics 3C or 3CI or 4A or 4AI or 4B or 4BI or 5A or 5AI or 5B or 5BI or 5C or 6A or 6AI or 6B with a grade of B or better. Not open to students who have completed Math 8.",
+  "prerequisites_courses": [
+   "MATH 8",
+   "MATH 4A",
+   "MATH 4AI",
+   "MATH 4B",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 10",
+  "title": "Principles of Data Science with R",
+  "units": "5",
+  "description": "Fundamentals of programming for data science using R. Descriptive statistics, distributions and graphics in R. Relational database management systems including the relational model, relational algebra, database design principles and data manipulation using SQL. An introduction to the concept of big data.",
+  "prerequisites_raw": "Math 2B or 3B with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 99",
+  "title": "Independent Studies in Statistics",
+  "units": "0",
+  "description": "Independent study under the guidance of a faculty member in the department. Course offers exceptional students an opportunity to undertake independent study or work in a group.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 100",
+  "title": "Data Science Concepts and Analysis",
+  "units": "4",
+  "description": "Overview of data science key concepts and the use of tools for data retrieval, analysis, visualization, and reproducible research in preparation for advanced data science courses. Topics include an introduction to inference and prediction, principles of measurement, missing data, and notions of causality, statistical traps, and concepts in data ethics and privacy.",
+  "prerequisites_raw": "PSTAT 120A; CS 9 or CS 16; and Math 4A, all with letter grade C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 105",
+  "title": "Introduction to Nonparametric Methods",
+  "units": "4",
+  "description": "Statistical methods for model-free data analysis, including use of ranks in comparing means and assessing correlation, computer-based permutation and bootstrap calculations for significance tests and confidence intervals, estimation of lifetime survival curves. Emphasis on scientific applications.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 109",
+  "title": "Statistics for Economics",
+  "units": "5",
+  "description": "An introduction to probabilistic modeling and statistical inference for students with basic knowledge of calculus: probability, discrete and continuous random variables, probability distributions, mean, variance, correlation, sampling, parameter estimation, unbiasedness and efficiency, confidence intervals, hypothesis testing.Computing labs with Excel.",
+  "prerequisites_raw": "Math 34A-B or Math 2A-B or 3A-B; Math 34B or 2B or 3B can be taken simultaneously. Course cannot be used to satisfy any Actuarial Science, Financial Math & Statistics or Statistical Science major or minor requirements.",
+  "prerequisites_courses": [
+   "MATH 34A",
+   "MATH 2A",
+   "MATH 34B",
+   "MATH 3A",
+   "MATH 2B",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 115",
+  "title": "Introduction to Bayesian Data Analysis",
+  "units": "4",
+  "description": "An introduction to the Bayesian approach to statistical inference, its theoretical foundations and comparison to classical methods. Topics include parameter estimation, testing, prediction and computational methods (Markov Chain Monte Carlo simulation). Emphasis on concepts, methods and data analysis. Extensive use of the R programming language and examples from the social, biological and physical sciences to illustrate concepts.",
+  "prerequisites_raw": "PSTAT 126 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 120A",
+  "title": "Probability and Statistics",
+  "units": "4",
+  "description": "Concepts of probability; random variables; combinatorial probability; discrete and continuous distributions; joint distributions, expected values; moment generating functions; law of large numbers and central limit theorems.",
+  "prerequisites_raw": "Math 3C or Math 4A or Math 4AI or Math 6A or Math 6AI completed with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 4AI",
+   "MATH 6A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 120B",
+  "title": "Probability and Statistics",
+  "units": "4",
+  "description": "Distribution of sample mean and sample variance; t, chi-squared and F distributions; summarizing data by statistics and graphs; estimation theory for single samples: sufficiency, efficiency, consistency, methodof moments, maximum likelihood; hypothesis testing: likelihood ratio test; confidence intervals.",
+  "prerequisites_raw": "PSTAT 120A with a grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 120C",
+  "title": "Probability and Statistics",
+  "units": "4",
+  "description": "Hypothesis tests for means of independent samples and paired data; likelihood ratio tests; nonparametric hypothesis tests: sign, rank, and Mann-Whitney tests; chi-squared goodness-of-fit tests and contingency tables; Bayesian methods of estimating parameters and credible intervals.",
+  "prerequisites_raw": "PSTAT 120B with a grade C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 122",
+  "title": "Design and Analysis of Experiments",
+  "units": "4",
+  "description": "An introduction to statistical design and analysis of experiments. Covers: principles of randomization, blocking and replication; fixed, random and mixed effects models; block designs, factorial designs and nested designs; analysis of variance and multiple comparison.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 123",
+  "title": "Sampling Techniques",
+  "units": "4",
+  "description": "An elementary development of the statistical methods used to design and analyze sample surveys. Basic ideas: estimates, bias, variance, sampling and nonsampling errors; simple random sampling with and without replacement; ratio and regression estimates; stratified sampling; systematic sampling; cluster sampling; sampling with unequal probabilities, multistage sampling. Examples from various fields will be discussed to illustrate the concepts including sampling of biological populations, opinion polls, etc.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 126",
+  "title": "Regression Analysis",
+  "units": "4",
+  "description": "Linear and multiple regression, analysis of residuals, transformations, variable and model selection including stepwise regression, and analysis of covariance. The course will stress the use of computer packages to solve real-world problems.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 127",
+  "title": "Advanced Statistical Models",
+  "units": "4",
+  "description": "Exponential family and generalized linear models including logistic and Poisson regression, nonparametric regression, including kernel, spline and local polynomials, and generalized additive models. Other topics as time allows: regularization, neural networks, and support vector machines. Emphasis will be on concepts and practical applications.",
+  "prerequisites_raw": "PSTAT 126 with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 130",
+  "title": "SAS Base Programming",
+  "units": "4",
+  "description": "In depth SAS programming course. Topics include importing/exporting raw data files, manipulating/transforming data, combining SAS data sets, generating reports, handling syntax and logic errors. Provides preparation for the SAS Institute Certified Professional (Base Programming) Examination.",
+  "prerequisites_raw": "One upper division course in PSTAT, MATH, Computer Science or ECE.",
+  "prerequisites_courses": []
+ }
+]

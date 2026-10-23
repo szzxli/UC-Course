@@ -1,0 +1,285 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 220C",
+  "title": "From RNA to Membranes",
+  "units": "2",
+  "description": "Structure and dynamics of biological membranes and membrane proteins, protein translocation and sorting in the endomembrane system of eukaryotic cells, extracellular matrix protein structure/function, cell-matrix and cell-cell interactions, cell adhesion receptors, transmembrane signaling by cell adhesion receptors.",
+  "prerequisites_raw": "MCDB 108A-B-C or Chemistry 142A-B-C; and MCDB 101A.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "CHEM 142A",
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 222A",
+  "title": "Colloids and Interfaces I",
+  "units": "3",
+  "description": "Introduction to the various intermolecular interactions in solution and in colloidal systems: Van der Waals, electrostatic, hydrophobic, solvation, H-bonding. Introduction to colloidal systems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 222B",
+  "title": "Colloids and Interfaces II",
+  "units": "3",
+  "description": "Continuation of 222A. Interparticle interactions, coagulation, DLVO theory, steric interactions, polymer-coated surfaces, polymers in solution, thin film viscosity. Surfactant and lipid self-assembly: micelles,microemulsions. Surfaces: wetting, contact angles, surface tension. Surfactants on surfaces: langmuir-blodgett films, adsorption, adhesion. Non-equilibrium and dynamic interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 223",
+  "title": "Signal Transduction",
+  "units": "2",
+  "description": "A cell's growth is controlled by positive and negative cues from its surroundings. A discussion of the cell's signaling mechanisms that recognize these cues and initiate and intracellular set of events that generates a response.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 224",
+  "title": "Quantitative Biology iQB2 Laboratory Course",
+  "units": "4",
+  "description": "This hands-on research course will integrate investigation of diverse biological phenomena in the lab with quantitative analysis of hypotheses related to the function of living systems. Analysis across different length scales and levels of complexity invokes a synergistic combination of tool building, quantitative data acquisition, complementary theoretical model building. Students will work in subgroups on modules developed by different BMSE faculty to illustrate current research topic in Quantitative Biology.",
+  "prerequisites_raw": "For first-year BMSE graduate students only. Grad students from other programs will be considered but they should seek for the approval of the teaching coordinators. Number of participants will be limited to 12 or the number of first-year BMSE students, whichever is smaller.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 225",
+  "title": "Development",
+  "units": "2",
+  "description": "The molecular mechanisms of pattern formation and cellular differentiation that underline developmental processes in a variety of important model systems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 226",
+  "title": "Signal Transduction and Development in Multicellular Systems",
+  "units": "2",
+  "description": "Cellular and organismal growth and other responses are controlled by positive and negative cues from both internal and external sources. We discuss the signaling mechanisms that recognize these cues and initiate an intracellular set of events that generates a response. We also discuss the molecular mechanisms of pattern formation and cellular differentiation that underlie developmental processes in a variety of important multicellular model systems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 229",
+  "title": "Protein Biochemistry",
+  "units": "2",
+  "description": "Discussion topics relevant to structure-function relationships in proteins including the chemical reactivity of amino acid side chains, posttranslational modifications, and the covalent and noncovalent interactions of multimeric structures. Case studies involve recent advances in structure-function relationships of mechanoproteins.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 230",
+  "title": "Gene Regulation",
+  "units": "2",
+  "description": "Mechanisms and regulation of transcription and translation in prokaryotic and eukaryotic organisms and their viruses.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 232",
+  "title": "Bacterial Pathogenesis",
+  "units": "3",
+  "description": "The mechanisms by which bacterial pathogens cause disease. Investigation of the bacterial gene products produced during infection to understand the metabolic, physiological, and genetic factors that contribute to the virulence of bacterial pathogens.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 232L",
+  "title": "Bacterial Pathogenesis Laboratory",
+  "units": "3",
+  "description": "The latest molecular, biochemical, and genetic techniques available for the identification of microbial gene products that contribute to infection.Study of the regulatory parameters that govern their expression.",
+  "prerequisites_raw": "IQB 232 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "IQB 232"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 233",
+  "title": "Cell Biology",
+  "units": "4",
+  "description": "Introduction to the structure and function of cell organelles: membranes, nucleus, mitochondria, chloroplasts, endoplasmic reticulum, golgi apparatus, lysosomes, microbodies, microtubules, cilia, centrioles, and microfilaments.",
+  "prerequisites_raw": "MCDB 1A-AL or MCDB 1B-BL or EEMB 2-2L, or equivalents, or consent of instructor",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 2L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 235",
+  "title": "Experimental Strategies in Molecular Genetics",
+  "units": "1",
+  "description": "Discussion of experimental strategies used to purify, analyze, and manipulate nucleic acids, isolate molecular clones from complex genomes, physically map genomes, analyze gene expression, and perform reverse genetics.",
+  "prerequisites_raw": "MCDB 101A-B-C and MCDB 108A-B-C.",
+  "prerequisites_courses": [
+   "MCDB 101A",
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 238",
+  "title": "Soft Matter Physics",
+  "units": "4",
+  "description": "A physics-based approach to study the structure, assembly and dynamical properties of a variety of soft materials, such as simple and complex fluids, colloidal systems, liquid crystals, polymers, granular matter and gels, including biological examples. Topics covered will include elasticity, viscosity and viscoelasticity, capillarity and wetting, phases and phase diagrams of soft materials, entropy-driven phase transitions, Brownian motion and active matter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 239",
+  "title": "Physical Biology of the Cell",
+  "units": "4",
+  "description": "The role of physics in biology through quantitative measurements and modeling, the organization of a cell, and exemplary quantitative results of biological model systems. The physics of biologically relevant macromolecules, including DNA, RNA and mechanisms of transcription and translation; introduction to protein folding and the role of electrostatics in biology. The physics of the cytoskeleton including beam theory, persistence length, molecular motors, instrumentation used to characterize motor properties, as well as the role of active stresses in cell biology. If time permits, a brief introduction to cell motility and the structure of epithelial tissue.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 244",
+  "title": "Informational Macro- and Supra-Molecules",
+  "units": "2",
+  "description": "Selected topics at the interface of chemistry and biology; informational molecular coding, molecular machines, self-assembling and self-replicating molecular systems, evolution and selection of molecules with binding and catalytic properties, biopolymer-based materials, special emphasis on cutting-edge technologies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 245",
+  "title": "Computational Biochemistry",
+  "units": "3",
+  "description": "Introduction to molecular modeling and molecular dynamics. Discussion of practical considerations of energy minimization, solvent modeling, structure-based drug design. Practical computer graphics experience.",
+  "prerequisites_raw": "Chemistry 113A, 112, W142A or 142A, 142B-C or 113A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 113A",
+   "CHEM 142A",
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 246",
+  "title": "Membrane Biochemistry",
+  "units": "3",
+  "description": "Introduction to the structures and roles of lipids and their behavior, liposomes, membrane proteins and kinetics, protein sorting, and signal transduction.",
+  "prerequisites_raw": "Chemistry 142A or W142A, 142B-C.",
+  "prerequisites_courses": [
+   "CHEM 142A",
+   "CHEM 142B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 247",
+  "title": "Quantitative Methods in Biology",
+  "units": "3",
+  "description": "A review of quantitative methods required to develop models of biological and ecological systems. Topics illustrated through computer exercises.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 248",
+  "title": "Practical Statistics for Biologists",
+  "units": "4",
+  "description": "Introduces fundamental concepts in biostatistics such as sources of technical and biological variation, types of statistical tests (ANOVA, non-parametric, linear regression), sampling techniques, power calculations, and how to decide which test is appropriate.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 250",
+  "title": "Bionanotechnology",
+  "units": "2",
+  "description": "Introduction to macromolecular assemblies and force generation strategies. Topics may also include but are not limited to: conformations and behavior of protein polymers; nucleic acid superstructures and membranes; structure, motility and mechanism of linear and rotary motor proteins; and macromolecular switches.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 251",
+  "title": "Biopharmaceutical Process Engineering",
+  "units": "2",
+  "description": "An introduction to the design bioprocess for large-scale production of biopharmaceuticals. Emphasis is placed upon biopharmaceutical products, protein expression systems, host cell optimization, and reactor selection and design.",
+  "prerequisites_raw": "Mathematics 5A or equivalent; background in biochemistry.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 252",
+  "title": "Principles of Bioengineering",
+  "units": "2",
+  "description": "An overview of various aspects of bioengineering including modeling of physiological functions, biomedical devices, drug delivery, and tissue engineering.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 253",
+  "title": "Analytical Biotechnology",
+  "units": "2",
+  "description": "Develops fundamental understanding behind modern methods of biotechnology. Topics include theoretical treatment of the double layer, electrophoresis, polymerase chain reaction, modern optics, and fluorescence. In addition, case studies of contemporary emerging trends are discussed.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 254",
+  "title": "Drug Design",
+  "units": "3",
+  "description": "Rational and structure-based drug design; pharmacogenetics; combinatorial chemistry and screens; mechanism-based drug design; drug metabolism; toxicity; quantitative structure activity relationships; enzyme inhibitors.",
+  "prerequisites_raw": "Chemistry 142A-B-C or Biology 108A-B-C.",
+  "prerequisites_courses": [
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "IQB",
+  "code": "IQB 255",
+  "title": "Methods in System Biology",
+  "units": "3",
+  "description": "Fundamentals of dynamic network organization in biology (genes, metabolites). Emphasis on mathematical approaches to model and analyze complex biophysical network systems. Detailed case studies demonstrating successes of systems biology. Basic biological systems reviewed for nonbiologists.",
+  "prerequisites_raw": "Prior course work in cellular biology, mathematics; consent of instuctor.",
+  "prerequisites_courses": []
+ }
+]

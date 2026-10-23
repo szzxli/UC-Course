@@ -1,0 +1,422 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 184",
+  "title": "African and Caribbean Performance",
+  "units": "4",
+  "description": "Special topics in African and Caribbean performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 184AA",
+  "title": "African American Performance",
+  "units": "4",
+  "description": "Special topics in African American performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 184CA",
+  "title": "Comparative African Theater and Performance",
+  "units": "4",
+  "description": "Special topics in Comparative African theater and performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 184CD",
+  "title": "Caribbean and Diaspora",
+  "units": "4",
+  "description": "Special topics in Caribbean and Diaspora.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 184SA",
+  "title": "South African Performance",
+  "units": "4",
+  "description": "Special topics in South African performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 184WA",
+  "title": "West African Performance",
+  "units": "4",
+  "description": "Special topics in West African performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185",
+  "title": "Cross-Cultural Studies in Theater and Drama",
+  "units": "4",
+  "description": "Special topics in cross-cultural studies in theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185C",
+  "title": "Comedy",
+  "units": "4",
+  "description": "Special topics in comedic theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185I",
+  "title": "Intercultural Theater: East and West",
+  "units": "4",
+  "description": "Special topics in intercultural theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185MU",
+  "title": "Cross-Cultural Studies in Theater and Drama",
+  "units": "4",
+  "description": "Special topics in cross-cultural studies in theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185MX",
+  "title": "Theater and Performance in Mexico focusing on Women, Power, and Politics",
+  "units": "4",
+  "description": "A performance- and discussion-based class in a theater studio analyzing plays, cabaret, experimental, and community theater in Mexico, from the 16th century to the present.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185ST",
+  "title": "Special Topics in Cross Cultural Studies Theater and Drama",
+  "units": "4",
+  "description": "Sport as Performance: The Climbing Body in Theater and Film. This class examines how rock climbers and mountaineers embody stories in theater and film. Through the lens of performance studies, this class asks how athletic and sporting bodies reinforce, disrupt, or complicate dominant cultural and social narratives.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185T",
+  "title": "Tragedy",
+  "units": "4",
+  "description": "Special topics in Tragedy.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185TD",
+  "title": "Theater of Difference",
+  "units": "4",
+  "description": "Studies in cultural differences.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 185TH",
+  "title": "Theory",
+  "units": "4",
+  "description": "Special topics in theory.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187",
+  "title": "Performance Studies",
+  "units": "4",
+  "description": "Special topics in performance studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187CP",
+  "title": "Collecting as Performance",
+  "units": "4",
+  "description": "Special topics in collecting performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187D",
+  "title": "Darkness in Theater",
+  "units": "4",
+  "description": "Special topics in darkness in theater.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187FG",
+  "title": "Feminist and Gender Studies in Performance",
+  "units": "4",
+  "description": "Special topics in feminist and gender performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187MU",
+  "title": "Creative Arts, Memories and Experimental Performance",
+  "units": "4",
+  "description": "Through creative arts practices, analysis, workshops and new performance, this course explores processes of transformation and translation of traces of memories and experiences into provocative art works. Experimental performance practices encompass theatrical, movement based, sonic, music-based and visual arts.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187PA",
+  "title": "Performance Art",
+  "units": "4",
+  "description": "Special topics in performance art.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187PH",
+  "title": "Physicality",
+  "units": "4",
+  "description": "Special topics in physicality performance studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187PR",
+  "title": "Performance and Protest",
+  "units": "4",
+  "description": "This course investigates connections between performance and protest. Covering a range ofprotests and performances, from the 1968 student and worker protests to the 2017 WomensMarch, students explore the role of performance in protest movements and contemplatehow artistic performances work as protests. Assignments include designing a performanceelement for a protest and critically analyzing the performance of a protest.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187PS",
+  "title": "Introduction to Performance Studies",
+  "units": "4",
+  "description": "An introduction to performance studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187RF",
+  "title": "Ritual and Folklore Performance Studies",
+  "units": "4",
+  "description": "Special topics in ritual and folklore performance studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187SP",
+  "title": "Sport as Performance: The Climbing Body in Theater and Film",
+  "units": "4",
+  "description": "Explores rock climbing and mountaineering as performance in theater and documentary film. Classes consist of lectures, guest speakers, film viewing, and discussion where we interrogate what it means to be a performer in a sport like climbing. In looking at climbers of different lived experiences, this class offers new understandings of the study of sport through performance, how the climbing body informs our understanding of the role of the actor, and how the performing body disrupts or upholds dominant cultural and social narratives.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187ST",
+  "title": "Special Topics in Performance Studies",
+  "units": "4",
+  "description": "Special topics in performance studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187TA",
+  "title": "Teatro as a Tool for Teaching I",
+  "units": "4",
+  "description": "Teatro as a tool for teaching using techniques of El Teatro Campesino.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 187TB",
+  "title": "Teatro as a Tool for Teaching II",
+  "units": "4",
+  "description": "Teatro as a tool for teaching using techniques from El Teatro Campesino.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188",
+  "title": "History of Performance",
+  "units": "4",
+  "description": "Special topics in the history of performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188A",
+  "title": "History of Acting",
+  "units": "4",
+  "description": "Special topics in the history of acting.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188D",
+  "title": "History of Directing",
+  "units": "4",
+  "description": "Special topics in the history of directing.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188DA",
+  "title": "History of Dance",
+  "units": "4",
+  "description": "Special topics in the history of dance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188DV",
+  "title": "History of Design and Visual Elements",
+  "units": "4",
+  "description": "Special topics in the history of design and visual elements.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188PT",
+  "title": "The Rise of the Professional Theater",
+  "units": "4",
+  "description": "Special topics in the history of the rise of professional theater.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188S",
+  "title": "Shakespeare on Film and Stage",
+  "units": "4",
+  "description": "An investigation of Shakespeare's plays through the media of performance; viewing of Shakespearean productions on film and videotape, in calssroom rehearsal, and in stage performances as available; reading and critical analysis of selected Shakespearean plays.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188ST",
+  "title": "Special Topics in Performance",
+  "units": "4",
+  "description": "Special topics in the history of performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 188TP",
+  "title": "Modern Theater: Theory and Practice",
+  "units": "4",
+  "description": "Special topics in the history of theory and practice.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 190",
+  "title": "Production Administration",
+  "units": "3",
+  "description": "Workshop for advanced students functioning as assistants to directors, designers, and technical directors. portfolio, promptbook, or paper required.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 191",
+  "title": "Theatre Management",
+  "units": "4",
+  "description": "Business organization and management for the educational, community, and professional theatre, including budgeting, publicity, public relations, and box office principles.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 192",
+  "title": "Upper-Division Seminar",
+  "units": "4",
+  "description": "A seminar course for upper-division students in the Theater Studies emphases. Topics are selected according to the interests of the students.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 193H",
+  "title": "Senior Honors Project",
+  "units": "4",
+  "description": "Senior honors project. Advanced thesis project in either academic researchor creative activity, supervised by a faculty adviser. Students successfully completing the project, as evalutated by a three-person committee, will graduate with distinction in the major.",
+  "prerequisites_raw": "Senior standing.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,384 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 28C",
+  "title": "Intermediate Trumpet",
+  "units": "0",
+  "description": "Intermediate trumpet lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 28D",
+  "title": "Intermediate Tuba",
+  "units": "0",
+  "description": "Intermediate tuba lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 29",
+  "title": "Intermediate Percussion",
+  "units": "0",
+  "description": "Intermediate percussion lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 31A",
+  "title": "Class Piano",
+  "units": "1",
+  "description": "Basic keyboard skills, major scales and chords, introduction to harmonization, easy piano repertoire.",
+  "prerequisites_raw": "Placement by audition. Must be taken consecutively. A grade of at least C- is required in each course of the Music 31 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 31B",
+  "title": "Class Piano",
+  "units": "1",
+  "description": "White key minor scales (natural/harmonic) and chords, harmonization, introduction to transposition and basic score reading, piano duets.",
+  "prerequisites_raw": "Placement by audition. Must be taken consecutively. A grade of at least C- required in each course of the Music 31 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 31C",
+  "title": "Class Piano",
+  "units": "1",
+  "description": "Black key minor scales (natural/harmonic) and chords. Preparing for the proficiency exam: review of all scales and chords, more advanced harmonization, transposition. Learning a solo piece from the list of the appropriate repertoire.",
+  "prerequisites_raw": "Placement by audition. Must be taken consecutively. A grade of at least C- required in each course in the Music 31 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 31D",
+  "title": "Class Piano",
+  "units": "1",
+  "description": "Includes scales, sight-reading and appropriate piano literature.",
+  "prerequisites_raw": "Placement by audition. Must be taken consecutively. A grade of at least C- required in each of the Music 31 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 31E",
+  "title": "Class Piano",
+  "units": "1",
+  "description": "Includes scales, sight-reading and appropriate piano literature.",
+  "prerequisites_raw": "Placement by audition. Must be taken consecutively. A grade of at least C-required in each of the Music 31 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 31F",
+  "title": "Class Piano",
+  "units": "1",
+  "description": "Includes scales, sight-reading and appropriate piano literature.",
+  "prerequisites_raw": "Placement by audition. Must be taken consecutively. A grade of at least C- required in each of the Music 31 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 31X",
+  "title": "Class Piano",
+  "units": "1",
+  "description": "Optional continuation of Music 31. Equivalent in level to Music 32. Elementary individual class piano instruction in class or individual context. Includes scales, sight reading, transposition, harmonization at the keyboard, with emphasis on piano literature.",
+  "prerequisites_raw": "Placement by audition; Music 31F with a minimum grade of C- or passing the piano proficiency test.",
+  "prerequisites_courses": [
+   "MUS 31F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 32A",
+  "title": "Secondary Piano",
+  "units": "1",
+  "description": "Optional continuation of Music 31. Elementary individual class piano instruction. Includes scales, sight reading, transposition, harmonization at the keyboard, with emphasis on piano literature.",
+  "prerequisites_raw": "Placement by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 32B",
+  "title": "Secondary Piano",
+  "units": "1",
+  "description": "Optional continuation of Music 31. Elementary individual class piano instruction. Includes scales, sight reading, transposition, harmonization at the keyboard, with emphasis on piano literature.",
+  "prerequisites_raw": "Placement by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 32C",
+  "title": "Secondary Piano",
+  "units": "1",
+  "description": "Optional continuation of Music 31. Elementary individual class piano instruction. Includes scales, sight reading, transposition, harmonization at the keyboard, with emphasis on piano literature.",
+  "prerequisites_raw": "Placement by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 32D",
+  "title": "Secondary Piano",
+  "units": "1",
+  "description": "Optional continuation of Music 31. Elementary individual class piano instruction. Includes scales, sight reading, transposition, harmonization at the keyboard, with emphasis on piano literature.",
+  "prerequisites_raw": "Placement by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 32E",
+  "title": "Secondary Piano",
+  "units": "1",
+  "description": "Optional continuation of Music 31. Elementary individual class piano instruction. Includes scales, sight reading, transposition, harmonization at the keyboard, with emphasis on piano literature.",
+  "prerequisites_raw": "Placement by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 32F",
+  "title": "Secondary Piano",
+  "units": "1",
+  "description": "Optional continuation of Music 31. Elementary individual class piano instruction. Includes scales, sight reading, transposition, harmonization at the keyboard, with emphasis on piano literature.",
+  "prerequisites_raw": "Placement by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 33",
+  "title": "Intermediate Piano",
+  "units": "0",
+  "description": "Intermediate piano lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 35A",
+  "title": "Piano Accompanying",
+  "units": "1",
+  "description": "An introduction to the study of accompaniment repertoire and performance (art song, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 35B",
+  "title": "Piano Accompanying",
+  "units": "1",
+  "description": "An introduction to the study of accompaniment repertoire and performance (art song, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, piano and accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 35C",
+  "title": "Piano Accompanying",
+  "units": "1",
+  "description": "An introduction to the study of accompaniment repertoire and performance (art song, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 35D",
+  "title": "Piano Accompanying",
+  "units": "1",
+  "description": "An introduction to the study of accompaniment repertoire and performance (art song, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 51",
+  "title": "Vocal and Instrumental Coaching",
+  "units": "1",
+  "description": "Musical preparation of vocal or instrumental works from a coach/accompanist.",
+  "prerequisites_raw": "Concurrent vocal or instrumental study (Music 25-29).",
+  "prerequisites_courses": [
+   "MUS 25",
+   "MUS 29"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 52",
+  "title": "Vocal & Instrument Coaching Supervision",
+  "units": "1",
+  "description": "Music preparation of vocal or instrumental works from a coach/accompanist. Coaches and accompanists are assigned by a faculty member.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 53",
+  "title": "Viola Orchestral Repertoire",
+  "units": "1",
+  "description": "The study of the entire standard orchestral repertoire for viola and audition procedures.",
+  "prerequisites_raw": "By audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 54",
+  "title": "Acting for Singers",
+  "units": "3",
+  "description": "Study of techniques and practice of acting on the stage for singers as preparation for performing operatic roles, in lecture and workshop settings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 88",
+  "title": "Intermediate Composition",
+  "units": "2",
+  "description": "Preparation for Music 108.",
+  "prerequisites_raw": "Passing of freshman composition portfolio and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 94",
+  "title": "Freshman Audition",
+  "units": "1",
+  "description": "Preparation of freshman audition.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 97",
+  "title": "Sophomore Audition",
+  "units": "2",
+  "description": "Preparation of sophomore audition.",
+  "prerequisites_raw": "Passing of freshman audition (may be waived for transfer students) and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 97B",
+  "title": "Sophomore Composition Portfolio",
+  "units": "2",
+  "description": "Preparation of sophomore composition portfolio.",
+  "prerequisites_raw": "Passing of freshman composition portfolio (may be waived for transfer students), and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 98",
+  "title": "Readings in Music",
+  "units": "0",
+  "description": "Critical review and discussion of related topics in musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 99",
+  "title": "Introduction to Musical Research",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member in the department. Course offers exceptional students the opportunity to undertake independent research or work in a research group in topics in musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 101A",
+  "title": "Contemporary Techniques",
+  "units": "2",
+  "description": "A study of contemporary techniques, through both written work and analysis.",
+  "prerequisites_raw": "Music 5C or equivalent.",
+  "prerequisites_courses": [
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 101B",
+  "title": "Contemporary Techniques",
+  "units": "2",
+  "description": "A study of contemporary techniques, through both written work and analysis.",
+  "prerequisites_raw": "Music 5C or equivalent.",
+  "prerequisites_courses": [
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 101C",
+  "title": "Contemporary Techniques",
+  "units": "2",
+  "description": "A study of contemporary techniques, through both written work and analysis.",
+  "prerequisites_raw": "Music 5E or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 102",
+  "title": "Fundamentals of Counterpoint",
+  "units": "3",
+  "description": "A study of the general principles of counterpoint based on literature and repertoire of various periods, complemented by written exercises.",
+  "prerequisites_raw": "Music 5C or equivalent.",
+  "prerequisites_courses": [
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 103",
+  "title": "Eighteenth Century Counterpoint",
+  "units": "3",
+  "description": "A study of contrapuntal practices of the eighteenth century through analysis and compositional exercises.",
+  "prerequisites_raw": "Music 5C and 102.",
+  "prerequisites_courses": [
+   "MUS 5C",
+   "MUS 102"
+  ]
+ }
+]

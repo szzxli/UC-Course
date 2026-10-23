@@ -1,0 +1,313 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 132E",
+  "title": "The Spanish Civil War: Conflict, Culture, and Memory",
+  "units": "4",
+  "description": "An introduction to the Spanish Civil War (1936-1939), an event that had a tremendous impact over Spains twentieth-century history, culture, and society. Through the study of distinct number of cultural products (memoirs, novels, films, photographs), we cover the social and cultural history of the war, the way it has been represented in different periods of history, as well as why and how it has been the inspiration of many works of art (Picasso), films (Del Toro) and literary pieces (Max Aub) produced all over the world.Taught in English.",
+  "prerequisites_raw": "Spanish 30 (can be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 133",
+  "title": "Spanish Laughter: The Politics of Humor in Spain",
+  "units": "4",
+  "description": "This course presents a historical account of humor in Spain, and the evolution of its political value. Through the analysis of a wide range of cultural artifacts such as short stories, tv shows, films, comic books, and paintings, we will analyze the changing role that humor has played in the Spanish public sphere from the early modern period to the present day, as well as how it has been an important tool that Spaniards have taken advantage of to address different social fears and challenges.",
+  "prerequisites_raw": "Spanish 30 (can be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 133E",
+  "title": "Spanish Laughter: The Politics of Humor in Spain",
+  "units": "4",
+  "description": "This course presents a historical account of humor in Spain, and the evolution of its political value. Through the analysis of a wide range of cultural artifacts such as short stories, tv shows, films, comic books, and paintings, we will analyze the changing role that humor has played in the Spanish public sphere from the early modern period to the present day, as well as how it has been an important tool that Spaniards have taken advantage of to address different social fears and challenges. Taught in English.",
+  "prerequisites_raw": "Spanish 30 (can be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 134",
+  "title": "Spain at the Crossroads: Tradition and Modernity",
+  "units": "4",
+  "description": "Selected topics related to the study of the major literary movements and currents of thought in Spanish Literature during the 18th and 19th centuries, such as Enlightenment, \"Costumbrismo\", Nationalism, Romanticism, Realism, or Naturalism. Analysis of the major poets, playwrights, and novelists of the period. Readings and discussions in Spanish.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 136",
+  "title": "Modern Mexican Literature",
+  "units": "4",
+  "description": "Study of texts explaining the development of Mexican culture and literature. Topic and writers: modernism (from Gutierrez Najera to Tablada); the novel of the Mexican revolution (Azuela); and the modern essay (Alfonso Reyes and Octavio Paz).",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 137A",
+  "title": "Golden Age Drama",
+  "units": "4",
+  "description": "The classic comedia, by Lope, Tirso, Alarcon, Calderon, and other dramatists.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 137B",
+  "title": "Golden Age Drama",
+  "units": "4",
+  "description": "The classic comedia, by Lope, Tirso, Alarcon, Calderon, and other dramatists.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 138",
+  "title": "Contemporary Mexican Literature",
+  "units": "4",
+  "description": "Continued study of major trends in Mexican literature as evidenced in selected works of the following authors: the poetry of Lopez Velarde and Octavio Paz; the contemporaneos (Torres Bodet, Villaurrutia, Pellicer); and contemporary fiction (Yanez, Rulfo, Arreola, and Fuentes).",
+  "prerequisites_raw": "Spanish 30 or Spanish 102L (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 139",
+  "title": "U.S. Latino Literature",
+  "units": "4",
+  "description": "A comparative study of the literature and culture of the diverse Latino populations of the United States, including Chicano, Puerto Rican, Cuban-American, Dominican-American, and other U.S. Latino groups. Writers, genres, and periods vary from quarter to quarter, emphasizing salient examples of fiction, poetry, drama, the essay, film or art. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 140A",
+  "title": "Cervantes: Don Quijote",
+  "units": "4",
+  "description": "Reading and discussion of the first and second parts of Don Quixote.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 141",
+  "title": "Contemporary Indigenous Cultures of Mexico",
+  "units": "4",
+  "description": "Examines the work of writers that have recently provided increased visibility to indigenous languages and cultures in contemporary Mexico, including Nahuatl, Zapotec, and Mayan.",
+  "prerequisites_raw": "Spanish 30 or Spanish 102L. (Prerequisite may be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 142",
+  "title": "Cognition and Literature in Early Modern Spain",
+  "units": "4",
+  "description": "Explore some of the recent theories of cognition and their implication for the problematic links between reality and fiction, truth and falsity, and perception and knowledge in the Early Modern Period.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 142A",
+  "title": "Don Quixote (in English Translation)",
+  "units": "4",
+  "description": "Reading, examination, and discussion (all in English) of the first part of Cervantes' masterpiece and its reflections on world literature.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 143",
+  "title": "Culture and Crisis",
+  "units": "4",
+  "description": "Traces the ways in which literature represents crisis in different moments of the Spanish history. The course focuses on fundamental concepts like historical memory, bio politics, insecurity and anti-austerity movements in Contemporary Spain.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 144",
+  "title": "Typology of Languages Spoken in the Iberian Peninsula",
+  "units": "4",
+  "description": "Comparative study of the structural characteristics of all languages of the Iberian Peninsula (both the Romance languages - Catalan, Galician, Portuguese, Spanish - and Basque). Analysis of similarities and differences in their phonology, morphology, syntax, and semantics.",
+  "prerequisites_raw": "Spanish 100",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 145",
+  "title": "Spanish for Healthcare",
+  "units": "4",
+  "description": "Designed for students interested in expanding and applying their knowledge of Spanish to the medical field. Students will learn and apply targeted vocabulary/grammar and develop bicultural/bilingual competency of healthcare issues in Hispanic countries and the US.",
+  "prerequisites_raw": "Spanish 25 or Spanish 16B; and Spanish 100",
+  "prerequisites_courses": [
+   "SPAN 25",
+   "SPAN 16B",
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 146",
+  "title": "Narratives of Identity: Art, Culture and Politics in Spain",
+  "units": "4",
+  "description": "Focusing on a wide range of its cultural manifestations (Art, Architecture, Cinema, Literature, Language, Gastronomy), this course offers an interdisciplinary approach, conceiving Spain as a multilayered space that is furnished by Roman, French, and Muslim legacies and that drove the shaping of a singular culture.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 147",
+  "title": "Business Spanish",
+  "units": "4",
+  "description": "Real-life situations in the workplace will present students with the appropriate vocabulary for business environments. Students learn to write formal documents, how to express themselves orally, and to assess the business environment of different Spanish-speaking countries from a cultural perspective.",
+  "prerequisites_raw": "Spanish 16A or 16B or 25 or equivalent language proficiency.",
+  "prerequisites_courses": [
+   "SPAN 16A",
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 148",
+  "title": "Filmmakers Series",
+  "units": "4",
+  "description": "A focus on some of the most important filmmakers from the Hispanic World (Buuel, Almodvar, Saura, Reygadas). The course follows the development of their careers, analyzing the main topics and contexts",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 148A",
+  "title": "Filmmakers Series: Buuel",
+  "units": "4",
+  "description": "A focus on some of the most important filmmakers from the Hispanic World (Buuel, Almodvar, Saura, Reygadas). The course follows the development of their careers, analyzing the main topics and contexts",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 148B",
+  "title": "Almodvar's Spain: Cinema and Society",
+  "units": "4",
+  "description": "This course focuses on analyzing Pedro Almodvar's work in relation to its historical and social context. We will examine some of his most notable films and observe the evolution of his cinematic style. Additionally, we will explore how his films tackle social conflicts that have impacted Spanish society from the end of the Franco dictatorship to the present.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 149",
+  "title": "Soccer: The Cultural Impact of a Global Game",
+  "units": "4",
+  "description": "Soccer is a mirror of our world and an expression of our greatest tragedies and hopes.Thiscourse seeks to use soccer as a tool for learning about politics, economics, culture, society, philosophy, art, literature andthe human condition in the Hispanic world.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 149E",
+  "title": "Soccer: The Cultural Impact of a Global Game",
+  "units": "4",
+  "description": "Soccer is a mirror of our world and an expression of our greatest tragedies and hopes. This course seeks to use soccer as a tool for learning about politics, economics, culture, society, philosophy, art, literature and the human condition in the Hispanic world. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 150",
+  "title": "Madrid: from Capital City to Global City",
+  "units": "4",
+  "description": "Focuses on the history of the city from its medieval foundation to the present and evaluates its role as the location of political authority, and its material and symbolic function as a command center for the nation. Particular attention is given to Madrid´s city landscape, its streets, avenues, squares and monuments and the historical and emotional impact they carry.",
+  "prerequisites_raw": "Spanish 30 or Spanish 102L or Spanish 100 (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30",
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 151A",
+  "title": "Catalan Language and Culture",
+  "units": "4",
+  "description": "Catalan language and culture for students with no previous study of Catalan.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 151B",
+  "title": "Catalan Language and Culture",
+  "units": "4",
+  "description": "Catalan language and culture for students with no previous study of Catalan. Continues activities commenced in Spanish 151A.",
+  "prerequisites_raw": "Spanish 151A.",
+  "prerequisites_courses": [
+   "SPAN 151A"
+  ]
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 95A",
+  "title": "The Modern Research University",
+  "units": "2",
+  "description": "Examines the mission of the modern research university and introduces students to different kinds of work that faculty and staff are engaged in at UCSB, from the administration of the University to faculty research and the production of creative projects. Lectures and TA sections explore opportunities for undergraduate research, internships, the Honors Program, studying abroad, as well as discussing the various resources available to excel as a student. Designed for first-generation college students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 95B",
+  "title": "Introduction to Undergraduate Research",
+  "units": "2",
+  "description": "Introduces students to viewing themselves as active members of an intellectual community. This course introduces students to research processes across the academic disciplines, developing a familiarity with various methodologies. Lectures and TA sections explore the nature of modern research and creative activities with an emphasis on how undergraduates can participate. Students develop a tangible understanding of how to become undergraduate researchers and research assistants. Designed for first-generation college students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 95C",
+  "title": "The Second-Year Experience",
+  "units": "2",
+  "description": "Examines how to achieve the mission of the modern research university and contribute to the different kinds of work that faculty and staff are engaged in at UCSB, from the administration of the University to faculty research and the production of creative projects. Lectures and TA sections emphasize the importance of the second-year to participate in undergraduate research, internships, the Honors Program, studying abroad, as well as utilizing the various resources available to complete both academic and co- curricular goals.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 96",
+  "title": "Major Discovery Seminar",
+  "units": "2",
+  "description": "Major Discovery Seminars are intended for students to explore new or additional majors. Seminars help students to understand how different disciplines explore subjects. Seminars focus on one contemporary issue or question explored by multiple faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 96DM",
+  "title": "Major Discovery Seminar",
+  "units": "2",
+  "description": "Major Discovery Seminars are intended for students to explore new or additional majors. Seminars help students to understand how different disciplines explore subjects. Seminars focus on one contemporary issue or question explored by multiple faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 96JF",
+  "title": "Major Discovery Seminar",
+  "units": "2",
+  "description": "Major Discovery Seminars are intended for students to explore new or additional majors. Seminars help students to understand how different disciplines explore subjects. Seminars focus on one contemporary issue or question explored by multiple faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 96MS",
+  "title": "Major Discovery Seminar",
+  "units": "2",
+  "description": "Major Discovery Seminars are intended for students to explore new or additional majors. Seminars help students to understand how different disciplines explore subjects. Seminars focus on one contemporary issue or question explored by multiple faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 96RS",
+  "title": "Major Discovery Seminar",
+  "units": "2",
+  "description": "Major Discovery Seminars are intended for students to explore new or additional majors. Seminars help students to understand how different disciplines explore subjects. Seminars focus on one contemporary issue or question explored by multiple faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 96SB",
+  "title": "Major Discovery Seminar",
+  "units": "2",
+  "description": "Major Discovery Seminars are intended for students to explore new or additional majors. Seminars help students to understand how different disciplines explore subjects. Seminars focus on one contemporary issue or question explored by multiple faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 96SC",
+  "title": "Major Discovery Seminar",
+  "units": "2",
+  "description": "Major Discovery Seminars are intended for students to explore new or additional majors. Seminars help students to understand how different disciplines explore subjects. Seminars focus on one contemporary issue or question explored by multiple faculty.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 97",
+  "title": "Second Year Discovery & Linked Seminars",
+  "units": "2",
+  "description": "Second year seminars that provide opportunity for students to investigate a single topic from two different disciplinary perspectives (Discovery), or in significant depth (Linked).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 97MA",
+  "title": "Second Year Discovery & Linked Seminars",
+  "units": "2",
+  "description": "Second year seminars that provide opportunity for students to investigate a single topic from two different disciplinary perspectives (Discovery), or in significant depth (Linked).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 98RA",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Introduction to research for College of Letters and Science students participating in the Faculty Research Assistance Program (FRAP) under the guidance of a faculty mentor. Course offers students the opportunity to work in a research group.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 100",
+  "title": "Topics in Advanced Library Research",
+  "units": "2",
+  "description": "Students critically examine the complex range of research tools within a specified area. Students should be concurrently enrolled in a course with a related research project requirement. Course focus is determined by the instructor and announced by the library.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 100CR",
+  "title": "Critical Research and Information Studies",
+  "units": "2",
+  "description": "The practice of research is fundamental to being a critical user, producer, and consumer of information. Research often involves navigating information institutions and systems, such as libraries, archives, and data repositories. This course provides students with core skills in developing research projects (professional, academic, and personal) with a lens of equity and justice to aid in effectively navigating information institutions. Students are introduced to major concepts in critical information literacy, research justice, and scholarly communication. By examining their own research processes and experiences, students will have the opportunity to rediscover research as a tool for individual and collective empowerment.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 100LA",
+  "title": "Topics in Advanced Library Research",
+  "units": "2",
+  "description": "Students critically examine the complex range of research tools within a specified area. Students should be concurrently enrolled in a course with a related research project requirement. Course focus is determined by the instructor and announced by the library.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 100RS",
+  "title": "Topics in Advanced Library Research",
+  "units": "2",
+  "description": "Students critically examine the complex range of research tools within a specified area. Students should be concurrently enrolled in a course with a related research project requirement. Course focus is determined by the instructor and announced by the library.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 100WS",
+  "title": "Topics in Advanced Library Research",
+  "units": "2",
+  "description": "Students critically examine the complex range of research tools within a specified area. Students should be concurrently enrolled in a course with a related research project requirement. Course focus is determined by the instructor and announced by the library.",
+  "prerequisites_raw": "Not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 101",
+  "title": "Legal Career and Law School Lecture/Workshop Series",
+  "units": "1",
+  "description": "Combining lectures and workshops this upper-division course covers a range of topics on the legal profession and law school application process.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 102",
+  "title": "Emerging Adulthood - Transitions",
+  "units": "4",
+  "description": "Addresses adulting from the perspective of college student development with a focus on transitions and growth during college and in preparation for life after college. Topics will include career exploration, preparation for graduate school, the importance of social networks and building social capital, beliefs and values, and relationships and emotional resiliency in different contexts.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 111",
+  "title": "Entering STEM Disciplines",
+  "units": "1",
+  "description": "Transfer students will develop successful approaches and orientations to study of STEM disciplines. Students required to attend regular lectures and discussions; form and participate in study groups; and meet with faculty members and departmental advisors regularly. Assignment(s) will require each student to demonstrate that each of these activities has led to a more thorough understanding requirements for success in the discipline.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 111BI",
+  "title": "Entering STEM Disciplines - Orienting transfer students for success in the Biological Sciences",
+  "units": "1",
+  "description": "Transfer students majoring in the biological sciences will develop successful approaches and orientations to study in STEM disciplines. Students are required to attend regular lectures and discussions; form and participate in study groups; and meet with faculty members and departmental advisors regularly. Assignment(s) will require students to demonstrate that each of these activities has led to a more thorough understanding of requirements for success in the discipline.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 111CB",
+  "title": "Entering STEM Disciplines - Orienting Transfer Students for Success in Chemistry and Biochemistry",
+  "units": "1",
+  "description": "Pre-Chemistry transfer students will develop effective approaches and orientations in order to maximize success at UCSB. Students required to attend weekly lectures and keep a self-evaluation log. Topics during six-week session: structure of the department and its B.S. program; successful navigation of chemistry courses/labs; accessing campus resources (faculty office hours, TAs, tutors, student organizations); finding information using the university library; getting involved in research; using your chemistry/biochemistry training to prepare for a career.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 111PS",
+  "title": "Entering STEM Disciplines - Orienting transfer students for success in Psychological & Brain Sciences",
+  "units": "1",
+  "description": "Pre-Psych, Pre-Biopsych, and Pre-Psychological & Brain Sciences transfer students will develop successful approaches and orientations to study of STEM disciplines. Students required to attend regular lectures and discussions; form and participate in study groups; and meet with faculty members and departmental advisors regularly. Assignment(s) will require each student to demonstrate that each of these activities has led to a more thorough understanding requirements for success in the discipline",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

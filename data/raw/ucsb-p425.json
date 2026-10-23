@@ -1,0 +1,287 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 119C",
+  "title": "Jihad and Just War Theory",
+  "units": "4",
+  "description": "Compares the notion of jihad in Islamic law to its counterpart (just war theory) in Western traditions and compares the conditions for a (theoretically) legitimate war in Islamic law and the actual application of war in Islamic history.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 119D",
+  "title": "Islam and Women",
+  "units": "4",
+  "description": "Women's issues in Islam, including marriage and divorce laws, women in the public space, and other rights pertaining to women in Muslim societies.",
+  "prerequisites_raw": "upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 119E",
+  "title": "Islam and Government",
+  "units": "4",
+  "description": "Discusses the basis and functions of government in Islam and its relationship with religious institutions.",
+  "prerequisites_raw": "upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 119F",
+  "title": "History of Islamic Theology",
+  "units": "4",
+  "description": "Surveys the history of speculative theological inquiry during the formative period of Islam (~7001258) and investigates the major themes and methods of its diverse and competing schools in their historical and religious contexts. The objective of this course is to examine and assess the characteristics and scope of speculative theological inquiry in the religious and intellectual history of early and classical Islam.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 122A",
+  "title": "Syriac I",
+  "units": "4",
+  "description": "Introduction to the grammar and literature of the Syriac language. Emphasis on the acquisition of Syriac language skills.",
+  "prerequisites_raw": "Religious Studies 17A-B-C.",
+  "prerequisites_courses": [
+   "RG ST 17A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 122B",
+  "title": "Syriac II",
+  "units": "4",
+  "description": "Continuation of Religious Studies 122A.",
+  "prerequisites_raw": "Religious Studies 17A-B-C and 122A.",
+  "prerequisites_courses": [
+   "RG ST 17A",
+   "RG ST 122A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 123",
+  "title": "Asian American Religions",
+  "units": "4",
+  "description": "Historical and interdisciplinary approach to the themes and issues in the religious traditions of Asian Americans. Topics: the civil religious context, the transplantation of Asian traditions into the U.S., Asian American Christianity, Asian American theology.",
+  "prerequisites_raw": "Upper Division Standing or permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 123F",
+  "title": "Filpinx/Filipinx American Religions",
+  "units": "4",
+  "description": "Examines how Filipinx/Filipinx American religious histories, beliefs and practices have been researched, assessed, theorized, and represented. Topics include cultural Southeast Asian foundations, Spanish colonialism, American occupation, emigration to the U.S, Filipino innovations in religion and spirituality, contemporary indigenous revival.",
+  "prerequisites_raw": "Upper Division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 124G",
+  "title": "The Virgin of Guadalupe: From Tilma to Tattoo",
+  "units": "4",
+  "description": "Beginning with her precursors in the Old and New World, this course approaches Guadalupe as a tool to pry open questions central to Mexican and Chicano/a identity. For some, she is a compassionate mother-figure with characteristics once attributed to powerful pre-Columbian goddesses; for others, she is a feminist champion of political revolution and human rights. This course concentrates on the most compelling contexts in which Guadalupe has been called on to negotiate religious, racial, sexual, and national identity.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 125",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Lectures in special areas of interest in religious studies. Specific coursetitles to be announced by the department each quarter.",
+  "prerequisites_raw": "Upper-division standing or one prior course in Religious Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 125A",
+  "title": "THE MIND OF EGYPT 1798-2011",
+  "units": "4",
+  "description": "Presents a basic outline of Egyptian religious history from Napoleon's landing in Alexandria in 1798 until the 18-Day Revolution of 2011, emphasizing the conflict of religion, education, and the interaction of public reasoning and political life.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 126",
+  "title": "Roman Catholicism Today",
+  "units": "4",
+  "description": "A survey of the history of Roman Catholic Christianity, leading to Vatican II and subsequent changes in the church. Attention is worldwide, but focus is on the United States.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 127A",
+  "title": "Christian Thought and Cultures of the Ancient World",
+  "units": "4",
+  "description": "Outline of the primary philosophical, sociological, and cultural trends in the first four centuries of Christianity: The changing relationship to imperial government, the \"parting of the ways\" with Judaism, the cultural inheritance of paganism, problems of self-definition against heresies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 127B",
+  "title": "Christian Thought and Cultures of the Middle Ages",
+  "units": "4",
+  "description": "Exploration of some of the major intellectual and cultural developments defining medieval Christian Europe. Materials considered include both contemporary historical studies and selected primary sources in theology, philosophy, literature, and the arts.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 127C",
+  "title": "Christian Thought and Cultures of the Reformation",
+  "units": "4",
+  "description": "Addresses major intellectual and cultural developments relating to the disintegration of medieval Christianity and the birth of modern Europe. Attention given to both contemporary historical studies and selected primary sources in theology, philosophy, literature, and the arts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 128",
+  "title": "Religious Environmentalism in the Anthropocene: Asia & U.S.",
+  "units": "4",
+  "description": "What can ancient religious traditions do for environmental protection? This class examines doctrinal examples, both potential and actual, of religious environmentalism in China, India, Japan, and the U.S. with Buddhism, Daoism, Hinduism, Shinto, and Protestantism.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 128A",
+  "title": "Religion and Spirituality in the Roman Empire",
+  "units": "4",
+  "description": "Introduction to \"pagan\" spirituality: Rites marking the seasonal and life cycles, syncretism and multiculturalism, initiation into religious associations, dreams and oracles, with attention both to religious texts and to the symbolic, iconographic, and structural evidence offered by archaeological data.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 128C",
+  "title": "The Sacred Geography of the Ancient Mediterranean World",
+  "units": "4",
+  "description": "A survey of religious sites in paganism, early Christianity, ancient Judaism, and early Islam. After general introduction to the sites, theoretical approaches to sacred space and ritual, and research methods for archaeological materials, students produce research papers and oral presentations on individual sites.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 129",
+  "title": "Religions of the Ancient Near East",
+  "units": "4",
+  "description": "Examination of the religious traditions of Mesopotamia, the Hittites, and the peoples of Syria-Palestine as seen through their literary archeological remains.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 130",
+  "title": "Judaism",
+  "units": "4",
+  "description": "Elements of traditional Judaism in biblical and rabbinic times.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 131",
+  "title": "PALESTIN JUDAISM",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 131A",
+  "title": "Religions in Judea from the Maccabees to Rabbis",
+  "units": "4",
+  "description": "Study of the various religious trends in Palestine from the time of Ezra to the second revolt, with special attention to the rise and development of the apocalyptic.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 131C",
+  "title": "Judaism in the Medieval World",
+  "units": "4",
+  "description": "Course covers period from 650 to 1500 CE and topics: Karaite movements; biblical and Talmaudic commentaries; growth of mystical movements; disputations between Christians and Jews.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 131D",
+  "title": "Judaism in Modern Times",
+  "units": "4",
+  "description": "Challenge of the enlightenment and emancipation movements to traditional Jewish life in western and eastern Europe. Religious and secular responses to these challenges (orthodox, conservative, reform, Zionism, socialism) in Europe and the United States.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 131F",
+  "title": "The History of Anti-Semitism",
+  "units": "4",
+  "description": "A systematic examination of the history of anti-Semitism, beginning with the emergence of anti-Judaism in the world of late antiquity, its transformation into theological anti-Semitism in the middle ages, and the emergence of racial anti-Semitism in the modern world. The central focus will be anti-Semitism as a religio-historical category.",
+  "prerequisites_raw": "Upper-division standing or instructor approval",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 131H",
+  "title": "Politics and Religion of Jerusalem",
+  "units": "4",
+  "description": "This course surveys the religious, political, and cultural history of Jerusalem over three millennia as a symbolic focus of three faiths: Judaism, Christianity, and Islam. Course content focuses on the transformation of sacred space as reflected by literary and archaeological evidence by examining the testimony of artifacts, architecture, and iconography in relation to the written word.",
+  "prerequisites_raw": "Upper-division standing or a prior course in religious studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 131J",
+  "title": "Introduction to Rabbinic Literature",
+  "units": "4",
+  "description": "An introduction to the basic texts of Rabbinic literature through an analysis of representative passages from the Mishnah, Talmud, and Midrash. Particular attention will be given to the various types of Midrash and the principles and methods of Midrashic interpretation. (Knowledge of Hebrew not required.)",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 132A",
+  "title": "Holy Delight: Eros and the Sacred in Jewish and Christian Interpretations of the Song of Songs",
+  "units": "4",
+  "description": "Explores the allegorical and symbolic interpretations of the biblical love poem known as the Song of Songs in the Jewish and Christian traditions from Late Antiquity to the Middle Ages. Topics to be discussed include the Song in its literary and historical context, the interplay of the sacred and the erotic in religious experience, allegory and the sacralization of the erotic, Marian interpretations and the ascetic curbing of desire, and the contemplative and ectastic interpretations of medieval kabbalists.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

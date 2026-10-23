@@ -1,0 +1,212 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 220B",
+  "title": "Cell and Tissue Bioengineering",
+  "units": "3",
+  "description": "Introduces students to structural components of cells, tissues, and organ systems, and the application of engineering principles for analysis. Topics include: biomembrane structure, function, and transport; intracellular compartments and trafficking; cell proliferation and death; cell-cell communication; biomaterials and stem cells; quantitative physiology of major organ systems (transport, mechanics, and electrical signaling); and homeostasis.",
+  "prerequisites_raw": "BIOE 220A or consent of Instructor",
+  "prerequisites_courses": [
+   "BIOE 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 225",
+  "title": "Current Topics in Bioengineering",
+  "units": "1",
+  "description": "Seminar series highlighting current topics and advances in bioengineering presented by UCSB faculty or visiting scientists providing context and motivation for bioengineering learning, introducing students to concepts outside of their primary research specialty, and promoting interdisciplinary thinking and research collaboration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 230",
+  "title": "Bioengineering Student Seminar",
+  "units": "1",
+  "description": "Seminar series where students present their original thesis research and also review journal articles that critically analyze contemporary bioengineering research. Three quarters of BIOE 230 are required for the optional BioE graduate emphasis. Presentations are evaluated and feedback isprovided.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 230A",
+  "title": "Bioengineering Faculty Seminar",
+  "units": "1",
+  "description": "Seminar series where bioengineering faculty present ongoing research in their lab to provide graduate students insight into the work going on in the department.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 230B",
+  "title": "Professional Development in Bioengineering",
+  "units": "2",
+  "description": "Introduces students to non-technical topics (writing, figure preparation, etc.) important to the professional development of bioengineering graduate students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 240",
+  "title": "Haptics: Touch Perception, Interaction, and Engineering",
+  "units": "4",
+  "description": "Haptics lies at the intersection of robotics, human-computer interaction, and computational and human perception. The term haptics is often used to refer to science and engineering related to the sense of touch. This course introduces human haptics, including sensory specializations and touch perception. It reviews the engineering of electronic technologies for haptic (touch) feedback, emerging technologies, and the design of haptic systems for human-computer interaction, sensory substitution, virtual reality, augmented reality, and other emerging areas. The class involves a mix of readings, hands-on activities, lecture/discussion, and projects.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 241",
+  "title": "Engineering Biomaterials",
+  "units": "3",
+  "description": "This lecture-based course provides an overview of material structure-property relationships, processing, and characterization techniques for metals, polymers, and ceramics. We discuss the unique design constraints imposed by the human body and discuss strategies to enhance biocompatibility. Throughout the course, emphasis is placed on applications of biomaterials engineering in medical devices.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 242",
+  "title": "Tissue Engineering and Regenerative Medicine",
+  "units": "3",
+  "description": "An introduction to the principles of tissue engineering: interplay and design of cells, biomaterials, and bioactive molecules to assist the body in the repair of damaged tissues. This includes concepts such as examining material fabrication approaches, engineering cells and their behavior, studying tissue microenvironments from diverse organ systems, the role of the extracellular matrix in repair, in vitro approaches to tissue engineering, and delivery of bioactive molecules (growth factors, extracellular vesicles, etc.), among others. By the end of this course, students will be able to design and evaluate tissue engineered constructs to repair a specific organ system.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 243",
+  "title": "Protein Engineering",
+  "units": "3",
+  "description": "Introduces students to current methods and general principles of engineering proteins, in the design, build, test, learn (DBTL) framework, with a secondary goal of providing students a framework that they might extend to other biomolecules of interest (e.g., nucleic acids). Topics covered include protein basics, library design, library generation, library screening and selection, sequencing, and extracting design principles from library datasets.",
+  "prerequisites_raw": "General chemistry (CHEM 1A-C or equivalent), organic chemistry (CHEM 109A or equivalent), and introductory biology (MCDB 1A or equivalent), and, for undergraduates, consent of the instructor.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 109A",
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 244",
+  "title": "Introduction to Machine Learning for Processing of Biological Images and Structural Biology",
+  "units": "3",
+  "description": "Provides a general introduction to modern Machine Learning techniques with a focus on neural networks with relevance for biological image processing and structural biology applications across scales from the atomic level to organisms. Introductions to relevant concepts in biological image processing and structural biology will be part of the curriculum as well.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 250",
+  "title": "Special Topics in Biological Engineering",
+  "units": "0",
+  "description": "Instruction in these variable unit courses may be carried out by lecture, by laboratory, or by a combination of these. These courses provide a study of topics of current interest in various areas of biological engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 250AA",
+  "title": "Tissue Engineering and Regenerative Medicine",
+  "units": "3",
+  "description": "An introduction to the principles of tissue engineering: interplay and design of cells, biomaterials, and bioactive molecules to assist the body in the repair of damaged tissues. This includes concepts such as examining material fabrication approaches, engineering cells and their behavior, studying tissue microenvironments from diverse organ systems, the role of the extracellular matrix in repair, in vitro approaches to tissue engineering, and delivery of bioactive molecules (growth factors, extracellular vesicles, etc.), among others. By the end of this course, students will be able to design and evaluate tissue engineered constructs to repair a specific organ system.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 250AB",
+  "title": "Protein Engineering",
+  "units": "3",
+  "description": "Introduces students to current methods and general principles of engineering proteins, in the design, build, test, learn (DBTL) framework, with a secondary goal of providing students a framework that they might extend to other biomolecules of interest (e.g., nucleic acids). Topics covered include protein basics, library design, library generation, library screening and selection, sequencing, and extracting design principles from library datasets.",
+  "prerequisites_raw": "General chemistry (CHEM 1A-C or equivalent), organic chemistry (CHEM 109A or equivalent), and introductory biology (MCDB 1A or equivalent), and, for undergraduates, consent of the instructor.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "CHEM 109A",
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 250AC",
+  "title": "Introduction to Machine Learning for Processing of Biological Images and Structural Biology",
+  "units": "0",
+  "description": "Provides a general introduction to modern Machine Learning techniques with a focus on neural networks with relevance for biological image processing and structural biology applications across scales from the atomic level to organisms. Introductions to relevant concepts in biological image processing and structural biology will be part of the curriculum as well.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 250AD",
+  "title": "Special Topics in Biological Computing",
+  "units": "3",
+  "description": "Introduces the basics of design of synthetic biological systems, including the architecture of genetic networks, circuits, and pathways controlling engineered biological function, as well as single-cell microbial behavior, and microbe population dynamics. Also provides a gentle introduction to workflows in biomolecular engineering, genetic circuit design, genomicediting, as well as principles of experimental design. An overview of various engineered and natural biological functions is provided, including multi-stability, biological oscillations, stochasticeffects in genetic circuits, robustness of circuit performance, and cellular capacity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 250AE",
+  "title": "Gene Therapy",
+  "units": "0",
+  "description": "Developing therapies using nucleic acids for human diseases is a high-risk, high-reward endeavor in bioengineering and medicine, with many challenges remaining to be addressed. However, once these obstacles have been overcome and widespread clinical success has been achieved, gene therapy will offer unparalleled opportunities for treating a range of disorders that are currently untreatable by conventional medical practices. The proposed course will explore the field of gene therapy, covering a wide range of topics, including gene delivery, noninvasive reporter gene imaging, genetic editing, clinical trials, and the social and ethical considerations of gene therapy.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 250AF",
+  "title": "Microalgae: Biotechnology and Applications",
+  "units": "0",
+  "description": "Explores the biology, ecology, and biotechnological applications of microalgae, emphasizing their pivotal role in renewable energy, water treatment, and sustainable innovation. Students will gain foundational knowledge in microalgal classification, cell biology, growth dynamics, and ecological significance. Practical applications include biofuel production, wastewater remediation, and environmental sustainability strategies. The course blends theoretical frameworks with real-world case studies to prepare students for advanced research and industrial applications.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 254",
+  "title": "Engineering Approaches to Systems Biology",
+  "units": "3",
+  "description": "Applications of engineering tools and methods to solve problems in systems biology. Emphasis is placed on integrative approaches that address multi-scale and multi-rate phenomena in biological regulation. Modeling, optimization, and sensitivity analysis tools are introduced.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 256",
+  "title": "Stem Cell Biology",
+  "units": "3",
+  "description": "Focuses on the latest developments in stem cell biology, including ongoing clinical trials using stem cell therapies to treat unmet medical needs. In depth analysis of the current literature in stem cell biology, bioengineering and biophysical analyses is also covered. The discipline of stem cell biology and applications of cell therapy have elements of bioengineering, biomaterials, and biophysics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BIOE",
+  "code": "BIOE 258",
+  "title": "Methods in Mechanobiology and Biofabrication",
+  "units": "3",
+  "description": "Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning, and cell stimulation. Weekly lecture with final project in the form of a research proposal.",
+  "prerequisites_raw": "The course assumes an engineering background but is structured to be accessible to graduate students in life sciences who have a strong physics and math background, and to engineering graduate students with basic biology knowledge.",
+  "prerequisites_courses": []
+ }
+]

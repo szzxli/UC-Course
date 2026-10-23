@@ -1,0 +1,290 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 133",
+  "title": "Struggles for Equality in Chicana/o Education",
+  "units": "4",
+  "description": "Investigates Chicana/o struggles for educational equality in the U.S. Presentations, discussions, written assignments analyze historical and contemporary examples of Chicana/o communities responding to and resisting subordination based on intersections of race with gender, class, language, immigrant status, and sexuality.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 134",
+  "title": "Chicana/o Curricula K-12: Theory into Practice",
+  "units": "5",
+  "description": "Addresses academic literature in bilingual and multicultural education in the context of hands-on experience in Chicana/o educational settings. Fieldwork encompasses students working as part of a research team in Santa Barbara area schools to link academic knowledge with K-12 practice.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 135",
+  "title": "Critical Race Theory in Chicana/o Education",
+  "units": "4",
+  "description": "Examines Critical Race Theory (CRT) as an emerging analytical framework in the field of education. Course investigates how a CRT framework might address and challenge the impacts of race, class, gender, language, immigrant status, accent, and sexual orientation on Chicana/o, Latina/o educational attainment and achievement.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 136",
+  "title": "Oral History: Theories and Methods",
+  "units": "4",
+  "description": "Survey of oral history as a theoretical and methodological practice, including the \"testimonio\" tradition. Through readings, discussions, and a small field studies component, the politics of memory and truth, and the challenges and pleasures of oral history work are considered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 137",
+  "title": "Chicana/o Oral Traditions",
+  "units": "4",
+  "description": "Introduces students to Chicana/o oral traditions. Contemporary forms of Chicano oral poetry, oral narrative, and drama are examined in addition to more ephemeral forms such as cabula, choteo, joke-telling, or dichos.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 138",
+  "title": "Barrio Popular Culture",
+  "units": "4",
+  "description": "Explores various manifestations of popular and mass culture in Chicano urban and semi-rural communities throughout the Southwest. Both secular and religious cultural phenomena are analyzed (lowriders, saints, music, etc.). Relationships to mainstream culture is examined.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 138H",
+  "title": "Barrio Popular Culture (Honors)",
+  "units": "4",
+  "description": "Lecture is concurrent with Chicana/o Studies 138, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Upper-division standing; and consent of instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 139",
+  "title": "Chicana/o Native American Heritage",
+  "units": "4",
+  "description": "Explores the intense recourse to the Native American heritage during the Chicano cultural renaissance of the 1960s and 1970s. The rediscovery of the native ancestral cultures will be analyzed in poetry, prose, drama, and graphic arts.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 140",
+  "title": "Chicana/o Mexican Cultural Heritage",
+  "units": "4",
+  "description": "A panoramic view of present-day Chicana/o traditions analyzed from a Mexican cultural heritage perspective in order to comprehend and appreciate the uniqueness and difference of present-day Chicano/o culture, its achievements, and contribution to the overall American culture.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 141",
+  "title": "Central Americans in the United States",
+  "units": "4",
+  "description": "Provides an interdisciplinary historical overview of Central American migrations to the U.S., and a cultural and political analysis of resulting individual and group identities. Transnationalism, diasporas, politics, and community building among Central Americans, or \"Central American-Americans\" are explored.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 142",
+  "title": "Salvadoran Diasporas",
+  "units": "4",
+  "description": "Review of Salvadoran people's movements across time and space, conscious of the intersection of cultural, social, and economic processes at individual and collective levels. Examines this diaspora and the forging of new identities and vision from this new Cuzcatlan.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 143",
+  "title": "Chicano/a Film Studies",
+  "units": "4",
+  "description": "Study of Chicano/a cinema to view film as an art form and projection of the filmmaker. Techniques, messages, and ideology stressed as instruments which propose film truth within the context of Chicano/a experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 144",
+  "title": "The Chicano Community",
+  "units": "4",
+  "description": "Origins of the Chicano in rural Mexico; context of contact; patterns of settlement in the United States; the Chicano community, social structure, and social change; acculturation and generational patterns; community leadership and change.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 146",
+  "title": "Humor and the Chicana/o Artist",
+  "units": "4",
+  "description": "Though Chicana/o art is often associated with serious political and grassroots movements, the use of humor has been a recurring element in its production. Course examines the various instances of humor, irony, and parody in Chicana/o art.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 147",
+  "title": "Figuration in Chicana/o Art",
+  "units": "4",
+  "description": "Chicana/o artists often work in a realist style putting great emphasis on the human figure. Class analyzes how Chicana/o artists render the human figure and how their representations of the body reflect or inform the ideology of the Chicano movement.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 148",
+  "title": "Chicana Art and Feminism",
+  "units": "4",
+  "description": "An overview of contemporary Chicana art and feminist theory from the late 1960s to the present placed within the context of the Chicano movement and other historical events.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 149",
+  "title": "Body, Culture, and Power",
+  "units": "4",
+  "description": "Exploration of the construction, imaging and experience of the body in light of modern regimes of power/knowledge. Particular attention is paid tothe work of Michel Foucault on disciplinary technologies, medical practicesof ab/normalization, and the emergence of bio-power.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 149A",
+  "title": "Race and Science",
+  "units": "4",
+  "description": "Examines the role of science in the construction and management of racialized bodies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 150",
+  "title": "Mesoamerican Technology and Ideology",
+  "units": "4",
+  "description": "Explores the extent to which communities and individuals can be identified in their production of material cultures. Begins and ends with examples from modern culture, then treats the production of stone tools, ceramics, and stone sculpture in classic Maya culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 151",
+  "title": "De-Colonizing Feminism",
+  "units": "4",
+  "description": "Surveys contemporary forms of feminist consciousness expressed U.S. women of color. Can U.S. women of color be considered a political class? What relations exist between women of color across race, culture, sex, and class differences?",
+  "prerequisites_raw": "Department approval required to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 151H",
+  "title": "De-Colonizing Feminism (Honors)",
+  "units": "4",
+  "description": "Lecture is concurrent with Chicana/o Studies 151 along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 152",
+  "title": "Postcolonialism",
+  "units": "4",
+  "description": "Exploration of postcolonial theories and their effectiveness as critical tools in discussing Chicano cultural production. Focus will be on Chicano culture as it creates a counter discourse to dominant cultural formations. We will study film, music, visual, performance, and literary arts.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 153",
+  "title": "Queer Identities, Communities, and Theories",
+  "units": "4",
+  "description": "Examines queer/lgbt community life and death; political and social identities; and multiple gender and sexual expressions. Grounded in narratives of identity and experience, the course explores dimensions of visibility, space, \"silence,\" and politics of exclusion in queer worlds.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 153H",
+  "title": "Queer Identities, Communities, and Theories (Honors)",
+  "units": "4",
+  "description": "Lecture is concurrent with Chicana/o Studies 153 along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 154",
+  "title": "Gender and Sexuality in the Americas",
+  "units": "4",
+  "description": "Examines cultural, social, political and representational aspects of gender and sexuality across the Americas. Organized around various themes--control and repression; the politics and culture of resistance; and sexual transgression as affirmation of marginalized identities--this course challenges conceptions of gender and sexuality across the Americas. Covering topics ranging from normative sexuality, transgender expression, gay sexuality, and lesbian expression, the course is designed to examine developments in gender and sexuality within the U.S. and across the Americas.",
+  "prerequisites_raw": "Departmental approval required to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 155",
+  "title": "Latinidades",
+  "units": "4",
+  "description": "What it means to be Latina/o/x varies not only based on class, nationality, and citizenship status but also on race and ethnicity. This undergraduate seminar interrogates Latinidad as a historical, political, and racial project. Students will trace the origins of Hispanic and Latina/o/x identities to the settler logics from which they emerged, particularly those that rely on the erasure of Indigenous and Afro-descendent populations. Special attention will be placed on how race and racism manifest in the material conditions and lived experiences of Indigenous, Afro-Indigenous, Afro/Black Latinxs.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ }
+]

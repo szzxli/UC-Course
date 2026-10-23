@@ -1,0 +1,249 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 282",
+  "title": "Thesis and Dissertation Structured Writing Communities",
+  "units": "4",
+  "description": "Graduate students who have produced at least one chapter of their thesis or dissertation and who must still complete at least one more chapter will be provided with writing instruction, individual feedback, and writing time to complete their thesis/dissertation. Only advanced graduate writing will be drafted and considered in this course.",
+  "prerequisites_raw": "Graduate students must have completed at least one chapter of a thesis/dissertation and still need to complete at least one more chapter. Letter of approval stating that the studentmeets the aforementioned conditions and is a good candidate for this course must be submitting by the student�s thesis/dissertation chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 282AA",
+  "title": "Thesis and Dissertation Structured Writing Communities",
+  "units": "4",
+  "description": "Graduate students who have produced at least one chapter of their thesis or dissertation and who must still complete at least one more chapter will be provided with writing instruction, individual feedback, and writing time to complete their thesis/dissertation. Only advanced graduate writing will be drafted and considered in this course.",
+  "prerequisites_raw": "Graduate students must have completed at least one chapter of a thesis/dissertation and still need to complete at least one more chapter. Letter of approval stating that the student meets the aforementioned conditions and is a good candidate for this course must be submitting by the student's thesis/dissertation chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 283",
+  "title": "Preparing for the Academic Job Market",
+  "units": "4",
+  "description": "Graduate students will have the job market process demystified while preparing a dossier of requested materials. Students will first study the rhetorical features associated with the major documents required for these positions and then produce discipline-specific drafts (with feedback provided).",
+  "prerequisites_raw": "Students have to be, at the earliest, one year away from applying to the job market.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 283AA",
+  "title": "Preparing for the Academic Job Market",
+  "units": "4",
+  "description": "Graduate students will have the job market process demystified while preparing a dossier of requested materials. Students will first study the rhetorical features associated with the major documents required for these positions and then produce discipline-specific drafts (with feedback provided).",
+  "prerequisites_raw": "Students have to be, at the earliest, one year away from applying to the job market.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 290",
+  "title": "Writing Studies: Histories, Theories, and Methods",
+  "units": "4",
+  "description": "This course provides an introduction to the history, theory, and research considerations of Writing Studies. It focuses on foundational historical movements in composition pedagogy, current trends in Writing Studies, and interdisciplinary approaches to the field, including selected research methodologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 290AA",
+  "title": "Writing Studies: Histories, Theories, and Methods",
+  "units": "4",
+  "description": "This course provides an introduction to the history, theory, and research considerations of Writing Studies. It focuses on foundational historical movements in composition pedagogy, current trends in Writing Studies, and interdisciplinary approaches to the field.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 291",
+  "title": "Pedagogies of University Writing: Theory and Practice",
+  "units": "4",
+  "description": "Explores theoretical foundations and practical approaches to teaching writing at the university and college level. Students will examine pedagogical theories, design writing prompts, and develop strategies for assessment and providing feedback. Assignments include writing teaching philosophies, crafting course materials, facilitating discussion, and reflective writing. By integrating theory and practice, students will gain a deeper understanding of the various facets involved in teaching writing in a postsecondary context.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 291AA",
+  "title": "Pedagogies of University Writing: Theory and Practice",
+  "units": "4",
+  "description": "Explores theoretical foundations and practical approaches to teaching writing at the university and college level. Examines pedagogical theories, design writing prompts, and develop strategies for assessment and providing feedback. Assignments include writing teaching philosophies, crafting course materials, facilitating discussion, and reflective writing. Integrates theory and practice, for students to gain a deeper understanding of the various facets involved in teaching writing in a postsecondary context.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 297",
+  "title": "Graduate Studies",
+  "units": "0",
+  "description": "Graduate credit given for an upper-division course with additional work at the graduate level.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 500",
+  "title": "Directed Teaching",
+  "units": "4",
+  "description": "Teaching assistants must register during quarter of service for this course of supervision for instruction.",
+  "prerequisites_raw": "Appointment as teaching assistant or associate title.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 501",
+  "title": "Academic Writing Instruction Theory and Practice",
+  "units": "0",
+  "description": "Preparatory orientation and concurrent training in composition theory and pedagogy for newly appointed Writing Program teaching assistants. Topics include theories of composition pedagogy, academic literacies, principles of instructional design and curriculum development, effective classroom practices, and assessment of student writing.",
+  "prerequisites_raw": "Application submitted for Writing Program TA appointment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 501A",
+  "title": "Practicum in Academic Writing Instruction",
+  "units": "2",
+  "description": "Preparatory orientation and concurrent training for newly appointed Writing Program teaching assistants. Topics include theories of compositionpedagogy, academic literacies, principles of instructional design and curriculum development, effective classroom practices, and assessment of student writing.",
+  "prerequisites_raw": "Application submitted for Writing Program TA appointment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 501B",
+  "title": "Practicum in Academic Writing Instruction",
+  "units": "2",
+  "description": "Preparatory orientation and concurrent training for newly appointed Writing Program teaching assistants. Topics include theories of compositionpedagogy, academic literacies, principles of instructional design and curriculum development, effective classroom practices, and assessment of student writing.",
+  "prerequisites_raw": "Application submitted for Writing Program TA appointment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 502A",
+  "title": "Proseminar in Writing Studies",
+  "units": "2",
+  "description": "An introduction to the major lines of research and theory in the field of writing studies. The course emphasizes the roles writing plays in knowledge production and social organizations, and the contributions of research on writing to learning, instruction, and practice across disciplines, professions, and fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 502B",
+  "title": "Proseminar in Writing Studies",
+  "units": "1",
+  "description": "An introduction to the major lines of research and theory in the field of writing studies. The course emphasizes the roles writing plays in knowledge production and social organizations, and the contributions of research on writing to learning, instruction, and practice across disciplines, professions, and fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 502C",
+  "title": "Proseminar in Writing Studies",
+  "units": "1",
+  "description": "An introduction to the major lines of research and theory in the field of writing studies. The course emphasizes the roles writing plays in knowledge production and social organizations, and the contributions of research on writing to learning, instruction, and practice across disciplines, professions, and fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 503",
+  "title": "Pedagogies of University Writing: Theory and Practice",
+  "units": "4",
+  "description": "Explores theoretical foundations and practical approaches to teaching writing at the university and college level. Students will examine pedagogical theories, design writing prompts, and develop strategies for assessment and providing feedback. Assignments include writing teaching philosophies, crafting course materials, facilitating discussion, and reflective writing. By integrating theory and practice, students will gain a deeper understanding of the various facets involved in teaching writing in a postsecondary context.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Group or individual tutorial.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT W",
+  "code": "WRIT W 6R",
+  "title": "Rome: The Game",
+  "units": "5",
+  "description": "This online course presented as an adventure game introduces students to the art and archaeology of Rome, with assignments that focus on writing and the research process. The course asks students to determine whether or not a collection of ancient objects from an American museum should remain in the US or be sent back to Italy. Throughout the course, students excavate artifacts at a digital dig site, visit museums, explore Roman monuments, and navigate the shadowy world of the tombaroli (tomb robbers) and mafia-run black market for antiquities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT W",
+  "code": "WRIT W 105M",
+  "title": "Multimedia Writing Online",
+  "units": "4",
+  "description": "Focuses on new modes of writing and publishing enabled by computer technology. Projects involve analyzing, creating, reading about, and reflecting on multimedia writing. Students create works suitable for web or other digital formats.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT W",
+  "code": "WRIT W 107B",
+  "title": "Business and Administrative Writing",
+  "units": "4",
+  "description": "Analysis and practice in business genres that focus on writing strategy, concise style, and visual aspects of communication. Attention to typical documents such as letters, memos, e-mail, proposals, and collaborative reports. Courses also typically integrate oral presentations, job search documents, and the use of relevant technology.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT W",
+  "code": "WRIT W 107L",
+  "title": "Legal Writing",
+  "units": "4",
+  "description": "Practice in applying rules to facts, analyzing issues, and writing clearly, succinctly, and cogently in various forms of legal discourse such as case briefs, law essays, persuasive letters, short office memoranda, mediation and appellate briefs. Fundamentals of legal research are touched upon.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT W",
+  "code": "WRIT W 107WC",
+  "title": "Writing Web Content Online",
+  "units": "4",
+  "description": "An online course in which students analyze the rhetorical strategies underlying creation of Web 2.0 content. Students create common content modalities that may include Websites, blogs, email newsletters, and social media as used in professional contexts.",
+  "prerequisites_raw": "Writ 2 or Writ 2LK or Writ 2E or AP36 >=4 or AP 37 >=4 or WAIV AW >=1 or IB BL >=6 or IB E >=6; upper division standing",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2LK",
+   "WRIT 2E",
+   "WRIT 1"
+  ]
+ }
+]

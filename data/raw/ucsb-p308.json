@@ -1,0 +1,337 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 139YX",
+  "title": "Biopolitics and Medical Humanities",
+  "units": "4",
+  "description": "(Taught in English) Lecture course exploring the theory and practice of biopolitics in Italy. Biopolitics, is defined as the sphere whereby politics intervene in biological life. Key themes in the course are mobility, immunization, and resilience.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 139ZX",
+  "title": "Crime Italian Style",
+  "units": "4",
+  "description": "(Taught in English) Considers the reality and representation of Italian organized crime (Mafia, Camorra, Ndrangheta, etc) in a transnational perspective, and in specific reference to Italian immigration in the US and American popular culture.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 142",
+  "title": "Women in Italy",
+  "units": "4",
+  "description": "(Taught in Italian) An intensive study of writing by and about women from the early modern and modern eras.",
+  "prerequisites_raw": "Italian 6 or equivalent.",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 142X",
+  "title": "Women in Italy",
+  "units": "4",
+  "description": "An intensive study of writing by and about women from the early modern and modern eras. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 144",
+  "title": "Women in Italy",
+  "units": "4",
+  "description": "TAUGHT IN ITALIAN. Studies in the production of gender and the functions of sexuality in Italian culture including plays, films, painting, and literary texts.",
+  "prerequisites_raw": "Italian 6 or equivalent.",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 144A",
+  "title": "Women, Gender, and Sexuality in Italy",
+  "units": "4",
+  "description": "(Taught in Italian) Studies in the representation of women, gender, and sexuality in Italian culture including plays, films, painting, and literary texts.",
+  "prerequisites_raw": "Note: ITAL 144XX is the \"in translation (in English) version of this",
+  "prerequisites_courses": [
+   "ITAL 144XX"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 144AA",
+  "title": "Women in Italy",
+  "units": "4",
+  "description": "TAUGHT IN ITALIAN. Studies in the production of gender and the functions of sexuality in Italian culture including plays, films, painting, and literary texts.",
+  "prerequisites_raw": "Italian 6 or equivalent.",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 144AX",
+  "title": "Gender and Sexuality in Italian Culture",
+  "units": "4",
+  "description": "Studies in the production of gender and the functions of sexuality in Italian culture including plays, films, painting, and literary texts.",
+  "prerequisites_raw": "Italian 6 or equivalent.Note: ITAL 144XX is the \"in translation (in English) version of this super course.",
+  "prerequisites_courses": [
+   "FR 6",
+   "ITAL 144XX"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 144BB",
+  "title": "Gender and Sexuality in Italian Culture",
+  "units": "4",
+  "description": "Studies in the production of gender and the functions of sexuality in Italian culture including plays, films, painting, and literary texts.",
+  "prerequisites_raw": "Note: ITAL 144XX is the \"in translation (in English) version of this",
+  "prerequisites_courses": [
+   "ITAL 144XX"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 145",
+  "title": "Gender and Sexuality in Italian Culture",
+  "units": "4",
+  "description": "TAUGHT IN ENGLISH. Studies in the production of gender and the functions of sexuality in Italian culture including plays, films, painting, and literary texts.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 145AX",
+  "title": "Gender and Sexuality in Italian Culture",
+  "units": "4",
+  "description": "(Taught in English) Studies in the production of gender and the functions of sexuality in Italian culture through literature and media.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 148X",
+  "title": "Cities of Italy",
+  "units": "4",
+  "description": "A close-up look at the great texts, histories, and cultures of Italian cities such as Rome, Venice, Florence, Ferrara, and Naples. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 158X",
+  "title": "Crossreadings : French and Italian Cultures in Dialogue and Translation",
+  "units": "4",
+  "description": "Ever since the Renaissance, when the notion of a national culture had taken hold, the historic, literary and intellectual trajectories of France and Italy have been intimately entangled. Taking a chronological approach from the Renaissance to the post-modern period, this course will embark on a number of comparative readings from these two countries: from Rabelais carnivalesque uptake of Boccaccios humor and vulgarity; to Italys attempt at emulating the French Revolution; to Giuseppe Ungarettis debt to avant-garde literary figures, and more. Our goal will be to reveal that cultures and intellectual traditions exist not in isolation but emerge out of a perpetual conversation withand translation ofeach other. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 160",
+  "title": "Senior Seminar",
+  "units": "4",
+  "description": "Seminar for Italian majors wishing to participate in intensive study of a major work of Italian culture (filmic, literary, or artistic) of the past or present. See department for further information.",
+  "prerequisites_raw": "Italian 101 or 102.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 161X",
+  "title": "The European Union",
+  "units": "4",
+  "description": "Introduction to the history and organization of the European Union (the institutions, policies, goals, and successes of the EU). Focus on the ongoing process of economical, political, social, and cultural integration in Europe since the Second World War. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 162",
+  "title": "Comparative Cultures: France and Italy",
+  "units": "4",
+  "description": "Interdisciplinary comparative study of selected cultural and social issues in France and Italy from the early medival period to the present day. In English. AX. From Decadence to Modernism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 162BX",
+  "title": "Comparative Cultures: France and Italy",
+  "units": "4",
+  "description": "Interdisciplinary comparative study of selected cultural and social issues in France and Italy from the early medival period to the present day. In English. AX. From Decadence to Modernism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 162CX",
+  "title": "Early Modern Epic",
+  "units": "4",
+  "description": "Class investigates myths of national foundation and the literary representation of colonial/imperial enterprises, and problems of narrative and political authority. Problems of cultural continuity and difference are explored through reading in Virgil, Dante, Camoens, Tasso, Rabelais, and Cervantes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 178",
+  "title": "Italian Cinema",
+  "units": "4",
+  "description": "(Taught in Italian) Contemporary Italian cinema from neorealism to the present, in light of the themes of Mafia, Camorra, 'ndrangheta.",
+  "prerequisites_raw": "Italian 6 or equivalent and Upper-division standing.",
+  "prerequisites_courses": [
+   "FR 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 179X",
+  "title": "Italian History in Fiction and Film",
+  "units": "4",
+  "description": "(Taught in English) A course focusing on and comparing the representation of Italian history in film and literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 180X",
+  "title": "Italian Cinema",
+  "units": "4",
+  "description": "A survey of the major trends and directors in Italian cinema since World War II. Directors to be studied include: Rossellini, De Sica, Visconti, Fellini, Antonioni, and Rosi. In English.",
+  "prerequisites_raw": "Upper-Division Standing only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 180XH",
+  "title": "Italian Cinema: Honors Section",
+  "units": "1",
+  "description": "(Taught in English) A 1 unit seminar accompanying the regular Italian 180Z lecture course on major trends and directors in Italian cinema since World War II. Students will be expected to do extra readings, in class presentations, and watch additional films to those assigned in 180Z.",
+  "prerequisites_raw": "Concurrent enrollment in Italian 180Z",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 189X",
+  "title": "Italy in the Mediterranean: History, Arts, and Culture",
+  "units": "4",
+  "description": "(Taught in English) The history, culture, and arts of Italy, and in particular of the greater Gulf of Naples area, seen from and exclusively Mediterranean perspective from antiquity to the present.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 191I",
+  "title": "Enhancement Seminar in Italian",
+  "units": "16",
+  "description": "Designed for Italian majors or minors enrolled in any Italian UD course taught in English (marked with X). Students will read materials in Italian, meet with the instructor to discuss them and complete assignments in Italian in order to improve their linguistic and cultural fluency.",
+  "prerequisites_raw": "Instructor approval and concurrent enrollment in any Italian UD course taught in English (marked with an X).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 195H",
+  "title": "Senior Honors Independent Studies in Italian",
+  "units": "4",
+  "description": "Individual investigations in literary and related fields to Italian Studies in fulfillment of senior honors thesis. Limited to honors students only.",
+  "prerequisites_raw": "Senior standing; completion of 24 upper-division units in Italian.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 199",
+  "title": "Independent Studies in Italian",
+  "units": "0",
+  "description": "Individual investigations in literary fields.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Italian.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Independent research, under the supervision of a consenting faculty member.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Italian;consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 500",
+  "title": "Teaching Assistant Practicum",
+  "units": "4",
+  "description": "Supervised teaching of lower-division Italian courses. Includes orientation workshop, weekly meetings with supervisor, preparation and correction of examinations, preparations of discussion sections, class observations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ITAL",
+  "code": "ITAL 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 1",
+  "title": "First-Year Japanese I",
+  "units": "5",
+  "description": "An introduction to modern Japanese. Students will develop basic communicative skills based on the fundamentals of grammar, vocabulary, and conversational expressions. Emphasis on both oral-aural proficiency andwriting-reading skills. Introduction to Hiragana and Katakana syllabaries, and Kanji.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 2",
+  "title": "First-Year Japanese II",
+  "units": "5",
+  "description": "Continuation of Japanese 1.",
+  "prerequisites_raw": "Japanese 1 with grade C or better, or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 3",
+  "title": "First-Year Japanese III",
+  "units": "5",
+  "description": "Continuation of Japanese 2.",
+  "prerequisites_raw": "Japanese 2 with grade C or better, or equivalent",
+  "prerequisites_courses": []
+ }
+]

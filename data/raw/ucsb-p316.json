@@ -1,0 +1,308 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 222",
+  "title": "Livy",
+  "units": "4",
+  "description": "Advanced reading and study of the annalistic history of Livy with attention to the author's style, literary and historical context, and recent scholarly approaches to the text.",
+  "prerequisites_raw": "Graduate student only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 223",
+  "title": "Tacitus",
+  "units": "4",
+  "description": "Advanced study of portions of one of Tacitus' major histories of the early Empire (Annales, Historiae), or of the shorter works (Agricola, Dialogus, Germania). Translation; discussion of philological, stylistic, literary, and historical points; introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 224",
+  "title": "Caesar",
+  "units": "4",
+  "description": "Advanced study of Caesar as historian and as Latin prose stylist.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 225",
+  "title": "Roman Biography",
+  "units": "4",
+  "description": "Advanced study of Roman biographical writing: its historical and literary context, themes, and techniques. Discussion of selections from the biographies of Nepos, Suetonius, and Tacitus, as well as biographical passages from the histories of Sallust, Livy, and Tacitus",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 234",
+  "title": "Lucretius",
+  "units": "4",
+  "description": "Intensive study in the poetry and Epicurean philosophy of Lucretius.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 235",
+  "title": "Vergil",
+  "units": "4",
+  "description": "Advanced reading, translation, and discussion of Vergil's epic poem Aeneid, as well as his Georgics and Eclogues.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 236",
+  "title": "Ovid",
+  "units": "4",
+  "description": "Advanced study of Ovid's epic or elegiac poetry (Metamorphoses, Fasti, Ars Amatoria, Tristia, Heroides) in its literary, social, and historical contexts.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 237",
+  "title": "Catullus",
+  "units": "4",
+  "description": "Advanced study of Catullus' poetry in its literary, social, and historical contexts.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 238",
+  "title": "Horace",
+  "units": "4",
+  "description": "Advanced study of selected poems of Horace (Odes, Epodes, Satire Epistles) in their literary, social, and historical contexts, with an introduction to current scholarship.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 239",
+  "title": "Seneca: Tragedies",
+  "units": "4",
+  "description": "Reading, translation, and discussion of several tragedies by Seneca.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 299",
+  "title": "RESEARCH IN LATIN",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "GRADUATE STANDING AND CONSENT OF INSTRUCTOR AND GRADUATE ADVISOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual Tutorial.",
+  "prerequisites_raw": "Written proposal approved by department chair and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Independent research.",
+  "prerequisites_raw": "Graduate standing and consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 599",
+  "title": "Ph.D. Dissertation Presentation.",
+  "units": "0",
+  "description": "Terminal preparation of the dissertation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 2G",
+  "title": "EMS: Intermediate Graduate Writing for International Students",
+  "units": "4",
+  "description": "Provides instruction for students needing to improve accuracy and fluency in written academic English. Emphasizes grammar, vocabulary and patterns of organization relevant to academic writing at the graduate level.",
+  "prerequisites_raw": "Placement based on English Language Placement Examination.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 3A",
+  "title": "EMS: Academic English",
+  "units": "4",
+  "description": "First of three levels intended to develop proficiency in university-level reading and writing. Emphasizes applying critical approaches to reading, practicing writing in a variety of academic styles, and developing grammatical and lexical resources appropriate to a university setting.",
+  "prerequisites_raw": "Placement based on Analytical Writing Placement Exam (AWPE)and English Language Placement Examination (ELPE).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 3B",
+  "title": "EMS: Academic English",
+  "units": "4",
+  "description": "Second level in a three-course series intended to develop proficiency in university-level reading and writing. Emphasizes applying critical approaches to reading, practicing writing in a variety of academic styles, and developing grammatical and lexical resources appropriate to a university setting.",
+  "prerequisites_raw": "Open to students who have a Ling 3B placement or a prerequisite of Ling 3A with a pass grade.",
+  "prerequisites_courses": [
+   "LING 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 3C",
+  "title": "EMS: Academic English",
+  "units": "4",
+  "description": "Third level in a three-course series intended to develop proficiency in university-level reading and writing. Emphasizes applying critical approaches to reading, practicing writing in a variety of academic styles, and developing grammatical and lexical resources appropriate to a university setting.",
+  "prerequisites_raw": "Open to students who have a Linguistics 3C placement; or Linguistics 3B with a minimum grade of C.",
+  "prerequisites_courses": [
+   "LING 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 3G",
+  "title": "EMS: Advanced Graduate Writing for International Students",
+  "units": "4",
+  "description": "Focuses on rhetorical strategies and patterns of development used in a variety of writing typically required for graduate courses. Addresses levels of formality and academic conventions used across disciplines, emphasizing clarity of expression.",
+  "prerequisites_raw": "Graduate standing. Placement based on English Language Placement Examination scores.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 4",
+  "title": "EMS: Individual and Small Group Instruction for International Graduate Students",
+  "units": "0",
+  "description": "Designed for focused instruction in oral and written academic English. Enrollment by instructor consent. Preference given to students at advanced proficiency levels.",
+  "prerequisites_raw": "Consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 5",
+  "title": "EMS: Intermediate Oral Academic English for International Graduate Students",
+  "units": "3",
+  "description": "Focuses on listening comprehension and oral communication skills needed for effective participation in American university contexts, including small group discussions, one-on-one interactions, and short oral presentations.",
+  "prerequisites_raw": "Graduate standing. Placement based on English Language Placement Examination scores and TA English Language Evaluations.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 6",
+  "title": "EMS: Advanced Oral Academic English for International Graduate Students",
+  "units": "3",
+  "description": "Intended to refine students' listening comprehension and oral communication skills in academic and professional settings, including graduate seminars, conferences and interviews. Emphasis on formal presentations with peer and instructor feedback.",
+  "prerequisites_raw": "Graduate standing. Placement based on English Language Placement Examination scores and TA English Language Evaluations.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 7",
+  "title": "EMS: Oral Communication for International Teaching Assistants",
+  "units": "3",
+  "description": "Intercultural teacher-training course with an emphasis on pronunciation and the oral production skills necessary for successful communication in the American university classroom.",
+  "prerequisites_raw": "Graduate standing. Placement based on TA English Language evaluations.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 8",
+  "title": "Oral Communication for International Undergraduate Students",
+  "units": "3",
+  "description": "Develops oral skills to help multilingual undergraduate students, especially international students, participate in classroom activities and engage in campus life. Activities include group discussions, group presentations, interviews, and language focus on vocabulary and pronunciation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 9",
+  "title": "EMS: English Pronunciation for International Graduate Students",
+  "units": "3",
+  "description": "Intended to help students improve pronunciation of American English for effective communication in academic and professional settings. Instruction includes analysis and practice of vowels, consonants, stress and intonation patterns.",
+  "prerequisites_raw": "Graduate standing. Placement based on English Language Placement Examination scores and TA English Language Evaluations.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 10",
+  "title": "Academic Reading Across the Curriculum",
+  "units": "4",
+  "description": "Focuses on interrelations between reading and writing in academic content areas across the curriculum. Through engagement with readings in humanities, social sciences and sciences, the course provides essential reading strategies and skills for developing comprehension, genre awareness, and critical thinking.",
+  "prerequisites_raw": "Undergraduate-standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 12",
+  "title": "EMS: Approaches to University Writing for Multilingual Students",
+  "units": "5",
+  "description": "Principles of critical reading, thinking and writing in the university. Students analyze academic discourse, develop rhetorical strategies for exposition and argument, practice examination writing, and write and revise papers. Completion of C or better meets Entry Level Writing Requirement.",
+  "prerequisites_raw": "Open to students who have not satisfied the Entry Level Writing Requirement and have a Ling 12 placement or a prerequisite of Ling 3C with a grade of C or better.",
+  "prerequisites_courses": [
+   "LING 3C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 14",
+  "title": "Vocabulary and Grammar in Academic Writing for Multilingual Students",
+  "units": "4",
+  "description": "Analysis and practice of English vocabulary and grammatical constructions for a variety of genres in academic writing. Focus on functional language use common across disciplines, such as expressing causation and change of state, creating cohesion, establishing focus and emphasis, qualifying ideas, and reporting research. Attention given to developing language resources and strategies for effective summarizing, paraphrasing and editing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 15",
+  "title": "Language in Life",
+  "units": "5",
+  "description": "Overview of language and its role in communities at home and around the world. The diversity and history of languages; their norms, conventions, and written traditions; the role of language in culture and identity; language rights and multilingualism, and the implications of technology for language use.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 20",
+  "title": "Language And Linguistics",
+  "units": "5",
+  "description": "Introduction to the scientific study of language: The sounds of language; word and sentence structure; semantics and pragmatics; discourse and conversational speech; the social and cultural functions of language; language change and the reconstruction of languages at earlier stages.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

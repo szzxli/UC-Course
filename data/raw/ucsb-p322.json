@@ -1,0 +1,359 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 265",
+  "title": "Acquisition of Grammar",
+  "units": "4",
+  "description": "Theories, methods and cross-linguistic data in language acquisition; focus on grammar. Evaluation of current theoretical controversies concerning the mechanisms and bases--biological, cognitive, and social--of language acquisition.",
+  "prerequisites_raw": "Linguistics 237.",
+  "prerequisites_courses": [
+   "LING 237"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 270",
+  "title": "Writing in Linguistics",
+  "units": "0",
+  "description": "Academic writing for publication in scholarly journals in linguistics. Individualized meetings and/or small-group workshop format.",
+  "prerequisites_raw": "Graduate Students Only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 271",
+  "title": "Research Orientation",
+  "units": "2",
+  "description": "Sequence of lectures by faculty of the Linguistics Department and closely related departments, to acquaint new graduate students with current faculty research, and with research directions and resources of the campus.",
+  "prerequisites_raw": "Graduate standing in Linguistics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 272",
+  "title": "Linguistics Colloquium",
+  "units": "0",
+  "description": "Presentations on current topics in linguistics by visiting scholars, faculty, and graduate students.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 273A",
+  "title": "Language and the Body",
+  "units": "4",
+  "description": "Brings together the methods and findings of functional linguistics and those of conversation analysis in a dialogue centering on the visible behavior of the body in the organization of talk-in-interaction, especially gesture, gaze, and body movement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 273B",
+  "title": "Language and the Body",
+  "units": "4",
+  "description": "Brings together the methods and findings of functional linguistics and those of conversation analysis in a dialogue centering on the visible behavior of the body in the organization of talk-in-interaction, especially gesture, gaze, and body movement.",
+  "prerequisites_raw": "Linguistics 273A.",
+  "prerequisites_courses": [
+   "LING 273A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 274",
+  "title": "Proseminar in Language, Interaction, and Social Organization",
+  "units": "0",
+  "description": "Discussion of current research, literature, and theoretical and methodological issues in language and social interaction.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 275",
+  "title": "Teaching Assistant Seminar",
+  "units": "0",
+  "description": "Covers development of teaching techniques.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 288",
+  "title": "Language Socialization",
+  "units": "4",
+  "description": "What is the role of language in the process by which a child becomes a member of a particular culture? Topics include the acquisition of culture-specific ways of talking about emotions, enacting gender roles, having arguments and producing narratives.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 289A",
+  "title": "Seminar in the Discipline of Linguistics",
+  "units": "4",
+  "description": "Specialized topics in the discipline of linguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 289B",
+  "title": "Seminar in the Discipline of Linguistics",
+  "units": "4",
+  "description": "Specialized topics in the discipline of linguistics.",
+  "prerequisites_raw": "Linguistics 289A",
+  "prerequisites_courses": [
+   "LING 289A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 292",
+  "title": "Linguistics in the Schools",
+  "units": "0",
+  "description": "Pedagogical and sociocultural issues in teaching linguistics to K-12 students in formal and informal educational settings; designing curricular materials based on research interests; participation in collaborative hands-on teaching and mentoring.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 294",
+  "title": "Graduate Group Studies in Linguistics",
+  "units": "0",
+  "description": "Limited to small groups whose interest and needs determine the central focus.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 295",
+  "title": "Laboratory Phonetics",
+  "units": "36",
+  "description": "This course teaches students how to conduct research using an array of experimental protocols examining different aspects of articulatory production, motor control and timing in speech. Students receive training in techniques such as ultrasound, electromagnetic articulography (EMA), electroglottography (EGG), and plethysmography. Special focus will be given to constructing experimental designs fit for each methodology as well as understanding the theoretical goals that can be achieved with each of them. Our discussion will draw extensions across languages and across different types of disordered speech.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 297",
+  "title": "Graduate Studies",
+  "units": "4",
+  "description": "Graduate credit given for an upper-division course with additional work at the graduate level.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 299",
+  "title": "Topics in Applied Linguistics",
+  "units": "4",
+  "description": "Specialized topics in the study of applied linguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 500",
+  "title": "Teaching Assistant Practicum",
+  "units": "0",
+  "description": "Supervised teaching of undergraduate linguistics courses and instruction-related activities.",
+  "prerequisites_raw": "Appointment as teaching assistant and departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 505",
+  "title": "Teaching Assistant Seminar",
+  "units": "0",
+  "description": "Covers development of teaching techniques.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 591",
+  "title": "Research in Linguistics",
+  "units": "0",
+  "description": "Research under the direction of a faculty member(s).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 593",
+  "title": "Seminar Paper",
+  "units": "4",
+  "description": "The second quarter continuation of a MA-level elective course. May be taken only once during a student's career to satisfy one of the Ph.D. level seminar requirements. May not be taken as the continuation of an MA-level required course.",
+  "prerequisites_raw": "Completion of a Linguistics MA-level elective course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 593AA",
+  "title": "Seminar Paper",
+  "units": "2",
+  "description": "The second quarter continuation of a MA-level elective course. May be taken only once during a student's career to satisfy one of the Ph.D. level seminar requirements. May not be taken as the continuation of an MA-level required course.",
+  "prerequisites_raw": "Completion of a Linguistics MA-level elective course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 593SM",
+  "title": "Seminar Paper",
+  "units": "4",
+  "description": "The second quarter continuation of a MA-level elective course. May be taken only once during a student's career to satisfy one of the Ph.D. level seminar requirements. May not be taken as the continuation of an MA-level required course.",
+  "prerequisites_raw": "Completion of a Linguistics MA-level elective course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 594",
+  "title": "Graduate Group Studies in Linguistics",
+  "units": "0",
+  "description": "Limited to small groups whose interest and needs determine the central focus.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 595",
+  "title": "Lab in Linguistics",
+  "units": "2",
+  "description": "Research and professional development activities in a collaborative lab setting.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial in any area of linguistics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 597",
+  "title": "Individual Study for Master's and Ph.D.",
+  "units": "0",
+  "description": "Instructor should be student's major professor or chair of the committee.",
+  "prerequisites_raw": "Consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Instructor normally should be chair of the student's thesis committee. Only for research underlying the thesis, writing the thesis.",
+  "prerequisites_raw": "Consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Ph.D. dissertation research and preparation.",
+  "prerequisites_raw": "Instructor approval required prior to registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING W",
+  "code": "LING W 3B",
+  "title": "EMS: Academic English",
+  "units": "4",
+  "description": "Second level in a three-course series intended to develop proficiency in university-level reading and writing. Emphasizes applying critical approaches to reading, practicing writing in a variety of academic styles, and developing grammatical and lexical resources appropriate to a university setting.",
+  "prerequisites_raw": "Open to students who have a Ling 3B placement or a prerequisite of Ling 3A with a pass grade.",
+  "prerequisites_courses": [
+   "LING 3B",
+   "LING 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING W",
+  "code": "LING W 3C",
+  "title": "EMS: Academic English",
+  "units": "4",
+  "description": "Third level in a three-course series intended to develop proficiency in university-level reading and writing. Emphasizes applying critical approaches to reading, practicing writing in a variety of academic styles, and developing grammatical and lexical resources appropriate to a university setting.",
+  "prerequisites_raw": "Open to students who have a Ling 3C placement; or Linguistics 3B with a minimum grade of C.",
+  "prerequisites_courses": [
+   "LING 3C",
+   "LING 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING W",
+  "code": "LING W 12",
+  "title": "EMS: Approaches to University Writing for Multilingual Students",
+  "units": "5",
+  "description": "Principles of critical reading, thinking and writing in the university. Students analyze academic discourse, develop rhetorical strategies for exposition and argument, practice examination writing, and write and revise papers. Completion of C or better meets Entry Level Writing Requirement.",
+  "prerequisites_raw": "Open to students who have not satisfied the Entry Level Writing Requirement and have a Ling 12 placement or a prerequisite of Ling 3C with a grade of C or better.",
+  "prerequisites_courses": [
+   "LING 12",
+   "LING 3C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING W",
+  "code": "LING W 15",
+  "title": "Language in Life",
+  "units": "5",
+  "description": "Overview of language and its role in communities at home and around the world. The diversity and history of languages; their norms, conventions, and written traditions; the role of language in culture and identity; language rights and multilingualism, and the implications of technology for language use.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING W",
+  "code": "LING W 106",
+  "title": "Introduction to Phonetics",
+  "units": "4",
+  "description": "An introduction to the articulatory and acoustic properties of speech sounds. Survey of speech sounds found in the languages of the world. Emphasis on ear training and transcription using the International Phonetic Alphabet.",
+  "prerequisites_raw": "Department approval to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING W",
+  "code": "LING W 129",
+  "title": "Sign Languages and Signing Communities",
+  "units": "4",
+  "description": "An introduction to the linguistics of sign languages and signing communities, including early and current perceptions of deaf people and sign languages. Covers the emergence of sign languages and signing communities as well as the linguistic structures, sociolinguistic contexts, and acquisition of sign languages.",
+  "prerequisites_raw": "Linguistics 20",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ }
+]

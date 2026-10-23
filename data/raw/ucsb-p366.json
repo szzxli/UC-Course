@@ -1,0 +1,329 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 105",
+  "title": "Field and Laboratory Methods in Ethnomusicology",
+  "units": "4",
+  "description": "The development and execution of field research designs. Practical field experience using various techniques of data collection and management including music recording, photography, filming, questionnaires, and interviewing. The use and interpretation of standard and innovative laboratory methods for processing data, including computer analysis.",
+  "prerequisites_raw": "Music 176 or consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 176"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 106A",
+  "title": "Orchestration",
+  "units": "2",
+  "description": "The study of orchestration through written work and analysis.",
+  "prerequisites_raw": "Music 5C or equivalent.",
+  "prerequisites_courses": [
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 106B",
+  "title": "Orchestration",
+  "units": "2",
+  "description": "The study of orchestration through written work and analysis.",
+  "prerequisites_raw": "MUS 5C or equivalent and Music 106A.",
+  "prerequisites_courses": [
+   "MUS 5C",
+   "MUS 106A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 106C",
+  "title": "Orchestration",
+  "units": "2",
+  "description": "The study of orchestration through written work and analysis.",
+  "prerequisites_raw": "Music 5E or equivalent and Music 106B.",
+  "prerequisites_courses": [
+   "MUS 106B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 108",
+  "title": "Advanced Composition",
+  "units": "0",
+  "description": "Individual instruction in composition. Assignments using small and large forms.",
+  "prerequisites_raw": "Music 5C or equivalent, passing of sophomore composition portfolio and consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109CA",
+  "title": "Introduction to Interactive Audio",
+  "units": "4",
+  "description": "An introductory course in interactive music technology. Through technical instruction, critical reflection, and original work in Max, a visual programming environment, students investigate the influence of personal computing, digital media, and interactivity on electronic music and sonic art.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109IA",
+  "title": "Direct Digital Synthesis, Processing and Composition",
+  "units": "3",
+  "description": "First quarter of general purpose computing for computer music applications. Topics include: introduction to the UNIX operating system and the VI editor, music synthesis using C-music program and score input programs.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109IB",
+  "title": "Direct Digital Synthesis, Processing and Composition",
+  "units": "3",
+  "description": "Series concentrating on computer instrument design using C-based computer music software and exploring synthesis applications of frequency modulation, amplitude modulation, additive/substractive synthesis, etc., computer processing of sound, and computer music composition.",
+  "prerequisites_raw": "Music 109IA.",
+  "prerequisites_courses": [
+   "MUS 109IA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109L",
+  "title": "Real-Time Digital Synthesis, Processing, and Composition",
+  "units": "2",
+  "description": "An introductory course on electroacoustic music. Historical perspective. Analysis of different types of electronic/acousmatic/mixed compositions. Introduction to different techniques of sound transformation.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109LA",
+  "title": "Real-Time Digital Synthesis, Processing and Composition.",
+  "units": "2",
+  "description": "First quarter of a 3-quarter series course in real-time digital synthesis and composition will concentrate on multi-track recording, mixing, digital signal processing using micro-computers and special purpose DSP equipment for music composition.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109LB",
+  "title": "Real-Time Digital Synthesis, Processing and Composition",
+  "units": "2",
+  "description": "Second quarter of a 3-quarter series course will concentrate on digital synthesis (primarily frequency modulation, simple and complex; but also amplitude modulation and additive synthesis) using micro-computers, digital synthesizers and processing equipment for music composition.",
+  "prerequisites_raw": "Music 109LA.",
+  "prerequisites_courses": [
+   "MUS 109LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109LC",
+  "title": "Real-Time Digital Synthesis, Processing and Composition",
+  "units": "2",
+  "description": "Third quarter of a 3-quarter series course will concentrate on real-time computer music composition with micro-computers and digital synthesis/processing equipment.",
+  "prerequisites_raw": "Music 109LB.",
+  "prerequisites_courses": [
+   "MUS 109LB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109N",
+  "title": "Special Topics in Computer Music and Digital Signal Processing",
+  "units": "3",
+  "description": "Advanced topics in computer music composition, synthesis and digital signal processing.",
+  "prerequisites_raw": "Music 109LA-B-C or 109IA-B.",
+  "prerequisites_courses": [
+   "MUS 109LA",
+   "MUS 109IA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 109TA",
+  "title": "Introduction to Visual Music",
+  "units": "2",
+  "description": "Introductory course on Visual Music. Historical perspective. Intro to Final Cut Pro, After Effects, Cinema 4D and other visual music composition software. Several short exercises will be required.",
+  "prerequisites_raw": "MUS 109IA; or, MUS 109LA; or, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 109IA",
+   "MUS 109LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 111C",
+  "title": "Contemporary Theories of Music",
+  "units": "4",
+  "description": "Examines how modern technologies and acoustical thought reshaped composition, moving from notation toward sound as structure, material, and expressive force.",
+  "prerequisites_raw": "Theory experience equivalent to Music 5 series. Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 111D",
+  "title": "Seminar in Music Creation",
+  "units": "2",
+  "description": "A shared studio for exchanging ideas, works-in-progress, and research. Students shape the agenda, engaging in critique, experimentation, and collaboration across styles and technologies to expand their creative practices.",
+  "prerequisites_raw": "Instructor approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 112A",
+  "title": "History of Western Music and its Global Circulations, 1545-1745",
+  "units": "4",
+  "description": "Explores history of western music and its global circulations from Renaissance through Enlightenment (1545-1745). Topics include musicians’ careers and social life; spirituality; gender, race, emerging subjectivity; music for public stages; commercialism; colonialism; popular music practices. Western music notation experience required.",
+  "prerequisites_raw": "Music 12 and/or Music 15.",
+  "prerequisites_courses": [
+   "MUS 12",
+   "MUS 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 112B",
+  "title": "History of Western Music and its Global Circulations, 1745-1848",
+  "units": "4",
+  "description": "Explores history of western music and its global circulations 1748-1848. Topics include a range of composers/performers/listeners and how conceptions of musical practices were shaped by socio-political context, colonialism, class, gender, race, religion, economics. Western music notation experience required.",
+  "prerequisites_raw": "Music 12 and/or Music 15.",
+  "prerequisites_courses": [
+   "MUS 12",
+   "MUS 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 112C",
+  "title": "History of Western Music and its Global Circulations, 1848-1945",
+  "units": "4",
+  "description": "Explores history of western music and its global circulations 1848-1945, including its philosophical, artistic, and social contexts. Topics include nationalism; late romanticism and limits tonality; modernism; impact of popular music on western classical music; neoclassicism. Western music notation experience required.",
+  "prerequisites_raw": "Music 12 and/or Music 15.",
+  "prerequisites_courses": [
+   "MUS 12",
+   "MUS 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 113A",
+  "title": "The History of Opera: 1600-1800",
+  "units": "4",
+  "description": "An overview of the history of opera from 1600-1800, placing selected works within a social context, and viewing opera as a musical work, dramatic spectacle, and cultural commodity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 113B",
+  "title": "The History of Opera: 1800-1960",
+  "units": "4",
+  "description": "An overview of the history of opera from 1800-1960, placing selected works within a social context, and viewing opera as a musical work, dramatic spectacle, and cultural commodity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 114",
+  "title": "Music and Popular Culture in America",
+  "units": "4",
+  "description": "A survey of the relationships between music and popular culture in America. Music to be discussed includes blues, jazz, and rock, as well as classical music. Emphasis is on cultural, rather than technical aspects of music.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 115",
+  "title": "Symphonic Music",
+  "units": "4",
+  "description": "A study of selected symphonic works.",
+  "prerequisites_raw": "Music 15 or Music 3A. Music 3A may be taken concurrently.",
+  "prerequisites_courses": [
+   "MUS 15",
+   "MUS 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 116",
+  "title": "American Music History: From the Colonial Period to the Present",
+  "units": "4",
+  "description": "An overview of the varieties of American musical experience from the Colonial period to the present. Representative works from several genres are studies with a view to placing them in their cultural context and identifying major aesthetic issues.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 116X",
+  "title": "American Experimental Music: John Cage and After",
+  "units": "4",
+  "description": "A survey of the American experimental tradition in music and related arts, starting with John Cage and continuing through generations of those have followed in his path through the present day. Students will read primary sources by these artists as well as secondary literature from theoretical and historical perspectives; course activities will also include study and discussion of experimental artworks, written responses, and creative activities.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 117",
+  "title": "Music and the Mind",
+  "units": "4",
+  "description": "Introduction to the psychology of music. Topics include music perception and cognition, learning and memory, emotion and meaning, music and language, music and the brain, emergence and development of skills, perspectives from social and cultural psychology, well-being and therapy, and others.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 118A",
+  "title": "History and Literature of Great Composers in Western Music",
+  "units": "4",
+  "description": "A survey of the life and stylistic development of the music of an individual composer selected from the fourteenth to the twentieth century. A) Ludwig van Beethoven; B) J.S. Bach; C) Wolfgang Amadeus Mozart; D) Frederic Chopin; E) Joseph Haydn; F-Z) other composers.",
+  "prerequisites_raw": "Music 15. For the non-major.",
+  "prerequisites_courses": [
+   "MUS 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 118W",
+  "title": "Women’s Voices in Western Music History, from Barbara Strozzi to Beyoncé",
+  "units": "4",
+  "description": "Examines women’s musical practices from the past millennium to rethink narratives of Western music, past and present. We study musicians from the Middle Ages onward to examine and challenge feminine archetypes in Western music.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 119A",
+  "title": "Music and Politics",
+  "units": "4",
+  "description": "A study of the interaction between music and politics from the fourteenth century to the present. Includes discussion of relevant art from each period.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ }
+]

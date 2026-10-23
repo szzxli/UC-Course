@@ -1,0 +1,362 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 245BR",
+  "title": "Brass Orchestral Repertoire",
+  "units": "2",
+  "description": "Intensive exploration of staple brass orchestra repertoire, emphasizing the works of important 19th and 20th century composers. Classes include rehearsal sessions, guided listening and analysis, mock auditions, resume and taped audition preparation.",
+  "prerequisites_raw": "Graduate standing; by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 245H",
+  "title": "Horn Ensemble.",
+  "units": "2",
+  "description": "Horn Ensemble.",
+  "prerequisites_raw": "By audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 246",
+  "title": "Clarinet Choir.",
+  "units": "2",
+  "description": "Clarinet Choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 247S",
+  "title": "Jazz Ensemble.",
+  "units": "2",
+  "description": "Jazz Ensemble.",
+  "prerequisites_raw": "Admission by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 248S",
+  "title": "Collegium Musicum: Musica Antiqua",
+  "units": "2",
+  "description": "Performance workshop in medieval and renaissance music. Specializes in instrumental and solo vocal music.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 249",
+  "title": "Percussion Ensemble.",
+  "units": "2",
+  "description": "Percussion Ensemble.",
+  "prerequisites_raw": "Admission by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 252",
+  "title": "Violin Ensemble",
+  "units": "2",
+  "description": "A course designed for violin students which explores repertoire for multiple violins.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 253",
+  "title": "Viola Choir",
+  "units": "2",
+  "description": "The Viola Choir studies literature written or arranged for viola ensemble, perfecting elements of technique, intonation and interpretation. Works prepared by the Viola Choir will be performed in public and in studio recitals.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 254",
+  "title": "Cello Choir",
+  "units": "2",
+  "description": "The cello choir studies cello literature in depth, including duos, trios, quartets and larger cello ensemble works. Cellists work together on blend of sound, perfecting technique and intonation, as well as balance.The choir prepares works for public performances.",
+  "prerequisites_raw": "Admission by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: A. American Folk Music; I. Indian music; J. Beginning Gamelan; M. Middle East Ensemble; P. West African Drumming; V. Gospel Choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270A",
+  "title": "Ethno Ensemble - American Folk Music",
+  "units": "2",
+  "description": "Group performance of music from America.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270I",
+  "title": "Ethnomusicology Performance Ensemble: Music of India: Sitar",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: i. Indian music.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270J",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: Gamelan.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270L",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: A. American Folk Music; I. Indian music; J. Beginning Gamelan; K. Advanced Gamelan; M. Middle East Ensemble; P. West African Drumming; V. Gospel Choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270M",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: m. Middle East choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270N",
+  "title": "Middle East Chorus",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: i. Indian music; j. Beginning gamelan; k. Advanced gamelan m. Middle East ensemble. n. Middle East chorus v. Gospel choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270S",
+  "title": "Afro-Brazilian Ensemble",
+  "units": "2",
+  "description": "The ensemble will study a variety of Brazilian musical forms sharing a strong African influence with complex layers of interlocking syncopation, melodies emerging from the alternation of various drums, and a distinctively heavy swing.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270SJ",
+  "title": "Ethnomusicology Performance Ensemble: Son Jarocho",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: Son Jarocho.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270T",
+  "title": "Ethnomusicology Performance Ensemble: Mariachi",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: Mariachi.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270V",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: v. Gospel Choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 270Z",
+  "title": "Ethnomusicology Performance Ensemble",
+  "units": "2",
+  "description": "Group performance of music from selected world cultures: i. Indian music; j. Beginning gamelan; k. Advanced gamelan m. Middle East choir v. Gospel choir.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Music Composition.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 15",
+  "title": "Music Colloquium",
+  "units": "0",
+  "description": "Students receiving credit will present talks in their fiel on material arranged in consultation with the instructor. Credit assigned by the instructor will reflect the extent and quality of participation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 101",
+  "title": "Individual Instruction in Composition",
+  "units": "0",
+  "description": "Individual instruction in composition, usually for one hour per week.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 102",
+  "title": "Analysis: Materials",
+  "units": "0",
+  "description": "Small group instruction in theoretical subjects (harmony, composition, orchestration, etc.).",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 103",
+  "title": "Analysis: Forms",
+  "units": "0",
+  "description": "Small group instruction in musical forms and their development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105",
+  "title": "Special Topics in Music Composition",
+  "units": "0",
+  "description": "Individual or small group instruction in selected subjects related to the study of Music Composition, including but not limited to individual composers and their works, special compositional techniques, performance projects, and topics in technological applications to music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105AC",
+  "title": "Algorithmic Composition with Max/MSP",
+  "units": "0",
+  "description": "A formalized journey into the basics of algorithmic composition, using Max/MSP as a tool to aid the artist and engineer alike. We explore how simple algorithmic models can provide intriguing sonic results across all genres. These methods are not only useful for schematic problem solving but can also be good for expanding musical and creative thinking.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105AS",
+  "title": "Art Song",
+  "units": "0",
+  "description": "Explorations of text setting, repertory, effective accompaniments. Content will vary by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105CG",
+  "title": "The Classical Guitar in Contemporary Composition",
+  "units": "0",
+  "description": "A survey of modern classical guitar repertoire, considering the very nature of the genre and its relationship to popular music, the classical tradition, and contemporary composition at large. Classes consist of active listening, discussion, and score-study. The culmination is a short, original classical guitar composition. A background in music helpful, but no specific experience is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105EG",
+  "title": "The Electric Guitar in Contemporary Composition",
+  "units": "0",
+  "description": "A survey of modern electric guitar repertoire, considering the very nature of the genre and its relationship to rock, classical, and contemporary composition at large. Classes consist of active listening, discussion, and score-study. The culmination is a short, original electric guitar composition. A background in music helpful, but no specific experience is required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105FT",
+  "title": "Favorite Things",
+  "units": "0",
+  "description": "Students will analyze and present their favorite works, whether acoustic or electronic; tonal or atonal or serial; chamber or orchestral or vocal. Subsequently, students will write music of their own, based on a single, well-defined element from the works they admire.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105LL",
+  "title": "Language Lost: Music Creation and the Destruction of Meaning",
+  "units": "0",
+  "description": "How can composers maintain expressiveness in vocal music when specific meanings are elusive? We will focus on the manipulation of sound/speech qualities such as pitch, rhythm, phrasing, timbre, and tempo. Our multidisciplinary approach aims to both create and deconstruct language, exploring new technologies to enhance individual expression and innovate in musical communication.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105LM",
+  "title": "Landscape Music",
+  "units": "0",
+  "description": "A study of music written in response to the natural and the built landscape(s) around us.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105MR",
+  "title": "1960S MUSICAL REVOLUTIONARIES: MILES DAVIS, JIMI HENDRIX, YOKO ONO, AND KARLHEINZ STOCKHAUSEN",
+  "units": "0",
+  "description": "Delves into the iconic 1960s, exploring the revolutionary impact of major figures Miles Davis, Jimi Hendrix, Yoko Ono, and Karlheinz Stockausen in their particular and overlapping domains. It offers a mix of music history and performative collaboration, welcoming students from all disciplines, regardless of their musical background.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105MT",
+  "title": "CCS Musical",
+  "units": "0",
+  "description": "Collaborative class for the creation of new musical theater works. Content will vary by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

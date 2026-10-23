@@ -1,0 +1,460 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 119B",
+  "title": "Music in Political Films",
+  "units": "4",
+  "description": "Survey of some of the major films in the political film genre (1916-2007) in addition to readings on the political/ historical topic. Will learn basic terminology and techniques of analysis for film music.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 120A",
+  "title": "Orchestral Conducting",
+  "units": "2",
+  "description": "An introduction to fundamentals of orchestral conducting and score reading.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 120B",
+  "title": "Choral Conducting",
+  "units": "2",
+  "description": "An introduction to the fundamentals of choral conducting and score reading.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 120C",
+  "title": "Advanced Conducting",
+  "units": "1",
+  "description": "Applied instruction in choral or orchestral conducting.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 120T",
+  "title": "Choral Techniques",
+  "units": "2",
+  "description": "Aspects of choral techniques; including: development of concert programs and rehearsal plans, rehearsal procedures, types of vocal ensembles and seating configurations, acoustical considerations, performance and recording procedures, long-term programming and artistic development, social and organizational aspects of vocal ensemble.",
+  "prerequisites_raw": "Music 120B (may be taken concurrently) and consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 122",
+  "title": "Practicum in World Music Performance",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: the Middle Eastern oud (lute) nay (end-blown flute), Middle Eastern percussion, and dastgah (Persian melodic modes).",
+  "prerequisites_raw": "Upper-divison standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 122G",
+  "title": "Practicum in World Music Performance",
+  "units": "1",
+  "description": "Applied instruction in Gamelan instruments and the Tarling musical style of Indonesia.Prerequisite of minimum one quarter in the UCSB Gamelan Ensemble Music A 70J/170J/270J added.",
+  "prerequisites_raw": "Upper-divison standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 122M",
+  "title": "Practicum in World Music Performance: Arabic Maqam.",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: the Arabic maqam, the system of melodic modes used in traditional Arabic music.",
+  "prerequisites_raw": "Upper-divison standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 122N",
+  "title": "Practicum in World Music Performance",
+  "units": "1",
+  "description": "Applied instruction in Nay(Middle-Eastern Flute).",
+  "prerequisites_raw": "Upper-divison standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 122O",
+  "title": "Practicum in World Music Performance: oud",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: the Middle Eastern oud (lute).",
+  "prerequisites_raw": "Upper-divison standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 122P",
+  "title": "Practicum in World Music Performance: Middle Eastern percussion",
+  "units": "1",
+  "description": "Applied instruction in Middle Eastern percussion.",
+  "prerequisites_raw": "Upper-divison standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 122X",
+  "title": "Practicum in World Music Performance",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments.",
+  "prerequisites_raw": "Upper-divison standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 124",
+  "title": "Advanced Carillon",
+  "units": "1",
+  "description": "Applied instruction on Carillon (bells in bell tower) performance.",
+  "prerequisites_raw": "Consent of instructor. At least 3 quarters of Music 24.",
+  "prerequisites_courses": [
+   "MUS 24"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 125",
+  "title": "Advanced Voice",
+  "units": "0",
+  "description": "Advanced voice lessons.",
+  "prerequisites_raw": "Passing of voice sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 126A",
+  "title": "Advanced Double Bass",
+  "units": "0",
+  "description": "Advanced double bass lessons.",
+  "prerequisites_raw": "Passing of double bass sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 126B",
+  "title": "Advanced Cello",
+  "units": "0",
+  "description": "Advanced cello lessons.",
+  "prerequisites_raw": "Passing of cello sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 126C",
+  "title": "Advanced Classical Guitar",
+  "units": "0",
+  "description": "Advanced classical guitar lessons.",
+  "prerequisites_raw": "Passing of guitar sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 126D",
+  "title": "Advanced Viola",
+  "units": "0",
+  "description": "Advanced viola lessons.",
+  "prerequisites_raw": "Passing of viola sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 126E",
+  "title": "Advanced Violin",
+  "units": "0",
+  "description": "Advanced violin lessons.",
+  "prerequisites_raw": "Passing of violin sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 127A",
+  "title": "Advanced Bassoon",
+  "units": "0",
+  "description": "Advanced bassoon lessons.",
+  "prerequisites_raw": "Passing of bassoon sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 127B",
+  "title": "Advanced Clarinet",
+  "units": "0",
+  "description": "Advanced clarinet lessons.",
+  "prerequisites_raw": "Passing of clarinet sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 127C",
+  "title": "Advanced Flute",
+  "units": "0",
+  "description": "Advanced flute lessons.",
+  "prerequisites_raw": "Passing of flute sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 127D",
+  "title": "Advanced Oboe",
+  "units": "0",
+  "description": "Advanced oboe lessons.",
+  "prerequisites_raw": "Passing of oboe sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 128A",
+  "title": "Advanced French Horn",
+  "units": "0",
+  "description": "Advanced french horn lessons.",
+  "prerequisites_raw": "Passing of french horn sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 128B",
+  "title": "Advanced Trombone",
+  "units": "0",
+  "description": "Advanced trombone lessons.",
+  "prerequisites_raw": "Passing of trombone sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 128C",
+  "title": "Advanced Trumpet",
+  "units": "0",
+  "description": "Advanced trumpet lessons.",
+  "prerequisites_raw": "Passing of trumpet sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 128D",
+  "title": "Advanced Tuba",
+  "units": "0",
+  "description": "Advanced tuba lessons.",
+  "prerequisites_raw": "Passing of tuba sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 129",
+  "title": "Advanced Percussion",
+  "units": "0",
+  "description": "Advanced percussion lessons.",
+  "prerequisites_raw": "Passing of percussion sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 133",
+  "title": "Advanced Piano",
+  "units": "0",
+  "description": "Advanced piano lessons.",
+  "prerequisites_raw": "Passing of piano sophomore audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 135A",
+  "title": "Piano Accompanying",
+  "units": "2",
+  "description": "An advanced study of accompaniment repertoire and performance (artsong, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 135B",
+  "title": "Piano Accompanying",
+  "units": "2",
+  "description": "An advanced study of accompaniment repertoire and performance (artsong, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 135C",
+  "title": "Piano Accompanying",
+  "units": "2",
+  "description": "An advanced study of accompaniment repertoire and performance (artsong, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 135D",
+  "title": "Piano Accompanying",
+  "units": "2",
+  "description": "An advanced study for accompaniment repertoire and performance (artsong, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 135E",
+  "title": "Piano Accompanying",
+  "units": "2",
+  "description": "An advanced study for accompaniment repertoire and performance (artsong, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 135F",
+  "title": "Piano Accompanying",
+  "units": "2",
+  "description": "An advanced study for accompaniment repertoire and performance (artsong, instrumental literature, orchestral transcriptions, sight-reading).",
+  "prerequisites_raw": "Music 33 (may be taken concurrently); or, Piano and Accompanying emphasis majors only; and, consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 150",
+  "title": "Opera/Song Repertoire",
+  "units": "2",
+  "description": "A detailed study of operatic literature and concert literature (lieder, melodies, songs, and pieces with instruments). The interpretation of vocal music as a preparation for performance.",
+  "prerequisites_raw": "Music 25 or 33.",
+  "prerequisites_courses": [
+   "MUS 25",
+   "MUS 33"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 151",
+  "title": "Vocal and Instrumental Coaching",
+  "units": "1",
+  "description": "Musical preparation of vocal or instrumental works.",
+  "prerequisites_raw": "Concurrent upper-division vocal or instrumental study (Music 125-129).",
+  "prerequisites_courses": [
+   "MUS 125",
+   "MUS 129"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 152",
+  "title": "Vocal & Instrument Coaching Supervision",
+  "units": "1",
+  "description": "Music preparation of vocal or instrumental works from a coach/accompanist. Coaches and accompanists are assigned by a faculty member.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 153",
+  "title": "Viola Orchestral Repertoire",
+  "units": "1",
+  "description": "The study of the entire standard orchestral repertoire for viola, and audition procedures.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 154",
+  "title": "Acting for Singers",
+  "units": "3",
+  "description": "Study of techniques and practice of acting on the stage for singers as preparation for performing operatic roles, in lecture and workshop settings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 158A",
+  "title": "Diction",
+  "units": "1",
+  "description": "English diction.",
+  "prerequisites_raw": "Music 25.",
+  "prerequisites_courses": [
+   "MUS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 158B",
+  "title": "Diction",
+  "units": "1",
+  "description": "Italian diction.",
+  "prerequisites_raw": "Music 25.",
+  "prerequisites_courses": [
+   "MUS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 158C",
+  "title": "Diction",
+  "units": "1",
+  "description": "German diction.",
+  "prerequisites_raw": "Music 25 or equivalent.",
+  "prerequisites_courses": [
+   "MUS 25"
+  ]
+ }
+]

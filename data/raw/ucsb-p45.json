@@ -1,0 +1,315 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 249",
+  "title": "Music and Literature",
+  "units": "4",
+  "description": "Study of interrelations of music and literature, with emphasis on modernist interest in using principles from one art to guide creation in the other. Literary texts from Symbolists to Beckett and Burgess; theory: Aristotle to Adorno; music: from Wagner to S. Reich.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 252",
+  "title": "Aesthetics",
+  "units": "4",
+  "description": "Readings range from german aesthetic philosophy (Kant, Hegel, Schiller, F.W. Schlegel, Schopenhauer, Nietzche) to postmodernist response to the death of art, and deal not only with attitude, taste, and quality, but their recent transformations into scanning, estragement, shock, etc.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 253",
+  "title": "Techno Theory",
+  "units": "4",
+  "description": "With the advent of the new media technologies and the \"new\" discourse on technology associated with Freud and Heidegger, critical discourse has finally met its match and maker in the machine.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 260",
+  "title": "Literary Translation: Theory and Practice",
+  "units": "4",
+  "description": "Examination of translation and the canon, questioning the hierarchical division between translation and original, illustrating the concept of the original as translation and the literary text as \"work-in-progress\" in which translation forms part of the creative process.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 265",
+  "title": "Studies in Renaissance Literature: Comparative Study of Early Modern European Literature",
+  "units": "4",
+  "description": "Topics and content will vary and may include: the place of the domestic in early modern european drama and painting, petrarchism and the formation of national literatures in Spain, France, and England, and renaissance fiction from More to Cervantes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 279",
+  "title": "Contemporary Theory in Translation",
+  "units": "4",
+  "description": "Survey of contemporary theory: structuralism and poststructuralism; psychoanalysis and trauma studies; gender and queer studies; ethnic, indigenous, post-colonial, and transnational studies; cognition, emotion, affect; the biological and the ecological turns. In English.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 280",
+  "title": "Media Techniques of Wonder",
+  "units": "4",
+  "description": "Media Techniques of Wonder is focused on themes of media archaeology and their emergent literary context. The exchange between literature and media techniques serves as the focus, with literary texts creating a basis for real and imagined media technologies that radically reshape literary practices. Historical devices will serve as a basis along with visits to media collections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 591",
+  "title": "Teaching Assistant Practicum",
+  "units": "4",
+  "description": "Supervised teaching of lower-division comparative literature courses at UCSB. Participation in occasional workshops related to the field of teaching will be required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 592",
+  "title": "Academic Presentation and Writing in World Literature",
+  "units": "0",
+  "description": "Focus on presentations at scholarly meetings and writing for publication in scholarly journals in comparative/world literature. Individualized meetings or small-group workshop format.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 594",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 595",
+  "title": "Doctoral Colloquium",
+  "units": "1",
+  "description": "Seminar provides support for graduate students when developing their dissertation prospectus and focuses on research in the literary humanities at a practical level.",
+  "prerequisites_raw": "Graduate Students Only",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. A written proposal for each tutorial must be approved by the program chair.",
+  "prerequisites_raw": "Minimum of two units per quarter. Letter grade only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 596TS",
+  "title": "Translation Studies Independent Studies",
+  "units": "0",
+  "description": "Individual reading and research. A written proposal for each tutorial must be approved by the faculty emphasis adviser.",
+  "prerequisites_raw": "Comparative Literature 260 or approval of the emphasis adviser.",
+  "prerequisites_courses": [
+   "C LIT 260"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 597",
+  "title": "Individual study for M.A. Comprehensive and Ph.D. Exams",
+  "units": "0",
+  "description": "For individual study with major professor or chair or director of student'sprogram.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research and writing of the master's thesis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "For research and writing of the doctoral dissertation. Instructor should be chair of the student's doctoral committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LITW",
+  "code": "C LITW 40",
+  "title": "Young Humans: Introduction to Childhood Studies",
+  "units": "4",
+  "description": "An introduction to interdisciplinary approaches to understanding and analyzing childhood and youth, including history of childhood, and childrens literature research, this course considers the role of childhood in human life, its construction across different periods and regions, different disciplinary perspectives on childhood, and contemporary approaches to deepening the understanding of children and their own views. By examining key critical texts, it considers childhood through multiple disciplinary perspectives, as well as childrens own co-creation of the performance of childhood and childrens voice, agency, activism, and rights.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 4",
+  "title": "CHEM ENGR ANALYSIS",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 5",
+  "title": "Introduction to Chemical Engineering Design",
+  "units": "3",
+  "description": "Introduction to the design and analysis of processes involving chemical change in the context of chemical and biomolecular engineering. Students learn mathematical, empirical, and conceptual strategies to analyze chemical processes to assess product quality, economics, safety, and environmental issues. Focus topics include an overview of chemical and biomolecular engineering, evaluating and analyzing data, flowsheets, material and energy balances, economics, and unit operations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 10",
+  "title": "Material and Energy Balances",
+  "units": "3",
+  "description": "Elementary principles and problem solving skills required for quantitative analysis of chemical processes. Topics to be covered include macroscopic material and energy balances, reaction stoichiometry, elementary thermodynamics, and phase equilibria associated with chemical engineering processes and unit operations.",
+  "prerequisites_raw": "Chemical Engineering 5 (may be taken concurrently); Chemistry 1A-B or 3A-B; Mathematics 2A or 3A, Mathematics 2B or 3B and Mathematics 4A or 4AI",
+  "prerequisites_courses": [
+   "CH E 5",
+   "CHEM 1A",
+   "MATH 2A",
+   "MATH 2B",
+   "MATH 4A",
+   "CHEM 3A",
+   "MATH 3A",
+   "MATH 3B",
+   "MATH 4AI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 99",
+  "title": "Introduction to Research",
+  "units": "0",
+  "description": "Directed study, normally experimental, to be arranged with individual faculty members. Course offers exceptional students an opportunity to participate in a research group.",
+  "prerequisites_raw": "Consent of instructor and undergraduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 102",
+  "title": "Biomaterials and Biosurfaces",
+  "units": "3",
+  "description": "Fundamentals of natural and artificial biomaterials and biosurfaces with emphasis on molecular level structure and function and their interactions with the body. Design issues of grafts and biopolymers. Basic biological, biophysical and biochemical systems reviewed for nonbiologists.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 107",
+  "title": "Introduction to Biological Processing",
+  "units": "3",
+  "description": "Familiarizes engineering students with biological processing and production at multiple scales. Chemical engineering principles will be infused with key biological concepts, including an introduction to biochemistry, cell biology, and molecular biology.",
+  "prerequisites_raw": "Chemical Engineering 10",
+  "prerequisites_courses": [
+   "CH E 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 110A",
+  "title": "Chemical Engineering Thermodynamics",
+  "units": "3",
+  "description": "Use of the laws of thermodynamics to analyze processes encountered in engineering practice, including cycles and flows. Equations-of-state for describing properties of fluids and mixtures. Applications, including engines, turbines, refrigeration and power plant cycles, phase equilibria, and chemical-reaction equilibria.",
+  "prerequisites_raw": "Chemical Engineering 5; Chemical Engineering 10; Mathematics 4B or 4BI.",
+  "prerequisites_courses": [
+   "CH E 5",
+   "CH E 10",
+   "MATH 4B",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 110B",
+  "title": "Chemical Engineering Thermodynamics",
+  "units": "3",
+  "description": "Extension of Chemical Engineering 110A to cover mixtures and multiphase equilibrium. Liquid-vapor separations calculations are emphasized. Introduction to equations of state for mixtures.",
+  "prerequisites_raw": "Chemical Engineering 110A with a minimum grade of C-; Mathematics 4B or 4BI.",
+  "prerequisites_courses": [
+   "CH E 110A",
+   "MATH 4B",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 118",
+  "title": "Technical Communication of Chemical Engineering",
+  "units": "1",
+  "description": "Provides an introduction to technical communication in the form of writing reports and oral presentations. Emphasis placed on how to analyze and present data; critical thinking; organization, logic and constructing a technical narrative; literature searching and citations for written reports; and how to give oral presentations. Includes various lectures on technical communication, individual and group assignments, and peer-review exercises.",
+  "prerequisites_raw": "Chemical Engineering 110A",
+  "prerequisites_courses": [
+   "CH E 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 119",
+  "title": "Current Events in Chemical Engineering",
+  "units": "1",
+  "description": "Assigned readings in technical journals on current events of interest to chemical engineers. Student groups present oral reports on reading assignments pertaining to new technologies, discoveries, industry challenges, society/government issues, professional and ethical responsibilites.",
+  "prerequisites_raw": "Chemical Engineering 110A.",
+  "prerequisites_courses": [
+   "CH E 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 120A",
+  "title": "Transport Processes",
+  "units": "4",
+  "description": "Introductory course in conceptual understanding and mathematical analysis of problems in fluid dynamics of relevance to Chemical Engineering. Emphasis is placed on performing microscopic and macroscopic mathematical analysis to understand fluid motion in response to forces.",
+  "prerequisites_raw": "Chemical Engineering 10 with a minimum grade of C- (may be taken concurrently); Mathematics 4B or 4BI; Mathematics 6A or 6AI and Mathematics 6B.",
+  "prerequisites_courses": [
+   "CH E 10",
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 6B",
+   "MATH 4BI"
+  ]
+ }
+]

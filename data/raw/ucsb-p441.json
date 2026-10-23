@@ -1,0 +1,324 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 594RS",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Research and preparation of dissertation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 597",
+  "title": "Individual Study for Master's or Ph.D. Examination for Advancement to Candidacy.",
+  "units": "0",
+  "description": "Individual study for Master's or Ph.D. examinations for advancement to candidacy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 598",
+  "title": "Master's Project Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the project; writing the project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 598AA",
+  "title": "Master's Project Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the project; writing the project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Terminal preparation of the dissertation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 599AA",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Terminal preparation of the dissertation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 1",
+  "title": "Elementary Russian",
+  "units": "5",
+  "description": "Comprehensive introduction to Russian. Focus on developing basic communicative skills (speaking, listening comprehension, reading, writing) within the framework of contemporary Russian culture. Students acquire a basic grammatical framework for further language study. Audio, visual, and web-based materials included.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 2",
+  "title": "Elementary Russian",
+  "units": "5",
+  "description": "Continuation of Russian 1. Comprehensive introduction to Russian. Focus on developing basic communicative skills (speaking, listening comprehension, reading, writing) within the framework of contemporary Russian culture. Students acquire a basic grammatical framework for further language study. Audio, visual, and web-based materials included.",
+  "prerequisites_raw": "Russian 1 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 3",
+  "title": "Elementary Russian",
+  "units": "5",
+  "description": "Continuation of Russian 2. Comprehensive introduction to Russian. Focus on developing basic communicative skills (speaking, listening comprehension, reading, writing) within the framework of contemporary Russian culture. Students acquire a basic grammatical framework for further language study. Audio, visual, and web-based materials included.",
+  "prerequisites_raw": "Russian 2 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 4",
+  "title": "Intermediate Russian",
+  "units": "5",
+  "description": "Focuses on developing fluency, expanding vocabulary, and acquiring basic reading and writing skills. Comprehensive review of basic Russian grammar; introduction to participles and verbal adverbs. Audio, video, and web-based materials are an integral part of the course.",
+  "prerequisites_raw": "Russian 3 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 5",
+  "title": "Intermediate Russian",
+  "units": "5",
+  "description": "Continuation of Russian 4. Focuses on developing fluency, expanding vocabulary, and acquiring basic reading and writing skills. Comprehensive review of basic Russian grammar; introduction to participles and verbal adverbs. Audio, video, and web-based materials are an integral part of the course.",
+  "prerequisites_raw": "Russian 4 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 6",
+  "title": "Intermediate Russian",
+  "units": "5",
+  "description": "Continuation of Russian 5. Focuses on developing fluency, expanding vocabulary, and acquiring basic reading and writing skills. Comprehensive review of basic Russian grammar; introduction to participles and verbal adverbs. Audio, video, and web-based materials are an integral part of the course.",
+  "prerequisites_raw": "Russian 5 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 8A",
+  "title": "Russian Conversation",
+  "units": "2",
+  "description": "Course designed to offer beginning and intermediate Russian language students communicative strategies needed by speakers and listeners in face-to-face interaction. Not appropriate for students with a background in spoken Russian.",
+  "prerequisites_raw": "Russian 2 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 8B",
+  "title": "Russian Conversation",
+  "units": "2",
+  "description": "Course designed to offer beginning and intermediate Russian language students communicative strategies needed by speakers and and listeners in face-to-face interaction. Not appropriate for students with a background in spoken Russian.",
+  "prerequisites_raw": "Russian 2 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 8C",
+  "title": "Russian Conversation",
+  "units": "2",
+  "description": "Course designed to offer beginning and intermediate Russian language students communicative strategies needed by speakers and listeners in face-to-face interaction. Not appropriate for students with a background in spoken Russian.",
+  "prerequisites_raw": "Russian 2 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 101A",
+  "title": "Advanced Russian",
+  "units": "4",
+  "description": "Continued development of oral and written fluency. Special attention to development of reading skills through a variety of texts related to Russian culture. Systematic review of advanced grammar. Compositions, translations, and oral presentations required. Periodic screenings of Russian films.",
+  "prerequisites_raw": "Russian 6 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 101B",
+  "title": "Advanced Russian",
+  "units": "4",
+  "description": "Continued development of oral and written fluency. Special attention to development of reading skills through a variety of texts related to Russian culture. Systematic review of advanced grammar. Compositions, translations, and oral presentations required. Periodic screenings of Russian films.",
+  "prerequisites_raw": "Russian 6 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 101C",
+  "title": "Advanced Russian",
+  "units": "4",
+  "description": "Continued development of oral and written fluency. Special attention to development of reading skills through a variety of texts related to Russian culture. Systematic review of advanced grammar. Compositions, translations, and oral presentations required. Periodic screenings of Russian films.",
+  "prerequisites_raw": "Russian 6 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 101D",
+  "title": "Advanced Russian",
+  "units": "4",
+  "description": "Continued development of oral and written fluency. Special attention to development of reading skills through a variety of texts related to Russian culture. Systematic review of advanced grammar. Compositions, translations, and oral presentations required. Periodic screenings of Russian films.",
+  "prerequisites_raw": "Russian 6 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 101E",
+  "title": "Advanced Russian",
+  "units": "4",
+  "description": "Continued development of oral and written fluency. Special attention to development of reading skills through a variety of texts related to Russian culture. Systematic review of advanced grammar. Compositions, translations, and oral presentations required. Periodic screenings of Russian films.",
+  "prerequisites_raw": "Russian 6 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 101F",
+  "title": "Advanced Russian",
+  "units": "4",
+  "description": "Continued development of oral and written fluency. Special attention to development of reading skills through a variety of texts related to Russian culture. Systematic review of advanced grammar. Compositions, translations, and oral presentations required. Periodic screenings of Russian films.",
+  "prerequisites_raw": "Russian 6 or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 110A",
+  "title": "Advanced Russian Conversation",
+  "units": "2",
+  "description": "The advanced conversation series gives advanced students an opportunity to discuss a wide variety of topics. The course is based on active participation and includes individual presentations. Assignments and testing given orally.",
+  "prerequisites_raw": "Russian 5 or equivalent (may be taken concurrently).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 110B",
+  "title": "Advanced Russian Conversation",
+  "units": "2",
+  "description": "The advanced conversation series gives advanced students an opportunity to discuss a wide variety of topics. The course is based on active participation and includes individual presentations. Assignments and testing given orally.",
+  "prerequisites_raw": "Russian 5 or equivalent (may be taken concurrently).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 110C",
+  "title": "Advanced Russian Conversation",
+  "units": "2",
+  "description": "The advanced conversation series gives advanced students an opportunity to discuss a wide variety of topics. The course is based on active participation and includes individual presentations. Assignments and testing given orally.",
+  "prerequisites_raw": "Russian 5 or equivalent (may be taken concurrently).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 121",
+  "title": "The Russian Short Story",
+  "units": "4",
+  "description": "Analysis and discussion of various forms of the short story by Russian writers.",
+  "prerequisites_raw": "Russian 6 or equivalent; and upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 122",
+  "title": "The Russian Novella",
+  "units": "4",
+  "description": "In Russian literature the novella is a genre quite distinct from the short story and the novel. All major writers of the nineteenth and twentieth centuries created important works in this form, so that a vast field for exploration and examination exists for such a genre course. Taught in Russian.",
+  "prerequisites_raw": "Russian 6 or equivalent; and upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 124",
+  "title": "Twentieth-Century Poetry",
+  "units": "4",
+  "description": "Introduction to twentieth-century Russian poetry. The \"silver age\" and Russian modernism. Avantgarde poetry. Post-war trends in Russian poetry. Readings by Briusov, Blok, Akhmatova, Mandelshtam, Esenin, Mayakovsky, Pasternak, Brodsky, and others. Readings in Russian.",
+  "prerequisites_raw": "Russian 6 or equivalent; and upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RUSS",
+  "code": "RUSS 199",
+  "title": "INDEPENDENT STUDIES",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SHS",
+  "code": "SHS 50",
+  "title": "Introduction to Communication Disorders",
+  "units": "5",
+  "description": "Description and illustration of speech, language, and hearing of children and adults with a variety of communication disorders including phonology, stuttering, voice, aphasia, language, and hearing disorders. Includes consideration of precipitating and maintaining factors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SHS",
+  "code": "SHS 120",
+  "title": "Phonemics in Communication Disorders",
+  "units": "4",
+  "description": "Identification of the phonemes of American English and their symbolic representation, including modifying symbols for deviant phonology. Acoustic, physiological, and perceptual parameters of speech sound formation.",
+  "prerequisites_raw": "Speech and Hearing Sciences 50 and Linguistics 20A.",
+  "prerequisites_courses": [
+   "SHS 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SHS",
+  "code": "SHS 121",
+  "title": "Physics of Speech and Hearing",
+  "units": "4",
+  "description": "Introduction to the physics of sound as applicable to speech and hearing sciences; classification of different sounds; properties of sound; acoustics of tubes and its relationship to human speech sounds; psychophysics of hearing: pitch, intensity, loudness and their measurement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

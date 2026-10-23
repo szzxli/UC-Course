@@ -1,0 +1,348 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 174",
+  "title": "The Hispanic Novel and Cinema",
+  "units": "4",
+  "description": "Study of three or four Hispanic novels vis-a-vis their film versions, permitting analysis of narrative in both genres, using existing films and videos based on masterpieces of Hispanic literature. Taught in Spanish.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 189",
+  "title": "Vanguard Poetry in Spanish America",
+  "units": "4",
+  "description": "A survey of the poetry of the Spanish-American avant-guarde focusing on its three main tendencies: colloquial or antipoetic poetry, existentially or politically committed poetry, and self-referential, narcissistic poetry.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 194",
+  "title": "Spanish American Women's Writing",
+  "units": "4",
+  "description": "An introduction to nineteenth- and twentieth-century Spanish American women's writings. Themes may include women's participation in the formation of national literatures, their engagement with a tradition of women's writing, and issues of authorship and authority.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 195A",
+  "title": "Senior Honors Thesis",
+  "units": "0",
+  "description": "Individual study with the advisor for the purpose of writing a major interdisciplinary research paper on a topic of sufficient depth and sophistication.",
+  "prerequisites_raw": "Admission to honors program; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 195B",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Individual study with the advisor for the purpose of writing a major interdisciplinary research paper on a topic of sufficient depth and sophistication.",
+  "prerequisites_raw": "Admission to honors program; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 195G",
+  "title": "Senior Honors Thesis",
+  "units": "4",
+  "description": "Students learn the mechanics of formulating a research problem and choose a faculty advisor, and submit a project proposal.",
+  "prerequisites_raw": "Admission to honors program; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent studies in the LAIS department.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in LAIS.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 200",
+  "title": "Introduction to Latin American and Iberian Studies",
+  "units": "99",
+  "description": "This is a year-long colloquium designed to acquaint students with current research on the main areas of Latin American and Iberian studies as well as the faculty associated with the program. Knowledge of Spanish is highly desirable.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 201",
+  "title": "Interdisciplinary Approaches to the History and Societies of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues central to the study of Latin America and Iberia across the social sciences and history. Topics may include nationalism, revolution, politics and the state, economic development and international relations, labor, popular culture, race, gender, religion, migration, environment, imperialism, colonialism.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 203",
+  "title": "Library and Archival Resources and Research in Latin American and Iberian Studies",
+  "units": "2",
+  "description": "Introduces students to information access and retrieval of primary and secondary sources in Latin American and Iberian Studies and related fields, using databases and other tools. The course discuss how software programs are not neutral tools for research but human-designed and may reflect programmers' unconscious bias, and how it is necessary to understand how they work to improve research results. Furthermore, the course explores not only how to do archival research, but how to do it ethically. At the end of the term, students will know effective ways to conduct library and archival research and become reflective scholars.",
+  "prerequisites_raw": "No Restrictions",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 222",
+  "title": "Ethnicity and Race in the Americas",
+  "units": "4",
+  "description": "Identifies different racial projects, of how ethnicity and race are understood in specific contexts. Special attention is put on the ideas of mestizaje, indigenismo and development, and the role that played in the racial projects of Latin America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 266",
+  "title": "Theories of Mestizaje: Critical Perspectives from the Americas",
+  "units": "4",
+  "description": "Mestizaje has been one of the longest racial projects in the American continent, both as a de facto phenomena and as an ideology. This course critically engages with contemporary debates. Explores Mestizaje as resistance, as well as domination.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 591",
+  "title": "Teaching Assistant Practicum",
+  "units": "4",
+  "description": "Supervised teaching of LAIS discussion sessions at UCSB.",
+  "prerequisites_raw": "TA appointment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual independent study which could include work with EAP. A written proposal for each tutorial must be approved by student's program adviser and by the department chair. The number of units that a student may take depends on the nature of the program and the consent of the adviser or the graduate committee.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 597",
+  "title": "IND STD M.A. COMP",
+  "units": "0",
+  "description": "-",
+  "prerequisites_raw": "graduate standing. no unit credit allowed toward advanced degrees.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Only for research and writing of the thesis under the direction of a faculty member in the program and with the approval of the chair.",
+  "prerequisites_raw": "Fulfillment of all graduate requirements except the thesis.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS W",
+  "code": "LAIS W 10",
+  "title": "Introduction to the Latin American and Iberian World",
+  "units": "5",
+  "description": "Introduction to issues debates, and approaches in the study of Latin America, Spain and Portugal, and the Latinx world, from an interdisciplinary perspective. Topics considered include history, culture, society, and literature from various places and times.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS W",
+  "code": "LAIS W 13",
+  "title": "Global Climate Justice from the South",
+  "units": "5",
+  "description": "This online course examines the science, policy, and politics of global climate change with an emphasis on the Global South, and a social science focus on equity and justice. Students will learn directly from expert faculty from across the UC system and beyond. In addition, students will engage with readings and multimedia content to deepen their understanding of the most pressing climate change issues and solutions. Students will be evaluated through a variety of written products (review questions, journal responses, and a final paper) in which they identify connections across seemingly disparate places. Students will gain knowledge and skills needed to identify the larger system changes needed to adequately address the climate crisis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 1",
+  "title": "Elementary Latin",
+  "units": "5",
+  "description": "The beginning course in classical Latin, and first in a three-quarter sequence introducing fundamentals of grammar, syntax, and reading skills. Concepts taught using written exercises. Interesting aspects of Ancient Roman society are introduced.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 2",
+  "title": "Elementary Latin",
+  "units": "4",
+  "description": "A continuation of Latin 1. Emphasis on mastering grammar and building vocabulary.",
+  "prerequisites_raw": "Latin 1 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 3",
+  "title": "Intermediate Latin",
+  "units": "4",
+  "description": "Continuation of Latin 2. Emphasis on building a working vocabulary and the syntax of complex sentences. Reading in classical prose introduce students to ancient Roman literature and culture.",
+  "prerequisites_raw": "Latin 2 with a grade of C or better.",
+  "prerequisites_courses": [
+   "LAIS 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 4",
+  "title": "ACCIDENCE & SYNTAX",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "LATIN 3 OR EQUIVALENT.",
+  "prerequisites_courses": [
+   "LATIN 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 21",
+  "title": "ELEMENTARY LATIN",
+  "units": "8",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 100",
+  "title": "Introduction To Latin Prose",
+  "units": "4",
+  "description": "Reading and analysis of various Latin prose authors to develop reading skills and introduce study of the style and thought of historical, rhetorical and/or philosophical writers.",
+  "prerequisites_raw": "Latin 3 with a grade of C or better.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 101",
+  "title": "Introduction To Latin Poetry",
+  "units": "4",
+  "description": "Readings in various authors (often including Catallus and Ovid) to develop reading skills, introduce an understanding of meter, and begin study of the style and thought of Latin poetry.",
+  "prerequisites_raw": "Latin 100 with a grade of C or better.",
+  "prerequisites_courses": [
+   "LAIS 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 102",
+  "title": "Readings In Latin Literature",
+  "units": "4",
+  "description": "Selected readings in Latin prose and/or poetry are designed to develop reading proficiency, and to help students make the transition to more advanced study of classical Latin literature.",
+  "prerequisites_raw": "Latin 101.",
+  "prerequisites_courses": [
+   "LAIS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 103",
+  "title": "Medieval Latin Readings",
+  "units": "4",
+  "description": "Graded and selected reading and study of medieval Latin prose and verse writers.",
+  "prerequisites_raw": "Latin 1, 2, and 3.",
+  "prerequisites_courses": [
+   "LAIS 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 111",
+  "title": "Roman Epic",
+  "units": "4",
+  "description": "Reading, translation, and discussion of authors such as Virgil and Lucan.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 112",
+  "title": "Roman Elegy",
+  "units": "4",
+  "description": "Translation and discussion of the elegiac works of Tibullus, Propertius, and/or Ovid. Consideration of the genre of elegy in its literary and historical contexts, with special attention to elegiac themes and motifs.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 113",
+  "title": "Roman Satire",
+  "units": "4",
+  "description": "Horace, Juvenal, Persius, and Martial.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 114",
+  "title": "Roman Comedy",
+  "units": "4",
+  "description": "Plautus and Terence. Reading of complete plays and study of the origins of Roman comedy.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LATIN",
+  "code": "LATIN 115",
+  "title": "The Roman Novel",
+  "units": "4",
+  "description": "Reading and study of passages from Petronius and Apuleius with attention to the language and style of their satiric novels and to their social and historical context.",
+  "prerequisites_raw": "Latin 102.",
+  "prerequisites_courses": [
+   "LAIS 102"
+  ]
+ }
+]

@@ -1,0 +1,360 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 259",
+  "title": "Projects in Visualizing Information",
+  "units": "4",
+  "description": "A project-based course focused on techniques of information retrieval and the language of algorithmic visualization. Course concentration on fundamentals of data visualization and design, with an emphasis on data query, data analysis and processing, and visualization in 2D frequency and 3D interactive spatial visualization.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 259A",
+  "title": "Projects in Visualizing Information",
+  "units": "4",
+  "description": "Project-based course focused on aesthetics of algorithmic visualization. Course concentration on fundamentals of data visualization and design, with an emphasis on data query, analysis, processing and visualization in linear, 2D frequency, and spatial map visualizations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 261A",
+  "title": "Transvergence Seminar I",
+  "units": "4",
+  "description": "Artistic, philosophical, scientific, and technical foundations of transdisciplinarity, transmodality, and Transvergence. New conceptions of actual, virtual, and informational space and form. Trans-Euclidean geometry, from Gauss to present. Emergence and immanence in algorithmic poetics and information aesthetics. Models of physical, biological, and social complex systems. Worldmaking and epistemology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 261B",
+  "title": "Transvergence Studio I",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 261C",
+  "title": "Transvergence Seminar II",
+  "units": "4",
+  "description": "Introduction to Transmodal Continuum. n-dimensional conceptions of space (and form) after Riemann. Scalar, vector, and tensor fields and beyond. Digital, physical, biological, and neurophysiological considerations in the poetics of the very small. Models of morphogenetic and evolutionary developmental emergence. World making and ontology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 261D",
+  "title": "Transvergence Studio II",
+  "units": "4",
+  "description": "Trans Architectures: The Pantopicon, Habitable Cinema, and Invisible Architectures. Multi-agent systems: Implementation of morphogenetic and developmental models of emergence. Design and implementation of everted virtual environments and eversive Worldmaking. Locative Worldmaking: linking locative media, online worlds, tracked/sensed space, and eversive virtual environments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 261E",
+  "title": "Transvergence Projects",
+  "units": "4",
+  "description": "Advanced projects course fusing all modalities of transvergence into implemented works embodying the Transmodal Continuum. Physical Worldmaking: addition of physical computing, spatial sensing, and digital fabrication to immersive, eversive, and locative Worldmaking. Worldmaking and phenomenology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 265",
+  "title": "Open Projects in Optical/Motion - Computational Processes",
+  "units": "4",
+  "description": "Student defined research projects course focused on optical, or other imaging/sensing device interfaced with a computer such as anamorphs, experiments in multiple exposure, spatial & virtual exploration, distance/presence, reflection and penetration (x-ray, infrared, medical (MRI, PET), etc.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 276IA",
+  "title": "Direct Digital Synthesis - Processing and Composition",
+  "units": "4",
+  "description": "First quarter of general purpose computing for computer music applications. Topics include: music synthesis using computer programs, and score input programs.",
+  "prerequisites_raw": "MAT majors and graduate non-majors in areas of electrical engineering, computer science, physics and math; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 276IB",
+  "title": "Direct Digital Synthesis - Processing and Composition",
+  "units": "4",
+  "description": "Second quarter of a two-quarter sequence course concentrates on computer music instrument design using music software and exploring applications of frequency modulation, additive/subtractive synthesis, digital signal processing, and computer music composition.",
+  "prerequisites_raw": "MAT 276IA.",
+  "prerequisites_courses": [
+   "MAT 276IA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 276LA",
+  "title": "Digital Audio Montage",
+  "units": "2",
+  "description": "First quarter of a three-quarter sequence course concentrates on multi-track recording, mixing, digital signal processing, and studio based composition.",
+  "prerequisites_raw": "Graduate MAT majors and graduate non-majors in areas of electrical engineering, computer science, physics and math; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 276LB",
+  "title": "Digital Audio Montage",
+  "units": "2",
+  "description": "Second quarter of a three-quarter sequence course concentrates on studio based composition.",
+  "prerequisites_raw": "MAT 276LA.",
+  "prerequisites_courses": [
+   "MAT 276LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 276LC",
+  "title": "Digital Audio Montage",
+  "units": "2",
+  "description": "Third quarter of a three-quarter sequence course concentrates on studio based composition.",
+  "prerequisites_raw": "MAT 276LB.",
+  "prerequisites_courses": [
+   "MAT 276LB"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 276N",
+  "title": "Special Topics in Electronic Music",
+  "units": "4",
+  "description": "Advanced topics in computer music composition, synthesis, and digital signal processing.",
+  "prerequisites_raw": "MAT 276LA-LB-LC.",
+  "prerequisites_courses": [
+   "MAT 276LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 293",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Offered in conjunction with selected industrial and research under direct faculty supervision. Prior departmental approval required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 294CR",
+  "title": "Presenting MAT Projects",
+  "units": "1",
+  "description": "Students develop concise descriptions and practice mock presentations that will be critiqued by faculty and peers in preparation for public exhibition of their work. Emphasis on technical and aesthetic clarity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 299",
+  "title": "Independent Study",
+  "units": "12",
+  "description": "Independent research under the guidance of a faculty member in the department. Offers an opportunity to qualified students to undertake independent research or work in a group laboratory in digital media arts and technology.",
+  "prerequisites_raw": "Consent of graduate advisor and Director of graduate studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 502",
+  "title": "Teaching in Media Art & Technology",
+  "units": "0",
+  "description": "Courses taught or assisted by T.A.'s.",
+  "prerequisites_raw": "Must be a T.A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594A",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special seminar in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594AC",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594B",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special seminar in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594C",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special seminar in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594CE",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594CP",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594D",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594E",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special seminar in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594G",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "4",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594GL",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594H",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594I",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594L",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594M",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594MP",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594O",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 244",
+  "title": "Entrepreneurial Marketing",
+  "units": "3",
+  "description": "Introduction to basic marketing concepts and how these concepts can be applied to any organization, particularly technology firms. Additionally, they will be introduced to how management of the marketing function within an organization is critical to the organizations success.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 246",
+  "title": "New Venture Finance",
+  "units": "4",
+  "description": "Provides students with the essential tools to understand and analyze financial information and financing strategies for new ventures. Major topics covered include the analyses of financial information, sources of financing, valuation models, deal structures particular to new ventures, forecasting models, capital budgeting, and risk analysis in investment decisions.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 247",
+  "title": "Organizational Teams and Talent Management",
+  "units": "3",
+  "description": "Focuses on the important link between the business and talent strategy including talent value chain, recruitment/selection, strategies for rewards/incentives, employee relations, leadership and team formation; conflict resolution, problem solving, and decision making, importance of organization culture; culture diversity and global village.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 250",
+  "title": "Operations Management",
+  "units": "3",
+  "description": "Studies the flow of materials and information necessary to effectively and efficiently supply products and or services to customers. Provides an understanding of the principles of design and management of manufacture, service and supply chain organizations, business processes and systems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 251",
+  "title": "Introductions to Patents and Intellectual Property",
+  "units": "3",
+  "description": "Provides emerging inventors, entrepreneurs, and scientists with a working knowledge of intellectual property (patents, copyrights, trademarks, and trade secrets), with the main focus being on patents. Will cover the basic functions of patents, structure of patents, and patent prosecution.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 252",
+  "title": "Decision Analysis",
+  "units": "3",
+  "description": "Introduces the fundamentals of normative and descriptive decision theory. Students will be challenged to recognize vulnerabilities, both in their personal lives and as they apply to business decisions. Through lectures, role playing and case studies, students will learn to think more critically, to develop unique tools that will help them avoid systemic errors in judgement and ultimately, how to turn an inherent flaw into a competitive advantage in the business world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 254",
+  "title": "Selling High Tech Products",
+  "units": "3",
+  "description": "Learn the art of persuasion and selling. Theory and applications of the basictenetsof persuasion and how such scientifically supported techniques can be deployed to positively impact the sales process.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 255",
+  "title": "New Product Development",
+  "units": "4",
+  "description": "New product development requires technical and non-technical business persons to work across disciplines. Instruction is provided in a wide range of topics concerning customer driven product innovation. Students learn new product development processes, tools, techniques, and organizational skills.",
+  "prerequisites_raw": "Graduate standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 256",
+  "title": "Project Management",
+  "units": "3",
+  "description": "Introduces the theory, concepts, techniques, vocabulary and practical knowledge of project management practice. Students will learn about the process groups and knowledge areas comprising PMI's Project Management Body of Knowledge. Provides a framework for conducting projects using project management principles.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 261",
+  "title": "Environmental Sustainability as a Business Strategy",
+  "units": "3",
+  "description": "Presents an opportunity to understand the environmental sustainability issues in the context of strategic technology management. Students will learn to recognize, design and implement environmental sustainability strategies to reduce costs and risks, and to capture new business opportunities. Besides the essential basics, the course covers tools and practices catering to the sustainability aspects of technology management. Current national and international issues, key protocols, regulations and market trends will be addressed in the same context.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 264",
+  "title": "Market Research for Business",
+  "units": "3",
+  "description": "Provides a high level introduction to modern marketing research. Course will cover the fundamental principles and techniques for market validation that are critical to launch, grow, and sustain a viable business.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 268A",
+  "title": "New Venture Seminar",
+  "units": "3",
+  "description": "A twice-weekly series of seminars about the creation of sustainable new business ventures from inception to launch. Intended for students participating in the TMP New Venture Competition.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 268B",
+  "title": "New Venture Seminar",
+  "units": "3",
+  "description": "Continuation of twice-weekly seminars covering the development of a validated and sustainable new business, with a focus on creating a writing business plan and oral presentation. Intended for students participating in the TMP New Venture Competition finals.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 269",
+  "title": "Creating a Market-Tested Business Model",
+  "units": "4",
+  "description": "Course will provide an experiential learning opportunity showing how a successful business model can be created through the use of the customer and market validation process.",
+  "prerequisites_raw": "Graduate standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 271",
+  "title": "Organizational Behavior",
+  "units": "4",
+  "description": "Course provides foundation knowledge in Organizational Behavior.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 272",
+  "title": "Organization Theory",
+  "units": "4",
+  "description": "Students gain exposure to various theories of organizing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 273",
+  "title": "Technology Strategy",
+  "units": "4",
+  "description": "Exposes students to a broad foundation in technology management strategy research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 274",
+  "title": "Networks and Innovation",
+  "units": "4",
+  "description": "Exploration of how organizing processes enable and constrain the development and use of technology innovations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 275",
+  "title": "Technology and Organizational Change",
+  "units": "0",
+  "description": "Examines fundamental questions and approaches to the study of technology and organizations including how organizational structures enable and constrain the development of new technologies, and how new technologies enable changes in the process of organizing. The purpose of the course is to provide students with a thorough grounding in various theoretical perspectives on technology development and use.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 276",
+  "title": "Teams and Meso-Organizational Theory",
+  "units": "0",
+  "description": "Organizational science is an interdisciplinary field that draws primarily on psychology, social psychology, sociology, and economics. As such, the field spans from what is often called “micro” (organizational behavior) to “macro” (organization theory). This course introduces students to many of the core theoretical underpinnings of what sits in the middle: “meso” organizational theories. Meso-research generally looks at intra-organizational processes, or what connects individuals and organizations. Using teams as a pro-typical example, teams are groups of individuals where the dynamics between individuals shape organizational outcomes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 280",
+  "title": "Proseminar: Theory, Research, and Practicum",
+  "units": "4",
+  "description": "Required seminar that offers current advances, foundational, integrative, and socialization content.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 281",
+  "title": "Computational Methods and Modeling",
+  "units": "4",
+  "description": "Introduces students to computational techniques for explaining and predicting individual and collective action in organizations. Students will learn about the role of computational modeling in the research process and will explore different computational techniques, including agent-based modeling and system dynamics. Students will become familiar with the use of these techniques in the literature and will develop their skills in building computational models to examine organizational research questions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 282",
+  "title": "Network Analysis",
+  "units": "4",
+  "description": "Reviews theoretical, conceptual, and analytic issues associated with network perspectives on communicating and organizing. Reviews scholarship on the science of networks in communication across a wide array of disciplines in order to take an in-depth look at theories, methods, and tools to examine the structure and dynamics of networks.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 283",
+  "title": "Qualitative Methods",
+  "units": "4",
+  "description": "Qualitative methods are increasingly common in social science fields. In this doctoral seminar, we will explore the research approaches and methodological practices associated with designing, conducting and publishing high-quality field research. We will focus on the processes of observation, interviewing, discovery, justification, theorizing, and writing. The course is relevant for those interested in conducting qualitative research (either by itself or as a mixed methods approach), as well as for readers of publications based on qualitative data. The course will be practicum-based; we will be using these techniques to collect and analyze data.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 291",
+  "title": "Special Topics in Business and Management",
+  "units": "0",
+  "description": "Courses provide for the study of topics of current interest in the areas of business, technology management, entrepreneurship, and other issues related to the management and creation of sustainable businesses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 291A",
+  "title": "Special Topics in Business and Management",
+  "units": "0",
+  "description": "Courses provide for the study of topics of current interest in the areas of business, technology management, entrepreneurship, and other issues related to the management and creation of sustainable businesses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 291B",
+  "title": "Special Topics in Business and Management",
+  "units": "0",
+  "description": "Courses provide for the study of topics of current interest in the areas of business, technology management, entrepreneurship, and other issues related to the management and creation of sustainable businesses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 291C",
+  "title": "Special Topics in Business and Management",
+  "units": "0",
+  "description": "Courses provide for the study of topics of current interest in the areas of business, technology management, entrepreneurship, and other issues related to the management and creation of sustainable businesses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

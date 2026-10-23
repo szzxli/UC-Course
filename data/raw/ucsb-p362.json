@@ -1,0 +1,322 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 269",
+  "title": "Network Systems: Dynamics and Control",
+  "units": "4",
+  "description": "Motivating socio/economic networks, power grids, multi-agent robotics. Perron-Frobenius matrix theory and algebraic graph theory. Fundamental dynamics in networks: averaging dynamics in discrete and continuous time; positive and compartmental systems; robotic coordination problems; coupled oscillator systems; virus propagation models; population dynamic models.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 271",
+  "title": "Finite Element Structural Analysis",
+  "units": "3",
+  "description": "Definitions and basic element operations displacement approach in linear elasticity. Element formulation: direct methods and variational methods. Global analysis procedures: assemblage and solution. Plane stress and plane strain. Solids of revolution and general solids. Isoparametric representation and numerical integration. Computer implementation.",
+  "prerequisites_raw": "ME 219.",
+  "prerequisites_courses": [
+   "ME 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 273",
+  "title": "Dislocation Mechanics",
+  "units": "3",
+  "description": "A rigorous review of classical dislocation theory wit the intention of understanding its behavior in real materials (as it affects mechanical and electrical properties) as well as how it is used to construct solutions to elastic boundary value problems.",
+  "prerequisites_raw": "ME 230; concurrent enrollment in ME 275.",
+  "prerequisites_courses": [
+   "ME 230",
+   "ME 275"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 275",
+  "title": "Fracture Mechanics",
+  "units": "3",
+  "description": "Analytic solutions of a stationary crack under static loading. Elastic and elastoplastic analysis. The J integral. Energy balance and crack growth. Criteria for crack initiation and growth. Dynamic crack propagation. Fatigue. The micromechanics of fracture.",
+  "prerequisites_raw": "ME 219.",
+  "prerequisites_courses": [
+   "ME 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 280",
+  "title": "Crystalline Defects",
+  "units": "3",
+  "description": "An in-depth look into the many classes of defects (e.g., point, linear, and planar) and the role they play in crystalline materials. While we cannot eliminate defects and they are usually seen as a weakness, proper understanding of defects is the best way to design stronger and better materials. Examples of the types of defects we may cover are vacancies, dislocations, grain boundaries, interfaces, and twins. We will study their formation, mobility and interaction in environments where they are commonly found, such as elevated temperatures, mechanical strains, or irradiation.",
+  "prerequisites_raw": "ME 219",
+  "prerequisites_courses": [
+   "ME 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 283A",
+  "title": "Waves in Fluids",
+  "units": "3",
+  "description": "The fundamental mechanics of water and acoustic waves. Governing equations.Wave propagation, refraction, and reflection. Noise generation. Dispersive effects; group velocity; stationary phase; ray theory. Onshore waves. Ship waves and wave resistance. Introduction to nonlinear effects; stokes limiting wave; solitons.",
+  "prerequisites_raw": "ME 152A-B or equivalent.",
+  "prerequisites_courses": [
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 285",
+  "title": "Geophysical Fluid Dynamics",
+  "units": "3",
+  "description": "The ocean-atmosphere system. Air-sea interaction governing equations for rotating system: conservation of mass, momentum and energy. Ocean surface waves: generation, spectral characteristics. Internal waves. Geostrophic motion. Rotating boundary layers: Ekman dynamics. Tides. Kelvin waves.",
+  "prerequisites_raw": "ME 152A.",
+  "prerequisites_courses": [
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 291A",
+  "title": "Physics of Transducers",
+  "units": "3",
+  "description": "The use of concepts in electromagnetic theory and solid state physics to describe capacitive, piezoresistive, piezoelectric and tunneling transduction mechanisms and analyze their applications in microsystems technology.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 292",
+  "title": "Design of Transducers",
+  "units": "4",
+  "description": "Design issues associated with microscale transduction. Electrodynamics, linear and nonlinear mechanical behavior, sensing methods, MEMS-specific fabrication rules, and layout are all covered. Modeling techniques for electromechanical systems are also discussed.",
+  "prerequisites_raw": "Graduate standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 295",
+  "title": "Group Studies: Controls, Dynamical Systems, and Computation",
+  "units": "1",
+  "description": "A series of weekly lectures given by university staff and outside experts in the fields of control systems, dynamical systems, and computation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 500",
+  "title": "Teaching Assistant Seminar",
+  "units": "1",
+  "description": "Discussion-based seminar designed to introduce new teaching assistants to the role and build practical skills for effective teaching. Recommended for all graduate students in mechanical engineering during their first year as a teaching assistant.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 501",
+  "title": "Teaching Assistant Practicum",
+  "units": "0",
+  "description": "Practical experience in the various activities associated with teaching, including lecturing, supervision of laboratories and discussion sections, preparation and grading of homework and exams.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 503",
+  "title": "Graduate Student Research Practicum",
+  "units": "0",
+  "description": "Practical experience in the various activities associated with research, including experimental work, theoretical work and analyses, and assisting department faculty and other professional researchers in their duties.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 596",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Research, either experimental or theoretical, may be undertaken by properly qualified graduate students under the direction of a faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 597",
+  "title": "Individual Study for Ph.D. Qualifying Examination",
+  "units": "0",
+  "description": "Individual studies for ph.d. qualifying examination.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "Consent of thesis adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "For research and preparation of the dissertation.",
+  "prerequisites_raw": "Consent of dissertation adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME ST",
+  "code": "ME ST 101",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME ST",
+  "code": "ME ST 102",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Topics vary per instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME ST",
+  "code": "ME ST 199",
+  "title": "Independent Studies in Medieval Studies",
+  "units": "0",
+  "description": "Special interdisciplinary study in medieval themes.",
+  "prerequisites_raw": "Upper-division standing; completion of at least two upper-division courses in medieval studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME ST",
+  "code": "ME ST 200A",
+  "title": "Interdisciplinary Approaches to Medieval Studies",
+  "units": "2",
+  "description": "Students attend and write responses to papers by visiting lecturers on topics in various fields of Medieval Studies. Themes will vary from year to year.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME ST",
+  "code": "ME ST 200B",
+  "title": "Interdisciplinary Approaches to Medieval Studies",
+  "units": "2",
+  "description": "Students attend and write responses to papers by visiting lecturers on topics in various fields of Medieval Studies. Themes will vary from year to year.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME ST",
+  "code": "ME ST 200C",
+  "title": "Interdisciplinary Approaches to Medieval Studies",
+  "units": "2",
+  "description": "Students attend and write responses to papers by visiting lecturers on topics in various fields of Medieval Studies. Themes will vary from year to year.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME ST",
+  "code": "ME ST 201",
+  "title": "Medieval Latin Paleography",
+  "units": "4",
+  "description": "Course focuses on the evolution of manuscript creation and Latin handwritings from the early Middle Ages to the Renaissance. Students transcribe a variety of texts (literary, notarial, and historical). Reading knowledge of Latin required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME W",
+  "code": "ME W 16",
+  "title": "Engineering Mechanics: Dynamics",
+  "units": "4",
+  "description": "Vectorial kinematics of particles. Coordinate systems, moving frames, relative and constrained motion. Dynamics of particles and systems of particles. Energy and momentum methods. Collisions. Planar kinematics and kinematics of rigid bodies. Energy and momentum methods for rigid body systems.",
+  "prerequisites_raw": "Physics 7A or Physics 2, and ME 14 with a minimum grade of C-, and Math 6B or Math 5C (may be taken concurrently); open to ME majors only.",
+  "prerequisites_courses": [
+   "PHYS 7A",
+   "PHYS 2",
+   "ME 14",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME W",
+  "code": "ME W 167",
+  "title": "Structural Analysis",
+  "units": "3",
+  "description": "Presents introductory matrix methods for analysis of structures. Topics include review of matrix algebra and linear equations, basic structural theorems including the principle of superposition and energy theorems, truss bar, bean and plane frame elements, and programming techniques to realize these concepts.",
+  "prerequisites_raw": "ME 15",
+  "prerequisites_courses": [
+   "ME 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MES",
+  "code": "MES 45",
+  "title": "Introduction to Middle East Studies",
+  "units": "5",
+  "description": "Surveys the peoples, cultures, and societies of the wider Middle East, focusing on social, political, cultural, and religious change. Among the concepts examined are tradition, modernity, autocracy, religious revival, gender, and ethnicity in their different regional contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MES",
+  "code": "MES 145",
+  "title": "Model Arab League",
+  "units": "4",
+  "description": "In-depth study of political, strategic, economic, cultural, and environmental issues in the Arab world as seen from the perspective of the Arab League. Each year a different Arab country is the focus. Students also practice causcusing, speaking, and drafting resolutions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MES",
+  "code": "MES 195",
+  "title": "Senior Honors Thesis",
+  "units": "0",
+  "description": "Projects for advanced work in Middle East Studies in conjunction with individual members of the faculty and developed by students. For students who wish to graduate with distinction in the Middle East Studies major.",
+  "prerequisites_raw": "Consent of instructor and department; senior standing; open to Middle East Studies majors who have a 3.5 overall GPA and a 3.75 GPA in the major",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 1A",
+  "title": "Introduction to Leadership I",
+  "units": "1",
+  "description": "Introduction to the organization, purpose, and functions of the U.S. Army. Provides the foundation in basic life skills to include fitness,interpersonal communication and ethical behavior using current Army models. Provide insight into the Army's profession of arms and officer's role within that profession.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

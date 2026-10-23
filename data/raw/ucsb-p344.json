@@ -1,0 +1,311 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 140L",
+  "title": "Recombinant DNA Methods",
+  "units": "4",
+  "description": "Basic techniques of molecular cloning. Screening of recombinant cDNA libraries, polymerase chain reaction, restriction endonucleases, gel electrophoresis, DNA sequencing, nucleic acid hybridization.",
+  "prerequisites_raw": "MCDB 101A-B and 110; or MCDB 101A-B and MCDB 108A-B-C (MCDB 108C may be taken concurrently); or MCDB 101A-B and MCDB W 108A and MCDB 108B-C (MCDB 108C may be taken concurrently). Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 101A",
+   "MCDB 108A",
+   "MCDB 108C",
+   "MCDB W 108A",
+   "MCDB 108B",
+   "MCDB 110"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 145",
+  "title": "Post-translational Protein Processing",
+  "units": "4",
+  "description": "Structure/function relationships in interesting macromolecules isolated from marine organisms. Focus is on well-characterized pathways from horseshoe crabs, abolones, mussels, and fish as well as others.",
+  "prerequisites_raw": "MCDB 108A or MCDB W 108A or CHEM 142A or CHEM W142A with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB W 108A",
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 146",
+  "title": "Stem Cell Biology in Health and Disease",
+  "units": "4",
+  "description": "Basic biology of embryonic and adult stem cells and nuclear transfer, with emphasis on latest findings from the current literature.",
+  "prerequisites_raw": "Chemistry 1A-B-C with a minimum grade of C; MCDB 1A-B, EEMB 2-3 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "MCDB 1A",
+   "EEMB 2",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 149",
+  "title": "Mariculture for the 21st Century: Research Frontiers",
+  "units": "4",
+  "description": "Recent progress and new directions in research increasing production of valuable marine animals, plants, and microorganisms. Control of reproduction, development, growth and disease in marine species; problems encountered in commercializing production; regional and biological solutions; the role of modern biotechnology.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 151",
+  "title": "Neurobiology I: Cellular Organization and Biophysics of the Nervous System",
+  "units": "4",
+  "description": "Properties of the nervous system ranging from single cells to the whole organism, using examples from vertebrates and invertebrates studied in terms of morphology, physiology, and behavior.",
+  "prerequisites_raw": "MCDB 1A and 1B. Completion of both prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 151H",
+  "title": "Neurobiology 1: Cellular Organization and Biophysics of the Nervous System - Honors",
+  "units": "1",
+  "description": "Honors section designed to permit an indepth analysis of topics relating to the properties of the nervous system ranging from single cells to the whole organism, using examples from vertebrates and invertebrates studied in terms of morphology, physiology, and behavior.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 151; consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 151"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 152",
+  "title": "Neurobiology II: Molecular and Cellular Neurobiology",
+  "units": "4",
+  "description": "This second course of a three quarter neurobiology course sequence (151/152/153) covers both top down systems level approaches and bottom up molecular approaches to major topics in neurobiology. These topics include mechanisms of sensory transduction, processing of sensory information within the brain, mechanisms of muscle control, cell signaling, neuronal plasticity, neuronal polarity, and the mapping of neural information to the brain.",
+  "prerequisites_raw": "MCDB 1A-1B and MCDB 151; completion of all prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 151",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 152H",
+  "title": "Neurobiology II: Molecular and Cellular Neurobiology - Honors",
+  "units": "1",
+  "description": "Honors seminar designed to permit an indepth consideration and analysis of both top down systems level approaches and bottom up molecular approaches to major topics in neurobiology. These topics include mechanisms of sensory transduction in at least two selected sensory systems, processing of sensory information within the brain, mechanisms of muscle control, cell signaling, neuronal plasticity, neuronal polarity, and the mapping of neural information to the brain.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 152; consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 152"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 153",
+  "title": "Neurobiology III: Developmental Neurobiology",
+  "units": "4",
+  "description": "The course begins with fertilization and moves through sequential stages in the development of the nervous system, including cell migration and differentiation, axon outgrowth and pathfinding, programmed cell death, synaptogenesis, learning, memory, neurodegenerative conditions and current strategies for neuronal regeneration.",
+  "prerequisites_raw": "MCDB 1A-1B; and, MCDB 101A or EEMB 129; completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 101A",
+   "EEMB 129",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 153H",
+  "title": "Neurobiology III: Developmental Neurobiology - Honors",
+  "units": "1",
+  "description": "Honors section designed to permit an indepth consideration and analysis of selcted topics relating to the development, maintenance, degeneratation and regeneration of the nervous system.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 153; consent of instructor.",
+  "prerequisites_courses": [
+   "MCDB 153"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 161L",
+  "title": "Research Immersion in Molecular Biosciences",
+  "units": "6",
+  "description": "Intensive laboratory course covering basic approaches to biomedical research using model systems. Students will learn laboratory techniques as well as hypothesis building, experimental design, data analysis and data presentation.",
+  "prerequisites_raw": "MCDB 1A-B with a minimum grade of B in each.",
+  "prerequisites_courses": [
+   "MCDB 1A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 170",
+  "title": "Programming in Biology",
+  "units": "4",
+  "description": "Studying complex biological systems can be greatly facilitated by modern computing technologies. This course introduces essential computer programming concepts and algorithms to biology major students. Students learn logics of programming and apply it to gene sequence analysis (bioinformatics), simulation of dynamic systems (systems biology), and data analysis (statistics in biology).",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B; and MCDB 101A or EEMB 129 (may be taken concurrently); and Pstat 5A or Pstat 5LS or Math 4A. Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "MCDB 101A",
+   "EEMB 129",
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 172",
+  "title": "Biological Dynamics",
+  "units": "4",
+  "description": "An introduction to mathematical models and computer simulations used to describe and understand time varying biological systems. Learning Objectives: Survey mathematical methods for describing the dependence on time of biological phenomena. Illustrate how to construct mathematical models to gain insights into complex biological systems. Develop working knowledge of a python code base that enables future evaluation of common classes of models applied to the study of biological dynamics.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B; and MCDB 101A or EEMB 129; and either Math 4A OR MCDB 108C. Completion of all listed prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "MCDB 101A",
+   "EEMB 129",
+   "MATH 4A",
+   "MCDB 108C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 183",
+  "title": "Introduction to Teaching in Biology",
+  "units": "0",
+  "description": "Students will assist instructor in teaching course in which the student previously received a grade of A- or better. Activities will be determined in consultation with the instructor and may include leading discussion, laboratory, or tutorial section(s), attending lectures, and grading exams.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 184",
+  "title": "Internship in Biological Sciences",
+  "units": "0",
+  "description": "Opportunity to obtain practical biological-related research experience by working under faculty direction as an intern with local, state, federal, or private agencies. A written report will be submitted for evaluation.",
+  "prerequisites_raw": "Upper-division standing; instructor and departmental approval required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 187",
+  "title": "Pharmacology Colloquia",
+  "units": "1",
+  "description": "Research seminars on current research topics in pharmacology presented by invited speakers.",
+  "prerequisites_raw": "MCDB 1A, EEMB 2 and MCDB 1B, and EEMB 3 with a minimum grade of C or better in each prereq course.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2",
+   "MCDB 1B",
+   "EEMB 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 188",
+  "title": "Literature in Plant Molecular Biology",
+  "units": "1",
+  "description": "Critical reading and presentation of the current literature in plant molecular biology, cell biology and development.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 192",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special topics of current importance in biological sciences. Course content will vary. Information may be obtained in department office.",
+  "prerequisites_raw": "Chem 1A-B-C with a minimum grade of C; MCDB 1A-B and EEMB 2 with a minimum grade of C. Upper-division standing in EEMB or MCDB and consent of instructor or department.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "EEMB 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 194",
+  "title": "Group Studies for Advanced Students",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 194A",
+  "title": "Biochemistry-Molecular Biology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 194B",
+  "title": "Biochemistry-Molecular Biology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 194BC",
+  "title": "Biochemistry/Molecular Biology",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 194BG",
+  "title": "Bacterial Genetics.",
+  "units": "2",
+  "description": "Oral reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 194CE",
+  "title": "C. Elegans Development and Behavior",
+  "units": "2",
+  "description": "Reports by students.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 194CM",
+  "title": "Dissecting the Behavior of Mosquito Disease Vectors",
+  "units": "2",
+  "description": "This course will focus on the latest developments in understanding how mosquito disease vectors find human host, and mate. The focus will be on mechanistic studies, particularly those that combine molecular genetics with behavior.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

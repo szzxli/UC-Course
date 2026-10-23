@@ -1,0 +1,270 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 137RV",
+  "title": "Revolutionary Songs, Sounds, and Stories",
+  "units": "4",
+  "description": "Revolutions have soundtracks. In moments of intense social, economic, and political upheaval, individuals and communities use music in multiple ways: as an expression of dissent, as a way to build momentum, as an expression of individual self or collective identity, as a means to navigate through seemingly incomprehensible changes. This course explores the relationship between music and revolution, focusing on examples from the United States and Europe. Our goal is to compare these historical moments so that we can explore how music simultaneously encourages, hinders, and memorializes transformative change. What do we consider to be revolutionary? Why do revolutions seem so central to the modern world?",
+  "prerequisites_raw": "Upper-division standing; or, INT 36AA-ZZ.",
+  "prerequisites_courses": [
+   "INT 36AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 137TH",
+  "title": "Think Historically: Sources and Methods in the Study of U.S. Slavery",
+  "units": "4",
+  "description": "Through studying of slavery in the United States, students gain insight into historical methods and skills, especially the analysis of primary sources. Students will analyze a variety of primary sources, including newspaper advertisements for fugitive slaves, interviews with former slaves, legal records, government reports, slave narratives, slave spirituals, material artifacts, and the diaries and letters of southern enslavers. We will think carefully about how historians have used such sources, and compare the way historians think and write about the past with other disciplines and approaches (such as literary studies).",
+  "prerequisites_raw": "Upper-division standing; or, INT 36AA-ZZ.",
+  "prerequisites_courses": [
+   "INT 36AA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 138",
+  "title": "Innovative and Interdisciplinary Learning in the Arts and Humanities",
+  "units": "5",
+  "description": "As part of the broader Arnhold Arts and Humanities Commons, Arnhold Summer Courses provide intensive opportunities to engage with compelling issues or topics from multiple disciplinary perspectives and to apply learning in concrete and tangible ways through project-based learning. Small courses foster innovative, interdisciplinary conversations and a strong sense of community.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 138CC",
+  "title": "Creative Climate Communications",
+  "units": "5",
+  "description": "Students will create three engaging ~800 word articles on local climate change actions that will be considered for publication in Blue Dot Magazine. Steps toward the article will include: learning the latest climate science, pitching to Blue Dot Magazine, and supporting an article with photography and social media publicity.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 138LA",
+  "title": "Writing With and Without Words in Latin America",
+  "units": "5",
+  "description": "How has writing been imagined in Latin America from pre-Hispanic times to the present? In this interactive, project-based course, students explore this question by studying a selection of case studies—from Mesoamerican pictograms to contemporary experimental writing—using the digital tool Telar, and various disciplinary approaches, including anthropology, history, and media studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 138ST",
+  "title": "Storytelling with Time: Rhetorical and Creative Considerations",
+  "units": "5",
+  "description": "A class on social, scientific, and narrative understandings of time and how to use those ideas to tell stories. Students will study these many different dimensions of time, read scholarly and creative texts about different concepts of time, and construct their own narratives that use time as a creative or rhetorical tool.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 138VS",
+  "title": "Visual Storytelling and the Museum",
+  "units": "5",
+  "description": "Students will search archives and museum collections to find an item and write about its connection to them, history, and today. Those one-page responses, in prose or poetry, will be designed with consideration of typeface, color, layered imagery, and symbolic motifs. They will be bound into an archival book.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 170DC",
+  "title": "Washington Center Academic Year Internship",
+  "units": "8",
+  "description": "Courses designed for students to obtain credit for internship while at the Washington Center for fall, winter, and/or spring quarters.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor; acceptance to Washington Center.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 174",
+  "title": "Physician Shadowing",
+  "units": "2",
+  "description": "Students--typically those in their final year at UCSB--will be matched to clinicians at local providers (Sansum Clinic, Cottage Hospital) and/or residency programs to perform approximately 40 hour preceptorship over the 10-week quarter. Depending on the provider, students may have the ability to observe multiple disciplines/fields of medicine, make rounds with attendants and residents, etc.",
+  "prerequisites_raw": "Senior standing. Application/resume required (submit to UCSB Pre-Health Advising).",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 175",
+  "title": "Health Care Delivery",
+  "units": "2",
+  "description": "This unique course is directed to those upper division students interested in health professions and who should understand the important issues related to health care delivery in the US. Guest speakers will address the economics and models of health care delivery as well as other topics to include quality control, the Affordable Care Act, the ethics in decision making and more.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 176",
+  "title": "Introduction to Clinical Medicine",
+  "units": "2",
+  "description": "For students interested in careers in the health profession. Presenters from UCLA Health will help students understand the systemic environment and career considerations as they relate to healthcare delivery in the U.S.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 176JC",
+  "title": "Journal Club--Scientific Medical Literature",
+  "units": "2",
+  "description": "With guidance from UCLA clinical faculty, UCSB pre-med students will be introduced to different study designs used in medical research and approaches to critiquing scientific medical literature. Students will present clinical topics and their relevance to patient care, examine various study designs, and discuss the main findings and limitations of assigned studies.",
+  "prerequisites_raw": "INT 176; Upper division standing; Instructor Approval Required.",
+  "prerequisites_courses": [
+   "INT 176"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 176LA",
+  "title": "UCLA Health Shadowing",
+  "units": "1",
+  "description": "Facilitates watching and listening during patient histories, physical examinations, procedures, surgeries, teaching rounds, and/or educational activities. This course does not include participation in direct or indirect patient care or management, nor constitute formal medical training.",
+  "prerequisites_raw": "INT 176; upper-division standing and consent of instructor",
+  "prerequisites_courses": [
+   "INT 176"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 177",
+  "title": "Senior Transfer Discovery & Linked Seminars",
+  "units": "2",
+  "description": "Seminars that provide opportunity for transfer students to investigate a single topic from two different disciplinary perspectives (Discovery), or in significant depth (Linked). Topics vary each quarter.",
+  "prerequisites_raw": "Senior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 177OA",
+  "title": "Senior Transfer Discovery & Linked Seminars",
+  "units": "2",
+  "description": "Seminars that provide opportunity for transfer students to investigate a single topic from two different disciplinary perspectives (Discovery), or in significant depth (Linked). Topics vary each quarter.",
+  "prerequisites_raw": "Senior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 180",
+  "title": "Special Topics at Washington Center",
+  "units": "4",
+  "description": "Courses offered to exploit special opportunities available at the Washington Center. Subject and topics vary.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor; acceptance to Washington Center.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AA",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AB",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AC",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AD",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AF",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AG",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AH",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AI",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 184AJ",
+  "title": "Honors Seminar: Special Topics",
+  "units": "2",
+  "description": "An interdisciplinary approach to topics of national and world concerns. Readings will be assigned from several disciplinary perspectives.",
+  "prerequisites_raw": "Enrollment in Letters and Science Honors Program; upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

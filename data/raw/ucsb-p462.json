@@ -1,0 +1,362 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 2C",
+  "title": "Performance in Global Contexts: EUROPE",
+  "units": "5",
+  "description": "Introduction to theater and performance practice and traditions in Europe. Topics will include ritual, the rise of a public theater, the political uses of theater, the development of festival theater, and the uses of performance in non-theatrical contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 2D",
+  "title": "Performance in Global Contexts: LATIN AMERICA",
+  "units": "4",
+  "description": "An introduction to theater and performance in Latin America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 3",
+  "title": "Life of the Theater",
+  "units": "4",
+  "description": "An introduction to live theater and an exploration of its components, from acting, directing and design to production, dramaturgy and playwriting. Students attend a wide variety of theatrical presentations, as well as read plays and other dramatic writings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 4",
+  "title": "Performing the Here and Now",
+  "units": "4",
+  "description": "Students explore how contemporary theater responds to a twenty-first century world. Looking at the work of cutting-edge playwrights, solo performers, and ensemble theater groups, the course examines how theater grapples with political and social issues facing us at the start of a new century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 5",
+  "title": "Introduction To Acting",
+  "units": "3",
+  "description": "An introduction for majors and nonmajors to the multiple problems of the actor's art and craft.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 7",
+  "title": "Performance of the Human Body",
+  "units": "4",
+  "description": "A study of how various kinds of performance genres represent the human body in modern and contemporary American culture. Material includes traditional stage performance, film, freak shows, beauty pageants, dance, sports, music videos, and fashion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 8",
+  "title": "European Theater History",
+  "units": "4",
+  "description": "A survey of European theater history from the ancient Greeks to the present day.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 9",
+  "title": "Introduction to Dramatic Writing",
+  "units": "5",
+  "description": "A intensive introduction to playwriting for beginning dramatists. Students will read and analyze the structure of plays, write and stage their own short plays, and gain experience acting in and directing each other's work. Homework for the course includes a series of written and performance-based assignments.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 10A",
+  "title": "Movement For The Stage",
+  "units": "2",
+  "description": "Intense physical training designed to produce a neutral, dynamic, and expressive bodily instrument.",
+  "prerequisites_raw": "Theater 5; audition.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 10B",
+  "title": "Movement For The Stage",
+  "units": "2",
+  "description": "Intense physical training designed to produce a neutral, dynamic, and expressive bodily instrument.",
+  "prerequisites_raw": "Theater 5; audition.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 10C",
+  "title": "Movement For The Stage",
+  "units": "2",
+  "description": "Intense physical training designed to produce a neutral, dynamic, and expressive bodily instrument.",
+  "prerequisites_raw": "Theater 5; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 11A",
+  "title": "Voice Laboratory",
+  "units": "2",
+  "description": "A fundamental approach to voice for the actor with emphasis on vocal production, articulation, and quality; plus physical relaxation techniques.",
+  "prerequisites_raw": "Theater 5; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 11B",
+  "title": "Voice Laboratory",
+  "units": "2",
+  "description": "A fundamental approach to voice for the actor with emphasis on vocal production, articulation, and quality; plus physical relaxation techniques.",
+  "prerequisites_raw": "Theater 5; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 11C",
+  "title": "Voice Laboratory",
+  "units": "2",
+  "description": "A fundamental approach to voice for the actor with emphasis on vocal production, articulation, and quality; plus physical relaxation techniques.",
+  "prerequisites_raw": "Theater 5; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 14",
+  "title": "Acting Workshop",
+  "units": "3",
+  "description": "Exploration, performances, and criticism of scenes from a broad range of dramatic scripts with focus on the actor's perspective. Practical skills are taught to make the physical exploration of the text a valid exercise.",
+  "prerequisites_raw": "Theater 5; not open to freshman.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 14S",
+  "title": "Summer Acting Workshop",
+  "units": "0",
+  "description": "Laboratory for voice, movement, and acting.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 15A",
+  "title": "Fundamentals of Acting",
+  "units": "4",
+  "description": "Development of the intermediate actor's foundational work in improvisation, technique, scene study, textual analysis, and characterization while exploring creative capacity.",
+  "prerequisites_raw": "Theater 5; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 15B",
+  "title": "Fundamentals of Acting",
+  "units": "4",
+  "description": "Development of the intermediate actor's foundational work in improvisation, technique, scene study, textual analysis, and characterization while exploring creative capacity.",
+  "prerequisites_raw": "Theater 5; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 15C",
+  "title": "Fundamentals of Acting",
+  "units": "4",
+  "description": "Development of the intermediate actor's foundational work in improvisation, technique, scene study, textual analysis, and characterization while exploring creative capacity.",
+  "prerequisites_raw": "Theater 5; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 16A",
+  "title": "Fundamentals of Voice",
+  "units": "3",
+  "description": "A basic approach for the actor in freeing the voice, dismantling tension, centering sound, releasing breath, developing range and expressive power, culminating in an hour-long warm-up to be utilized for rehearsal and performance.",
+  "prerequisites_raw": "Not open to theatre majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 16B",
+  "title": "Phonetics for Actors and Public Speakers",
+  "units": "3",
+  "description": "An introduction to general American with an emphasis on the international phonetic alphabet and the rules governing standard English to be utilized in the performance of various famous speeches.",
+  "prerequisites_raw": "Not open to theatre majors; not open to freshmen.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 17",
+  "title": "Fundamentals Of Movement For Theater",
+  "units": "3",
+  "description": "The fundamental exploration of actor movement training for non-BFA actors, directors, and dancers.",
+  "prerequisites_raw": "Not open to BFA Theater majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 19",
+  "title": "Design Fundamentals for Dance and Theater",
+  "units": "5",
+  "description": "In this course, you will be introduced to the fundamentals of design for theatre, dance, performance, and live events. You’ll be taught about four disciplines of design including Scenery, Costume, Lighting, and Projection along with a series of approaches to formulate and communicate your own design work to others. Inspired by texts, music, and research, you will create visual designs that express ideas and aesthetic choices while fulfilling practical requirements for the performer or participant in an intentional environment. Through hands-on projects and class activities, you will create designs for live performance through writing, research, 2D media and 3D models.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 21",
+  "title": "Stagecrafts",
+  "units": "2",
+  "description": "Practical introduction to technical theater and includes attention to such aspects of design and production as scenery, lights, sound, costumes, and stage management.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 22",
+  "title": "Scenic Design",
+  "units": "5",
+  "description": "Projects in the interpretation of plays through scenic elements with concentration on the design process and the dramatic use of space. Drafting projects including floor plans, elevations and basic perspective drawing.",
+  "prerequisites_raw": "THTR 19",
+  "prerequisites_courses": [
+   "THTR 19"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 23",
+  "title": "Stage Lighting Design",
+  "units": "5",
+  "description": "Lecture-demonstration in instrumentation, color in light, control equipment, and basic lighting design theories. Technical drawing including light plots, scheduling and organization for lighting design. Some practical application through laboratory and studio exercise.",
+  "prerequisites_raw": "Theater 19.",
+  "prerequisites_courses": [
+   "THTR 19"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 23D",
+  "title": "Dance Lighting Design",
+  "units": "3",
+  "description": "Lecture-demonstration in instrumentation, color in light, control equipment, and basic lighting theories. practical application through laboratory assignments and studio productions.",
+  "prerequisites_raw": "Theater 19.",
+  "prerequisites_courses": [
+   "THTR 19"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 24",
+  "title": "Projection Design",
+  "units": "5",
+  "description": "Exploration of basic elements and principles of projection design for live performance. Projects in the interpretation of plays through visual elements. Introduction to projection, video, and media design for live performance and installation. Projects involve interpretation of plays and music, technical approaches to equipment, and programming equipment for media designs.",
+  "prerequisites_raw": "THTR 19 or permission of instructor",
+  "prerequisites_courses": [
+   "THTR 19"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 25",
+  "title": "Costume Design",
+  "units": "5",
+  "description": "In this course students will receive a more detailed, but introductory exposure to the world of costume design. They will learn how costume design plays an essential function in the collaboration of live theatre, opera, television, and film. Students will experience the step-by-step creative process of this design discipline, while implementing strong character analysis skills and recognizing the importance of thematic storytelling. Together, students will learn how to build characters, from the ground up, using the power of dress.",
+  "prerequisites_raw": "Theater 19.",
+  "prerequisites_courses": [
+   "THTR 19"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 26",
+  "title": "Stage Makeup",
+  "units": "2",
+  "description": "The theory, history, and practical application of stage makeup, including character, age, period, and special effects techniques.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 27A",
+  "title": "Theater Graphics and Figure Drawing",
+  "units": "2",
+  "description": "Introduction to sketching and drawing styles for the theater designer. Includes light and shade, perspective, and line drawing. Focus on drawing the human form, rendering of fabric, texture and movement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 27B",
+  "title": "Theater Drafting",
+  "units": "2",
+  "description": "Introduction to drafting conventions for the scenic and lighting designer. Includes orthographic and isometric drawings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 28",
+  "title": "Computing for Theater Arts",
+  "units": "4",
+  "description": "Macintosh platform using VectorWorks software. Advanced applications for graphics and rendering software for the theater designer and a survey of specialized support software such as LightWright.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

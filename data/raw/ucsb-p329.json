@@ -1,0 +1,317 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 122A",
+  "title": "Theory of Complex Variables",
+  "units": "4",
+  "description": "Complex numbers, complex differentiation, analytic functions, Cauchy-Riemann equations, Taylor and Laurent series, classification of singular points, residues, evaluation of improper integrals.",
+  "prerequisites_raw": "Math 6A and 8 each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 6A",
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 122B",
+  "title": "Theory of Complex Variables",
+  "units": "4",
+  "description": "The argument principle, Rouche’s theorem, analytic continuation, conformal mapping, fractional transformations and applications, infinite products, harmonic functions. Other topics at the discretion of the instructor.",
+  "prerequisites_raw": "Math 122A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 122A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 124A",
+  "title": "Partial Differential Equations",
+  "units": "4",
+  "description": "Wave, heat, and potential equations.",
+  "prerequisites_raw": "Math 4B or 4BI, 6A, and 6B with a minimum grade of C; and Math 8 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 8",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 124B",
+  "title": "Fourier Series and Numerical Methods",
+  "units": "4",
+  "description": "Fourier series; generalized functions; and numerical methods.",
+  "prerequisites_raw": "Math 4B or 4BI, and 6A, and 6B with a minimum grade of C; and 124A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B",
+   "MATH 124A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 132A",
+  "title": "Optimization",
+  "units": "4",
+  "description": "Global and local optimization, constrained and unconstrained optimization, convex versus nonconvex optimization, Projection Theorem, linear search methods, gradient methods, Newton and Quasi-Newton methods, trust region methods.",
+  "prerequisites_raw": "Math 6A and 108A, each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 6A",
+   "MATH 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 132B",
+  "title": "Operations Research",
+  "units": "4",
+  "description": "Large scale optimization, stochastic gradient descent, inexact Newton methods, limited memory BSGF, least squares problems, global optimization, optimization in general normed spaces.",
+  "prerequisites_raw": "Math 132A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 132A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 137A",
+  "title": "Graph and Network Theory",
+  "units": "4",
+  "description": "Elements of graph and network theory including paths, circuits, trees, coloring, planarity, matching theory, Hall's theorem, applications to scheduling theory, flows in networks, Menger's theorem, and other topics as time permits.",
+  "prerequisites_raw": "Math 4A and 8, each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 137B",
+  "title": "Spectral Graph Theory",
+  "units": "4",
+  "description": "The graph Laplacian, eigenvalues of weighted graphs and random walks, the normalized Laplacian and Cheegers inequality, diameters and eigenvalues, expander graphs, eigenvalues of symmetric graphs, heat kernels.",
+  "prerequisites_raw": "Math 108A and 137A, each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 108A",
+   "MATH 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 145",
+  "title": "Introduction to Topology",
+  "units": "4",
+  "description": "Metric spaces, continuity, compactness, classification of surfaces, Euler characteristics, and fundamental groups. Additional topics at the discretion of the instructor.",
+  "prerequisites_raw": "Math 8 with a C or better. Either Math 108A or Math 117 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 8",
+   "MATH 108A",
+   "MATH 117"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 147A",
+  "title": "Differential Geometry of Curves and Surfaces",
+  "units": "4",
+  "description": "Curves and surfaces in three-dimensional Euclidean space, including Frenet formulas, signed curvature of plane curves, first and second fundamental forms, normal curvature and principal curvature, Gaussian and mean curvature, Gauss equation and Theorema Egregium, and a brief introduction to geodesics if time permits.",
+  "prerequisites_raw": "Math 6A with a minimum grade of C; and Math 108A or 117 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 6A",
+   "MATH 108A",
+   "MATH 117"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 147B",
+  "title": "Differential Geometry of Curves and Surfaces",
+  "units": "4",
+  "description": "Parallel transport, geodesics, Gauss-Bonnet Theorem, fundamental theorem of surfaces. Additional topics at the discretion of the instructor may include minimal surfaces, Codazzi equation, surfaces of constant Gaussian curvature, isothermal coordinates, and global theorems for curves.",
+  "prerequisites_raw": "Math 6B and Math 147A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 6B",
+   "MATH 147A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 170",
+  "title": "Introduction to Mathematical Finance",
+  "units": "4",
+  "description": "Describes mathematical methods for estimating and evaluating asset pricing models, equilibrium and derivative pricing, options, bonds, and the term-structure of interest rates. Also introduces finance optimization models for risk management and financial engineering.",
+  "prerequisites_raw": "PSTAT 120A-B and 160A, all completed with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 160A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 178",
+  "title": "Introduction to Cryptography",
+  "units": "4",
+  "description": "An introduction to the basic concepts and techniques of cryptography and cryptanalysis. Topics include: The Shannon Theory, classical systems, the enigma machine, the data encryption standard, public key systems, digital signatures, file security.",
+  "prerequisites_raw": "Computer Science 10; and, PSTAT 120A or 121A or equivalent courses.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 181A",
+  "title": "Advanced Problem Solving in Mathematical, Historical and Pedagogical Contexts.",
+  "units": "4",
+  "description": "Focuses on the representations, strategies, and language learners use to conceptualize and develop fundamental ideas of mathematics. Includes advanced mathematical problem solving and its implications for teaching and learning at the secondary level. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Math 8 with a minimum grade of C",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 181B",
+  "title": "Advanced Problem Solving in Mathematical, Historical, and Pedagogical Contexts",
+  "units": "4",
+  "description": "Continuation of Math 181A or ED 134. Focuses on the representations, strategies, and language learners use to conceptualize and develop fundamental ideas of mathematics. Includes advanced mathematical problem solving and its implications for teaching and learning at the secondary level. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Math 181A or ED 134 with a minimum grade of C",
+  "prerequisites_courses": [
+   "MATH 181A",
+   "ED 134"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 182",
+  "title": "History of Mathematics",
+  "units": "4",
+  "description": "An examination of the major achievements in mathematical thinking throughout history. Topics may include the history of numerical systems in early civilizations, the development of formal proof, mathematical contributions from diverse populations and the impact of technological innovations on mathematics. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Mathematics 8 with a grade of \"C\" or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 190",
+  "title": "Special Topics in Mathematics",
+  "units": "4",
+  "description": "An advanced treatment of mathematics content appropriate for undergraduates. The material for the course may come from algebra, geometry, analysis, applied mathematics or other areas of mathematics. Topics vary by instructor.",
+  "prerequisites_raw": "Math 8 with a grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 190AI",
+  "title": "Mathematical Reasonings of AI such as GPT and DeepSeek",
+  "units": "4",
+  "description": "This project-based course explores the mathematical reasonings of AI systems like GPT and DeepSeek. Students will work on exercises drawn from topics in Math 8, linear algebra, and calculus. For each project, the student will obtain an AI-generated solution, carefully examine it for errors, and then analyze and correct the AI's mistakes. Students will submit all project materials. Most projects will be provided by the instructor, but students will also be encouraged to find some on their own, with all projects receiving necessary instruction.",
+  "prerequisites_raw": "Math 8 with a grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 190PS",
+  "title": "Problem Solving",
+  "units": "4",
+  "description": "The Problem Solving in Mathematics course is designed to impart students with advanced problem-solving techniques and strategies in mathematics. Students will explore a diverse range of methods, including the application of parity, coloring, ordering, extremality, symmetry, invariants among others. The course emphasizes critical and creative thinking, allowing students to tackle complex mathematical challenges. Through collaboration and presentation exercises, students develop effective communication skills. The goal is to equip students with the basic abilities for research in mathematics.",
+  "prerequisites_raw": "Math 8 with a grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 191",
+  "title": "Mathematics Transition for Transfer Students",
+  "units": "4",
+  "description": "Provides transfer students with a solid mathematical foundation to ease their transition into a four-year college environment. Students will explore the fundamental axioms of integers and their properties, gaining a deep understanding of this essential mathematical concept. The curriculum extends to the study of rational numbers, real numbers, and complex numbers, emphasizing the properties and principles that underlie these numeric systems. Through a structured approach, this course equips transfer students with the mathematical knowledge and skills necessary to excel in more advanced coursework.",
+  "prerequisites_raw": "Mathematics 4A or 4AI or 4B or 4BI or 6A or 6B with a grade of B or better. Concurrent enrollment in Math 94.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 94",
+   "MATH 4AI",
+   "MATH 4B",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 193",
+  "title": "Internship in Mathematics",
+  "units": "0",
+  "description": "Faculty sponsored academic internship in industrial or research firms.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 194GS",
+  "title": "Group Studies for Advanced Students",
+  "units": "1",
+  "description": "Participants will select a math-related book or papers, read the section before the next meeting and discuss reading at the meeting. Readings may include biographies of mathematicians, histories or popularizations of mathematics, textbooks, and readings in mathematical physics or biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 195A",
+  "title": "Internship in Mathematics Teaching",
+  "units": "4",
+  "description": "Supervised mathematics internship in local schools and participation in themathematics teaching seminar on mathematics learning and teaching. A paper on mathematics and its teaching required.",
+  "prerequisites_raw": "Upper-division standing in the major; two upper-division mathematics courses.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 195B",
+  "title": "Internship in Mathematics Teaching",
+  "units": "4",
+  "description": "Supervised mathematics internship in local schools and participation in themathematics teaching seminar on mathematics learning and teaching. A paper on mathematics and its teaching required.",
+  "prerequisites_raw": "Upper-division standing in the major; two upper-division mathematics courses.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 197A",
+  "title": "Senior Thesis",
+  "units": "0",
+  "description": "Independent research under the supervision of a faculty member which will result in a senior thesis. Student will concentrate on reading and gathering material for a thesis.",
+  "prerequisites_raw": "Open to senior majors only; consent of department and instructor.",
+  "prerequisites_courses": []
+ }
+]

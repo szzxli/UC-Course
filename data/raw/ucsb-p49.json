@@ -1,0 +1,318 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 286",
+  "title": "Model Predictive Control and Moving Horizon Estimation",
+  "units": "4",
+  "description": "Analysis, design and computation of model predictive control applied toconstrained linear, and nonlinear systems. Analysis and design of movinghorizon state estimation of nonlinear systems. As time permits, selectedadditional topics include: robust model predictive, stochastic model predictivecontrol, and identification methods for offset-free model predictive control.",
+  "prerequisites_raw": "Linear systems I (ECE 230A or ME 243A) or consent of instructor.",
+  "prerequisites_courses": [
+   "ECE 230A",
+   "ME 243A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 289A",
+  "title": "Spectroscopy of Materials",
+  "units": "3",
+  "description": "Introduction to continuum and quantum mechanical descriptions of solid materials with emphasis on interactions of light and electrons with matter from an experimental viewpoint. Topics: Maxwells equations, electron and lattice waves, band theory, photoelectron and various optical spectroscopies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 290",
+  "title": "Chemical Engineering Forum",
+  "units": "0.5",
+  "description": "Seminars and workshops focusing on current research topics and graduate student education.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 291",
+  "title": "Research Group Studies",
+  "units": "0",
+  "description": "Students or instructors present recently published papers and/or results relevant to their own research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 294B",
+  "title": "Bioengineering: Career and Development Opportunities at the Interface between Biotechnology and Engineering",
+  "units": "2",
+  "description": "Based on presentations by experts from the bioengineering industry. Presenters describe their companies' technologies and developments, including biosensors, therapeutics, tissue engineering, quantum dots and advanced instrumentation. Training and educational requirements for different career tracks are discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 295",
+  "title": "Group Studies: Controls, Dynamical Systems, and Computation",
+  "units": "1",
+  "description": "A series of weekly lectures given by university staff and outside experts in the fields of control systems, dynamical systems, and computation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 493",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Students pursue practical engineering experience in selected industrial and research firms, under faculty supervision.",
+  "prerequisites_raw": "Prior departmental approval needed.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 594",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Experimental or theoretical research undertaken under the direction of a faculty member for graduate students who have not yet advanced to candidacy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 597",
+  "title": "Individual Study for Master's Comprehensive Examinations and Ph.D.",
+  "units": "0",
+  "description": "Examinations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the thesis and writing the thesis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 599",
+  "title": "Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the dissertation and writing the disseration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E W",
+  "code": "CH E W 5",
+  "title": "Introduction to Chemical Engineering Design",
+  "units": "3",
+  "description": "Introduction to the design and analysis of processes involving chemical change in the context of chemical and biomolecular engineering. Students learn mathematical, empirical, and conceptual strategies to analyze chemical processes to assess product quality, economics, safety, and environmental issues. Focus topics include an overview of chemical and biomolecular engineering, evaluating and analyzing data, flowsheets, material and energy balances, economics, and unit operations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 1A",
+  "title": "Introduction to Chicano/a Studies",
+  "units": "5",
+  "description": "Introduction to the historical and contemporary development of the Chicano/a community. Course is interdisciplinary in nature. Focuses by quarter on A. history, B. gender, and C. culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 1B",
+  "title": "Introduction to Chicano/a Studies",
+  "units": "5",
+  "description": "Introduction to the historical and contemporary development of the Chicano/a community. Course is interdisciplinary in nature. Focuses by quarter on A. history, B. gender, and C. culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 1C",
+  "title": "Introduction to Chicano/a Studies",
+  "units": "5",
+  "description": "Introduction to the historical and contemporary development of the Chicano/a community. Course is interdisciplinary in nature. Focuses by quarter on A. history, B. gender, and C. culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 9A",
+  "title": "Classic Maya History",
+  "units": "4",
+  "description": "An introduction to ancient Maya culture through its history recovered from hieroglyphic texts. Emphasis is on political history, but religion, art, and science are considered as well.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 10",
+  "title": "Introduction to Chicana/o-Latina/o History",
+  "units": "4",
+  "description": "Covers the contours of the Chicana/o-Latina/o historical experience. Beginning with the indigenous pre-Columbian societies of Mexico and Central America, this course also includes the Spanish colonial era of Mexico, Mexican independence, the U.S.-Mexico War, the annexation of Mexico's northern regions to the U.S., the commencement of mass Mexican immigration, the second-generation experience, the Mexican American civil rights movement, the Chicano Movement, and the post-movement Latino Generation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 12",
+  "title": "Introduction to Chicano Spanish",
+  "units": "4",
+  "description": "The course will introduce students to Chicano Spanish and helps them to improve oral and written skills, distinguish between standard speech and popular variants, and to learn the Chicano Spanish lexicon.",
+  "prerequisites_raw": "Spanish 3.",
+  "prerequisites_courses": [
+   "SPAN 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 13",
+  "title": "Critical Introduction to Ancient Mesoamerica",
+  "units": "4",
+  "description": "Broad survey of ancient Mesoamerica (Olmec, Zapotec, Teotihuacan, Maya, Aztec). Investigates these cultures along with factors that have influenced their contemporary interpretation, including the forms of data available and contexts and motivations of the people who have generated them.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 51",
+  "title": "U.S. Third World Feminist Politics",
+  "units": "4",
+  "description": "Introduces U.S. third world feminism from an interdisciplinary perspective. Explores that movement's cultural, political, and artistic rise to prominence. Identifies a coalitional consciousness that crosses differing nations, genders, races, sexualities, classes, and cultures as expressed by the international political class women-of-color.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 51H",
+  "title": "U.S. Third World Feminist Politics Honors",
+  "units": "4",
+  "description": "Lecture is concurrent with Chicana/o Studies 51, along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 91",
+  "title": "Special Topics in Chicano Studies",
+  "units": "4",
+  "description": "Designed to allow courses of varying topics in areas of expertise of visiting professors to broaden opportunities for students. Examples might be: immigration, Native American, Mexican, or Latin American influences on the Chicano, legal issues, the migrants.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 91JG",
+  "title": "Special Topics in Chicano Studies",
+  "units": "4",
+  "description": "Designed to allow courses of varying topics in areas of expertise of visiting professors to broaden opportunities for students. Examples might be: immigration, Native American, Mexican, or Latin American influences on the Chicano, legal issues, the migrants.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent study under the guidance of a faculty member in the department. Course offers students the opportunity to undertake independent study or work in a group.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 101C",
+  "title": "Teaching for Social Justice",
+  "units": "4",
+  "description": "This interdisciplinary course will highlight how a curriculum focusing on racial, ethnic, gender, and LGBTQ studies is central to teaching and learning within diverse societal contexts. This grounding is essential for K-12 teachers in History and English/Literature. Through a social justice framework, students will learn how classrooms are enhanced by Ethnic and Feminist Studies, placing graduates within the forefront of educational initiatives that position teaching and learning within an inclusive and equitable paradigm.",
+  "prerequisites_raw": "Upper-division standing. At least one course in any of the these departments: Asian American Studies, Black Studies, Chicana/o Studies, or Feminist Studies",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 103",
+  "title": "Chicana/o and Latina/o Media and Popular Culture",
+  "units": "4",
+  "description": "Surveys theories and practices of consumption of ethnic media in relation to U.S. ethnic identity with an emphasis on telenovelas, \"border\" films, U.S. Spanish-language music sales, and bilingual media.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 107",
+  "title": "Politics of Language, Accent, and Translation",
+  "units": "4",
+  "description": "Examines how language politics are magnified in public policy, public culture, and the mainstream media, and how accents work to racialize Latinos.",
+  "prerequisites_raw": "SPAN 3 or equivalent",
+  "prerequisites_courses": [
+   "SPAN 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 108",
+  "title": "Transnational Chicana and Chicano Studies",
+  "units": "4",
+  "description": "Surveys how Chicana/o scholars position themselves within the interdisciplinary field of transnational literature as ethnic U.S. subjects. Reviews patterns and scholarship of transnational migration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 109",
+  "title": "Indigenous People and the Nation State in the Americas",
+  "units": "4",
+  "description": "The changing relationship between indigenous people and the state. Compare the differences and similarities between indigenous peoples' mobilizations in the cases of Canada, USA, Ecuador, Chile, Guatemala, Bolivia and Mexico.",
+  "prerequisites_raw": "ANTH 2 or CH ST 1A, 1B, or 1C.",
+  "prerequisites_courses": [
+   "ANTH 2",
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ }
+]

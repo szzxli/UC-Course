@@ -1,0 +1,214 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 32",
+  "title": "Ocean Cultures: People, Routes, and Environments in the Portuguese-Speaking World",
+  "units": "5",
+  "description": "This course explores the ocean's impact on the history, culture, and societies of Portuguese-speaking nations, including Angola, Brazil, Cape Verde, Mozambique, and Portugal. Through a diverse array of literary worksranging from non-fiction and fiction to poetry, alongside filmswe will explore the ocean's influence from various perspectives across the continents of America, Africa, and Asia. We'll navigate through topics like seafaring, the Atlantic slave trade, coastal community life, and environmental sustainability. The goal of this course is to understand the ocean's role in shaping these nations and how human activities influence marine ecosystems. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 102A",
+  "title": "Advanced Grammar and Composition",
+  "units": "4",
+  "description": "Study of the finer points of Portuguese grammar and syntax. Equal stress is placed on written and oral practice of the language. The work in class will consist of careful study of essays and articles.",
+  "prerequisites_raw": "Portuguese 6",
+  "prerequisites_courses": [
+   "SPAN 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 102B",
+  "title": "Advanced Grammar and Composition",
+  "units": "4",
+  "description": "Study of the finer points of Portuguese grammar and syntax. Equal stress is placed on written and oral practice of the language. The work in class will consist of careful study of essays and articles.",
+  "prerequisites_raw": "Portuguese 102A",
+  "prerequisites_courses": [
+   "SPAN 102A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 105",
+  "title": "Survey of Portuguese Literature from the Middle Ages to the Present",
+  "units": "4",
+  "description": "A survey of the main writers of Portuguese Literature from its beginnings up to the present. Designed to give the student historical, cultural and literary contexts, a chronological panel, in order to prepare the student for more specific and focused courses within the area of Portuguese. Also prepares the student for understanding these contexts in order to apply the knowledge acquired in this survey to other fields of interest.",
+  "prerequisites_raw": "Portuguese 6",
+  "prerequisites_courses": [
+   "SPAN 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 105E",
+  "title": "Survey of Portuguese Literature from the Middle Ages to the Present",
+  "units": "4",
+  "description": "A survey of the main writers of Portuguese Literature from its beginnings up to the present. Designed to give the student historical, cultural and literary contexts, a chronological panel, in order to prepare the student for more specific and focused courses within the area of Portuguese. Also prepares the student for understanding these contexts in order to apply the knowledge acquired in this survey to other fields of interest. Taught in English.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 106",
+  "title": "Survey of Brazilian Literature from its Beginnings to the Present",
+  "units": "4",
+  "description": "A survey of the main works of literature produced in Brazil and about Brazil from its beginnings up to the present. Involves travel literature about Brazil, written in the sixteenth century, at the time of its discovery, as well as the literature produced in Brazil up to the present, represented by significant authors and periods. Designed to give the student a historical, cultural and literary context, a chronological panel, in order to prepare the student for more specific and focused courses within the area of Portuguese. Also prepares the student for the understanding of cultural contexts in order to apply the knowledge acquired in this survey to other fields of interest.",
+  "prerequisites_raw": "Portuguese 6",
+  "prerequisites_courses": [
+   "SPAN 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 106E",
+  "title": "Survey of Brazilian Literature from its Beginnings to the Present",
+  "units": "4",
+  "description": "A survey of the main works of literature produced in Brazil and about Brazil from its beginnings up to the present. Involves travel literature about Brazil, written in the sixteenth century, at the time of its discovery, as well as the literature produced in Brazil up to the present, represented by significant authors and periods. Designed to give the student a historical, cultural and literary context, a chronological panel, in order to prepare the student for more specific and focused courses within the area of Portuguese. Also prepares the student for the understanding of cultural contexts in order to apply the knowledge acquired in this survey to other fields of interest. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 107",
+  "title": "Lusophone Cityscapes: Cultures, Histories, and Urban Imaginaries",
+  "units": "4",
+  "description": "This course examines the urban landscapes of cities in the Portuguese-speaking world across Europe, Africa, Asia, and the Americas, exploring their histories, cultural productions, and evolving identities. From Lisbon to Luanda, Rio de Janeiro to Maputo, and Goa to Dili, we delve into the architecture, literature, music, and cinema that shape these urban centers. Themes include colonial and postcolonial transformations, social inequality, migration, and the intersection of urban life with environmental challenges. Students will analyze how cityscapes serve as spaces of memory, resistance, and creativity, revealing the complexities of urban life across this interconnected planetary network. Taught in English",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 108",
+  "title": "How to Read and Why: Brazilian Literature and More",
+  "units": "4",
+  "description": "Students are exposed to readings of aesthetic and cultural value, such as literature in all its genres: poetry, short story, crnicas, novels, memorials etc. Also introduces students to the basic concepts of literary theory and aesthetics, and to some specific literary genres like travel literature and satire. Students will acquire skills to engage critically with other aesthetic forms, like the visual arts and architecture, as well as engaging with philosophical texts.",
+  "prerequisites_raw": "Portuguese 6",
+  "prerequisites_courses": [
+   "SPAN 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 108E",
+  "title": "How to Read and Why: Brazilian Literature and More",
+  "units": "4",
+  "description": "Students are exposed to readings of aesthetic and cultural value, such as literature in all its genres: poetry, short story, cronicas, novels, memorials etc. Also introduces students to the basic concepts of literary theory and aesthetics, and to some specific literary genres like travel literature and satire. Students will acquire skills to engage critically with other aesthetic forms, like the visual arts and architecture, as well as engaging with philosophical texts. Taught in English.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 109",
+  "title": "Nature and Environment in Brazilian Culture and Literature",
+  "units": "4",
+  "description": "This multidisciplinary course aims to understand how Brazilian culture and literature approach its surrounding environment, using different sources of materials: travel writing descriptions, accounts of visitors and explorers, scientists, visual arts, literary texts, anthropological and ethnographic approaches, history, philosophy and media. The course offers a complete survey of the complex relations involving the Portuguese Colonial system of exploration and exploitation of the environment (plantation, monoculture, slavery), land and border occupation of indigenous lands, demarcation, and the 20th occupation of the Amazon. It provides the essential historical and cultural backgrounds of Brazilian engagement with its environment.",
+  "prerequisites_raw": "Portuguese 6",
+  "prerequisites_courses": [
+   "SPAN 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 109E",
+  "title": "Nature and Environment in Brazilian Culture and Literature",
+  "units": "4",
+  "description": "This course aims to understand how Brazilian culture and literature approach its surrounding environment, using different sources of materials: travel writing descriptions, accounts of visitors and explorers, scientists, visual arts, literary texts, anthropological and ethnographic approaches, history, philosophy and media. The course offers a complete survey of the complex relations involving the Portuguese Colonial system of exploration and exploitation of the environment (plantation, monoculture, slavery), land and border occupation of indigenous lands, demarcation, and the 20th occupation of the Amazon. It provides the essential historical and cultural backgrounds of Brazilian engagement with its environment. Taught in English.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 110",
+  "title": "Understanding Brazilian Music in its Cultural Context",
+  "units": "4",
+  "description": "This course enables students to understand what Brazilian music is, and what is the role of Music in Brazilian culture. It offers a comprehensive panel of the history of music in Brazil. The course also provides students with a full cultural context, discussing the role of music during the two dictatorship periods in Brazil, 1930-1945 and 1964-1985 and the political impact of censorship. It also discusses the contributions of the Africans, brought to Brazil by the Portuguese colonizers, and the impact African culture has both in music and religion. Taught in English.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 114",
+  "title": "Literature of the Portuguese Expansion",
+  "units": "4",
+  "description": "Literary masterpieces of the Portuguese Golden Age (fifteenth and sixteenth centuries, and part of the seven-teenth century): chronicles of the discoveries, the epic poem Os Lusiadas by Camoes, dramatic narratives of shipwrecks--all translated into English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 115",
+  "title": "Brazilian Literature (in English Translation)",
+  "units": "4",
+  "description": "Significant writers and poets of nineteenth and twentieth century Brazil. Topic or author to be chosen by faculty member. Each course on different topics. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 115A",
+  "title": "Brazilian Literature in English Translation",
+  "units": "4",
+  "description": "A dynamic course offering and thorough overview of the most important writers and texts from Brazil, as well as the contexts which generated them. How to read and why read Brazilian literature? The course stresses the role of translation in the transmission of other cultures, ideas and more. Students learn about genres, periods, the context in which works of literature come to be, and what it means to read a work in translation.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 115AA",
+  "title": "Brazilian Literature (in English Translation)",
+  "units": "4",
+  "description": "Significant writers and poets of nineteenth and twentieth century Brazil. Topic or author to be chosen by faculty member. Each course on different topics. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 115B",
+  "title": "Brazilian Literature (in English Translation)",
+  "units": "4",
+  "description": "Significant writers and poets of nineteenth and twentieth century Brazil. Topic or author to be chosen by faculty member. Each course on different topics. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 115BB",
+  "title": "Brazilian Literature (in English Translation)",
+  "units": "4",
+  "description": "Significant writers and poets of nineteenth and twentieth century Brazil. Topic or author to be chosen by faculty member. Each course on different topics. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PORT",
+  "code": "PORT 115EE",
+  "title": "Brazilian Literature (in English Translation)",
+  "units": "4",
+  "description": "Significant writers and poets of nineteenth and twentieth century Brazil. Topic or author to be chosen by faculty member. Each course on different topics. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

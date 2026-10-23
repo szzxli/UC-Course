@@ -1,0 +1,408 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 197B",
+  "title": "Senior Thesis",
+  "units": "0",
+  "description": "Independent research under the supervision of a faculty member which will result in a senior thesis. Student will concentrate on writing a thesis.",
+  "prerequisites_raw": "Mathematics 197A. Open to senior majors only; consent of department and instructor.",
+  "prerequisites_courses": [
+   "MATH 197A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 199",
+  "title": "Independent Studies in Mathematics",
+  "units": "0",
+  "description": "Coursework consists of academic research supervised by a faculty member on a topic not available in established course offerings.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in math; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Coursework consists of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in math; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 201A",
+  "title": "Real Analysis",
+  "units": "4",
+  "description": "Measure theory and integration. Point set topology. Principles of functional analysis. Lp-spaces. The Riesz representation theorem. Topics in real and functional analysis.",
+  "prerequisites_raw": "Mathematics 118A-B-C.",
+  "prerequisites_courses": [
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 201B",
+  "title": "Real Analysis",
+  "units": "4",
+  "description": "Measure theory and integration. Point set topology. Principles of functional analysis. Lp-spaces. The Riesz representation theorem. Topics in real and functional analysis.",
+  "prerequisites_raw": "Mathematics 118A-B-C.",
+  "prerequisites_courses": [
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 201C",
+  "title": "Real Analysis",
+  "units": "4",
+  "description": "Measure theory and integration. Point set topology. Principles of functional analysis. Lp-spaces. The Riesz representation theorem. Topics in real and functional analysis.",
+  "prerequisites_raw": "Mathematics 118A-B-C.",
+  "prerequisites_courses": [
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 202A",
+  "title": "Complex Analysis",
+  "units": "4",
+  "description": "Analytic functions. Complex integration. Cauchy's theorem. Series and product developments. Entire functions. Conformal mappings. Topics in complex analysis.",
+  "prerequisites_raw": "Mathematics 118A-B-C or 122A.",
+  "prerequisites_courses": [
+   "MATH 118A",
+   "MATH 122A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 202B",
+  "title": "Complex Analysis",
+  "units": "4",
+  "description": "Analytic functions. Complex integration. Cauchy's theorem. Series and product developments. Entire functions. Conformal mappings. Topics in complex analysis.",
+  "prerequisites_raw": "Mathematics 118A-B-C or 122A.",
+  "prerequisites_courses": [
+   "MATH 118A",
+   "MATH 122A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 202C",
+  "title": "Complex Analysis",
+  "units": "4",
+  "description": "Analytic functions. Complex integration. Cauchy's theorem. Series and product developments. Entire functions. Conformal mappings. Topics in complex analysis.",
+  "prerequisites_raw": "Mathematics 118A-B-C or 122A.",
+  "prerequisites_courses": [
+   "MATH 118A",
+   "MATH 122A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 206A",
+  "title": "Matrix Analysis and Computation",
+  "units": "4",
+  "description": "Graduate level-matrix theory with introduction to matrix computations. SVD's, pseudoinverses, variational characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 206B",
+  "title": "Numerical Simulation",
+  "units": "4",
+  "description": "Linear multistep methods and Runge-Kutta methods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equations. Numerical solution of boundary value problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 206C",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Difference Methods",
+  "units": "4",
+  "description": "Finite difference methods for hyperbolic, parabolic and elliptic PDE's, with application to problems in science and engineering. Convergence, consistency, order and stability of finite difference methods. Dissipation and dispersion. Finite volume methods. Software design and adaptivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 206D",
+  "title": "Numerical Solution of Partial Differential Equations - Finite Element Methods",
+  "units": "4",
+  "description": "Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptic partial differential equations, with application to problems in science and engineering. Error estimates. Standard and discontinuous Galerkin methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 209",
+  "title": "Set Theory",
+  "units": "4",
+  "description": "Study of axiomic set theory; topics include relations and functions, orderings, ordinal and cardinal numbers and their arithmetic, transfinite constructible sets, consistency and independence results of Godel and Cohen.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 214A",
+  "title": "Ordinary Differential Equations",
+  "units": "4",
+  "description": "Existence, uniqueness, and stability; the geometry of phase space; linear systems and hyperbolicity; maps and diffeomorphisms.",
+  "prerequisites_raw": "Not open to mathematics majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 214B",
+  "title": "Chaotic Dynamics and Bifurcation Theory",
+  "units": "4",
+  "description": "Hyberbolic structure and chaos; center manifolds; bifurcation theory; and the Feigenbaum and Ruelle-Takens cascades to strange attractors.",
+  "prerequisites_raw": "Not open to mathematics majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 214C",
+  "title": "INTRO STOCHST PROCS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 215A",
+  "title": "Partial Differential Equations",
+  "units": "4",
+  "description": "Wave, heat, and potential equations.",
+  "prerequisites_raw": "Not open to mathematics majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 215B",
+  "title": "Fourier Series and Numerical Methods",
+  "units": "4",
+  "description": "Fourier series; generalized functions; and numerical methods.",
+  "prerequisites_raw": "Not open to mathematics majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 220A",
+  "title": "Modern Algebra",
+  "units": "4",
+  "description": "Group theory, ring and module theory, field theory, Galois theory, other topics.",
+  "prerequisites_raw": "Mathematics 108A-B and 111A-B.",
+  "prerequisites_courses": [
+   "MATH 108A",
+   "MATH 111A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 220B",
+  "title": "Modern Algebra",
+  "units": "4",
+  "description": "Group theory, ring and module theory, field theory, Galois theory, other topics.",
+  "prerequisites_raw": "Mathematics 108A-B and 111A-B.",
+  "prerequisites_courses": [
+   "MATH 108A",
+   "MATH 111A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 220C",
+  "title": "Modern Algebra",
+  "units": "4",
+  "description": "Group theory, ring and module theory, field theory, Galois theory, other topics.",
+  "prerequisites_raw": "Mathematics 108A-B and 111A-B.",
+  "prerequisites_courses": [
+   "MATH 108A",
+   "MATH 111A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 221A",
+  "title": "Foundations of Topology",
+  "units": "4",
+  "description": "Metric spaces, topological spaces, continuity, Hausdorff condition, compactness, connectedness, product spaces, quotient spaces. Other topics as time allows.",
+  "prerequisites_raw": "Mathematics 118A or equivalent.",
+  "prerequisites_courses": [
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 221B",
+  "title": "Homotopy Theory",
+  "units": "4",
+  "description": "Homotopy groups, exact sequences, fiber spaces, covering spaces, van Kampen Theorem.",
+  "prerequisites_raw": "Mathematics 221A.",
+  "prerequisites_courses": [
+   "MATH 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 221C",
+  "title": "Differential Topology",
+  "units": "4",
+  "description": "Topological manifolds, differentiable manifolds, transversality, tangent bundles, Borsuk-Ulam theorem, orientation and intersection number, Lefschetz fixed point theorem, vector fields.",
+  "prerequisites_raw": "Mathematics 221A.",
+  "prerequisites_courses": [
+   "MATH 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 223B",
+  "title": "Topics in Ring Theory",
+  "units": "4",
+  "description": "Selected topics in ring theory.",
+  "prerequisites_raw": "Mathematics 201A-B-C.",
+  "prerequisites_courses": [
+   "MATH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 225A",
+  "title": "Topics in Number Theory",
+  "units": "4",
+  "description": "Selected topics in number theory.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 225B",
+  "title": "Topics in Number Theory",
+  "units": "4",
+  "description": "Selected topics in number theory.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 225C",
+  "title": "Topics in Number Theory",
+  "units": "4",
+  "description": "Selected topics in number theory.",
+  "prerequisites_raw": "Mathematics 220A-B-C.",
+  "prerequisites_courses": [
+   "MATH 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 227A",
+  "title": "Advanced Topics in Geometric and Algebraic Topology",
+  "units": "4",
+  "description": "Topics, varying from year to year, include piecewise linear and differential topology, manifolds, fiber bundles and fiber spaces, homotopy theory, and spectral sequences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 227B",
+  "title": "Advanced Topics in Geometric and Algebraic Topology",
+  "units": "4",
+  "description": "Topics, varying from year to year, include piecewise linear and differential topology, manifolds, fiber bundles and fiber spaces, homotopy theory, and spectral sequences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 227C",
+  "title": "Advanced Topics in Geometric and Algebraic Topology",
+  "units": "4",
+  "description": "Topics, varying from year to year, include piecewise linear and differential topology, manifolds, fiber bundles and fiber spaces, homotopy theory, and spectral sequences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 228A",
+  "title": "Functional Analysis",
+  "units": "4",
+  "description": "Topics in functional analysis such as operators on Hilbert space, convex analysis, fixed point theorems, distribution theory, unbounded operators.",
+  "prerequisites_raw": "Mathematics 201A-B-C.",
+  "prerequisites_courses": [
+   "MATH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 228B",
+  "title": "Functional Analysis",
+  "units": "4",
+  "description": "Topics in functional analysis such as operators on Hilbert space, convex analysis, fixed point theorems, distribution theory, unbounded operators.",
+  "prerequisites_raw": "Mathematics 201A-B-C.",
+  "prerequisites_courses": [
+   "MATH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 228C",
+  "title": "Functional Analysis",
+  "units": "4",
+  "description": "Topics in functional analysis such as operators on Hilbert space, convex analysis, fixed point theorems, distribution theory, unbounded operators.",
+  "prerequisites_raw": "Mathematics 201A-B-C.",
+  "prerequisites_courses": [
+   "MATH 201A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 231A",
+  "title": "Lie Groups and Lie Algebras",
+  "units": "4",
+  "description": "Differentiable manifolds, definition and examples of lie groups, lie group-lie algebra correspondence, nilpotent and solvable lie algebras, classification of semi-simple lie algebras over the complexes, representations of lie groups and lie algebras, special topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

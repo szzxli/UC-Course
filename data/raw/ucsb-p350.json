@@ -1,0 +1,275 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 102",
+  "title": "Finite Elements Analysis of Heat Transfer and Fluid Flow with COMSOL",
+  "units": "3",
+  "description": "Study of modeling and analysis of Heat Transfer and Fluid Flow problems using Finite Elements numerical techniques. Students learn to develop sound numerical models of engineering devices using COMSOL Multiphysics Finite Elements software. Addresses geometry construction, model development, meshing, results generation, and physical analysis.",
+  "prerequisites_raw": "ME151B and ME152A; or by consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 103",
+  "title": "Dynamical Systems",
+  "units": "4",
+  "description": "Equations of Motion for Mechanical, Electrical, Heat, Fluid, and Control Systems. Block diagram algebra and interconnections. Laplace transform. Transfer functions and dynamic stability. First and second order systems. Frequency response. Introduction to mechanical vibrations and feedback control design.",
+  "prerequisites_raw": "Math 6B and ME 16",
+  "prerequisites_courses": [
+   "MATH 6B",
+   "ME 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 104",
+  "title": "Mechatronics",
+  "units": "4",
+  "description": "Interfacing of mechanical and electrical systems and mechatronics. Basic introduction to sensors, actuators, and computer interfacing and control. Transducers and measurement devices, actuators, A/D and D/A conversion, signal conditioning and filtering. Practical skills developed in weekly lab exercises.",
+  "prerequisites_raw": "ME 6 and ME 103; open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 6",
+   "ME 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 105",
+  "title": "Mechanical Engineering Laboratory",
+  "units": "4",
+  "description": "Introduction to fundamental engineering laboratory measurement techniques and report writing skills. Experiments from thermosciences, fluid mechanics, mechanics, and materials science. Introduction to modern data acquisition and analysis techniques.",
+  "prerequisites_raw": "ME 151B, ME 152A, ME 103; and MATRL 101 or MATRL 100C.",
+  "prerequisites_courses": [
+   "ME 151B",
+   "ME 152A",
+   "ME 103",
+   "MATRL 101",
+   "MATRL 100C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 106A",
+  "title": "Advanced Mechanical Engineering Laboratory",
+  "units": "3",
+  "description": "An advanced lab course with experiments in dynamical systems and feedback control design. Students design, troubleshoot, and perform detailed, multi-session experiments.",
+  "prerequisites_raw": "ME 155A.",
+  "prerequisites_courses": [
+   "ME 155A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 106B",
+  "title": "Mechanics, Materials and Structures Laboratory",
+  "units": "3",
+  "description": "Experiments on mechanical behavior of materials and structures. Assessment of analytical and finite element methods for mechanical design, with applications to optimization of lightweight structures.",
+  "prerequisites_raw": "ME 15; ME 154; ME 156A; and Materials 100B or 101.",
+  "prerequisites_courses": [
+   "ME 15",
+   "ME 154",
+   "ME 156A",
+   "MATRL 100B",
+   "MATRL 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 106C",
+  "title": "Advanced Thermo/Fluids Laboratory",
+  "units": "3",
+  "description": "Perform thermo/fluid experiments that emphasize elements of thermodynamics, heat transfer, and fluid mechanics. This laboratory course stresses critical thinking skills required to construct and perform experiments independently, and to investigate physical phenomena experimentally.",
+  "prerequisites_raw": "ME 105 and 151A-B, ME 151C (may be concurrent) and ME 152A-B",
+  "prerequisites_courses": [
+   "ME 105",
+   "ME 151C",
+   "ME 152A",
+   "ME 151A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 107",
+  "title": "Machine Learning",
+  "units": "3",
+  "description": "This course is meant to introduce students to machine learning and deep learning. ME 107 is taught at the undergraduate level and teaches students how to identify a machine learning problem in the context of real-world applications, mathematically formulate a learning problem, identify when a learning problem is well-posed, under-determined and overdetermined, and develop algorithms and Python code to solve the problem. Students are introduced to the concepts of learning algorithms, overfitting, under-fitting, statistical measures of estimators, optimization approaches to learning, principal component analysis, regression, support vector machines, and artificial neural networks.",
+  "prerequisites_raw": "ME 17; or consent of instructor",
+  "prerequisites_courses": [
+   "ME 17"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 108",
+  "title": "Applications of Finite Element Analysis",
+  "units": "3",
+  "description": "Modeling and translation into practical FEA using SolidWorks simulation tools. The course focuses on choosing the correct constraints for parts and assembly. Another focus is on moving parts within SolidWorks. If time permits the class considers optimization of mechanical structures based on anticipated loads. This class goes through the cycle of designing, performing FEA, testing and repeat. SolidWorks, including its geometry optimization module, is used in this class as a calculator. This fulfills the need of industry (SolidWorks), while preparing students to Capstone and other courses.",
+  "prerequisites_raw": "ME 14; ME 15",
+  "prerequisites_courses": [
+   "ME 14",
+   "ME 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 110",
+  "title": "Aerodynamics and Aeronautical Engineering",
+  "units": "3",
+  "description": "Concepts from aerodynamics, including lift and drag analysis for airfoils as well as aircraft sizing/scaling issues. Structural mechanics concepts are applied to practical aircraft design. Intended for students considering a career in aeronautical engineering.",
+  "prerequisites_raw": "Mechanical Engineering 14 and 152A.",
+  "prerequisites_courses": [
+   "ME 14",
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 112",
+  "title": "Energy",
+  "units": "3",
+  "description": "Introduction to the field of Energetics. Topics may include energy sources and production, energy usage, renewable technologies, hardware, operating principles, environmental impact, energy reserves, national and global energy budgets, historical perspectives, economics, societal considerations, and others.",
+  "prerequisites_raw": "Senior Undergraduate or Graduate Student status in the College of Engineering; or consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 119",
+  "title": "Introduction to Coastal Engineering",
+  "units": "3",
+  "description": "Quantitative description of waves and tides; refraction, shoaling. Nearshore circulation. Sediment characteristics and transport; equilibrium beach profile; shoreline protection.",
+  "prerequisites_raw": "ME 152A.",
+  "prerequisites_courses": [
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 123",
+  "title": "Soft Robotics",
+  "units": "3",
+  "description": "Learning from the versatility and robustness of bodies in nature, robotic devices are moving away from the traditional rigid form to designs that intentionally and carefully incorporate compliance. We explore this emerging paradigm of robots by 1) modeling the underlying mechanics of soft systems, such as soft actuators, sensors, and bodies, 2) examining current literature and gleaning design principles, and 3) designing and fabricating soft robotic devices in a hands-on laboratory setting. This course includes a final project; students are expected to design, model, fabricate, and test either a subcomponent or a full soft robot.",
+  "prerequisites_raw": "ME 16, ME 103, and ME 104",
+  "prerequisites_courses": [
+   "ME 16",
+   "ME 103",
+   "ME 104"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 124",
+  "title": "Advanced Topics in Transport Phenomena/Safety",
+  "units": "3",
+  "description": "Hazard identification and assessments, runaway reactions, emergency relief. Plant accidents and safety issues. Dispersion and consequences of releases.",
+  "prerequisites_raw": "Chemical Engineering 120A-B-C; or, Mechanical Engineering 151A-B and 152A.",
+  "prerequisites_courses": [
+   "CH E 120A",
+   "ME 151A",
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125A",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: appliedmechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125AD",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125AE",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125AF",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125AG",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125AH",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125AI",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: appliedmechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125AJ",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

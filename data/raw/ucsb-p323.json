@@ -1,0 +1,358 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LING W",
+  "code": "LING W 170",
+  "title": "Language in Social Interaction",
+  "units": "4",
+  "description": "What role does language play in social interaction? How do individuals use language to shape relationships with others within or across social groups? How do patterns of linguistic interaction constitute patterns of social organization? Emphasis on hands-on analysis of transcriptions and recordings of face-to-face interactions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LIT CS",
+  "code": "LIT CS 12",
+  "title": "Literary Structure: Nonchronological",
+  "units": "0",
+  "description": "Logical, analogical, cyclical, and repetitive schemes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 5",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Student-directed discussion and study in a variety of subjects within Marine Science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 10",
+  "title": "Introduction to Marine Science",
+  "units": "6",
+  "description": "Introduces students to the field of Marine Science. Students will build key skills in reading and writing comprehension within the discipline, navigating marine science research opportunities on campus, and explore diverse ways of knowing in marine science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 20",
+  "title": "Modern Practices in Marine Science",
+  "units": "6",
+  "description": "This modularized course will introduce students to important topics in modern marine science including treatment of data, scientific ethics, scientific writing, scientific presentations, the practice of interdisciplinary research, and the campus marine science research portfolio.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 30",
+  "title": "Marine Data Science",
+  "units": "0",
+  "description": "An introduction to scientific computing, reproducibility, and open science in the context of marine science. Emphasis on sources and forms of data commonly used in marine research, including satellite imagery, ocean circulation models, and vessel AIS.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 100",
+  "title": "Speaker Seminar Series",
+  "units": "0",
+  "description": "This course will run concurrently with the Graduate Marine Science Speaker Seminar Series and will introduce students to a breadth of marine science topics and cutting-edge research. Student will build foundations in the topic of research, as well practice key professional competencies to prepare for these research seminars.",
+  "prerequisites_raw": "MARINCS 10, 20.",
+  "prerequisites_courses": [
+   "MARINCS 10",
+   "MARINCS 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 100A",
+  "title": "Modern Practices in Marine Science",
+  "units": "0",
+  "description": "This modularized course will introduce students to important topics in modern marine science including treatment of data, scientific ethics, scientific writing, scientific presentations, the practice of interdisciplinary research, and the campus marine science research portfolio.",
+  "prerequisites_raw": "MARINCS 10",
+  "prerequisites_courses": [
+   "MARINCS 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 100B",
+  "title": "Marine Data Science",
+  "units": "0",
+  "description": "An introduction to scientific computing, reproducibility, and open science in the context of marine science. Emphasis on sources and forms of data commonly used in marine research, including satellite imagery, ocean circulation models, and vessel AIS.",
+  "prerequisites_raw": "MARINCS 10",
+  "prerequisites_courses": [
+   "MARINCS 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 100C",
+  "title": "Speaker Seminar Series",
+  "units": "6",
+  "description": "This course will run concurrently with the Graduate Marine Science Speaker Seminar Series and will introduce students to a breadth of marine science topics and cutting-edge research. Student will build foundations in the topic of research, as well practice key professional competencies to prepare for these research seminars.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 101",
+  "title": "Chemical Oceanography",
+  "units": "0",
+  "description": "An introduction to the chemistry of the oceans. Topics include composition and chemical equilibria of seawater, biogeochemical cycling, sediment chemistry, atmospheric exchange, circulation and rates of mixing based on chemical tracers, and the impact of ocean chemistry on climate change.",
+  "prerequisites_raw": "CHEM 1C and MARINCS 100A",
+  "prerequisites_courses": [
+   "CHEM 1C",
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 102",
+  "title": "Biological Oceanography",
+  "units": "0",
+  "description": "Current concepts in biological oceanography focusing on the coupling of biotic processes to ocean physics, chemistry and sedimentation. Emphasis on areas of active research with critical evaluation of current and seminal literature.",
+  "prerequisites_raw": "Marine CS 100A",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 103",
+  "title": "Introduction to Physical Oceanography",
+  "units": "6",
+  "description": "A quantitative introduction to physical oceanography. Topics discussed include: properties of sea water, derivation and application of the equations of motion for a rotating planet, and the dynamics of wind- and buoyancy-driven general circulation.",
+  "prerequisites_raw": "MARINCS 100A",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 104",
+  "title": "Geological Oceanography",
+  "units": "6",
+  "description": "Morphology, formation, and evolution of ocean basins; crustal structure and composition of ocean margins; source and composition of marine sediments; marine sediment as repository of paleoclimate and paleo-ocean circulation records. Paleoceanographic changes in relation to tectonics and changes in orbital parameters, links between changes in ocean circulation and climate changes.",
+  "prerequisites_raw": "MARINCS 100A",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 105",
+  "title": "Marine Ecology & Conservation Biology",
+  "units": "6",
+  "description": "Provides an in-depth understanding of the biotic and abiotic interactions that determine ecological processes in marine environments, how these processes shape the structure of marine ecosystems, and how these principles are used to direct marine conservation and management.",
+  "prerequisites_raw": "MARINCS 100A",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 106",
+  "title": "Biologging Data Science",
+  "units": "6",
+  "description": "An advanced data science course with applications to biologging technologies. Topics include history of animal tracking technologies, analysis of sensor data (emphasis on GPS, accelerometry, and audio), and modeling approaches for animal movement.",
+  "prerequisites_raw": "Introductory scientific computing class (e.g. MARINCS 100B)",
+  "prerequisites_courses": [
+   "MARINCS 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 150",
+  "title": "Special Topics in Marine Science",
+  "units": "0",
+  "description": "This course will introduce students to a topical area of marine science. Topics will vary by instructor and quarter.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 150AJ",
+  "title": "Special Topics in Marine Science",
+  "units": "0",
+  "description": "This course will introduce students to a topical area of marine science. Topics will vary by quarter.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 150DV",
+  "title": "Special Topics in Marine Science",
+  "units": "0",
+  "description": "This course will introduce students to a topical area of marine science. Topics will vary by quarter.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 150GI",
+  "title": "Special Topics in Marine Science",
+  "units": "0",
+  "description": "This course will introduce students to a topical area of marine science. Topics will vary by quarter.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 150MC",
+  "title": "Special Topics in Marine Science",
+  "units": "0",
+  "description": "This course will introduce students to a topical area of marine science. Topics will vary by quarter.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 160",
+  "title": "Marine Science Seminar",
+  "units": "0",
+  "description": "Research seminar in marine science.",
+  "prerequisites_raw": "Designed for majors. Non-majors require consent of the instructor to finalize enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 160PR",
+  "title": "Marine Science Strategies & Practices for Creating Scientific Presentations",
+  "units": "0",
+  "description": "Upper division course in which we will explore strategies and practices for creating scientific presentations.",
+  "prerequisites_raw": "Designed for majors. Non-majors require consent of the instructor to finalize enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 161",
+  "title": "Marine Science Rooftop Roundtable",
+  "units": "2",
+  "description": "This seminar introduces students to the UCSB marine science enterprise through discussions with faculty and staff that comprise the enterprise.",
+  "prerequisites_raw": "MARINCS 10 and consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 10"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 170A",
+  "title": "Field Studies in Marine Science",
+  "units": "99",
+  "description": "This course sequence provides students an opportunity to prepare for and conduct individualized marine science field and oceanographic research under the guidance of a faculty member.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 170B",
+  "title": "Field Studies in Marine Science",
+  "units": "99",
+  "description": "This course sequence provides students an opportunity to prepare for and conduct individualized marine science field and oceanographic research under the guidance of a faculty member.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 170C",
+  "title": "Field Studies in Marine Science",
+  "units": "99",
+  "description": "This course sequence provides students an opportunity to prepare for and conduct individualized marine science field and oceanographic research under the guidance of a faculty member.",
+  "prerequisites_raw": "MARINCS 100A or consent of instructor.",
+  "prerequisites_courses": [
+   "MARINCS 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 190",
+  "title": "Marine Science Capstone",
+  "units": "0",
+  "description": "This course will provide individualized structure and facilitation for research and other creative activities undertaken by the student in their senior year.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARINCS",
+  "code": "MARINCS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in marine science with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARSC",
+  "code": "MARSC 595",
+  "title": "Seminar in Marine Science",
+  "units": "2",
+  "description": "A series of lectures and seminars on diverse research topics in marine science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARSC",
+  "code": "MARSC 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Hours and credit by arrangement with faculty.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MARSC",
+  "code": "MARSC 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "For research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "MS candidate and consent of commitee chair.",
+  "prerequisites_courses": []
+ }
+]

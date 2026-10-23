@@ -1,0 +1,222 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286C",
+  "title": "In Situ/ In Operando Methods for Materials Science Research",
+  "units": "3",
+  "description": "Overview of various in situ / in operando techniques used to characterize functional materials during normal operation, to investigate the processes of materials synthesis and phase transformations, to isolate transient or metastable states. X-ray absorption spectroscopy, X-ray photoelectron spectroscopy, IR, Raman, diffraction techniques, magnetic resonance techniques, electron microscopy, etc. Advantages and limitations. Important considerations when devising a new in situ set up / probe.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286D",
+  "title": "Advanced TEM",
+  "units": "3",
+  "description": "Intended for graduate students who are using transmission electron microscopy in their research. Covers imaging theory, lens aberrations, contrast transfer functions, dynamical diffraction theories, and diffraction contrast from a wide range of crystal defects (planar defects, dislocations, etc.). Also discusses the basics of scanning transmission electron microscopy techniques. Meant to complement the more practical training in 209C, but 209C is not a pre-requisite.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286E",
+  "title": "Electrochemistry and Electrochemical Methods",
+  "units": "3",
+  "description": "Introduction to electrochemistry and electrochemical methods used to study (photo)electrochemical systems for energy storage and conversion (rechargeable batteries, fuel cells, solar cells). Introduction to corrosion electrochemistry.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286F",
+  "title": "Symmetries and Group Theory",
+  "units": "3",
+  "description": "Symmetries have profound and far-reaching effects on material properties. Introduce the fundamentals of symmetry groups as they relate to molecules and crystalline solids. Topics covered include: point and space groups, irreducible representations, tensor properties of materials, Raman and IR selection rules, Landau's theory of phase transitions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286G",
+  "title": "Structural Families of Functional Inorganic Materials",
+  "units": "3",
+  "description": "In this advanced inorganic materials course, we will learn how different crystal structural classes of materials are inter-related, and how properties evolve as a consequence of the different structural families.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286H",
+  "title": "Fundamental and Applied Concepts in Ceramics for Electrochemical Technologies",
+  "units": "3",
+  "description": "The objective of this course is to familiarize students with ceramic materials used in state-of-the-art Li ion batteries and that can enable advanced electrochemical technologies such as solid-state and electrical grid batteries. The course will briefly cover fundamental aspects of ceramics and their processing, solid-state electrochemistry, and the design, manufacturing, and characterization of state-of-the-art Li ion and advanced battery concepts. Depending on class size, hands-on learning activities may be planned for the end of the semester where students or student teams will learn how to make and electrochemically characterize Li ion and Li metal electrodes with conventional liquid electrolytes and/or solid-state electrolytes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286I",
+  "title": "Special Topics in Inorganic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will include in-depthdiscussions of advanced topics in inorganic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286J",
+  "title": "Optical Characterization of Materials",
+  "units": "3",
+  "description": "Optical techniques encompass a wide variety of tools for materials characterization. After reviewing light-matter interactions and optical properties of materials, this course surveys a selection of optical techniques commonly used in materials science, including optical conductivity, Raman and IR spectroscopy, the magneto-optic Kerr effect, and photoemission spectroscopy.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286K",
+  "title": "Non-Metal to Metal Transitions",
+  "units": "3",
+  "description": "The non-metal to metal transition in complex materials provides a continued challenge for our understanding, and more importantly, the phenomenon is associated with a vast array of useful materials properties, including transparent conductors, IR detectors, smart windows, superconductors, and thermoelectrics. In this class, we examine and rationalize experimental data, with a special focus on complex transition metal oxides.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286L",
+  "title": "Magnetism and Magnetic Phase Behavior in Solid State Materials",
+  "units": "3",
+  "description": "Covers the fundamentals of magnetisms role in governing symmetry breaking and phase behavior in condensed matter systems. Models of spin behavior, magnetic exchange, critical phase behavior, and experimental methods for exploring static and dynamic magnetic properties of material systems are discussed. Course material is framed in the context of model realizations in existing inorganic materials where appropriate.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286M",
+  "title": "Experiments in Inorganic Materials",
+  "units": "3",
+  "description": "Experimental methods of interrogating electronic ground states and phase behaviors in inorganic materials are presented. Examples include heat capacity, spin susceptibility, electrical/thermal transport, Raman, and spin resonance techniques. The fundamental physics and materials properties underlying each technique are be taught and illustrated by the states/phase behaviors accessible by each.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286N",
+  "title": "Functional Inorganic Oxides",
+  "units": "3",
+  "description": "Intended to give a broad overview of the properties, chemistry and applications of functional inorganic oxides. The course is organized according to structure types (rocksalts, fluorites, rutiles, spinels, corundums, garnets, perovskites, zeolites, etc.) picking up important themes and properties within each group.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286P",
+  "title": "Special Topics in Inorganic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will include in-depthdiscussions of advanced topics in inorganic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286Q",
+  "title": "Topics in Quantum Materials Measurement",
+  "units": "3",
+  "description": "Discusses current topics in Quantum Materials Measurement through journal readings, studies of background materials provided, and student presentations. Examples include mesoscopic and quantum transport phenomena as well as phenomena at interfaces and junctions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286QQ",
+  "title": "Quantum Phenomena in Mesoscopic Materials and Devices",
+  "units": "3",
+  "description": "This course develops the physical principles behind quantum behavior in nanoscale solid-state devices where phase coherence, confinement, and interactions dominate transport. Topics include quantum point contacts (quantized conductance and shot noise), quantum dots (Coulomb blockade, single-electron tunneling, and Kondo physics), and focus on real materials like topological insulators and superconductors. The course also introduces superconducting hybrid structures and Josephson junction physics, emphasizing how mesoscopic effects emerge in real devices and measurement setups. Students will connect simplified theoretical models to experimental signatures commonly observed in low-temperature nanoelectronics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286R",
+  "title": "Theoretical Foundations of Quantum Materials",
+  "units": "3",
+  "description": "A rigorous treatment of selected topics in modern solid state physics, including theoretical frameworks (second quantization, Green's functions, density matrix formalism, response functions), many-body effects (interacting electron gas, Fermi liquid theory, electron-phonon coupling, quantum spin models), superconductivity (Ginzburg-Landau theory, BCS theory, Josephson effect, quantum vortices), and topological phenomena (Landau levels and the quantum Hall effect, Berry phase and curvature, modern theory of polarization, topological insulators and superconductors, Majorana fermions).",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286S",
+  "title": "Advanced Solid State Physics",
+  "units": "3",
+  "description": "The electronic, transport, magnetic and optical properties of a crystalline solid.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286T",
+  "title": "Topological Band Theory",
+  "units": "3",
+  "description": "A brief introduction to the topological band theory and topological materials. Review of the traditional band theory including the Bloch theory, semiconductors, and metals. Introduction to the concept of topological invariance by the simplest topological system, 1D insulator described by the SSH model. Using the 1D SSH model as the building block to understand the topological invariants in 2D, the TKNN number, and the Z2 index. The same approach will be adopted again to understand the 3D topological invariants using the knowledge we obtained in the 2D systems. Introduction to many of the typical topological materials and the experimental studies on these materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286V",
+  "title": "Special Topics in Inorganic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will include in-depthdiscussions of advanced topics in inorganic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286W",
+  "title": "The Art of Scientific Writing",
+  "units": "3",
+  "description": "This course is about reading the scientific literature critically, and about writing science that is simultaneously impactful and readable. We will discuss what makes scientific papers compelling without being obscure and ambiguous and will practice through critiquing each other’s written work. Preparing tables and graphics, and formatting text will be an intrinsic part of the discussion. Grades will be assigned based on manuscripts produced before the end of the quarter.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286Z",
+  "title": "Solid State Ionics and Electrochem Devices",
+  "units": "3",
+  "description": "The objective of this course is to familiarize students with ceramic materials used in state-of-the-art Li ion batteries and that can enable advanced electrochemical technologies such as solid-state and electrical grid batteries. The course will briefly cover fundamental aspects of ceramics and their processing, solid-state electrochemistry, and the design, manufacturing, and characterization of state-of-the-art Li ion and advanced battery concepts.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 287",
+  "title": "Special Topics in Macromolecular Materials",
+  "units": "3",
+  "description": "This course will be offered on a irregular basis and will concern in-depth discussions of advanced topics in macromolecular materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

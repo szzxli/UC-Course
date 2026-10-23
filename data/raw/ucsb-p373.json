@@ -1,0 +1,376 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 297A",
+  "title": "Doctor of Musical Arts Performances",
+  "units": "2",
+  "description": "Preparation of chamber music recital or concerto or major opera/oratorio role or a full length recital (conducting: the equivalent of a chamber ensemble or small ensemble or large ensemble or mixed concert).",
+  "prerequisites_raw": "Recital audition required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 297B",
+  "title": "Doctor of Musical Arts Performances",
+  "units": "2",
+  "description": "Preparation of a full-length recital (conducting: the equivalent of a full-length concert).",
+  "prerequisites_raw": "Recital audition required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 299A",
+  "title": "Doctor of Musical Arts Seminar: Historical/Theoretical Aspects of Music",
+  "units": "4",
+  "description": "A study of selected repertories, not confined to a single genre or period, from the technical perspective of music thoery and history.",
+  "prerequisites_raw": "Music 200A.",
+  "prerequisites_courses": [
+   "MUS 200A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 299B",
+  "title": "Doctor of Musical Arts Seminar: Historical/Theoretical Aspects of Music",
+  "units": "4",
+  "description": "A study of selected repertories, not confined to a single genre or period, from the technical perspective of music thoery and history.",
+  "prerequisites_raw": "Music 200A.",
+  "prerequisites_courses": [
+   "MUS 200A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 501",
+  "title": "Directed Teaching in Music",
+  "units": "0",
+  "description": "Covers development of teaching techniques especially oriented to lower-division instruction. Theoretical aspects covered at beginning of each quarter. Practical techniques discussed including weekly meeting with class instructor. Required course for all teaching assistants.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 502",
+  "title": "Teaching Practicum",
+  "units": "0",
+  "description": "Teaching assistant: leads discussion of topics covered in the lecture. Associate: assumes full responsibility for the teaching of one or more courses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 593",
+  "title": "Dissertation Writing Seminar",
+  "units": "2",
+  "description": "Designed to serve all A.B.D. graduate students in the academic areas who are at various stages of writing their dissertation thesis. Seminar will be organized as a workshop in which all students will present portions of their writing for discussion. As tailored to each students project, we will discuss a number of dissertation writing challenges and learn how to self-edit and critically evaluate effective thesis writing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594A",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594AA",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594B",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594P",
+  "title": "Music Pedagogy",
+  "units": "0",
+  "description": "Covers theories, principles, and practical techniques for teaching music, especially in undergraduate-level music classroom instruction. Topics may include learning objectives, assessments, music-specific challenges, inclusive pedagogy, lesson planning, and writing teaching philosophies. Recommended course for all teaching assistants.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594S",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594ST",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 594Z",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "Special seminar in selected problems of current musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 595",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Critical review of research in selected problems of musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial for research in musicology, ethnomusicology, composition, theory, or performance; instructor will usually be student's major professor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 597",
+  "title": "Individual Study for Master's Comprehensive and Doctoral Qualifying Exam- inations for Advancement to Candidacy",
+  "units": "0",
+  "description": "Individual study for master's comprehensive and doctoral qualifying examinations for advancement to candidacy.",
+  "prerequisites_raw": "Consent of instructor and graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 598",
+  "title": "Preparation for Master's Degree",
+  "units": "0",
+  "description": "Instructor will be chair of student's committee in musicology, ethnomusicology, composition, theory, or performance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 599A",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "Instructor will ordinarily be chair of student's doctoral committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 599B",
+  "title": "Preparation for Doctor of Musical Arts Post-Candidacy Recitals",
+  "units": "0",
+  "description": "Preparation of two full-length recitals (conducting: the equivalent of two full-length concerts) required after advancement to candidacy for the dma degree. Instructor should be student's performance instructor: ordinarily chair of DMA committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 599C",
+  "title": "Preparation of DMA Document",
+  "units": "0",
+  "description": "Preparation of the DMA document required after advancement to candidacy for the DMA degree. Instructor should be a member of student's doctoral committee.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 34",
+  "title": "Wind Ensemble",
+  "units": "1",
+  "description": "Masterworks of the literature for ensembles smaller than orchestral or fullband scoring. Although the basic ensembles feature winds, both strings and percussion are utilized.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 36",
+  "title": "UCSB Chamber Choir",
+  "units": "1",
+  "description": "A select ensemble of voice majors and non-majors, the Chamber Choir prepares musicians for professional ensemble work and offers advanced study in choral literature, techniques, styles and interpretation covering five centuries of choral repertoire.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 37",
+  "title": "UCSB Lumina",
+  "units": "1",
+  "description": "This chorus studies and performs the main repertory for treble voices, from Renaissance to 21st Century. Occasionally undertakes collaboration with other UCSB choirs and community entities. No audition required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 37M",
+  "title": "UCSB Singing Gauchos",
+  "units": "1",
+  "description": "The UCSB Singing Gauchos is a tenor and bass choir performing fine choral literature representative of various style periods and vocal techniques from the global choral tradition. Regular performances on and off campus.",
+  "prerequisites_raw": "No audition required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 38",
+  "title": "Opera Workshop",
+  "units": "1",
+  "description": "Participation in opera scenes.",
+  "prerequisites_raw": "By audition only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 38P",
+  "title": "Opera Production",
+  "units": "1",
+  "description": "Participation in annual opera production.",
+  "prerequisites_raw": "By audition only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 39",
+  "title": "The Fundamentals of Popular Guitar",
+  "units": "1",
+  "description": "A skills course designed for developing guitar technique used in folk, rock, blues, classical and jazz styles. The curriculum focuses on strumming patterns, finger picking, chords and their voicings, riffs and soloing. Emphasis is on learning to play songs by ear. Neck geography is taught through relational patterns of scales and modes. All guitar types (acoustic, classical, electric) are welcome, though acoustic/ classical are preferred. This class accommodates a variety of playing levels, from complete beginner to intermediate-advanced shredders and classical players, and everything in-between. Guitar to be provided by the student.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 40",
+  "title": "Ensemble for Contemporary Music",
+  "units": "1",
+  "description": "Reading sessions and preparation for performance of contemporary music. There will be two concerts each quarter. Includes departmental scholarship players, and is open to composers who also perform.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 41",
+  "title": "Piano Ensemble",
+  "units": "1",
+  "description": "Piano duets (1 piano, 4 hands) and duos (2 pianos) in separate sections.",
+  "prerequisites_raw": "By audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 42",
+  "title": "Orchestra",
+  "units": "1",
+  "description": "UCSB Chamber Orchestra performs pieces from the traditional chamber orchestra repertoire, as well as more contemporary pieces for chamber orchestra.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 43",
+  "title": "Flute Choir",
+  "units": "1",
+  "description": "The flute choir studies flute literature in depth, perfects technique and interpretation, employs the complete flute family of bass, alto flutes and piccolos. Prepares ensemble for public performances each quarter.",
+  "prerequisites_raw": "Audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 44",
+  "title": "Chamber Music Ensemble",
+  "units": "1",
+  "description": "Chamber music ensemble.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 45",
+  "title": "Brass Quintet",
+  "units": "1",
+  "description": "Participation in scholarship brass quintet.",
+  "prerequisites_raw": "By audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 45BR",
+  "title": "Brass Orchestral Repertoire",
+  "units": "1",
+  "description": "Intensive exploration of staple brass orchestral repertoire, emphasizing the works of important 19th and 20th century composers. Classes include rehearsal sessions, guided listening and analysis, mock auditions, resume and taped audition preparation.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS A",
+  "code": "MUS A 45H",
+  "title": "Horn Ensemble",
+  "units": "1",
+  "description": "Horn ensemble.",
+  "prerequisites_raw": "Enrollment by audition.",
+  "prerequisites_courses": []
+ }
+]

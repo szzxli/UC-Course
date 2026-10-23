@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 147LD",
+  "title": "Language Disorders",
+  "units": "4",
+  "description": "Introduces a broad overview of the differential characteristics of language disorders and the principles of assessment and treatment.",
+  "prerequisites_raw": "LING 20 OR Upper-division standing.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 148",
+  "title": "Practicum in Teaching English to Speakers of Other Languages",
+  "units": "4",
+  "description": "Designed for students who are interested in teaching/tutoring English as a second or foreign language to adult learners, either abroad or in the United States. Through engagement with course curriculum/materials and through site-based observations, classroom and small group/individual teaching opportunities, and pedagogical feedback from a mentor teacher, practicum students will develop experiential knowledge regarding the applications of theoretical and pedagogical concepts in the teaching and learning of English as an additional language.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 148AA",
+  "title": "On-site Introductory Practicum",
+  "units": "4",
+  "description": "Designed for students who are interested in teaching/tutoring English as a second or foreign language to adult learners, either abroad or in the United States. Course content will vary.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 149",
+  "title": "Intercultural Communication",
+  "units": "4",
+  "description": "Explores communication (verbal, nonverbal, mediated) between people from different cultural backgrounds. Topics include intersecting identities (national/regional, race/ethnicity, linguistic, gender, sexual orientation, etc.), intercultural relationships, cultural transitions, and intercultural conflict and dialogue. Integrates insights from social scientific, interpretive, and critical research.",
+  "prerequisites_raw": "Any Linguistics or Communications course or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 150",
+  "title": "Language Documentation",
+  "units": "4",
+  "description": "Issues in the creation of lasting multipurpose records of a language. Documentation as collaborative, community-based initiative. Description and documentation, archive creation, metadata, technologies, materials, ethics, ethnography, orthography, and multimedia. Students participate in a collaborative documentation project as primary coursework.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 156",
+  "title": "Clinical Research in Speech-Language Pathology",
+  "units": "18",
+  "description": "Collaborative and individualized research on clinical applications of linguistics for speech-language pathology. Hands-on training in all aspects of the clinical research process.",
+  "prerequisites_raw": "LING 20 required; LING 147CS preferred.",
+  "prerequisites_courses": [
+   "LING 20",
+   "LING 147CS"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 157",
+  "title": "Professionalization in Speech-Language Pathology",
+  "units": "18",
+  "description": "Professional preparation for graduate studies and a career in speech-language pathology. Topics include identifying graduate/postbaccalaureate programs, résumé and dossier development, professional memberships and conferences.",
+  "prerequisites_raw": "Open to LING-SLSD majors and minors or by permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 158",
+  "title": "Clinical Practicum in Speech-Language Pathology",
+  "units": "18",
+  "description": "Observation hours and placement in clinical settings; training in case evaluation and documentation.",
+  "prerequisites_raw": "Open to LING SLSD majors and minors; or by permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 159",
+  "title": "Trans Linguistics",
+  "units": "4",
+  "description": "An exploration of language in relation to transgender, non-binary, and gender diverse communities and topics. Uses the tools of linguistics to consider pronouns and grammatical gender; inclusive language, linguistic justice, and language activism; gendered bodies and voices; language and transphobia; and trans representation in mediatized contexts.",
+  "prerequisites_raw": "Must have taken one of the following courses: LING 130, 131, 132, 136, OR have consent of instructor.",
+  "prerequisites_courses": [
+   "LING 130",
+   "LING 131",
+   "LING 132",
+   "LING 136"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 160",
+  "title": "The Structure of English",
+  "units": "4",
+  "description": "Introduction to the phonological, morphological, syntactic and discourse features of contemporary English.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 162",
+  "title": "Structuring and Transforming Data",
+  "units": "4",
+  "description": "Developing essential data science skills for linguistics and related fields. Data modeling, database design, advanced data formats, and tools for transforming, integrating, and aggregating heterogeneous data. Emphasis on collaboration, practical problem-solving, and reproducible workflows that reflect the practices of modern industry and interdisciplinary research. A goal is for students to be able to design, manage, and analyze structured data in diverse research contexts.",
+  "prerequisites_raw": "LING 20",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 170",
+  "title": "Language in Social Interaction",
+  "units": "4",
+  "description": "What role does language play in social interaction? How do individuals use language to shape relationships with others within or across social groups? How do patterns of linguistic interaction constitute patterns of social organization? Emphasis on hands-on analysis of transcriptions and recordings of face-to-face interactions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 175",
+  "title": "Introduction to Romance Linguistics",
+  "units": "4",
+  "description": "The course aims to illustrate principle of comparative-historical linguistic analysis by examining romance languages (French, Portuguese, etc.) for similarities and differences, and tracing their evolution from vulgar Latin.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 180",
+  "title": "Language, Race, and Ethnicity",
+  "units": "4",
+  "description": "Linguistic practices of major ethnoracial groups in the United States, including African Americans, Asian Americans, European Americans, Latinxs, and Native Americans; examination of the linguistic effects of immigration and colonialism; bilingualism, translanguaging, language shift, and heritage language learning; linguistic interaction and contact between ethnoracial groups; language as a resource for ethnoracial identity; linguistic racism; linguistic activism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 181",
+  "title": "Languages of the World",
+  "units": "4",
+  "description": "Introduction to the languages of the world: Geographical distribution; genetic (genealogical) classification, including comparison with genetics and archeology; structural properties and sociolinguistics of selected languages representing different parts of the world.",
+  "prerequisites_raw": "Linguistics 20 or Upper-division standing.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 185",
+  "title": "Animal Communication",
+  "units": "4",
+  "description": "The course will cover the basic terminology on animal communication signals. Special stress will be placed on the cost of signaling, and on the factors driving the biological evolution of communication. Finally, animal communication will be contrasted with human language.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 187",
+  "title": "Language, Power and Learning",
+  "units": "4",
+  "description": "Critical examination of institutional power related to education and linguistic and cultural diversity. Focus on Latinx communities; formal and informal learning; family practices; bilingual education; heritage languages; language and labor; language and racism; immigrant languages; racialized varieties of English.",
+  "prerequisites_raw": "Departmental Approval Required to Finalize Registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 191",
+  "title": "Internship in Linguistics",
+  "units": "0",
+  "description": "Internship in a language-related work setting. Students apply concepts, methods, and issues from linguistics to professional contexts in education, business, government, nonprofit organizations and other fields.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 192",
+  "title": "Community Partnerships in Linguistics",
+  "units": "0",
+  "description": "Service learning in a language-related volunteer setting. Apply concepts, methods, and issues from linguistics to real-world problems in educational contexts, social service agencies, nonprofit organizations, and other settings. Weekly report, and final paper required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 193",
+  "title": "Capstone Seminar",
+  "units": "0",
+  "description": "Original individual or collaborative research, creative, or action project in linguistics, typically taken in conjunction with LING 195 or equivalent. Weekly discussion of work in progress and professional preparation for graduate school in a workshop setting.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division course in linguistics; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 194",
+  "title": "Group Studies in Linguistics",
+  "units": "0",
+  "description": "Limited to small groups whose interest and needs determine the central focus.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 195A",
+  "title": "Honors Thesis",
+  "units": "0",
+  "description": "Guided research and writing of an original research paper to meet the requirements of the honors program in Linguistics.",
+  "prerequisites_raw": "Senior standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 195B",
+  "title": "Honors Thesis.",
+  "units": "0",
+  "description": "Guided research and writing of an original research paper to meet the requirements of the honors program in Linguistics.",
+  "prerequisites_raw": "Senior standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 195C",
+  "title": "Honors Thesis",
+  "units": "0",
+  "description": "Guided research and writing of an original research paper to meet the requirements of the honors program in Linguistics.",
+  "prerequisites_raw": "Linguistics 195B.",
+  "prerequisites_courses": [
+   "LING 195B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 199",
+  "title": "Independent Studies In Linguistics.",
+  "units": "0",
+  "description": "Intended for the study of special areas within Linguistics.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in linguistics; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 200",
+  "title": "Language and Linguistics for Non-linguists",
+  "units": "4",
+  "description": "Introduction to the scientific study of language: The sounds of language; word and sentence structure; semantics and pragmatics; discourse and conversational speech; the social and cultural functions of language; language change and the reconstruction of languages at earlier stages.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 201",
+  "title": "Research Methodology and Statistics in Linguistics",
+  "units": "4",
+  "description": "Fundamentals of scientific inquiry and methodology; basics of experimental design, statistical methods (descriptive and analytic) relevant to linguistics such as chi-squared, testing of distributions and means, simple correlation and regression.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 202",
+  "title": "Advanced Research Methods and Statistics",
+  "units": "4",
+  "description": "Multifactorial and multivariate statistical methods for analyzing observational and experimental data in linguistics: basic linear and generalized linear modeling for numeric, categorical, count, and proportion data; exploratory cluster analysis; graphical methods for data exploration.",
+  "prerequisites_raw": "Linguistics 201.",
+  "prerequisites_courses": [
+   "LING 201"
+  ]
+ }
+]

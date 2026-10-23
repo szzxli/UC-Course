@@ -1,0 +1,326 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 188",
+  "title": "Modern Political Theory",
+  "units": "4",
+  "description": "Development of political ideas from the sixteenth century to the nineteenthcentury.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 189",
+  "title": "Recent and Contemporary Political Theory",
+  "units": "4",
+  "description": "A reconstruction of the contending theories of political order with which western intellectuals, from the nineteenth to the present century, have confronted an era of world historical changes.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 192",
+  "title": "Field Research in Political Science",
+  "units": "0",
+  "description": "Directed research on the political process through participant observation and relevant reading. Individually assigned, instructed, and supervised fieldwork. Students will examine first hand behavior in leading political roles in American politics.",
+  "prerequisites_raw": "Upper-division standing; consent of department prior to enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 194",
+  "title": "Group Studies",
+  "units": "0",
+  "description": "Themes will vary according to instructor.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 195",
+  "title": "Honors Seminar",
+  "units": "4",
+  "description": "An intensive analysis of the approaches, problems, and methodologies of a particular subfield of political science.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 196",
+  "title": "Senior Seminar in Political Science.",
+  "units": "4",
+  "description": "Senior seminar in political science.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 197A",
+  "title": "Honors Thesis Seminar in Political Science",
+  "units": "4",
+  "description": "Political Science 197A-B-C is a three quarter sequence course with the final grade issued upon completion of 197C. Honors students, in three-quarter sequence of seminars, write original theses under close faculty supervision.",
+  "prerequisites_raw": "Senior standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 197B",
+  "title": "Honors Thesis Seminar in Political Science",
+  "units": "4",
+  "description": "Political Science 197A-B-C is a three quarter sequence course with the final grade issued upon completion of 197C. Honors students, in three-quarter sequence of seminars, write original theses under close faculty supervision.",
+  "prerequisites_raw": "Senior standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 197C",
+  "title": "Honors Thesis Seminar in Political Science",
+  "units": "4",
+  "description": "Political Science 197A-B-C is a three quarter sequence course with the final grade issued upon completion of 197C. Honors students, in three-quarter sequence of seminars, write original theses under close faculty supervision.",
+  "prerequisites_raw": "Senior standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 197D",
+  "title": "Senior Thesis in Political Science",
+  "units": "4",
+  "description": "Selected seniors pursue individual, significant research projects under close supervision of faculty readers.",
+  "prerequisites_raw": "Senior standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 197E",
+  "title": "Senior Thesis in Political Science",
+  "units": "4",
+  "description": "Selected seniors pursue individual, significant research projects under close supervision of faculty readers.",
+  "prerequisites_raw": "Senior standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 197F",
+  "title": "Senior Thesis in Political Science",
+  "units": "4",
+  "description": "Selected seniors pursue individual, significant research projects under close supervision of faculty readers.",
+  "prerequisites_raw": "Senior standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 199",
+  "title": "Independent Studies in Political Science",
+  "units": "0",
+  "description": "Independent studies in political science.",
+  "prerequisites_raw": "Upper-division standing; completion of two prior upper-division courses in political science; major in political science; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 199RA",
+  "title": "Independent Research Assistance in Political Science",
+  "units": "0",
+  "description": "Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in politicascience; consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 205",
+  "title": "Political Research Methods I",
+  "units": "4",
+  "description": "An introduction to quantitative political methodology, ranging from probability theory to the basic multivariate linear regression model. Emphasis is placed on the use of statistical software to implement the statistical models covered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 206",
+  "title": "Political Research Methods II",
+  "units": "4",
+  "description": "Regression criticism through limited dependent variable models. Emphasis is placed on the use of statistical software to implement the statistical models covered.",
+  "prerequisites_raw": "Graduate standing; introductory statistics and social scientific research methods.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 207",
+  "title": "Advanced Political Research Methods",
+  "units": "4",
+  "description": "Advanced techniques of multivariate analysis. Topics determined by students' interest.",
+  "prerequisites_raw": "Graduate standing; introductory statistics, social scientific research methods; and Political Science 206.",
+  "prerequisites_courses": [
+   "POL S 206"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 211",
+  "title": "Research Seminar I",
+  "units": "4",
+  "description": "This is the first quarter of a two-quarter research seminar designed to give students experience in the production of a research paper, with a focus on designing theoretically-informed, empirically-tested projects. The seminar is taught in a workshop format focusing on the individual research projects of each student. While not a formal prerequisite, each student is expected to have at least the beginning of a research proposal idea before starting the course.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 212",
+  "title": "Research Seminar II",
+  "units": "4",
+  "description": "This is the second quarter of a two-quarter research seminar designed to give students experience in the production of a research paper. The seminar is taught in a workshop format focusing on the individual research projects of each student.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 215",
+  "title": "The American Governmental Process",
+  "units": "4",
+  "description": "An examination of basic aspects of american national government, with primary attention to important contemporary literature on the subject.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 225",
+  "title": "International Relations",
+  "units": "4",
+  "description": "Basic factors shaping the political conflicts and accommodations among nations. Major attention to basic literature on the subject matter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 226",
+  "title": "Seminar on International Economics for Non-Economists",
+  "units": "4",
+  "description": "Introduction to the basic elements of international economic theory. Topics include the balance of payments and commercial policy, the global monetary and trading systems, international investment, and north-south economic relations.",
+  "prerequisites_raw": "No prior training in the discipline of economics is required.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 230",
+  "title": "Comparative Political Systems",
+  "units": "4",
+  "description": "A general survey of theories of comparative politics with some attention toconcrete applications and to comparative trends in other social sciences and history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 231",
+  "title": "Qualitative Methods",
+  "units": "4",
+  "description": "Focuses on the logic and purpose of qualitative methods in the social sciences, including the utility of mixed methods in research design. The course covers basic topics such as case selection, process tracing, and management of qualitative evidence, but will also discuss more specialized issues such as the use of interviews, focus groups, survey construction and measurement, field experiments, and content analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 232",
+  "title": "Politics of Economic Development",
+  "units": "4",
+  "description": "An exploration of the difference between economic growth and economic development. Why do some countries develop faster than others? The course will reflect on the political factors that impact a state's economic development, including order and violence, historical and contemporary institutions, collective action, culture, ethnic diversity, rural-urban linkages, international trade and foreign aid.",
+  "prerequisites_raw": "Graduate standing; introductory statistics, social scientific research methods; and Political Science 206.",
+  "prerequisites_courses": [
+   "POL S 206"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 235",
+  "title": "Comparative Political Institutions",
+  "units": "4",
+  "description": "A survey of the major theoretical approaches to the study of political institutions, as well as of the major political institutions, such as the regime type and electoral system. The perspective is primarily comparative, but examples are also drawn from the American politics literature.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 236",
+  "title": "Democratization in Comparative Perspective",
+  "units": "4",
+  "description": "Theoretical issues in research on democratization, emphasizing problems of transition and consolidation and methods of comparison of democratic transitions across regions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 237",
+  "title": "Social Movements and Collective Action",
+  "units": "4",
+  "description": "An overview of theoretical and empirical literature dealing with social movements and collective action as it relates specifically to problems in popular organization. Readings demonstrate some empirical bias toward LatinAmerica, as well as the United States and Europe.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 240",
+  "title": "Seminar on Classical Political Thinkers",
+  "units": "4",
+  "description": "An intensive examination of major texts and thinkers in the ancient world and in medieval times.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 241",
+  "title": "Seminar on Modern Political Thinkers",
+  "units": "4",
+  "description": "An intensive examination of major text and thinkers in modern times.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 242",
+  "title": "Seminar on Contemporary Political Thinkers",
+  "units": "4",
+  "description": "An intensive examination of major texts, thinkers and movements in the contemporary world.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 243",
+  "title": "Seminar in Political Concepts",
+  "units": "4",
+  "description": "Concepts that are crucial to the analysis, understanding and transformationof political and social phenomena. The seminar will draw insights and examples from the classical and contemporary literature, the present and the future.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

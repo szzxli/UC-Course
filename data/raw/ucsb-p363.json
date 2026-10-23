@@ -1,0 +1,289 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 1AB",
+  "title": "Basic Military Policies and Organizations",
+  "units": "1",
+  "description": "Introduction to the duties, responsibilities, and authority of military personnel. Provides an understanding of the Army's structure and organization. Identify and discuss the Army's Equal Opportunity policies. Discuss traditions of military and individual values and how professional obligations are related.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 1C",
+  "title": "Basic Leadership and Problem Solving",
+  "units": "1",
+  "description": "Provides students with a model for understanding their development as leaders. Initial lessons form the building blocks of progressive lessons in values, fitness, leadership, and squad-level tactics. Provides students with a set of broadly applicable problem solving concepts, principles, and procedures. Introduction to problem solving models coupled with concepts of screening, evaluation criteria, and practical exercises in applying the principles of problem solving.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 2AA",
+  "title": "Foundations of Leadership I",
+  "units": "1",
+  "description": "Explores leadership and leadership problems solving case study: A broad analysis of leadership with an emphasis on the modern leader. Familiarization with case study on decision making and the modern army leader. Course is designed to maximize student participation, inspire intellectual curiosity, teach critical \"life skills,\" and stimulate self-study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 2AB",
+  "title": "Foundations of Leadership II",
+  "units": "1",
+  "description": "Exploration of leadership and leadership problem solving techniques using a variety of instructional methodologies. Introduces complex land navigation techniques, operation orders and effective communication skills. Designed to maximize student participation, inspire intellectual curiosity, teach critical military skills and stimulate self-study.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 2AC",
+  "title": "Foundations of Leadership III",
+  "units": "1",
+  "description": "Continued study of leadership techniques using a variety of instructional methodologies. Introduces students to contemporary military operating environment and advance time management techniques. Elaborates on other small unit techniques. Continues to maximize student participation, inspire intellectual curiosity, teach critical military skills.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 6",
+  "title": "Basic Military Science Field Study",
+  "units": "2",
+  "description": "Students attend the 28-day paid Leadership Training Course designed to develop leadership and officer potential for the U.S. Army and ultimately contracting into the Army's ROTC advance course program. Training is intentionally stressful and designed to build individual confidence through the accomplishment of leadership opportunities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 22",
+  "title": "Basic Military Physical Conditioning",
+  "units": "0.5",
+  "description": "Basic physical conditioning using the United States Army physical training program. Emphasis on cardiovascular system and upper body strength. Focus towards army officer training corps cadets, although not limited to this group.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 27",
+  "title": "American Military History and the Evolution of Western Warfare",
+  "units": "4",
+  "description": "Surveys American military history and the evolution of warfare from the colonial era through the end of the twentieth century. Course examines the strategies and tactics of warfare throughout this period and explores how social, economic and technological advances contributed to the patterns of war.",
+  "prerequisites_raw": "Lower-division standing or Army ROTC Cadets. Department approval required. Email rotcscholar@milsci.ucsb.edu for departmental approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 99",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Selected research under the direction of a faculty member.",
+  "prerequisites_raw": "Consent of instuctor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 131",
+  "title": "Tactical leadership I",
+  "units": "2",
+  "description": "Study of military leadership principles, responsibilities, and traits in a small unit, emphasizing adaptability and flexibility. Master technical skills in land Navigation, Troop Leading Producers, Tactical Orders, Battle Drills and Squad Tactics. Gain practical experience by planning and executing small unit military training events.",
+  "prerequisites_raw": "Junior standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 132",
+  "title": "Tactical Leadership II",
+  "units": "2",
+  "description": "Intermediate study of military leadership principles, responsibilities and traits in a small unit. Intermediate study of offensive and defensive operations and their applications. Students gain practical experience by planning and executing training events. Labs and field training required for all students.",
+  "prerequisites_raw": "Military Science 131; junior standing.",
+  "prerequisites_courses": [
+   "MS 131"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 133",
+  "title": "Applied Leadership",
+  "units": "2",
+  "description": "Introduction to leadership behavior, styles, peer leadership, stress management, motivating others, principles of war and applying rules of land warfare. Introduced to basic military situations in a non-conventional military operating environment. Leadership laboratory required for all ROTC students.",
+  "prerequisites_raw": "Military Science 132; junior standing.",
+  "prerequisites_courses": [
+   "MS 132"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 141",
+  "title": "Developmental Leadership I",
+  "units": "2",
+  "description": "Students study the fundamentals of decision making, command and control problems, staff relationships, counseling,analyzing courses of action. Leadership laboratory required for all ROTC students. Students gain practical experience by planning and executing cadet training and social events. Labs required.",
+  "prerequisites_raw": "Military Science 133; senior standing.",
+  "prerequisites_courses": [
+   "MS 133"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 142",
+  "title": "Developmental Leadership II",
+  "units": "2",
+  "description": "Study complex military situations in a contemporary operating environmnet. Explores military professional ethics, military law, improper relationships, and ethics in that environmnet. Gain practical experience by planning and executing cadet training and social events.",
+  "prerequisites_raw": "Military Science 141; senior standing.",
+  "prerequisites_courses": [
+   "MS 141"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 143",
+  "title": "Adaptive Leadership",
+  "units": "2",
+  "description": "Learn about small unit leadership dynamics between officers and noncommissioned officers and apply principles of war in a historical battle analysis setting. Learn about financial management, awards processing and installation support services.",
+  "prerequisites_raw": "Military Science 142; senior standing.",
+  "prerequisites_courses": [
+   "MS 142"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 190",
+  "title": "Advanced Military Science Field Study",
+  "units": "4",
+  "description": "Students attend the 33-day paid Leadership Development Advanced Course designed to further develop and evaluate leadership and officer potential. The challenges are rigorous and demanding, both mentally and Physically, and will test intelligence, common sense, ingenuity and stamina.",
+  "prerequisites_raw": "Students must have had successfully completed MS 131, 132, and MS 133, and three quarters of MS 22 prior to attending this course. Students must meet US Army Officer contracted Qualification and Documentation Requirements.",
+  "prerequisites_courses": [
+   "MS 131",
+   "MS 133",
+   "MS 22",
+   "MS 132"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MS",
+  "code": "MS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Independent studies with the professor to permit study on a subject agreed by the student and professor, not covered by regular course offerings.",
+  "prerequisites_raw": "Upper-division standing; completion of at least two upper-division courses in military science; open only to ROTC advanced students approved by the department chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 1",
+  "title": "Classical Music Live",
+  "units": "1",
+  "description": "Students meet for a one-hour pre-concert lecture given by Music Department faculty, and then attend world-class symphony concerts sponsored by Santa Barbara's Community Arts Music Association.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 2",
+  "title": "Careers in Music",
+  "units": "2",
+  "description": "Through lectures, discussions, and guest speakers, this course introduces students to various career options in music and the arts, including a practical overview of the skills, knowledge and paths to pursue these goals, culminating in students developing a career portfolio.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 3A",
+  "title": "Introduction to Music Studies",
+  "units": "4",
+  "description": "Introduces students to ways of studying music as a cultural practice situated in society. Methods are drawn from musicology, ethnomusicology, history, anthropology, and sociology. Students will be taught to think critically about music as a universal human expression.",
+  "prerequisites_raw": "No prerequisites.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 3B",
+  "title": "Writing about Music",
+  "units": "4",
+  "description": "Acquaints students with different approaches to writing and speaking about music of many traditions. The works of performers, critics, music theorists, ethnographers, musicologists, and historians will all be represented in the selection of assigned readings.",
+  "prerequisites_raw": "Music 3A with a minimum grade of C-, or consent of instructor.",
+  "prerequisites_courses": [
+   "MUS 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 3C",
+  "title": "Structures of Music",
+  "units": "4",
+  "description": "Looking at a variety of music traditions from different parts of the world, the class will survey varying approaches to issues of compositional structure, rhythm, intonation, scales, etc. The class will have listening and practical components.",
+  "prerequisites_raw": "Open to Music and Music Studies majors, or by consent of instructor. Music minors to contact instructor or advisor for approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 4A",
+  "title": "Musicianship",
+  "units": "1",
+  "description": "A practical course in sight singing, aural analysis, and rhythmic studies.",
+  "prerequisites_raw": "Placement exam. A grade of at least C- is required in each course of the Music 4 series. Must be taken consecutively, and concurrently with the Music 5 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 4B",
+  "title": "Musicianship",
+  "units": "1",
+  "description": "A practical course in sight singing, aural analysis, and rhythmic studies.",
+  "prerequisites_raw": "Placement Exam. A grade of at least C- is required in each course of the Music 4 series. Must be taken consecutively, and concurrently with the Music 5 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 4C",
+  "title": "Musicianship",
+  "units": "1",
+  "description": "A practical course in sight singing, aural analysis, and rhythmic studies.",
+  "prerequisites_raw": "Placement Exam. A grade of at least C- is required in each course of the Music 4 series. Must be taken consecutively, and concurrently with the Music 5 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 4D",
+  "title": "Musicianship",
+  "units": "1",
+  "description": "A practical course in sight singing, aural analysis, and rhythmic studies.",
+  "prerequisites_raw": "Placement Exam. A grade of at least C- is required in each course of the Music 4 series. Must be taken consecutively, and concurrently with the Music 5 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 4E",
+  "title": "Musicianship",
+  "units": "1",
+  "description": "A practical course in sight singing, aural analysis, and rhythmic studies.",
+  "prerequisites_raw": "Placement Exam. A grade of at least C- is required in each course of the Music 4 series. Must be taken consecutively, and concurrently with the Music 5 series.",
+  "prerequisites_courses": []
+ }
+]

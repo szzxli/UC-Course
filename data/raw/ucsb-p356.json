@@ -1,0 +1,291 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 189C",
+  "title": "Capstone Mechanical Engineering Design Project",
+  "units": "3",
+  "description": "Students work in teams under the direction of a faculty advisor (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Course emphasizes practical, hands-on experience, and integrates analytical and design skills acquired in the companion ME 156 courses.",
+  "prerequisites_raw": "ME 189A and 189B",
+  "prerequisites_courses": [
+   "ME 189A",
+   "ME 189B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 193",
+  "title": "Internship in Industry",
+  "units": "1",
+  "description": "Students obtain credit for a mechanical engineering related internship and/or industrial experience under faculty supervision. A 6-10 page written report is required for credit. It may NOT be used to satisfy the engineering elective requirement for ME majors.",
+  "prerequisites_raw": "Consent of instructor. Prior departmental approval needed.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 197",
+  "title": "Independent Projects in Mechanical Engineering Design",
+  "units": "0",
+  "description": "Special projects in design engineering. Course offers motivated students opportunity to synthesize academic skills by designing and building new machines.",
+  "prerequisites_raw": "ME 16; consent of instructor.",
+  "prerequisites_courses": [
+   "ME 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 199",
+  "title": "Independent Studies in Mechanical Engineering",
+  "units": "0",
+  "description": "Directed individual study.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing; completion of two upper-division courses in Mechanical Engineering.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 200",
+  "title": "Professional Seminar",
+  "units": "1",
+  "description": "A series of weekly lectures given by university staff and outside experts in all fields of mechanical engineering.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 200P",
+  "title": "M.S. Project",
+  "units": "3",
+  "description": "A ten-week individual research project on an advanced topic in mechanical engineering.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 201",
+  "title": "Advanced Dynamics",
+  "units": "3",
+  "description": "Newtons laws and symmetries, Newton, Laplace and principle of determinism, qualitative analysis of Newtons equations of motion, Hamiltonian mechanics, one degree of freedom (DOF) systems, two DOF systems, motion in central fields, application to molecular dynamics, control of classical dynamical systems, Lagrangian mechanics, chaos and ergodic theory, rigid body motion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 203",
+  "title": "Operator Theory Methods in Dynamical Systems",
+  "units": "3",
+  "description": "Geometric mechanics, volume-preserving dynamical systems, molecular dynamics; Infinite dimensional dynamics and finite dimensional approximations including incompressible Euler equations and point vortex theory, transport and fluid mixing, control of measure-preserving systems, equilibrium and non-equilibrium statistical mechanics methods for vortex gases.",
+  "prerequisites_raw": "ME 201.",
+  "prerequisites_courses": [
+   "ME 201"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 207",
+  "title": "Faculty Research Seminar",
+  "units": "1",
+  "description": "A series of weekly presentations given by ladder faculty members to familiarize graduate students with current department research projects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 210A",
+  "title": "Matrix Analysis and Computation",
+  "units": "4",
+  "description": "Graduate level-matrix theory with introduction to matrix computations. SVD's, pseudoinverses, variational characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 210B",
+  "title": "Numerical Simulation",
+  "units": "4",
+  "description": "Linear multistep methods and Runge-Kutta methods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equations. numerical solution of boundary value problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 210C",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Difference Methods.",
+  "units": "4",
+  "description": "Finite difference methods for hyperbolic, parabolic and elliptic PDE's, with application to problems in science and engineering. Convergence, consistency, order and stability of finite difference methods. Dissipation and dispersion. Finite volume methods. Software design and adaptivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 210D",
+  "title": "Numerical Solution of Partial Differential Equations - Finite Element Methods",
+  "units": "4",
+  "description": "Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptical partial differential equations, with application to problems in science and engineering. Error estimates. Standard and discontinuous Galerkin methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 211",
+  "title": "Pattern Formation and Self-Organization",
+  "units": "3",
+  "description": "Introductory course to the processes of pattern formation and self-organization in natural systems (physical and biological systems), as well as in engineering. The goal of the course is to explain how ordered spatial structures appear in different systems. We will discuss the common aspects and the differences in the mechanisms that establish the patterns, and introduce various techniques used in different disciplines to study the formation of spatially extended structures.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 215A",
+  "title": "Applied Dynamical Systems I",
+  "units": "3",
+  "description": "Phase-plane methods, non-linear oscillators, stability of fixed points and periodic orbits, invariant manifolds, structural stability, normal form theory, local bifurcations for vector fields and maps, applications from engineering, physics, chemistry, and biology.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 215B",
+  "title": "Applied Dynamical Systems II",
+  "units": "3",
+  "description": "Local codimension two bifurcations, global bifurcations, chaos for vector fields and maps, Smale horshoe, symbolic dynamics, strange attractors, universality, bifyrcation with symmetry, perturbation theory and averaging, Melnikov's method, canards, applications from engineering, physics, chemistry, and biology.",
+  "prerequisites_raw": "ME 215A; graduate standing.",
+  "prerequisites_courses": [
+   "ME 215A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 216",
+  "title": "Level Set Methods",
+  "units": "4",
+  "description": "Mathematical description of the level set method and design of the numerical methods used in its implementations (ENO-WENO, Godunov, Lax-Friedrich, etc.). Introduction to the Ghost Fluid Method. Applications in CFD, Materials Sciences, Computer Vision and Computer Graphics.",
+  "prerequisites_raw": "CMPSC 211C or CH E 211C or ECE 210C or ME 210C.",
+  "prerequisites_courses": [
+   "CMPSC 211C",
+   "CH E 211C",
+   "ECE 210C",
+   "ME 210C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 219",
+  "title": "Mechanics of Materials",
+  "units": "3",
+  "description": "Matrices and tensors, stress and deformation, compatibility and equilibrium conditions, constitutive equations, and boundary conditions, applications in elasticity, plasticity and fracture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 220A",
+  "title": "Fundamentals of Fluid Mechanics",
+  "units": "3",
+  "description": "Fundamentals of advection and diffusion of mass, momentum, and energy. Index notation. Solution of steady-state and transient 1D and 2D problems: separation of variables, eigenfunction expansions, similarity solutions, and superposition. Lubrication theory. Forced and natural convection.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 220B",
+  "title": "Fundamentals of Fluid Mechanics",
+  "units": "3",
+  "description": "Introductory course in fluid mechanics. Basic equations of motion (continuity, momentum, energy, vorticity), coordinate transformations, \"potential\" flow, this airfoil theory, conformal mapping, vortex dynamics, boundary layers, stability theory, laminar/turbulent transition, turbulence.",
+  "prerequisites_raw": "ME 151A-B and ME 152A-B.",
+  "prerequisites_courses": [
+   "ME 151A",
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 221",
+  "title": "Advanced Viscous Flow",
+  "units": "3",
+  "description": "Review the Navier-Stokes equations in velocity, pressure, and vorticity variables. Analyze details of important low and moderate reynolds number flow applications and then high reynolds number flows with boundary layer phenomena. Compare exact, approximate, numerical, and experimental solutionmethods.",
+  "prerequisites_raw": "ME 220A.",
+  "prerequisites_courses": [
+   "ME 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 223",
+  "title": "Soft Robotics",
+  "units": "3",
+  "description": "Learning from the versatility and robustness of bodies in nature, robotic devices are moving away from the traditional rigid form to designs that intentionally and carefully incorporate compliance. We explore this emerging paradigm of robots by 1) modeling the underlying mechanics of soft systems, such as soft actuators, sensors, and bodies, 2) examining current literature and gleaning design principles, and 3) designing and fabricating soft robotic devices in a hands-on laboratory setting. This course includes a final project; students are expected to design, model, fabricate, and test either a subcomponent or a full soft robot.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments in one or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225A",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225AA",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225AB",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225AC",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

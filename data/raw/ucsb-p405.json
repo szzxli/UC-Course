@@ -1,0 +1,308 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 217",
+  "title": "Advanced Topics in Mathematical Statistics",
+  "units": "4",
+  "description": "Topics in mathematical statistics and decision theory including: asymptotics, nonparametric function estimation, design of experiments and linear models, sequential analysis, multiple testing problems, semiparametric inference, directional statistics.",
+  "prerequisites_raw": "PSTAT 207A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 207A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 220A",
+  "title": "Advanced Statistical Methods",
+  "units": "4",
+  "description": "General linear models; regression; analysis of variance of fixed, random, and mixed effects models; analysis of covariance; and experimental design. Discussion of each technique includes graphical methods; estimation and inference; diagnostics; and model selection. Emphasis on application rather than theory. R/SAS Computation.",
+  "prerequisites_raw": "PSTAT 120A-B-C, 122, 126, and Mathematics 108A or equivalents.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "MATH 108A",
+   "PSTAT 122",
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 220B",
+  "title": "Advanced Statistical Methods",
+  "units": "4",
+  "description": "Generalized linear models; log-linear models with application to categorical data; and nonlinear regression models. Discussion of each technique includes graphical methods; estimation and inference; diagnostics; and model selection. Emphasis on application rather than theory. R/SAS computation.",
+  "prerequisites_raw": "PSTAT 220A or equivalent.",
+  "prerequisites_courses": [
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 220C",
+  "title": "Advanced Statistical Methods",
+  "units": "4",
+  "description": "Multivariate analysis. Topics selected from factor analysis; canonical correlation analysis; classification and discrimination; clustering; and data mining. Emphasis on application rather than theory. R/SAS computation.",
+  "prerequisites_raw": "PSTAT 220A and Mathematics 108B or equivalents.",
+  "prerequisites_courses": [
+   "PSTAT 220A",
+   "MATH 108B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 221A",
+  "title": "Advanced Probability Theory",
+  "units": "4",
+  "description": "Topics chosen from: large deviations; random walks; weak convergence in metric spaces; empirical processes; point processes; Gaussian processes; random fields; branching processes; inference for stochastic processes. Applications.",
+  "prerequisites_raw": "PSTAT 213A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 213A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 221B",
+  "title": "Advanced Probability Theory",
+  "units": "4",
+  "description": "Topics chosen from: large deviations; random walks; weak convergence in metric spaces; empirical processes; point processes; Gaussian processes; random fields; branching processes; inference for stochastic processes. Applications.",
+  "prerequisites_raw": "PSTAT 213A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 213A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 221C",
+  "title": "Advanced Probability Theory",
+  "units": "4",
+  "description": "Topics chosen from: large deviations; random walks; weak convergence in metric spaces; empirical processes; point processes; Gaussian processes; random fields; branching processes; inference for stochastic processes. Applications.",
+  "prerequisites_raw": "PSTAT 213A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 213A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 222A",
+  "title": "Advanced Stochastic Processes",
+  "units": "4",
+  "description": "Topics chosen from: Markov processes; continuous time martingales; theory of Brownian motion and diffusion processes; Levy processes stochastic calculus; stochastic differential equations and numerical methods; stochastic control. Applications to engineering, finance, biology, etc.",
+  "prerequisites_raw": "PSTAT 213A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 213A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 222B",
+  "title": "Advanced Stochastic Processes",
+  "units": "4",
+  "description": "Topics chosen from: Markov processes; coninuous time matringales; theory of Brownian motion and diffusion processes; Levy processes stochastic calculus; stochastic differential equations and numerical methods; stochastic control. Applications to engineering, finance, biology, etc.",
+  "prerequisites_raw": "PSTAT 213A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 213A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 222C",
+  "title": "Advanced Stochastic Processes",
+  "units": "4",
+  "description": "Topics chosen from: Markov processes; continuous time martingales; theory of Brownian motion and diffusion processes; Levy processes stochastic calculus; stochastic differential equations and numerical methods; stochastic control. Applications to engineering, finance, biology, etc.",
+  "prerequisites_raw": "PSTAT 213A-B-C.",
+  "prerequisites_courses": [
+   "PSTAT 213A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 223A",
+  "title": "STOCHASTIC CALCULUS AND APPLICATIONS",
+  "units": "4",
+  "description": "An introduction to Brownian motion, stochastic calculus and stochastic differential equations. Diffusion processes, related partial differential equations and Feynman-Kac formula. Applications to filtering, stochastic control, mathematical finance and other areas of science and engineering.",
+  "prerequisites_raw": "PSTAT 213A-B-C (or equivalent first-year graduate course in Probability and Stochastic Processes).",
+  "prerequisites_courses": [
+   "PSTAT 213A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 223B",
+  "title": "Financial Modeling",
+  "units": "4",
+  "description": "An introduction to stochastic models in finance with applications to valuation and hedging of derivatives in equity, fixed income, and credit markets, and to portfolio allocation.",
+  "prerequisites_raw": "PSTAT 223A",
+  "prerequisites_courses": [
+   "PSTAT 223A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 223C",
+  "title": "ADVANCED TOPICS IN FINANCIAL MODELING",
+  "units": "4",
+  "description": "Advanced topics in financial mathematics including: portfolio optimization, stochastic control, risk management, systemic risk, high frequency trading, numerical methods and computation.",
+  "prerequisites_raw": "PSTAT 223A-B",
+  "prerequisites_courses": [
+   "PSTAT 223A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 225",
+  "title": "Linear and Nonlinear Mixed Effects Models",
+  "units": "4",
+  "description": "Linear and nonlinear mixed effects models. Topics include fixed effects, random effects, several size experimental units, design structure, treatment structure, randomized block design, nested design, split plot design, repeated measures, growth curves, longitudinal and spatial data, BLUP, ML, and REML estimates.",
+  "prerequisites_raw": "PSTAT 220A or equivalent.",
+  "prerequisites_courses": [
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 226",
+  "title": "Nonparametric Regression and Classification Methods",
+  "units": "4",
+  "description": "Introduction to some statistical regression and classification techniques including kernel smoothing, smoothing spline, local regression, generalized additive models, neural networks, wavelets, decision tree and nearest neighbor methods.",
+  "prerequisites_raw": "PSTAT 207A-B and 220A or equivalents.",
+  "prerequisites_courses": [
+   "PSTAT 207A",
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 227",
+  "title": "Bootstrap and Resampling Methodology",
+  "units": "4",
+  "description": "Resampling methods: bootstrap and subsampling. Topics: parametric and nonparametric bootstrap simulation; confidence limit methods; resample significance tests, including Monte Carlo and bootstrap; resampling for improved regression model selection and prediction; diagnostics for bootstrap validity.",
+  "prerequisites_raw": "PSTAT 207A-B and PSTAT 220A or equivalents.",
+  "prerequisites_courses": [
+   "PSTAT 207A",
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 228",
+  "title": "Spline Smoothing and Applications",
+  "units": "4",
+  "description": "Model building, multivariate function estimation and supervised learning using reproducing kernel Hilbert space, regularization and splines. Smoothing splines for Gaussian and non-Gaussian data. Bayesian models and data-driven turning parameter selection. Emphasis on methodology, computation and application.",
+  "prerequisites_raw": "Statistics & Applied Probability 207A, B, C and 220A.",
+  "prerequisites_courses": [
+   "PSTAT 207A",
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 230",
+  "title": "Seminar and Projects in Statistical Consulting",
+  "units": "4",
+  "description": "Students participate in the discussions and consulting projects in the statistics laboratory. They are assigned project(s) to work on and write a report on statistical aspects of the project.",
+  "prerequisites_raw": "PSTAT 220A-B-C (may be taken concurrently)",
+  "prerequisites_courses": [
+   "PSTAT 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 231",
+  "title": "Introduction to Statistical Machine Learning",
+  "units": "4",
+  "description": "Statistical Machine Learning is used to discover patterns and relationships in large data sets. Topics will include: data exploration, classification and regression trees, random forests, clustering and association rules. Building predictive models focusing on model selection, model comparison and performance evaluation. Emphasis will be on concepts, methods and data analysis; and students are expected to complete a significant class project, individual or team based, using real world data.",
+  "prerequisites_raw": "PSTAT 120A-B; and PSTAT 126 with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 232",
+  "title": "Computational Techniques in Statistics",
+  "units": "4",
+  "description": "Explores computationally-intensive methods in statistics. Topics covered include Fundamentals of Optimization, Combinatorial Optimization, EM algorithm, Monte Carlo simulation, Markov Chain Monte Carlo methods. Lab work is carried out using R or Python.",
+  "prerequisites_raw": "PSTAT 120A-B-C, PSTAT 126 or equivalent. Knowledge of at least one programming language.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 234",
+  "title": "Statistical Data Science",
+  "units": "4",
+  "description": "Overview and use of data science tools in R and/or Python for data retrieval, analysis, visualization, reproducible research, and automated report generation. Case studies will illustrate the practical use of these tools.",
+  "prerequisites_raw": "PSTAT 131 or PSTAT 231 or Computer Science 165B; and Computer Science 9 or Computer Science 16. A minimum letter grade of C or better must be earned in each course.",
+  "prerequisites_courses": [
+   "PSTAT 131",
+   "PSTAT 231",
+   "CMPSC 165B",
+   "CMPSC 9",
+   "CMPSC 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 235",
+  "title": "Big Data Analytics",
+  "units": "4",
+  "description": "Basics in distributed data storage, retrieval, processing and cloud computing. Overview of methods for analyzing big data from both high dimensional statistics and machine learning - topics chosen from penalized regression, classification/clustering, dimension reduction, random projections, kernel methods, network clustering, graph analytics, supervised and unsupervised learning among others.",
+  "prerequisites_raw": "PSTAT 131 or PSTAT 231 or Computer Science 165B; and Computer Science 9 or Computer Science 16. A minimum letter grade of C or better must be earned in each course.",
+  "prerequisites_courses": [
+   "PSTAT 131",
+   "PSTAT 231",
+   "CMPSC 165B",
+   "CMPSC 9",
+   "CMPSC 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 236",
+  "title": "Spatial Statistics",
+  "units": "4",
+  "description": "Spatial Covariance Functions, Variograms, Kriging, Gaussion Processes, Estimation Methods and Uncertainty Quantification. Stationary and Non-Stationary Models, Selected Topics from Non-Gaussion Spatial Models, Spatial Point Processes, Areal Data Models, Spatial Networks, Hierarchical Models, Spatio-Temporal Models, and Recent Advances.",
+  "prerequisites_raw": "PSTAT 120A-B or equivalent; MATH 108A or equivalent; knowledge of at least one statistical programming language; or consent of instructor.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "MATH 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 237",
+  "title": "Uncertainty Quantification",
+  "units": "4",
+  "description": "Statistical and machine learning approaches to computational uncertainty quantification in mathematical models with applications to computer simulations, images, and time-series, spatio-temporal, and functional data. Topics include computer model emulation and design, reproducing kernel Hilbert spaces, Gaussian processes, dynamic systems, the Kalman filter, inverse problems, and Bayesian optimization.",
+  "prerequisites_raw": "PSTAT 126",
+  "prerequisites_courses": [
+   "PSTAT 126"
+  ]
+ }
+]

@@ -1,0 +1,342 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290M",
+  "title": "Immune Cell Biology and Immunotherapy",
+  "units": "2",
+  "description": "Focus is on recent literature related to immune cell biology and cancer-immune interactions. Students will read and discuss a paper each week. The students will alternate as discussion leaders. As discussion leader they will prepare a short presentation to facilitate discussion. Some background in immunology, cell biology and genetics is required.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290MM",
+  "title": "Bacterial Pathogenesis",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290MR",
+  "title": "Introduction to Microscopy for the Bio-sciences",
+  "units": "2",
+  "description": "An introduction to microscopy emphasizing light microscopy techniques and principals. A wide variety of microscopy techniques will be introduced while students gain hands-on experience with transmitted light and fluorescence imaging and exposure to high-end imaging instruments.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290MW",
+  "title": "Biological Dynamics",
+  "units": "2",
+  "description": "Introduction to mathematical models and computer simulations used to describe and understand time varying biological systems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290NB",
+  "title": "Neurobiology",
+  "units": "2",
+  "description": "Presentation and discussion of current research in neurobiology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290NC",
+  "title": "Neural Circuits",
+  "units": "2",
+  "description": "Presentation and discussion of current research in circuit-level neuroscience. Focuses on how neural circuits mediate specific behaviors, drawing on research from a range of species and preparations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290PM",
+  "title": "Molecular Plant-Microbe Interactions",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290RF",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list. (see individual letter designations)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290S",
+  "title": "Molecular Virology and Interferon Action",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290SF",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list. (see individual letter designations)",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290SK",
+  "title": "Research in Retinal Cell Biology",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290SM",
+  "title": "Systems Medicine",
+  "units": "2",
+  "description": "Explores systems medicine through computational modeling of physiological circuits. Students will develop Python simulations to understand hormone circuits, immune system behavior, and aging processes. Combines theoretical foundations with hands-on modeling exercises to examine how diseases emerge from circuit fragilities. Through mathematical modeling and computational analysis, students will investigate complex physiological systems and learn disease classification based on signaling topology. Students will gain both theoretical knowledge and applied computational skills while exploring how feedback, robustness, and emergent behaviors influence health and disease.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290V",
+  "title": "Current Research on Cell and Developmental Biology of Fungi",
+  "units": "2",
+  "description": "Presentation an discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290VA",
+  "title": "Molecular Neurobiology: Ion Channels",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 292",
+  "title": "Advanced Special Topics in Biological Sciences",
+  "units": "0",
+  "description": "Special topics of current importance in biological sciences. Course content will vary. Information on course content may be obtained in the department office.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 293",
+  "title": "Computational Methods in Biochemistry-Molecular Biology",
+  "units": "1",
+  "description": "Survey of computational methods in molecular biology. Topics include analysis and presentation of data, database searching, quantitative image analysis, and protein homology modeling. Emphasis on utilizing accessible software tools that are designed for nonprogrammers.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 294B",
+  "title": "Bioengineering: Career and Development Opportunities at the Interface between Biotechnology and Engineering",
+  "units": "2",
+  "description": "Based on presentations by experts from the bioengineering industry. Presenters describe their companies' technologies and developments, including biosensors, therapeutics, tissue engineering, quantum dots and advanced instrumentation. Training and educational requirements for different career tracks are discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 500",
+  "title": "Teaching Assistant Orientation",
+  "units": "1",
+  "description": "General orientation regarding the University of California and the Santa Barbara campus; various pertinent regulations, officials and their functions, staff and functions; services available to teaching assistants and to students. Prospective teaching assistants are encouraged to take this course during the fall quarter prior to their employment.",
+  "prerequisites_raw": "Required of all teaching assistants.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 501",
+  "title": "Practicum in Instruction",
+  "units": "0",
+  "description": "Practical experience in teaching within specified areas of biology. Students will have responsibility for one or more laboratory and/or discussion sections. Staff will periodically observe teaching assistants in actual teaching situations. Evaluation forms will be completed by members of the class sections.",
+  "prerequisites_raw": "Concurrent teaching assistant employment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 502",
+  "title": "Techniques of Teaching and Laboratory Class Supervision",
+  "units": "0",
+  "description": "Weekly discussion and readings on techniques of teaching including lecturing, leading discussions, writing and grading exams, student- teacher interactions, classroom dynamics, and teaching philosophy.",
+  "prerequisites_raw": "Concurrent teaching assistant employment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 503",
+  "title": "Research Practium in Biology",
+  "units": "0",
+  "description": "Basic procedures and methods of research in a specific area as determined by consultation between the supervising faculty member and the research assistant. Includes weekly meetings and consultations, and formal evaluations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595",
+  "title": "MCDB Literature Seminar",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology. Subject matter for these seminars will be selected from the following list: (refer to individual letter designations.)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595B",
+  "title": "Biochemistry-Molecular Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595BG",
+  "title": "Bacterial Genetics",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595CM",
+  "title": "Cellular Microbiology",
+  "units": "2",
+  "description": "Current literature in cellular microbiology is discussed.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595DS",
+  "title": "Diversity in STEM",
+  "units": "2",
+  "description": "A seminar-style workshop that introduces students to the contributions, careers, and backgrounds of diverse researchers in STEM fields. The goals of the class are (1) to expose participants to the multicultural and diverse ways of thinking about, performing, and interpreting science; and (2) to foment the appreciation for how We, as a community, can move towards creating a STEM field that is more inclusive of diverse contributions and individuals. Students are responsible for completing short assignments, show-casing a specific scientist, and directed readings on diversity in STEM. Participants are encouraged to reflect on their own experiences and bring their unique perspectives and opinions to each discussion.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595DV",
+  "title": "Developmental Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595EO",
+  "title": "Genetics",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595ER",
+  "title": "Discipline-based Education Research in Science",
+  "units": "2",
+  "description": "A critical reading of the literature in discipline-based educational research in the sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595F",
+  "title": "General Physiology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595KK",
+  "title": "Clinical Research",
+  "units": "2",
+  "description": "A critical review of clinical research and ethics in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595MM",
+  "title": "Contemporary Topics in Biochemistry and Molecular Biology",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595MO",
+  "title": "Biostatistics",
+  "units": "2",
+  "description": "In this course we will review Nature Methods articles entitled Points of Significance covering the statistical principles and approaches most commonly required for data analysis in biological research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 595MP",
+  "title": "Microbial Pathogenesis",
+  "units": "2",
+  "description": "A critical review of research in selected fields of biology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,296 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SLAV",
+  "code": "SLAV 258",
+  "title": "Bakhtin",
+  "units": "4",
+  "description": "Mikhail Bakhtin has recently been canonized as the only Russian thinker worthy of being studied by Western theorists. This class gives an overview of Bakhtin's life and work and investigates his relations with other thinkers, such as Marx and Freud. Lectures and readings in english.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SLAV",
+  "code": "SLAV 259",
+  "title": "The Sublime",
+  "units": "4",
+  "description": "Analysis of key theories of the sublime from Pseudo-Longinus to Lyotard. The rhetorical sublime. The sublime in german idealism (Kant). Freud and the sublime. The sublime and theology. Taught in english.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SLAV",
+  "code": "SLAV 267C",
+  "title": "Masters of Soviet Cinema",
+  "units": "4",
+  "description": "Introduction to some of the great directors in Russian cinema. Analysis of films and theoretical writings. Study of key theoretical concepts. One director per quarter. Taught in english. C. Eisenshtein.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SLAV",
+  "code": "SLAV 267D",
+  "title": "Masters of Soviet Cinema",
+  "units": "4",
+  "description": "Introduction to some of the great directors in Russian cinema. Analysis of films and theoretical writings. Study of key theoretical concepts. One director per quarter. Taught in english. D. Vertov.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SLAV",
+  "code": "SLAV 267E",
+  "title": "Masters of Soviet Cinema",
+  "units": "4",
+  "description": "Introduction to some of the great directors in Russian cinema. Analysis of films and theoretical writings. Study of key theoretical concepts. One director per quarter. Taught in english. E. Tarkovsky.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SLAV",
+  "code": "SLAV 596",
+  "title": "Directed Reading in Research",
+  "units": "0",
+  "description": "Individual tutorial. A written proposal for each tutorial must be approved by department chair and filed with graduate division.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 1",
+  "title": "Introduction to Sociology",
+  "units": "5",
+  "description": "Basic concepts and issues in the study of human society. The structures and processes of human conduct, social organization, and social change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 1H",
+  "title": "Introduction to Sociology - Honors",
+  "units": "1",
+  "description": "Eligible students are invited to enroll in the honors seminar which is generally taught by the course instructor.",
+  "prerequisites_raw": "Concurrent enrollment in Sociology 1 and consent of instructor; students must meet departmental honors criteria.",
+  "prerequisites_courses": [
+   "SOC 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 10",
+  "title": "Logics of Sociological Inquiry",
+  "units": "5",
+  "description": "Central to the course is a review of major sociological research traditions, including but not limited to: experiments, surveys, observational studies, ethnography, interviews, focus groups, and analysis of available data, including online sources and other digital media. Exposing and training students who intend to major in sociology to the research methods that sociologists use to create knowledge facilitates an understanding of the connection between theory and research, develops critical thinking skills by teaching students how to evaluate sociological knowledge, and lays the groundwork for our upper-division coursework, in particular our upper-division hands-on methods courses (108 series).",
+  "prerequisites_raw": "SOC 1",
+  "prerequisites_courses": [
+   "SOC 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 43",
+  "title": "Introduction to Social Research",
+  "units": "4",
+  "description": "Assumptions underlying scientific research. Science and values. Relation oftheory to research. Elements of fieldwork, survey, and experimental methods.",
+  "prerequisites_raw": "One course in sociology, anthropology, or political science.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 45",
+  "title": "AMERICAN SOCIETY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 48",
+  "title": "Social Problems",
+  "units": "4",
+  "description": "This course will analyze the sources of social problems in modern industrial societies. We will discuss in survey form the sociological studies and theoretical propositions dealing with such things as crime, mental illness, war, urban problems, and problems of inter-nation relations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 91",
+  "title": "Experiential Learning in Sociology",
+  "units": "0",
+  "description": "Group experiential learning in a sociological setting as directed by faculty.",
+  "prerequisites_raw": "Prior approval of faculty.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 98",
+  "title": "Readings in Sociology",
+  "units": "0",
+  "description": "Critical reviews and discussions of related topics in sociology under the guidance of a faculty member. Students wishing to enroll must prepare a short plan of study.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 99",
+  "title": "Introduction to Research in Sociology",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member in the department. Course offers exceptional students the opportunity to undertake independent research or work in a research group. Students wishing to enroll must prepare a short plan of study.",
+  "prerequisites_raw": "Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 104B",
+  "title": "Fundamentals of Data Analysis in Sociology",
+  "units": "4",
+  "description": "Basic techniques for the analysis of sociological data using linear models.Emphasis is on sociological application; the course will cover the use of bivariate, multi-variate, and multiple-equation models in sociological research.",
+  "prerequisites_raw": "Sociology 104A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 105E",
+  "title": "Environmental Sociology",
+  "units": "4",
+  "description": "Traces the history of environmentalism and applies social science theories, concepts, and methods to analyze critical contemporary environmental issues and societal responses to them.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 108",
+  "title": "Methods of Sociological Research",
+  "units": "4",
+  "description": "Fundamentals of designing, conducting, and analyzing social surveys. While the focus is on survey techniques, problems of design and interpretation in experimental and observational studies are touched upon in terms of similarities and contrasts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 108A",
+  "title": "Sociology Research Traditions",
+  "units": "4",
+  "description": "Introduction to the basic language, logic, and techniques of major research traditions. Critical thinking in social science, and relation of theory to research in, for example, experiments, surveys, observational studies, historical and comparative approaches, and the use of available data.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 108C",
+  "title": "Methods of Cultural Analysis",
+  "units": "4",
+  "description": "A survey of several methodological approaches that can be applied to the analysis of culture. Methods will be chosen from among the following: interviewing, content analysis, historical methods, structuralism, survey, ethnography, etc.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 108E",
+  "title": "Experimental Methods",
+  "units": "4",
+  "description": "Introduces students to the logic, design, implementation, & analysis of experiments in social science research. Students will gain a broader understanding of experimental methods. We begin by exploring the relationship between experiments and other methods, how to read research that utilizes experimental methods, and identify key components of experimental design. In the second part, we dig into the fundamentals of experimental research design, how to design effective treatments, selecting appropriate outcome variables, & strategies for dealing with challenges that often arise with experiments. In the final part of the course, the focus will be on analysis of experimental research data & presentation of results.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 108F",
+  "title": "Studying People at Firsthand--Observational Methods in Social Science Research",
+  "units": "4",
+  "description": "A vital aspect of modern sociology is the study of social activities in natural settings. This course explores the different methods a fieldworker can use to discover truths about society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 108G",
+  "title": "Methods and Research in Global and International Sociology",
+  "units": "4",
+  "description": "An introduction to the methods of research used in comparative, global, and international research in sociology. Students engage in a group or individual research project chosen in consultation with the instructor.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 108ST",
+  "title": "Special Topics in Methods",
+  "units": "4",
+  "description": "Course covers various topics in sociological methods. Topics, readings, and field research will vary with instructors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118B",
+  "title": "Sociology of the Body",
+  "units": "4",
+  "description": "The body is not \"natural\" but reflects larger power regimes. Examines the body as 1) the bearer of symbolic value, 2) a form of \"capital\", 3) a representation of the \"self\" and 4) a site of political activity.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118C",
+  "title": "Sociology of Culture",
+  "units": "4",
+  "description": "A broad introduction to the sociological study of culture, organized around theoretical perspectives, definitional and analytical problems, the production of culture, and cultural effects on society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118CI",
+  "title": "Sociology of Creative Industries",
+  "units": "4",
+  "description": "Why do catalog models earn more than runway models? How do aspiring rappers learn to freestyle? Why are some TV shows hits and others flops? This course explores sociological research on creative industries, such as art, film, music, gastronomy, fashion, literature, academia, and technology. We compare research on different creative industries to identify common phenomena, focusing on the processes of production, circulation, and consumption. Topics may include globalization, place branding, creative careers, experimentation, rankings, pricing, taste, authenticity, and censorship.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118CM",
+  "title": "Collective Memory",
+  "units": "4",
+  "description": "The past is never very far away. Indeed, remembering is an important part of social life that generates passionate debate in politics and the media. In this class, we look at what is collective about collective memory, investigate the politics of who gets remembered and why, look at the role of memory in the creation of the nation and identity, and examine “difficult” pasts and how we atone for them (or not).",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118CW",
+  "title": "Consumption, Waste, and the Environment",
+  "units": "4",
+  "description": "Examines the link between consumption, waste, and the environment. Integrates environmental concerns with larger cultural questions about the role that consumption, as a way of life, has come to occupy in our contemporary societies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

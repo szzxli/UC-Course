@@ -1,0 +1,316 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594RR",
+  "title": "Functional Approaches to the Study of Cortisol",
+  "units": "3",
+  "description": "This seminar focuses on developing theories regarding the functions of cortisol, with emphasis on humans. Cortisol has been widely treated as a stress hormone in human psychology research, and researchers commonly infer from cortisol elevations that subjects have experienced stress. This course takes a broader perspective on this hormone and covers research into multiple different inputs that may trigger cortisol elevations, as well as research on the downstream effects of cortisol elevations. The goal is to build better theories of input-mappings mediated by this hormone in order to gain greater understanding of its evolved functions. Course topics are flexible based on student interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594RS",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594RV",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest. Each faculty member has their own letter designation available in department office.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594RW",
+  "title": "Media Psychology",
+  "units": "3",
+  "description": "There is little doubt that media have a huge influence on individuals’ lives. In this special topics seminar students will become familiar with past and contemporary theorizing and research in media psychology. The seminar intertwines latest research on the uses and effects of media with research in the cognitive sciences. Topics include (1) The Psychology of Entertainment; (2) Media Narratives and the Moral Mind; (3) Opportunities and Threats of Social Media; (4) Video Games – The Good, The Bad, and The Ugly; (5) Persuasion and Social Influence with Media; (6) Media and Children. Students will have the opportunity to conduct small research projects in the area of their interest.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594SA",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594SK",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest. Each faculty member has their own letter designation available in department office.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594TG",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest. Each faculty member has their own letter designation available in department office.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594TK",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest. Each faculty member has their own letter designation available in department office.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594TS",
+  "title": "Models of Working Memory",
+  "units": "3",
+  "description": "Working memory (WM), a core cognitive function, enables the maintenance and manipulation of a limited amount of information over disruptions in sensory input. This correlates with measures of academic achievement and general intelligence, and the neural mechanisms of WM can be effectively studied in animal model systems. Surveys the history of models of WM, with emphasis on modern study of WM capacity limits in humans and animals based on performance in visual tasks. Covers theoretical & computational models of behavioral performance on WM tasks, theories of the neural mechanisms supporting WM, and how such models can be evaluated empirically in animal model systems and with human cognitive neuroscience methods.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594WB",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest. Each faculty member has their own letter designation available in department office.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594WG",
+  "title": "Special Topics",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594ZE",
+  "title": "Professional Skills for Academic Psychologists",
+  "units": "3",
+  "description": "This course is meant to provide practical and hands-on guidance for students pursuing academic careers (post-docs and assistant professors). We will discuss topics including: the curriculum vitae, the job search, the application process, the job interview, applying for grants, grant review, the life of an assistant professor, and the tenure process",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 594ZL",
+  "title": "Developmental Perspectives on Social Cognition",
+  "units": "3",
+  "description": "Special seminar on research subjects of current interest. Each faculty member has their own letter designation available in department office.",
+  "prerequisites_raw": "Graduate standing in PBS or DYNS",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 595",
+  "title": "Readings For M.A.",
+  "units": "0",
+  "description": "Independent readings for M.A. The purpose of this course is to provide supervised readings on selected topics.",
+  "prerequisites_raw": "Graduate standing in psychology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 596",
+  "title": "Directed Reading And Research.",
+  "units": "0",
+  "description": "The purpose of this course is to providesupervised experience in experimental design and laboratory procedures on selected topics, includingthe formulation of experimental problems, discussion of relevant literatureand the analysis and interpretation of experimental results.",
+  "prerequisites_raw": "Graduate standing in Psychological & Brain Sciences",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 597",
+  "title": "Individual Study For Ph.D. Examinations.",
+  "units": "0",
+  "description": "Preparation for Ph.D. examinations under supervision of chair of student's doctoral committee.",
+  "prerequisites_raw": "Graduate standing in psychology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 598",
+  "title": "Master's Thesis Research And Preparation",
+  "units": "0",
+  "description": "Research and preparation for the master's thesis.",
+  "prerequisites_raw": "Graduate standing in psychology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 599",
+  "title": "Dissertation Research And Preparation",
+  "units": "0",
+  "description": "Empirical and theoretical investigations of special problems in psychology in relation to dissertation research.",
+  "prerequisites_raw": "Graduate standing in Psychological & Brain Sciences",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY  W",
+  "code": "PSY  W 111",
+  "title": "Fundamentals of Behavioral Neuroscience",
+  "units": "4",
+  "description": "An examination of major concepts in behavioral neuroscience. Topics may include: molecular bases of neuron function, neurotransmitter systems, sensory and motor systems, neural bases of learning, memory, and motivated behavior.",
+  "prerequisites_raw": "PSY 106; open to Psychological & Brain Sciences, Biopsychology and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY W",
+  "code": "PSY W 1",
+  "title": "Introduction to Psychology",
+  "units": "5",
+  "description": "An introduction to the subject matter and methods of psychology. Topics may include development, perception, memory, learning, cognition, affect, motivation, social behavior, personality, psychopathology and the physiological basis of behavior.",
+  "prerequisites_raw": "Students are required to be subjects in low-risk psychological experiments or completion of a short paper.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RENST",
+  "code": "RENST 100",
+  "title": "Studies in Renaissance Civilization",
+  "units": "4",
+  "description": "An introduction to the interdisciplinary study of Renaissance civilization.Specific topics will vary from year to year and may include such subjects as Medici Florence, fifteenth-century Burgundy, Renaissance neoplatonism, Renaissance humanism, or Renaissance petrarchism.",
+  "prerequisites_raw": "Note: taught w03.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RENST",
+  "code": "RENST 199",
+  "title": "Independent Studies in the Renaissance",
+  "units": "0",
+  "description": "Study or research under the guidance of a member of the advisory committee for seniors of high scholastic standing. Students wishing to enroll should prepare a short plan of study for their course work.",
+  "prerequisites_raw": "Upper-division standing; completion of 2 upper-division courses in Renaissance Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 1",
+  "title": "Introduction to the Study of Religion",
+  "units": "5",
+  "description": "A consideration of major themes, issues, types of figures and phenomena, and traditions--all selected from the history of religion so as to illustrate the great variety of religious phenomena and to suggest some of the ways such things may be responsibly studied.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 1H",
+  "title": "Introduction to the Study of Religion - Honors",
+  "units": "1",
+  "description": "Students receive one unit for this honors seminar. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in RG ST 1.",
+  "prerequisites_courses": [
+   "RG ST 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 2",
+  "title": "Islam and the West",
+  "units": "5",
+  "description": "Despite all deconstructions of the categories of Islam and the West, the ideals behind the categories survive. We investigate the causes, manifestations of the conflicts and instances of cooperation, and possible futures of this condition.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 3",
+  "title": "Introduction to Asian Religious Traditions",
+  "units": "5",
+  "description": "An introduction to the basic texts, institutions, and practices of the religious traditions of South Asia and East Asia.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 4",
+  "title": "Introduction to Buddhism",
+  "units": "5",
+  "description": "The historical and cross-cultural exploration of Buddhism through the examination of basic texts, institutions, and practices of diverse Buddhist traditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 5",
+  "title": "Introduction to Judaism, Christianity, and Islam",
+  "units": "5",
+  "description": "Introduction to the basic texts, institutions, and practices of western religious traditions: Judiasm, Christianity, and Islam.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 6",
+  "title": "Islam and Modernity",
+  "units": "5",
+  "description": "Discussion of the larger issues regarding Islamic traditions encountering modern transformations of individuals and society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 7",
+  "title": "Introduction to American Religion",
+  "units": "5",
+  "description": "Religion and religions in America. Survey of the variety of religions or religious traditions in America, including Native American, Asian American, African American, Jewish, Roman Catholic, Muslim, and notably Protestant. Focus also on such common features as civil religion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 9",
+  "title": "Ethnicity and Religion",
+  "units": "4",
+  "description": "An overview of the themes, problems and theories at the intersection of race/ethnicity and religious traditions in the United States. Focus is on racially ethnic communities and traditions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

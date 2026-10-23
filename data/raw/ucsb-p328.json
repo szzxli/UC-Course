@@ -1,0 +1,377 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 100B",
+  "title": "Mathematics for Elementary Teaching, II",
+  "units": "3",
+  "description": "Completes the explanation of elementary school mathematics by discussing geometry and algebra. Discusses the pedagogy with the California mathematics framework, the NCTM standards, and \"replacement units\".",
+  "prerequisites_raw": "Mathematics 100A.",
+  "prerequisites_courses": [
+   "MATH 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 101A",
+  "title": "Classical Number Systems",
+  "units": "4",
+  "description": "A development of classical number systems starting with natural numbers and progressing through the integral, rational, real and complex number systems. Includes an introduction to number theory, mathematical induction, the fundamental theorem of arithmetic and the Euclidean algorithm. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Math 8 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 101B",
+  "title": "Mathematical Systems",
+  "units": "4",
+  "description": "The theory of operations within rings and fields. Polynomials, the fundamental theorem of algebra and other factorization theorems. Analyzing linear, polynomial, rational and exponential functions. Solving algebraic equations and inequalities. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Math 101A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 102A",
+  "title": "Modern Euclidean and Noneuclidean Geometry",
+  "units": "4",
+  "description": "Topics in plane and solid geometry. The axioms of pure, euclidean, projective, and noneuclidean geometry. Transformational geometry (isometries, dilitations, involutions, perspectivities, and projectivities). The history and the historical implications of these developments in geometry. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Math 8 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 102B",
+  "title": "Modern Euclidean and Noneuclidean Geometry",
+  "units": "4",
+  "description": "Topics in plane and solid geometry. The axioms of pure, euclidean, projective, and noneuclidean geometry. Transformational geometry (isometries, dilitations, involutions, perspectivities, and projectivities). The history and the historical implications of these developments in geometry. Especially suitable for prospective middle and high school teachers.",
+  "prerequisites_raw": "Math 102A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 102A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 103",
+  "title": "Introduction to Group Theory",
+  "units": "4",
+  "description": "Permutation groups, cyclic groups, theory of finite groups, group homomorphisms and isomorphisms, and Abelian groups. Applications to number theory and geometry.",
+  "prerequisites_raw": "Mathematics 8 with a grade of \"C\" or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 104A",
+  "title": "Introduction Into Numerical Analysis",
+  "units": "4",
+  "description": "Numerical methods for the solution of nonlinear equations (Newton method), for integration (quadrature formulas and composite integration), and for the initial value problem for ordinary differential equations (Euler and Kutta methods).",
+  "prerequisites_raw": "Mathematics 4B or 4BI, 6A, and 6B; and, Math 8 or PSTAT 8, and Math 117 and, Computer Science 5AA-ZZ or 10 or 8 or 16 or Engineering 3, each with a grade of C or above.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 8",
+   "PSTAT 8",
+   "MATH 117",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B",
+   "CMPSC 8",
+   "CMPSC 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 104AL",
+  "title": "LAB IN NUM ANALYSIS",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 104B",
+  "title": "Numerical Analysis",
+  "units": "4",
+  "description": "Numerical methods for the solution of systems of linear equations (direct and iteractive methods), and the finite difference methods for boundary value problems for (ordinary and partial) differential equations.",
+  "prerequisites_raw": "Math 104A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 104A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 104BL",
+  "title": "LAB IN NUM ANALYSIS",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 104C",
+  "title": "Advanced Topics in Numerical Analysis",
+  "units": "4",
+  "description": "Topics in approximation theory; numerical methods for finding eigenvalues of a matrix; and advanced topics in numerical methods for ordinary and partial differential equations.",
+  "prerequisites_raw": "Math 104B with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 104B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 104CL",
+  "title": "LAB IN NUM ANALYSIS",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 108A",
+  "title": "Linear Algebra",
+  "units": "4",
+  "description": "Abstract vector spaces and subspaces. Span and linear independence. Basis and dimension. Linear maps. Eigenvalues and eigenvectors.",
+  "prerequisites_raw": "Math 4A and 8 each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 108B",
+  "title": "Linear Algebra",
+  "units": "4",
+  "description": "Diagonalization, inner product spaces, projections, least-squares approximations, invariant factors and elementary divisors, canonical forms, topics from advanced matrix theory, applied linear algebra, and group representation theory.",
+  "prerequisites_raw": "Math 108A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 108C",
+  "title": "Matrix Analysis",
+  "units": "4",
+  "description": "Eigenvalues, eigenvectors and similarity; Unitary equivalence and normal matrices; QR factorization; Least squares; Singular Value decomposition; Moore-Penrose generalized inverse; Hermitian and symmetric matrices; Variational characterization of eigenvalues; Positive definite matrices; Nonnegative matrices; Perron-Frobenius Theorem.",
+  "prerequisites_raw": "Math 108A with a minimum grade of C",
+  "prerequisites_courses": [
+   "MATH 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 111A",
+  "title": "Abstract Algebra",
+  "units": "4",
+  "description": "An introduction to group theory, focusing on finite groups. Basic algebraic concepts including homomorphisms, normal subgroups, quotients, direct products and group actions. Classification of finitely generated Abelian groups. Other topics such as semidirect products and Sylow theorems as time permits.",
+  "prerequisites_raw": "Math 108A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 111B",
+  "title": "Abstract Algebra",
+  "units": "4",
+  "description": "Ring theory, ideals, factorization. Examples include number rings and polynomial rings. Module theory if time permits.",
+  "prerequisites_raw": "Math 111A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 111A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 111C",
+  "title": "Abstract Algebra",
+  "units": "4",
+  "description": "Fields, field extensions, Galois theory.",
+  "prerequisites_raw": "Math 111B with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 111B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 113",
+  "title": "Non-euclidean Geometry",
+  "units": "4",
+  "description": "An introduction to hyperbolic geometry with some discussion of other non-euclidean systems.",
+  "prerequisites_raw": "Mathematics 8 with a grade of \"C\" or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 114",
+  "title": "Computational Tools for Numerical Analysis",
+  "units": "4",
+  "description": "Introduction to programming with specific examples in scientific computing. The algorithms used will be analyzed in detail in Math 104A-B-C. The emphasis will be the translation of numerical algorithms into actual working code.",
+  "prerequisites_raw": "Math 6B, Math 8, and Math 108A or Math 117 each with a letter grade of \"C\" or higher.",
+  "prerequisites_courses": [
+   "MATH 6B",
+   "MATH 8",
+   "MATH 108A",
+   "MATH 117"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 115A",
+  "title": "Introduction to Number Theory",
+  "units": "4",
+  "description": "Number-theoretic functions, divisibility, congruences, primitive roots and indices, quadratic residues and the quadratic reciprocity law.",
+  "prerequisites_raw": "Mathematics 8 with a grade of \"C\" or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 115B",
+  "title": "Introduction to Number Theory",
+  "units": "4",
+  "description": "Selected topics at the discretion of the instructor. Possibilities include (but are not limited to) Diophantine equations, the distribution of primes, number-theoretic methods in cryptography, quadratic forms, continued fractions, algebraic number theory, and partitions.",
+  "prerequisites_raw": "Math 115A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 115C",
+  "title": "Topics in Number Theory",
+  "units": "4",
+  "description": "Selected topics in number theory at the direction of the instructor.",
+  "prerequisites_raw": "Math 115B with a minimum grade of C or consent of instructor.",
+  "prerequisites_courses": [
+   "MATH 115B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 116",
+  "title": "Combinatorial Analysis",
+  "units": "4",
+  "description": "Elementary counting principles, binomial coefficients, generating functions, recurrence relations, the principle of inclusion and exclusion, distributions and partitions, systems of distinct representatives, applications to computation.",
+  "prerequisites_raw": "Mathematics 8 with a grade of \"C\" or better.",
+  "prerequisites_courses": [
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 117",
+  "title": "Methods of Analysis",
+  "units": "4",
+  "description": "Introduction to methods of proof in analysis. topics include limits, sequences and series, continuity, compactness, as well as other topics. This course is intended to follow Mathematics 8 and to introduce students to the level of sophistication of upper-division mathematics.",
+  "prerequisites_raw": "Mathematics 8 or PSTAT 8 with a grade of \"C\" or better.",
+  "prerequisites_courses": [
+   "MATH 8",
+   "PSTAT 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 118A",
+  "title": "Real Analysis",
+  "units": "4",
+  "description": "Axioms of the real numbers, topology of metric spaces, numerical sequences, infinite series.",
+  "prerequisites_raw": "Math 4B, 6A, 108A and 117, each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 108A",
+   "MATH 117"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 118B",
+  "title": "Real Analysis",
+  "units": "4",
+  "description": "Real functions: continuity, differentiability, Riemann integrals, power and trigonometric series.",
+  "prerequisites_raw": "Math 108B and 118A, each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 108B",
+   "MATH 118A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 118C",
+  "title": "Real Analysis",
+  "units": "4",
+  "description": "Multivariable calculus and a selection of other topics including differential forms or Lebesgue integral.",
+  "prerequisites_raw": "Math 118B with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 118B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 119A",
+  "title": "Ordinary Differential Equations",
+  "units": "4",
+  "description": "Existence, uniqueness, and stability; the geometry of phase space; linear systems and hyperbolicity; maps and diffeomorphisms.",
+  "prerequisites_raw": "Mathematics 4B or 4BI and 6A with a minimum grade of C; and Math 8 with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 8",
+   "MATH 4BI",
+   "MATH 6A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 119B",
+  "title": "Chaotic Dynamics and Bifurcation Theory",
+  "units": "4",
+  "description": "Hyperbolic structure and chaos; center manifolds; bifurcation theory; and the Feigenbaum and Ruelle-Takens cascades to strange attractors.",
+  "prerequisites_raw": "Mathematics 6B and Math 119A, each with a minimum grade of C",
+  "prerequisites_courses": [
+   "MATH 6B",
+   "MATH 119A"
+  ]
+ }
+]

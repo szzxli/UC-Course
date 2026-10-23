@@ -1,0 +1,272 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225R",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225RA",
+  "title": "Special Topics in Mechanical Engineering: Radiative Energy Transfer",
+  "units": "3",
+  "description": "This course investigates the role of thermal radiation in the exchange of energy between engineered surfaces, and the problem of managing overall heat transfer. Topics include the fundamentals of thermal radiation, covering Plank's spectral distribution, Stefan-Boltzmann law, Wien's displacement law, Kirchhoff's law, spectral and total properties of radiative surfaces, including black, diffuse, gray, specular, and nongray surfaces. Analytical methods for analysis of radiative exchange between surfaces are developed using both Radiosity formulations and Network Analogies. Finally, radiative exchange between surfaces is coupled to multimode heat transfer problems, including those having contributions from conduction and convection.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225RM",
+  "title": "Chemo-Mechanics: The Intersection of Solid Mechanics and Chemistry",
+  "units": "3",
+  "description": "Covers basic thermodynamics, the role of chemistry and mechanics in thermodynamics, and the issue of kinetics when the system is not in thermodynamic equilibrium. Emphasis will be placed on the thermodynamics of deformable solids, with mechanical stress, chemical reactions, other chemical phenomena, and species transport included in the formulation. As indicated above, examples will be selected from oxidation and corrosion, electrochemical energy conversion and storage, the behavior of gels and elastomers, biological cell mechanics, and other topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225RS",
+  "title": "Special Topics: Engineering Biomaterials",
+  "units": "3",
+  "description": "This lecture-based course provides an overview of material structure-property relationships, processing, and characterization techniques for metals, polymers, and ceramics. We discuss the unique design constraints imposed by the human body and discuss strategies to enhance biocompatibility. Throughout the course, emphasis is placed on applications of biomaterials engineering in medical devices.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225RX",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225S",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225SA",
+  "title": "Scale Analysis of Multiphysics Phenomena",
+  "units": "3",
+  "description": "For graduate students who already completed introductory courses. Covers techniques of scale analysis for simplifying governing equations, and for deriving tractable models of practical utility. Examples range from single-phase flows, progressing through fluid-structure interaction, multiphase flow, effects of surfactants, phase change, and simple chemical reactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225SD",
+  "title": "Special Topics: Mechanics & Measurement",
+  "units": "3",
+  "description": "Designed for graduate or senior-level undergraduate students who plan to perform experiments, and theoretical or computational students who wish to understand the limitations of the experimental methods from which they are drawing their conclusions. Covers, among other topics: sampling, analog/digital devices, data acquisition, methods and their limitations for measuring force, displacement, temperature, etc., measurements in fracture and fatigue, data analysis and statistics including uncertainty analysis, and image analysis. Hands-on component to this course.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225SO",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225T",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225TD",
+  "title": "Advanced Engineering Thermodynamics",
+  "units": "3",
+  "description": "This course is an extension to ME151A and will discuss advanced concepts in engineering thermodynamics, with practical applications in energy generation, transport, conversion, and storage processes. Topics include: free energies, Maxwell relations, refrigeration cycles and technologies, thermodynamics of solar energy, introduction to statistical thermodynamics, and other topics related to renewable energy research. Prerequisite: ME151A or equivalent courses on thermodynamics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225TF",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225TS",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225U",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225V",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225X",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Specialized courses dealing with advanced topics and recent developments inone or more of the following areas: dynamic systems, control and robotics, fluid mechanics, materials science and engineering, ocean engineering, solid mechanics and structures, thermal sciences.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 225YZ",
+  "title": "Special Topics in Mechanical Engineering: Intro to Interfacial Phenomena",
+  "units": "3",
+  "description": "Introduces fundamental and applied aspects of interfacial systems. The course covers theory of capillarity, interfacial tensions, Laplace pressure, curvature effects on the equilibrium states of fluids, surfactants, fundamentals of wetting and contact angle, adhesion, cohesion, and spreading, superhydrophilicity and superhydrophobicity. Relevant research fields are also introduced, including oil-water separation, electronics cooling, condensation, and bio-inspired functional surfaces.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 226",
+  "title": "Applied Numerical Methods",
+  "units": "3",
+  "description": "An introduction to the numerical solution of ordinary and partial differential equations by means of finite difference and finite element procedures.",
+  "prerequisites_raw": "ME 140A.",
+  "prerequisites_courses": [
+   "ME 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 230",
+  "title": "Elasticity and Plasticity",
+  "units": "3",
+  "description": "Review field equations of elasticity and plasticity. Energy principles and uniqueness theorems. Elementary problems in one and two dimensions, stress functions, and complex variable methods. Plastic stress-strain laws; flow potentials. Torsion and bending of plastic flow, slip line theory. Bounding theorems.",
+  "prerequisites_raw": "ME 219 or MATRL 207",
+  "prerequisites_courses": [
+   "ME 219",
+   "MATRL 207"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 232",
+  "title": "Plasticity",
+  "units": "3",
+  "description": "Plastic, creep, and relaxation behavior of solids. Mechanics of inelastically strained bodies; plastic stress-strain laws; flow potentials.Torsion and bending of prismatic bars, expansion of thick shells, plane plastic flow, slip line theory. Variational formulations, approximate methods.",
+  "prerequisites_raw": "ME 219.",
+  "prerequisites_courses": [
+   "ME 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 232A",
+  "title": "ADV PROPULSION I",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 232B",
+  "title": "ADV PROPULSION II",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 233",
+  "title": "ADV AERODYNAMICS",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 233",
+  "title": "Renewable Energy Technologies",
+  "units": "3",
+  "description": "Focuses on emerging technologies to generate energy from renewable sources, harvest waste energy, and improve the efficiency of existing energy infrastructure. Three main categories of technologies will be discussed: solar energy, thermoelectrics, and solid-state cooling. Thermodynamic principles underlying these renewable energy technologies will be analyzed in detail. Engineering challenges and economic analysis will be provided when relevant.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 233A",
+  "title": "Design of Composite Structures",
+  "units": "3",
+  "description": "Emphasis is placed on the differences of design with composites vis a vis the design of conventional metallic structures. The content is directed at the class of polymermatrix composites.",
+  "prerequisites_raw": "ME 230 or ME 275A.",
+  "prerequisites_courses": [
+   "ME 230",
+   "ME 275A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 235",
+  "title": "Wind and Tidal Energy",
+  "units": "3",
+  "description": "Actuator disc theory; Blade element momentum theory; Design of optimal rotors; Wind turbine wakes; The atmosphere, and effects of atmospheric stability; Models of large wind farms; Open channel-flows; Energy available in tidal flows.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

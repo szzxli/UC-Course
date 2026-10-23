@@ -1,0 +1,242 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 412",
+  "title": "Strategy for Technology-Driven Companies",
+  "units": "4",
+  "description": "Business models and structures for value creation, innovation, competitiveness; leadership and decisions. Features case studies and discussions to understand approaches and techniques to manage technological innovation and change within their organizations, including design and incentivization of teams and organizations to promote innovation. Understanding industry and technology impacts on business model selection and evolution. Special emphasis on sustainable business practices and strategies to maintain a competitive global business.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 413",
+  "title": "Building Brands",
+  "units": "4",
+  "description": "A key part of developing a successful business is to build a well-regarded brand. In this course, students learn the fundamental of building individual, product, and organizational brands. The course emphasizes strategies and tactics for brand building and brand management in technology-based companies.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 421",
+  "title": "Finance and Accounting for Technology-Driven Companies",
+  "units": "4",
+  "description": "Covers the major concepts, principles, and analytical tools that support financial-based managerial decision-making. Modules include measuring and analyzing financial performance, planning and budgeting, developing forecasts and financial pro-formas, time value of money, cost of capital, risk/return trade-offs, capital budgeting and investing, cash and working capital management, and cost accounting and analysis. Emphasis will be on applying these concepts and tools in technology businesses.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 422",
+  "title": "Data Science and Decision Making",
+  "units": "4",
+  "description": "Theoretical models and mathematical tools for quantitative analysis, statistics, decision theory, management. Students will learn how various business situations are modeled and optimized effectively using mathematical modeling and quantitative techniques. Examples include time-series analysis, regression, optimization (linear, nonlinear, and discrete), probabilistic modeling, decision analysis, and simulation.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 423",
+  "title": "Technology-Based Operations",
+  "units": "4",
+  "description": "Operations Management is about the flow of materials and information necessary to effectively and efficiently design and supply a product to a customer. Provides an understanding of the principles involved in designing, managing, and improving supply chain organizations and the related business systems and processes. These concepts will be presented through a combination of lectures, case studies, in-class discussions and exercises, as well as through presentations by experts in the field.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 431",
+  "title": "Product and Market Validation",
+  "units": "4",
+  "description": "Data analytics, demand forecasting, defining and estimating market segments, determining consumer preferences. Explores the entire cycle of market research, from objectives and planning; choice of methodology; designing questionnaires and focus group guides; collecting, analyzing and interpreting data; and presenting findings. Special emphasis on using market research to develop and support decision-making processes to minimize risk and direct-resource investment.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 432",
+  "title": "Project Management in New Product Development",
+  "units": "4",
+  "description": "Provides students with knowledge and tools to manage complex projects and operations to ensure that a project is completed on time, within budget, and with high quality by exploring specific techniques for accomplishing those three goals. Introduction to commonly used business systems and strategies for managing Value/Supply Chains, Information, Human Resources, considerations and strategies for global business operations. Prepares students to manage people, budgets, scheduling, and quality of projects.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 433",
+  "title": "Innovation in the Digital Era",
+  "units": "4",
+  "description": "This course provides students with the knowledge and skills to foster and maintain innovation in firms. The course covers traditional topics in innovation as well as the increasingly central role of digital technologies as both facilitators of innovation and as innovation products.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 441",
+  "title": "Creating Value Through Human Capital",
+  "units": "4",
+  "description": "Explores human capital topics including employee selection, performance management, training and development, compensation, downsizing, and human capital analytics. Provides an understanding of how organizations manage knowledge assets for strategic advantage, and offers skills for managing in knowledge-intensive organizations.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 442",
+  "title": "Leading Technology Teams",
+  "units": "4",
+  "description": "Technology firms rely on teams for critical R&D and project work. Introduces research findings and practical skills to leverage team-based capabilities and avoid the pitfalls of teamwork. Opportunities to hone team leadership and teamwork skills through case analyses and experiential exercises.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 443",
+  "title": "Building Strategic Partnerships",
+  "units": "4",
+  "description": "This course provides students with an understanding of the unique challenges in managing relationships and resources outside a focal firm. Students learn and apply skills around negotiation and stakeholder management. We focus on three themes in this course: creating value through partnering, claiming value through structured negotiation, and managing the relationships that sustain innovation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 451",
+  "title": "Opportunity Recognition Practicum",
+  "units": "2",
+  "description": "A series of lectures by faculty and visiting speakers covering new advances, business practices, and opportunities in technology, innovation management, entrepreneurship, education and social responsibility, with particular emphasis on understanding the difference between an interesting technology and a viable business opportunity.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 452A",
+  "title": "Leadership Practicum: Business Communication",
+  "units": "2",
+  "description": "Teaches students fundamentals of business communication, including professional writing, presentation formation and delivery, and pitching.",
+  "prerequisites_raw": "Graduate standing, enrolled in MTM degree program.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 452B",
+  "title": "Leadership Practicum: Team Communication",
+  "units": "2",
+  "description": "Teaches students fundamentals of communication in project teams. Students work to enhance their own skills on their embedded internship teams.",
+  "prerequisites_raw": "Graduate Standing, must be enrolled in MTM degree program",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 452C",
+  "title": "Leadership Practicum: Managerial Communication",
+  "units": "2",
+  "description": "Teaches students fundamentals of managerial communication including how to convince and persuade peers, superiors, and subordinates. Students will work to develop their own effective communication repertoires.",
+  "prerequisites_raw": "Graduate standing, must be enrolled in MTM degree program",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 462",
+  "title": "Product Management",
+  "units": "4",
+  "description": "This course covers the foundational elements of Product Management, including managing product teams, identifying and targeting customer needs, prioritizing for product roadmaps, designing and developing products, launching and promoting products, and managing the product lifecycle.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 463",
+  "title": "Entrepreneurship",
+  "units": "4",
+  "description": "This course covers the fundamentals of entrepreneurship, including product ideation, forming and building a startup team, market validation, business model development, go-to-market strategies, capital acquisition, and building competitive insulation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 464",
+  "title": "Learning to Work with Intelligent Machines",
+  "units": "4",
+  "description": "The age of intelligent technologies is upon us, and work will never be the same. Individuals, teams, and organizations that can discover and adapt to new ways of working with technologies such as AI and robotics will enjoy more success than those who do not. Through unconventional, practical use of AI itself, this course explores research-backed approaches that will help us develop skill with intelligent technologies - in ourselves and others. We build managerial ability in this domain as well: the knowhow required to design work that brings humans and intelligent technologies together to produce more valuable outcomes than they could apart.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 465",
+  "title": "Digital Transformation",
+  "units": "4",
+  "description": "Introduces concepts, theories, and evidence about how companies are changing in the digital era. The course examines the drivers of digital transformation and explores the evidence on how successful companies make good strategic decisions in the rapidly changing digital environment, how companies can effectively manage and exploit their data assets, and how to implement digital tools in ways that improve organizational culture and collaboration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 466",
+  "title": "Negotiation for Technology Managers",
+  "units": "4",
+  "description": "The strategy and psychology of negotiation. You will learn about the science underlying the social dynamics of negotiations, gain insights into your own preferences, how to prepare for negotiations, and practice applying these lessons in role-play simulations. By the end of the course, you will have greater understanding and confidence in your abilities to create and claim value through negotiations in your personal and professional life.",
+  "prerequisites_raw": "Only students enrolled in the Master of Technology Management professional degree program may register for this course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 489",
+  "title": "Special Issues in Technology Commercialization",
+  "units": "2",
+  "description": "This course is intended to provide current focused research and theory on newly developing issues in specific technological or managerial subjects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 491",
+  "title": "Special Topics in Technology Management",
+  "units": "0",
+  "description": "Courses provide for the study of topics of current interest in the areas of, business, technology management, entrepreneurship, and other issues related to management and creation of sustainable businesses.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 491A",
+  "title": "Leading Teams",
+  "units": "0",
+  "description": "Technology firms rely on teams for critical R&D and project work. Introduces research findings and practical skills to leverage team-based capabilities and avoid the pitfalls of teamwork. Opportunities to hone team leadership and teamwork skills through case analyses and experiential exercises.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "TMP",
+  "code": "TMP 491AI",
+  "title": "AI Building Intensive",
+  "units": "0",
+  "description": "Equips students with hands-on skills in applying AI to core business tasks, including rapid prototyping, preparing data for analysis and running regressions, and building agents for process redesign. Learn to integrate AI tools into real business workflows, moving from experimentation to practical application. At the end of the course, students will submit a professional portfolio of their work, demonstrating their ability to use AI strategically in a business context.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

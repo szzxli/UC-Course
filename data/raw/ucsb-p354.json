@@ -1,0 +1,296 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125X",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125Y",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125YV",
+  "title": "Special Topics: Vehicle Dynamics",
+  "units": "3",
+  "description": "Selected topics in automotive vehicle dynamics, with applications to road or race cars. The course introduces fundamental principles and mathematical descriptions, including topics in vehicle kinematics, kinetics, dynamics and handling, tire friction and mechanics, steering dynamics, suspension mechanisms and dynamics, and vehicle models. Select advanced topics may be introduced, such as performance-based control, trajectory optimization, human operator control, or aerodynamics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125YZ",
+  "title": "Special Topics in Mechanical Engineering: Introduction to interfacial phenomena",
+  "units": "3",
+  "description": "Introduces fundamental and applied aspects of interfacial systems. The course covers theory of capillarity, interfacial tensions, Laplace pressure, curvature effects on the equilibrium states of fluids, surfactants, fundamentals of wetting and contact angle, adhesion, cohesion, and spreading, superhydrophilicity and superhydrophobicity. Relevant research fields are be introduced, including oil-water separation, electronics cooling, condensation, and bio-inspired functional surfaces.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125Z",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 127",
+  "title": "Introduction to Mechanisms",
+  "units": "3",
+  "description": "Generation, analysis, and refinement of the design of electro-mechanical devices for common machine elements including fasteners, joints, springs, bearings, gearing, motors, pneumatics, clutches, couplings, belts, chains, and shafts making use of physics, mathematics, and engineering principles.",
+  "prerequisites_raw": "ME 16 or ME W 16.",
+  "prerequisites_courses": [
+   "ME 16",
+   "ME W 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 128",
+  "title": "Design of Biomedical Devices",
+  "units": "3",
+  "description": "Introductory course addresses the challenges of biomedical device design, prototyping and testing, material considerations, regulatory requirements, design control, human factors and ethics.",
+  "prerequisites_raw": "Mechanical Engineering 10, 14, 15, 16 or ME W 16, and 153; open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 10",
+   "ME W 16",
+   "ME 14",
+   "ME 15",
+   "ME 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 129",
+  "title": "Manufacturing and Geometric Dimensioning and Tolerancing",
+  "units": "3",
+  "description": "Introduction to manufacturing, surveying a broad range of manufacturing methods and focusing on a few select processes. The course covers some of the considerations and decisions that go into process selection, manufacturing systems, design for manufacture, and design for assembly, as well as how those decisions influence manufacturing quality and cost.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 133",
+  "title": "Renewable Energy Technologies",
+  "units": "3",
+  "description": "Focuses on emerging technologies to generate energy from renewable sources, harvest waste energy, and improve the efficiency of existing energy infrastructure. Three main categories of technologies will be discussed: solar energy, thermoelectrics, and solid-state cooling. Thermodynamic principles underlying these renewable energy technologies will be analyzed in detail. Engineering challenges and economic analysis will be provided when relevant.",
+  "prerequisites_raw": "Upper division standing; open to ME majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 134",
+  "title": "Projects in Thermal Sciences",
+  "units": "3",
+  "description": "The focus of the class is on Heat Transfer, Energetics, and Fluid Mechanics. The primary activity will be individual projects on topics selected by each student in associated areas such as Alternative Energy technologies, Manufacturing, HVAC, Engines, Electronic devices, etc. Topics may be related to Senior Capstone projects, professional work, Research, Engineering competitions or clubs, internships, etc. Intended for Juniors, Seniors, and Graduate students in Engineering and the Physics department, with enrollment subject to Instructor approval.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 135",
+  "title": "Wind and Tidal Energy",
+  "units": "3",
+  "description": "Actuator disc theory; Blade element momentum theory; Design of optimal rotors; Wind turbine wakes; The atmosphere, and effects of atmospheric stability; Models of large wind farms; Open channel-flows; Energy available in tidal flows.",
+  "prerequisites_raw": "ME 152A",
+  "prerequisites_courses": [
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 140A",
+  "title": "Numerical Analysis in Engineering",
+  "units": "3",
+  "description": "Numerical analysis and analytical solutions of problems described by linear and nonlinear differential equations with an emphasis on MATLAB. First and second order differential equations; systems of differential equations; linear algebraic equations, matrices and eigenvalues; boundary value problems; finite differences.",
+  "prerequisites_raw": "ME 17 with a minimum grade of C-, or Chemical Engineering 132A.",
+  "prerequisites_courses": [
+   "ME 17",
+   "CH E 132A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 140B",
+  "title": "Theoretical Analysis in Mechanical Engineering",
+  "units": "3",
+  "description": "Analysis of engineering problems formulated in terms of partial differential equations. Solutions of these mathematical models by means of analytical and numerical methods. Physical interpretation of the results.",
+  "prerequisites_raw": "ME 140A.",
+  "prerequisites_courses": [
+   "ME 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 141A",
+  "title": "Introduction to Nanoelectromechanical and Microelectromechanical systems (NEMS/MEMS)",
+  "units": "3",
+  "description": "Introduction to nano- and microtechnology. Scaling laws and nanoscale physics are stressed. Individual subjects at the nanoscale including materials, mechanics, photonics, electronics, and fluidics will be described, with an emphasis on differences of behavior at the nanoscale and real-world examples.",
+  "prerequisites_raw": "ME 16 or ME W 16 and 17; ME 152A and ME 151A (may be concurrent); or ECE 130A & 137A with a minimum grade of C- in both.",
+  "prerequisites_courses": [
+   "ME 16",
+   "ME W 16",
+   "ME 152A",
+   "ME 151A",
+   "ECE 130A",
+   "ECE 137A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 141B",
+  "title": "MEMS: Processing and Device Characterization",
+  "units": "4",
+  "description": "Lectures and laboratory on semiconductor-based processing for MEMS. Description of key equipment and characterization tools used for MEMS and design, fabrication, characterization and testing of MEMS. Emphasis on current MEMS devices including accelerometers, comb drives, micro-reactors and capacitor-actuators.",
+  "prerequisites_raw": "ME 141A or ECE 141A.",
+  "prerequisites_courses": [
+   "ME 141A",
+   "ECE 141A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 141C",
+  "title": "Introduction to Microfluidics and BioMEMS",
+  "units": "3",
+  "description": "Introduces physical phenomena associated with microscale/nanoscale fluid mechanics, microfluids, and bioMEMS. Analytical methods and numerical simulation tools are used for analysis of microfluids.",
+  "prerequisites_raw": "ME 141A or ECE 141A; open to ME and EE majors only.",
+  "prerequisites_courses": [
+   "ME 141A",
+   "ECE 141A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 146",
+  "title": "Molecular and Cellular Biomechanics",
+  "units": "3",
+  "description": "Course introduces fundamental concepts in molecular and cellular biomechanics. Will consider the role of physical, thermal and chemical forces, examine their influence on cell strength and elasticity, and explore the properties of enzymatically-active materials.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 147",
+  "title": "Mechatronics Using Labview",
+  "units": "3",
+  "description": "Introduction to mechatronics, electromechanical systems, data acquisition, software programming and Labview. Students learn programming fundamentals, hardware interfacing and controls with simulated hardware and actual motor controllers. Students compete to control a motor system through a variety of control problems. Final projects automate working hardware in research labs.",
+  "prerequisites_raw": "Engineering 3; and Mechanical Engineering 6",
+  "prerequisites_courses": [
+   "ME 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 151A",
+  "title": "Thermosciences 1",
+  "units": "4",
+  "description": "Basic concepts in thermodynamics, system analysis, energy, thermodynamic laws, and cycles.",
+  "prerequisites_raw": "Physics 7D or Physics 2, and ME 14 with a minimum grade of C-, and Math 6B or Math 5C",
+  "prerequisites_courses": [
+   "PHYS 7D",
+   "PHYS 2",
+   "ME 14",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 151B",
+  "title": "Thermosciences 2",
+  "units": "4",
+  "description": "Introduction to heat transfer processes, steady and unsteady state conduction, multidimensional analysis. Introduction to convective heat transfer.",
+  "prerequisites_raw": "ME 151A and 152A.",
+  "prerequisites_courses": [
+   "ME 151A",
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 151C",
+  "title": "Thermosciences 3",
+  "units": "3",
+  "description": "Convective heat transfer, external and internal flow, forced and free convection, phase change, heat exchangers. Introduction to radiative heat transfer.",
+  "prerequisites_raw": "ME 151B and 152A. Open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 151B",
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 152A",
+  "title": "Fluid Mechanics",
+  "units": "4",
+  "description": "Introduction to the fundamental concepts in fluid mechanics and basic fluid properties. Basic equations of fluid flow. Dimensional analysis and similitude. Hydrodynamics.",
+  "prerequisites_raw": "Math 6B or Math 5C, and ME 16 or ME W 16 with a minimum grade of C-, and Physics 7B or Physics 2",
+  "prerequisites_courses": [
+   "MATH 6B",
+   "ME 16",
+   "ME W 16",
+   "PHYS 7B",
+   "PHYS 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 152B",
+  "title": "Fluid Mechanics",
+  "units": "3",
+  "description": "Incompressible viscous flow. Turbomachinery. Boundary-layer theory. Introductory considerations for one-dimensional compressible flow.",
+  "prerequisites_raw": "ME 152A. Open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 153",
+  "title": "Introduction to Mechanical Engineering Design",
+  "units": "3",
+  "description": "This course introduces engineering design with a focus on an iterative design process. Throughout the course, a group project cements the topics learned through active application to a real design problem. The lectures are broken into three sections. Section 1 introduces a version of this iterative Design Cycle, which comprises four components: 1) Define, 2) Ideate, 3) Prototype & Test, and 4) Analyze. These steps are repeated many times over the course of design development, not always in this order. Section 2 of the course focuses on applying this Design Cycle to the team project. Section 3 wraps up and focuses on presenting the project.",
+  "prerequisites_raw": "ME 10 and 16 or ME W 16; open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 10",
+   "ME W 16",
+   "ME 16"
+  ]
+ }
+]

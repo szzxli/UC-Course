@@ -1,0 +1,316 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 26",
+  "title": "Introduction to Jewish Mysticism",
+  "units": "5",
+  "description": "Survey of the major trends of Jewish mysticism from late antiquity through early modernity. Topics include celestial ascent and the angelic transformation of the mystic; letter mysticism and magical techniques; the divine and mystical union; gender and the anthropomorphic representation of God; secrecy and mystical fellowship; ascetic eroticism and the spiritual ideal of worship.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 27",
+  "title": "Varieties of Mystical Experience in the Abrahamic Religions: Judaism, Christianity, and Islam",
+  "units": "5",
+  "description": "Explores the mystical phenomenon in Judaism, Christianity, and Islam. Topics to be discussed include: language and the limits of reason; the problem of pure consciousness and the contextualization of experience; contemplative vision and the invisible; ascetic renunciation and the eroticism of mystical union; mystical atheism and the antinomian overcoming the law.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 28",
+  "title": "Gandhi: Nonviolence, Resistance, Truth",
+  "units": "5",
+  "description": "Gandhi: revolutionary, politician, thinker. And saint? Studies the ideas and acts of the man credited with liberating India from colonial rule through nonviolent resistance. Controversial throughout his life, Gandhi continues to be fought over in India today. Emphases include: his religious persona; his intellectual contexts, both Indian and Western; nonviolence in theory and practice; Gandhis legacy to social justice movements in this country; and criticism from different angles. There will be movies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 29",
+  "title": "Patriarchy and Religion: A Global Perspective",
+  "units": "5",
+  "description": "Explores the intricate relationship between religion and patriarchy. We will investigate how various religious traditions and belief systems have historically influenced and perpetuated patriarchal structures and norms. Additionally, we will examine the ways in which individuals and groups within religious contexts have challenged and reinterpreted these norms to advance gender equality. Through critical analysis, discussions, and scholarly exploration, students will gain a comprehensive understanding of the intersections between religion, patriarchy, and social change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 30",
+  "title": "Judaism",
+  "units": "5",
+  "description": "A survey of beliefs, practices, texts, and historical figures in Judaism, from biblical times to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 30A",
+  "title": "Elementary Tibetan I",
+  "units": "4",
+  "description": "An introduction to literary and spoken Tibetan, including study of classical and modern grammar, with examples drawn from a wide variety of literature. Also introduces students to the use of new digital instructional materials to develop proficiency in spoken Tibetan.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 30B",
+  "title": "Elementary Literary Tibetan II",
+  "units": "4",
+  "description": "Continuation of Tibetan I.",
+  "prerequisites_raw": "Religious Studies 30A.",
+  "prerequisites_courses": [
+   "RG ST 30A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 30C",
+  "title": "Elementary Literary Tibetan III",
+  "units": "4",
+  "description": "Continuation of Tibetan II.",
+  "prerequisites_raw": "Religious Studies 30B.",
+  "prerequisites_courses": [
+   "RG ST 30B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 30D",
+  "title": "Intermediate Tibetan IV",
+  "units": "4",
+  "description": "Intermediate literary and spoken Tibetan, including study of advanced Tibetan grammar and readings in a variety of genres of Tibetan literature. Use of programs in colloquial Tibetan to develop verbal fluency, acquire vocabulary, and master advanced topics in spoken Tibetan.",
+  "prerequisites_raw": "Religious Studies 30C.",
+  "prerequisites_courses": [
+   "RG ST 30C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 30E",
+  "title": "Intermediate Tibetan V",
+  "units": "4",
+  "description": "Continuation of Tibetan IV.",
+  "prerequisites_raw": "Religious Studies 30D.",
+  "prerequisites_courses": [
+   "RG ST 30D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 30F",
+  "title": "Intermediate Tibetan VI",
+  "units": "4",
+  "description": "Continuation of Tibetan V.",
+  "prerequisites_raw": "Religious Studies 30E.",
+  "prerequisites_courses": [
+   "RG ST 30E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 31",
+  "title": "The Religions of Tibet",
+  "units": "5",
+  "description": "Survey of Tibetan religions focusing on Tibetan Buddhism (from its origns to the present) but also touching on the Tibetan indigenous religion, Bon and on Tibetan Islam. Special attention is paid to the four major schools of Tibetan Buddhism, their history, doctrines, and meditation practices.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 32",
+  "title": "Contemporary Chinese Religions",
+  "units": "5",
+  "description": "Examines Chinese popular religion, Daoism, Buddhism, Confucianism, Christianity, and Islam as shaped and transformed by revolution and nationalism, and the recent rapid commercialization, urbanization, and globalization of China. Religiosity and changing notions of self, family, gender, community, and citizenship.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 33",
+  "title": "Catholic Ritual in the Middle Ages",
+  "units": "4",
+  "description": "Explores changing rituals of the mass, the seven sacraments, monastic practice, and urban and rural daily life. It explores the interaction and interpenetration of religious and secular communities, the transmission of Christian ideas, and the relationships of spiritual and secular authorities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 35",
+  "title": "Introduction to Religion and Politics",
+  "units": "5",
+  "description": "A survey of religion's influence on American politics, studying those seeking greater alignment between religious values and public policy. An examination of the relationship between religion and political mobilization, interest group politics, public opinions, race and ethnicity, foreign policy, and elections.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 37",
+  "title": "Law in Everyday Life",
+  "units": "5",
+  "description": "This interdisciplinary course highlights the importance of the humanities to questions of law and justice, law and culture, and law and empire, as well as the implications of each of these pairings for our understanding of rights, protections, exclusions, violence, and oppression. The course pays particular attention to the ways in which marginalized individuals and groups have wielded law to promote justice and transform culture. Students interrogate the humanities from the perspective of law, as well as the intellectual and cultural contexts through which the law has become a complex practice and knowledge.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 41",
+  "title": "Introduction to Chinese Medicine",
+  "units": "5",
+  "description": "Looks at major concepts and practices that inform the plural traditions of Chinese medicine. Also considers the cultural and historical contexts in which these therapeutic traditions emerged as well as, briefly, their relation to other medical systems in Asia.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 42",
+  "title": "Global Yoga",
+  "units": "5",
+  "description": "This course examines the complex, transcultural, and entangled history of the contemporary global yoga phenomenon. It sheds light on the connection between modern transnational yoga and various posture-based systems of self-cultivation from Asia (India, Tibet, China) to Europe. It also considers the basic features of primarily physical modes of spiritual refinement.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 47",
+  "title": "Introduction to Daoism",
+  "units": "5",
+  "description": "A study of the classical sources of Daoism, followed by a consideration of the varieties of religious practice which developed from those sources.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 48",
+  "title": "Nature and Ethics in Chinese Philosophy",
+  "units": "5",
+  "description": "A look at how major thinkers in classical Chinese thought grappled with questions related to the individual's place in society and their relationship to their environment. Highlighting their relevance, classical views will be applied to contemporary ethical, social, and environmental debates.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 57A",
+  "title": "Elementary Persian I",
+  "units": "4",
+  "description": "Introduction to Persian pronunciation, script, and basic grammar, and vocabulary. Included lessons in reading, writing, conversation, and oral comprehension. Sections involve audio-visual materials and a general introduction to the literature and cultures of Persian-speaking Iran, Tajikistan, and Afghanistan.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 57B",
+  "title": "Elementary Persian II",
+  "units": "4",
+  "description": "Continuation of Elementary Persian I (RGST 57A).",
+  "prerequisites_raw": "Religious Studies 57A.",
+  "prerequisites_courses": [
+   "RG ST 57A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 57C",
+  "title": "Elementary Persian III",
+  "units": "4",
+  "description": "Continuation of Elementary Persian II (RGST 57B).",
+  "prerequisites_raw": "Religious Studies 57B.",
+  "prerequisites_courses": [
+   "RG ST 57B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 57D",
+  "title": "Intermediate Persian I",
+  "units": "4",
+  "description": "Continuation of Elementary Persian III (RGST 57C).",
+  "prerequisites_raw": "Religious Studies 57C.",
+  "prerequisites_courses": [
+   "RG ST 57C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 57E",
+  "title": "Intermediate Persian II",
+  "units": "4",
+  "description": "Continuation of Intermediate Persian I (RGST 57D).",
+  "prerequisites_raw": "Religious Studies 57D.",
+  "prerequisites_courses": [
+   "RG ST 57D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 57F",
+  "title": "Intermediate Persian III",
+  "units": "4",
+  "description": "Continuation of Intermediate Persian II (RGST 57E).",
+  "prerequisites_raw": "Religious Studies 57E.",
+  "prerequisites_courses": [
+   "RG ST 57E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 58A",
+  "title": "Intensive Elementary Persian I",
+  "units": "5",
+  "description": "Intensive course for students with some backgroundmostly in listening and speaking skills of Persian language. This course is an introduction to Persian sound system, script, basic grammar, reading, and writing. Also includes developing vocabulary, formal vs. informal speaking, and learning about the diverse culture of Persian-speaking Iran, Tajikistan, and Afghanistan.",
+  "prerequisites_raw": "Instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 58B",
+  "title": "Intensive Elementary Persian II",
+  "units": "5",
+  "description": "Continuation of Intensive Elementary Persian I (RGST 58A). Course objectives are: Continue to master the sounds and script of the Persian language; Refine basic reading, writing, and speaking skills; Develop vocabulary and speaking skills for formal vs. informal situations; Learn additional grammatical concepts (e.g. subjunctive, past tense etc.); Engage with various aspects of Persian-speaking culture.",
+  "prerequisites_raw": "RG ST 58A or Instructor Approval",
+  "prerequisites_courses": [
+   "RG ST 58A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 58C",
+  "title": "Intensive Intermediate Persian I",
+  "units": "5",
+  "description": "Continuation of Intensive Elementary Persian II (RGST 58B). Course objectives are: Develop working vocabulary beyond everyday commonalities; Learn multiple verb tenses; Engage with a more in-depth grammar in a series of communicative activities; Develop the ability to comprehend extended texts; Further understanding of Persian-speaking cultures in Iran.",
+  "prerequisites_raw": "RG ST 58B or Instructor Approval",
+  "prerequisites_courses": [
+   "RG ST 58B"
+  ]
+ }
+]

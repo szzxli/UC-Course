@@ -1,0 +1,192 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 159",
+  "title": "Health Psychology",
+  "units": "4",
+  "description": "Covers the concepts, theory, and research within the field of health psychology. Topics may include: the impact of stress on disease, coping and social support, health communication and persuasion, and the role of psychology in the health care system.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160",
+  "title": "Special Topics in Psychology",
+  "units": "4",
+  "description": "Lectures in special areas of interest in contemporary psychology. Consult the department office regarding proposed course topics.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160AF",
+  "title": "Special Topics in Psychology - History of Psychology",
+  "units": "4",
+  "description": "Designed to provide a grounding in the philosophical and empirical origins of modern psychological science.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160AM",
+  "title": "Autobiographical Memory",
+  "units": "4",
+  "description": "Autobiographical memory encompasses everything we know about our personal past, from semantic information about ourselves (e.g., where you were born) to the most significant moments of our lives that shape who we are. This course is a deep dive into how life’s events are remembered and why we remember (and forget) so much of our life. We will discuss the difficulty with studying autobiographical memory from a scientific perspective (e.g., evaluating the accuracy of autobiographical memories) and how researchers approach the study of the personal past, drawing from cognitive and personality psychology, and neuroscience.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160AW",
+  "title": "Infancy",
+  "units": "4",
+  "description": "Human infancy is a time of rapid and momentous development. In this course, we will explore the behavioral, social, emotional, and cognitive changes that take place over the first years of life. We will begin at birth and each week we will focus on the major achievements of a particular month (or two) of life.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160BW",
+  "title": "Developmental Foundations of the Social Mind",
+  "units": "4",
+  "description": "What do babies know and how do babies learn about the social world? In this course, students will read primary research articles on infant social cognition. Students will engage with the research questions, hypotheses, logic, methods, and results of the studies, as well as the strengths and limitations of different methods for studying infants' minds.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160DP",
+  "title": "Theory in Psychology",
+  "units": "4",
+  "description": "Psychological science is currently embroiled in a theory crisis. Is this new? Or, has psychology always had a theory crisis? How are we to answer this question? And either way, how are we to get out of the theory crisis? These are the topics that we will cover in this class. Students gain firsthand knowledge of the current theory crisis literature, the philosophy and psychology of doing psychology, and generate papers, presentations, and discussions related to these topics.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160DS",
+  "title": "Special Topics in Psychology - Addressing Social Problems in Psychological Science",
+  "units": "4",
+  "description": "Features discussion of psychological research that uses the scientific method to addresssocietal issues, applying theories in the context of issues such as the environment, education, health, and intergroup conflict. Students read psychological science articles and discuss their implications for societal issues.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160DW",
+  "title": "PSYCHOLOGY OF MEDIA AND CHILDREN",
+  "units": "4",
+  "description": "A survey of media psychological theories and research on media and children. The course adopts a developmental perspective, focusing on how children of different ages interpret and respond to media content. Major topic areas include the cognitive processing of media content, the effects of portrayals of violence and sex in media, the attraction and effects of video games, psychological impacts of social media use (including drug use and eating disorders), and media messages' broader emotional impact. Each of these topics is examined in terms of major issues, research findings, and theoretical explanations of the findings.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160HK",
+  "title": "Psychology of Choice",
+  "units": "4",
+  "description": "Choices define who we are and show the world what we care about. Although choices feel very personal, psychological research shows that our choices are shaped by many biological, situational, structural, and cultural factors. In this class, we discuss theories and findings on how and why people make everyday choices as well as how these choices influence their psychology, covering a range of topics such as habits, variety seeking, regret, choice overload, and trends.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160LL",
+  "title": "The Social Minds of Primates",
+  "units": "4",
+  "description": "Humans possess many unique psychological capacities for navigating our social worlds, but we also share extensive sociocognitive similarities with other primates. In this course, we explore the origins and trajectories of primate social minds through comparative and evolutionary frameworks.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160MH",
+  "title": "Applications of Cognitive Psychology",
+  "units": "4",
+  "description": "Cognitive psychology: What is it good for? Quite a lot, as it turns out! Reviews basic theories and findings in cognitive psychology and how they are applied in such diverse real-world situations as education, the legal system, and the design of new technology and information displays. Students also reflect on how they can use principles of cognitive psychology to improve their own study habits and everyday activities such as navigation. Includes regular writing assignments and reading of original articles in psychology.",
+  "prerequisites_raw": "Psychology 1, 5, and 7; open to psychology and biopsychology majors only; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160NR",
+  "title": "Social Injustice",
+  "units": "4",
+  "description": "Students will discuss theory and research in social and political psychology that explains how we (mis)perceive social injustice, how it affects us, how we respond to it, and why we fight for social change (or not).",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160RL",
+  "title": "Affective Neuroscience",
+  "units": "4",
+  "description": "An overview of contemporary questions in affective sciences and affective neuroscience drawing from insights obtained in human and animal studies. Topics may include: the brain basis of emotion, affect-cognition interactions--including the bidirectional influence of affect on attention, memory, and cognitive control--and the relevance of those processes for psychopathology.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160RM",
+  "title": "Computer Games for Learning",
+  "units": "4",
+  "description": "Can people learn useful cognitive skills and academic content from playing educational video games? Many strong claims are made for the potential of computer games for improving education, but research is needed to examine these claims. This course takes an evidence-based approach to examining what the research has to say about how to design effective computer games for learning. It examines issues, such as do people learn better from games than from conventional media, what do people learn from playing commercial video games, can games be used to train cognitive skills needed for academic success, and which features of games are most effective in helping people learn academic content?",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160RW",
+  "title": "Media Psychology",
+  "units": "4",
+  "description": "There is little doubt that media have a huge influence on individuals’ lives. In this special topics seminar students will become familiar with past and contemporary theorizing and research in media psychology. The seminar intertwines latest research on the uses and effects of media with research in the cognitive sciences. Topics include (1) The Psychology of Entertainment; (2) Media Narratives and the Moral Mind; (3) Opportunities and Threats of Social Media; (4) Video Games – The Good, The Bad, and The Ugly; (5) Persuasion and Social Influence with Media; (6) Media and Children. Students will have the opportunity to conduct small research projects in the area of their interest.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160SC",
+  "title": "Science of Mindfulness",
+  "units": "4",
+  "description": "Reviews empirical evidence documenting the various ways in which engaging in mindfulness and contemplative practice can enhance human flourishing. Lectures will be accompanied with discussion and in class meditation instruction and practice.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160SK",
+  "title": "Examination of Key Constructs in The Psychological & Brain Sciences Description",
+  "units": "4",
+  "description": "Since Psychologists reopened the black box of the mind in the early 1960s, mental state and mental faculty terms have proliferated. They routinely are used to motivate experiments and explain findings. However, a careful analysis of these terms is hard to find. We thus run the risk of populating the mind with entities that fail to adequately represent its workings. In this course we take aim at several key constructs found in contemporary Psychology e.g., mind, self, memory, consciousness and subject them to empirical and logical analysis. The result is that many of our favorite terms are found to be in need of serious and sustained conceptual analysis.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 160TG",
+  "title": "Psychology of Conspiracy",
+  "units": "4",
+  "description": "Conspiracy theories explain important events as secret plots perpetrated by powerful and malevolent groups. What are the psychological factors that drive the popularity of this kind of belief system? What are the consequences of adopting these theories? In this seminar we address psychological scientific research that addresses each of these questions, and consider how well this research can account for specific past and present conspiracy theories.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ }
+]

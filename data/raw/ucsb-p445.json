@@ -1,0 +1,224 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118GK",
+  "title": "Sociology of Garbage",
+  "units": "4",
+  "description": "Contemporary societies create huge mountains of trash. What does this garbage reveal about the societies we live in and how they change over time? What does it obscure? This course uses garbage multiple kinds of waste materials produced by humans as a lens for exploring issues of capitalism and industrialization, environmentalism, postcolonialism, and race/caste. Taking a global and historical approach, we will become familiar with theories that help us to understand these perspectives and consider case studies from around the world, with a particular focus on cities.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118PC",
+  "title": "Popular Culture",
+  "units": "4",
+  "description": "Explores the importance and impact of popular culture in our everyday lives. Our daily lives are saturated with popular culture, making it an important area of study. Popular culture both reinforces and challenges existing power structures and inequalities. We will look at the social dimensions of cultural production, consumption, regulation, and representation. We will also focus on a wide range of topics such as critical theory, culture industries, status and privilege, controlling images, the body, censorship, gender, and globalization. We will discuss what popular culture tells us about ourselves, our history, and our society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118QC",
+  "title": "Queer Communities of Color in Digital and Traditional Media",
+  "units": "4",
+  "description": "Using cultural studies frame, circuit of culture, this course examines the of representation of LGBTQ communities of color in television, film, and web-based media.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 118T",
+  "title": "The Social Life of Technology",
+  "units": "4",
+  "description": "How does the use of information technologies and bio-technologies shape our economic, social, sexual, intimate and public life? This course introduces students to feminist and critical technology studies. We read scholarship by feminist race scholars on the internet, artificial intelligence and information technologies. It surveys key debates in critical technology studies specifically the role of race, gender and identity in gaming, search engines, artificial intelligence and social media. Topics may include: robotics, data sharing, forensic bio-banks, gaming culture, algorithmic discrimination, collective mobilization, consumer genealogy databases, online dating, and race, gender and sexuality in online culture.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 121LS",
+  "title": "The Power of Language in Society",
+  "units": "4",
+  "description": "In this course, we will examine how language is used in social and symbolic meaning-making and learn about forms of linguistic marginalization, empowerment, and social change. Strengthening our sociological understanding of the role of language and language practices in shaping power and inequality within social groups, organizations, and across societies, can support improvements in the accuracy of our sociological descriptions, broaden the impact of interviews and surveys by integrating questions and formats for linguistically diverse populations, and further the field’s understanding about how language shapes culture.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 122",
+  "title": "Social Stratification",
+  "units": "4",
+  "description": "The nature of social classes and class relations, emphasizing contemporary studies of American society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 122GI",
+  "title": "Global Inequalities",
+  "units": "4",
+  "description": "Examines social inequality from a perspective that takes the global system as the unit of analysis. Topics include: globalization, theories and methods for studying global inequality; spatial inequality, and structures and processes in the generation and persistence of inequalities.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 124",
+  "title": "Sociology of Immigration",
+  "units": "4",
+  "description": "Immigration has transformed the United States in the past and today, and is changing the face of Europe and is transforming the societies that immigrants are leaving behind. This course covers the social science literature, including the causes and consequences of immigration, the economics and politics of immigration, the adaptation patterns of immigrants and their descendants, the impact on the societies left behind, and the long-term effects of immigration on American society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 125P",
+  "title": "Sociology of Privilege",
+  "units": "4",
+  "description": "Sociology has long acknowledged and considered privilege as an integral component of systems of power and inequality. Despite this, privilege is far less theorized in sociology than are various forms of inequality and marginalization. We examine research on privileges as they are refracted through different configurations of identity and within different cultural contexts by putting sociological theory and research into dialogue with intersectionality and critical race theory. Finally, we learn about how structured advantages are both understood and experienced as well as the diverse ways they are connected with enduring systems, processes, and practices of inequality.",
+  "prerequisites_raw": "Required completion of SOC 1.",
+  "prerequisites_courses": [
+   "SOC 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 126",
+  "title": "Urban Society",
+  "units": "4",
+  "description": "Problems of the city, (e.g., congestion, homelessness, violence) are examined in light of larger economic and social forces which structure urban life. Through use of slides depicting urban settings, causes and consequences of different ways urban settlements have been organized are considered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 128",
+  "title": "Sociology of Race and Ethnicity",
+  "units": "4",
+  "description": "Patterns of racial and ethnic relations, with particular emphasis upon minorities in the United States.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130A",
+  "title": "Development and Social Change in Africa",
+  "units": "4",
+  "description": "An exploration into Africa's experience in the global system, with particular attention to dynamics of colonialism, globalization, and African resistance. Topics include Africa before the modern era, contemporary social movements, political processes, African diaspora, class and gender, and regional case studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130C",
+  "title": "Global Carceral States",
+  "units": "4",
+  "description": "This course focuses on carceralism—that is, forms of un-freedom—including, but not limited to incarceration. Students learn about four overarching sets of issues: (1) the ways & reasons states confine people (and categories of people) deemed to be dangerous, hostile, or superfluous in prisons, detention facilities, encampments, or enwalled lands; (2) the strategies and technologies developed and used to manage and treat people within carceral settings; (3) ways in which carceralized people resist repressive conditions individually and collectively; and (4) the ways carceral regimes can be challenged. The aim of the class is to study carcerality through multiple scales and perspectives, and to compare carceralism in different settings.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130EV",
+  "title": "Eco Vista: Creating Systemic Alternatives",
+  "units": "4",
+  "description": "Eco Vista names the project of turning Isla Vista into something like an eco-village by 2030. This course is grounded in existing models and visions of Systemic Alternatives systems change designed to confront the climate crisis. It offers analysis of the historical background and contemporary situation of Isla Vista. We then assess the state of the existing Eco Vista Project: www.ecovistacommunity.com, alongside in-depth study of both the theories and case studies relevant to achieving deep social transformation today and in the near future. Students collaborate in hands-on research, design, and direct participation on an existing project, or form one of their own.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130GC",
+  "title": "The Global City",
+  "units": "4",
+  "description": "Intensive study of one or more contemporary global cities. Topics include: cities in the global economy, culture/identity, labor/migration, local governance, social movements. Will focus on cities such as London, Tokyo, Los Angeles, Mexico City, Beijing, and Cape Town.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130GR",
+  "title": "Globalization and Resistance",
+  "units": "4",
+  "description": "Examines current debates about the impact of globalization on political- economic, social, and cultural arrangements around the world, investigating how people are affected by it, and what forms resistance to these developments is taking in the emerging anti-globalization movements.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130LA",
+  "title": "Development and Social Change in Latin America",
+  "units": "4",
+  "description": "Examines significant instances of economic, political, cultural, and social change in contemporary Latin America. Employs various perspectives to illuminate such phenomena as changing social structures, industrialization, social movements, the states, multinationals, the military, and international pressures.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130ME",
+  "title": "Development and Social Change in the Middle East",
+  "units": "4",
+  "description": "Surveys major instances of economic, poltical, cultural, and social change in the Middle East, historically and in the contemporary period. Assesses changing social structures, social movements, the role of Islam, and other topics in Iran, Egypt, and Turkey, among others.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130SD",
+  "title": "The World in 2050: Systemic Alternatives",
+  "units": "4",
+  "description": "Starting with the current political, economic, cultural, and climate crises of Earth and humanity, we consider alternatives to the present system - sustainable development, regrowth, transition towns, resilience - and our roles in building a far better world by 2050.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130SG",
+  "title": "Sociology of Globalization",
+  "units": "4",
+  "description": "Introduction to the sociological study of globalization. Survey of principal theories and debates in globalization studies with a focus on economic, political, and cultural transnational processes, gender/race/class and globalization, transnational social movements, and local-global linkages.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130SG",
+  "title": "Sociology of Globalization",
+  "units": "4",
+  "description": "Introduction to the sociological study of globalization. Survey of principal theories and debates in globalization studies with a focus on economic, political, and cultural transnational processes, gender/race/class and globalization, transnational social movements, and local-global linkages.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130SR",
+  "title": "Sociology of Revolutions",
+  "units": "4",
+  "description": "Surveys radical social thinkers from 20th century revolutions and sociological reflections on 20th century revolutionary theory and practice. Major thinkers and practitioners that may be surveyed include Leon Trotsky, Antonio Gramsci, Mao Zedong, Rosa Luxemburg, Jose Mariategui, Lenin, Amilcar Cabral, and others. May also cover sociological theories of social change and revolution, debates on the causes and consequences of these revolutions, and implications for 21st century processes of social change.",
+  "prerequisites_raw": "Upper division standing",
+  "prerequisites_courses": []
+ }
+]

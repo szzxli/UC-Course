@@ -1,0 +1,256 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 102S",
+  "title": "Interdisciplinary Approaches to the Cultures, Languages, and Literatures of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues pertinent to the diverse cultures, languages, and literatures of Latin America and Iberia. Disciplines and approaches may include: pre-Columbian studies, Spanish and Spanish American literatures, Portuguese and Brazilian literatures, translation studies, cultural, gender, and queer studies, romance language and linguistics. Taught in Spanish.",
+  "prerequisites_raw": "Upper-division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 103",
+  "title": "Media, Culture, and Society in Latin America and Iberia",
+  "units": "4",
+  "description": "Introduces students to Latin American theories, practices and representations about the media, analyzing from a cross-cultural and comparative perspective various cultural productions of the Spanish-speaking world that cross the domains of word, image, and sound.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 127",
+  "title": "Gastronomy of the Americas through Literature",
+  "units": "4",
+  "description": "An in-depth look at the gastronomy of specific geographical and cultural regions of Latin America through a selection of literary texts and films. From Pre-Columbian to current gastronomical influences from around the world, students will learn about ancient grains, protein alternatives, non-wheat carbohydrates, common herbs and spices in connection with the region in which native people grow, preserve and consume them. Other cultural and culinary influences that have shaped the gastronomy of Latin American today will be emphasized to highlight the fusion and a culinary syncretism observed within the rich and diverse Latin American cuisine. A culinary selection of traditional dishes will be prepared.",
+  "prerequisites_raw": "Spanish 30 (can be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 127E",
+  "title": "Gastronomy of the Americas through Literature",
+  "units": "4",
+  "description": "An in-depth look at the gastronomy of specific geographical and cultural regions of Latin America through a selection of literary texts and films. From Pre-Columbian to current gastronomical influences from around the world, students will learn about ancient grains, protein alternatives, non-wheat carbohydrates, common herbs and spices in connection with the region in which native people grow, preserve and consume them. Other cultural and culinary influences that have shaped the gastronomy of Latin American today will be emphasized to highlight the fusion and a culinary syncretism observed within the rich and diverse Latin American cuisine. A culinary selection of traditional dishes will be prepared. Taught in English.",
+  "prerequisites_raw": "Spanish 30 (can be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 145",
+  "title": "Spanish for Healthcare",
+  "units": "4",
+  "description": "Designed for students interested in expanding and applying their knowledge of Spanish to the medical field. Students will learn and apply targeted vocabulary/grammar and develop bicultural/bilingual competency of healthcare issues in Hispanic countries and the US.",
+  "prerequisites_raw": "Spanish 25 or Spanish 16B; and Spanish 100",
+  "prerequisites_courses": [
+   "SPAN 25",
+   "SPAN 16B",
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 149AD",
+  "title": "Blackness in Latin America, An Introduction",
+  "units": "4",
+  "description": "Explores the experiences of Africans and their descendants in the Americas, mostly in Latin America and the Caribbean. Looks at ways in which men and women (enslaved and free) negotiated their imposed conditions from the colonial period to the present. Considers the methodological challenges of writing a history of people who did not produce primary sources. Underscores the contribution that people of African-descent have made and the debates that continue shaping the discipline.",
+  "prerequisites_raw": "History 8 or 49A or 49B or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 49A",
+   "HIST 49B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151A",
+  "title": "Latin American History: Pre-Hispanic and Colonial Periods",
+  "units": "4",
+  "description": "A general survey of the social, economic, institutional, and intellectual history of colonial Spanish America (1492-1800), with comparisons to colonial Brazil.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151AS",
+  "title": "Latin American History: Pre-Hispanic and Colonial Periods (in Spanish)",
+  "units": "4",
+  "description": "A Spanish-language version of LAIS 151A. A general survey of the social, economic, institutional, and intellectual history of colonial Spanish America (1492-1800), with comparisons to colonial Brazil, taught in Spanish and drawing on Spanish-language materials.",
+  "prerequisites_raw": "History 8",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151B",
+  "title": "Latin American History",
+  "units": "4",
+  "description": "A survey on nineteenth-century Latin America. Topics include: the independence movements, the formation of national states, nationalism, liberalism, the construction of race and racial imaginings, slavery and the struggles for citizenship.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151C",
+  "title": "Latin American History",
+  "units": "4",
+  "description": "A survey on twentieth-century Latin America with an emphasis on social and political history, revolutions, the rise of U.S. hegemony, the Cold War, military dictatorships and human rights, neoliberalism, indigenous movements, and the continued struggle for citizenship.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151CU",
+  "title": "History of Cuba",
+  "units": "4",
+  "description": "A history of Cuba from the colonial era to the present, with an emphasis on the social and political processes of the 19th to 21st centuries.",
+  "prerequisites_raw": "History 8 or 9 or 151A or 151B or 151C or 154LB or LAIS 100 or 101 or upper division standing.",
+  "prerequisites_courses": [
+   "LAIS 100",
+   "HIST 9",
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151C",
+   "HIST 154LB",
+   "LAIS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151GS",
+  "title": "Gender and Sexuality in Latin America",
+  "units": "4",
+  "description": "An examination of gender and sexuality in Latin America from independence to the present. The course pays particular attention to how individuals exercised power and how gender, race, and class intersected. Themes include popular conceptions of sexuality, masculinity, and femininity, religion, work, health, and women's movements.",
+  "prerequisites_raw": "HIST 8A or HIST 8B or upper division standing.",
+  "prerequisites_courses": [
+   "HIST 8A",
+   "HIST 8B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151H",
+  "title": "Health and Healing in Latin America",
+  "units": "4",
+  "description": "An overview of histories of health and healing in Latin America from independence to the present. For centuries, local healers have practiced popular and traditional medicine alongside the professionally trained. These diverse and varied medical authorities informed each other’s practices and at times came into conflict. Main questions to consider include: How have approaches to healing and disease shifted across time and space? In what ways did Indigenous, African, and Asian healers figure into everyday life and national programs? How have gender and race shaped public health policies and structures? Finally, how have local peoples responded to these various institutions, practitioners, and programs?",
+  "prerequisites_raw": "HIST 8A or 8B",
+  "prerequisites_courses": [
+   "HIST 8A",
+   "HIST 8B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 151Q",
+  "title": "Readings in Latin American History",
+  "units": "4",
+  "description": "A weekly reading seminar on special topics in the history of Latin America. Depending on the topic, it may include primary sources and works of fiction. Written assignments required.",
+  "prerequisites_raw": "History 8",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 153A",
+  "title": "Honor, Race, Gender, and Class in the Americas",
+  "units": "4",
+  "description": "Explores the intersectionality of honor, gender, race, and class during the colonial period and the nineteenth century, in the Americas, with an emphasis in Iberoamerica. Looks into the ways in which these notes, ideas, or concepts served as a metaphor for policies, rights, inclusion, and discrimination. Through the reading of secondary and primary sources, we explore ways in which women and men from different backgrounds and ethnicities negotiated, internalized and resisted hegemonic, imposed assumptions about their honor or lack of it. Lastly, we consider ways in which the sequels of these assumptions linger up to the present and shape the way we perceive on another.",
+  "prerequisites_raw": "History 8",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 154LA",
+  "title": "Andean History: Pre-Hispanic and Colonial Periods",
+  "units": "4",
+  "description": "The history of the Andean region broadly defined from pre-Columbian times to the colonial period. Topics include the Incas and their predecessors; indigenous societies in the Northern and Southern Andes; the formation and development of colonial societies; religion; the economy; and global connections.",
+  "prerequisites_raw": "Any History 2 series course, or any History 4 series course, or History 8, or any History 151 series course, or LAIS 100, or LAIS 101, or upper-division standing.",
+  "prerequisites_courses": [
+   "LAIS 100",
+   "LAIS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 154LB",
+  "title": "Andean History: The National Period",
+  "units": "4",
+  "description": "The birth of the modern Andean republics; the shaping of national identity; the problem of \"race\"; Indigenismo; political movements and revolutions from the early nineteenth century to the present.",
+  "prerequisites_raw": "History 2A or 2B or 2C or 4A or 4B or 4C or 8 or 151A or 151B or 151C or 151FQ or 151I or 151R or 154DR or 154LA or 154Q or LAIS 100 or LAIS 101 or upper-division standing.",
+  "prerequisites_courses": [
+   "HIST 2A",
+   "LAIS 100",
+   "LAIS 101",
+   "HIST 2B",
+   "HIST 2C",
+   "HIST 4A",
+   "HIST 4B",
+   "HIST 4C",
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151C",
+   "HIST 151FQ",
+   "HIST 151R",
+   "HIST 154LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 154R",
+  "title": "Undergraduate Research Seminar in Andean History",
+  "units": "4",
+  "description": "Through readings, films, and discussion, students explore a topic or problem in the history of the Andean region. Students conduct historical research using both primary and secondary sources to produce an original and substantial 15-20 page research paper.",
+  "prerequisites_raw": "History 8 or 9 or 151A or 151B or 151C or 154LB or LAIS 100 or 101 and upper division standing.",
+  "prerequisites_courses": [
+   "LAIS 100",
+   "HIST 9",
+   "HIST 151A",
+   "HIST 151B",
+   "HIST 151C",
+   "HIST 154LB",
+   "LAIS 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 156A",
+  "title": "History of Mexico: Pre-Hispanic and Colonial Periods",
+  "units": "4",
+  "description": "The history of colonial New Spain, from California to Central America and from the Philippines to the Caribbean. Topics include pre-Columbian societies, including the Aztecs; the formation and development of colonial societies; religion; the economy; and global connections.",
+  "prerequisites_raw": "History 8 or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LAIS",
+  "code": "LAIS 165",
+  "title": "Andean Literature, Music, and Culture",
+  "units": "4",
+  "description": "This course focuses on literature, music and culture of certain ethnic groups inhabiting the Andean region of South America including, but not limited to, the Aymara and Quechua peoples, their cosmovision and their languages. Through literary texts belonging to different genres, and through films, special attention is placed on expressions of syncretism in seasonal festivals in which pre-Hispanic, European, and African music traditions and religions were shaped due to forced migration, wars and colonization. A strong emphasis on the ecological regions of the nations that share the Andean mountain range contextualizes current indigenous movements of resistance against the degradation of its environment and the impact on its culture.",
+  "prerequisites_raw": "Spanish 30; and Spanish 100 (may be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30",
+   "SPAN 100"
+  ]
+ }
+]

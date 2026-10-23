@@ -1,0 +1,323 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 132",
+  "title": "Stellar Structure and Evolution",
+  "units": "4",
+  "description": "Observed properties and classification of stars, the Hertzsprung-Russell diagram, stellar atmospheres, hydrostatic equilibrium, energy transport, equations of state, thermonuclear reaction rates, origin of the elements, life history of stars, stellar death, compact objects, star formation.",
+  "prerequisites_raw": "Physics 5 or 25 or 115A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25",
+   "PHYS 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 133",
+  "title": "Cosmology",
+  "units": "4",
+  "description": "The geometry, contents and evolution of the universe as a whole. The empirical and theoretical foundations for the Big Bang, the Hubble expansion, Friedmann models, dark matter, dark energy, the thermal history of the universe, the origin of the light elements, the cosmic microwave background, reionization, and structure formation.",
+  "prerequisites_raw": "Physics 5 or 25 or 115A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25",
+   "PHYS 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 134L",
+  "title": "Observational Astrophysics",
+  "units": "4",
+  "description": "Techniques and implementation of observational methods in astronomy/astrophysics. Sensors, digital-image processing and analysis, research projects with computer-controlled remote access telescope using a digital image sensor. Studies of variable stars, galaxy morphology, supernovae, etc.",
+  "prerequisites_raw": "Physics 5 or 25 or 115A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25",
+   "PHYS 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 135",
+  "title": "Biophysics and Biomolecular Materials",
+  "units": "3",
+  "description": "Structure and function of cellular molecules (lipids, nucleic acids, proteins, and carbohydrates). Genetic engineering techniques of molecular biology. Biomolecular materials and biomedical applications (e.g., bio-sensors, drug delivery systems, gene carrier systems).",
+  "prerequisites_raw": "Physics 6C or 5 or 25.",
+  "prerequisites_courses": [
+   "PHYS 6C",
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 136",
+  "title": "Galaxies",
+  "units": "4",
+  "description": "The distribution of mass in galaxies, orbits of stars, Boltzmann equation, Jeans theorem, spiral structure & density waves, dynamics of star clusters, galaxy collisions, dynamical friction, gas dynamics, sound & shock waves, gas inflow & accretion, gas outflow & winds.",
+  "prerequisites_raw": "Physics 2 or 22 with a minimum grade of C-, Physics 104 (may be taken concurrently)",
+  "prerequisites_courses": [
+   "PHYS 2",
+   "PHYS 104",
+   "PHYS 22"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 137",
+  "title": "Planets and Exoplanets",
+  "units": "4",
+  "description": "An introduction to planets both in and out of the solar system. This course will provide a broad overview of planets in the solar system, the techniques used to detect planets outside the solar system, and demographics and characteristics of exoplanets.",
+  "prerequisites_raw": "Physics 5 or 25 or 115A with a minimum grade of C-, Physics 104 (may be taken concurrently)",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 104",
+   "PHYS 25",
+   "PHYS 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 138",
+  "title": "Soft Matter Physics",
+  "units": "4",
+  "description": "A physics-based approach to study the structure, assembly and dynamical properties of a variety of soft materials, such as simple and complex fluids, colloidal systems, liquid crystals, polymers, granular matter and gels, including biological examples. Topics covered include elasticity, viscosity and viscoelasticity, capillarity and wetting, phases and phase diagrams of soft materials, entropy-driven phase transitions, Brownian motion and active matter.",
+  "prerequisites_raw": "Co-requisite: Physics 119B",
+  "prerequisites_courses": [
+   "PHYS 119B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 139",
+  "title": "Physical Biology of the Cell",
+  "units": "4",
+  "description": "The role of physics in biology through quantitative measurements and modeling, the organization of a cell, and exemplary quantitative results of biological model systems. The physics of biologically relevant macromolecules, including DNA, RNA and mechanisms of transcription and translation; introduction to protein folding and the role of electrostatics in biology. The physics of the cytoskeleton including beam theory, persistence length, molecular motors, instrumentation used to characterize motor properties, as well as the role of active stresses in cell biology. If time permits, a brief introduction to cell motility and the structure of epithelial tissue.",
+  "prerequisites_raw": "Physics 119B",
+  "prerequisites_courses": [
+   "PHYS 119B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 141",
+  "title": "Optics",
+  "units": "4",
+  "description": "Modern geometrical and physical optics. Polarization, coherence, interference, and diffraction phenomena. Fourier transform spectroscopy, intensity correlation interferometry, spatial filtering, and holography. Selected topics on lasers, light scattering, and quantum optics as time permits.",
+  "prerequisites_raw": "Physics 110B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 110B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 142L",
+  "title": "Experimental Research in Condensed Matter Physics",
+  "units": "0",
+  "description": "Offers qualified undergraduates the opportunity to work in research laboratories in condensed matter physics.",
+  "prerequisites_raw": "Physics 5 or 25; consent of instructor.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 143L",
+  "title": "Experimental Research in Elementary Particle Physics",
+  "units": "0",
+  "description": "Offers qualified under graduates the opportunity to work in experimental research in elementary particle physics.",
+  "prerequisites_raw": "Physics 5 or 25; and consent of instructor.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 144L",
+  "title": "Experimental Research in Biophysics",
+  "units": "0",
+  "description": "Offers qualified undergraduates the opportunity to work in research laboratories in biophysics.",
+  "prerequisites_raw": "Physics 5 or 25; consent of instructor.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 145L",
+  "title": "Experimental Research in Astrophysics",
+  "units": "0",
+  "description": "Offers qualified undergraduates the opportunity to work in experimental research in astrophysics. Each staff member has his/her own course identified by a number listed in the schedule of classes.",
+  "prerequisites_raw": "Physics 5 or 25; and consent of instructor.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 150",
+  "title": "Special Topics in Physics",
+  "units": "0",
+  "description": "Course varies from year to year according to the current interests.",
+  "prerequisites_raw": "Physics 5 or 25.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 160K",
+  "title": "Science for the Public",
+  "units": "0",
+  "description": "Provides experience in communicating science and technology to nonspecialists. The major components of the course are field work in mentoring, a biweekly seminar, presentations to precollege students and to adult nonscientists, and end-of-term research papers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 180",
+  "title": "Teaching and Learning Physics",
+  "units": "4",
+  "description": "Introduction to basic concepts in education literature and learning theory. The course involves readings of articles and text drawn from general and Physics education research and cognitive science. Students will engage in discussions and reflective activities that apply and relate the ideas from the readings to their own classroom experiences to help them become more effective teachers and learners.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 186",
+  "title": "Atomic Physics",
+  "units": "4",
+  "description": "An introduction to atomic physics. Covers basic atomic structure of one and two valence electron atoms, the Zeeman effect, and the semiclassical treatment of atoms interacting with near-resonant light. We also discuss laser cooling and trapping, as well as selected advanced topics such as atomic clocks, trapped ion dynamics, and the application of atoms in quantum information science.",
+  "prerequisites_raw": "PHYS 115A; concurrent enrollment in PHYS 115B.",
+  "prerequisites_courses": [
+   "PHYS 115A",
+   "PHYS 115B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 198",
+  "title": "Directed Reading",
+  "units": "0",
+  "description": "Each staff member has own directed reading course identified by a number code listed in the schedule of classes.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing; completion of 2 upper-division courses in physics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 199",
+  "title": "Research in Physics",
+  "units": "0",
+  "description": "Directed individual study open to qualified seniors in the department. Each staff member has own independent studies course identified by a number code listed in the schedule of classes.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing; completion of 2 upper-division courses in physics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 199RA",
+  "title": "Independent Research Assistance",
+  "units": "0",
+  "description": "Undergraduate research for qualified seniors to gain valuable experience in research methodology.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing; completion of 2 upper-division courses in physics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 205",
+  "title": "Classical Mechanics",
+  "units": "4",
+  "description": "Review of lagrangian mechanics. Variational principles. Hamilton's equations. Canonical transformations. Hamilton Jacobi theory. Action angle variables. Time dependent and canonical perturbation theory. Central forcesand scattering. Small vibrations. Rigid body motion. Poincare maps. Non-integrable systems. Hamiltonian and dissipative chaos.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 210A",
+  "title": "Electromagnetic Theory",
+  "units": "4",
+  "description": "Electrostatics, magnetostatics, boundary value problems, time varying fields, Maxwell's equations, radiation, multipole fields, scattering, relativistic particle dynamics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 210B",
+  "title": "Electromagnetic Theory",
+  "units": "4",
+  "description": "Electrostatics, magnetostatics, boundary value problems, time varying fields, Maxwell's equations, radiation, multipole fields, scattering, relativistic particle dynamics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 215A",
+  "title": "Quantum Mechanics",
+  "units": "4",
+  "description": "Fundamental principles; Schroedinger equation; angular momentum; perturbation theory; scattering theory, emission, and absorption of radiation; Dirac equation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 215B",
+  "title": "Quantum Mechanics",
+  "units": "4",
+  "description": "Fundamental principles; Schroedinger equation; angular momentum; perturbation theory; scattering theory, emission, and absorption of radiation; Dirac equation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 215C",
+  "title": "Quantum Mechanics",
+  "units": "4",
+  "description": "Fundamental principles; Schroedinger equation; angular momentum; perturbation theory; scattering theory, emission, and absorption of radiation; Dirac equation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 217A",
+  "title": "The Many Body Problem in Condensed Matter Physics",
+  "units": "4",
+  "description": "Field theoretic methods as applied to (non-relativistic) condensed matter systems. Green's functions and diagrammatic techniques applied to various examples of interacting many body systems, including fermions, bosons, and spins. Relationship of theoretical quantities to physical measurements.",
+  "prerequisites_raw": "Physics 215C.",
+  "prerequisites_courses": [
+   "PHYS 215C"
+  ]
+ }
+]

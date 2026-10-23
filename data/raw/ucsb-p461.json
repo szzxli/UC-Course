@@ -1,0 +1,436 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594B",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594BB",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594C",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594CC",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594D",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594E",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594EM",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594F",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594FL",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594G",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594HL",
+  "title": "Topics in Applied Linguistics: Heritage Language Teaching",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594HP",
+  "title": "Heritage Phonetics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594JC",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594LA",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594LM",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594RP",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594SL",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594V",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. A written proposal for each tutorial must be approved by student's program adviser and by the department chair. The number of units which a student may take in this series depends on the nature of the program and consent of the adviser or the departmental graduate committee.",
+  "prerequisites_raw": "Consent of instructor; approval of department chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 597",
+  "title": "Individual Study for M.A. Comprehensive and Ph.D. Examinations",
+  "units": "0",
+  "description": "Individual study for M.A. comprehensive and Ph.D. examinations. Instructor study for M.A. comprehensive and Ph.D. examinations. Instructor should be student's major professor or chair of doctoral committee.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "Only for research underlying the thesis and writing of the thesis.",
+  "prerequisites_raw": "Consent of instructor; approval of department chair.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 599",
+  "title": "Ph.D. Dissertation Preparation",
+  "units": "0",
+  "description": "Ph.D. dissertation preparation. Only for research in preparing and writing of the dissertation. Instructor should be the chair of the student's doctoral committee.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN W",
+  "code": "SPAN W 1",
+  "title": "Online Elementary Spanish I",
+  "units": "4",
+  "description": "Span W1 is the first course of the Elementary Spanish three course sequence delivered in a fully online format. By the end of this course students are expected to develop basic proficiency in Spanish at the Novice-mid level.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN W",
+  "code": "SPAN W 2",
+  "title": "Online Elementary Spanish II",
+  "units": "4",
+  "description": "SPAN W 2 is the second of the three Elementary Spanish courses offered in a fully online format. Its online format combines technology-based language instruction with online class meetings and live guided conversation sessions. Course materials and activities focus on consolidating the same array of skills promoted in the regular Elementary Span II course. Students learn to use Spanish for communication in real, meaningful situations, develop an understanding of basic grammatical concepts and an appreciation of the various cultures of the Spanish-speaking world. Each week, students attend one online class session and one conversation session. There is individual work with the textbook, online materials, and other web-based activities.",
+  "prerequisites_raw": "Spanish 1 with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN W",
+  "code": "SPAN W 3",
+  "title": "Online Elementary Spanish III",
+  "units": "4",
+  "description": "SPAN W3 is the third of the three Elementary Spanish courses offered in a fully online format. Its online format combines technology-based language instruction with online class meetings and live guided conversation sessions. The course materials and activities focus on consolidating the same array of skills promoted in the regular Elementary Spanish III course. Students will learn to use Spanish for communication in real, meaningful situations, develop an understanding of basic grammatical concepts and an appreciation of the various cultures of the Spanish-speaking world. By the end of this course students are expected to develop proficiency at the Novice-high or Intermediate-low level.",
+  "prerequisites_raw": "Spanish 2 with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 118",
+  "title": "LIMITS OF LANGUAGE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 133A",
+  "title": "BRITISH PUBLIC ADDR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 133B",
+  "title": "BR PUBLIC ADDRESS",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 142",
+  "title": "ORAL INTER OF LIT",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 180",
+  "title": "CONTEMP RHETORIC",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 204",
+  "title": "THEORY PRACTICE ARG",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 211",
+  "title": "EXPERMTL DES SP RES",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 245",
+  "title": "EXP STDS IN SPEECH",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 261",
+  "title": "CLASSICAL RHETORIC",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 263",
+  "title": "RHETORCL CRITICISM",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "TWO COURSES IN RHETORICAL THEORY OR CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 274",
+  "title": "EXP STDS IN HEAR",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPCH",
+  "code": "SPCH 285",
+  "title": "HIST CRIT RHET PA",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SUB A",
+  "code": "SUB A 1A",
+  "title": "ENGL 2ND LANG-ELEM",
+  "units": "5",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SWED",
+  "code": "SWED 2",
+  "title": "Elementary Swedish",
+  "units": "4",
+  "description": "Continuation of Swedish 1.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SWED",
+  "code": "SWED 3",
+  "title": "Elementary Swedish",
+  "units": "4",
+  "description": "Continuation of Swedish 2.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 1",
+  "title": "Play Analysis",
+  "units": "5",
+  "description": "Deep study of key concepts used in the analysis of plays in performance, including story, action, genre, liveness, and experience. Includes study of exemplary plays and performances.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 2A",
+  "title": "Performance in Global Contexts: Africa and the Caribbean",
+  "units": "5",
+  "description": "Introduction to local performance traditions in Africa and the Caribbean, such as storytelling, ritual, and Carnival. The course also examines how African and Caribbean playwrights put those traditions to social and political uses by incorporating them into post-colonial plays.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 2B",
+  "title": "Performance in Global Contexts: ASIA",
+  "units": "5",
+  "description": "This course surveys a range of Asian performances across a diversity of locations, from the traditional theater forms of Japanese Kabuki, Indonesian Wayang Kulit, and Indian Kathakali to modern forms in India and Japan to contemporary Chinese performance art. Theater forms like Chinese Jingju and Japanese Noh will prompt us to reevaluate what the performer does in rehearsal and in situations on and off the stage. By exploring recent modern and contemporary performance forms, we will reassess how an actor, dancer, or puppeteer can challenge the status quo and effect change. As we ask these questions, we will situate Asian performance within social, political, and historical contexts to understand its rich functions and significances.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

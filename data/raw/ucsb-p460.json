@@ -1,0 +1,332 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 221",
+  "title": "History of Spanish and Portuguese Languages",
+  "units": "4",
+  "description": "Selected topics in historical phonology in light of recent scholarship.",
+  "prerequisites_raw": "Spanish 121",
+  "prerequisites_courses": [
+   "SPAN 121"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 222A",
+  "title": "Studies in Medieval Peninsular Literature",
+  "units": "4",
+  "description": "Selected topic studied in the light of recent scholarship. Students will write an extensive paper and be responsible for additional readings to enrich their preparation and ready them for their M.A. and Ph.D. examinations.",
+  "prerequisites_raw": "Spanish 122A or concurrent attendance.",
+  "prerequisites_courses": [
+   "SPAN 122A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 222B",
+  "title": "Studies in Medieval Peninsular Literature",
+  "units": "4",
+  "description": "Selected topic studied in the light of recent scholarship. Students will write an extensive paper and be responsible for additional readings to enrich their preparation and ready them for their M.A. and Ph.D. examinations.",
+  "prerequisites_raw": "Spanish 122B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 122B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 223",
+  "title": "Food and Politics in Spain",
+  "units": "4",
+  "description": "In this graduate seminar, we delve into the complex relationship between food and politics in Spain. We explore how food has played a crucial role in shaping the diverse cultures and national identities within the country. Additionally, we discuss topics such as the significance of \"national products\" and their role in nation branding, as well as the impact of food scarcity during Franco's dictatorship. Our approach will be multidisciplinary, incorporating scholarly books, cookbooks, and other materials to provide a comprehensive understanding of the topic. Furthermore, we will have guest speakers who will share their expertise and insights on the subject.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 224",
+  "title": "Migration, Border Regimes, and Transborder Aesthetics: The U.S.–Mexico Border",
+  "units": "4",
+  "description": "This graduate seminar examines migration as a structuring force of cultural production at the U.S.–Mexico border. Approaching the border as an aesthetic, political, and epistemological regime, the course analyzes how literature, visual art, film, performance, sound, and digital practices emerge from and intervene in systems of mobility, surveillance, control, and displacement. Drawing on critical migration studies, border theory, decolonial thought, political philosophy, and aesthetic theory, the seminar treats cultural production not just as representation but as a site of theoretical knowledge. While centered on the U.S.–Mexico border, the course situates this region within broader global debates on migration and sovereignty.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 240A",
+  "title": "Studies on Cervantes",
+  "units": "4",
+  "description": "Selected topics studied in the light of recent scholarship. Students will write an extensive paper and be responsible for additional readings to enrich their preparation and ready them for their M.A. and Ph.D. examinations.",
+  "prerequisites_raw": "Spanish 140A-B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 240B",
+  "title": "Studies on Cervantes",
+  "units": "4",
+  "description": "Selected topics studies in the light of recent scholarship. Students will write an extensive paper and be responsible for additional readings to enrich their preparation and ready them for their M.A. and Ph.D. examinations.",
+  "prerequisites_raw": "Spanish 140A-B (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 245",
+  "title": "Studies in Spanish-American Colonial Literature",
+  "units": "4",
+  "description": "Selected topics from the sixteenth, seventeenth, and eighteenth centuries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 246",
+  "title": "U.S. Latino Literature",
+  "units": "4",
+  "description": "A study of major U.S. Latino writers including Chicano, Puerto Rican, Cuban- and Dominican-American, focusing on fiction, drama, poetry, and autobiography",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 283",
+  "title": "El Modernismo",
+  "units": "4",
+  "description": "The influence of Ruben Dario and his followers on the prose and poetry of Spanish America and Spain: 1888 to 1920.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 285",
+  "title": "Studies in Twentieth-Century Spanish-American Fiction",
+  "units": "4",
+  "description": "Seminar in selected authors of twentieth-century Spanish-American novel.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 287",
+  "title": "Literature and Culture of the Postmodern Americas",
+  "units": "4",
+  "description": "A study of hybridity and postmodernity in the narrative cultural productionof Latinos in the Americas, focusing on the eroding but not yet effaced borders between various cultural and social spheres. Readings drawn from Latin American and U.S. Latino writers and theorists such as Garcia Canclini, Cortazar, Piglia, Puig, Cisneros, Alvarez, Morales.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 290",
+  "title": "Foreign Language Teaching Methodology",
+  "units": "4",
+  "description": "Preparation of students to conduct intitial research in areas related to Applied Linguistics, and the application of both theoretical and practical considerations of the current literature on actual teaching.",
+  "prerequisites_raw": "Graduate standing and appointment as a teaching assistant or associate in Spanish.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 291",
+  "title": "Translation and Cognition",
+  "units": "4",
+  "description": "Explores the development of a cognitive approach to translation studies as it applies to theory, research methodology, and experimental designs.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 293A",
+  "title": "Capstone Seminar - Language and Translation Studies",
+  "units": "4",
+  "description": "The Capstone Seminar offers the graduate students from the Spanish and Portuguese Department the opportunity to conduct research alongside upstanding seniors who seek to obtain distinction in the Spanish major. The course offers M.A. and PhD. students the opportunity to hone their critical thinking, oral and writing skills. It also allows the graduate students the chance to mentor their undergraduate classmates by teaching them to analyze and contextualize primary and secondary sources within Language and Translation Studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 293B",
+  "title": "Capstone Seminar - Peninsular Spanish Studies",
+  "units": "4",
+  "description": "The Capstone Seminar offers the graduate students from the Spanish and Portuguese Department the opportunity to conduct research alongside upstanding seniors who seek to obtain distinction in the Spanish major. The course offers M.A. and PhD. students the opportunity to hone their critical thinking, oral and writing skills. It also allows the graduate students the chance to mentor their undergraduate classmates by teaching them to analyze and contextualize primary and secondary sources within Peninsular Spanish Literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 293C",
+  "title": "Capstone Seminar - Latin American Studies",
+  "units": "4",
+  "description": "The Capstone Seminar offers the graduate students from the Spanish and Portuguese Department the opportunity to conduct research alongside upstanding seniors who seek to obtain distinction in the Spanish major. The course offers M.A. and PhD. students the opportunity to hone their critical thinking, oral and writing skills. It also allows the graduate students the chance to mentor their undergraduate classmates by teaching them to analyze and contextualize primary and secondary sources within Latin American Literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 294A",
+  "title": "Research Seminar in Spanish-American Literature",
+  "units": "4",
+  "description": "Primarily intended to train students in research techniques; background material and selection of topic. Completion of research paper, reporting regularly to class on progress of work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 294B",
+  "title": "Research Seminar in Spanish-American Literature",
+  "units": "4",
+  "description": "Primarily intended to train students in research techniques; background material, critical approach, and selection of topic. Completion of research paper, reporting regularly to class on progress of work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 295A",
+  "title": "Research Seminar in Spanish Literature",
+  "units": "4",
+  "description": "Primarily intended to train students in research techniques; background material, critical approach, and selection of topic.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 295B",
+  "title": "Research Seminar in Spanish Literature",
+  "units": "4",
+  "description": "Completion of research paper, reporting regularly to class on progress of work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 296A",
+  "title": "Research Seminar in Spanish Linguistics",
+  "units": "4",
+  "description": "Primarily intended to train students in research techniques; background material and selection of topic.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 296B",
+  "title": "Research Seminar in Spanish Linguistics",
+  "units": "4",
+  "description": "Completion of research paper reporting regularly to class on progress of work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 299",
+  "title": "Topics in Applied Linguistics",
+  "units": "4",
+  "description": "Specialized topics in the study of applied linguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 500CS",
+  "title": "Comprehensive Exam Study for Second Year Students",
+  "units": "0",
+  "description": "Guided exam preparation for second year students.",
+  "prerequisites_raw": "M.A. essay completed prior to taking course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 500DS",
+  "title": "Comprehensive Exam Study for Third Year Students",
+  "units": "0",
+  "description": "Guided M.A. exam preparation for third year students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 591",
+  "title": "Teaching Assistant Practicum",
+  "units": "4",
+  "description": "Supervised teaching of lower-division Spanish courses at UCSB. Participation in occasional workshops related to the field of teaching willbe required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 592",
+  "title": "Teaching Associate Practicum",
+  "units": "4",
+  "description": "Supervised teaching of lower-division Spanish courses at UCSB. Participation in occasional workshops related to the field of teaching willbe required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594A",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594AA",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 594AC",
+  "title": "Special Topics: Don Quijote",
+  "units": "0",
+  "description": "A special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

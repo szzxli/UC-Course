@@ -1,0 +1,309 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 119",
+  "title": "Advanced Computational Linguistics: Speech Processing",
+  "units": "4",
+  "description": "Advanced topics in the computational processing of language in spoken form, such as: forced alignment; speech recognition; speaker recognition; and text-to-speech. Focus on developing a high-level understanding of modern approaches and how to use them. Discussion of applications to areas such as natural language processing, corpus linguistics, and computational psycholinguistics.",
+  "prerequisites_raw": "Linguistics 110 or equivalent background.",
+  "prerequisites_courses": [
+   "LING 110"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 120",
+  "title": "Corpus Linguistics",
+  "units": "4",
+  "description": "An introduction to computerized research methods which are applied to large databases of language used in natural communicative settings to supplement more traditional ways of linguistic analysis in all linguistic subdisciplines.",
+  "prerequisites_raw": "Linguistics 20 and Linguistics 102 or equivalent.",
+  "prerequisites_courses": [
+   "LING 20",
+   "LING 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 121",
+  "title": "Field Methods",
+  "units": "4",
+  "description": "Workshop format with native speaker of a lesser-known language as consultant. Students analyze the phonological, morphological, syntactic, and semantic structure of the language by eliciting data from the consultant and applying the theoretical knowledge to the data.",
+  "prerequisites_raw": "Linguistics 106, 107,108 and 109.",
+  "prerequisites_courses": [
+   "LING 106",
+   "LING 107",
+   "LING 108",
+   "LING 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 122",
+  "title": "History of the English Language",
+  "units": "4",
+  "description": "Historical survey of English, from its Germanic origins to its contemporary status as a global language. Topics include the phonology, morphology, syntax and semantics of Old English, Middle English, etc., and the chief cultural influences at different stages of development.",
+  "prerequisites_raw": "Linguistics 20; or consent of the instructor.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 124",
+  "title": "Discourse Analysis",
+  "units": "4",
+  "description": "This course introduces students to the hands-on analysis of form and meaning in discourse, especially in naturally occurring conversation. Topics include referent accessibility, co-reference, and anaphora; resonance and coherence in dialogue; dialogue acts; constructions and information structure. Students learn to use basic computational tools for discourse analysis.",
+  "prerequisites_raw": "Linguistics 20 or 109, or consent of instructor.",
+  "prerequisites_courses": [
+   "LING 20",
+   "LING 109"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 125",
+  "title": "Neurolinguistics",
+  "units": "4",
+  "description": "An examination of how the brain supports language structure and language use, with an emphasis on how electrophysiological, neuroimaging, and lesion data contribute to linguistic theory and to our understanding of the mental representation of language.",
+  "prerequisites_raw": "Linguistics 20",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 127",
+  "title": "Psychology of Language",
+  "units": "4",
+  "description": "An examination of the psychological foundations of language structure and use, including the cognitive processes involved in the comprehension, production, and recall of words, sentences, and discourse; first and second language acquisition; relationships among language, brain, cognition, and culture.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 129",
+  "title": "Sign Languages and Signing Communities",
+  "units": "4",
+  "description": "An introduction to the linguistics of sign languages and signing communities, including early and current perceptions of deaf people and sign languages. Covers the emergence of sign languages and signing communities as well as the linguistic structures, sociolinguistic contexts, and acquisition of sign languages.",
+  "prerequisites_raw": "Linguistics 20",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 130",
+  "title": "Language as Culture",
+  "units": "4",
+  "description": "Views language through the lens of culture, exploring language as a sociocultural system that organizes meaning, memory, interpretation, authority, action, practice. How practices of speaking shape culture; intertextuality; linguistic and cultural relativity; relations between language, thought, and culture.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 131",
+  "title": "Sociocultural Linguistics",
+  "units": "4",
+  "description": "The study of language as a social phenomenon, with emphasis on language use outside the U.S. context. Quantitative and qualitative approaches to regional and social dialects, register, linguistic power and solidarity, language contact and change, multilingualism, codeswitching, language shift and loss.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 132",
+  "title": "Language, Gender, and Sexuality",
+  "units": "4",
+  "description": "The study of language as a resource for the production of gender and sexuality across cultures. Topics include: gender differentiation in language structure and use; intragender variation; language and discrimination; linguistic ideologies; language and identity.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 133",
+  "title": "Interdisciplinary Approaches to the Cultures, Languages, and Literatures of Latin America and Iberia",
+  "units": "4",
+  "description": "Issues pertinent to the diverse cultures, languages, and literatures of Latin America and Iberia. Disciplines and approaches may include: pre-Columbian studies, Spanish and Spanish American literatures, Portuguese and Brazilian literatures, translation studies, cultural, gender, and queer studies, romance language and linguistics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 134",
+  "title": "North American Indigenous Languages",
+  "units": "4",
+  "description": "Survey of the several hundred native languages of North America, including the history of research on these languages, their classification, special structures, and their oral traditions.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 135",
+  "title": "Memes: Theory and Analysis of Cultural Evolution",
+  "units": "4",
+  "description": "This course examines the meme as the minimum unit of cultural evolution. Equal time is given to the theory of cultural evolution and hands-on analysis of memes. Focus on internet and pre-internet memes, including image-macro memes, videos, humor, proverbs, songs, games, words, technology, and other units of cultural evolution.",
+  "prerequisites_raw": "Linguistics 20 or upper-division standing.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 136",
+  "title": "African-American Language and Culture",
+  "units": "4",
+  "description": "The history, structure, and use of African-American English. Topics include: the sociocultural history of the variety's origin; language policy in schools and communities; representations of African-American English in popular culture; language and African-American culture; the use of African-American vernacular across the African Diaspora; and social issues.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 137",
+  "title": "Introduction to First Language Acquisition",
+  "units": "4",
+  "description": "An introduction to the interdisciplinary enterprise of understanding first language acquisition, overview of different theoretical and methodological approaches, and introduction to developmental processes in sub-areas such as phonology, morphology, lexicon, syntax and semantics.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 138",
+  "title": "Language Socialization",
+  "units": "4",
+  "description": "What is the role of language in the process by which a child becomes a member of a particular culture? Topics include the acquisition of culture-specific ways of talking about emotions, enacting gender roles, having arguments and producing narratives.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 139",
+  "title": "Introduction to Teaching English to Speakers of Other Languages",
+  "units": "4",
+  "description": "Surveys theoretical and methodological issues related to teaching English as a second or foreign language. Students examine current research and pedagogy in TESOL and development in second language acquisition theory and evaluate teaching materials and develop classroom lessons.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 140",
+  "title": "English Grammar for Teachers",
+  "units": "4",
+  "description": "Covers English grammatical structures commonly the focus of teaching English as an additional language. Also considers key issues related to grammar in language teaching, such as error correction and deductive versus inductive methods of instruction.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 141",
+  "title": "Second Language Acquisition",
+  "units": "4",
+  "description": "An introduction to the theories and principles of how adults acquire a language other than their mother tongue, why it is more difficult than acquiring their first language, and what needs to be learned, from linguistic, psychological and social perspectives.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 142",
+  "title": "Phonological Typology",
+  "units": "4",
+  "description": "An introduction to the diversity of sound systems found in languages of the world. Considers the cross-linguistic distribution of phonological patterns and their treatment in phonological history.",
+  "prerequisites_raw": "Linguistics 107",
+  "prerequisites_courses": [
+   "LING 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 144",
+  "title": "Sociophonetics",
+  "units": "4",
+  "description": "The study of phonetic variation as an aspect of sociocultural linguistic practice. Builds on knowledge of phonetics gained in LING 106. Focus on exploring how to productively combine the theory and methods of phonetics and sociocultural linguistics. Emphasis on the acquisition of analytical skills.",
+  "prerequisites_raw": "Linguistics 106 or instructor approval.",
+  "prerequisites_courses": [
+   "LING 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 145",
+  "title": "Articulatory Phonetics",
+  "units": "4",
+  "description": "An introduction to the speech production system, with special focus on the articulatory structure of speech and the relation of this structure to the acoustic properties and perception of speech sounds. Considers the speech of populations with speech communication disorders, and presents an array of experimental techniques used to investigate speech.",
+  "prerequisites_raw": "Linguistics 106.",
+  "prerequisites_courses": [
+   "LING 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 146",
+  "title": "Auditory Phonetics",
+  "units": "4",
+  "description": "Introduction to the auditory processing of speech, including the physiology of hearing, neurological processing of speech, perception of pitch, loudness, and temporal properties, frequency resolution, models of speech perception, and hearing disorders.",
+  "prerequisites_raw": "Linguistics 106.",
+  "prerequisites_courses": [
+   "LING 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 147",
+  "title": "Topics in Clinical Linguistics",
+  "units": "4",
+  "description": "An introduction to clinical applications of linguistics relevant to speech-language pathology and audiology.",
+  "prerequisites_raw": "LING 20 OR Upper-division standing.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 147CS",
+  "title": "Introduction to Communication Sciences and Disorders",
+  "units": "4",
+  "description": "An intro to the field of communication sciences and disorders. This course will bridge lectures to clinical application with guided observation hours. Content may vary.",
+  "prerequisites_raw": "LING 20 OR Upper-division standing.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ }
+]

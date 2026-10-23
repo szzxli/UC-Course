@@ -1,0 +1,292 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 199",
+  "title": "Independent Studies in Black Studies",
+  "units": "0",
+  "description": "Independent Studies in Black Studies",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 199RA",
+  "title": "Independent Research Assistance in Black Studies",
+  "units": "0",
+  "description": "Coursework shall consist of faculty supervised research assistance.",
+  "prerequisites_raw": "Upper-division standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 206",
+  "title": "Graduate Proseminar",
+  "units": "4",
+  "description": "Critical inquiry based on dissertation related research addressing several issues in the curricular development of black studies: research writing, formal presentation, postdoctoral programs, revision, and journal publication process.",
+  "prerequisites_raw": "Graduate standing. Completion of at least 12 upper-division units related to the subject matter of the course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 208",
+  "title": "Issues in Black Studies Epistemology and Pedagogy",
+  "units": "4",
+  "description": "Introduces students to Black Studies as a field with its own logic and history of inquiry. Students gain a methodology for creating paradigms, organizing and interpreting data, and constructing knowledge through research and teaching in Black Studies.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 210",
+  "title": "Harlem and Other Renaissances in Global Perspective",
+  "units": "4",
+  "description": "Examines renaissances as a social, economic, political, and cultural phenomena in comparative world perspective. Interrogates Harlem, Irish, Italian, Mexican renaissances.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 211",
+  "title": "Black Museum Studies",
+  "units": "4",
+  "description": "Examines museums, historic houses, and exhibitions globally with particular attention to the representation of Blacks and people of color in such institutions.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 212",
+  "title": "History of Racial Thought",
+  "units": "4",
+  "description": "Examines race from the eighteenth through the twenty-first century from the perspectives of science and medicine. Explores how intersections of race, medicine, and public health have shaped the study Blacks, Latina/os, Asians and Jews.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 215",
+  "title": "Black Europe",
+  "units": "4",
+  "description": "What does it mean to reside in a nation that classifies Black bodies as \"foreign\" and as unable to symbolically represent the nation? Examines the African Diaspora in Western Europe. Considers the economic, political, cultural, social and national experience of Black in France, Italy, Germany, Sweden and the United Kingdom. Topics covered will include citizenship, post-colonialism, community formation, ethnic violence, and media representations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 216",
+  "title": "1968 in Global Perspective",
+  "units": "4",
+  "description": "Examines the series of ideas that Black people and other activists around the world developed and advanced in the 1960s that reached fruition in 1968. It examines the political protests, criticality, and art of the United States, Mexico, France, Argentina, and Eastern Europe that emerged in a quest for freedom that crossed geographical lines. Explores what lessons in intersubjectivity 1968 can teach us today.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 254",
+  "title": "Environmental Racism and Environmental Justice",
+  "units": "4",
+  "description": "This course investigates environmental injusticethat some people, especially poorer people, bear a disproportionate burden of living in communities with environmental hazardsand environmental racismthat a high coincidence exists between location of toxic waste sites and Black and Brown communities, even when they are predominantly middle class.",
+  "prerequisites_raw": "Graduate Students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 501",
+  "title": "Teaching Methodology in Black Studies",
+  "units": "0",
+  "description": "For graduate students who serve as teaching assistants: analyses of texts and materials; discussion of teaching techniques; conducting discussion sections; formulation of topics and questions for papers and examinations; and grading papers and examinations under supervision of instructor assigned to course.",
+  "prerequisites_raw": "To enroll, must have an active appointment as a Teaching Assistant in Black Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 596",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "Individual tutorial. Plan of study must be approved by the Department Chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 598",
+  "title": "Master's Thesis Research and Preparation",
+  "units": "0",
+  "description": "To assist graduate students who are doing research or writing their master's thesis in African area studies and/or Black Studies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 599",
+  "title": "PhD Dissertation Research and Preparation",
+  "units": "0",
+  "description": "PhD Dissertation Research and Preparation",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BOT",
+  "code": "BOT 252",
+  "title": "PRIN PLNT SYSTM EVO",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "AT LEAST ONE COURSE IN BOTH TAXONOMY AND GENETICS AND CONSENT OF INSTRUCTOR",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 27",
+  "title": "Memory: Bridging the Humanities and Neurosciences",
+  "units": "4",
+  "description": "Neurosciences now ask some of the same profound questions posed by writers, artists and philosophers for centuries, thus opening surprising perspectives on memory and morality, dreams and perception, identity and agency. This course explores this emerging concordance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 28",
+  "title": "Storytelling and the Anthropocene",
+  "units": "4",
+  "description": "This course takes an interdisciplinary approach to concepts of nature, the environment, and the human. Foregrounding scientific and literary imaginaries of environmental change, we trace the intersections between scientific, cultural, and imaginative discourses of phenomena such as climate change, sea-level rise, toxicity, and human-animal relations in the Anthropocene. Questions include: How do the stories that both science and literature tell shape the way we understand the environment? How do scientists and humanists represent and respond to the environmental crisis? How do they reflect shifting notions of humanity and environmental justice?",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 29",
+  "title": "Music, Literature and Black Lives: The African American Musicoliterary",
+  "units": "4",
+  "description": "African American authors frequently configure music and literature as mutually constitutive forms of personal and cultural expression. Arguably, then, we must study them together. African American literature reshapes what literature is by infusing it with structures and rhythms borrowed from music, folklore and other oral traditions. In this course, we explore how music and literature influence one another formally, listening to music and literature in tandem and analyzing parallel patterns in both. But more important, we also investigate how music and musicality in African American literature are at the core of its power to resist and subvert racialized violence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 30A",
+  "title": "Major Works in European Literature",
+  "units": "5",
+  "description": "A survey of European literature. Classical and medieval literature from Homer to Dante.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 30B",
+  "title": "Major Works in European Literature",
+  "units": "5",
+  "description": "A survey of European literature. Renaissance and Neoclassical literature from Petrarch to Diderot.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 30C",
+  "title": "Major Works in European Literature",
+  "units": "5",
+  "description": "A survey of European literature. Romantic and modern literature from Rousseau to Solzhenitsyn.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 30H",
+  "title": "Honors Section",
+  "units": "1",
+  "description": "Seminar course for honors students enrolled in Comparative Literature 30 designed to enrich the large lecture experience and to supplement the weekly seminar meetings. May include additional readings, more intensive study of syllabus selections, and supplemental writings.",
+  "prerequisites_raw": "Honors standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 31",
+  "title": "Major Works of Asian Literatures",
+  "units": "5",
+  "description": "An introduction to the diverse literary traditions of Asia through an examination of selected works. Regional focus on East, South, and SoutheastAsia varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 32",
+  "title": "Major Works of Middle Eastern Literatures",
+  "units": "5",
+  "description": "An introduction to the diverse literary traditions of the Middle East through an examination of selected works. Regional focus on North Africa, the Middle East, and Central Asia varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 33",
+  "title": "Major Works of African Literatures",
+  "units": "5",
+  "description": "An introduction to the diverse literary traditions of Africa through an examination of selected works. Regional focus on North, West, East, Central, and South Africa varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 34",
+  "title": "Literature of the Americas",
+  "units": "5",
+  "description": "An introduction to the diverse literary traditions of the Americas through an examination of selected works. Regional focus on North America, the Caribbean, and Latin America varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 35",
+  "title": "The Making of the Modern World",
+  "units": "5",
+  "description": "Description and analysis of decisive events contributing to the world we are inhabiting. Various themes presented: City planning, war and industrial warfare, technology and media-technology, ideologies of modernity, and modern master theories.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 36",
+  "title": "Global Humanities",
+  "units": "5",
+  "description": "What do literature and critical theory contribute to the reflection on human rights and the analysis of their violation? Inquiry into different ways in which the humanities can re-frame the debate on human rights and act as a social force.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 37",
+  "title": "Comparative Media",
+  "units": "5",
+  "description": "Introduces media in the context of Comparative Literature. Students learn to analyze media forms as cultural texts while emphasizing the social, political, and environmental dimensions of media technologies. Topics vary and may include Media Theories, Algorithmic Media, Digital Humanities, Postcolonial and Environmental Media, or Film & Literature. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

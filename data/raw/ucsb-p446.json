@@ -1,0 +1,290 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 130ST",
+  "title": "Special Topics in Development and Globalization",
+  "units": "4",
+  "description": "Covers topics in globalization and development, to be chosen by the instructor, including such issues as social movements, race/ethnicity/nation, culture, and gender and sexuality, among others.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 131",
+  "title": "Political Sociology",
+  "units": "4",
+  "description": "Social and cultural bases of the political process; the study of power and authority as reflecting the interplay of interests and values; analysis of continuities and discontinuities in the democratic political system.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 134",
+  "title": "Social Movements",
+  "units": "4",
+  "description": "Causes, dynamics and consequences of protest. American social movements, particularly labor, civil rights, student and women's movements, are studied as cases in movement development. Documentary and fiction films help illustrate analytic themes and historical moments.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 134A",
+  "title": "Activism",
+  "units": "4",
+  "description": "Explores the phenomenon and experience of activism - the effort by ordinary people to make deep social change - both in the United States and on a global level, with an emphasis on recent and current events.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 134CJ",
+  "title": "Climate Justice",
+  "units": "4",
+  "description": "Overview of the climate change problem and exploration of the meanings of the term \"climate justice\" as used by scholars and social movement activists to imagine and create a sustainable, equitable, democratic world for future generations.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 134EC",
+  "title": "Earth in Crisis",
+  "units": "4",
+  "description": "Explores the causes and consequences of climate change on a global scale, covering the state of the science in layman's terms, the current and future social impacts of climate change, the global negotiations process, and climate justice activism.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 134G",
+  "title": "Green Movements and Green Parties",
+  "units": "4",
+  "description": "Examines how environmental organizations and green political parties are shaping policy formulation on environmental issues in different developed and developing countries, with a focus on the US experience.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 134RC",
+  "title": "Radical Social Change",
+  "units": "4",
+  "description": "Covers significant cases of radical social change, such as the revolutions of Cuba, Chile, or Chiapas, the radical reforms in Kerala, India, the global justice movement, or any of the many others of the contemporary world.",
+  "prerequisites_raw": "Upper division standing or a prior course in sociology.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 136A",
+  "title": "The Analysis of Conversational Interaction",
+  "units": "4",
+  "description": "The analysis of naturally occurring conversations with emphasis on understanding conversation as a form of social interaction. Focuses on systems that organize talk-in-interaction (turn taking, action sequencing, and repair of conversational troubles) and methods for analyzing single conversations.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 136B",
+  "title": "Methods of Conversation Analytic Research",
+  "units": "4",
+  "description": "Individual and group projects in the analysis of conversational interaction stressing the understanding of this approach through actual research.",
+  "prerequisites_raw": "Sociology 136A or 136I or 136M or 136V or 185E.",
+  "prerequisites_courses": [
+   "SOC 136A",
+   "SOC 136I",
+   "SOC 185E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 136C",
+  "title": "Social Categories in Interaction",
+  "units": "4",
+  "description": "Drawing on the conversation analysis approach, this course explores how social categories, including those that have traditionally been of interest to sociologists (e.g., gender, race, and sexuality), are used by participants in naturally occurring everyday interactions. Methodological challenges and debates in this area are also examined.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 136I",
+  "title": "The Analysis of Interaction in Institutional Setting",
+  "units": "4",
+  "description": "The course examines how interaction in institutional settings differs from everyday interaction, and how these differences contribute to the constitution of formal settings of social action.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 139A",
+  "title": "Black and White Relations: Towards Pluralism or Integration?",
+  "units": "4",
+  "description": "A comparative-historical examination of interethnic relations between European Americans and African Americans from the colonial period to the present in terms of plurarlistic and integrationist dynamics. Hemispheric and global comparisons may be included.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 139C",
+  "title": "Betwixt and Between: Multiracial Identity in the United States",
+  "units": "4",
+  "description": "An examination of the factors that have influenced the social location of racially mixed individuals of African and European descent in the United States, in order to provide a context for understanding the complexities surrounding the newly emerging multiracial conciousness.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 139RN",
+  "title": "Special Topics in Race, Ethnicity, and Nation",
+  "units": "4",
+  "description": "Special areas of interest focusing on varying patterns of race, ethnicity, and nation in the United States and larger global arena.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 140SC",
+  "title": "Slavery and Capitalism",
+  "units": "4",
+  "description": "A long history of scholarship in sociology ties U.S. slavery to the development of capitalism and modern business, finance, and law. This classic work builds on theories by Durkheim and Weber, augmented by new research across disciplines. This course is designed to give students a framework for appreciating the centrality of the relationship between slavery and capitalism—and in the U.S., focusing on Racial Capitalism specifically. The course will then translating that relationship into new ways of understanding how tacit racism, hidden and unacknowledged, is structured into business and society today. This will help students navigate the increasingly diverse worksites of tomorrow.",
+  "prerequisites_raw": "Mandatory completion of SOC 1 prior to taking the course.",
+  "prerequisites_courses": [
+   "SOC 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 142",
+  "title": "Socialization, Self-Actualization, and Creativity",
+  "units": "4",
+  "description": "Focuses on the ways in which peoples social environments influence their behavior over the early decades of life. Focuses on the social psychology of exploration, play, creativity and self-actualization showing how certain social environments help or hinder our abilities to reach our fullest level of human development.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 142A",
+  "title": "Advanced Studies in Socialization",
+  "units": "4",
+  "description": "Explores details of socialization. Topics may cover the socialization of exceptional children, spoiled children, and bullies - along with creativity, depression, game theory, and more.",
+  "prerequisites_raw": "Sociology 142",
+  "prerequisites_courses": [
+   "SOC 142"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 144",
+  "title": "The Chicano Community",
+  "units": "4",
+  "description": "Origins of the Chicano in rural Mexico; context of contact, patterns of settlement in the United States; the Chicano community, social structure, and social change; acculturation and generational patterns; community leadership and change.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 144GM",
+  "title": "Gender and Migration",
+  "units": "4",
+  "description": "Migration is about the movement of people from one place to another. But this movement is not simple. Individuals do not experience spatial mobility in the same way. This course examines the variegated ways in which gender courses through the veins of migration processes and migrant lives, illuminating migration as a process that shapes gender while, simultaneously, is shaped by gender. Even as new formulations emerge to challenge previous notions about what being a “man” or a “woman” entail, offering ways to move beyond this binary, normative views about gender persist, embedding themselves within the politics of human mobility and moving through our deeply interdependent world.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 144LA",
+  "title": "Latina Activism in the United States",
+  "units": "4",
+  "description": "Analyzes the traditions of activism and contemporary feminist discourse and practice among Latinas in the United States. Major themes include political consciousness, identity, feminism, and community.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 144LY",
+  "title": "Chicana/o and Latina/o Youth",
+  "units": "4",
+  "description": "Course examines the experiences and actions of Chicana/o and Latina/o youth in the United States. Research and theory on Chican@-Latin@ youth will be read. Readings will include themes such as immigration, school, community, social control, and gender.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 144S",
+  "title": "Sexuality, Race, Gender, and Class",
+  "units": "4",
+  "description": "Examines interplay of sexuality, race, gender, nation, and class with focuson social processes and practices of lesbians, gays, and bisexuals of color. Raises critical intellectual issues about racialized and gendered social practices involving culture, politics, idealogies, and power relations.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 145",
+  "title": "Social Inequalities",
+  "units": "4",
+  "description": "A broad introduction to sociological research on diverse forms of social inequality. Offers a review of the classics and a critical analysis of the latest literature on class, race, and gender inequalities.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 146",
+  "title": "Special Topics in Sociology",
+  "units": "4",
+  "description": "Lectures in special areas of interest in contemporary sociology. Specific course titles to be announced by the department each quarter.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 147",
+  "title": "Current Issues in Social Psychology",
+  "units": "4",
+  "description": "Examination of recent developments in research and theory within selected fields of social psychology.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 149",
+  "title": "Self and Identity",
+  "units": "4",
+  "description": "Examines theoretical approaches to understanding the self as a social product and social force. Focuses on those theoretical traditions that draw upon a symbolic interactionist framework to explore some common ways that social psychologists understand the relationships between culture, social structure, socialization, and self and identity.",
+  "prerequisites_raw": "UPPER-DIVISION STANDING.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 152A",
+  "title": "Sociology of Human Sexuality",
+  "units": "4",
+  "description": "This course covers all the main aspects of human sexuality-anatomy, sexual response, pregnancy, sexual diseases including HIV, birth control, abortion, learning to be sexual, sexual orientation, gender differences, sex therapy and enrichment, love, and related sociological issues.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

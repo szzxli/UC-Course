@@ -1,0 +1,236 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 153B",
+  "title": "French Theatre in Translation",
+  "units": "4",
+  "description": "A study of French theatre through the centuries, considered within the cultural context of the day (Classicism, the Enlightenment, Romanticism, the Absurd, etc). Plays by Molire, Marivaux, Beaumarchais, Hugo, Musset, Ionesco, and Beckett. Lectures and readings in English.",
+  "prerequisites_raw": "Upper-division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 154",
+  "title": "Science Fiction in Eastern Europe",
+  "units": "4",
+  "description": "The genre of science fiction and its development in literature and film in the various cultures of eastern europe. Topics include utopia, dystopia,technology, the mad scientist, etc. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 154I",
+  "title": "Economic Fictions: Literature, Film, and Theory",
+  "units": "4",
+  "description": "How have Western thinkers represented economic concepts since the eighteenth century? Themes may include free market liberalism, labor theories of value, household and family economics, currency/monetary policy, associationism/socialism, globalism/expansionism/colonialism, protectionism, and others. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 155",
+  "title": "Critical Artificial Intelligence",
+  "units": "4",
+  "description": "Artificial intelligence now affects nearly all aspects of human life and knowledge production, from labor to language, and from fundamental physics to the arts. The pivotal role of the humanities lies in the critical analysis of the specific cultural techniques emerging from this technical revolution: new methods of language processing, image production, scientific reasoning, and social control require new critical and historical approaches. This course provides an introduction to the history and theory of artificial intelligence from the perspective of the humanities. Participants will acquire the skills to analyze and understand the design and construction of machine learning systems, and their philosophical and political implications.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 156",
+  "title": "Caribbean Women Writers and Migratory Subjects",
+  "units": "4",
+  "description": "This course examines the implications of migration and the formation of transnational identity. We will read novels by Anglophone and Francophone Caribbean Women writers who speak to the interlinked relationship between migration, racism, sexism and economic deprivation.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 161",
+  "title": "Literature of Central Europe",
+  "units": "4",
+  "description": "Investigation of the prolific literatures of central Europe, one of the culturally and linguistically most diverse regions of the European continent that has produced writers such as Italo Svevo, Franz Kafka, Robert Musil, Bruno Schultz, and others. Readings in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 162",
+  "title": "Sexuality and Globalization",
+  "units": "4",
+  "description": "Examines globalizing cultural politics of sexuality through literature, popular media, subaltern performances, and press discourse from Global South; engages questions of \"universalized\" LGBTQ identities, Islamic law and sexual rights, militarized masculinities, recognition oftransexualities, and queer, anti-racist and feminist globalisms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 162I",
+  "title": "Desire, Sex, and Romance in Traditions of India",
+  "units": "4",
+  "description": "Explores questions of love and sex across two thousand years of Indian religious thought. The reading list includes some of the most famous voices in South Asian literary history. We will tour various genres: moral teachings, epic narrative, drama, devotional and mystical poetry, and modern fiction. Yes, we will read the Kama Sutra, and yes, there will be Bollywood films.",
+  "prerequisites_raw": "Upper Division standing and one course from the following: RGST 19, 20, 140D, 158C, 159 G-H-J-K-L-M-N-O, 160A, 161D, 169 or equivalent; or instructor approval.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 163",
+  "title": "Digital Visual Studies",
+  "units": "4",
+  "description": "In the past ten years, the scope of the digital humanities has broadened to include the visual world: distant reading became distant viewing. This visual turn has not only facilitated the digital transformation of traditional disciplines like art history but has also introduced a new set of media-technological questions into the digital humanities discourse: questions concerning the nature of digital images, and the modalities of machine seeing. This course serves as an introduction to the emerging discipline of digital visual studies that investigates these questions. Participants will acquire skills in the analysis and critique of digital visual culture and learn to use contemporary digital tools to explore the visual world.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 164D",
+  "title": "Russian Cosmism",
+  "units": "4",
+  "description": "A focus on fictional and non-fictional texts, films, and art centered on the Russian fascination with outer space, science, and technology, from the 19th century to the present day. Russian Cosmism opens up new perspectives on Russian 19th century philosophy as well as the Russian avant-garde and present-day ideology and politics in Russia. Artists and thinkers considered include A. Bogdanov, N. Federov, K. Malevich, A. Tarkovsky, and many others.",
+  "prerequisites_raw": "Upper division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 165",
+  "title": "East Asian Buddhist Poetry",
+  "units": "4",
+  "description": "Introduces Buddhist poetry of China, Japan, and Korea. Emphasizes the diversity of literary encounters with the teachings and practices of Buddhism. Topics include Hanshan, Basho, Zen koans, Gary Snyder, and monastery cats.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 170",
+  "title": "Translation as Metaphor: Introduction to Translation Theory and Practice",
+  "units": "4",
+  "description": "The course aims to develop skills in terminology and technologies of translation; it also examines the practical and theoretical issues pertaining to translation as an artistic, cultural, and ethical process. Focus on literary translation as creative research and practice.",
+  "prerequisites_raw": "Upper-division standing; and completion of quarter 5 or equivalent of the language of study.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 171",
+  "title": "Post-Colonial Cultures",
+  "units": "4",
+  "description": "Study of fiction from the Caribbean, West Africa, and the Maghreb. Born of the conflict between and hybridization of widely differing cultural traditions, this course provides insights into the vibrancy of contemporary post-colonial societies, the ongoing legacy of colonialism, and the meaning of multiculturalism. In English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 174",
+  "title": "Metamorphosis",
+  "units": "4",
+  "description": "Narratives of metamorphosis challenge our preconceived notions of identity and form. This course investigates metamorphosis as a scientific, social, and philosophical problem, drawing from literature (Ovid, Stevenson, Kafka, Cortazar, etc.) and the visual arts, including film.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 175A",
+  "title": "Literatures of Eurasia: Armenian Literature",
+  "units": "4",
+  "description": "Examines literature and culture from a region or regions situated at the crossroads between Europe and Asia, such as Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan), the Caucasus (Armenia, Azerbaijan, Georgia, and parts of Southern Russia), or other cultural crossroads in Eurasia. It thus departs from a historic focus on western regions to accommodate the richness and diversity of literature and culture in Eurasia. Topics will vary by instructor. Topics may include: Armenian Literature, Literatures of Central Asia, or Literatures of the Caucasus. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 179A",
+  "title": "Revolutions: Marx, Nietzsche, Freud",
+  "units": "4",
+  "description": "Marx, Nietzsche, and Freud have revolutionized our world: Marx, the political and economic landscape; Nietzsche, the realm of philosophy and literature; and Freud, the way we think of our mind, sexualities, wishes and dreams. Explorations of three revolutionary challenges.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 179B",
+  "title": "Mysticism",
+  "units": "4",
+  "description": "Analysis of German mystical writing, its roots in ancient Greek texts, revolutionary impact, links with other mystical traditions, and influence on secular literature. Texts include Hildegard von Bingen, Meister Eckhart, Mechthild von Magdeburg, Novalis, Rilke, etc. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 179C",
+  "title": "Mediatechnology",
+  "units": "4",
+  "description": "Telegraph, telephone, phonograph, and film are techniques that have engendered new forms of representation, communication, and thinking. Course studies the impact of these transformations in literature and on literature. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 180",
+  "title": "The European Renaissance",
+  "units": "4",
+  "description": "The generic forms of cultural issues characteristic of early modern European poetry, fiction, and drama. Such authors as Petrarch, Boccaccio, More, Rabelais, Ariosto, Montaigne, Camoes, Shakespeare, Lope de Vega, and Cervantes.",
+  "prerequisites_raw": "Writing 2 and 50; or Writing 109AA-ZZ or English 10.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "ENGL 10",
+   "WRIT 50"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 181",
+  "title": "Special Topics in Russian, East European, and Eurasian Studies",
+  "units": "4",
+  "description": "In-depth examination of specialized topics with contemporary relevance or historical significance within the study of Russian, East European, or Eurasian literature, culture, and thought. Topics will vary by instructor. Topics may include: Holy Fools, Childhood in Russian Culture, Russian and East European Literary Theory, and Russian Literature and Translation. Taught in English",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 181A",
+  "title": "Special Topics in Russian, East European, and Eurasian Studies: Holy Fools",
+  "units": "4",
+  "description": "In-depth examination of specialized topics with contemporary relevance or historical significance within the study of Russian, East European, or Eurasian literature, culture, and thought. Topics vary by instructor. Topics may include: Holy Fools, Childhood in Russian Culture, Russian and East European Literary Theory, and Russian Literature and Translation. Taught in English",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 181B",
+  "title": "Ukrainian Cinema and Culture",
+  "units": "4",
+  "description": "This seminar explores the history of Ukrainian cinema and culture from the early 20th century to the ongoing Russo-Ukrainian War, examining how it relates to the broader political, social, regional, and cultural contexts. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "C LIT",
+  "code": "C LIT 181C",
+  "title": "Southeastern European Literature",
+  "units": "4",
+  "description": "A special topics course covering a selection from the southeast European canon. Selections determined by instructor",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

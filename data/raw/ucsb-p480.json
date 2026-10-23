@@ -1,0 +1,280 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109HU",
+  "title": "Writing for the Humanities",
+  "units": "4",
+  "description": "Writing 109HU focuses on the analysis of various forms of writing for the humanities, both academic and professional. Attention is paid to the modes of argumentation, research methods, stylistic conventions, and development of original inquiry.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109R",
+  "title": "Research Writing in Academic Professional Settings",
+  "units": "4",
+  "description": "Practicing academic research as the exploration of intellectual problems. Using library resources, students work through stages of research writing defining questions; interpreting and evaluating sources; developing, organizing, formatting, and documenting research papers.",
+  "prerequisites_raw": "Writing 2, 2LK or equivalent. Upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109SS",
+  "title": "Writing for the Social Sciences",
+  "units": "4",
+  "description": "Analysis and practice of various forms of writing appropriate for primary and secondary research in the social sciences. Research writing projects include literature reviews, research proposals, research reports, case studies, and theoretical analyses. Attention to disciplinary resources, formal conventions, and style.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109ST",
+  "title": "Writing for Science and Technology",
+  "units": "4",
+  "description": "Analysis and practice of various forms of scientific and technical writing,both academic and professional, such as reports, proposals, journal articles, and abstracts. Attention to research methods, design of papers, development of graphics, technical style, and editing strategies.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 109V",
+  "title": "Writing for the Visual Arts",
+  "units": "4",
+  "description": "Description, analysis, investigation, and theorization of art and its practice. Students will engage in various forms of critical and generative writing and multimedia composition for the visual arts, such as press releases, artist statements, curatorial statements, proposals, exhibition reviews, analytical essays, and creative projects. Of special interest to majors in the arts, communications, and cultural studies.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 120",
+  "title": "Advanced Topics in Writing",
+  "units": "4",
+  "description": "Production of complex documents; visual aspects of communication; stylisticclarity; editing for varied purposes. Each section will have a special focus, such as electronic writing or proposal writing.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 121",
+  "title": "Advanced Topics in Creative Nonfiction",
+  "units": "4",
+  "description": "Readings in, and production of, texts in several creative nonfiction modes, including autobiographical narrative, segmented essay, and research supported fact pieces. Each section has a special topic focus, such as nature writing. Course is conducted in a workshop format.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 122",
+  "title": "Applying Business Communication Concepts Through Internships",
+  "units": "4",
+  "description": "Students of all majors analyze and direct their internship practices, applying theory and communication skills to their experiential learning. Reading, discussion, and practice in business communication (the memo, letter, oral presentation, and report of findings) to develop workplace literacy.",
+  "prerequisites_raw": "Upper-division standing; concurrent internship (60-70 hours); consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 124",
+  "title": "HFA Web and Social Media Internship",
+  "units": "0",
+  "description": "Students work in a small team to create, maintain and distribute digital content for the website and social media platforms of the Division of Humanities and Fine Arts, including written features, photography, videos and social media posts. This course is part of a year-long, seminar-style series. Registration is subject to instructor approval.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 125",
+  "title": "Special Topics in Academic and Professional Writing",
+  "units": "4",
+  "description": "Directed group reading, writing, and discussion of specialized topics in writing such as manuscript preparation, editing of tables and figures, and writing of multimedia materials.",
+  "prerequisites_raw": "Upper-division standing; Writing 2 or 2E or 2LK; and, Writing 50 or 50E or 50LK, or Writing 109AA-ZZ, or English 10.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 50",
+   "ENGL 10",
+   "WRIT 2E",
+   "WRIT 2LK",
+   "WRIT 50E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 126",
+  "title": "Journalism for the Web and Social Media",
+  "units": "4",
+  "description": "Fieldwork experience and seminar-style classes. Students write web and social media content for UCSBs Division of Humanities and Fine Arts. The class forms an editorial group that plans and provides coverage of speakers and events as well as interviews, blogs, and social media communication using text, photo and video.",
+  "prerequisites_raw": "Writing 2 or 2E or 2LK.",
+  "prerequisites_courses": [
+   "WRIT 2",
+   "WRIT 2E",
+   "WRIT 2LK"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 131",
+  "title": "RAAB Writing Fellow Seminar",
+  "units": "4",
+  "description": "Students work on individual projects while consulting with mentors and preparing for the year-end showcase. Classes include workshops on research-based writing, guest lectures, and peer activities. Enrollment restricted to students accepted in Raab Writing Fellows program.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 131A",
+  "title": "RAAB Writing Fellow Seminar",
+  "units": "2",
+  "description": "First course in the seminar-style year-long series for Raab Writing Fellows (WRIT 131A-B-C). Students work on individual projects while consulting with mentors and preparing for the year-end showcase. Classes include workshops on research-based writing, guest lectures, and peer activities. Enrollment restricted to students accepted in Raab Writing Fellows program.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 131B",
+  "title": "Raab Writing Fellow Seminar",
+  "units": "1",
+  "description": "Second course in the seminar-style year-long series for Raab Writing Fellows (WRIT 131A-B-C). Students work on individual projects while consulting with mentors and preparing for the year-end showcase. Classes include workshops on research-based writing, guest lectures, and peer activities. Enrollment restricted to students accepted in Raab Writing Fellows program.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 131C",
+  "title": "Raab Writing Fellow Seminar",
+  "units": "1",
+  "description": "Third course in the seminar-style year-long series for Raab Writing Fellows (WRIT 131A-B-C). Students work on individual projects while consulting with mentors and preparing for the year-end showcase. Classes include workshops on research-based writing, guest lectures, and peer activities. Enrollment restricted to students accepted in Raab Writing Fellows program.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 150",
+  "title": "Internship in Writing",
+  "units": "0",
+  "description": "Fieldwork experiences to explore professional writing in particular workplace contexts. The professional writing may be in varied genres, in print and/or digital media. Students create documents for the instructor and participate in periodic seminars with the instructor and Minor students.",
+  "prerequisites_raw": "Upper-division standing and consent of department. Must be enrolled in the Professional Writing Minor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 151A",
+  "title": "Copyediting",
+  "units": "4",
+  "description": "Develop expertise in the principles of grammar, punctuation, and copyediting. Application of these principles to a wide range of professional documents. Create style guides and notes to the authorto provide advice to authors on issues of clarity and ambiguityto supplement the copyedited work.",
+  "prerequisites_raw": "At least one prior course from Writing 105AA-ZZ, 107AA-ZZ, and/or 109AA-ZZ; upper-division standing. Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 151B",
+  "title": "Style and Usage",
+  "units": "4",
+  "description": "Editing of professional work, including best-selling nonfiction and fiction, with an emphasis on issues of style and usage. Collaborative magazine projectimagined, written, and edited solely by group members. The course concludes with collaborative presentations and a final print or online portfolio of student work.",
+  "prerequisites_raw": "Writing 151A; upper-division standing. Must be admitted to the Minor in Professional Writing for enrollment.",
+  "prerequisites_courses": [
+   "WRIT 151A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 152A",
+  "title": "Advanced Beat Reporting",
+  "units": "4",
+  "description": "The first of two capstone courses in the Journalism track of the Professional Writing Minor. Students pitch, report, write and revise news and feature articles in a particular \"beat\" area, enhancing their proficiency in journalistic research and writing.",
+  "prerequisites_raw": "At least one prior course from Writing 105AA-ZZ, 107AA-ZZ, and/or 109AA-ZZ; upper-division standing. Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 152B",
+  "title": "Multiplatform Journalism",
+  "units": "4",
+  "description": "Second capstone course for the Journalism track in the Professional Writing Minor. Focus on creating a long form feature using narrative and multimedia elements (photos, videos, audio, data visualization) and a professional website featuring journalism writing samples suitable for professional audiences.",
+  "prerequisites_raw": "Writing 152A; upper division standing. Must be admitted to the Minor in Professional Writing for enrollment.",
+  "prerequisites_courses": [
+   "WRIT 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 153A",
+  "title": "Civic Engagement and Public Writing",
+  "units": "4",
+  "description": "Focus on defining civic engagement, its forms and genres. Students explore intersections between individual agency and civic issues with an emphasis on public writing. Assignments involve the study and practice of writing by civically engaged citizens.",
+  "prerequisites_raw": "At least one prior course from Writing 105AA-ZZ, 107AA-ZZ, and/or 109AA-ZZ; upper-division standing. Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 153B",
+  "title": "Writing for Civic Organizations",
+  "units": "4",
+  "description": "Focus on the writing genres that advance the civic purpose of organizations. Students study and produce print and multi-media documents to meet the needs of civic organizations in management, marketing, public relations, and fundraising.",
+  "prerequisites_raw": "Writing 153A; upper-division standing. Must be admitted to the Professional Writing Minor.",
+  "prerequisites_courses": [
+   "WRIT 153A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "WRIT",
+  "code": "WRIT 155A",
+  "title": "Document Design and Production",
+  "units": "4",
+  "description": "Information design in print media; focus on grammatical and rhetorical expertise. Projects include flyers, brochures, resumes, and other graphics, with a focus on understanding the intersections of writing and visual design. Project-based course culminating in print portfolio.",
+  "prerequisites_raw": "At least one prior course from Writing 105AA-ZZ, 107AA-ZZ, and/or 109AA-ZZ; upper-division standing. Must be admitted to the Professional Writing Minor for enrollment.",
+  "prerequisites_courses": []
+ }
+]

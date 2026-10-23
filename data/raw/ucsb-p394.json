@@ -1,0 +1,370 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 149",
+  "title": "Israeli Politics",
+  "units": "4",
+  "description": "An introduction to the politics of Israel. Examines both Israeli domestic politics and Israel in comparative perspective.",
+  "prerequisites_raw": "Political Science 6 and 15; not open to freshmen.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 150",
+  "title": "POL THE MIDDLE EAST",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 150A",
+  "title": "Politics of the Middle East and North Africa",
+  "units": "4",
+  "description": "This course provides an introduction to key theoretical debates in the comparative politics and international relations of the Middle East. We cover the major areas of political science research on the region while also building substantive knowledge about the politics of individual countries. This course aims to help students identify broad trends in the political, social, and economic development of the Middle East and critically evaluate existing explanations for those trends.",
+  "prerequisites_raw": "POL S 6 or 7.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "POL S 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 150B",
+  "title": "Politics of the Middle East",
+  "units": "4",
+  "description": "Political development and nationalism in the Northern Tier, Arab North Africa, and the Arabian Peninsula. The politics of oil. The resurgence of Islam. Iran, Iraq, Saudi Arabia, Turkey, Afganistan, great power rivalry inthe Middle East since 1945.",
+  "prerequisites_raw": "Political Science 150A.",
+  "prerequisites_courses": [
+   "POL S 150A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 151",
+  "title": "Voting and Elections",
+  "units": "4",
+  "description": "Introduction to elections and voting, primarily in the U.S. but also cross-nationally; the role of electoral rules, party competition and campaigns in determining voter turnout and choice; the effect of elections on public policy.",
+  "prerequisites_raw": "Political Science 15.",
+  "prerequisites_courses": [
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 152",
+  "title": "American Political Parties",
+  "units": "4",
+  "description": "The nature, characteristics, and history of American political parties; party organization; political campaigns and finance; nominations, elections, and electoral problems.",
+  "prerequisites_raw": "Political Science 12 and 15.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 153",
+  "title": "Political Interest Groups",
+  "units": "4",
+  "description": "The nature and function of organized interest groups and their impact upon public opinion and government.",
+  "prerequisites_raw": "Political Science 12 and 15.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 154",
+  "title": "Public Opinion",
+  "units": "4",
+  "description": "A study of the formation and nature of public opinion including: the public's political sophistication; the role of emotion in political thinking; nature of political culture; growth of political alienation and the forms of political participation.",
+  "prerequisites_raw": "Political Science 15 or 104 or Sociology 3 or 104A or Psychology 5 or Communications 88.",
+  "prerequisites_courses": [
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 155",
+  "title": "Congress Simulation",
+  "units": "4",
+  "description": "The organization, operation, and politics of congress examined through the lens of theory and demonstrated in conjunction with the required simulation lab POLS 155L.",
+  "prerequisites_raw": "Political Science 12; concurrent enrollment in Political Science 155L.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 155L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 155L",
+  "title": "Congress Simulation Lab",
+  "units": "2",
+  "description": "A simulation of the U.S. House of Representatives designed to teach the operation and politics of Congress, and requires concurrent enrollment in POLS 155 Congress Simulation lecture course.",
+  "prerequisites_raw": "Political Science 12; concurrent enrollment in Political Science 155.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 155"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 157",
+  "title": "The American Presidency",
+  "units": "4",
+  "description": "Analysis of the institution of the presidency, its functions, formal and informal relationships, and its limitations within the American political system. Emphasis on the dynamics of the presidency, including presidential personality, conceptions of role, impact of public opinion, and responses to changes in the environment.",
+  "prerequisites_raw": "Political Science 15 or 104 or 104A or Sociology 3 or Psychology 5 or Communications 88 AND Political Science 12.",
+  "prerequisites_courses": [
+   "POL S 15",
+   "POL S 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 160",
+  "title": "Asian American Politics",
+  "units": "4",
+  "description": "Survey of the historical and contemporary political experiences of Asian Americans and their pursuits for immigration, equality, citizenship, political identity, racial justice, cross-racial/ethnic coalition building and incorporation into the U. S. political system.",
+  "prerequisites_raw": "Political Science 12 or Asian American Studies 1 or Asian American Studies 2.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "AS AM 1",
+   "AS AM 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 161",
+  "title": "U. S. Minority Politics",
+  "units": "4",
+  "description": "A comparative study of recent literature on the historical and contemporary political experiences of the four major racial and ethnic minority groups (Blacks/African Americans, American Indians, Latinos/Hispanic Americans, and Asian Americans) and their interactions with the dominant racial group (non-Hispanic white Americans) in the U.S.",
+  "prerequisites_raw": "Political Science 12. Not open to freshmen.",
+  "prerequisites_courses": [
+   "POL S 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 162",
+  "title": "Urban Government and Politics",
+  "units": "4",
+  "description": "Problems of politics and administration in urban and metropolitan areas.",
+  "prerequisites_raw": "Political Science 12.",
+  "prerequisites_courses": [
+   "POL S 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 165",
+  "title": "Criminal Justice",
+  "units": "4",
+  "description": "Problems and functions of police, prosecution and defense relating to such problems as plea-bargaining, exclusionary rule, trials, bail, and sentencing.",
+  "prerequisites_raw": "Political Science 12 and 15.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 166",
+  "title": "US Immigration Politics and Policy",
+  "units": "4",
+  "description": "Examines the politics of US immigration policy.",
+  "prerequisites_raw": "Political Science 15.",
+  "prerequisites_courses": [
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 170",
+  "title": "Public Policy Analysis",
+  "units": "4",
+  "description": "The assumptions, goals, content, and consequences of selected domestic policies, concentrating on the period since 1960. Discussion of the nature of collective action, methods of policy analysis and evaluation, and problems of implementation.",
+  "prerequisites_raw": "Political Science 12 and 15.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 172",
+  "title": "Political Communication in the U.S.",
+  "units": "4",
+  "description": "Political communication in the United States. Covering the interplay of news, social media, and other forms of communication with public opinion and political behavior.",
+  "prerequisites_raw": "Political Science 15.",
+  "prerequisites_courses": [
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 172L",
+  "title": "STATE LOCAL GOV LAB",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 173",
+  "title": "Media and Politics in Comparative and Historical Perspective",
+  "units": "4",
+  "description": "A comparative examination across countries of the theory and history of media and politics.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 173L",
+  "title": "METRO GOVT POL LAB",
+  "units": "1",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 175",
+  "title": "Politics of the Environment",
+  "units": "4",
+  "description": "Analysis of environmental policy issues and their treatment in the political process. Discussion of the interplay of substantive issues, ideology, institutions, and private groups in the development, management, protection, and preservation of natural resources and the natural environment.",
+  "prerequisites_raw": "Political Science 12 or Environmental Studies 3; upper-division standing.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 176",
+  "title": "Energy Politics and Policy",
+  "units": "4",
+  "description": "Introduces students to the politics and policy of the contemporary global energy system. Covers major public policies and politics related to both the electricity and transportation systems. Students learn energy technology characteristics and understand contemporary political debates over the energy system.",
+  "prerequisites_raw": "Political Science 6 or 12, or Environmental Studies 1 or 3.",
+  "prerequisites_courses": [
+   "POL S 6",
+   "ENV S 1",
+   "POL S 12",
+   "ENV S 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 177",
+  "title": "Comparative Environmental Politics",
+  "units": "4",
+  "description": "Course is structured around the major issues in environmental politics, for example: global warming, nuclear waste, deforestation, and chemical pollution. The roles of economics, technology and social organization are each considered as explanatory variables for understanding environmental problems.",
+  "prerequisites_raw": "Environmental Studies 1 or Political Science 6",
+  "prerequisites_courses": [
+   "ENV S 1",
+   "POL S 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 178",
+  "title": "Democracy and the Internet",
+  "units": "4",
+  "description": "Examines challenges to democratic process and public spheres associated with digital media, including: harms to privacy, misinformation, propaganda, anti-social behavior, political extremism and violence, and corporate power, with an emphasis on the US.",
+  "prerequisites_raw": "POLS 12",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 180",
+  "title": "Bureaucracy and Public Policy",
+  "units": "4",
+  "description": "The nature of American bureaucracy, its organization and culture and its role as a political institution.",
+  "prerequisites_raw": "Political Science 12 and 15.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "POL S 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 182",
+  "title": "Education Politics and Policy",
+  "units": "4",
+  "description": "Federal, state and local institutions governing public elementary & secondary education in the U.S., focusing on the values and interests that define politics at each level. Analyzes school finance, curriculum and school choice policies.",
+  "prerequisites_raw": "Political Science 12; upper-division standing.",
+  "prerequisites_courses": [
+   "POL S 12"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 185",
+  "title": "Government and the Economy",
+  "units": "4",
+  "description": "Government's evolving role in economic life; the cultural, political, and philosophical setting of government-business relations; the maintenance and moderation of competition; the goals, methods, and politics of regulatory administration.",
+  "prerequisites_raw": "Political Science 12 and 15; and Economics 1 and 2, or Economics 109.",
+  "prerequisites_courses": [
+   "POL S 12",
+   "ECON 1",
+   "POL S 15",
+   "ECON 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 186",
+  "title": "Introduction to International Political Economy",
+  "units": "4",
+  "description": "Introduction to the politics of international economic relations. Examination of alternative analytical and theoretical perspectives for their value in helping to understand and evaluate the historical development and current operation of the world economy.",
+  "prerequisites_raw": "POLS 7 or GLOBL 2; upper-division standing.",
+  "prerequisites_courses": [
+   "GLOBL 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 187",
+  "title": "Classical Political Theory",
+  "units": "4",
+  "description": "A careful examination of major texts and thinkers in the ancient world and in medieval times.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

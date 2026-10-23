@@ -1,0 +1,316 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 200SS",
+  "title": "Linguistic Analysis",
+  "units": "4",
+  "description": "Study of the phonological and syntactic structure of modern Spanish for students with a functional command of the language; emphasis placed on developing ability to analyze grammatical structures and phonetic principles related to the learning and teaching of Spanish.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 201SS",
+  "title": "Writing Strategies and Approaches",
+  "units": "4",
+  "description": "Development of writing skills through writing original compositions. Reading and discussion of selected masterpieces to acquaint the student with a variety of styles. Further grammar review.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 202",
+  "title": "Topics in Peninsular Cultural Studies",
+  "units": "4",
+  "description": "Every iteration of this course will be organized around a different theme. We will include a wide range of cultural productions from Spain, such as films, popular genres, the press, political discourses, and other non-canonical texts and cultural artifacts related to culture as history. The cultural artifacts will be examined by using critical lenses including identity, race, ideology, power, class, andhistorical representation.",
+  "prerequisites_raw": "Graduate Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 203SS",
+  "title": "Spanish Peninsular Texts (1700-present)",
+  "units": "4",
+  "description": "A close reading of selected modern and contemporary texts in prose and poetry, that will be set in their historical contexts and carefully analyzed so as to bring out their meaning(s) or intention(s).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 204SS",
+  "title": "Spanish-American Texts (1830-present)",
+  "units": "4",
+  "description": "A close reading of selected modern and contemporary texts in prose and poetry, that will be set in their historical contexts and carefully analyzed so as to bring out their meaning(s) or intentions(s).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 205",
+  "title": "Emergency Poetics in Latin America",
+  "units": "4",
+  "description": "Emergency Poetics in Latin America provides graduate students with the chance to examine art and literature from Latin America and U.S. Latinx communities spanning the 20th and 21st centuries. This approach offers a unique methodology aimed at understanding these cultural expressions within their historical contexts through a transdisciplinary lens. Emergency Poetics utilizes linguistic and formal tools to convey urgent messages in response to imminent dangers, often diverging from established canons. This divergence categorizes works as experimental or impenetrable, allowing them to react dynamically to specific stimuli.",
+  "prerequisites_raw": "Graduate Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 206SS",
+  "title": "The Sound Structure of Spanish",
+  "units": "4",
+  "description": "A study of the articulatory features of the sounds of Spanish, with particular attention to dialect variation and to applying phonetic principles to the learning and teaching of Spanish. Emphasis on the production and recognition of various sound patterns.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 207SS",
+  "title": "Cultural History of Spain (pre-1700)",
+  "units": "4",
+  "description": "A survey of the major events that shaped Spain as a modern state. The intellectual movements that nurtured and sustained the contemporary Spanishstate will also be studied.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 208SS",
+  "title": "Cultural History of Spanish America (pre-1830)",
+  "units": "4",
+  "description": "A panoramic but in-depth presentation of the major historical and cultural events that give coherence and diversity to the Spanish-speaking countries of the Western Hemisphere.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 209SS",
+  "title": "Don Quijote",
+  "units": "4",
+  "description": "A close reading of both parts of the novel, setting it into its historical context, with appropriate discussion of key episodes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 210A",
+  "title": "Survey of Spanish Literature for Portuguese Graduate Students",
+  "units": "4",
+  "description": "Medieval Spanish Literature.",
+  "prerequisites_raw": "Graduate standing in Portuguese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 210B",
+  "title": "Survey of Spanish literature for Portuguese graduate students",
+  "units": "4",
+  "description": "Golden Age Literature.",
+  "prerequisites_raw": "Graduate standing in Portuguese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 210C",
+  "title": "Survey of Spanish Literature for Portuguese Students",
+  "units": "4",
+  "description": "Eighteenth- and nineteenth-century literature.",
+  "prerequisites_raw": "Graduate standing in Portuguese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 210SS",
+  "title": "Spanish Language in the World: History of the Spanish Language",
+  "units": "4",
+  "description": "The origin, development and spread of the Spanish language and culture throughout the world from pre-Roman times to current issues facing the Spanish-speaking population in the United States.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 211A",
+  "title": "Survey of Spanish-American Literature for Portuguese Graduate Students",
+  "units": "4",
+  "description": "Students will write an extensive paper and be responsible for additional readings to enrich their preparation and ready them for their Ph.D. examinations. Colonial Spanish-American literature.",
+  "prerequisites_raw": "Graduate standing in Portuguese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 211B",
+  "title": "Survey of Spanish-American Literature for Portuguese Graduate Students",
+  "units": "4",
+  "description": "Students will write an extensive paper and be responsible for additional readings to enrich their preparation and ready them for their Ph.D. examinations. Nineteenth-century Spanish-American literature.",
+  "prerequisites_raw": "Graduate standing in Portuguese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 211BS",
+  "title": "Technology and Language Learning",
+  "units": "4",
+  "description": "Basic concepts of modern theories of language and language acquisition. Course acquaints students with an in-depth exploration of fundamental concepts in Spanish teaching. Topics include classroom discourse, teaching approaches, principles of language testing, and computer-based foreign language teaching.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 211C",
+  "title": "Survey of Spanish-American Literature for Portuguese Graduate Students",
+  "units": "4",
+  "description": "Students will write an extensive paper and be responsible for additional readings to enrich their preparation and ready them for their Ph.D. examinations. Twentieth-century literature.",
+  "prerequisites_raw": "Graduate standing in Portuguese.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 212",
+  "title": "Research Methodologies and Theories of Literatures",
+  "units": "4",
+  "description": "Approaches and methods for research in Hispanic and Portuguese and Brazilian literatures. Techniques of literary scholarship will also be considered as well as the analysis and application of methods of current literaty theories and criticism.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 212A",
+  "title": "Research Methods in Literature",
+  "units": "4",
+  "description": "Approaches and methods for research in Hispanic and Luso-Brazilian literature. Study of main bibliographic resource with particular emphasis on computer-aided research and resulting in the production of a substantive on a field of graduate research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 212B",
+  "title": "Research Methods in Linguistics",
+  "units": "4",
+  "description": "Approaches and methods for research in Hispanic and Luso-Brazilian linguistics. Study of main bibliographic resource with particular emphasis on computer-aided research and resulting in the production of a substantive on a field of graduate research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 213",
+  "title": "Emotions and Affects in Spanish Culture",
+  "units": "4",
+  "description": "Interrogates the emergence of affect as a critical perspective through which to understand culture. Taking Affect Theory as a starting point, we analyze different ways in which emotion and affects are socially produced in particular cultural contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 214B",
+  "title": "The Spanish Language: A Linguistic Approach",
+  "units": "4",
+  "description": "Study of the systematic aspects of language structure which make communication possible. Each quarter deals with a different aspect of the Spanish system, as follows: morphology and syntax.",
+  "prerequisites_raw": "Spanish 100",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 214C",
+  "title": "The Spanish Language: A Linguistic Approach",
+  "units": "4",
+  "description": "Study of the systematic aspects of language structure which make communication possible. Each quarter deals with a different aspect of the Spanish system, as follows: semantics.",
+  "prerequisites_raw": "Spanish 100",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 215",
+  "title": "Women Authors of the Spanish Language",
+  "units": "4",
+  "description": "An examination of women's strategies of self-figuration, traditions of female expression, women's relationship to authorship and authority, and the relationship of Spanish-language writing to contemporary feminist criticism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 216SS",
+  "title": "Special Topics in Language and Literature",
+  "units": "4",
+  "description": "Studies in subjects of current interest in Spanish and/or Spanish American language and literature, and/or USA literature and language written in Spanish.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 217SS",
+  "title": "Mexican Culture",
+  "units": "4",
+  "description": "A study of the major historical and cultural events that explain modern Mexico. Pre-Columbian cultures, the Colonial Period, Independence, Benito Juarez, and Porfirio Diaz, the Mexican Revolution, the Contemporary Scene.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 218",
+  "title": "Individual Hispanic Authors and Special Topics",
+  "units": "4",
+  "description": "Intensive study of the work of an individual Hispanic author, to be chosen by the instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 220A",
+  "title": "Professional Training Colloquium",
+  "units": "2",
+  "description": "The course focuses on the skills needed to prepare for the job market (CV's, cover letters, conference abstracts, course syllabi, mock interviews). Guest speakers will also provide the opportunity to learn new methodologies, issues, and how to deliver papers effectively.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 220B",
+  "title": "Professional Training Colloquium",
+  "units": "2",
+  "description": "The course focuses on the skills needed to prepare for the job market (CV's, cover letters, conference abstracts, course syllabi, mock interviews). Guest speakers will also provide the opportunity to learn new methodologies, issues, and how to deliver papers effectively.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 220C",
+  "title": "Professional Training Colloquium",
+  "units": "2",
+  "description": "Course focuses on the skills needed to prepare for the job market (CV's, cover letters, conference abstracts, course syllabi, mock interviews). Guest speakers will also provide the opportunity to learn new methodologies, issues, and how to deliver papers effectively.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

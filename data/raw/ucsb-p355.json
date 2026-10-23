@@ -1,0 +1,299 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 154",
+  "title": "Design and Analysis of Structures",
+  "units": "3",
+  "description": "Introductory course in structural analysis and design. The theories of matrix structural analysis and finite element analysis for the solution of analytical and design problems in structures are emphasized. Lecture material includes structural theory compatibility method, slope deflection method, displacement method, and virtual work. Topics include applications to bars, beams, trusses, frames, and solids.",
+  "prerequisites_raw": "ME 15 with a minimum grade of C-; and, ME 16 or ME W 16 with a minimum grade of C-; open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 15",
+   "ME 16",
+   "ME W 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 155A",
+  "title": "Control System Design",
+  "units": "3",
+  "description": "The discipline of control and its application. Dynamics and feedback. The mathematical models: transfer functions and state space descriptions. Simple control design (PID). Assessment of a control problem, specification, fundamental limitations, codesign of system and control.",
+  "prerequisites_raw": "ME 17 with a minimum grade of C-; ME 103.",
+  "prerequisites_courses": [
+   "ME 17",
+   "ME 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 155B",
+  "title": "Advanced Control Systems Design",
+  "units": "3",
+  "description": "Dynamic system modeling using state-space methods, controllability and observability, state-space methods for control design including pole placement, and linear quadratic regulator methods. Observers and observer-based feedback controllers. Sampled-data and digital control. Laboratory exercises using MATLAB for simulation and control design.",
+  "prerequisites_raw": "ME 155A.",
+  "prerequisites_courses": [
+   "ME 155A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 155C",
+  "title": "Control Systems Laboratory",
+  "units": "3",
+  "description": "An advanced lab course with experiments in dynamical systems and feedback control design. Students design, troubleshoot, and perform detailed, multi-session experiments.",
+  "prerequisites_raw": "ME 155A.",
+  "prerequisites_courses": [
+   "ME 155A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 156A",
+  "title": "Mechanical Engineering Design - I",
+  "units": "3",
+  "description": "The rational selection of engineering materials, and the utilization of Ashby-charts, stress, strain, strength, and fatigue failure consideration as applied to the design of machine elements. Lectures also support the development of system design concepts using assigned projects and involve the preparation of engineering reports and drawings.",
+  "prerequisites_raw": "ME 14, with a minimum grade of C-; and ME 15, with a minimum grade of C-; and MATRL 101 (or MATRL 100B); or consent of instructor. Open to ME majors only",
+  "prerequisites_courses": [
+   "ME 14",
+   "ME 15",
+   "MATRL 101",
+   "MATRL 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 156B",
+  "title": "Mechanical Engineering Design-II",
+  "units": "3",
+  "description": "Machine elements including gears, bearings and shafts. Joint design and analysis: bolts, rivets, adhesive bonding and welding. Machine dynamics andfatigue. Design reliability and safety. Codes and standards. Topics coveredwill be applies in practical design projects.",
+  "prerequisites_raw": "ME 156A. Open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 156A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 157",
+  "title": "Introduction to Multiphysics Simulation",
+  "units": "3",
+  "description": "Introduces students to the concepts of multiphysics simulation. Students are introduced to PDEs, associated analytical solutions, and the finite elements method. Multiphysics problems are solved in multiple domains, and with fluid/structure interactions. Each student conducts a project where multiphysics tools are used to explore details of multiphysical processes.",
+  "prerequisites_raw": "Mechanical Engineering 151A-B; and Mechanical Engineering 152A-B",
+  "prerequisites_courses": [
+   "ME 151A",
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 158",
+  "title": "Computer Aided Design and Manufacturing",
+  "units": "3",
+  "description": "Emphasis on programming, operation and design of automated manufacturing tools. Students learn to program CNC tools to make parts with G&M Code and Mastercam CAM software. Students make parts in hands-on labs using CNC tools, 3D printers and laser cutters. Select topics in automated tool design and construction.",
+  "prerequisites_raw": "ME 10 and ME 12S; open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 10",
+   "ME 12S"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 159",
+  "title": "Introduction to Design Optimization",
+  "units": "3",
+  "description": "Building a theoretical understanding of various optimization schemes and methods. Numerical simulation of physical design problems with a goal to optimize the design of a system and an emphasis on using COMSOL Multiphysics software package. Gradient-based and gradient-free minimization/maximization of objective functions; parameter optimization, shape optimization; topology optimization; inverse problem-solving.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 162",
+  "title": "Introduction to Elasticity",
+  "units": "3",
+  "description": "Equations of equilibrium, compatibility, and boundary conditions. Solutionsof two-dimensional problems in rectangular and polar coordinates. Eigen-solutions for the Wedge and Williams' solution for cracks. Stress intensity factors. Extension, torsion, and bending. Energy theorems. Introduction to wave propagation in elastic solids.",
+  "prerequisites_raw": "ME 15 and 140A.",
+  "prerequisites_courses": [
+   "ME 15",
+   "ME 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 163",
+  "title": "Engineering Mechanics: Vibrations",
+  "units": "3",
+  "description": "Topics relating to vibration in mechanical systems; exact and approximate methods of analysis, matrix methods, generalized coordinates and Lagrange's equations, applications of systems. Basic feedback systems and controlled dynamic behavior.",
+  "prerequisites_raw": "ME 16 or ME W 16 with a minimum grade of C-; ME 103; open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 16",
+   "ME W 16",
+   "ME 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 166",
+  "title": "Advanced Strength of Materials",
+  "units": "3",
+  "description": "Analysis of statically determinate and indeterminate systems using integration, area moment, and energy methods. Beams on elastic foundations,curved beams stress concentrations, fatigue, and theories of failure for ductile and brittle materials. Photoelasticity and other experimental techniques are covered, as well as methods of interpreting in-service failures.",
+  "prerequisites_raw": "ME 15.",
+  "prerequisites_courses": [
+   "ME 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 167",
+  "title": "Structural Analysis",
+  "units": "3",
+  "description": "Presents introductory matrix methods for analysis of structures. Topics include review of matrix algebra and linear equations, basic structural theorems including the principle of superposition and energy theorems, truss bar, bean and plane frame elements, and programming techniques to realize these concepts.",
+  "prerequisites_raw": "ME 15",
+  "prerequisites_courses": [
+   "ME 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 169",
+  "title": "Nonlinear Phenomena",
+  "units": "4",
+  "description": "An introduction to nonlinear phenomena. Flows and bifurcations in one and two dimensions, chaos, fractals, strange attractors. Applications to physics, engineering, chemistry, and biology.",
+  "prerequisites_raw": "Physics 105A or Physics 103; or ME 163 or upper-division standing in ECE.",
+  "prerequisites_courses": [
+   "PHYS 103",
+   "ME 163"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 179D",
+  "title": "Introduction to Robotics: Dynamics and Control",
+  "units": "4",
+  "description": "Dynamic modeling and control methods for robotic systems. Lagrangian method for deriving equations of motion, introduction to the Jacobian, and modeling and control of forces and contact dynamics at a robotic end effector. Laboratories encourage a problem-solving approach to control.",
+  "prerequisites_raw": "ECE 130A or ME 103",
+  "prerequisites_courses": [
+   "ECE 130A",
+   "ME 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 179L",
+  "title": "Introduction to Robotics: Design Laboratory",
+  "units": "4",
+  "description": "Design, programming, and testing of mobile robots. Design problems are formulated in terms of robot performance. Students solve electromechanical problems, developing skills in brainstorming, concept selection, spatial reasoning, teamwork and communication. Robots are controlled with micro-controllers using C programming and interfaced to sensors and motors.",
+  "prerequisites_raw": "Engr 3; and ME 6 or ECE 2A. Not open for credit to students who have completed ME 170C or ECE 181C.",
+  "prerequisites_courses": [
+   "ME 6",
+   "ECE 2A",
+   "ME 170C",
+   "ECE 181C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 179P",
+  "title": "Introduction to Robotics: Planning and Kinematics",
+  "units": "4",
+  "description": "Motion planning and kinematics topics with an emphasis on geometric reasoning, programming, and matrix computations. Motion planning: configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics: reference frames, rotations and displacements, kinematic motion models.",
+  "prerequisites_raw": "Mathematics 4A and Upper-Division standing only.",
+  "prerequisites_courses": [
+   "MATH 4A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 180",
+  "title": "Crystalline Defects",
+  "units": "3",
+  "description": "An in-depth look into the many classes of defects (e.g., point, linear, and planar) and the role they play in crystalline materials. While we cannot eliminate defects and they are usually seen as a weakness, proper understanding of defects is the best way to design stronger and better materials. Examples of the types of defects we may cover are vacancies, dislocations, grain boundaries, interfaces, and twins. We will study their formation, mobility and interaction in environments where they are commonly found, such as elevated temperatures, mechanical strains, or irradiation.",
+  "prerequisites_raw": "Math 3B, ME 14, and ME 15.",
+  "prerequisites_courses": [
+   "MATH 3B",
+   "ME 14",
+   "ME 15"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 185",
+  "title": "Materials in Engineering",
+  "units": "3",
+  "description": "Introduces the student to the main families of materials and the principlesbehind their development, selection, and behavior. Discusses the generic properties of metals, ceramics, polymers, and composites more relevant to structural applications. The relationship of properties to structure and processing is emphasized in every case.",
+  "prerequisites_raw": "Materials 100B or 101.",
+  "prerequisites_courses": [
+   "MATRL 100B",
+   "MATRL 101"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 186A",
+  "title": "Manufacturing and Materials",
+  "units": "3",
+  "description": "Introduction to the fundamentals of common manufacturing processes and their interplay with the structure and properties of materials as they are transformed into products. Emphasis on process understanding and the key physical and basic mathematical relationships involved in each of the processes discussed.",
+  "prerequisites_raw": "ME 151C; and ME 15; and Materials 101 or Materials 100C",
+  "prerequisites_courses": [
+   "ME 151C",
+   "ME 15",
+   "MATRL 101",
+   "MATRL 100C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 186B",
+  "title": "Introduction to Additive Manufacturing",
+  "units": "3",
+  "description": "Introduction to additive manufacturing processes: review ofmanufacturing methods and process selection consideration, economies of production, common additive manufacturing strategies, and brief description of the physics of photopolymerization, extrusion, selective laser melting and e-beam melting fabrication.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 189A",
+  "title": "Capstone Mechanical Engineering Design Project",
+  "units": "3",
+  "description": "Students work in teams under the direction of a faculty advisor (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Emphasis on practical, hands-on experience, and the integration of analytical and design skills.",
+  "prerequisites_raw": "ME 103; and ME 151B; and ME 152A; and ME 153; or consent of instructor. Open to ME majors only.",
+  "prerequisites_courses": [
+   "ME 103",
+   "ME 151B",
+   "ME 152A",
+   "ME 153"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 189B",
+  "title": "Capstone Mechanical Engineering Design Project",
+  "units": "3",
+  "description": "Students work in teams under the direction of a faculty advisor (and possibly an industrial sponsor) to tackle an engineering design project. Engineering communication, such as reports and oral presentations, are covered. Course emphasizes practical, hands-on experience, and integrates analytical and design skills acquired in the companion ME 156 courses.",
+  "prerequisites_raw": "ME 189A",
+  "prerequisites_courses": [
+   "ME 189A"
+  ]
+ }
+]

@@ -1,0 +1,295 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 203",
+  "title": "Cell Biology",
+  "units": "4",
+  "description": "Introduction to the structure and function of cell organelles: membranes, nucleus, mitochondria, chloroplasts, endoplasmic reticulum, golgi apparatus, lysosomes, microbodies, microtubules, cilia, centrioles, and microfilaments.",
+  "prerequisites_raw": "MCDB 1A-AL or MCDB 1B-BL or EEMB 2-2L, or equivalents.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 2L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 208C",
+  "title": "Biochemistry - Computational & Systems Biology",
+  "units": "4",
+  "description": "Models of Biochemical and Cellular Systems. Introductory systems-biology approach to model the design and the function of biological systems. Students will develop an intuition about physical concepts that are fundamental to discuss how biological organisms acquire and process information from the environment. Those concepts and tools will cover probabilities and basic dynamical systems theory. Students will build models of processes of increasing complexity, ranging from viral dynamics, bacterial resistance to drugs, the maintenance of homeostatic equilibrium (trp operon), biological oscillators (mitotic clock) and genetic switches underlying cellular decisions (bacteriophage lambda and lac operon).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 212",
+  "title": "Molecular Virology",
+  "units": "5",
+  "description": "Consideration of selected animal viruses in terms of structure, mechanism of genetic expression, and effects of viral gene expression on cell function, as well as aspects of the virus-host interaction including viral persistence, interference, and interferon.",
+  "prerequisites_raw": "MCDB 108A-B-C and 101A-B or equivalent.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 218A",
+  "title": "Methods and Logic in Molecular Cell Biology I",
+  "units": "3",
+  "description": "Molecular genetics and gene regulation. Experimental design and approaches, and a focus on critical thinking and problem solving, will reveal how fundamental, highly significant biological problems are unraveled using molecular genetic strategies. Reading will be assigned from a mix of classic and current peer-reviewed papers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 218B",
+  "title": "Methods and Logic in Molecular Cell Biology II",
+  "units": "5",
+  "description": "Molecular cellular biology in a variety of model systems and contexts from an integrated perspective. A collection of approaches, and a focus on critical thinking and problem solving, will reveal how highly significant biological problems are unraveled using cutting edge technologies. Includes an introduction to bioinformatics, computational, and systems biology. Reading will be assigned from a mix of classic and current peer-reviewed papers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 220A",
+  "title": "Chromosomes and Cell Cycle",
+  "units": "2",
+  "description": "Structure and organization of the nucleus, chromatin and chomosome structure, organization, and function; DNA replication and replication origins; eukaryotic cell cycle regulation.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 220B",
+  "title": "Cell Biology - Cytoskeleton & Membrane Trafficking",
+  "units": "2",
+  "description": "Structure and function of the eukaryotic cytoskeleton. Intracellular protein transport and membrane trafficking.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 220C",
+  "title": "From RNA to Membranes",
+  "units": "2",
+  "description": "Structure and dynamics of biological membranes and membrane proteins, protein translocation and sorting in the endomembrane system of eukaryotic cells, extracellular matrix protein structure/function, cell-matrix and cell-cell interactions, cell adhesion receptors, transmembrane signaling by cell adhesion receptors.",
+  "prerequisites_raw": "Undergraduate biochemistry (e.g., MCDB 108A-B-C or Chemistry 142A-B-C) and genetics (e.g., MCDB 101A).",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "CHEM 142A",
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 220D",
+  "title": "Experimental Cytology and Digital Imaging",
+  "units": "4",
+  "description": "Introduction to imaging cellular substructure with the light microscope. Students receive theoretical and hands-on experience in obtaining maximum data from biological specimens using optical and digital enhancement techniques.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 221",
+  "title": "Preparation and Evaluation of Research Proposals and Scientific Presentations",
+  "units": "3",
+  "description": "Instruction in preparation writing, and evaluation of research grant proposals. Overview of federal funding mechanisms, ethics in research, the peer review and proposal evaluation processes, and general strategies in communication of scientific ideas including poster and oral presentations. This course is writing based and includes instruction and guidance on applying to NSF and NIH Pre-Doctoral Fellowships.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 223",
+  "title": "Signal Transduction",
+  "units": "2",
+  "description": "A cell's growth is controlled by positive and negative cues from its surroundings. We will discuss the cell's signaling mechanisms that recognize these cues and initiate an intracellular set of events that generates a response.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 224",
+  "title": "Signal Transduction and Development in Multicellular Systems",
+  "units": "2",
+  "description": "Cellular and organismal growth and other responses are controlled by positive and negative cues from both internal and external sources. We discuss the signaling mechanisms that recognize these cues and initiate an intracellular set of events that generates a response. We also discuss the molecular mechanisms of pattern formation and cellular differentiation that underlie developmental processes in a variety of important multicellular model systems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 225",
+  "title": "Development",
+  "units": "2",
+  "description": "The molecular mechanisms of pattern formation and cellular differentiation that underlie developmental processes in a variety of important model systems.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 226",
+  "title": "Basic Pharmacology",
+  "units": "5",
+  "description": "Will cover a wide range of drugs with a focus on drugs used to treat disorders of the nervous and cardiovascular systems, antibacterial agents, antivirals, and anticancer drugs. Will will also look at the pharmacology of inflammation and coagulation. The goal is to understand the underlying physiology behind disorders of these systems and the mechanisms of the drugs used to treat them. Additional out-of-class hours are necessary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 226AL",
+  "title": "Pharmacology Lab I",
+  "units": "4",
+  "description": "Analysis of drug sites and mechanisms of action using isolated tissues, organs, and intact animal preparations.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 226A.",
+  "prerequisites_courses": [
+   "MCDB 226A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 226B",
+  "title": "Basic Pharmacology",
+  "units": "4",
+  "description": "Receptor signalling mechanisms; pharmacology of neurotransmitter and hormone receptors; molecular and cellular mechanisms of drug-receptor interactions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 226BL",
+  "title": "Pharmacology Laboratory II",
+  "units": "4",
+  "description": "An introduction to molecular and biochemical techniques in pharmacology; drug-receptor binding; receptor isolation; pharmacokinetics; techniques to evaluate potency, concentration and effects of hormones and their receptors.",
+  "prerequisites_raw": "Concurrent enrollment in MCDB 226B.",
+  "prerequisites_courses": [
+   "MCDB 226B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 229",
+  "title": "Protein Biochemistry",
+  "units": "2",
+  "description": "Discussion topics relevant to structure-function relationships in proteins including the chemical reactivity of amino acid side chains, posttranslational modifications, and the covalent and noncovalent interactions of multimeric structures. Case studies involve recent advances in structure-function relationships of mechanoproteins.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 230",
+  "title": "Gene Regulation",
+  "units": "2",
+  "description": "Mechanisms and regulation of transcription in prokaryotic and eukaryotic organisms and their viruses.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 231",
+  "title": "General Microbiology",
+  "units": "4",
+  "description": "Introduction to biological properties of microrganisms historical foundations of the field of microbiology; a study of major groups of microorganisms, their structure, physiology, cultivation, and pathogenicity.",
+  "prerequisites_raw": "MCDB 1A-AL or MCDB 1B-BL or EEMB 2-2L; Chemistry 107A-B and 108, or Chem 130A-B-C, or Chem 109A-B-C.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B",
+   "EEMB 2",
+   "EEMB 2L",
+   "CHEM 130A",
+   "CHEM 109A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 232",
+  "title": "Bacterial Pathogenesis",
+  "units": "3",
+  "description": "The mechanisms by which bacterial pathogens cause disease. Investigation ofthe bacterial gene products produced during infection to understand the metabolic, physiological, and genetic factors that contribute to the virulence of bacterial pathogens.",
+  "prerequisites_raw": "MCDB 101A-B.",
+  "prerequisites_courses": [
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 232L",
+  "title": "Bacterial Pathogenesis Laboratory",
+  "units": "3",
+  "description": "The latest molecular, biochemical, and genetic techniques available for theidentification of microbial gene products that contribute to infection. Study of the regulatory parameters that govern their expression.",
+  "prerequisites_raw": "MCDB 232 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "MCDB 232"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 233",
+  "title": "Molecular and Cellular Immunobiology",
+  "units": "3",
+  "description": "Introduction to, and evaluation of, the current concepts of immunology. Emphasis on immunoglobulin structure and function, cell-cell cooperation in the immune response, and the role of the major histocompatibility complex in regulating immune responsiveness.",
+  "prerequisites_raw": "MCDB 101A-B, 108A-B-C or equivalent.",
+  "prerequisites_courses": [
+   "MCDB 101A",
+   "MCDB 108A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 235",
+  "title": "Experimental Strategies in Molecular Genetics",
+  "units": "1",
+  "description": "Discussion of experimental strategies used to purify, analyze, and manipulate nucleic acids, isolate molecular clones from complex genomes, physically map genomes, analyze gene expression, and perform reverse genetics.",
+  "prerequisites_raw": "Undergraduate biochemistry (MCDB 108A-B-C) and genetics (MCDB 101A-B).",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB 101A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 236",
+  "title": "Cytokine Action and Viral Pathogenesis",
+  "units": "2",
+  "description": "Virology course designed to permit an in-depth consideration of selected aspects of the mechanisms of action of cytokines, with emphasis on the antiviral properties of interferons and their roles in host to viral infection and viral pathogenesis. Under faculty direction, graduate students will read additional primary literature and complete a research paper on a selected topic.",
+  "prerequisites_raw": "Graduate student standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 239",
+  "title": "Cellular Microbiology",
+  "units": "4",
+  "description": "Exploration of the mechanisms by which microbes and their eukaryotic hosts interact at the cellular and molecular levels. Focus is on experimental strategies to investigate these interactions and primary literature is discussed.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ }
+]

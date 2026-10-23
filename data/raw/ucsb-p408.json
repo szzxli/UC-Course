@@ -1,0 +1,282 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSTATW",
+  "code": "PSTATW 274",
+  "title": "Time Series",
+  "units": "4",
+  "description": "Stationary and non-stationary models, seasonal time series, ARMA models: calculation of ACF, PACF, mean and ACF estimation. Barlett's formula, model estimation: Yule-Walker estimates, ML method. Identification techniques, diagnostic checking, forecasting, spectral analysis, the periodogram. Current software and applications.",
+  "prerequisites_raw": "PSTAT 120A-B.",
+  "prerequisites_courses": [
+   "PSTAT 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 1",
+  "title": "Introduction to Psychology",
+  "units": "5",
+  "description": "An introduction to the subject matter and methods of psychology. Topics may include development, perception, memory, learning, cognition, affect, motivation, social behavior, personality, psychopathology and the physiological basis of behavior.",
+  "prerequisites_raw": "Students are required to be subjects in low-risk psychological experiments or completion of a short paper.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 10A",
+  "title": "Research Methods in Psychological & Brain Sciences",
+  "units": "5",
+  "description": "Introduction to the methodology and practice of scientific psychology so that students can critically evaluate research claims. Examines the multiple steps of the research process, including developing a testable hypothesis, operationalizing the hypothesis into independent and dependent variables, adopting an appropriate methodology for the research question (e.g., survey, experiment, observation), and analyzing and interpreting data, as well as considering the ethical context of research.",
+  "prerequisites_raw": "Psychology 1 with a minimum grade of C-; Psychology 5, PSTAT 5A, PSTAT 5LS, or COMM 87 with a minimum grade of C-; Math 3A, Math 34A, or Math 2A with a minimum grade of C-; Chem 1A-B or 2A-B; Students are required to be subjects in low-risk psychological experiments or completion of a short paper.",
+  "prerequisites_courses": [
+   "PSTAT 5A",
+   "PSTAT 5LS",
+   "COMM 87",
+   "MATH 3A",
+   "MATH 34A",
+   "MATH 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 10B",
+  "title": "Statistical Methods in Psychological & Brain Sciences",
+  "units": "5",
+  "description": "Introduction to key statistical concepts and their appropriate application so that students understand how to use statistics. Examines foundational statistical concepts of descriptive statistics, probability, and sampling distributions and introduces some of the major concepts and inferential statistical techniques used in psychological research to test hypotheses.",
+  "prerequisites_raw": "Psychology 10A with a minimum grade of C-; Students are required to be subjects in low-risk psychological experiments or completion of a short paper.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 90A",
+  "title": "First-Level Honors Seminar",
+  "units": "2",
+  "description": "Seminar for specially selected students. Advanced reading, writing, and discussion.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 90B",
+  "title": "First-Level Honors Seminar",
+  "units": "2",
+  "description": "Seminar for specially selected students. Advanced reading, writing, and discussion.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 90C",
+  "title": "First-Level Honors Seminar",
+  "units": "2",
+  "description": "Seminar for specially selected students. Advanced reading, writing, and discussion.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 92B",
+  "title": "Second-Level Honors Seminar",
+  "units": "2",
+  "description": "An advanced seminar designed exclusively for honors students in the pre-major. Course involves reading and discussion of selected topics in psychology.",
+  "prerequisites_raw": "Open to pre-psychology and pre-biopsychology honors students with consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 98",
+  "title": "Readings in Psychological & Brain Sciences",
+  "units": "0",
+  "description": "Readings in Psychological & Brain Sciences under the guidance of a faculty member in the department. Students wishing to enroll must prepare a short plan of study.",
+  "prerequisites_raw": "Consent of department and instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 99",
+  "title": "Independent Research in Psychological & Brain Sciences",
+  "units": "0",
+  "description": "Advanced independent research under the guidance of a faculty member in the department, including writing a research report or review.",
+  "prerequisites_raw": "Consent of department and instructor; completion of at least one quarter of Psychology 99P.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 99P",
+  "title": "Independent Research in Psychological & Brain Sciences",
+  "units": "0",
+  "description": "Independent research under the guidance of a faculty member in the department.",
+  "prerequisites_raw": "Consent of department and instuctor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 102",
+  "title": "Introduction to Social Psychology",
+  "units": "4",
+  "description": "Introduction to concepts, theory, and research within social psychology. Topics may include: person perception, attitude formation and change, interpersonal interactions, persuasion and influence, group processes, prejudice, and social values.",
+  "prerequisites_raw": "PSY 1 or upper-division standing.",
+  "prerequisites_courses": [
+   "PSY 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 105",
+  "title": "Introduction to Developmental Psychology",
+  "units": "4",
+  "description": "Introduction to concepts, theory, and research within developmental psychology. Topics may include: a focus on child development, and an examination of research and theory in major areas of child psychology.",
+  "prerequisites_raw": "PSY 1 or upper-division standing.",
+  "prerequisites_courses": [
+   "PSY 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 106",
+  "title": "Introduction to Biopsychology",
+  "units": "4",
+  "description": "Introduction to concepts, theory, and research within biopsychology. Topics may include: basics of nervous system signaling, sensory and motor systems, memory, homeostasis, reproduction, emotion, cognition and consciousness.",
+  "prerequisites_raw": "PSY 1 or upper-division standing.",
+  "prerequisites_courses": [
+   "PSY 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 108",
+  "title": "Introduction to Cognitive Psychology",
+  "units": "4",
+  "description": "Introduction to concepts, theory, and research within cognitive psychology. Topics may include: pattern recognition, attention, memory, language, reasoning and problem solving.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 109",
+  "title": "COLLEGE STUDENT DEVELOPMENT",
+  "units": "4",
+  "description": "Explores research in the field on factors that influence student success in college. Students read primary research articles and summarize research on student success factors. Students will apply the knowledge of the literature to create research-led programming and/or interventions aimed at increasing student involvement in high impact practices or mitigating negative factors that college students struggle with while in school.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 111",
+  "title": "Fundamentals of Behavioral Neuroscience",
+  "units": "4",
+  "description": "An examination of major concepts in behavioral neuroscience. Topics may include: molecular bases of neuron function, neurotransmitter systems, sensory and motor systems, neural bases of learning, memory, and motivated behavior.",
+  "prerequisites_raw": "PSY 3 or PSY 106; open to Psychological & Brain Sciences, Biopsychology and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 3",
+   "PSY 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 111L",
+  "title": "Laboratory in Behavioral Neuroscience",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to studying behavioral neuroscience.",
+  "prerequisites_raw": "PSY 111; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 113",
+  "title": "Affective Neuroscience",
+  "units": "4",
+  "description": "An overview of contemporary questions in affective sciences and affective neuroscience drawing from insights obtained in human and animal studies. Topics may include: the brain basis of emotion, affect-cognition interactions--including the bidirectional influence of affect on attention, memory, and cognitive control--and the relevance of those processes for psychopathology.",
+  "prerequisites_raw": "Open to PBS, Biopsych, and Interdisciplinary majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 113L",
+  "title": "Complex Systems with Mathematica",
+  "units": "5",
+  "description": "Neurobiology, psychology, and social sciences study systems that are inherently complex and can't be broken down into simple parts without losing the systems' key properties. New approaches based on complexity theory have revealed that the structure and behavior of such systems are often based on surprisingly simple rules. Interestingly, our brain has virtually no intuition for this hidden simplicity. The course combines basic theory and hands-on computer modeling to build a deeper understanding for these systems. While no prior computer programming experience is required, students are expected to develop coding skills as part of the course.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 115",
+  "title": "Neuropharmacology",
+  "units": "4",
+  "description": "An overview of theory and research in neuropharmacology, including an examination of the molecular bases of signaling processes of the nervous system and the bases of drug action.",
+  "prerequisites_raw": "PSY 111; open to Psychological & Brain Sciences, Biopsychology, Pharmacology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 116",
+  "title": "Principles of Learning",
+  "units": "4",
+  "description": "An overview of theory and research regarding the basic mechanisms of learning and memory in humans and non-human animals. Topics may include: classical and operant conditioning, stimulus control, schedules of reinforcement, types of memory, animal cognition, computational models of learning.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 117",
+  "title": "Memory",
+  "units": "4",
+  "description": "An overview of theory and research in memory. Topics may include: how knowledge is represented internally, cognitive processes involved in remembering, and an examination of different memory systems.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 117L",
+  "title": "Laboratory in Memory and Cognition",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to the study of human memory and cognition.",
+  "prerequisites_raw": "PSY 108 or 117; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 108",
+   "PSY 117"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 118L",
+  "title": "Laboratory in Attention",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to the study of the cognitive and neural mechanisms of attention.",
+  "prerequisites_raw": "PSY 108, 123, 129, or 130; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 108",
+   "PSY 123",
+   "PSY 129",
+   "PSY 130"
+  ]
+ }
+]

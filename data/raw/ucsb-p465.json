@@ -1,0 +1,418 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 151S",
+  "title": "Senior One-Person Shows",
+  "units": "3",
+  "description": "Individually researched performance projects.",
+  "prerequisites_raw": "Theater 151C.",
+  "prerequisites_courses": [
+   "THTR 151C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 152A",
+  "title": "Introduction to Stage Directing",
+  "units": "4",
+  "description": "Basic principles of directing. Lectures, demonstrations, and small practical projects offer the non-specialist and potential directing concentration student a broad understanding of the directorial process.",
+  "prerequisites_raw": "Upper-division standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 152B",
+  "title": "Techniques of Directing",
+  "units": "4",
+  "description": "Laboratory in directorial scene work. Students take on scenes from contemporary plays. Focus is on text analysis, visual storytelling, and collaboration with actors.",
+  "prerequisites_raw": "Theater 1, 14, 19, and 152.",
+  "prerequisites_courses": [
+   "THTR 1",
+   "THTR 14",
+   "THTR 19"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 152C",
+  "title": "Advanced Directing",
+  "units": "4",
+  "description": "Advanced directing techniques and scene work, including departures from realism. Students also learn about collaboration with designers.",
+  "prerequisites_raw": "Theater 152B.",
+  "prerequisites_courses": [
+   "THTR 152B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 152D",
+  "title": "Directorial Production",
+  "units": "4",
+  "description": "Full directorial responsibility for the mounting of a one-act play.",
+  "prerequisites_raw": "Theater 152C.",
+  "prerequisites_courses": [
+   "THTR 152C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 152E",
+  "title": "Projects in Directing",
+  "units": "4",
+  "description": "Full directorial responsibility for the mounting of a second one-act play or other special project.",
+  "prerequisites_raw": "Theater 152D.",
+  "prerequisites_courses": [
+   "THTR 152D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 153P",
+  "title": "Projects in Design and Production",
+  "units": "0",
+  "description": "Special projects in each area of concentration.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 160C",
+  "title": "Applied Theater/The Artist as Activist - Basics",
+  "units": "4",
+  "description": "The Artist as Activist Basics introduces the student to the fundamentals of Applied Theater through examination of theory, history and imagining as a preparation for application and fieldwork. The course prepares the student to implement a project in the community. The project can be teaching or performance based. In addition to developing as researchers and theater activists, students will learn about the producing, promotional and ethical dimensions of self-starting a Theater & Community initiative.",
+  "prerequisites_raw": "Theater 5 and instructor approval.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 160D",
+  "title": "Applied Theater/The Artist as Activist - Application",
+  "units": "4",
+  "description": "The Artist as Activist Application is the follow-up course to The Artist as Activist Basics. The application course is individualized instruction with a fieldwork component. The student will work closely under the supervision of faculty on a community project. This project can be teaching or performance based. The Artist as Activist Application will only be offered to those students who show potential to work constructively in the community.",
+  "prerequisites_raw": "Theater 160C and instructor approval.",
+  "prerequisites_courses": [
+   "THTR 160C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 175",
+  "title": "Summer Theatre Lab",
+  "units": "4",
+  "description": "Workshops in playwriting, solo performance, acting, directing, and choreography. Students develop their own projects and take master classes with nationally prominent guest artists. Students also have the opportunity to perform in projects by guest artists.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 180A",
+  "title": "American Drama to 1940",
+  "units": "4",
+  "description": "History of the American drama and theater from early years to 1940. Important plays, performers, institutions, and styles of production are given selective attention.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 180B",
+  "title": "American Drama 1940 to Present",
+  "units": "4",
+  "description": "History of the American drama and theater from 1940 to the present. Important plays, performers, institutions, and styles of production are given selective attention.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 180C",
+  "title": "Contemporary American Drama and Theater",
+  "units": "4",
+  "description": "Close study of major playwrights, directors, solo performance artists, and other artists working in the contemporary American theater, mainstream and avant-garde. Writing assignments focus on developing critical arguments about new work.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 180D",
+  "title": "Latin American Theater and Performance",
+  "units": "4",
+  "description": "Survey of Hispanic-American drama and theory including authors like Carballido, Gambaro, Marques, Triana, Valdez, and others.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 180E",
+  "title": "Culture Clash: Studies in U.S. Latino Theater",
+  "units": "4",
+  "description": "A survey, in English, of the dramatic literature of U.S. Latinos from 1965 to the present. Includes history and criticism of the theater of Chicano, Puerto Rican, Cuban, and other Americans of Hispanic origin in the U.S.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 180F",
+  "title": "Asian American Theater",
+  "units": "4",
+  "description": "Overview of Asian American theater and its political and artistic achievements, from foundational Asian American theater companies and playwrights to contemporary performance artists. Issues addressed include race and ethnicity, gender and sexuality, and intergenerational conflict.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 180G",
+  "title": "Race, Gender, and Performance",
+  "units": "4",
+  "description": "Comparative analysis of contemporary American plays and performances by artists of diverse gender, sexual, ethnic, and racial backgrounds. Students learn to perceive and critically respond to race and gender issues in plays and the theatrical production.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181",
+  "title": "National Studies in European Theater and Drama",
+  "units": "4",
+  "description": "Special topics in European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181B",
+  "title": "British Theater and Drama",
+  "units": "4",
+  "description": "Special topics in British theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181F",
+  "title": "French Theater and Drama",
+  "units": "4",
+  "description": "Special topics in French theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181G",
+  "title": "German Theater and Drama",
+  "units": "4",
+  "description": "Special topics in German theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181RU",
+  "title": "Russian Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Russian theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181S",
+  "title": "National Studies in Spanish Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Spanish theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181SR",
+  "title": "Russian Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Russian theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 181ST",
+  "title": "Special Topics European Theater and Drama",
+  "units": "4",
+  "description": "Special topics in European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182",
+  "title": "Transnational Studies in European Theater and Drama",
+  "units": "4",
+  "description": "Special topics in transnational studies in European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182A",
+  "title": "Ancient Theater and Drama",
+  "units": "4",
+  "description": "Special topics in ancient European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182BR",
+  "title": "Transnational Studies in European Theater and Drama",
+  "units": "4",
+  "description": "Special topics in transnational studies in European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182M",
+  "title": "Modern Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Modern European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182MC",
+  "title": "Modern Contemporary",
+  "units": "4",
+  "description": "Special topics in Modern Contemporary European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182MD",
+  "title": "Medieval Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Medieval European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182N",
+  "title": "Neoclassical Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Neoclassical European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182RM",
+  "title": "Romantic Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Romantic European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182RN",
+  "title": "Renaissance Theater and Drama",
+  "units": "4",
+  "description": "Special topics in Renaissance European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 182ST",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Special topics in transnational studies in European theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 183",
+  "title": "Asian Theater and Performance",
+  "units": "4",
+  "description": "Special topics in Asian theater and performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 183EA",
+  "title": "East Asian Theater Performance",
+  "units": "4",
+  "description": "Special topics in East Asian Theater Performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 183SA",
+  "title": "South Asian Theater and Performance",
+  "units": "4",
+  "description": "Special topics in South Asian theater and performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 183SE",
+  "title": "South and Southeast Asian Theater and Drama",
+  "units": "4",
+  "description": "Special topics in South and Southeast Asian theater and drama.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 183ST",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Special topics in Asian theater and performance.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

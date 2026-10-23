@@ -1,0 +1,314 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 217B",
+  "title": "The Many Body Problem in Condensed Matter Physics",
+  "units": "4",
+  "description": "Field theoretic methods as applied to (non-relativistic) condensed matter systems. Green's functions and diagrammatic techniques applied to various examples of interacting many body systems, including fermions, bosons, and spins. Relationship of theoretical quantities to physical measurements.",
+  "prerequisites_raw": "Physics 215C.",
+  "prerequisites_courses": [
+   "PHYS 215C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 219",
+  "title": "Statistical Mechanics",
+  "units": "4",
+  "description": "Fundamental principles of classical and quantum statistics. Non-interacting Boltzmann, Bose, and Fermi systems. Virial expansion and other approaches to interacting systems. Phase transitions.",
+  "prerequisites_raw": "Physics 205, 215A, and 119B or equivalent taken at another institution.",
+  "prerequisites_courses": [
+   "PHYS 205",
+   "PHYS 215A",
+   "PHYS 119B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 220",
+  "title": "Advanced Topics in Statistical Mechanics",
+  "units": "4",
+  "description": "Course will cover some of the following topics: A) critical phenomena-phase diagrams, first and second order phase transitions, scalingtheory, high-temperature expansions, renormalization group; B) nonequilibrium statistical mechanics-stochastic processes. Langevin equations, fluctuation-dissipation theorem, master equations, fluid dynamics.",
+  "prerequisites_raw": "Physics 219 or equivalent.",
+  "prerequisites_courses": [
+   "PHYS 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 221A",
+  "title": "Relativistic Quantum Field Theory",
+  "units": "4",
+  "description": "Introduction to the theory of Lorentz covariant quantized fields. Global and local conservation laws. Path integral formulation. Applications to quantum electrodynamics, quantum chromodynamics, and electroweak interactions. Other possible topics include grand unification, the renormalization group, anomolies, current algebra and supersymmetry.",
+  "prerequisites_raw": "Physics 205, Physics 210A, Physics 210B, Physics 215A, Physics 215B, and Physics 215C; or consent of instructor.",
+  "prerequisites_courses": [
+   "PHYS 205",
+   "PHYS 210A",
+   "PHYS 210B",
+   "PHYS 215A",
+   "PHYS 215B",
+   "PHYS 215C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 221B",
+  "title": "Relativistic Quantum Field Theory",
+  "units": "4",
+  "description": "Introduction to the theory of Lorentz covariant quantized fields. Global and local conservation laws. Path integral formulation. Applications to quantum electrodynamics, quantum chromodynamics, and electroweak interactions. Other possible topics include grand unification, the renormalization group, anomolies, current algebra and supersymmetry.",
+  "prerequisites_raw": "Physics 221A.",
+  "prerequisites_courses": [
+   "PHYS 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 221C",
+  "title": "Relativistic Quantum Field Theory",
+  "units": "4",
+  "description": "Introduction to the theory of Lorentz covariant quantized fields. Global and local conservation laws. Path integral formulation. Applications to quantum electrodynamics, quantum chromodynamics, and electroweak interactions. Other possible topics include grand unification, the renormalization group, anomolies, current algebra and supersymmetry.",
+  "prerequisites_raw": "Physics 221B.",
+  "prerequisites_courses": [
+   "PHYS 221B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 223A",
+  "title": "Concepts and Phenomena of Condensed Matter Physics",
+  "units": "4",
+  "description": "Lattice and electron dynamics. Elementary excitations and collective phenomena. Transport properties. Disorder and localization. Long-range order and broken symmetries. Magnetism, superconductivity and liquid crystals. Properties and structures of polymers, membranes, and self-assembling systems.",
+  "prerequisites_raw": "Physics 219 and 215C.",
+  "prerequisites_courses": [
+   "PHYS 219",
+   "PHYS 215C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 223B",
+  "title": "Concepts and Phenomena of Condensed Matter Physics",
+  "units": "4",
+  "description": "Lattice and electron dynamics. Elementary excitations and collective phenomena. Transport properties. Disorder and localization. Long-range order and broken symmetries. Magnetism, superconductivity and liquid crystals. Properties and structures of polymers, membranes, and self-assembling systems.",
+  "prerequisites_raw": "Physics 219 and 215C.",
+  "prerequisites_courses": [
+   "PHYS 219",
+   "PHYS 215C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 223C",
+  "title": "Concepts and Phenomena of Condensed Matter Physics",
+  "units": "4",
+  "description": "Lattice and electron dynamics. Elementary excitations and collective phenomena. Transport properties. Disorder and localization. Long-range order and broken symmetries. Magnetism, superconductivity and liquid crystals. Properties and structures of polymers, membranes, and self-assembling systems.",
+  "prerequisites_raw": "Physics 219 and 215C.",
+  "prerequisites_courses": [
+   "PHYS 219",
+   "PHYS 215C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 225A",
+  "title": "Elementary Particle Physics",
+  "units": "0",
+  "description": "The phenomenology of the standard model of particle physics. QED and QCD process.",
+  "prerequisites_raw": "Physics 125, 215C.",
+  "prerequisites_courses": [
+   "PHYS 125",
+   "PHYS 215C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 225B",
+  "title": "Elementary Particle Physics",
+  "units": "0",
+  "description": "Weak interactions; neutrino physics; C, P, and CP violation; electroweak gauge theory and symmetry breaking. Design of detectors and experiments; searches for new phenomena.",
+  "prerequisites_raw": "Physics 225A.",
+  "prerequisites_courses": [
+   "PHYS 225A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 226",
+  "title": "Statistical Techniques in Particle Physics",
+  "units": "4",
+  "description": "Bayesian and Frequentist approaches. Probability distributions used in particle physics. Hypothesis testing. Data fitting. Limit extractions. Confidence/credible intervals. Monte Carlo methods. Applications to realistic problems from current research.",
+  "prerequisites_raw": "None for graduate students. Consent of the instructor for undergraduates students.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 228",
+  "title": "Atomic and Molecular Physics",
+  "units": "4",
+  "description": "A survey of major topics in modern atomic physics. Topics in atomic structure include general features of atomic spectra, fine structure, hyperfine structure, the Lamb shift, hydrogen, helium, alkali atoms, complex atoms, excited states, and synthetic atoms. Topics in atom-field interactions and atom atom interactions include the DC Stark effect, the Zeeman effect, transitions, two-level systems, stimulated and spontaneous emission, selection rules, lifetimes, line shapes, broadening mechanisms, the AC Stark effect, multiphoton processes, scattering channels, and Feshbach resonances. Also coversmodern techniques including spectroscopy, laser cooling, atom traps, quantum gases, cold molecules, trapped ions, and atomic clocks.",
+  "prerequisites_raw": "Physics 215A and Phys 210A; or the consent of the instructor.",
+  "prerequisites_courses": [
+   "PHYS 215A",
+   "PHYS 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 229A",
+  "title": "Gauge Theories of Elementary Particles",
+  "units": "4",
+  "description": "Quantum theory of non-abelian gauge fields. Local, global, and spontaneous symmetry breaking. Collective phenomena; solitons, instantons, and magnetic monopoles. Effective field theories. Lattice gauge theory. applications to the standard model of elementary particles.",
+  "prerequisites_raw": "Physics 221A-B-C.",
+  "prerequisites_courses": [
+   "PHYS 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 229B",
+  "title": "Gauge Theories of Elementary Particles",
+  "units": "4",
+  "description": "Quantum theory of non-abelian gauge fields. Local, global, and spontaneous symmetry breaking. Collective phenomena; solitons, instantons, and magnetic monopoles. Effective field theories. Lattice gauge theory. Applications to the standard model of elementary particles.",
+  "prerequisites_raw": "Physics 221A-B-C.",
+  "prerequisites_courses": [
+   "PHYS 221A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 230A",
+  "title": "String Theory",
+  "units": "4",
+  "description": "Introduction to string theory. Bosonic and super string theories and their spectra. String perturbation theory and conformal field theory. Nonlinear sigma models and spacetime structure. String compactifications and unification of forces. Non-perturbative results and methods; dualities and branes.",
+  "prerequisites_raw": "Physics 221B and 231B.",
+  "prerequisites_courses": [
+   "PHYS 221B",
+   "PHYS 231B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 230B",
+  "title": "String Theory",
+  "units": "4",
+  "description": "Introduction to string theory. Bosonic and super string theories and their spectra. String perturbation theory and conformal field theory. Nonlinear sigma models and spacetime structure. String compactifications and unification of forces. Non-perturbative results and methods; dualities and branes.",
+  "prerequisites_raw": "Physics 221B and 231B.",
+  "prerequisites_courses": [
+   "PHYS 221B",
+   "PHYS 231B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 231A",
+  "title": "General Relativity",
+  "units": "4",
+  "description": "Gravity as geometry, differential geometry, Einstein's equation, relativistic stars, gravitational collapse, black holes, cosmology, gravitational radiation, and special topics.",
+  "prerequisites_raw": "Physics 210A-B.",
+  "prerequisites_courses": [
+   "PHYS 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 231B",
+  "title": "General Relativity",
+  "units": "4",
+  "description": "Gravity as geometry, differential geometry, Einstein's equation, relativistic stars, gravitational collapse, black holes, cosmology, gravitational radiation, and special topics.",
+  "prerequisites_raw": "Physics 210A-B.",
+  "prerequisites_courses": [
+   "PHYS 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 231C",
+  "title": "General Relativity",
+  "units": "4",
+  "description": "Gravity as geometry, differential geometry, Einstein's equation, relativistic stars, gravitational collapse, black holes, cosmology, gravitational radiation, and special topics.",
+  "prerequisites_raw": "Physics 210A-B.",
+  "prerequisites_courses": [
+   "PHYS 210A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 232",
+  "title": "Stellar Structure and Evolution",
+  "units": "4",
+  "description": "Physics of stellar structure, equations of state and heat transport. Birth of stars and physics of brown dwarfs. Thermonuclear burning and main sequence stellar structure. Evolution of stars and mass loss. Origin, physical structure, and cooling of compact objects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 233",
+  "title": "The Interstellar Medium",
+  "units": "4",
+  "description": "Physical processes that regulate the state of diffuse gas in and around galaxies: Ionization and thermal equilibrium; absorption line studies; spectral line formation; properties of dust grains and extinction; molecular gas and star formation; supernova explosions and hydrodynamic shocks.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 234",
+  "title": "High Energy Astrophysics",
+  "units": "4",
+  "description": "Accretion power in a range of astrophysical contexts, from quasars to galactic black holes. Rapid release of thermonuclear energy, Type I X-ray bursts, classical novae, Type Ia supernovae. Relativistic jets from black holes, non-thermal radiation processes, physics of gamma-ray bursts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 235",
+  "title": "Extragalactic Astrophysics",
+  "units": "4",
+  "description": "Nebular astrophysics, active galactic nuclei, supermassive black holes, galaxies, clusters, dark matter, gravitational lensing, the intergalactic medium and galaxy formation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 236",
+  "title": "Cosmology",
+  "units": "4",
+  "description": "Friedmann models, distance measures, cosmological parameters, thermal history of the universe, cosmological density fields, structure formation (top-hat model, Press-Schechter), big bang nucleosynthesis, cosmic microwave background.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 237",
+  "title": "Galactic Dynamics",
+  "units": "4",
+  "description": "Stellar dynamics, Jeans equations, potential theory, orbit theory, linear stability analysis, kinetic theory, dynamical friction, applications to star clusters, galaxy morphology and mergers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

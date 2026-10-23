@@ -1,0 +1,343 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 29",
+  "title": "Introduction to Computer Programming for the Physical Sciences",
+  "units": "2",
+  "description": "An introduction to programming and data analysis for the physical sciences. Topics include syntax, goodcoding practice, basic algorithmic structure, plotting, basic data analysis, numerical root-finding and integration.",
+  "prerequisites_raw": "Mathematics 2B or 3B or Physics 8 or AP Calculus BC Exam with a score of 5",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "PHYS 8",
+   "MATH 3B",
+   "PHYS 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 98",
+  "title": "Readings in Physics",
+  "units": "0",
+  "description": "Critical reviews and discussions of selected physics subjects, conducted under the supervision of a Physics faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 99",
+  "title": "Introduction to Physics Research",
+  "units": "0",
+  "description": "Independent research conducted under the guidance of a Physics faculty member. Topic and scope varies, to be specified by student and supervisory faculty member prior to registration.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 100A",
+  "title": "Methods of Theoretical Physics",
+  "units": "4",
+  "description": "Linear Algebra: Vector spaces, operators, spectral decomposition. Topics may include Sturm-Liouville equations, special functions. Fourier series and Fourier transforms, Dirac delta-function.",
+  "prerequisites_raw": "Mathematics 6B with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 100B",
+  "title": "Methods of Theoretical Physics",
+  "units": "4",
+  "description": "Analytic functions, contour integrals and branch cuts. Conformal mapping. Laplace transforms. Asymptotic series and the gamma function. Greens functions.",
+  "prerequisites_raw": "Mathematics 5C or 6B with a grade of C- or better.",
+  "prerequisites_courses": [
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 103",
+  "title": "Intermediate Mechanics and Special Relativity",
+  "units": "4",
+  "description": "Newtonian mechanics in 3D. Conservation laws. Complex numbers. Oscillations. Inertial reference frames, Lorentz transformations, relativistic momentum and energy, four-vectors.",
+  "prerequisites_raw": "Physics 2 or 22 with a minimum grade of C-. Mathematics 6A (may be taken concurrently)",
+  "prerequisites_courses": [
+   "PHYS 2",
+   "MATH 6A",
+   "PHYS 22"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 104",
+  "title": "Advanced Mechanics",
+  "units": "4",
+  "description": "Calculus of variations. Lagrangian and Hamiltonian mechanics. Central force problems and collision theory. Non-inertial reference frames. Coupled oscillations and waves.",
+  "prerequisites_raw": "Physics 103 with a grade of C- or better.",
+  "prerequisites_courses": [
+   "PHYS 103"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 106",
+  "title": "Nonlinear Phenomena",
+  "units": "4",
+  "description": "An introduction to nonlinear phenomena. Flows and bifurcations in one and two dimensions, chaos, fractals, strange attractors. Applications to physics, engineering, chemistry, and biology.",
+  "prerequisites_raw": "Physics 105A or Physics 103; or ME 163 or upper-division standing in ECE.",
+  "prerequisites_courses": [
+   "PHYS 103",
+   "ME 163"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 110A",
+  "title": "Electromagnetism",
+  "units": "4",
+  "description": "Electrostatics, Laplace's equation, method of images, separation of variables, multipole expansion, magnetostatics, electric and magnetic fields in matter.",
+  "prerequisites_raw": "Physics 5 or 25 with a minimum grade of C-; Mathematics 6B with minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "MATH 6B",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 110B",
+  "title": "Electromagnetism",
+  "units": "4",
+  "description": "Electrodynamics, Maxwells equations, conservation laws, electromagnetic waves, potentials and fields for moving charges, radiation, special relativity.",
+  "prerequisites_raw": "Physics 110A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 115A",
+  "title": "Quantum Mechanics",
+  "units": "4",
+  "description": "The postulates of quantum mechanics, the Schrdinger equation and its consequences, the quantum harmonic oscillator and other one dimensional quantum systems, Hilbert Space and Dirac notation, the hydrogen atom.",
+  "prerequisites_raw": "Physics 5 or 25 and Physics 100A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 100A",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 115B",
+  "title": "Quantum Mechanics",
+  "units": "4",
+  "description": "Spin and angular momentum, Clebsch-Gordan coefficients, identical particles, symmetries and conservation laws, time independent perturbation theory.",
+  "prerequisites_raw": "Physics 115A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 115C",
+  "title": "Quantum Mechanics",
+  "units": "4",
+  "description": "The variational principle, time dependent perturbation theory, the adiabatic theorem. Topics from: WKB approximation, the Dirac equation, Berrys phase, Bells inequality, quantum cryptography, quantum computation.",
+  "prerequisites_raw": "Physics 115B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 115B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 118",
+  "title": "Group Theory for Physicists",
+  "units": "4",
+  "description": "The emphasis is on developing some intuition about the role of symmetries in physics, rather than going through rigorous mathematical proofs. Theorems will be proved at the level of rigor customary among physicists.",
+  "prerequisites_raw": "Physics PHYS 110A",
+  "prerequisites_courses": [
+   "PHYS 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 119A",
+  "title": "Thermal and Statistical Physics",
+  "units": "4",
+  "description": "Principles of statistical physics, entropy, large numbers, thermodynamic principles, microcanonical ensemble, ideal gas, free energy, chemical potential, selected applications. Canonical ensemble, if time permits.",
+  "prerequisites_raw": "PHYS 22 and MATH 6B with a minimum grade of C-",
+  "prerequisites_courses": [
+   "PHYS 22",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 119B",
+  "title": "Thermal and Statistical Physics",
+  "units": "4",
+  "description": "Canonical ensemble and partition functions, grand canonical ensemble, quantum statistics, Fermi-Dirac, Bose-Einstein distribution laws. Topics from: Brownian motion, Langevin equation, dissipation and fluctuations, elementary kinetic theory, weakly interacting gases or mean field theory of magnetism, other topics illustrative of the breadth of the subject and/or selected applications.",
+  "prerequisites_raw": "Physics 115A and Physics 119A with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 115A",
+   "PHYS 119A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 120",
+  "title": "Physics of California Waves, Weather, Quakes and Fires",
+  "units": "4",
+  "description": "Why do the waves hit the beach every five seconds? This course teaches students the relevant fluid dynamics and allows them to apply it to natural phenomena of California: seismic waves, tsunamis, maximum tree heights, fluid flow around fish.",
+  "prerequisites_raw": "Physics 5 or 25.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 123A",
+  "title": "Condensed Matter Physics",
+  "units": "4",
+  "description": "Classification of solids; crystal symmetry; thermal, electronic, and magnetic properties of metals, semiconductors, and insulators; band theory of electronic states; wave scattering by crystals; semiconductor devices.",
+  "prerequisites_raw": "Physics 115A with at least a C- or better, and upper-division standing.",
+  "prerequisites_courses": [
+   "PHYS 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 123B",
+  "title": "Condensed Matter Physics",
+  "units": "4",
+  "description": "Tight binding model, topological insulator, magnetism, phase transition, introduction to superconductivity.",
+  "prerequisites_raw": "Physics 115B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 115B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 125",
+  "title": "Elementary Particle Physics",
+  "units": "4",
+  "description": "Introduction to quarks and leptons and the phenomenology of the particles they comprise; fundamental symmetries, invariance principles, and the associated quantum numbers, strong, electromagnetic, and weak interactions and their relationship.",
+  "prerequisites_raw": "Physics 115B.",
+  "prerequisites_courses": [
+   "PHYS 115B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 126L",
+  "title": "Laboratory Optics",
+  "units": "5",
+  "description": "An introduction to optical phenomena and the methods and instrumentation used to generate, measure, and manipulate light. Experiments will cover imaging and aberrations, coherence, diffraction, interference, interferometry, Fourier optics, reflection and polarization, spectroscopy, lasers, fiber optics, and optical instruments.",
+  "prerequisites_raw": "Physics 141 with a grade of C- or better, Physics 29 with a grade of C- or better, and Mathematics 6B with a grade of C- or better.",
+  "prerequisites_courses": [
+   "PHYS 141",
+   "PHYS 29",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 127AL",
+  "title": "Analog Electronics",
+  "units": "4",
+  "description": "Passive circuits, diodes, transistors, field effect transistors, operational amplifiers, feedback and control. Design, building and testing of analog circuits.",
+  "prerequisites_raw": "Physics 13CL or 20CL and Math 3B with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 13CL",
+   "MATH 3B",
+   "PHYS 20CL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 127BL",
+  "title": "Digital Electronics",
+  "units": "4",
+  "description": "Gates, combinational and sequential logic, ?multiplexers, counters, shift registers, memory and microprocessors. Design, building and testing of digital circuitry, including a modern microprocessor based computer system.",
+  "prerequisites_raw": "Physics 127AL with a minimum grade of C-.",
+  "prerequisites_courses": [
+   "PHYS 127AL"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 127L",
+  "title": "ELECTRON SCIENTIST",
+  "units": "2",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 128AL",
+  "title": "Advanced Experimental Physics",
+  "units": "4",
+  "description": "Selected experiments in physics, i.e. saturated absorption spectroscopy, muon lifetime measurements, pulsed nuclear magnetic resonance, Mossbauer effect. Develop skills in detailing observations in a scientific notebook, data collection and error analysis, operating complex physical apparatus, and scientific communication.",
+  "prerequisites_raw": "Physics 13CL or Physics 20CL or Physics CS 15C. Physics 115A (may be taken concurrently).",
+  "prerequisites_courses": [
+   "PHYS 13CL",
+   "PHYS 20CL",
+   "PHYS 115A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 129L",
+  "title": "Introduction to Scientific Computation",
+  "units": "4",
+  "description": "A survey of computers, programming, and computational techniques for the natural sciences. Physical foundations of computation, binary arithmetic, computer architecture, programming languages, operating systems, UNIX shell and filesystems. Programming tools, variables and data structures, expressions, control flow, files, functions and scoping, objects, error handling, debugging, graphics, text processing, networking, data acquisition and transfer. Mathematics and algorithms for data processing and analysis, numerical methods, random numbers and simulation.",
+  "prerequisites_raw": "Physics 5 or 25 with a grade of C- or better, and Mathematics 6B with a grade of C- or better; Physics 29 with a grade of C- or better.",
+  "prerequisites_courses": [
+   "PHYS 5",
+   "MATH 6B",
+   "PHYS 29",
+   "PHYS 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHYS",
+  "code": "PHYS 131",
+  "title": "Gravitation and Relativity",
+  "units": "4",
+  "description": "An introduction to Einstein's general relativity, the spacetime of special relativity, the principle of equivalence, gravity as geometry, the description of spacetime geometry, the spacetime of a relativistic star, solar system test of general relativity, gravitational collapse, black holes, cosmology.",
+  "prerequisites_raw": "Physics 103-104 with a minimum grade of C- in each.",
+  "prerequisites_courses": [
+   "PHYS 103",
+   "PHYS 104"
+  ]
+ }
+]

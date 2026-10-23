@@ -1,0 +1,468 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 147",
+  "title": "Philosophy of Economics",
+  "units": "4",
+  "description": "An introduction to conceptual and methodological issues surrounding modern economics. Topics may include the scientific status of economics, the use of economic models, the connection between economics and moral theory, and notions of preference, choice, well-being, and rationality in economics.",
+  "prerequisites_raw": "One prior course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 149",
+  "title": "Action Theory",
+  "units": "4",
+  "description": "An examination of philosophical topics connected with human action, e.g. the role of intentions and desires in the explanation and justification of action and the nature of practical reason.",
+  "prerequisites_raw": "One prior course from Philosophy 100B, 100C, 100D, and 100E; or, two prior course in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 150A",
+  "title": "Advanced Topics in Ethical Theory",
+  "units": "4",
+  "description": "Advanced topics in ethical theory. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Two courses from Philosophy 100A or 100B or 100C or 100D or 100E or 100F.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E",
+   "PHIL 100F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 150B",
+  "title": "Advanced Topics in Theory of Knowledge",
+  "units": "4",
+  "description": "Advanced topics in theory of knowledge. Specific subject matter is selected by the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Two courses from Philosophy 100A or 100B or 100C or 100D or 100E or 100F.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E",
+   "PHIL 100F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 150C",
+  "title": "Advanced Topics in Philosophy of Language",
+  "units": "4",
+  "description": "Specific subject matter selected by the instructor. Descriptions available in the department office before each quarter.",
+  "prerequisites_raw": "Two courses from Philosophy 100A or 100B or 100C or 100D or 100E or 100F.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E",
+   "PHIL 100F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 150D",
+  "title": "Advanced Topics in Philosophy of Mind",
+  "units": "4",
+  "description": "Advanced topics in philosophy of mind. Specific subject matter is selected the instructor and descriptions are available in the department office before each quarter.",
+  "prerequisites_raw": "Two courses from Philosophy 100A or 100B or 100C or 100D or 100E or 100F.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E",
+   "PHIL 100F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 150E",
+  "title": "Advanced Topics in Metaphysics",
+  "units": "4",
+  "description": "Advanced topics in metaphysics. Specific subject matter is selected by the instructor and descriptions are available in the department before each quarter.",
+  "prerequisites_raw": "Two courses from Philosophy 100A or 100B or 100C or 100D or 100E or 100F.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E",
+   "PHIL 100F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 151",
+  "title": "Pre-Socratics",
+  "units": "4",
+  "description": "A study of the pre-Socratic philosophers.",
+  "prerequisites_raw": "One prior upper-division course in Philosophy and one additional course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 152",
+  "title": "Plato",
+  "units": "4",
+  "description": "The philosophy of Plato.",
+  "prerequisites_raw": "One prior upper-division course in Philosophy and one additional course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 153",
+  "title": "Aristotle",
+  "units": "4",
+  "description": "The philosophy of Aristotle.",
+  "prerequisites_raw": "One prior upper-division course in Philosophy and one additional course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 154",
+  "title": "Socrates",
+  "units": "4",
+  "description": "Socrates and his place in Greek philosophy. The course focuses mainly on Plato's Socratic dialogues but may also treat Socrates' predecessors (principally the Sophists) and contemporary views of Socrates in other authors.",
+  "prerequisites_raw": "One prior upper-division course in Philosophy and one additional course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 156",
+  "title": "Hellenistic Philosophy",
+  "units": "4",
+  "description": "An examination of the thought of major Greek philosophers of the Hellenistic period.",
+  "prerequisites_raw": "One prior upper-division course in Philosophy and one additional course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 157",
+  "title": "MEDIEVAL PHILOSOPHY",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 160",
+  "title": "Descartes",
+  "units": "4",
+  "description": "The philosophy of Descartes.",
+  "prerequisites_raw": "Philosophy 20B or 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 20B",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 161",
+  "title": "Spinoza",
+  "units": "4",
+  "description": "The philosophy of Spinoza.",
+  "prerequisites_raw": "Philosophy 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 162",
+  "title": "Leibniz",
+  "units": "4",
+  "description": "The philosophy of Leibniz.",
+  "prerequisites_raw": "Philosophy 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 163",
+  "title": "Locke",
+  "units": "4",
+  "description": "The philosophy of John Locke.",
+  "prerequisites_raw": "Philosophy 20B or 20C or 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 20B",
+   "PHIL 20C",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 164",
+  "title": "Berkeley",
+  "units": "4",
+  "description": "The philosophy of Berkeley.",
+  "prerequisites_raw": "Philosophy 20B or 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 20B",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 165",
+  "title": "Hume",
+  "units": "4",
+  "description": "The philosophy of David Hume.",
+  "prerequisites_raw": "One prior upper-division course in Philosophy and one additional course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 166A",
+  "title": "Kant's Theoretical Philosophy",
+  "units": "4",
+  "description": "An examination of Kant’s theoretical philosophy.",
+  "prerequisites_raw": "Two prior courses from Philosophy 20B, 20C, 100B, 100D, 100E or 100F.",
+  "prerequisites_courses": [
+   "PHIL 20B",
+   "PHIL 20C",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E",
+   "PHIL 100F"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 166B",
+  "title": "Kant's Practical Philosophy",
+  "units": "4",
+  "description": "An examination of Kant’s practical philosophy.",
+  "prerequisites_raw": "Philosophy 100A or two prior courses in Philosophy",
+  "prerequisites_courses": [
+   "PHIL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 167",
+  "title": "Hobbes",
+  "units": "4",
+  "description": "This course examines the philosophy of Thomas Hobbes (1588-1679).",
+  "prerequisites_raw": "Philosophy 20B or 20C or 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 20B",
+   "PHIL 20C",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 168",
+  "title": "Nietzsche",
+  "units": "4",
+  "description": "The philosophy of Nietzsche.",
+  "prerequisites_raw": "Philosophy 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 170",
+  "title": "Wittgenstein",
+  "units": "4",
+  "description": "The philosophy of Wittgenstein.",
+  "prerequisites_raw": "Philosophy 100B or 100C or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 172",
+  "title": "Heidegger",
+  "units": "4",
+  "description": "The philosophy of Heidegger.",
+  "prerequisites_raw": "Philosophy 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 173",
+  "title": "Frege",
+  "units": "4",
+  "description": "An examination of the work of the German philosopher and logician, Gottlob Frege.",
+  "prerequisites_raw": "Philosophy 183 and another previous course in philosophy.",
+  "prerequisites_courses": [
+   "PHIL 183"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 174",
+  "title": "Early Analytic Philosophy",
+  "units": "4",
+  "description": "A study of one or more major philosophers from the early stages of the analytic tradition (e.g. Frege, Moore, Russell, Wittgenstein, and the logical positivists.)",
+  "prerequisites_raw": "Philosophy 100B or 100C or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100B",
+   "PHIL 100C",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 175",
+  "title": "Other Philosophers",
+  "units": "4",
+  "description": "Course content will vary. Philosophers not taught in a regular course offering--such philosophers as Plotinus, Bacon, Pascal, Reid, Schopenhauer, Bradley--yet whose work is intrinsically important will be studied. Students may check with the department office for more detailed information before enrolling.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 175A",
+  "title": "American Philosophy",
+  "units": "4",
+  "description": "An examination of the roots and early development of American philosophy with special attention paid to the theory of natural rights, its role in the founding of the nation, and the movement to abolish slavery.",
+  "prerequisites_raw": "Philosophy 100A or 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 175B",
+  "title": "American Philosophy",
+  "units": "4",
+  "description": "An examination of the development of American philosophy in the 19th and early 20th century, with special attention paid to Pragmatism (e.g. the philosophical writings of Peirce, James and Dewey) and modifications of the theory of natural rights in response to the Darwinian revolution in biology.",
+  "prerequisites_raw": "Philosophy 100A or 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 176",
+  "title": "Historical Philosophers",
+  "units": "4",
+  "description": "Examination of historical philosophers beyond those covered in Philosophy 106 and 151-166.",
+  "prerequisites_raw": "Philosophy 100A or 100B or 100D or 100E.",
+  "prerequisites_courses": [
+   "PHIL 100A",
+   "PHIL 100B",
+   "PHIL 100D",
+   "PHIL 100E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 180",
+  "title": "Philosophical Psychology",
+  "units": "4",
+  "description": "An examination of some of the concepts of the mind such as those of desire,intention, action, perception, sensation, and the unconcious.",
+  "prerequisites_raw": "One prior upper-division course in philosophy.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 182",
+  "title": "CONCEPTS PSYCHOANAL",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "CONSENT OF INSTRUCTOR.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 183",
+  "title": "Beginning Modern Logic",
+  "units": "4",
+  "description": "An introduction to the concepts and methods of moder symbolic logic. Emphasis is placed on problems of translating english expressions into logical symbols and on the development of skills in using the formal proof procedures of sentential and predicate logic.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PHIL",
+  "code": "PHIL 184",
+  "title": "Intermediate Modern Logic",
+  "units": "4",
+  "description": "Further application and development of the predicate calculus, including the calculi of identity and description. An introduction to the metalogical questions of completeness, consistency, and decidability.",
+  "prerequisites_raw": "Philosophy 183.",
+  "prerequisites_courses": [
+   "PHIL 183"
+  ]
+ }
+]

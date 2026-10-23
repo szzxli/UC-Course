@@ -1,0 +1,202 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125ES",
+  "title": "Special Topics in ME: Energy Storage Technologies",
+  "units": "3",
+  "description": "Introduces basic structure, thermodynamics, kinetics and techniques of batteries, Li-based and Li-ion-based battery materials and devices, other batteries, battery thermal management, and thermal energy storage.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125EY",
+  "title": "Special Topics in Biological Computing",
+  "units": "3",
+  "description": "Introduces the basics of design of synthetic biological systems, including the architecture of genetic networks, circuits, and pathways controlling engineered biological function, as well as single-cell microbial behavior, and microbe population dynamics. Also provides a gentle introduction to workflows in biomolecular engineering, genetic circuit design, genomic editing, as well as principles of experimental design. An overview of various engineered and natural biological functions is provided, including multi-stability, biological oscillations, stochastic effects in genetic circuits, robustness of circuit performance, and cellular capacity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125F",
+  "title": "Special Topics: Hydrodynamic Instability and Turbulence",
+  "units": "3",
+  "description": "Hydrodynamic instabilities and turbulent flows are ubiquitous in fluid mechanics, from natural phenomena to industrial and technological applications. The goal of the course is to provide an introduction to the transition to unstable and turbulent flows. We will discuss some classical hydrodynamic instabilities and the analytical tools available to predict their existence and the patterns generated. The second part of the class will focus on turbulence and the methods of statistical analysis available to provide a description of such flows.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125FA",
+  "title": "Special Topics: Failure Analysis",
+  "units": "3",
+  "description": "Failures lead to investigation, examination, innovation, and redesign into improved, safer, and more efficient components and structures. In this course, we study engineering failures that have occurred across a wide range of disciplines, and examine why they happened. This includes a discussion of the fundamental engineering concepts at play (e.g. stress corrosion cracking, creep, high cycle fatigue), as well as the path by which these factors caused the disaster under study, and the ethics involved in each case.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125FB",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125FM",
+  "title": "Fluid Mechanics and Soft Matter in Additive Manufacturing",
+  "units": "3",
+  "description": "The evolution of product design, prototyping, and industrial production is being reshaped by additive manufacturing methods. These innovative techniques play a pivotal role in minimizing material usage for manufacturing, paving the way for significant advancements. The customization potential has particularly revolutionized healthcare, while the expedited prototyping process has shortened product time-to-market and facilitates on-site repairs of essential components. This course will cover fundamental aspects of fluid mechanics and soft matter applied to some methods of additive manufacturing, such as extrusion-based processes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125G",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125H",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125I",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125IB",
+  "title": "Special Topics: Failure- Why Defects Are Essential to Material Science",
+  "units": "3",
+  "description": "An in-depth look into the many classes of defects (e.g., point, linear, and planar) and the role they play in crystalline materials. While we cannot eliminate defects and they are usually seen as a weakness, proper understanding of defects is the best way to design stronger and better materials. Examples of the types of defects we may cover are vacancies, dislocations, grain boundaries, interfaces, and twins. We will study their formation, mobility and interaction in environments where they are commonly found, such as elevated temperatures, mechanical strains, or irradiation.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125J",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125JS",
+  "title": "Special Topics: Li Ion Batteries",
+  "units": "3",
+  "description": "An introduction to lithium-ion batteries (LIB). The course consists of a significant laboratory component where students acquire hands-on experience in handling, analyzing, and studying state-of-the-art (SOA) LIBs. Students also learn how to design, manufacture, and test prototype batteries made using prototype manufacturing equipment. Course Prerequisites: General materials science course background and students must have valid UCSB general laboratory safety certification.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125K",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125KF",
+  "title": "Special Topics in ME: Design and Construction of Scientific Apparatus",
+  "units": "3",
+  "description": "This course applies fundamental mechanical engineering principles to designing and constructing experimental apparatus and scientific measurement systems. A wide range of skills are necessary including mechanical design, fabrication techniques, motion control, sensors, electronics and environmental controls. Application of these skills allows for construction of entire mechanical, electrical, optical, biomechanical and electromagnetic testing equipment. In addition, most of these apparatus require environmental control such as high and low temperature, vacuum, inert gas, and liquid conditions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125KT",
+  "title": "Special Topics in Mechanical Engineering: Advanced Dynamics",
+  "units": "3",
+  "description": "Focuses on modeling dynamics of single and multi-body engineering systems undergoing 3D motion. By formulating the differential geometry and kinematics of curvilinear coordinates to permit kinematic descriptions of relative motion and rotation of rigid bodies and mechanisms subject to common constraints. Momentum and inertia properties of rigid body dynamics. Introduced to analytical dynamics, where Lagranges equations and Kanes method are derived and studied. Applications include spacecraft dynamics, micro-scale system dynamics, and vehicle dynamics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125L",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125LF",
+  "title": "Special Topics: Vortex Dynamics and Turbulence",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125LP",
+  "title": "Special Topics in Mechanical Engineering: Intro to Design Optimization",
+  "units": "3",
+  "description": "Optimization seeks to extend numerical simulation models, by solving an \"inverse problem,\" to determine a set of design variables that can lead to an \"optimized design.\" In this class we will develop a mathematical foundation for design optimization, and then apply that framework, using modern software tools, to optimize real-world engineering designs.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125M",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics,thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "ME",
+  "code": "ME 125MB",
+  "title": "Special Topics in Mechanical Engineering",
+  "units": "3",
+  "description": "Individual courses each concentrating on one area in the following subjects: applied mechanics, cad/cam, controls, design, environmental engineering, fluid mechanics, materials science, mechanics of solids and structures, ocean and coastal engineering, robotics, theoretical mechanics, thermal sciences, and recent developments in mechanical engineering.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

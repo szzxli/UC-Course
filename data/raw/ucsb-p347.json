@@ -1,0 +1,346 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 245",
+  "title": "Post-Translational Protein Processing",
+  "units": "4",
+  "description": "Structure/function relationships in interesting macromolecules isolated from marine organisms. Focus is on well-characterized pathways from horseshoe crabs, abalones, mussels, and fish as well as others.",
+  "prerequisites_raw": "MCDB 108A or MCDB 218A or Chemistry 142A or equivalent.",
+  "prerequisites_courses": [
+   "MCDB 108A",
+   "MCDB 218A",
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 246",
+  "title": "Stem Cell Biology in Health and Disease",
+  "units": "4",
+  "description": "Basic biology of embryonic and adult stem cells and nuclear transfer, with emphasis on latest findings from the current literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 247",
+  "title": "Social Dimensions of Stem Cell Research",
+  "units": "2",
+  "description": "Overview of ethical, social and legal contexts of biological research with special reference to stem cells, embryology and policy.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 248",
+  "title": "Practical Statistics for Biologists",
+  "units": "4",
+  "description": "Introduces fundamental concepts in biostatistics such as sources of technical and biological variation, types of statistical tests (ANOVA, non-parametric, linear regression), sampling techniques, power calculations, and how to decide which test is appropriate.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 249",
+  "title": "Mariculture: Research Frontiers in Farming the Sea",
+  "units": "4",
+  "description": "Recent progress and new directions in research increasing production of valuable marine animals, plants and microorganisms. Control of reproduction, development, growth and disease in marine species; problems encountered in commercializing production; regional and biological solutions; the role of modern biotechnology.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 251",
+  "title": "Neurobiology I: Cellular Organization and Biophysics of the Nervous System",
+  "units": "4",
+  "description": "Nervous system properties ranging from single cells to whole organisms, using examples from vertebrates/invertebrates studied in terms of morphology, physiology, behavior.",
+  "prerequisites_raw": "MCDB 1A and 1B or equivalent. Completion of both prerequisites with a grade of C or better.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 252",
+  "title": "Neurobiology II: Molecular and Cellular Neurobiology",
+  "units": "4",
+  "description": "This second course of a three quarter neurobiology course sequence (251/252/253) will cover both top down systems level approaches and bottom up molecular approaches to major topics in neurobiology. These topics include mechanisms of sensory transduction, processing of sensory information within the brain, mechanisms of muscle control, cell signaling, neuronal plasticity, neuronal polarity, and the mapping of neural information to the brain.",
+  "prerequisites_raw": "MCDB 251 with a grade of B or better.",
+  "prerequisites_courses": [
+   "MCDB 251"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 253",
+  "title": "Neurobiology III: Developmental Neurobiology",
+  "units": "4",
+  "description": "This course begins with fertilization and moves through sequential stages in the development of the nervous system, including cell migration and differentiation, axon outgrowth and pathfinding, programmed cell death, synaptogenesis, learning, memory, neurodegenerative conditions and current strategies for neuronal regeneration.",
+  "prerequisites_raw": "MCDB 1A-1B; and, MCDB 101A or EEMB 129.",
+  "prerequisites_courses": [
+   "MCDB 1A",
+   "MCDB 101A",
+   "EEMB 129",
+   "MCDB 1B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 254",
+  "title": "Advanced Topics in Neurobiology",
+  "units": "2",
+  "description": "Literature-based exploration of core concepts in modern neuroscience. Skill in training in critical reading of primary literature, science writing, and presentation. Content focus changes each year: past topics include Neuroethology, Neuronal Identity, Motor Control, Sensory Motor Integration, Optogenetics and Functional Imaging.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 256",
+  "title": "Stem Cell Biology",
+  "units": "3",
+  "description": "Focuses on the latest developments in stem cell biology, including ongoing clinical trials using stem cell therapies to treat unmet medical needs. In depth analysis of the current literature in stem cell biology, bioengineering and biophysical analyses is also covered. The discipline of stem cell biology and applications of cell therapy have elements of bioengineering, biomaterials, and biophysics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 260",
+  "title": "Research Strategies in Molecular, Cellular and Developmental Biology",
+  "units": "2",
+  "description": "A review and critique of relevant literature in advance of the weekly MCBD Biology research seminar. Includes illustrating the significance, identifying the key findings, evaluating data and conclusions, and proposing further directions and questions. Practice of presentation skills. Weekly meeting with seminar speakers.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 261",
+  "title": "Literature in Immunology",
+  "units": "1",
+  "description": "Critical reading and presentation of recent literature in immunology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 262",
+  "title": "Research Progress in Molecular, Cellular and Developmental Biology",
+  "units": "1",
+  "description": "Research presentations by postdoctoral fellows and advanced Ph.D. students of research progress in the department.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 263",
+  "title": "Progress in Biochemistry and Molecular Biology",
+  "units": "1",
+  "description": "Research seminars presented by invited speakers on current research topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 265",
+  "title": "Literature in Virology",
+  "units": "1",
+  "description": "Critical reading and presentation of the recent literature on animal viruses and host cells by graduate students, postdoctoral fellows, and staff.",
+  "prerequisites_raw": "Graduate standing and consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 266",
+  "title": "Literature in Neurobiology",
+  "units": "1",
+  "description": "Critical reading and presentation of the literature in modern neurobiology.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 268",
+  "title": "Literature in Plant Molecular Biology",
+  "units": "1",
+  "description": "Critical reading and presentation of the current literature in higher plantmolecular biology, cell biology, and development.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 269",
+  "title": "Pharmacology Colloquia",
+  "units": "1",
+  "description": "Research seminars on current research topics in pharmacology presented by invited speakers.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 270",
+  "title": "Programming in Biology",
+  "units": "4",
+  "description": "Studying complex biological systems can be greatly facilitated by modern computing technologies. This course introduces essential computer programming concepts and algorithms to biology major students. Students learn logics of programming and apply it to gene sequence analysis (bioinformatics), simulation of dynamic systems (systems biology), and data analysis (statistics in biology).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 272",
+  "title": "Biological Dynamics",
+  "units": "4",
+  "description": "An introduction to mathematical models and computer simulations used to describe and understand time varying biological systems. Learning Objectives: Survey mathematical methods for describing the dependence on time of biological phenomena. Illustrate how to construct mathematical models to gain insights into complex biological systems. Develop working knowledge of a python code base that enables future evaluation of common classes of models applied to the study of biological dynamics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290",
+  "title": "Group Studies",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list. (see individual letter designations)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290A",
+  "title": "Research in Molecular Marine Biology",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290B",
+  "title": "Research in Biomineralization",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290C",
+  "title": "Studies in Regualtion of Cell Proliferation",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290CC",
+  "title": "Centromeres and Chromosomes--Models and Analysis",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290CE",
+  "title": "C Elegans Development",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list. (see individual letter designations)",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290CM",
+  "title": "Dissecting the Behavior of Mosquito Disease Vectors",
+  "units": "2",
+  "description": "This course will focus on the latest developments in understanding how mosquito disease vectors find human host, and mate. The focus will be on mechanistic studies, particularly those that combine molecular genetics with behavior.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290CS",
+  "title": "Advanced Topics in Chromosome Segregation",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290DN",
+  "title": "Developmental Neurobiology",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290ER",
+  "title": "Epithelial Cell Biology and Molecular Renal Pathobiology",
+  "units": "2",
+  "description": "Presentation and discussion of current research, to be selected from the following list. (see individual letter designations)",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290JM",
+  "title": "Topics at the Interface of the Physical and Biological Sciences",
+  "units": "2",
+  "description": "This interdisciplinary course will train students to become competent in communicating research project design, implementation, and data analysis to scientific audiences of their peers. Students will interact directly with the faculty mentor and other members of a laboratory team.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290JV",
+  "title": "Bacterial Cell Biology",
+  "units": "2",
+  "description": "ExploreS the recent advances in bacterial cell biology with a focus on uncultivated taxa. Also explores the latest development of cultivation-independent techniques allowing scientists to probe these uncultivated microbes.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MCDB",
+  "code": "MCDB 290LW",
+  "title": "Microtubule Dynamics and Functions",
+  "units": "2",
+  "description": "Presentation and discussion of current research.",
+  "prerequisites_raw": "consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

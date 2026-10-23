@@ -1,0 +1,302 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 120B",
+  "title": "Transport Processes",
+  "units": "3",
+  "description": "Introductory course in the mathematical analysis of conductive, convective and radiative heat transfer with practical applications to design of heat exchange equipment and use.",
+  "prerequisites_raw": "Chemical Engineering 10 with minimum grade of C-; Chemical Engineering 110A with minimum grade of C- (may be taken concurrently); Chemical Engineering 120A.",
+  "prerequisites_courses": [
+   "CH E 10",
+   "CH E 110A",
+   "CH E 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 120C",
+  "title": "Transport Processes",
+  "units": "3",
+  "description": "Introductory course in the fundamentals of mass transfer with applications to the design of mass transfer equipment.",
+  "prerequisites_raw": "Chemical Engineering 10 with a minimum grade of C-; Chemical Engineering 110A with minimum grade of C-; Chemical Engineering 110B (may be taken concurrently) and Chemical Engineering 120B.",
+  "prerequisites_courses": [
+   "CH E 10",
+   "CH E 110A",
+   "CH E 110B",
+   "CH E 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 121",
+  "title": "Colloids and Biosurfaces",
+  "units": "3",
+  "description": "Basic forces and interactions between atoms, molecules, small particles and extended surfaces. Special features and interactions associated with (soft) biological molecules, biomaterials and surfaces: lipids, proteins, fibrous molecules (DNA), biological membranes, hydrophobic and hydrophilic interactions, bio-specific and non-equilibrium interactions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 124",
+  "title": "Advanced Topics in Transport Phenomena/Safety",
+  "units": "3",
+  "description": "Hazard identification and assessments, runaway reactions, emergency relief.Plant accidents and saftey issues. Dispersion and consequences of releases.",
+  "prerequisites_raw": "Chemical Engineering 120A-B-C; or, Mechanical Engineering 151A-B and Mechanical Engineering 152A.",
+  "prerequisites_courses": [
+   "CH E 120A",
+   "ME 151A",
+   "ME 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 125",
+  "title": "Principles of Bioengineering",
+  "units": "3",
+  "description": "Applications of engineering to biological and medical systems. Introduction to drug delivery, tissue engineering, and modern biomedical devices. Design and applications of these systems are discussed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 126",
+  "title": "Non-Newtonian Fluids, Soft Materials and Chemical Products",
+  "units": "3",
+  "description": "Overview of soft materials (suspensions, gels, polymers, surfactants, emulsions, powders and granules) that arise in diverse industries, including consumer products, foods, advanced materials, biotechnology, and mineral and energy production. Influence of non-Newtonian rheology (shear-thickening and thinning, viscoelasticity, extension-thickening, yield stresses, normal stress differences, and metastability) upon handling, processing, production, and performance of chemical products. Strategies to design chemical products that meet performance targets, and to scale-up production. Real-world case studies and classroom demonstrations.",
+  "prerequisites_raw": "Chemical Engineering 120C (may be taken concurrently).",
+  "prerequisites_courses": [
+   "CH E 120C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 128",
+  "title": "Separation Processes",
+  "units": "3",
+  "description": "Basic principles and design techniques of equilibrium-stage separation processes. Emphasis is placed on binary distillation, liquid-liquid extraction, and multicomponent distillation.",
+  "prerequisites_raw": "Chemical Engineering 10, and 110A-B; open to Engineering majors only.",
+  "prerequisites_courses": [
+   "CH E 10",
+   "CH E 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 130C",
+  "title": "THEOR MTHDS CH ENGR",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "MATHEMATICS 5A-B-C. LIMITED TO MAJORS IN THE COLLEGE OF ENGINEERING.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 132A",
+  "title": "Analytical Methods in Chemical Engineering",
+  "units": "4",
+  "description": "Develop analytical tools to solve elementary partial differential equations and boundary value problems. Separation of variables, Laplace transforms, Sturm-Liouville theory, generalized Fourier analysis, and computer math tools.",
+  "prerequisites_raw": "Mathematics 4B or 4BI; Mathematics 6A or 6AI.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 132B",
+  "title": "Computational Methods in Chemical Engineering",
+  "units": "3",
+  "description": "Numerical methods for solution of linear and nonlinear algebraic equations, optimization, interpolation, numerical integration and differentiation, initial-value problems in ordinary and partial differential equations, and boundary-value problems. Emphasis on computational tools for chemical engineering applications.",
+  "prerequisites_raw": "Mathematics 4B or 4BI; Mathematics 6A or 6AI; Mathematics 6B and Engineering 3.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 6B",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 132C",
+  "title": "Statistical Methods in Chemical Engineering",
+  "units": "3",
+  "description": "Probability concepts and distributions, random variables, error analysis, point estimation and confidence intervals, hypothesis testing, development of empirical chemical engineering models using regression techniques, design of experiments, process monitoring based on statistical quality control techniques.",
+  "prerequisites_raw": "Mathematics 4B or 4BI; Mathematics 6A or 6AI and Mathematics 6B.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 6B",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 140A",
+  "title": "Chemical Reaction Engineering",
+  "units": "3",
+  "description": "Fundamentals of chemical reaction engineering with emphasis on kinetics of homogenous and heterogeneous reacting systems. A microkinetic understanding of reaction rates is linked to reactor design, chemical conversion, and selectivity. Batch and continuous reactor designs with and without catalysts are examined.",
+  "prerequisites_raw": "Chemical Engineering 10 with minimum grade of C-; Chemical Engineering 110A with a minimum grade of C-; Chemical Engineering 110B (may be taken concurrently). Chemical Engineering 120A-B.",
+  "prerequisites_courses": [
+   "CH E 10",
+   "CH E 110A",
+   "CH E 110B",
+   "CH E 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 140B",
+  "title": "Chemical Reaction Engineering",
+  "units": "3",
+  "description": "Thermodynamics, kinetics, mass and energy transport considerations associated with complex homogeneous and heterogeneous reacting systems. Catalysts and catalytic reaction rates and mechanisms. Adsorption and reaction at solid surfaces, including effects of diffusion in porous materials. Chemical reactors using heterogeneous catalysts.",
+  "prerequisites_raw": "Chemical Engineering 110A-B, 120A-B and 140A.",
+  "prerequisites_courses": [
+   "CH E 110A",
+   "CH E 120A",
+   "CH E 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 141",
+  "title": "The Science and Engineering of Energy Conversion",
+  "units": "3",
+  "description": "Framework for understanding the energy supply issues facing society with a focus on the science,engineering, and economic principles of the major alternatives. Emphasis is on the physical andchemical fundamentals of energy conversion technologies.",
+  "prerequisites_raw": "Chem 112A-B-C or Chem 113A-B-C",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 146",
+  "title": "Heterogeneous Catalysis",
+  "units": "3",
+  "description": "Concepts and definitions. Applications of heterogeneous catalysis. Performance metrics. Analysis of surface reaction mechanisms and complex reaction networks. Structure-function relationships for supported metal and zeolite catalysts. Synthesis and characterization of heterogeneous catalysts.",
+  "prerequisites_raw": "Chemical Engineering 140A and B or consent of instructor.",
+  "prerequisites_courses": [
+   "CH E 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 152A",
+  "title": "Process Dynamics and Control",
+  "units": "4",
+  "description": "Development of theoretical and empirical models for chemical and physical processes, dynamic behavior of processes, transfer function and block diagram representation, process instrumentation, control system design and analysis, stability analysis, computer simulation of controlled processes.",
+  "prerequisites_raw": "Chemical Engineering 120A-B-C and 140A.",
+  "prerequisites_courses": [
+   "CH E 120A",
+   "CH E 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 152B",
+  "title": "Advanced Process Control",
+  "units": "3",
+  "description": "The theory, design, and experimental application of advanced process control strategies including feedforward control, cascade control, enhanced single-loop strategies, and model predictive control. Analysis of multi-loop control systems. Introduction to on-line optimization.",
+  "prerequisites_raw": "Chemical Engineering 152A.",
+  "prerequisites_courses": [
+   "CH E 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 154",
+  "title": "Engineering Approaches to Systems Biology",
+  "units": "3",
+  "description": "Applications of engineering tools and methods to solve problems in systems biology. Emphasis is placed on integrative approaches that address multi_scale and multi-rate phenomena in biological regulation. Modeling, optimization, and sensitivity analysis tools are introduced.",
+  "prerequisites_raw": "Chemical Engineering 170 or Chemical Engineering 107; Mathematics 4B or 4BI; Mathematics 6A or 6AI and Mathematics 6B.",
+  "prerequisites_courses": [
+   "CH E 170",
+   "CH E 107",
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 6B",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 160",
+  "title": "Introduction to Polymer Science",
+  "units": "3",
+  "description": "Introductory course covering synthesis, characterization, structure, and mechanical properties of polymers. The course is taught from a materials perspective and includes polymer thermodynamics, chain architecture, measurement and control of molecular weight as well as crystallization and glass transitions.",
+  "prerequisites_raw": "Chemical Engineering 110A or Chemistry 113A or equivalent.",
+  "prerequisites_courses": [
+   "CH E 110A",
+   "CHEM 113A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 166",
+  "title": "Mechatronics and Instrumentation for Chemical Engineers",
+  "units": "3",
+  "description": "Introduction to electromechanical systems and instrumentation used in Chemical Engineering. Fundamentals of transducers, sensors and actuators; interfacing and controlling hardware with software (Labview & Matlab programming); analog and digital circuits; hands-on electrical and mechanical design, prototyping, and construction. Students produce a final computer-controlled electromechanical project of their own design, or in conjunction with a ChE-faculty research laboratory.",
+  "prerequisites_raw": "Engineering 3 and Chemical Engineering 110A and B, or consent of instructor",
+  "prerequisites_courses": [
+   "CH E 110A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 170",
+  "title": "Molecular and Cellular Biology for Engineers",
+  "units": "3",
+  "description": "Familiarizes engineering students with key concepts from biochemistry, molecular biology, cell biology, and genetics. Students will apply chemical engineering principles to describe different biological systems at multiple scales, including an introduction to bioproduction.",
+  "prerequisites_raw": "Chemical Engineering 120A-B-C, 140A.",
+  "prerequisites_courses": [
+   "CH E 120A",
+   "CH E 140A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 171",
+  "title": "Introduction to Biochemical Engineering",
+  "units": "3",
+  "description": "Introduction to biochemical engineering covering cell growth kinetics, bioreactor design,enzyme processes, biotechnologies for modification of cellular information, and molecular and cellular engineering.",
+  "prerequisites_raw": "Chemical Engineering 107 or Chemical Engineering 170.",
+  "prerequisites_courses": [
+   "CH E 107",
+   "CH E 170"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 173",
+  "title": "Omics-enabled Biotechnology",
+  "units": "3",
+  "description": "Integrates genomic, transcriptomic, metabolomic, and proteomic approaches to quantify and understand intricate biological systems. Complementary bioinformatics approaches to curate the large datasets associated with these experiments will also be discussed. Recent examples from the literature will reinforce core concepts, ranging from applications to human health to the environment. By the end of the course, students should be able to design an integrated experiment that capitalizes on these omics-based approaches to enhance the scope of their research.",
+  "prerequisites_raw": "Chemical Engineering 170 or Chemical Engineering 107 or MCDB 1A and consent of instructor.",
+  "prerequisites_courses": [
+   "CH E 170",
+   "CH E 107",
+   "MCDB 1A"
+  ]
+ }
+]

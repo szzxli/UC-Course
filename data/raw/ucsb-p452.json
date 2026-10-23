@@ -1,0 +1,224 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 2HY",
+  "title": "Hybrid Elementary Spanish II",
+  "units": "5",
+  "description": "SPAN 2HY is the second of the three Hybrid Elementary Spanish courses. Its hybrid format combines increased individual work with the online textbook, materials, and other web-based activities with reduced face-to-face class time and live guided conversation sessions. Course materials and activities focus on consolidating the same array of skills promoted in SPAN 2. Students learn to use Spanish for communication in real, meaningful situations, develop an understanding of basic grammatical concepts and an appreciation of the various cultures of the Spanish-speaking world.",
+  "prerequisites_raw": "Spanish 1 or Spanish 1HY with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 1",
+   "SPAN 1HY"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 3",
+  "title": "Elementary Spanish III",
+  "units": "4",
+  "description": "Students will learn to use Spanish for communication in real, meaningful situations. This course will develop an understanding of basic grammatical concepts along with obtaining an appreciation of various cultures of the Spanish-speaking world. The course follows a communicative approach and class time is primarily used for communication practice; Spanish will be spoken in class 99% of the time. By the end of this course students are expected to develop proficiency at the Novice-high or Intermediate-low level.",
+  "prerequisites_raw": "Spanish 2 or Spanish W2 with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 3HY",
+  "title": "Hybrid Elementary Spanish III",
+  "units": "5",
+  "description": "SPAN 3HY is the third of the three Hybrid Elementary Spanish courses. Its hybrid format combines increased individual work with the online textbook, materials, and other web-based activities with reduced face-to-face class time and live guided conversation sessions. Course materials and activities focus on consolidating the same array of skills promoted in SPAN 3. Students learn to use Spanish for communication in real, meaningful situations, develop an understanding of basic grammatical concepts and an appreciation of the various cultures of the Spanish-speaking world.",
+  "prerequisites_raw": "Completion of Spanish 2 or Spanish 2HY with a grade of P, or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 2",
+   "SPAN 2HY"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 4",
+  "title": "Intermediate Spanish I",
+  "units": "4",
+  "description": "Begins review of basic grammar and syntax.",
+  "prerequisites_raw": "Spanish 3, Spanish 3SS, 3HY, with a grade of P or a grade of C or higher; or a score of 3 on the AP Spanish Language Examination; or a score of 3 on the AP Spanish Language & Culture Examination.",
+  "prerequisites_courses": [
+   "SPAN 3",
+   "SPAN 3HY"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 5",
+  "title": "Intermediate Spanish II",
+  "units": "4",
+  "description": "Continues the review of basic grammar and syntax. Course conducted in Spanish.",
+  "prerequisites_raw": "Spanish 4 with a grade of P or a grade of C or higher; or a score of 4 on the AP Spanish Language Examination; or a score of 4 on the AP Spanish Language and Culture Examination; or a score of 3 on the AP Spanish Literature and Culture Examination.",
+  "prerequisites_courses": [
+   "SPAN 4",
+   "SPAN 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 6",
+  "title": "Intermediate Spanish III",
+  "units": "4",
+  "description": "An intensive course designed to develop students' skills in reading, oral, and written expression by reading and discussing Hispanic texts, and writing compositions on related topics.",
+  "prerequisites_raw": "Spanish 5 with a grade of P or a grade of C or higher; or a score of 5 on the AP Spanish Language Examination; or a score of 5 on the AP Spanish Language and Culture Examination; or a score of 3 on the AP Spanish Literature Examination; or a score of 4 on the AP Spanish Literature and Culture Examination.",
+  "prerequisites_courses": [
+   "SPAN 5",
+   "SPAN 3",
+   "SPAN 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 8A",
+  "title": "Spanish Conversation",
+  "units": "2",
+  "description": "Conversational practice through which the student learns idioms, conversational courtesies of the language, etc., and improves facility in speaking and understanding the spoken language.",
+  "prerequisites_raw": "Spanish 2",
+  "prerequisites_courses": [
+   "SPAN 2"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 8B",
+  "title": "Spanish Conversation",
+  "units": "2",
+  "description": "Conversational practice through which the student learns idioms, conversational courtesies of the language, etc., and improves facility in speaking and understanding the spoken language.",
+  "prerequisites_raw": "Spanish 4, or A.P. score >= 4, or Spanish placement exam = 4, or Spanish 8A.",
+  "prerequisites_courses": [
+   "SPAN 4",
+   "SPAN 8A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 15",
+  "title": "Intermediate Spanish for Heritage Speakers",
+  "units": "4",
+  "description": "SPAN 15 is designed for students who learned Spanish at home or as a first language and provides them with the language and learning skills required to successfully complete more advanced Spanish courses (SPAN 16A/B). It focuses on formal Spanish, grammar, and reading with an emphasis on writing and vocabulary building. Students will develop awareness of linguistic registers, and practice formal speaking and writing skills through readings and discussions based on Hispanic topics in the United States and other Spanish-speaking countries. Special attention will be paid to those aspects that Spanish speakers in the United States find most problematic.",
+  "prerequisites_raw": "Instructor or department approval required to finalize enrollment.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 16A",
+  "title": "Spanish for Heritage Speakers",
+  "units": "4",
+  "description": "Addresses on a university level the needs and strengths of students with Spanish speaking background but no formal language training in Spanish speaking countries. Emphasizes skill in composition, advanced reading comprehension, standard versus vernacular usages, cross language interference, etc.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 16B",
+  "title": "Spanish for Heritage Speakers",
+  "units": "4",
+  "description": "Addresses on university level the needs and strengths of students with Spanish speaking background but no formal language training in Spanish speaking countries. Emphasizes more complex skills in composition and advanced reading comprehension than Spanish 16A, as well as standard versus vernacular usages, cross language interferences, etc.",
+  "prerequisites_raw": "Spanish 16A with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 16A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 25",
+  "title": "Advanced Grammar and Composition",
+  "units": "4",
+  "description": "Intensive course taught in Spanish designed to reinforce students' comprehension and ability to express themselves in Spanish, both orally and in writing, and to develop the students' vocabularies and awareness of syntactical structures in the language.",
+  "prerequisites_raw": "Spanish 6 with a grade of P or a grade of C or higher; or a score of 4 or 5 on the AP Spanish Literature Examination; or a score of 5 on the AP Spanish Literature and Culture Examination.",
+  "prerequisites_courses": [
+   "SPAN 6",
+   "SPAN 4",
+   "SPAN 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 27",
+  "title": "Food Studies in Latin America",
+  "units": "5",
+  "description": "A focus on the relationship of food, the people, and the regions of Latin America. Students will be exposed to readings and films related to the history of food consumption, hunger, and society from an interdisciplinary and cross-cultural perspective. The course also highlights the fusion and syncretism observed over time from pre-Hispanic to other culinary influences that have shaped the gastronomy of Latin America. Close attention is paid to indigenous ways of growing, consuming, and preserving food in order to offset food insecurity in specific geographical regions. Students will learn the connection between food and the many ethnic identities that exist throughout the rich and diverse food cultures of Latin America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 30",
+  "title": "Introduction to Hispanic Literature",
+  "units": "5",
+  "description": "Hispanic Literature in relation to literary problems in general. Such topics as:the functions of literature, literary periods, movements and trends. The analysis and interpretation of texts.",
+  "prerequisites_raw": "Spanish 16B, or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 31",
+  "title": "Literatures of the Spanish Speaking World",
+  "units": "4",
+  "description": "Explores representative texts from one or more literary periods such as the Middle Ages, the Golden Age, Colonial Latin American Literature, Modern and Contemporary Latin American Literature, and/or US Latino Literature. Texts and topics to be selected by instructors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 39",
+  "title": "From Bomba to Bad Bunny: A Sonic Story of Caribbean Music, Memory, and Migration",
+  "units": "5",
+  "description": "From the West African roots of bomba to the global rise of artist Bad Bunny, this course explores the rich soundscape of Spanish Caribbean music as a sonic story of memory, migration, identity and resistance. Synthesizing historical research with contemporary art and culture, we examine how genres like rumba, bachata, salsa, hip hop, and reggaetón have expressed the struggles and creativity of Cuban, Dominican, and Puerto Rican communities across time and space. Students engage critically and personally with music as a form of cultural memory and social movement in the Caribbean and its diasporas in the United States. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 50",
+  "title": "Soccer in the Hispanic World",
+  "units": "5",
+  "description": "Soccer serves as a reflection of our society, encompassing both our triumphs and tribulations. Through the lens of this sport, this course will delve into various themes, seeking to deepen our comprehension of cultures and societies of the Hispanic world. Among the topics to be explored are: aesthetics, emotions, public celebrations, crowds, heroism, discrimination, gender, dictatorships, unethical practices, and patriotism. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 51",
+  "title": "Latin American Women in Popular Music: From Boleros, Salsa, and Rancheras, to Nueva Cancion and Pop",
+  "units": "5",
+  "description": "Introduces many of the most legendary Latin American women composers, musicians, and performers of the 20th & 21st centuries within the musical traditions of Mexican boleros, rancheras, Mariachi songs, salsa, Brazils Tropiclia Movement, Southern Cone Folk music, and contemporary pop. From a gender and cultural studies analytical framework, students explore how these genres construct an idea of Latin American identity through instrumentation and performance within social, political, and cultural contexts, which, in turn, are being reshaped by the artists' work. By considering historical, critical, and ethnographic approaches, students learn to recognize different cultural productions from the performing arts. Taught in English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 52",
+  "title": "Culture and Revolution in the Americas",
+  "units": "5",
+  "description": "What is a revolution? What do art and literature tell us about revolutionary movements and the hopes, promises, and memories associated with them? This course will examine these questions focusing on some of the major revolutionary episodes in the history of the Americas: the Haitian Revolution (1791-1804), the Wars of Independence in Spanish America (1810-1824), the Mexican Revolution (1910-1920), and the Cuban Revolution (1959). Through the analysis of artistic and literary pieces across various genres and media, we will delve into topics such as identity, liberty, governance, legitimacy, violence, trauma, and the construction of history. Taught in English. There may be a discussion section in Spanish depending on the enrollment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

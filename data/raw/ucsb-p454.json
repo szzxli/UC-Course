@@ -1,0 +1,315 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 117A",
+  "title": "Specialized Translation - Medical",
+  "units": "4",
+  "description": "Comprised of topics necessary in developing skills for writing at a specialized level, and with specialized vocabulary, for the medical profession.",
+  "prerequisites_raw": "Spanish 16B or 25 or equivalent",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 117B",
+  "title": "Specialized Translation - Legal",
+  "units": "4",
+  "description": "Comprised of topics necessary in developing skills for writing at a specialized level, and with specialized vocabulary, for the legal profession.",
+  "prerequisites_raw": "Spanish 16B or 25 or equivalent",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 117C",
+  "title": "Specialized Translation - Technical",
+  "units": "4",
+  "description": "Comprised of topics necessary in developing skills for writing at a specialized level, and with specialized vocabulary and format, for the translation of different types of technical texts (instruction manuals, medical, patents, etc.).",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 117D",
+  "title": "Specialized Translation - Film Subtitling",
+  "units": "4",
+  "description": "Comprised of topics necessary in developing skills for translating subtitles.",
+  "prerequisites_raw": "Spanish 16B or 25 or equivalent",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 118A",
+  "title": "Advanced Interpreting - Community Interpreting",
+  "units": "4",
+  "description": "Comprised of topics fundamental in developing skills for interpretation to and from Spanish for the Hispanic community.",
+  "prerequisites_raw": "Spanish 116",
+  "prerequisites_courses": [
+   "SPAN 116"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 118B",
+  "title": "Advanced Interpreting - Medical Interpreting",
+  "units": "4",
+  "description": "Comprised of topics fundamental in developing skills for interpretation to and from Spanish for the medical profession.",
+  "prerequisites_raw": "Spanish 116",
+  "prerequisites_courses": [
+   "SPAN 116"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 118C",
+  "title": "Advanced Interpreting - Legal & Court Interpreting",
+  "units": "4",
+  "description": "Comprised of topics fundamental in developing skills for interpretation to and from Spanish in a legal setting and for the courts.",
+  "prerequisites_raw": "Spanish 116",
+  "prerequisites_courses": [
+   "SPAN 116"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 119A",
+  "title": "Spanish Institutions and Culture",
+  "units": "4",
+  "description": "Study of the development of the Spanish nation, with special focus on key social and political institutions, the arts and major currents of thought.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 120A",
+  "title": "Contemporary Spanish-American Fiction (in English Translation)",
+  "units": "4",
+  "description": "Reading and discussion of novels and short stories by Borges, Carpentier, Cortazar, Garcia Marquez, Vargas Llosa, and others.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 120B",
+  "title": "Contemporary Spanish-American Fiction (in English Translation)",
+  "units": "4",
+  "description": "Reading and discussion of representative works of contemporary Mexican author, including Yanez, Rulfo, Fuentes, and others.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 121",
+  "title": "Language and History in the Hispanic World",
+  "units": "4",
+  "description": "The different languages spoken in the Hispanic world: their origins, development, convergence, divergence, and diffusion in relation to historical processes.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 122A",
+  "title": "Medieval Spanish Literature",
+  "units": "4",
+  "description": "A detailed survey of the main trends in Spanish literature to 1500.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 122B",
+  "title": "Medieval Spanish Literature",
+  "units": "4",
+  "description": "A detailed survey of the main trends in Spanish literature to 1500.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 123A",
+  "title": "Hispanic Balladry",
+  "units": "4",
+  "description": "History of the Spanish ballad; Hispanic balladry in Spanish America, the United States, and among the Shepardic Jews.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 124",
+  "title": "Psycholinguistics",
+  "units": "4",
+  "description": "An introduction to core areas of Spanish psycholinguistics: speech perception, word recognition, language comprehension, language production, first language acquisition, bilingualism, language disorders and aphasiology. Goals: 1)to introduce students to the key findings and central debates within psycholinguistic research; 2)to introduce students to the tools and methods of psycholinguistic research; 3)to introduce students to research practice; 4)to manage effective interaction within the intercultural context. Students will develop an experiment design, and collect/analyze data. Depending on their performance, students will be invited to work and/or volunteer at the Bilingualism, Translation, & Cognition Laboratory.",
+  "prerequisites_raw": "Spanish 25 or Spanish 16B",
+  "prerequisites_courses": [
+   "SPAN 25",
+   "SPAN 16B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 124E",
+  "title": "Psycholinguistics",
+  "units": "4",
+  "description": "An introduction to core areas of Spanish psycholinguistics: speech perception, word recognition, language comprehension, language production, first language acquisition, bilingualism, language disorders & aphasiology. Goals: 1)to introduce students to the key findings & central debates within psycholinguistic research; 2)to introduce students to the tools and methods of psycholinguistic research; 3)to introduce students to research practice; 4)to manage effective interaction within the intercultural context. Students will develop an experiment design, and collect/analyze data. Depending on their performance, students will be invited to work and/or volunteer at the Bilingualism, Translation, & Cognition Laboratory. Taught in English.",
+  "prerequisites_raw": "Spanish 25 or Spanish 16B",
+  "prerequisites_courses": [
+   "SPAN 25",
+   "SPAN 16B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 125",
+  "title": "Introduction to Romance Linguistics",
+  "units": "4",
+  "description": "Illustrates principles of comparative-historical linguistic analysis by examining Romance languages (French, Portuguese, etc.) for similarities and differences, and tracing their evolution from Vulgar Latin.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 126",
+  "title": "Spanish Cinema",
+  "units": "4",
+  "description": "Covers different periods of the Spanish cinema history and the way movies could represent the history and culture of the twentieth century in Spain.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 126E",
+  "title": "Spanish Cinema",
+  "units": "4",
+  "description": "Covers different periods of the Spanish cinema history and the way movies could represent the history and culture of the twentieth century in Spain. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 127",
+  "title": "Gastronomy of the Americas through Literature",
+  "units": "4",
+  "description": "An in-depth look at the gastronomy of specific geographical and cultural regions of Latin America through a selection of literary texts and films. From Pre-Columbian to current gastronomical influences from around the world, students will learn about ancient grains, protein alternatives, non-wheat carbohydrates, common herbs and spices in connection with the region in which native people grow, preserve and consume them. Other cultural and culinary influences that have shaped the gastronomy of Latin American today will be emphasized to highlight the fusion and a culinary syncretism observed within the rich and diverse Latin American cuisine. A culinary selection of traditional dishes will be prepared.",
+  "prerequisites_raw": "Spanish 30 (can be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 127E",
+  "title": "Gastronomy of the Americas through Literature",
+  "units": "4",
+  "description": "An in-depth look at the gastronomy of specific geographical and cultural regions of Latin America through a selection of literary texts and films. From Pre-Columbian to current gastronomical influences from around the world, students will learn about ancient grains, protein alternatives, non-wheat carbohydrates, common herbs and spices in connection with the region in which native people grow, preserve and consume them. Other cultural and culinary influences that have shaped the gastronomy of Latin American today will be emphasized to highlight the fusion and a culinary syncretism observed within the rich and diverse Latin American cuisine. A culinary selection of traditional dishes will be prepared. Taught in English.",
+  "prerequisites_raw": "Spanish 30 (can be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 128",
+  "title": "Creative Writing",
+  "units": "4",
+  "description": "Designed primarily for students who are inclined to write fictional prose and/or poetry in Spanish.",
+  "prerequisites_raw": "Spanish 16A or 16B or 25 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 16A",
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 129",
+  "title": "Sociolinguistics of Iberian Languages",
+  "units": "4",
+  "description": "Focus is on the social and cultural history of the different languages in the Iberian Peninsula, including Spanish - whether in Spain, Latin America or the U.S. The course analyzes and compares their present status within mostly bilingual communities.",
+  "prerequisites_raw": "Spanish 100.",
+  "prerequisites_courses": [
+   "SPAN 100"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 130",
+  "title": "The Fantastic and Its Development in Spanish-American Short Story",
+  "units": "4",
+  "description": "Exploration of the multiple manifestations of the Fantastic in Spanish American short story from its origin, linked to nineteenth-century sensationalistic journalism, up to neofantastic mode appearing circa 1950, with its more epistemological goals.",
+  "prerequisites_raw": "A minimum grade of \"C\" in Spanish 102L, OR a minimum grade of \"C\" in Spanish 30.",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 131",
+  "title": "Spanish Golden Age Poetry I",
+  "units": "4",
+  "description": "Lyric poetry of the sixteenth century: Garcilaso, Luis de Leon, San Juan de La Cruz, and others.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 132",
+  "title": "The Spanish Civil War: Conflict, Culture, and Memory",
+  "units": "4",
+  "description": "An introduction to the Spanish Civil War (1936-1939), an event that had a tremendous impact over Spains twentieth-century history, culture, and society. Through the study of distinct number of cultural products (memoirs, novels, films, photographs), we cover the social and cultural history of the war, the way it has been represented in different periods of history, as well as why and how it has been the inspiration of many works of art (Picasso), films (Del Toro) and literary pieces (Max Aub) produced all over the world.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ }
+]

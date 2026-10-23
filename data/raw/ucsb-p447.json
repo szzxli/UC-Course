@@ -1,0 +1,290 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 152B",
+  "title": "Topics in Human Sexuality",
+  "units": "4",
+  "description": "A seminar for advanced research on and discussion of the sociology of humansexuality. Each student facilitates one class discussion on one of the maintopics on sexuality.",
+  "prerequisites_raw": "Sociology 152A and consent of instructor.",
+  "prerequisites_courses": [
+   "SOC 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 152C",
+  "title": "Advanced Study in the Sociology of Human Sexuality",
+  "units": "0",
+  "description": "The course covers specific details about human sexuality. Course content will be determined by students and instructors.",
+  "prerequisites_raw": "Sociology 152A-B and consent of instructor.",
+  "prerequisites_courses": [
+   "SOC 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 153",
+  "title": "Women and Work",
+  "units": "4",
+  "description": "The course will begin with readings and discussion of the sociological features of work in society. The role of women in the labor market will be explored, as well as their lives as unpaid workers in their own homes. Finally, more global issues of sexual inequality and social change will be discussed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 154A",
+  "title": "Sociology of the Families",
+  "units": "4",
+  "description": "A course on US families and patterns of household organization. Topics may include mate selection, parenthood, marriage, division of labor, divorce, remarriage, and aging. Attention to race, class, gender, and sexual orientation variation in contemporary patterns in the life of today's families.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 154F",
+  "title": "The Chicano Family",
+  "units": "4",
+  "description": "This course provides and overview of historical and conCemporary research on Chicano families in the United States. Changing viewpoints on the character of Chicano families and their implications with respect to policyissues are examined.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 154R",
+  "title": "Sociology of Reproduction",
+  "units": "4",
+  "description": "Provides an examination of reproduction through economic, legal and political lenses. Emphasis on how statuses such as race, class, gender, sexuality and ability influence people's reproductive possibilities. Primarily focuses on the US but will expose students to global reproductive concerns.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 155",
+  "title": "Sociology of Gender",
+  "units": "4",
+  "description": "Examines the gendered dynamics of social relations in social institutions and interactions. We ask the questions: Why do men and women appear to be so different? Why are men and women found in different places in society? Why do gender inequalities persist? This course takes a sociological, intersectional, evidence-based approach to understanding gender as social. Provide students with practice in critical thinking skills as well as an overview of how feminist, social scientists think about gender.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 155M",
+  "title": "Contemporary U.S. Women's Movements",
+  "units": "4",
+  "description": "Examination of the development and transformation of the U.S. contemporary women's movement. Consideration is given to ideological and organizational differences, internal politics, and the impact of the movement on individuals, policies, and institutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 155T",
+  "title": "Sociology of Girls and Girlhood",
+  "units": "4",
+  "description": "Introduction to interdisciplinary feminist literature on girls culture. Examination of how girls from range of racial/ethnic, class, religious, and national backgrounds respond to social inequalities and cultural prescriptions of femininity. Topics include sexuality, popular culture, economic dependence and activism.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 155W",
+  "title": "Chicanas and Mexican Women in Contemporary Society",
+  "units": "4",
+  "description": "Examines existing research on native-born and immigrant Mexican women in the United States with emphasis on family, education, employment, and politics. Analysis of the Chicana experience organized by considering how interplay between class, race, and gender affects access to opportunity and equality.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 156A",
+  "title": "Introduction to Women, Culture, and Development",
+  "units": "4",
+  "description": "Critical examination of the relations among women, culture and development. Topics include colonialism, violence, globalization, and the state, health and reproduction, biotechnology, representation, and resistance movements.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 156B",
+  "title": "Seminar in Women, Culture, and Development",
+  "units": "4",
+  "description": "Critical examination of the interrelationships among women, culture and development through individual projects.",
+  "prerequisites_raw": "Sociology 156A; upper-division standing.",
+  "prerequisites_courses": [
+   "SOC 156A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 157",
+  "title": "Sociology of Sexuality",
+  "units": "4",
+  "description": "This course explores sexuality as a socially constructed system of stratification.",
+  "prerequisites_raw": "Sophomore standing or higher; or consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 157S",
+  "title": "Seminar in Radicalism in Contemporary Life",
+  "units": "4",
+  "description": "A multidisciplinary approach to the investigation of models of contemporary radicalism through individual research projects.",
+  "prerequisites_raw": "Sociology 157; upper-division standing.",
+  "prerequisites_courses": [
+   "SOC 157"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 158",
+  "title": "Sexuality and the City",
+  "units": "4",
+  "description": "Cities are sites of pleasure, belonging, and struggle. This course investigates how sexual cultures form in urban spaces—from gayborhoods and nightlife scenes to dating markets and discriminatory practices—revealing how the city shapes the spatial expressions desire, identity, and inequality.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 159M",
+  "title": "Sociology of Men and Masculinities",
+  "units": "4",
+  "description": "Explores the social meanings of masculinities among both women and men, the varieties of experiences of masculinities along lines of age, social class, race/ethnicity, sexuality, as well as considerations of the embodiment of masculinities. We explore these issues by focusing specifically on varying forms of inequality that both shape and are shaped by different social locations.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 162",
+  "title": "SOCIOLOGY OF ART",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 164",
+  "title": "Sociology of Education",
+  "units": "4",
+  "description": "Changing character of education in complex societies its relation to political, economic, and technological institutions; and its effect on individual and community behavior and development.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 165",
+  "title": "SOCIOLOGY MEDICINE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 170",
+  "title": "Sociology of Deviant Behavior",
+  "units": "4",
+  "description": "Introduction to the sociological study of conformity and deviance, with emphasis on processes of social control.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 170J",
+  "title": "Juvenile Justice: Youth Offenders and the Criminal Justice System in the New Millenium",
+  "units": "4",
+  "description": "Analysis of the structure and agency of juvenile justice. The history and function of the juvenile justice system (structure) and the experience and behavior (agency) of juveniles who are \"deviant\" or \"delinquent\" is examined.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 171D",
+  "title": "Drugs, Self, and Society",
+  "units": "4",
+  "description": "From your daily cup(s) of coffee to the “War on Drugs,” drugs touch the lives of most people. Yet, how societies deal with drug use and abuse change throughout time. In this course, we look at drug use and abuse through a sociological lens, exploring how micro (personal), meso (interactional), and macro (structural) level forces underpin the meanings, experiences, and policies associated with drug use and abuse in the United States. Beyond this, we examine how these forces contribute to persistent systems of inequality among different groups. This will not serve as a “how to” course, but one in which you will be asked to critically examine the role of drugs and their effects on society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 172",
+  "title": "Sociology of Crime and Delinquency",
+  "units": "4",
+  "description": "Theories of the genesis of delinquency and crime; factors in the organization of delinquent and criminal behavior from the points of view ofthe person and group; delinquent and criminal behavior systems.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 173",
+  "title": "Sociology of Law",
+  "units": "4",
+  "description": "Study of the social and cultural factors underlying the development, maintenance, and change of legal structures and processes, and analysis of theories of jurisprudence.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 173R",
+  "title": "Sociology of Human Rights",
+  "units": "4",
+  "description": "Examines human rights from a sociological perspective. Discusses the history of human rights, debates over their legitimacy and enforceability, and activities to promote and protect the rights of human beings. Also covers the factors that impede enforcement, enable gross violations, and make it difficult or impossible to punish violators.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 174",
+  "title": "Criminal Justice and the Community",
+  "units": "4",
+  "description": "Sociological analysis of law enforcement systems and court systems; police discretion, differential implementation of the criminal law; negotiation incriminal justice decisions.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 174P",
+  "title": "Policing and Society",
+  "units": "4",
+  "description": "Review and develop empirical knowledge about law enforcement, models of policing, and police-community relations with the aim of understanding the role of police in society and the nature and dynamics of police encounters with the public. Addresses methodological questions concerning how police and policing can be most fruitfully analyzed and canvasses issues policing in contemporary American society poses for law enforcement organizations and the communities they serve.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 175",
+  "title": "Sociology of Punishments and Corrections",
+  "units": "4",
+  "description": "Theories of punishment and treatment used in dealing with convicts and juvenile delinquents; analysis of the systems of behavior modification usedby probation, prison, and parole workers.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ }
+]

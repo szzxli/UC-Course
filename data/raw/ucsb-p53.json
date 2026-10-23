@@ -1,0 +1,312 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 168GQ",
+  "title": "Minority Autobiography and U.S. History",
+  "units": "4",
+  "description": "Seminar utilizes autobiographical or life-story texts by U.S. minority writers to better understand the diversity of U.S. history and the racialized ethnic experience.",
+  "prerequisites_raw": "Chicana/o Studies 1A or 1B or 1C or History 17A or 17B or 17C.",
+  "prerequisites_courses": [
+   "HIST 17A",
+   "HIST 17B",
+   "HIST 17C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 168I",
+  "title": "Latino Autobiography and History",
+  "units": "4",
+  "description": "Course examines a diverse number of Latino autobiographical texts that reflect the changing nature of the Latino historical experience. Topics covered included issues of race, class, gender, immigration, labor, politics, religion, and culture.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 168T",
+  "title": "Latino Religious Traditions in Historical Perspective",
+  "units": "4",
+  "description": "Focuses on the role of religion in the Chicano/Latino historical experience. Includes pre-Columbian traditions, Spanish colonial traditions, religion of the U.S.-Mexico borderlands, immigrant religious traditions, the changing nature of Latino religions in the twentieth century.",
+  "prerequisites_raw": "A previous course in History or Chicano Studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 169",
+  "title": "Religion and Social Movements - Spirituality, Sacrifice, and the Struggle for Social Justice",
+  "units": "4",
+  "description": "An exploration of the relationship between religion and social movements. Special focus placed on individuals such as Gandhi and Cesar Chavez, involved in high-risk nonviolent actions, i.e. hunger strikes (fasts), living in conflict zones, and establishing alternative communities.",
+  "prerequisites_raw": "ChSt 1A, 1B, and 1C and upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 170A",
+  "title": "Chicano Political Organizing: Proseminar in Theory & History",
+  "units": "4",
+  "description": "An in-depth examination of the theory and practice of various forms of political organizing. Case studies focus on Chicano/a political organizing in the post-war period with attention to grassroots community organization, electoral politics, and cultural production.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 171",
+  "title": "The Brown/Black Metropolis: Race, Class, & Resistance in the City",
+  "units": "4",
+  "description": "Traces the transition of Browns/Blacks from a rural urban population and examines trends in family size, language, usage, segregation and social inequality. Issues of urban decay and community conflict are also examined.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 172",
+  "title": "Law and Civil Rights",
+  "units": "4",
+  "description": "Survey of recent state and federal laws and court decisions affecting the Chicano community. Special consideration is given to landmark cases and decisions. Analysis of opposing views on each case in a historical context.",
+  "prerequisites_raw": "Chicana/o Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 173",
+  "title": "Immigrant Labor Organizing",
+  "units": "4",
+  "description": "Status of growing immigrant population in the counties of Ventura, Santa Barbara, and San Luis Obispo and linkages to agricultural and services unions.",
+  "prerequisites_raw": "Chicano Studies 1A, 1B, or 1C.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 174",
+  "title": "Chicano/a Politics",
+  "units": "4",
+  "description": "Political life in the barrio, political behavior of the Chicano community, and representation of Chicanos by elected officials and interest groups.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 174A",
+  "title": "The Political Philosophy of Cesar Chavez",
+  "units": "4",
+  "description": "Surveys the political work and philosophy of Cesar Chavez. Elements of his philosophy covered include approaches to race, class, gender, and diversity, basic liberal principles, religious faith and spirituality, and his commitment to nonviolence.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 175",
+  "title": "Comparative Social Movements",
+  "units": "4",
+  "description": "Examination of major ethnic political and social movements of twentieth century America. Topics include: constructions of ethnic communities-- music, culture, collective identity; influence of leadership, community networks, immigration. Class will specifically examine relevant Chicano/a movements",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 176",
+  "title": "Theories of Social Change and Chicano Political Life",
+  "units": "4",
+  "description": "Introduction to classical and contemporary theories of social and political change. Students apply these theoretical frameworks toward understanding specific cases of social and political transformation and continuity which have affected Chicanos/as during the twentieth century.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 177",
+  "title": "Globalization and Transnational Social Movements",
+  "units": "4",
+  "description": "Analysis of the globalization of the world economy and the social and economic consequences of this process. Examination of the transnational social movements that emerged in response to globalization. Emphasis on Mexico and Central America and role of Chicanos in these movements.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 178A",
+  "title": "Global Migration, Transnationalism in Chicana/o Contexts",
+  "units": "4",
+  "description": "This course considers Chicana/o and U.S. Latina/o culture(s) within the context of transnational practices and patterns including both hemispheric and global migration trajectories.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 179",
+  "title": "Democracy and Diversity",
+  "units": "4",
+  "description": "Introduction to the ancient and modern model of democracy which underpin contemporary democratic life. Special attention given to recent reformulations of our democratic models and how these new approaches relate to Chicano/a political concerns and practices.",
+  "prerequisites_raw": "Chicana/o Studies 1B or Political Science 1.",
+  "prerequisites_courses": [
+   "POL S 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 179A",
+  "title": "Race and Environmental Justice",
+  "units": "4",
+  "description": "Provides an introduction to the topics of environmental inequality and environmental justice. Of particular interest is how race is implicated in the unequal exposure of populations to environmental pollution and in the social movements developed to address environmental inequality.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 180",
+  "title": "Survey of Chicano Literature",
+  "units": "4",
+  "description": "The course encompasses a general overview of all genres (poetry, novel, theater, short story and essay) of Chicano literature. A people's socio-historical experiences are examined to understand ethnicity, creativity, and world view.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 180H",
+  "title": "Survey of Chicano Literature (Honors)",
+  "units": "4",
+  "description": "Lecture is concurrent with Chicana/o Studies 180 Survey of Chicana/o Literature along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 181",
+  "title": "The Chicano Novel",
+  "units": "4",
+  "description": "Reading, analysis and critique of the contemporary Chicano novel as it pertains to the Chicano experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 182",
+  "title": "Contemporary Chicanx Environmental Justice Writers",
+  "units": "4",
+  "description": "Detailed reading and critical examination of a limited number of contemporary Chicano/a writers, with a focus on writing about racial environmental justice. A more intense study of their literary works than that provided in introductory courses.",
+  "prerequisites_raw": "Chicano Studies 1A or 1B or 1C or upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 1A",
+   "CH ST 1B",
+   "CH ST 1C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 183",
+  "title": "Border Narrative",
+  "units": "4",
+  "description": "Reading and analysis of U.S./Mexico border narratives (novels, essays, short stories, autobiographies) focusing on the problems associated with relations between countries.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 184A",
+  "title": "Chicana Writers",
+  "units": "4",
+  "description": "Examination of literary works by Chicana writers. Feminist theories as well as other contemporary critical theories are applied to the analysis of prose, poetry and dramatic works written by such authors as Sandra Cisneros, Ana Castillo, Helen Viramontes, and others.",
+  "prerequisites_raw": "Department approval required to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 184AH",
+  "title": "Chicana Writers (Honors)",
+  "units": "4",
+  "description": "Lecture is concurrent with Chicana/o Studies 184A Chicana Writers along with a weekly honors seminar, requiring additional assignments and intensive discussion of the readings. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 185",
+  "title": "De-Colonizing CyberCinema",
+  "units": "4",
+  "description": "Cybercinema is one of the most recent and innovative technologies for representing reality. What are its aesthetic forms, and how do they work tode-colonize the imagination under postcolonial conditions? Can we identify a specific \"Chicana/o\" criticism or aesthetics?",
+  "prerequisites_raw": "Concurrent enrollment in Chicano Studies 185L; upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 185L"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 185A",
+  "title": "Techno Imaginaries",
+  "units": "4",
+  "description": "Explores the role of technology in relation to Latino populations. Topics might include the digital divide, cyberpublics, television, film, computers, cyborgs, and medical technologies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 185L",
+  "title": "De-Colonizing CyberCinema Lab",
+  "units": "1",
+  "description": "Mandatory Laboratory for CHST 185.",
+  "prerequisites_raw": "Concurrent enrollment in Chicano Studies 185; upper-division standing.",
+  "prerequisites_courses": [
+   "CH ST 185"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 186A",
+  "title": "Chicano and Mexican Music",
+  "units": "4",
+  "description": "Traditional music from pre-Hispanic to contemporary; regional styles and instruments, indigenous and urban popular styles; social movement music from resistance against Spain, Independence, \"La Reforma,\" the Mexican Revolution, \"Cancion Nueva,\" the Chicano Movement and the contemporary Zapatistas.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH ST",
+  "code": "CH ST 187",
+  "title": "Language, Power, and Learning",
+  "units": "4",
+  "description": "Critical examination of institutional power related to education and linguistic and cultural diversity. Focus on Latinx communities; formal and informal learning; family practices; bilingual education; heritage languages; language and labor; language and racism; immigrant languages; racialized varieties of English.",
+  "prerequisites_raw": "Departmental Approval Required to Finalize Registration.",
+  "prerequisites_courses": []
+ }
+]

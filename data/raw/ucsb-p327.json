@@ -1,0 +1,377 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594P",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594R",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594S",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594SP",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594ST",
+  "title": "Special Topics in Soft Robotics",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594T",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 594X",
+  "title": "Special Topics in Multimedia Engineering, Visual Arts or Electronic Music",
+  "units": "0",
+  "description": "Special course in selected problems in multimedia engineering, visual arts, or electronic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 595",
+  "title": "Seminar Series",
+  "units": "0",
+  "description": "Seminar series for advanced topics in multimedia.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 595M",
+  "title": "Writing, Theory, Lectures, Seminars in Media Arts and Technology",
+  "units": "1",
+  "description": "A weekly writing, theory and guest lectures seminar, focused on research topics of interest to the wide fields at the intersection of media arts and technology. The seminar is organized in topical modules, covering writing methodologies, media theory, philosophy and critique.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 596",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Independent research, either experimental or theoretical, may be taken by properly qualified graduate students under the direction of a faculty member.",
+  "prerequisites_raw": "Consent of instructor and Director of graduate studies.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 597",
+  "title": "Individual Study for Ph.D. Examinations",
+  "units": "0",
+  "description": "Maximum of 12 units per quarter; enrollment limited to 24 units per examination. Instructor is normally student's major advisor or chair of dissertation committee. S/U grading. Individual studies for Ph.D. qualifying examination.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 598",
+  "title": "Master's Thesis Research and Project Research",
+  "units": "0",
+  "description": "For research underlying the thesis/project and writing of the thesis/project.",
+  "prerequisites_raw": "Consent of Master's adviser.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MAT",
+  "code": "MAT 599",
+  "title": "Ph.D. Dissertation Research and Preparation",
+  "units": "0",
+  "description": "For research and preparation of the dissertation.",
+  "prerequisites_raw": "Consent of dissertation advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 2A",
+  "title": "Calculus with Algebra and Trigonometry",
+  "units": "5",
+  "description": "Math 3A with precalculus: A function approach integrating algebra, trigonometry, and differential calculus. Topics include: one-on-one and onto functions; inverse functions; properties and graphs of polynomial, rational, exponential, and logarithmic functions; properties and graphs of trigonometric functions; analytic geometry; functions and limits; derivatives; techniques and applications of differentiation; introduction to integration; logarithmic and trigonometric functions.",
+  "prerequisites_raw": "Qualifying score on the Mathematics Placement Exam.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 2B",
+  "title": "Calculus with Algebra and Trigonometry",
+  "units": "5",
+  "description": "Math 3B with precalculus: A continued review of relevant topics from precalculus (see Math 2A); integral calculus, including definite and indefinite integrals; techniques of integration, introduction to sequences and series; with applications in mathematics and physics.",
+  "prerequisites_raw": "Mathematics 2A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 2A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 3A",
+  "title": "Calculus with Applications, First Course",
+  "units": "4",
+  "description": "Differential Calculus including analytic geometry, functions and limits, derivatives, techniques and applications of differentiation; introduction to integration; logarithmic and trigonometric functions.",
+  "prerequisites_raw": "Qualifying score on the Mathematics Placement Exam.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 3B",
+  "title": "Calculus with Applications, Second Course",
+  "units": "4",
+  "description": "Integral calculus including definite and indefinite integrals, techniques of integration; introduction to sequences and series; with applications in mathematics and physics.",
+  "prerequisites_raw": "Mathematics 3A with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 3A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 4A",
+  "title": "Linear Algebra with Applications",
+  "units": "4",
+  "description": "Systems of linear equations, matrix algebra, determinants, vector spaces and subspaces, basis and dimension, linear transformations, eigenvalues and eigenvectors, diagonalization, and orthogonality.",
+  "prerequisites_raw": "Math 2B or 3B or 3BI with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 4AI",
+  "title": "Inquiry Based Linear Algebra",
+  "units": "4",
+  "description": "Honors version of Mathematics 4A. Mathematical inquiry course is developed through problem solving and discovery.",
+  "prerequisites_raw": "Mathematics 3B or Mathematics 3BI with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 4B",
+  "title": "Differential Equations",
+  "units": "4",
+  "description": "First and second order differential equations, separation of variables, linear differential equations, systems of first order equations, nonlinear differential equations and stability.",
+  "prerequisites_raw": "Math 4A or Math 4AI with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 4AI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 4BI",
+  "title": "Inquiry Based Differential Equations",
+  "units": "4",
+  "description": "Honors version of Mathematics 4B. Mathematical inquiry course is developed through problem solving and discovery.",
+  "prerequisites_raw": "Mathematics 3C, 3CI, 4A, or 4AI with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 4AI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 6A",
+  "title": "Vector Calculus with Applications, First Course",
+  "units": "4",
+  "description": "Calculus of functions of several variables, vector valued functions of one variable, derivative and integrals of vector functions, double and triple integrals, properties and applications of integrals, change of variables.",
+  "prerequisites_raw": "Mathematics 4A (or 4AI) with a letter grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 4AI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 6B",
+  "title": "Vector calculus with Applications, Second Course",
+  "units": "4",
+  "description": "Scalar and vector fields, integration along paths, integration over surfaces and solid regions, integral theorems of vector calculus, Fourier series, partial differential equations.",
+  "prerequisites_raw": "Mathematics 4B (or 4BI) and Mathematics 6A, each with a minimum grade of C.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 4BI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 7H",
+  "title": "Honors Seminar-Calculus",
+  "units": "1",
+  "description": "Emphasizing fundamental concepts and applications. Intended for highly motivated and well prepared students.",
+  "prerequisites_raw": "Concurrent enrollment in Mathematics 3A or 3B or 3BI or 3C or 4A or 4AI or 4B or 4BI or 5A or 5AI or 6A or 6AI or 6B.",
+  "prerequisites_courses": [
+   "MATH 3A",
+   "MATH 3B",
+   "MATH 4A",
+   "MATH 4AI",
+   "MATH 4B",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 8",
+  "title": "Transition to Higher Mathematics",
+  "units": "5",
+  "description": "Introduction to the elements of propositional logic, techniques of mathematical proof, and fundamental mathematical structures, including sets, functions, relations, and other topics as time permits. Mastery of this material is essential for students planning to major in mathematics.",
+  "prerequisites_raw": "Mathematics 4A or 4AI or 4B or 4BI or 6A or 6B with a grade of B or better.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 4AI",
+   "MATH 4B",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 15",
+  "title": "Precalculus",
+  "units": "4",
+  "description": "A function approach integrating algebra and trigonometry. Topics include: one-on-one and onto functions; inverse functions; properties and graphs of polynomial, rational, exponential, and logarithmic functions; properties and graphs of inverse trigonometric identities and trignometric equations.",
+  "prerequisites_raw": "Algebra Diagnostic Test.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 34A",
+  "title": "Calculus for Social and Life Sciences",
+  "units": "4",
+  "description": "Introduction to differential and integral calculus with applications to modeling in the biological sciences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 34B",
+  "title": "Calculus for Social and Life Sciences",
+  "units": "4",
+  "description": "Continued study of differential and integral calculus with differential andintegral calculus with applications. Introduction to mathematical modeling with differential equations. Calculus of several variables including an introduction to partial derivatives.",
+  "prerequisites_raw": "Mathematics 2A or 3A or 34A or 34LA with a grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A",
+   "MATH 34A",
+   "MATH 34LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 34LA",
+  "title": "Calculus for the Life Sciences",
+  "units": "4",
+  "description": "Applications of differential and integral calculus to the life sciences. Includes mathematical foundations, biology examples, and computer programming to simulate dynamic systems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 34LB",
+  "title": "Calculus for the Life Sciences",
+  "units": "4",
+  "description": "Applications of differential and integral calculus to the life sciences. Includes mathematical foundations, biology examples, and computer programming to simulate dynamic systems of more than one equation.",
+  "prerequisites_raw": "Mathematics 2A or 3A or 34A or 34LA with a grade of C or better.",
+  "prerequisites_courses": [
+   "MATH 2A",
+   "MATH 3A",
+   "MATH 34A",
+   "MATH 34LA"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 94",
+  "title": "Group Studies in Mathematics",
+  "units": "1",
+  "description": "Lectures and discussions on special topics. Designed for transfer students only.",
+  "prerequisites_raw": "Mathematics 4A or 4AI or 4B or 4BI or 6A or 6B with a grade of B or better.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 4AI",
+   "MATH 4B",
+   "MATH 4BI",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH",
+  "code": "MATH 100A",
+  "title": "Mathematics for Elementary Teaching, I",
+  "units": "3",
+  "description": "This class teaches ways to think about and explain elementary school mathematics. Topics include: cultural and base-n number systems, algorithms, elementary number theory, probability, and graphing.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

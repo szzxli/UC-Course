@@ -1,0 +1,335 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 4",
+  "title": "Second-Year Japanese",
+  "units": "5",
+  "description": "Continuation of Japanese 3. Course emphasizes the further development of both oral-aural proficiency and reading-writing skills with an intensive review of basic grammar as well as an introduction to more advanced grammar, vocabulary, and Kanji.",
+  "prerequisites_raw": "Japanese 3 with grade C or better, or equivalent",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 5",
+  "title": "Second-Year Japanese",
+  "units": "5",
+  "description": "Continuation of Japanese 4.",
+  "prerequisites_raw": "Japanese 4 with grade C or better, or equivalent",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 6",
+  "title": "Second-Year Japanese",
+  "units": "5",
+  "description": "Continuation of Japanese 5.",
+  "prerequisites_raw": "Japanese 5 with grade C or better, or equivalent",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 17",
+  "title": "Imagining the Samurai",
+  "units": "5",
+  "description": "A critical exploration of the image and myth of the samurai, Japan's hereditary warrior class, as constructed in Japanese literature, film, drama and art.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 25",
+  "title": "Violence and the Japanese State",
+  "units": "5",
+  "description": "Examines historiographically and sociologically the Japanese State's various engagements in violent acts during war and peace times.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 63",
+  "title": "Sociology of Japan",
+  "units": "5",
+  "description": "Sociological macro- and micro-analysis of Japanese society in the twentieth century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 73",
+  "title": "Introduction to Japanese Religion: Texts, Concepts, and Representations",
+  "units": "5",
+  "description": "A survey of the main authors, themes, and styles of the Japanese religious and philosophical traditions through readings from and analysis of some significant and influential original texts in English translation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 80",
+  "title": "Masterpieces of Japanese Literature",
+  "units": "5",
+  "description": "Examines a selection of works from Japanese literature, with the goal of understanding the major genres and their development over time. The cultural roles of literature, as well as criteria for critical evaluation, are also addressed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 99",
+  "title": "Independent Study in Japanese",
+  "units": "0",
+  "description": "Introduction to independent research in Japanese. Topic and content are decided by the supervising Professor in the Department of East Asian Languages and Cultural Studies.",
+  "prerequisites_raw": "minimum 3.0 cumulative GPA",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 99RA",
+  "title": "Independent Research Assistance in Japanese",
+  "units": "0",
+  "description": "Research details are decided by the supervising Professor in the Department of East Asian Languages and Cultural Studies.",
+  "prerequisites_raw": "minimum 3.0 cumulative GPA",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 111",
+  "title": "Japanese Folklore",
+  "units": "4",
+  "description": "Introduction to Japanese folklore and folklore studies. Concepts, categories, and methodologies of folklore studies will be applied to the narrative, life cycle, and material forms of Japanese folklore. Course also examines motives and aims of Japanese folklorists over time.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 112",
+  "title": "Survey of Modern Japanese Literature",
+  "units": "4",
+  "description": "A survey of Japanese literature after contact with the West, from 1868 to the present. Readings, lectures, and discussions in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 115",
+  "title": "Topics in Twentieth-Century Japanese",
+  "units": "4",
+  "description": "Topics to be considered will include: the Japanese novelist as intellectual and social critic; representations of the self and similarities and differences between the shosetsu and the western novel; and Japanese literature in and outside Japan.",
+  "prerequisites_raw": "Upper Division Standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 120A",
+  "title": "Third-Year Japanese I",
+  "units": "4",
+  "description": "Develops an intermediate to advanced level of aural-oral skills to carry on conversations on diverse topics with linguistic accuracy and cultural appropriateness, reading skills to comprehend authentic materials, and writing skills with grammatical accuracy and an increasing number of Kanji.",
+  "prerequisites_raw": "Japanese 6 with grade C or better, or equivalent",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 120B",
+  "title": "Third-Year Japanese II",
+  "units": "4",
+  "description": "Continuation of Japanese 120A.",
+  "prerequisites_raw": "Japanese 120A with grade C or better, or equivalent",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 120C",
+  "title": "Third-Year Japanese III",
+  "units": "4",
+  "description": "Continuation of Japanese 120B.",
+  "prerequisites_raw": "Japanese 120B with grade C or better, or equivalent.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 136",
+  "title": "Early Modern Japanese Literature",
+  "units": "4",
+  "description": "A survey (in English translation) of Japanese fiction, poetry, and drama from the early modern period, or approximately 1600 to 1868. Topics include popular fiction, supernatural tales, travel literature, haikai and haiku, and puppet theater and kabuki.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 137",
+  "title": "Japanese Humor",
+  "units": "4",
+  "description": "An examination of humor and the comic tradition in Japanese culture and literature from earliest times through the present. Topics include comic fiction and poetry, parody and satire, comic storytelling and jokes, standup and slapstick, and TV variety shows.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 138",
+  "title": "Japanese Diasporas",
+  "units": "4",
+  "description": "This course explores the diverse people of Japanese descent in North America, Latin America, and Asia in the modern and contemporary periods. Students investigate how movements shape identities by analyzing a multicultural array of sources including books, articles, and movies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 139",
+  "title": "Critical Theory Through Anime and Manga",
+  "units": "4",
+  "description": "This course teaches critical theories by combining academic texts by scholars and popular culture products such as anime and manga. The topics include power, hegemony, agency, ritual, magic, hybridity, among others.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 140",
+  "title": "Curiosity and Spectacle in Early Modern Japan",
+  "units": "4",
+  "description": "Cultural and intellectual movements of early modern (Edo) Japan explored through the themes of curiosity and spectacle. Travel, material culture, print media, popular fiction and theater, sideshows and street performers, natural history, the supernatural, the study of foreign cultures and of the past.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 144",
+  "title": "Advanced Japanese Readings I",
+  "units": "4",
+  "description": "Designed to further develop skills in reading by focusing on analysis of Japanese sentence structure.",
+  "prerequisites_raw": "Japanese 120C",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 145",
+  "title": "Advanced Japanese Readings II",
+  "units": "4",
+  "description": "Introduces advanced students to selected prose and poetry from post-World War II period.",
+  "prerequisites_raw": "Japanese 144.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 146",
+  "title": "Advanced Japanese Readings III",
+  "units": "4",
+  "description": "A selection of texts, including both fiction and non-fiction, by representative authors from the Meiji period to the present.",
+  "prerequisites_raw": "Japan 145.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 149",
+  "title": "Traditional Japanese Theater",
+  "units": "4",
+  "description": "The major forms of traditional Japanese theater examined through their distinctive features, the ways in which they relate to one another, and the ways in which they connect to broader aspects of Japanese culture. Frequent use of audio-visual materials.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 150",
+  "title": "Globalizing Japan: Culture and Society",
+  "units": "4",
+  "description": "Examines youth culture, sex and gender, terrorism, migration, race/ethnicity, employment, and consumption patterns to understand the contours of a changing Japan. Investigates the tension between preserving \"traditional values\" and yielding to the influence of globalization.",
+  "prerequisites_raw": "upper division standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 153",
+  "title": "Death, Love & Money in Modern Japan",
+  "units": "4",
+  "description": "How does capitalism remake intimacy and love? How does kinship shape the experiences of aging and death? What is relationship between gender and economy? Students explore these key questions by examining theoretical texts, movies, anime, and manga, among others.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 156",
+  "title": "The Cultural Roots of the Japanese Horror Film",
+  "units": "4",
+  "description": "From classical tales of noblemen and warriors to ghost dramas of medieval and early modern Japan, we will explore premodern creative expression concerning ghosts and their modern appearances in horror films and anime. Texts, images, and film will be used.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 159",
+  "title": "Japanese Cinema",
+  "units": "4",
+  "description": "An introductory scrutiny of major Japanese directors: Mizoguchi, Ozu, Oshima, and Kurosawa. Close attention to their film composition, choices ofsubject and character, their ideas of the cinematic, and the relationship of cinema to Japanese culture and society.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 160",
+  "title": "Topics in Japanese Culture",
+  "units": "4",
+  "description": "Exploration of selected themes that have persisted in Japanese culture to the present.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 161",
+  "title": "Ethnic and Social Diversity in Japan",
+  "units": "4",
+  "description": "Examines how difference is conceptualized and camouflaged in Japan despite an ideology of ethnic homogeneity. Considers the history and development of, and contemporary politics within internal and external minority communities and their diasporas across Japan.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 162",
+  "title": "Representations of Sexuality in Modern Japan",
+  "units": "4",
+  "description": "This course examines the main ideologies guiding the establishment of various representations of sexuality from prewar scientific writings to contemporary popular culture.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "JAPAN",
+  "code": "JAPAN 164",
+  "title": "Modernity and the Masses of Taisho Japan",
+  "units": "4",
+  "description": "Examines the beginnings of a modern mass culture in early twentieth- century Japan. Central topics are political and social movements, the new woman and the modern girl, westernization, new media and censorship, modernism and nationalism.",
+  "prerequisites_raw": "History 80 or 87 or Upper Division Standing",
+  "prerequisites_courses": [
+   "HIST 80",
+   "HIST 87"
+  ]
+ }
+]

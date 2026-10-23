@@ -1,0 +1,290 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 174",
+  "title": "Biocircuit Design for Engineers",
+  "units": "3",
+  "description": "Introduction to fundamental principles underlying synthetic biology with an emphasis on mathematical modeling of gene regulation using ordinary differential equations and mass action kinetics. Students are introduced to foundational concepts in molecular and cellular engineering, synthetic biology, quantitative modeling of various genetic circuits, as well as cutting edge applications of innovative molecular biotechnologies such as cancer immunotherapy and cell-based diagnostics. Students will also learn to design and predict the functional outcomes of synthetic gene circuits and review primary literature in the field. At the end of this course, students are expected to develop a quantitative understanding of genetic circuit design.",
+  "prerequisites_raw": "Chemical Engineering 10, Chemical Engineering 107 or equivalent or consent of instructor.",
+  "prerequisites_courses": [
+   "CH E 10",
+   "CH E 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 179",
+  "title": "Biotechnology Laboratory",
+  "units": "4",
+  "description": "Description: This course will provide an introduction to theoretical principles and practical methods used in modern biotechnology, genetic engineering, and synthetic biology. Topics will include protein and cellular engineering using recombinant DNA technologies, mutagenesis, library construction, and biosynthetic display technologies.",
+  "prerequisites_raw": "Chemical Engineering 170 or MCDB 1A or Chemistry 142A-B or Consent of Instructor.",
+  "prerequisites_courses": [
+   "CH E 170",
+   "MCDB 1A",
+   "CHEM 142A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 180A",
+  "title": "Chemical Engineering Laboratory",
+  "units": "3",
+  "description": "Experiments in thermodynamics, fluid mechanics, heat transfer, mass transfer, and chemical processing. Analysis of results, and preparation of reports.",
+  "prerequisites_raw": "Chemical Engineering 110A and 120A-B.",
+  "prerequisites_courses": [
+   "CH E 110A",
+   "CH E 120A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 180B",
+  "title": "Chemical Engineering Laboratory",
+  "units": "3",
+  "description": "Experiments in mass transfer, reactor kinetics, process control, and chemical and biochemical processing. Analysis of results, and preparation of reports.",
+  "prerequisites_raw": "Chemical Engineering 120C, 128, 140A and 152A.",
+  "prerequisites_courses": [
+   "CH E 120C",
+   "CH E 128",
+   "CH E 140A",
+   "CH E 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 184A",
+  "title": "Design of Chemical Processes",
+  "units": "3",
+  "description": "Applications of chemical engineering principles to reactor and plant design. Conceptual design of chemical processes. Flowsheeting methods. Engineering cost principles and economic aspects.",
+  "prerequisites_raw": "Chemical Engineering 110A-B, 120A-B-C, 128, 132B, 140A-B, and 152A.",
+  "prerequisites_courses": [
+   "CH E 110A",
+   "CH E 120A",
+   "CH E 128",
+   "CH E 132B",
+   "CH E 140A",
+   "CH E 152A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 184B",
+  "title": "Design of Chemical Processes",
+  "units": "3",
+  "description": "The solution to comprehensive plant design problems. Use of computer process simulators. Optimization of plant design, investment and operations.",
+  "prerequisites_raw": "Chemical Engineering 184A.",
+  "prerequisites_courses": [
+   "CH E 184A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 193",
+  "title": "Internship in Industry",
+  "units": "0",
+  "description": "Special projects for selected students. Offered in conjunction with engineering practice in selected industrial and research firms, under direct faculty supervision. A 2-4 page paper and an evaluation from the supervisor will be required for credit.",
+  "prerequisites_raw": "Consent of Department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 194",
+  "title": "Group Studies for Advanced Students",
+  "units": "0",
+  "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+  "prerequisites_raw": "Consent of instructor. Limited to majors in the College of Engineering.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 196",
+  "title": "Undergraduate Research",
+  "units": "0",
+  "description": "Research opportunities for undergraduate students. Students are expected to give regular oral presentations, actively participate in a weekly seminar, and prepare at least one written report on their research.",
+  "prerequisites_raw": "Upper-division standing, completion of 2 upper-division courses in Chemical Engineering; consent of the instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 198",
+  "title": "Independent Studies in Chemical Engineering",
+  "units": "0",
+  "description": "Directed individual studies.",
+  "prerequisites_raw": "Consent of instructor; upper-division standing; completion of 2 upper-division courses in Chemical Engineering.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 202",
+  "title": "Biomaterials and Biosurfaces",
+  "units": "3",
+  "description": "Fundamentals of natural and artificial biomaterials and biosurfaces with emphasis on molecular level structure and function and their interactions with the body. Design issues of grafts and biopolymers. Basic biological, biophysical and biochemical systems reviewed for nonbiologists.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 210A",
+  "title": "Fundamentals and Applications of Classical Thermodynamics and Statistical Mechanics",
+  "units": "4",
+  "description": "Fundamental concepts in classical thermodynamics and statistical mechanics for engineering students. Establishes the framework within which problems can be solved using methodologies that start with molecular level understanding.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 210B",
+  "title": "Advanced Topics in Equilibrium Statistical Mechanics",
+  "units": "3",
+  "description": "Application of the principles of statistical mechanics and thermodynamics to treat classical fluid systems at equilibrium. Topics include liquid state theory, computer simulation methods, critical phenomena and scaling principles, interfacial statistical mechanics, and electrolyte theory.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 210C",
+  "title": "Statistical Mechanics",
+  "units": "3",
+  "description": "Fundamentals of non-equilibrium statistical mechanics, kinetic theory of gases, Boltzmann equation, correlation functions, linear response theory, fluctuation-dissipation theorem, Langevin and Fokker-Planck equations.",
+  "prerequisites_raw": "Consent of graduate advisor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 210D",
+  "title": "Principles of Modern Molecular Simulation Methods",
+  "units": "3",
+  "description": "Provides a broad overview of modern methods for computing the properties of multibody molecular systems. The course will cover: ab initio techniques, classical potential energy functions, Monte Carlo and molecular dynamics methods, free energy calculations, phase equilibria, and self-assembly/organization.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 211A",
+  "title": "Matrix Analysis and Computation",
+  "units": "4",
+  "description": "Graduate level-matrix theory with introduction to matrix computations. SVD's, pseudoinverses, variational characterization of eigenvalues, perturbation theory, direct and iterative methods for matrix computations.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 211B",
+  "title": "Numerical Simulation",
+  "units": "4",
+  "description": "Linear multistep methods and Runge-Kutta methods for ordinary differential equations: stability, order and convergence. Stiffness. Differential algebraic equations. Numerical solution of boundary value problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 211C",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Difference Methods",
+  "units": "4",
+  "description": "Finite difference methods for hyperbolic, parabolic and elliptic PDE's, with application to problems in science and engineering. Convergence, consistency, order and stability of finite difference methods. Dissipation and dispersion. Finite volume methods. Software design and adaptivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 211D",
+  "title": "Numerical Solution of Partial Differential Equations--Finite Element Methods",
+  "units": "4",
+  "description": "Weighted residual and finite element methods for the solution of hyperbolic, parabolic and elliptical partial differential equations, with application to problems in science and engineering. Error estimates. Standard and discontinuous Galerkin methods.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 216A",
+  "title": "Introduction to Magnetic Resonance Spectroscopy Techniques",
+  "units": "3",
+  "description": "An introduction to magnetic resonance theory and experimental techniques, with emphasis on quantum-mechanical descriptions of basic NMR methods for solid-state applications.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 216B",
+  "title": "Advanced Methods of Magnetic Resonance with Applications to Materials Science",
+  "units": "3",
+  "description": "This course is intended to provide an understanding of advanced methods of magnetic resonance spectroscopy and imaging, emphasizing new applications to current issues in materials research.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 220A",
+  "title": "Advanced Transport Processes-Laminar Flow and Convective Transport Processes",
+  "units": "4",
+  "description": "Basic principles of fluid mechanics and convective transport processes. Governing equations and boundary conditions. Non-dimensionalization and scaling. Self-similar solutions and similarity transformations. Unidirectional flows. The thin gap approximation, lubrication theory and thin film dynamics. Low Reynolds number flows.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 220B",
+  "title": "Advanced Transport Processes-Laminar Flow and Convective Transport Processes",
+  "units": "3",
+  "description": "Continuation of ChE 220A. Viscous flows. Application of scaling and asymptotic methods to transport problems and fluid motions; Weak convection effects; Boundary layer theories for fluid mechanics and transport processes. Introduction to Linear stability theory for interfacial and buoyancy-driven flows.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 220C",
+  "title": "Advanced Transport Processes-Mass Transfer",
+  "units": "3",
+  "description": "Basic principles of diffusional processes, multicomponent systems, diffusion with chemical reaction, penetration and surface renewal theories, turbulent transport.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 220D",
+  "title": "Complex Fluids and Rheology",
+  "units": "3",
+  "description": "Microstructural basis of constitutive models for simple complex fluids (dilute suspensions of non-spherical Brownian particles). Qualitative physics that leads to viscoelastic behavior in a variety of complex fluids, including polymeric liquids (dilute solutions and melts), wormlike micelle solutions, liquid crystalline fluids, emulsions, gels, and suspensions of vesicles or cells. Relationship between microscale physics and macroscopic rheology of materials in flow, including spatial non-uniformities in material properties that arise when flow couples to concentration or molecular weight.",
+  "prerequisites_raw": "Chemical Engineering 220A-B",
+  "prerequisites_courses": [
+   "CH E 220A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "CH E",
+  "code": "CH E 221",
+  "title": "Turbulent Flow",
+  "units": "3",
+  "description": "Nature and origin of turbulence, boundary layer mechanics law of the wall, wakes, and jets, transport of properties, statistical description of turbulence, measurement problems, stratification effects. Application of principles to practical problems is stressed.",
+  "prerequisites_raw": "ChE 220A-B or ME 220A-B.",
+  "prerequisites_courses": [
+   "ME 220A"
+  ]
+ }
+]

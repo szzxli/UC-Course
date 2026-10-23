@@ -1,0 +1,260 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 273A",
+  "title": "Language and the Body",
+  "units": "4",
+  "description": "Brings together the methods and findings of functional linguistics and those of conversation analysis in a dialogue centering on the visible behavior of the body in the organization of talk-in-interaction, especially gesture, gaze, and body movement.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 273B",
+  "title": "Language and the Body",
+  "units": "4",
+  "description": "Brings together the methods and findings of functional linguistics and those of conversation analysis in a dialogue centering on the visible behavior of the body in the organization of talk-in-interaction, especially gesture, gaze, and body movement.",
+  "prerequisites_raw": "Sociology 273A.",
+  "prerequisites_courses": [
+   "SOC 273A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 274",
+  "title": "Proseminar in Language, Interaction, and Social Organization",
+  "units": "0",
+  "description": "Discussion of current research, literature, and theoretical and methodological issues in language and social interaction.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 275",
+  "title": "Proseminar in Race, Ethnicity, and Nation",
+  "units": "2",
+  "description": "Proseminar attached to the Race/Ethnicity/Nation area of the graduate program in Sociology. Focus on student research and emerging literature in REN related areas. Periodic colloquia by visitors. Meets biweekly.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 290A",
+  "title": "Professional Development Seminar",
+  "units": "4",
+  "description": "The professional roles of sociologists as teacher, researcher, and colleague will be explored. Introduces students to the culture of the discipline, the department and the university. Colloquia presentations will be considered as alternative modes of teaching effectiveness. Faculty presentations on their own pedagogic methods and current research activity will be included.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 290B",
+  "title": "Professional Development Seminar",
+  "units": "4",
+  "description": "The professional roles of sociologists as teacher, researcher, and colleague will be explored. Introduces students to the culture of the discipline, the department, and the university. Students will explore the skills and sensibilities required for effective research, writing, publishing, teaching in undergraduate settings, participation in professional organizations, and presenting papers at academic conferences.",
+  "prerequisites_raw": "Completion of MA degree and all required MA coursework. Must be taken post-MA.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 294",
+  "title": "Special Topics",
+  "units": "4",
+  "description": "Special seminar on research subjects of current interest.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 501",
+  "title": "Apprentice Teaching",
+  "units": "4",
+  "description": "The application of research and theory to classroom practice in the teaching of undergraduate sociolgy courses. At the teaching assistant level, faculty will supervise individual students as they lead discussion sections, prepare and grade examinations, read written assignments, and engage in individual consultations with undergraduates. Associates will be responsible for courses in their entirety. Weekly meetings with instructor are required.",
+  "prerequisites_raw": "Sociology 290A-B-C and teaching assistant or associate status.",
+  "prerequisites_courses": [
+   "SOC 290A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 502",
+  "title": "Research Assistance Practicum",
+  "units": "0",
+  "description": "Content will vary with individual students, each of whom will be instructedin the practical aspects of doing research in the area employed--bibliographical work, interviewing, statistical analyses, or questionnaire construction and analysis. Weekly group meetings with instructor are required.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 591",
+  "title": "Graduate Workshop In Sociological Research",
+  "units": "0",
+  "description": "Presentation of research completed, in progress or proposed, with faculty in attendance. Students are expected to offer critical and useful comments on research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 595",
+  "title": "Group Studies",
+  "units": "4",
+  "description": "Critical review of research in selected fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 596",
+  "title": "Directed Reading And Research",
+  "units": "0",
+  "description": "Individual tutorial. Plan of study must be approved by department chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 597",
+  "title": "Independant Study M.A.-Ph.D. Examinations",
+  "units": "0",
+  "description": "Individual study for M.S. and Ph.D examinations. Normally taken with the student's committee chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 598",
+  "title": "M.A. Thesis Research Preparation",
+  "units": "0",
+  "description": "M.A. thesis research and preparation. Research and preparation for the Master's thesis. Normally taken with the student's M.A. committee chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 599",
+  "title": "Ph.D Dissertation Research and Preparation.",
+  "units": "0",
+  "description": "Ph.D. dissertation research and preparation. Ph.D. dissertation preparation. Normally taken with the student's committee chair.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC W",
+  "code": "SOC W 10",
+  "title": "Logics of Sociological Inquiry",
+  "units": "5",
+  "description": "Central to the course is a review of major sociological research traditions, including but not limited to: experiments, surveys, observational studies, ethnography, interviews, focus groups, and analysis of available data, including online sources and other digital media. Exposing and training students who intend to major in sociology to the research methods that sociologists use to create knowledge facilitates an understanding of the connection between theory and research, develops critical thinking skills by teaching students how to evaluate sociological knowledge, and lays the groundwork for our upper-division coursework, in particular our upper-division hands-on methods courses (108 series).",
+  "prerequisites_raw": "SOC 1",
+  "prerequisites_courses": [
+   "SOC 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC W",
+  "code": "SOC W 126",
+  "title": "Urban Society",
+  "units": "4",
+  "description": "Problems of the city, (e.g., congestion, homelessness, violence) are examined in light of larger economic and social forces which structure urban life. Through use of slides depicting urban settings, causes and consequences of different ways urban settlements have been organized are considered.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC W",
+  "code": "SOC W 130SG",
+  "title": "Sociology of Globalization",
+  "units": "4",
+  "description": "Introduction to the sociological study of globalization. Survey of principal theories and debates in globalization studies with a focus on economic, political, and cultural transnational processes, gender/race/class and globalization, transnational social movements, and local-global linkages.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC W",
+  "code": "SOC W 139NG",
+  "title": "Special Topics in Race, Ethnicity, and Nation: Native American Genders and Sexualities",
+  "units": "4",
+  "description": "This course introduces students to some of the most salient and critical themes/interventions within the field of queer Indigenous studies across the Americas and the Pacific from a sociological perspective with a focus on the sociology of gender and sexuality. As a uniquely American Indian driven perspective on issues of sexuality, this course examines not just sexuality and issues of gender, but provides students with course content distinct from any other in the department and university---it offers a historic and contemporary analysis of Native and Indigenous sexuality that is specific to the field of American Indian Studies and Critical Ethnic Studies.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC W",
+  "code": "SOC W 155",
+  "title": "Sociology of Gender",
+  "units": "4",
+  "description": "Examines the gendered dynamics of social relations in social institutions and interactions. We ask the questions: Why do men and women appear to be so different? Why are men and women found in different places in society? Why do gender inequalities persist? This course takes a sociological, intersectional, evidence-based approach to understanding gender as social. Provide students with practice in critical thinking skills as well as an overview of how feminist, social scientists think about gender.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC W",
+  "code": "SOC W 164",
+  "title": "Sociology of Education",
+  "units": "4",
+  "description": "Changing character of education in complex societies, its relation to political, economic, and technological institutions; and its effect on individual and community behavior and development.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC W",
+  "code": "SOC W 185G",
+  "title": "Theories of Gender and Inequality",
+  "units": "4",
+  "description": "Varying theoretical perspectives on cause of gender inequaltiy, maintenanceand reproduction of gender systems, social consequences of gender stratification, and dynamics of change in systems of inequality.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 1",
+  "title": "Elementary Spanish I",
+  "units": "4",
+  "description": "Students will learn to use Spanish for communication in real, meaningful situations. This course will develop an understanding of basic grammatical concepts along with obtaining an appreciation of the various cultures of the Spanish-speaking world. The course follows a communicative approach and class time is primarily used for communication practice and Spanish will be spoken in class 99% of the time. By the end of this course students are expected to develop proficiency at the Novice-mid level.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 1HY",
+  "title": "Hybrid Elementary Spanish I",
+  "units": "4",
+  "description": "SPAN 1HY is the first course in a three-part hybrid Spanish series (SPAN 1HY, 2HY, 3HY), equivalent to the SPAN 1, 2, 3 Elementary Spanish sequence. Combining face-to-face instruction with online work, this course uses a communicative approach to develop basic Spanish skills for real-life situations. Class time focuses on active communication, with 99% of instruction conducted in Spanish. Students will build foundational grammar skills and gain insight into the diverse cultures of the Spanish-speaking world. By the end of the course, students are expected to reach Novice-Mid proficiency.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 2",
+  "title": "Elementary Spanish II",
+  "units": "4",
+  "description": "Students will learn to use Spanish for communication in real, meaningful situations. This course will develop an understanding of basic grammatical concepts along with obtaining an appreciation of the various cultures of the Spanish-speaking world. The course follows a communicative approach and class time is primarily used for communication practice and Spanish will be spoken in class 99% of the time. By the end of this course students are expected to develop proficiency at the Novice-high level.",
+  "prerequisites_raw": "Spanish 1 or Spanish W1 with a grade of P or a grade of C or higher.",
+  "prerequisites_courses": [
+   "SPAN 1"
+  ]
+ }
+]

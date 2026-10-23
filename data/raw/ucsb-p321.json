@@ -1,0 +1,414 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 229",
+  "title": "Linguistics of Sign Languages",
+  "units": "4",
+  "description": "A comprehensive introduction to the linguistics of sign languages. Discussion of different theoretical and methodological approaches to investigating lexicons and grammars of sign languages, sociolinguistics of diverse signing communities, and practical, and ethical issues for conducting sign language research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 230",
+  "title": "Methods in Sociocultural Linguistics",
+  "units": "4",
+  "description": "Field methodologies for research on language, culture, and society. Topics include ethics and politics of research, ethnographic methods, interviewing, audio and video data collection, fieldnotes, relationship between fieldwork and analysis. Students carry out original field research during the quarter.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 232",
+  "title": "Foundations of Sociocultural Linguistics",
+  "units": "4",
+  "description": "Investigates sociocultural theories of language as developed in linguistics, anthropology, sociology, philosophy and other fields. A comparative survey of the major theoretical issues in the field both historically and in the present day, with an emphasis on the relationship between theory and empirical analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 233",
+  "title": "Language, Gender, and Sexuality",
+  "units": "4",
+  "description": "Advanced study of the linguistic dimensions of gender and sexuality. Emphasis on the role of language in feminist theory and gender theory; evaluation and application of research methods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 234",
+  "title": "Advanced Syntax",
+  "units": "4",
+  "description": "Functional approaches to syntax. Methods of syntactic description and explanation. Survey of clause-level syntactic structures in diverse languages.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 235",
+  "title": "Advanced Phonology",
+  "units": "4",
+  "description": "Review of articulatory and acoustic phonetics and method of phonological description and analysis. Current issues in phonological theory. Survey of phonological patterns and systems in diverse languages.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 236",
+  "title": "African-American Language and Culture",
+  "units": "4",
+  "description": "This advanced sociolinguistics course examines the linguistic, literary, cultural, and communicative aspects of African-American language across the African-American Diaspora. We blend diachronic and synchronic methodologies in order to create community-based participatory research approaches to the study of African-Americans and their language.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 237",
+  "title": "Introduction to First Language Acquisition",
+  "units": "4",
+  "description": "An introduction to the interdisciplinary enterprise of understanding first language acquisition, overview of different theoretical and methodological approaches, and introduction to developmental processes in sub-areas such as phonology, morphology, lexicon, syntax, and semantics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 241",
+  "title": "Topics in Phonetics and Phonology",
+  "units": "4",
+  "description": "Specialized topics in phonetics and phonology.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 242",
+  "title": "Advanced Phonological Typology",
+  "units": "4",
+  "description": "Advanced study of the typology of sound systems found in languages of the world. Considers the areal and genetic distribution of phonological patterns and examines the treatment of these patterns in phonological history.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 243",
+  "title": "Topics in Sign Language Lingusitics",
+  "units": "4",
+  "description": "Specialized topics in sign language linguistics. Topics may include theories and research methods that are specific to sign languages and deaf signing communities, practices of documentation and description of sign languages from grammar to interaction, and research ethics. Students may develop their own new projects, focus on existing projects, or participate in a collaborative project as primary coursework.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 244",
+  "title": "Sociophonetics",
+  "units": "4",
+  "description": "The study of phonetic variation as an aspect of sociocultural linguistic practice. Assumes familiarity with the fundamentals of phonetics. Focus on exploring how to productively combine the theory and methods of phonetics and sociocultural linguistics. Emphasis on the acquisition of analytical skills.",
+  "prerequisites_raw": "One basic course in phonetics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 245",
+  "title": "Topics in Language Change",
+  "units": "4",
+  "description": "Specialized topics in language change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 246",
+  "title": "Topics in Discourse",
+  "units": "4",
+  "description": "Specialized topics in discourse.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 247",
+  "title": "Topics in Psycholinguistics",
+  "units": "4",
+  "description": "Specialized topics in psycholinguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 248",
+  "title": "Topics in Sociocultural Linguistics",
+  "units": "4",
+  "description": "Specialized topics in sociocultural linguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 250",
+  "title": "Language Documentation",
+  "units": "4",
+  "description": "Issues in the creation of lasting multipurpose records of a language. Documentation as collaborative, community-based initiative. Description and documentation, archive creation, metadata, technologies, materials, ethics, ethnography, orthography, and multimedia. Students participate in a collaborative documentation project as primary coursework.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 251A",
+  "title": "Seminar in Phonetics and Phonology",
+  "units": "4",
+  "description": "Specialized topics in phonetics and phonology.",
+  "prerequisites_raw": "Linguistics 235.",
+  "prerequisites_courses": [
+   "LING 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 251B",
+  "title": "Seminar in Phonetics and Phonology",
+  "units": "4",
+  "description": "Specialized topics in phonetics and phonology.",
+  "prerequisites_raw": "Linguistics 235 and 251A.",
+  "prerequisites_courses": [
+   "LING 235",
+   "LING 251A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 252A",
+  "title": "Seminar in Morphology and Syntax",
+  "units": "4",
+  "description": "Specialized topics in morphology and syntax.",
+  "prerequisites_raw": "Linguistics 234.",
+  "prerequisites_courses": [
+   "LING 234"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 252B",
+  "title": "Seminar in Morphology and Syntax",
+  "units": "4",
+  "description": "Specialized topics in morphology and syntax.",
+  "prerequisites_raw": "Linguistics 252A.",
+  "prerequisites_courses": [
+   "LING 252A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 253A",
+  "title": "Seminar in Semantics and Pragmatics",
+  "units": "4",
+  "description": "Specialized topics in semantics and pragmatics.",
+  "prerequisites_raw": "Linguistics 225.",
+  "prerequisites_courses": [
+   "LING 225"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 253B",
+  "title": "Seminar in Semantics and Pragmatics",
+  "units": "4",
+  "description": "Specialized topics in semantics and pragmatics.",
+  "prerequisites_raw": "Linguistics 225 and 253A.",
+  "prerequisites_courses": [
+   "LING 225",
+   "LING 253A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 254A",
+  "title": "Seminar in Discourse",
+  "units": "4",
+  "description": "Specialized topics in discourse.",
+  "prerequisites_raw": "Linguistics 212 or 214 or 234.",
+  "prerequisites_courses": [
+   "LING 212",
+   "LING 214",
+   "LING 234"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 254B",
+  "title": "Seminar in Discourse",
+  "units": "4",
+  "description": "Specialized topics in discourse.",
+  "prerequisites_raw": "Linguistics 212, 214, 234, and 254A.",
+  "prerequisites_courses": [
+   "LING 212",
+   "LING 214",
+   "LING 234",
+   "LING 254A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 255A",
+  "title": "Seminar in Language Change",
+  "units": "4",
+  "description": "Specialized topics in language change.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 255B",
+  "title": "Seminar in Language Change",
+  "units": "4",
+  "description": "Specialized topics in language change.",
+  "prerequisites_raw": "Linguistics 255A.",
+  "prerequisites_courses": [
+   "LING 255A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 256A",
+  "title": "Seminar in Typology and Universals",
+  "units": "4",
+  "description": "Specialized topics in typology and universals.",
+  "prerequisites_raw": "Linguistics 222 or 234 or 235.",
+  "prerequisites_courses": [
+   "LING 222",
+   "LING 234",
+   "LING 235"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 256B",
+  "title": "Seminar in Typology and Universals",
+  "units": "4",
+  "description": "Specialized topics in typology and universals.",
+  "prerequisites_raw": "Linguistics 222, 234, 235, and 256A.",
+  "prerequisites_courses": [
+   "LING 222",
+   "LING 234",
+   "LING 235",
+   "LING 256A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 257A",
+  "title": "Seminar in Psycholinguistics",
+  "units": "4",
+  "description": "Specialized topics in psycholinguistics.",
+  "prerequisites_raw": "Linguistics 211.",
+  "prerequisites_courses": [
+   "LING 211"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 257B",
+  "title": "Seminar in Psycholinguistics",
+  "units": "4",
+  "description": "Specialized topics in psycholinguistics.",
+  "prerequisites_raw": "Linguistics 211 and 257A.",
+  "prerequisites_courses": [
+   "LING 211",
+   "LING 257A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 258A",
+  "title": "Seminar in Sociocultural Linguistics",
+  "units": "4",
+  "description": "Specialized topics in sociocultural linguistics.",
+  "prerequisites_raw": "Linguistics 227 or 228 or 230 or 232.",
+  "prerequisites_courses": [
+   "LING 227",
+   "LING 228",
+   "LING 230",
+   "LING 232"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 258B",
+  "title": "Seminar in Sociocultural Linguistics",
+  "units": "4",
+  "description": "Specialized topics in sociocultural linguistics.",
+  "prerequisites_raw": "Linguistics 227 or 228 or 230 or 232; and Linguistics 258A.",
+  "prerequisites_courses": [
+   "LING 227",
+   "LING 258A",
+   "LING 228",
+   "LING 230",
+   "LING 232"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 259",
+  "title": "Trans Linguistics",
+  "units": "4",
+  "description": "Advanced introduction to the field of trans linguistics. Emphasis on the development of trans linguistic theory; cultivating trans linguistic methods; and opportunities for greater engagement between linguists and trans communities. Considers a range of identities, practices, languages, and cultural contexts.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 260",
+  "title": "Advanced Language Change",
+  "units": "4",
+  "description": "Types of theories of language change. Language families and subgroups. Internal and comparative reconstruction. The interpretation of historical records. Dialectology; sociolinguistic factors in language change and processes of grammaticization. Ramifications of observed changes for synchronic theories of language structure.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 261",
+  "title": "Syntax Beyond the Clause",
+  "units": "4",
+  "description": "Functional approaches to the syntax of multi-clausal constructions, including relative clause structures; complements; adverbial clauses; clause chaining; and issues of clause-combining, co-ordination and subordination.",
+  "prerequisites_raw": "Linguistics 234.",
+  "prerequisites_courses": [
+   "LING 234"
+  ]
+ }
+]

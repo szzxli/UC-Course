@@ -1,0 +1,602 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105QM",
+  "title": "Questions About Music",
+  "units": "0",
+  "description": "What is the essence of music? The nature of musical form and communication? What is at the heart of music making and music listening? What is music’s role in society? How do composers think and talk about music? This course explores these and other “questions about music” via the written word, personal reflection, and in-class discussion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105SB",
+  "title": "Special Topics",
+  "units": "0",
+  "description": "This special studies course allows faculty to design and execute courses that reflect their particular research and teaching.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105SY",
+  "title": "Synths and Sci-Fi Cinema",
+  "units": "0",
+  "description": "Explore the intersection of \"synths\" and sci-fi cinema in this course. We'll analyze iconic film scores and director/composer collaborations from the 1950s to today, including Kubrick/Carlos and Nolan/Zimmer. The course blends viewing sessions with discussions, presentations, and performances. Students have the opportunity to compose or improvise their own sci-fi soundscapes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 105WP",
+  "title": "Writing for Piano",
+  "units": "0",
+  "description": "Although one of the most commonly used instruments, piano can still be one of the trickiest instruments to master compositionally. In this course, we cover decades of styles, writing for solo piano, piano in chamber music, piano duo, & piano in orchestra. We also cover piano reductions and arranging for piano. Most assignments are small compositions and a final composition project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 106",
+  "title": "Computer Applications",
+  "units": "0",
+  "description": "Applications of the various campus computers to problems in music.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 107",
+  "title": "CCS Counterpoint",
+  "units": "0",
+  "description": "Studies in the concepts of counterpoint as they apply to original composition. Content will vary by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 110",
+  "title": "CCS Music History",
+  "units": "0",
+  "description": "Individual or small group instruction in selected topics related to the study of Music History.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 110AM",
+  "title": "Snapshots in the History of American Classical Music",
+  "units": "0",
+  "description": "History of Music in the United States, with a focus on notated traditions. Content will vary by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 110FS",
+  "title": "Fin de Siècle: Music from 1889-1919",
+  "units": "0",
+  "description": "This course is an historically based exploration of Western Art Music written during the years 1889-1919.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 110SQ",
+  "title": "The String Quartet",
+  "units": "0",
+  "description": "A historical survey of string quartet repertory. Content will vary by instructor.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 111",
+  "title": "CCS Readings in New Music",
+  "units": "0",
+  "description": "Focuses on the reading and recording of original student work, and the development of related skills.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS CS",
+  "code": "MUS CS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in music with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 11A",
+  "title": "INTERCOLL BASKETBAL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 11B",
+  "title": "INTERCOLL BASKETBAL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 11C",
+  "title": "INTERCOLL BASKETBAL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 11D",
+  "title": "INTERCOLL BASKETBAL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 12A",
+  "title": "ELEMENTARY JUDO",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 12B",
+  "title": "INTERMEDIATE JUDO",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 12C",
+  "title": "ADVANCED JUDO",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 14A",
+  "title": "INTRCOLL CRSS CNTRY",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 14B",
+  "title": "INTRCOLL CRSS CNTRY",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 14C",
+  "title": "INTRCOLL CRSS CNTRY",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 14D",
+  "title": "INTRCOLL CRSS CNTRY",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 15A",
+  "title": "ELEM MODERN DANCE",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 15B",
+  "title": "INTERMED MDRN DANCE",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 15C",
+  "title": "ADV MODERN DANCE",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 15D",
+  "title": "MODERN DANCE COMPOS",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 17B",
+  "title": "INTERMED SOC DANCE",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 17C",
+  "title": "ADV SOCIAL DANCE",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 18A",
+  "title": "ELEM FOIL FENCING",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 18B",
+  "title": "INTERMED FOIL FENCG",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 18C",
+  "title": "ADV FOIL FENCING",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 22A",
+  "title": "INTERCOLL GOLF",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 22B",
+  "title": "INTERCOLL GOLF",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 22C",
+  "title": "INTERCOLL GOLF",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 22D",
+  "title": "INTERCOLL GOLF",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 23A",
+  "title": "INTERCOLL GYMNASTIC",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 23B",
+  "title": "INTERCOLL GYMNASTIC",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 23C",
+  "title": "INTERCOLL GYMNASTIC",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 23D",
+  "title": "INTERCOLL GYMNASTIC",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 2A",
+  "title": "INTERCOLL BASEBALL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 2B",
+  "title": "INTERCOLL BASEBALL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 2C",
+  "title": "INTERCOLL BASEBALL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 2D",
+  "title": "INTERCOLL BASEBALL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 33A",
+  "title": "INTERCOLL SWIMMING",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 33B",
+  "title": "INTERCOLL SWIMMING",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 33C",
+  "title": "INTERCOLL SWIMMING",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 33D",
+  "title": "INTERCOLL SWIMMING",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 37A",
+  "title": "INTERCOLL TENNIS",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 37B",
+  "title": "INTERCOLL TENNIS",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 37C",
+  "title": "INTERCOLL TENNIS",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 37D",
+  "title": "INTERCOLL TENNIS",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 42A",
+  "title": "INTRCOLL TRCK-FIELD",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 42B",
+  "title": "INTRCOLL TRCK-FIELD",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 42C",
+  "title": "INTRCOLL TRCK-FIELD",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 42D",
+  "title": "INTRCOLL TRCK-FIELD",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 45A",
+  "title": "INTERCOL WATER POLO",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 45B",
+  "title": "INTERCOL WATER POLO",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 45C",
+  "title": "INTERCOL WATER POLO",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PA 1-",
+  "code": "PA 1- 45D",
+  "title": "INTERCOL WATER POLO",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

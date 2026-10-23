@@ -1,0 +1,363 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 58D",
+  "title": "Intensive Intermediate Persian II",
+  "units": "5",
+  "description": "Continuation of Intensive Intermediate Persian I (RGST 58C). Course objectives are: Refinement of intermediate level reading, and writing; Spoken communication at a complex intermediate level; Compare Persian-speaking cultures to students own cultures; Connect the Persian language to other relevant disciplines and current topics.",
+  "prerequisites_raw": "RG ST 58C or Instructor Approval.",
+  "prerequisites_courses": [
+   "RG ST 58C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 60A",
+  "title": "Elementary Punjabi I",
+  "units": "4",
+  "description": "Introduction to Punjabi, a major language of Northern India and Pakistan Beginning with the Gurmukhi script, the course offers an intensive study in the speaking, reading, and writing of the language.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 60B",
+  "title": "Elementary Punjabi II",
+  "units": "4",
+  "description": "Continuation of Punjabi I.",
+  "prerequisites_raw": "Religious Studies 60A or Global Studies 60A",
+  "prerequisites_courses": [
+   "RG ST 60A",
+   "GLOBL 60A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 60C",
+  "title": "Elementary Punjabi III",
+  "units": "4",
+  "description": "Continuation of Punjabi II.",
+  "prerequisites_raw": "Religious Studies 60B or Global Studies 60B",
+  "prerequisites_courses": [
+   "RG ST 60B",
+   "GLOBL 60B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 60D",
+  "title": "Intermediate Punjabi IV",
+  "units": "4",
+  "description": "Continuation of Punjabi III.",
+  "prerequisites_raw": "Religious Studies 60C or Global Studies 60C",
+  "prerequisites_courses": [
+   "RG ST 60C",
+   "GLOBL 60C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 60E",
+  "title": "Intermediate Punjabi V",
+  "units": "4",
+  "description": "Continuation of Punjabi IV.",
+  "prerequisites_raw": "Religious Studies 60D or Global Studies 60D",
+  "prerequisites_courses": [
+   "RG ST 60D",
+   "GLOBL 60D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 60F",
+  "title": "Intermediate Punjabi VI",
+  "units": "4",
+  "description": "Continuation of Punjabi V.",
+  "prerequisites_raw": "Religious Studies 60E or Global Studies 60E",
+  "prerequisites_courses": [
+   "RG ST 60E",
+   "GLOBL 60E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 61",
+  "title": "African Religions of the Americas",
+  "units": "5",
+  "description": "Introduces the history and practices of African-derived traditions as they have developed in the Caribbean, Latin America, and Black American communities in the US. These religious systems are discussed with reference to their representation in mainstream media (television shows and Hollywood movies, for example), and analyzed according to the more complex realities of practitioners everyday lives. Three themes to be explored in each tradition include 1) gender and sexuality; 2) racial identity and resistance; and 3) aesthetics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 62",
+  "title": "Dark Goddesses and Black Madonnas",
+  "units": "5",
+  "description": "Examines female deities and apparitions of the Virgin Mary historically depicted as dark-skinned, placing particular emphasis on the role color has played in defining their attributes, relationships with religious practitioners, and ethnic or racial identities. Among the goddesses to be discussed are the Egyptian Isis, Hindu Kali, Taiwanese Mazu, Tibetan Tara, Haitian Ezili Dantor, and Yoruba Yemonja. The Black Madonnas include the Catalan Montserrat, Polish Czestochowa, and Mexican Guadalupe.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 63",
+  "title": "Witches & Brujxs: Black Magic & (Afro-)Latinx Feminism",
+  "units": "5",
+  "description": "Approaches witchcraft as a cross-cultural phenomenon. We survey the concept and actual practice of European, West African, Black Atlantic, and Latin American witchcraft in order to promote media literacy, critical thinking, and comparative analysis of gender/sexuality, race/ethnicity, and religion. Among other topics, we discuss witch crazes in the early modern period; the legal prosecution of Obeah and Afro-Diasporic religions in the Caribbean; indigeneity and curanderismo; the experiences of African American conjure women, voodoo queens, and #blackgirlmagic; pagan, Wicca, and New Age witchery; the Latinx theoretical orientation of bruja feminism; spiritual activism; and the spellcraft of solitary LGBTQ practitioners.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 65A",
+  "title": "Introduction to Turkish Language I",
+  "units": "4",
+  "description": "Introduction to Turkish pronunciation, script, basic grammar, and vocabulary, including lessons in reading, writing, conversation, and oral comprehension. Course involves audio-visual materials and a general introduction to the literature and cultures of Turkey.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 65B",
+  "title": "Introduction to Turkish Language II",
+  "units": "4",
+  "description": "Continuation of Turkish I",
+  "prerequisites_raw": "RG ST 65A",
+  "prerequisites_courses": [
+   "RG ST 65A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 65C",
+  "title": "Introduction to Turkish Language III",
+  "units": "4",
+  "description": "Continuation of Turkish II",
+  "prerequisites_raw": "RG ST 65B",
+  "prerequisites_courses": [
+   "RG ST 65B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 65D",
+  "title": "Intermediate Turkish Language IV",
+  "units": "4",
+  "description": "Continuation of Turkish III",
+  "prerequisites_raw": "RG ST 65C",
+  "prerequisites_courses": [
+   "RG ST 65C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 65E",
+  "title": "Intermediate Turkish Language V",
+  "units": "4",
+  "description": "Continuation of Turkish IV",
+  "prerequisites_raw": "RG ST 65D",
+  "prerequisites_courses": [
+   "RG ST 65D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 65F",
+  "title": "Intermediate Turkish Language VI",
+  "units": "4",
+  "description": "Continuation of Turkish V",
+  "prerequisites_raw": "RG ST 65E",
+  "prerequisites_courses": [
+   "RG ST 65E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 66",
+  "title": "Introduction to African American Religion",
+  "units": "5",
+  "description": "Explores the historical contexts that shaped the varieties of African American religious thought, practices, and communities that developed from the trans-Atlantic slave trade to the present. Topics explored can include how iterations of African American religion responded to and were transformed by slavery, migration to American cities, the rise of ethnic identity, civil rights, and new art forms that became representative of Black humanity, creativity, and resistance.",
+  "prerequisites_raw": "No prerequisites for this course.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 70A",
+  "title": "Elementary Kazakh I",
+  "units": "4",
+  "description": "The beginning course in Kazakh language. Starting with the study of the alphabet, students learn the rudiments of the language. Basic grammar, vocabulary and conversation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 70B",
+  "title": "Elementary Kazakh II",
+  "units": "4",
+  "description": "Continuation of Kazakh I. Starting with the study of the alphabet, students learn the rudiments of the language. Basic grammar, vocabulary and conversation.",
+  "prerequisites_raw": "Religious Studies 70A or equivalent.",
+  "prerequisites_courses": [
+   "RG ST 70A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 70C",
+  "title": "Elementary Kazakh III",
+  "units": "4",
+  "description": "Continuation of Kazakh II. Starting with the study of the alphabet, students learn the rudiments of the language. Basic grammar, vocabulary and conversation.",
+  "prerequisites_raw": "Religious Studies 70B or equivalent.",
+  "prerequisites_courses": [
+   "RG ST 70B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 70D",
+  "title": "Intermediate Kazakh IV",
+  "units": "4",
+  "description": "Continuation of Kazakh III. Emphasis on complex grammar, vocabulary, writing, reading, and oral comprehension.",
+  "prerequisites_raw": "Religious Studies 70C or equivalent.",
+  "prerequisites_courses": [
+   "RG ST 70C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 70E",
+  "title": "Intermediate Kazakh V",
+  "units": "4",
+  "description": "Continuation of Kazakh IV. Emphasis on complex grammar, vocabulary, writing, reading, and oral comprehension.",
+  "prerequisites_raw": "Religious Studies 70D or equivalent.",
+  "prerequisites_courses": [
+   "RG ST 70D"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 70F",
+  "title": "Intermediate Kazakh VI",
+  "units": "4",
+  "description": "Continuation of Kazakh V. Emphasis on complex grammar, vocabulary, writing, reading, and oral comprehension.",
+  "prerequisites_raw": "Religious Studies 70E or equivalent.",
+  "prerequisites_courses": [
+   "RG ST 70E"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 71",
+  "title": "Introduction to Asian American Religions",
+  "units": "5",
+  "description": "Survey of the major themes and issues in Asian American religious history, belief, and practice. Topics include the problem of orientalism; Buddhism and race; Asian American forms of Christianity; religion's role in immigrant and second-generation identity; Asian American contextual theologies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 73",
+  "title": "Introduction to Japanese Religion: Texts, Concepts, and Representations",
+  "units": "5",
+  "description": "A survey of the main authors, themes, and styles of the Japanese religious and philosophical traditions through readings from and analysis of some significant and influential original texts in English translation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 80A",
+  "title": "Religion and Western Civilization I: Ancient",
+  "units": "5",
+  "description": "The religions of classical antiquity; myths, rituals, and cults of Greece and Rome; religious dimesions of Greek and Roman philosophy; beginnings anddevelopment of Christianity to time of Theodosius the Great (379-395 C.E.)",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 80B",
+  "title": "Religion and Western Civilization II: Medieval",
+  "units": "5",
+  "description": "The decline of classical antiquity; the emergence of medieval Christendom; religion and culture of the Middle Ages (eleventh-thirteenth centuries); subsequent development of the Renaissance and Reformation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 80BH",
+  "title": "Religion and Western Civilization II: Honors",
+  "units": "1",
+  "description": "A discussion section led by the instructor, provided for students in the honors program. Students receive one unit for the honors seminar (80BH) in addition to four units for Religious Studies 80B.",
+  "prerequisites_raw": "Concurrent enrollment in Religious Studies 80B; consent of instructor",
+  "prerequisites_courses": [
+   "RG ST 80B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 80C",
+  "title": "Religion and Western Civilization III: Modern",
+  "units": "5",
+  "description": "Religious responses to the emergence of modern science in the seventeenth century; religion in eighteenth century Europe; religion in America; the challenges of the twentieth century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 80CH",
+  "title": "Religion and Western Civilization III: Honors",
+  "units": "1",
+  "description": "A discussion section led by the instructor, provided for students in the honors program. Students receive one unit for the honors seminar (80CH) in addition to four units for Religious Studies 80C.",
+  "prerequisites_raw": "Concurrent enrollment in Religious Studies 80C; consent of instructor.",
+  "prerequisites_courses": [
+   "RG ST 80C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 81",
+  "title": "Modern Iran and Global Politics",
+  "units": "5",
+  "description": "Modern Iranian history from the 1906 Constitutional Revolution to the 1979 Islamic Revolution and the post-revolutionary years. Shi'i Islam, the rise of nationalism, the quest for modernization, democracy and authoritarianism, and imperialism and politics of oil.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "RG ST",
+  "code": "RG ST 82",
+  "title": "Modern Arab Culture",
+  "units": "5",
+  "description": "Explores the vibrant culture of the modern Arab World, including poetry, novels, theater, television, film, art, architecture, food, folklore, music, humor, reality TV, social media, and the blogosphere, in short, everything that makes Arabs Arab.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

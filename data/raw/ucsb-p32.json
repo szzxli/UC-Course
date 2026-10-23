@@ -1,0 +1,276 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 3H",
+  "title": "Introduction to African Studies",
+  "units": "1",
+  "description": "Seminar course for select group of students participating in the college Honors program designed to enrich the large lecture experience. Additional assignments and rigorous discussion of readings Intended for highly motivated and well-prepared students actively engaged in critical thought.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 3; consent of instructor.",
+  "prerequisites_courses": [
+   "BL ST 3"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 4",
+  "title": "Critical Race Theory",
+  "units": "5",
+  "description": "Critically examines historical and contemporary manifestations of racism and anti-racism, as well as theoretical approaches to understand the social, cultural, political and economic aspects of race and race relations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 4H",
+  "title": "Critical Introduction to Race and Racism",
+  "units": "1",
+  "description": "Seminar course for select group of students participating in the College Honors program designed to enrich the large lecture experience. Additional assignments and rigorous discussion of readings. Intended for highly motivated and well-prepared students actively engaged in critical thought.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 4; consent of instructor.",
+  "prerequisites_courses": [
+   "BL ST 4"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 5",
+  "title": "Blacks and Western Civilization",
+  "units": "4",
+  "description": "An interdisciplinary analysis of the effect of Africa on Western civilization, specifically the politics, economics, and cultures of Europe, the Caribbean, and North America.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 5H",
+  "title": "Blacks and Western Civilization",
+  "units": "1",
+  "description": "Seminar course for select group of students participating in the College Honors program designed to enrich the large lecture experience. Additional assignments and rigorous discussion of readings. Intended for highly motivated and well-prepared students actively engaged in critical thought.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 5; consent of instructor.",
+  "prerequisites_courses": [
+   "BL ST 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 6",
+  "title": "The Civil Rights Movement",
+  "units": "5",
+  "description": "History of the modern civil rights movements, its organization and ideology from its origins in the post reconstruction era to its triumphs with the end of legal racial segregation, and its recognition in the civil rights legislation in the 1960s.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 6H",
+  "title": "The Civil Rights Movement- Honors",
+  "units": "1",
+  "description": "Seminar course for select group of students participating in the college Honors program designed to enrich the large lecture experience. Additional assignments and rigorous discussion of readings. Intended for highly motivated and well-prepared students actively engaged in critical thought.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 6; consent of instructor.",
+  "prerequisites_courses": [
+   "BL ST 6"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 7",
+  "title": "Introduction to Caribbean Studies",
+  "units": "5",
+  "description": "A survey of the culture and society of the Caribbean. After surveying Amerindian communities and examining the impact of the Atlantic slave trade, focus will be on slavery, emancipation, African and Creole cultures,and the issues accompanying an independent nationhood status.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 7H",
+  "title": "Introduction to Caribbean Studies",
+  "units": "1",
+  "description": "Seminar course for select group of students participating in the college Honors program designed to enrich the large lecture experience. Additional assignments and rigorous discussion of readings. Intended for highly motivated and well-prepared students actively engaged in critical thought.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 7; consent of instructor.",
+  "prerequisites_courses": [
+   "BL ST 7"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 11",
+  "title": "Community Studies Organizing for Change",
+  "units": "5",
+  "description": "This course examines various aspects of community organizing for equity and justice. The course will introduce models for social change and approaches to leadership development. It will examine case studies of campaigns for justice, within the context of social movement histories.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 14",
+  "title": "The History of Jazz",
+  "units": "5",
+  "description": "A survey of the historical origins and development of jazz, beginning with the West African heritage and the African-American folk tradition, and examining the social and cultural context of this twentieth-century music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 15",
+  "title": "African American Psychology",
+  "units": "5",
+  "description": "Examines manifestations of psychological characteristics of people of African decent, cultural and behavioral norms, and ways that race, class, gender and sexuality affect their cognitive, social, and emotional development. Connections between Africa, the Caribbean, and Afro-America are explored.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 21",
+  "title": "Capoeira: Arts, History & Resistance in the African Diaspora",
+  "units": "4",
+  "description": "Examines the role of music, dance and spirituality in informing Black resistance in the African Diaspora. Balancing between theory and practicum, the course explores the aesthetics of Black resistance through the medium of dance and music, with particular focus on Afro-Brazilian cultural repertoire, and also involves learning and practicing Capoeira techniques. A primary goal is to enhance awareness of the history of racial subjugation and racial resistance in the making of contemporary Black performances through dance and music. Students will learn history, techniques and styles of Afro-dance, capoeira and other cultural repertoire including contemporary and historical practices inherited from the struggle for abolition.",
+  "prerequisites_raw": "No prerequisites",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 33",
+  "title": "Major Works of African Literatures",
+  "units": "5",
+  "description": "An introduction to the diverse literary traditions of Africa through an examination of selected works. Regional focus on North, West, East, Central, and South Africa varies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 38A",
+  "title": "Introduction to African-American Literature (Part 1)",
+  "units": "5",
+  "description": "African-American literature from colonial times through the Harlem Renaissance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 38AH",
+  "title": "Honors Seminar on African-American Literature (Part 1)",
+  "units": "1",
+  "description": "Seminar course for a select group of students enrolled in Black Studies 38A designed to enrich the large lecture experience for the motivated student. Course includes supplementary readings or more intensive study of the Black Studies 38A reading list, and supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 38A; consent of instructor.",
+  "prerequisites_courses": [
+   "BL ST 38A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 38B",
+  "title": "Introduction to African-American Literature (Part II)",
+  "units": "4",
+  "description": "African-American literature from the 1930s to the present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 38BH",
+  "title": "Honors Seminar on African-American Literature (Part 2)",
+  "units": "1",
+  "description": "Seminar course for a select group of students enrolled in Black Studies 38B designed to enrich the large lecture experience for the motivated student. Course includes supplementary readings or more intensive study of the Black Studies 38B reading list, and supplemental writing.",
+  "prerequisites_raw": "Concurrent enrollment in Black Studies 38B; consent of instructor.",
+  "prerequisites_courses": [
+   "BL ST 38B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 45",
+  "title": "Black Arts Expressions",
+  "units": "5",
+  "description": "A comparative examination of the traditions of African American music, literature, dance, folklore, cinema, the visual arts, and musical theatre. No prior musical background is required, though some musicological concepts and nomenclature are employed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 49A",
+  "title": "Survey of African History",
+  "units": "5",
+  "description": "Prehistory to c. 1800. History 49-A- B-C is a general survey course designed to introduce students to major themes in African history. The course focuses on organization of production, state formation, African civilizations and identities, science and technology, beliefs and knowledge systems, Africas interaction with the world economy, such as through enslavement and slave trades. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during lecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 49B",
+  "title": "Survey of African History",
+  "units": "5",
+  "description": "1800 - 1945. History 49-A-B-C is a general survey course designed to introduce students to major themes in African history. The course focuses on African civilizations and identities, European colonial conquests, governance and colonial economies, African resistance and engagement with global capitalism. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during lecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 49C",
+  "title": "Survey of African History",
+  "units": "5",
+  "description": "1945 to present. History 49-A- B-C is a general survey course designed to introduce students to major themes in African history. The course focuses on colonialism and decolonization, nationalism and self-liberation, development and neocolonialism, Cold War contexts, as well as African experiences of independence and the everyday in our contemporary, global world. Weekly discussion sections are an important feature of this course, enabling students to develop and expand upon material presented during lecture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 50",
+  "title": "Mass Media, Blackness and the Politics of Representation",
+  "units": "5",
+  "description": "The development of Black stereotypes. Studying literature, comic books, comic strips, cartoons, music, theater, cinema, broadcasting, and television, students analyze the mythical imageries which have created stereotypes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 68",
+  "title": "Roots & Routes: History, Politics, Reinventions",
+  "units": "4",
+  "description": "Rooted in the rich intellectual tradition of Black Studies—and routed in our commitment to make the national narrative “liberty and justice for all” a reality—this gateway course offers students grounded and cutting-edge knowledge in areas including law, education, politics, geography, music, film, media, technology, ecology + environment, health + wellness + science, art for social justice, AI for social justice, and more. In gaining such knowledge, students will learn/sharpen logical deduction skills through social science explorations in interesting and innovative ways with high applicability across majors. Join the journey as we experience Black freedom dreams of the past, present, and future!",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 90",
+  "title": "Sophomore Seminar",
+  "units": "0",
+  "description": "A research and/or writing seminar which focuses on major themes in Black Studies.",
+  "prerequisites_raw": "Sophomore standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "BL ST",
+  "code": "BL ST 99",
+  "title": "Independent Studies in Black Studies",
+  "units": "0",
+  "description": "Independent studies and mentorship in Black Studies under the direction of a faculty member in the department.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

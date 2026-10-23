@@ -1,0 +1,232 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 201SP",
+  "title": "Skills for the Public Sphere",
+  "units": "0",
+  "description": "Students hone academic research tools for uses outside of the academy; learn to communicate skillfully with diverse groups and communities; address how to build and sustain relationships with community partners; develop basic digital skills such as website design and maintenance; study grant writing and budget creation; gain an understanding of project management.",
+  "prerequisites_raw": "Graduate standing; consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 227",
+  "title": "COMPASS: Community for Mentorship, Professional Advancement, Skills, and Support",
+  "units": "1",
+  "description": "Seminar for UCSB graduate students. Emphasis on developing a learning community that fosters individual goal setting, academic motivation, and professional development of participating students. Students will build mentoring relationships with their peers that enable them to reflect on various experiences, participate in panel discussions, and explore new personal interests that collectively reinforce individual growth and future career success.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 236",
+  "title": "Engaging Humanities Mentoring Course",
+  "units": "1",
+  "description": "This series of seminars is an introduction to mentoring for future graduate mentors. Topics covered include best practices, academic mentoring, career awareness building, and mentoring \"soft skills.\" The group will also collaboratively compile mentoring resources and unpack different mentoring scenarios.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 295I",
+  "title": "Public Humanities Practicum",
+  "units": "0",
+  "description": "The Public Humanities Practicum includes internships and fellow-designed community projects. It enables Ph.D. students to apply their academic training in community settings and develop skills such as oral and written communication for broad audiences; project design, management, and assessment; and grant-writing and program development for non-profit organizations. Students will receive one to four units of academic credit per quarter, depending on the length of the internship or project. Oversight will be provided by a mentor at the host organization and a UCSB faculty member.",
+  "prerequisites_raw": "Consent of Interdisciplinary Humanities Center.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 420",
+  "title": "Grant Writing for the Humanities, Fine Arts & Social Sciences",
+  "units": "2",
+  "description": "The fundamentals of grant writing for arts, humanities, and social science students. Learn and practice techniques with IHC staff for identifying funding sources and writing successful proposals. Produce a working application for funding your dissertation.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594",
+  "title": "Directed Reading and Research",
+  "units": "0",
+  "description": "In-depth consideration of interdisciplinary humanistic topics, issues, and concerns through tutorial format. Students may affiliate with Interdisciplinary Humanities Center's Research Focus Groups (www.ihc.ucsb.edu/research).",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594AB",
+  "title": "Ancient Borderlands",
+  "units": "0",
+  "description": "In-depth consideration of interdisciplinary humanistic topics, issues, and concerns through tutorial format. Students may affiliate with Interdisciplinary Humanities Center's Research Focus Groups (www.ihc.ucsb.edu/research).",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594CC",
+  "title": "Prison Pedagogy",
+  "units": "0",
+  "description": "Graduate Affiliates will design and offer a 10 week course in the humanities for inmates of North Kern State Prison (NKSP). They will devote fall quarter to creating the curriculum for the course, which will consist of brief foundational readings in the humanities along with response worksheets for the participants. In winter and spring, Graduate Affiliates will offer the course to inmates in NKSP, via mail correspondence. Each Graduate Affiliate will work with two participants from NKSP throughout winter and spring quarter.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594CJ",
+  "title": "Climate Justice Working Group",
+  "units": "0",
+  "description": "This seminar is part of a year-long work-in-progress workshop that invites UCSB graduate students in any discipline whose work is engaged with critical humanistic perspectives on Climate Justice/Environmental Justice to participate in presentations and discussion of related ongoing research. The seminar meets 2-3 times per quarter and the meeting schedule will be set early in the quarter based on the availability of participants. For more information, contact the course instructor.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594EJ",
+  "title": "Re-centering Energy Justice",
+  "units": "0",
+  "description": "Workshop to support research and publication in critical topics related to energy justice. For more information contact the instructor.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594MT",
+  "title": "Theories of Media and Techniques in the Wake of Postcolonial and Environmental Studies",
+  "units": "0",
+  "description": "This workshop is a graduate student driven initiative to foster critical research on theories of media and techniques in the wake of postcolonial & environmental humanities. By resituating/restructuring theories of media and techniques in the context of postcolonial and environmental humanities, it pursues two goals: 1. to discuss the potentials and shortcomings of existing theoretical frameworks of media and techniques in the context of postcolonial and environmental humanities research projects in order to sharpen the theoretical framework, and 2. to foster future graduate and faculty collaborations across departments and programs at the intersection of media theory, postcolonial, and environmental studies.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594NP",
+  "title": "NATIVE AMERICAN AND INDIGENOUS STUDIES PROSEMINAR",
+  "units": "0",
+  "description": "An introduction to the interdisciplinary field of Native American Studies. The course familiarizes students with the variety of disciplinary approaches to Native American Studies (Religious Studies, Chicano Studies, Anthropology, History, Literary Studies, etc.). More importantly, the course seeks to create an understanding of Indigenous theories and methodologies that transcend disciplinary boundaries and that are derived from an Indigenous and non-western epistemology.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 594ST",
+  "title": "Selected Topics",
+  "units": "0",
+  "description": "In-depth consideration of interdisciplinary humanistic topics, issues, and concerns through tutorial format. Students may affiliate with Interdisciplinary Humanities Center's Research Focus Groups (www.ihc.ucsb.edu/research). Topic is Selected Topics.",
+  "prerequisites_raw": "Graduate standing; consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT",
+  "code": "INT 596",
+  "title": "Capstone",
+  "units": "2",
+  "description": "The capstone project enables students to present their work in a public forum. Students can meet this requirement in a number of ways, for example, through a social media campaign, the publication of an op-ed piece, the creation of a public exhibit, or the staging of a public dialogue. In addition to the public-facing presentation, students will create a portfolio that includes a reflection piece about the professional attributes of the project.",
+  "prerequisites_raw": "For students in the Public Humanities Graduate Fellows Program only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT CS",
+  "code": "INT CS 10",
+  "title": "Group Interdisciplinary Studies",
+  "units": "0",
+  "description": "Group studies in an interdisciplinary area. Supervised by a member of the faculty of the college of creative studies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT CS",
+  "code": "INT CS 20",
+  "title": "Advanced Group Interdisciplinary Studies",
+  "units": "0",
+  "description": "Advanced group studies in focussed topics in an interdisciplinary area, supervised by a member of the faculty of the College of Creative Studies.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT CS",
+  "code": "INT CS 120",
+  "title": "Advanced Group Interdisciplinary Studies",
+  "units": "0",
+  "description": "Advanced group studies in focussed topics in an interdisciplinary area.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT CS",
+  "code": "INT CS 130",
+  "title": "CCS Crossroads",
+  "units": "0",
+  "description": "Examines a theme of social or environmental justice taught by two instructors from different disciplines.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT CS",
+  "code": "INT CS 130DI",
+  "title": "CCS Crossroads - Deserts, Islands, and Other Energy Infrastructures",
+  "units": "0",
+  "description": "This interdisciplinary course introduces students to global problems of environmental justice from the point of view of energy infrastructures. The course relies on theories, artworks, and case studies. In discussions, lectures, and screenings, students learn theories, critical methods, and techniques to investigate and study how energy infrastructures interact with ecological systems. Course draws from approaches in Environmental Humanities, Literature, and Film and Media Studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT CS",
+  "code": "INT CS 130WM",
+  "title": "CCS Crossroads - Alternative Foods, Alternative Economies: Creative Collaborations to Reimagine the Food System",
+  "units": "0",
+  "description": "Critical engagement with food system reform is essential as the environment becomes more precarious and the harmful social impacts of an unsustainable and unjust food system more widespread. In this course, students learn to contextualize the global food system, engage critically with interconnected social and environmental food systems issues, and explore social enterprise case studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT CS",
+  "code": "INT CS 191",
+  "title": "Exploratory Research",
+  "units": "0",
+  "description": "Exploratory Research offers students an accessible entry point into the research process within an interdisciplinary topic of a faculty member's choosing. Designed for those curious about research but not yet ready to commit to a fully scoped and ready to execute project, this course supports early-stage engagement in a group setting but with individualized attention.",
+  "prerequisites_raw": "Consent of Instructor",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT W",
+  "code": "INT W 1",
+  "title": "Introduction to a Letters and Science Education",
+  "units": "1",
+  "description": "This course is designed for incoming first-year students in the College of Letters and Sciences. The goal of the course is to present students with an introduction to liberal arts education at UCSB and provide resources that support academic success. Course materials include readings along with videos of UCSB faculty, advisors, and students. In the three modules of this course, students complete interactive exercises and quizzes developed to help assess learning and facilitate successful academic outcomes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "INT W",
+  "code": "INT W 20",
+  "title": "Introduction to The Research University",
+  "units": "2",
+  "description": "Through reading, videos, and writing, students in this course will be introduced to disciplines and activities at the core of the research university. Students will learn about the form and function of the research university; understand how natural science, social science, humanities and fine arts, and interdisciplinary programs are situated, and develop a plan for engaging in undergraduate research as part of their UCSB experiences.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

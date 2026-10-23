@@ -1,0 +1,364 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 122",
+  "title": "Advanced Scenic Design",
+  "units": "0",
+  "description": "This course builds upon tools learned in THTR 22: Beginning Set Design to increase fluency in scenic design approaches and techniques. Focusing on building ideas from texts and music, you will evolve design approaches through research and critiques. Designs will culminate in scale models and supporting materials. Projects in THTR 122 will focus on opera, dance, and musical theatre with unique scenic demands including multiple locations, period detail, and awareness of performance styles and conventions.",
+  "prerequisites_raw": "Theater 1, 19, and 22.",
+  "prerequisites_courses": [
+   "THTR 1",
+   "THTR 19",
+   "THTR 22"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 123",
+  "title": "Advanced Stage Lighting Design",
+  "units": "0",
+  "description": "Lecture-demonstration of controllable properties and functions of light. Includes technical drawing: light plots, scheduling and organization for lighting design, drawing using light and shadow, perspective drawing. Practical application through studio exercise.",
+  "prerequisites_raw": "Theater 1, 19, and 23.",
+  "prerequisites_courses": [
+   "THTR 1",
+   "THTR 19",
+   "THTR 23"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 124",
+  "title": "Design Portfolio",
+  "units": "0",
+  "description": "This course will introduce students to advanced topics in the art and craft of visual media design for projection and video with an emphasis on live performance.",
+  "prerequisites_raw": "Theater 122 or 123 or 125; upper-division standing.",
+  "prerequisites_courses": [
+   "THTR 122",
+   "THTR 123",
+   "THTR 125"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 125",
+  "title": "Advanced Costume Design",
+  "units": "0",
+  "description": "In this course students will receive an advance and detailed perspective on the art of costume design. Through four different projects, they will explore different character development experiences, with a continued focus on thematic storytelling. Together, students will learn how to craft character, while focusing on the scope of a full production.",
+  "prerequisites_raw": "Theater 1, 19 and 25.",
+  "prerequisites_courses": [
+   "THTR 1",
+   "THTR 19",
+   "THTR 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 126",
+  "title": "Advanced Makeup",
+  "units": "2",
+  "description": "Emphasis on methods of character makeup, special effects, and new prosthetics construction and application techniques.",
+  "prerequisites_raw": "Theater 26.",
+  "prerequisites_courses": [
+   "THTR 26"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 127",
+  "title": "Theatre Rendering Techniques",
+  "units": "0",
+  "description": "Advanced theatre rendering techniques for the theatre designer. Continued development in drawing and use of different mediums. Concentration on rendering light, shadow, and texture.",
+  "prerequisites_raw": "Consent of Instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 129",
+  "title": "Painting for the Stage",
+  "units": "2",
+  "description": "Advanced work in scenic painting including special textures, foliage, trompe-l'oeil effects as used for stage.",
+  "prerequisites_raw": "Consent of department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 130",
+  "title": "History of Design and Production",
+  "units": "4",
+  "description": "A survey of the evolution of design styles and production trends in western theatre, emphasizing the history of design and designers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 131A",
+  "title": "Advanced Costume Construction",
+  "units": "0",
+  "description": "Exploration of advanced draping, drafting, and tailoring technqiues used in theatrical costume design.",
+  "prerequisites_raw": "Theater 29C and 31A.",
+  "prerequisites_courses": [
+   "THTR 29C",
+   "THTR 31A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 131B",
+  "title": "Advanced Costume Techniques",
+  "units": "0",
+  "description": "Exploration of advanced costume crafts techniques including pattern development as it related to corset construction. Period undergarment research and construction. Subject matter varies by quarter.",
+  "prerequisites_raw": "Theater 29C and 31A.",
+  "prerequisites_courses": [
+   "THTR 29C",
+   "THTR 31A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 132",
+  "title": "History of Decorative Styles",
+  "units": "4",
+  "description": "A survey of the evolution of design styles and production trends in western theater, emphasizing the history of design and designers, including a study of both interior and exterior decoration with concentration on furnishing, accessories and the changing patterns of culture.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 133A",
+  "title": "History of Costume I",
+  "units": "4",
+  "description": "A survey of the development of western clothing and costume from Biblical times to the Restoration as related to the changing patterns of culture. Short survey of non-Western clothing and costume.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 133B",
+  "title": "History of Costume II",
+  "units": "4",
+  "description": "A survey of the development of western clothing and costume from early Georgian to the present as related to the changing patterns of culture. Short survey of non-Western clothing and costume.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 134",
+  "title": "Advanced Theatrical Crafts",
+  "units": "0",
+  "description": "Concentration on special materials and technique utilized in theatrical productions including decorative and three-dimensional art.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 134P",
+  "title": "Puppet Design and Construction",
+  "units": "4",
+  "description": "Explores the history of various puppet styles and will focus on the design and creation of three iconic puppet forms: Thai shadow puppets (Nang yai), rod puppets (Bunraku), and marionettes. Students will learn both the mechanical aspects and the artistic design elements of puppet creation by creating one of each of these three styles.",
+  "prerequisites_raw": "Permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 140A",
+  "title": "Advanced Acting Workshop I",
+  "units": "4",
+  "description": "Advanced exploration, performances, and criticism of scenes from a broad range of dramatic scripts with focus on the actor's perspective.",
+  "prerequisites_raw": "Theater 5; upper-division standing.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 140B",
+  "title": "Advanced Acting Workshop II",
+  "units": "4",
+  "description": "Further exploration of performances and criticism of scenes from a broad range of dramatic scripts with focus on the actor's perspective.",
+  "prerequisites_raw": "Theater 5; upper-division standing.",
+  "prerequisites_courses": [
+   "THTR 5"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 141",
+  "title": "Shakespeare Basics",
+  "units": "4",
+  "description": "Theater 141, Shakespeare Basics, provides the tools for analyzing and acting Shakespearean text. This is an actors approach. Through the study of sense, scansion/rhythm, phrasing, speech units, word structure, figures of speech, key words, imagery, reception/impact, physical action, inner and outer focal points the student lays the groundwork for interpreting and embodying Shakespeare characters. While this course serves as a basic entry to Shakespeare, the student is expected to have some experience or training as an actor and familiar with the terms objective, given circumstances, intention, personalization, and subtext.",
+  "prerequisites_raw": "THTR 5 and THTR 140B",
+  "prerequisites_courses": [
+   "THTR 5",
+   "THTR 140B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 142",
+  "title": "I.V. Live",
+  "units": "2",
+  "description": "This course produces a weekly performance series in Isla Vista. Students get first-hand experience in the rigors of theatrical production, as they learn to execute all logistical, technical and promotional details. The course is affiliated with Isla Vista Arts.",
+  "prerequisites_raw": "Upper Division Standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 143",
+  "title": "The People's Voice",
+  "units": "4",
+  "description": "Students and teens from the community collaborate in writing, crafting, and performing an epic myth through the lens of their personal stories.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 144A",
+  "title": "Shakespeare Production",
+  "units": "4",
+  "description": "Students study, rehearse and produce one of Shakespeare's plays. The class culminates with performances that are open to the public during the final week. Students can participate as actors, assistant directors, designers or stage managers.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 144B",
+  "title": "Shakespeare Production",
+  "units": "4",
+  "description": "Students study, rehearse and produce one of Shakespeare's plays. The class culminates with performances that are open to the public during the final week. Students can participate as actors, assistant directors, designers or stage managers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 145",
+  "title": "Oregon Shakespeare Festival Tour",
+  "units": "0",
+  "description": "Students study one or more plays being performed at the Oregon Shakespeare Festival. While in Ashland, students attend 7-8 performances, take a backstage tour and participate in workshops and lectures led by members of the company.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 146",
+  "title": "Launch Pad: New Plays in Process",
+  "units": "4",
+  "description": "Working with the artistic director of LAUNCH PAD and 3 professional playwrights, this 3-week intensive course workshops a new play every week. Student actors, directors, designers, dramaturgs, playwrights, and stage managers learn the vital skills of working on new plays in the earliest stages of their development. The workshop culminates in an invited public reading at the end of each week. Over the 3 weeks, participants have the opportunity to take on different functions in the process.",
+  "prerequisites_raw": "Permission of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 149",
+  "title": "Theatre Workshop",
+  "units": "0",
+  "description": "Projects in costume, scenery, lighting, acting, directing.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 151A",
+  "title": "Advanced Acting",
+  "units": "4",
+  "description": "Scene work and exercises exploring various acting styles which may include Shakespeare, Boal, Artaud, Greek, period comedy and farce, and Absurd.",
+  "prerequisites_raw": "Theater 15C and 188S; concurrent enrollment in Theater 110A and 111A. Consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 15C",
+   "THTR 110A",
+   "THTR 188S",
+   "THTR 111A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 151B",
+  "title": "Advanced Acting",
+  "units": "4",
+  "description": "Scene work and exercises exploring various acting styles which may include Shakespeare, Boal, Artaud, Greek, period comedy and farce, and Absurd.",
+  "prerequisites_raw": "Theater 15C and 188S; concurrent enrollment in Theater 110B and 111B. Consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 15C",
+   "THTR 110B",
+   "THTR 188S",
+   "THTR 111B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 151C",
+  "title": "Advanced Acting",
+  "units": "4",
+  "description": "Scene work and exercises exploring various acting styles which may include Shakespeare, Boal, Artaud, Greek, period comedy and farce, and Absurd",
+  "prerequisites_raw": "Theater 15C and 188S; concurrent enrollment in Theater 110C and 111C. Consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 15C",
+   "THTR 110C",
+   "THTR 188S",
+   "THTR 111C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 151D",
+  "title": "Advanced Acting: Modern Trends",
+  "units": "4",
+  "description": "Study and performance of contemporary acting developments.",
+  "prerequisites_raw": "Theater 151C; consent of instructor.",
+  "prerequisites_courses": [
+   "THTR 151C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 151F",
+  "title": "Senior Auditions",
+  "units": "3",
+  "description": "Preparation and study of material and techniques for professional and graduate school audition.",
+  "prerequisites_raw": "Theater 151C.",
+  "prerequisites_courses": [
+   "THTR 151C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "THTR",
+  "code": "THTR 151G",
+  "title": "Alternate Acting Styles",
+  "units": "4",
+  "description": "Continued work in performance styles and other skills.",
+  "prerequisites_raw": "Theater 151C.",
+  "prerequisites_courses": [
+   "THTR 151C"
+  ]
+ }
+]

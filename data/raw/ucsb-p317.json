@@ -1,0 +1,306 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 30",
+  "title": "The Story of English",
+  "units": "4",
+  "description": "The evolution of English from its Germanic origins to its present status as a lingua franca among the world's cultures. Topics include influences from other languages, English-based creoles, the major contemporary dialects, and the concept of Standard English.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 31",
+  "title": "Digital Humanities and Language",
+  "units": "5",
+  "description": "Focus on fundamental transferable computational and data handling skills, building students’ agency in navigating the modern data-driven academic landscape. Special attention is given to leveraging AI as a research and learning tool. The course is directed at students interested in digital humanities, technology, and language science.",
+  "prerequisites_raw": "No restrictions.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 32",
+  "title": "Language and Computers",
+  "units": "5",
+  "description": "Overview of how computers learn, understand, and generate human language, and how computers can be used to assist in the scientific study of language. Focus on building conceptual understanding of how language can be represented and processed by computers, what aspects of human language present challenges for these approaches, how linguists use computers to study language, and the role of language technologies in society. No technical background assumed.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 36",
+  "title": "African-American English",
+  "units": "5",
+  "description": "Examines the sociolinguistic aspects of English as spoken by African-Americans in the United States. Relationship of African-American English to linguistic theory, education policy, and U.S. culture. Emphasis on mitigating discrimination and improving the educational and social experiences of African-Americans at UCSB and beyond.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 40",
+  "title": "The Mayas: Languages and Cultures",
+  "units": "4",
+  "description": "This course introduces Mayan languages today. We examine what they are like, how they relate to each other, and who speaks them, as well as the social and cultural context in which those people live.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 50",
+  "title": "Language and Power",
+  "units": "5",
+  "description": "Examines how social identities and relations (nationality, class, ethnicity, age, gender) are constructed, maintained, and challenged via language practices, policies, and ideologies. Considers power dynamics in multiple domains including everyday interaction, education, media (advertising, news, film/tv, online), and political discourse.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 60",
+  "title": "Word Origins",
+  "units": "3",
+  "description": "An introduction to the origin and evolution of words: language families, sound correspondences, and cognates; word-formation and loanwords; changes in meaning and form; etymology; dialectal differences in lexicon; vocabulary as historical and comparative evidence.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 62",
+  "title": "Academic Writing in Humanities and Social Sciences",
+  "units": "5",
+  "description": "Introduction to the fundamentals of academic writing in the humanities and social sciences. Students learn to craft clear, evidence-based arguments and organize ideas into coherent papers while building digital literacy skills in online research, source management, document preparation, responsible use of AI assistants, and basic data presentation. A goal is to develop a versatile toolkit for research, writing, and digital scholarship that supports success across disciplines.",
+  "prerequisites_raw": "No restrictions.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 70",
+  "title": "Language in Society",
+  "units": "5",
+  "description": "How language defines the relationship of the individual to society; the role language plays in constituting power, hierarchy, ethnicity, gender, ideology, and other aspects of social identity; how speakers use language to display identity and define social context. Emphasis on sociolinguistic diversity in American society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 80",
+  "title": "Endangered Languages",
+  "units": "5",
+  "description": "Examines language endangerment and its impact on the world's speech communities. Topics include: language ecologies; reasons for language shift; social, affective, and linguistic impacts of language contraction; indigenous knowledge systems; biocultural diversity; documentation, revitalization, and reclamation.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 99",
+  "title": "Independent Studies in Linguistics",
+  "units": "0",
+  "description": "Intended for the study of special areas within Linguistics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 101",
+  "title": "Basic Elements of Linguistic Analysis",
+  "units": "4",
+  "description": "An introduction to the analytic methodology in the study of phonology, morphology, syntax, and semantics. A typologically oriented course designed to demonstrate how linguists analyze languages.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 102",
+  "title": "Programming for Linguists",
+  "units": "5",
+  "description": "Hands-on introduction to programming in Python, with emphasis on methods for retrieving, structuring, and interacting with textual data. Focus on developing practical programming skills and transferable methodology, such as debugging, task decomposition and abstraction, and best practices for documenting and structuring code. Targeted toward students with no programming background.",
+  "prerequisites_raw": "Upper-division standing OR LING 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 104",
+  "title": "Statistical Methods in Linguistics",
+  "units": "4",
+  "description": "Fundamentals of scientific inquiry and methodology; basics of experimental design, statistical methods (descriptive, analytic, and exploratory) relevant to linguistics.",
+  "prerequisites_raw": "Linguistics 102 or consent of instructor.",
+  "prerequisites_courses": [
+   "LING 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 105",
+  "title": "Predictive Modeling in Linguistics",
+  "units": "4",
+  "description": "Advanced methods in quantitative linguistics. Topics may include data exploration and visualization, classification trees, random forests, regression modeling, bootstrap methods, and Bayesian data analysis. Emphasis on building predictive models of linguistic data, with a focus on simulation, model comparison, and performance evaluation. Students complete statistical programming assignments and projects using real-world data.",
+  "prerequisites_raw": "Linguistics 104",
+  "prerequisites_courses": [
+   "LING 104"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 106",
+  "title": "Introduction to Phonetics",
+  "units": "4",
+  "description": "An introduction to the articulatory and acoustic properties of speech sounds. Survey of speech sounds found in the languages of the world. Emphasis on ear training and transcription using the International Phonetic Alphabet.",
+  "prerequisites_raw": "Department approval to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 107",
+  "title": "Introduction to Phonology",
+  "units": "4",
+  "description": "Introduction to the description and analysis of the sound patterns of natural language. Focus is on developing analytical skills for approaching data from a typologically diverse set of languages.",
+  "prerequisites_raw": "Linguistics 20 and Linguistics 106",
+  "prerequisites_courses": [
+   "LING 20",
+   "LING 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 108",
+  "title": "Introduction to Morphology",
+  "units": "4",
+  "description": "How meaning is encoded in words in the languages of the world. Morphological and morphophonemic processes, lexical categories, derivation and inflection, productivity, tense, aspect, mode, case, concord, valence changes (passives, antipassives, benefactives, causatives), morphological typologies.",
+  "prerequisites_raw": "Linguistics 101 OR Linguistics 107.",
+  "prerequisites_courses": [
+   "LING 101",
+   "LING 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 109",
+  "title": "Introduction to Syntax",
+  "units": "4",
+  "description": "Similarities and differences among languages in the grammatical devices they use to signal relations between words in phrases and sentences. Data from a range of languages is presented and analyzed.",
+  "prerequisites_raw": "Linguistics 101 OR Linguistics 108",
+  "prerequisites_courses": [
+   "LING 101",
+   "LING 108"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 110",
+  "title": "Foundations of Computational Linguistics",
+  "units": "4",
+  "description": "An introduction to foundational ideas in computational linguistics, such as: n-gram language models; noisy channel models; supervised and unsupervised learning; and distributional semantics. Focus on developing an understanding of the intuitions behind the ideas, including relevant algorithms and math, and implementing this understanding in hands-on programming applications.",
+  "prerequisites_raw": "Linguistics 102 or Computer Science 8 or equivalent experience.",
+  "prerequisites_courses": [
+   "LING 102",
+   "CMPSC 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 111",
+  "title": "Advanced Computational Linguistics: Text Processing",
+  "units": "4",
+  "description": "Advanced topics in the computational processing of language in text form, such as: neural network language models; parsing; topic modeling; and machine translation. Focus on developing a high-level understanding of modern approaches and how to use them. Discussion of applications to areas such as natural language processing, corpus linguistics, and computational psycholinguistics.",
+  "prerequisites_raw": "Linguistics 110 or consent of instructor.",
+  "prerequisites_courses": [
+   "LING 110"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 112",
+  "title": "Speech by Humans and Machines",
+  "units": "4",
+  "description": "How humans speak and how machines simulate this process. Introduces speech technologies (speech synthesis and recognition) by highlighting the connection between developing such technologies and understanding the phonetic structure of speech. Considers applications of these technologies, such as human-machine interface and language learning.",
+  "prerequisites_raw": "Linguistics 106.",
+  "prerequisites_courses": [
+   "LING 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 113",
+  "title": "Introduction to Semantics",
+  "units": "4",
+  "description": "Introduction to the study of meaning in language. Consideration of semantic fields, semantic components, semantic relations, categories, prototypes, frames, metaphor, pragmatics, indexicality, and speech acts.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 114",
+  "title": "Advanced Phonology",
+  "units": "4",
+  "description": "In-depth exploration of phonological systems and processes, survey of contemporary phonological theories and critical assessment of their effectiveness in accounting for established patterns cross-linguistically.",
+  "prerequisites_raw": "Linguistics 107.",
+  "prerequisites_courses": [
+   "LING 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 115",
+  "title": "Introduction to Historical Comparative Linguistics",
+  "units": "4",
+  "description": "An introduction to linguistic change, genetic classification of languages, and methods of reconstructing parent languages.",
+  "prerequisites_raw": "Linguistics 107.",
+  "prerequisites_courses": [
+   "LING 107"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 116",
+  "title": "The Structure of Language and Sports",
+  "units": "4",
+  "description": "Examines the usage of language in organized sports, with analysis at lexical, morphological, syntactic, discursive, and phonological levels. Investigates how linguistic structure adapts to particular communicative contexts, such as media accounts and interactions among participants.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "LING",
+  "code": "LING 117",
+  "title": "Regional Dialects and Varieties of English Around the World",
+  "units": "4",
+  "description": "Offers a comprehensive and in-depth survey of regional dialects of English throughout America and around the world. Examines dialect variation through both descriptive analysis as well as socio-historic accounts of the emergence of particular varieties.",
+  "prerequisites_raw": "Linguistics 20.",
+  "prerequisites_courses": [
+   "LING 20"
+  ]
+ }
+]

@@ -1,0 +1,294 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 253",
+  "title": "Liquid Crystal Materials",
+  "units": "4",
+  "description": "Thermotropic and lyotropic liquid crystals (LC's). Classification and phasetransitions. LC's in display technology. Laboratory experimentation using x-ray diffraction and polarized optical microscopy to characterize LC phases.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 261",
+  "title": "Composite Materials",
+  "units": "3",
+  "description": "Stress and strain relations in composites. Residual stresses. The fracture resistance of organic and inorganic matrix composites. Statistical aspects of fiber failure. Composite laminates and delamination cracks. Cumulative damage concepts. Interface properties. Design criteria.",
+  "prerequisites_raw": "Materials 207; consent of instructor.",
+  "prerequisites_courses": [
+   "MATRL 207"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 263",
+  "title": "Thin Films and Multilayers",
+  "units": "3",
+  "description": "The development of stresses in thin films and its relaxation. Edge effects and discontinuities. Cracks in films and at interfaces. Delamination of residually stressed films. Buckling and buckle propagation of compressed films. Cyclic behavior and ratcheting effects.",
+  "prerequisites_raw": "Materials 207 (same course as ME 219); consent of instructor",
+  "prerequisites_courses": [
+   "MATRL 207",
+   "ME 219"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 264",
+  "title": "Hydrogen in Materials",
+  "units": "3",
+  "description": "Hydrogen has major effects on materials properties, and can serve as an energy carrier. Topics: experimental detection techniques; thermodynamics and kinetics; role in semiconductors; role in growth and processing; sensors; embrittlement in structural materials; hydrogen generation, storage, and proton exchange membranes.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 265",
+  "title": "Nanophase and Nanoparticulate Materials",
+  "units": "3",
+  "description": "Introduces graduate students to nanophase and nanoparticulate inorganic materials and their applications. Emphasis on how the properties of materials change when their size is diminished. The manner in which nanomaterials (particularly nanoparticulate materials) bridge the world of molecules with the world of solids is shown. Preparation, characterization, and applications of nanomaterials are integral parts of the course.",
+  "prerequisites_raw": "MATRL 218 or equivalent.",
+  "prerequisites_courses": [
+   "MATRL 218"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 267",
+  "title": "Confined Electrons and Photons in Semiconductor Structures",
+  "units": "3",
+  "description": "The properties of 1D, 2D and 3D confined electrons in semiconductors are reviewed. Properties of photons in microcavities and photonic crystals are introduced. Applications of photonic crystals to light extraction and modifications of the emitter properties are developed.",
+  "prerequisites_raw": "Materials 162A-B or ECE 162A-B.",
+  "prerequisites_courses": [
+   "MATRL 162A",
+   "ECE 162A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 268A",
+  "title": "Semiconductor Lasers I",
+  "units": "4",
+  "description": "Review of semiconductor physics, growth technology, and materials properties; double-heterostructure and quantum-well laser structures; carrier and photon rate equations; light vs. current characteristics; scattering and transmission matrices; compound cavity, distributed bragg reflector, and distributed feedback lasers.",
+  "prerequisites_raw": "ECE 162A-B-C; or MATRL 162A-B and ECE 162C; or ECE 144.",
+  "prerequisites_courses": [
+   "ECE 162A",
+   "MATRL 162A",
+   "ECE 162C",
+   "ECE 144"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 268B",
+  "title": "Semiconductor Lasers II",
+  "units": "4",
+  "description": "Gain and spontaneous emission vs. injection current in semiconductors; nonradiative recombination; strained-layer quantum wells. Dynamic characteristics of lasers including differential and large signal analysis of the rate equations; relative intensity noise and linewidth; carrier transport and feedback effects.",
+  "prerequisites_raw": "ECE 227A or MATRL 268A; or ECE 215A or MATRL 206A",
+  "prerequisites_courses": [
+   "ECE 227A",
+   "MATRL 268A",
+   "ECE 215A",
+   "MATRL 206A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 270",
+  "title": "Biomaterials and Biosurfaces",
+  "units": "3",
+  "description": "Fundamentals of natural and artificial biomaterials and biosurfaces with emphasis on molecular level structure and function and their interactions with the body. Design issues of grafts and biopolymers.Basic biological, biophysical and biochemical systems reviewed for nonbiologists.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 271A",
+  "title": "Synthesis and Properties of Macromolecules",
+  "units": "3",
+  "description": "Basics of preparation of polymer and macromolecular assemblies, and characterization of large molecules and assemblies. Discussion of chemical structure, bonding, and reactivity.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 271B",
+  "title": "Structure and Characterization of Complex Fluids",
+  "units": "3",
+  "description": "Structure, phase behavior, and phase transitions in complex fluids. Characterization techniques including x-ray and neutron scattering, and light and microscopy methods. Systems include colloidal and surfactant dispersions (e.g., polyballs, microemulsions, and micells), polymeric solutions and biomolecular materials (e.g., lyotropic liquid crystals).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 271C",
+  "title": "Properties of Macromolecules",
+  "units": "3",
+  "description": "Fundamentals of the properties of macromolecular solutions, melts, and solids. Viscosity, diffusion and light scattering from dilute solutions. Elements of macromolecular solid state structure. Thermal properties and processes. Mechanical and transport properties. Introduction to electrical and optical properties of macromolecules.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 272",
+  "title": "Mechanical Forces and Biomolecules",
+  "units": "3",
+  "description": "Explores single-molecule biophysics and the role of mechanical force in biomolecular behavior. Emphasis is placed on modern experimental techniques and the effects of mechanical stress on DNA conformation, protein unfolding, and force-generation by motor proteins. Recent literature is used throughout.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 273",
+  "title": "Experiments in Macromolecular Materials",
+  "units": "3",
+  "description": "Experiments using X-ray and light scattering, optical and electron microscopy. Crystalline, quasi-crystalline and amorphous materials. Solid, solution, and colloidal samples.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 274",
+  "title": "Solid State Inorganic Materials",
+  "units": "3",
+  "description": "An introductory course describing the synthesis, physical characterization, structure, electronic properties and uses of solid state materials.",
+  "prerequisites_raw": "Chemistry 173A-B or equivalent.",
+  "prerequisites_courses": [
+   "CHEM 173A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 275",
+  "title": "Electrostatics of Biopolymers",
+  "units": "2",
+  "description": "Electrostatics of highly charged surfaces in contact with a polar solvent with application to biopolymers (e.g., DNA, f-actin).",
+  "prerequisites_raw": "Knowledge of elementary ideas and methods of electrostatics and statisticalmechanics.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 276A",
+  "title": "Biomolecular Materials I: Structure and Function",
+  "units": "3",
+  "description": "Survey of classes of biomolecules (lipids, carbohydrates, proteins, nucleic acids). Structure and function of molecular machines (enzymes for biosynthesis, motors, pumps).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 276B",
+  "title": "Biomolecular Materials II: Applications",
+  "units": "3",
+  "description": "Interactions and self assembly in biomolecular materials. Chemical and drug delivery systems. Tissue engineering. Protein synthesis using recombinant nucleic acid methods: advanced materials development. Nonviral gene therapy.",
+  "prerequisites_raw": "Materials/BMSE 276A.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 278",
+  "title": "Interaction in Biomolecular Complexes",
+  "units": "3",
+  "description": "Focuses on the interactions, structures, and functional properties of complexes comprised of supramolecular assemblies of biological molecules. Systems addressed include lipid membranes, lipid-DNA complexes, and assemblies of proteins of the cell cytoskeleton.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 279",
+  "title": "First-Principles Calculations for Materials",
+  "units": "3",
+  "description": "Basic theory and methods of electronic structure, illustrated with examples of practical computational methods and real-world applications. Topics: Band structure; Uniform electron gas; Density functional theory; Exchange and correlation; Kohn-Sham equations; Pseudopotentials; Basis sets; Predicting materials properties: bulk, surfaces, interfaces, defects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 280A",
+  "title": "Introduction to Organic Electronics",
+  "units": "3",
+  "description": "Electronic properties of organic semiconductors and the effects of molecular structure. Influence of processing on electronic properties. Processing methods for organic optoelectronic devices. Discussion of measurements of transport and exemplary devices including thin film transistors, light emitting diodes, and photovoltaics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 280B",
+  "title": "Organic Electronic Devices",
+  "units": "3",
+  "description": "Detailed discussion of thin film electronic devices using organic semiconductors. Electronic Structure of disordered organic semiconductors. Transport models. Defects in organic materials. Electrical transport in diodes, light emitting diodes, photovoltaics, and thin film transistors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 280C",
+  "title": "Fabrication and Measurement of Devices with Soft Matter",
+  "units": "3",
+  "description": "Laboratory course and lecture on the fabrication of electronic devices with soft materials with an emphasis on organic semiconductors. Novel fabrication methods for organic devices. Surface functionalization. Biosensors. Measurement of optoelectronic properties of organic photovoltaics and thin film transistors.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 281",
+  "title": "Technical Communication and Presentation Design",
+  "units": "3",
+  "description": "Focuses on a practical, hands-on, interactive approach to developing communication skills and presentation style. Using current literature and seminars, critical attributes such as clearly explaining complex ideas, the do's and don'ts of presentation will be covered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 284",
+  "title": "Synthetic Chemistry of Macromolecules",
+  "units": "3",
+  "description": "Molecular architecture and classification of macromolecules. Different methods for the preparation of polymers: free radical polymerization, ionicpolymerization, condensation polymerization and coordination polymerization. Bulk, solution, and emulsion polymerization. Principles of copolymerization, blockcopolymerization, grafting, network formation, chemical reactions on polymers.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286",
+  "title": "Special Topics in Inorganic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will include in-depthdiscussions of advanced topics in inorganic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 286B",
+  "title": "Special Topics in Inorganic Materials",
+  "units": "3",
+  "description": "This course will be offered on an irregular basis and will include in-depthdiscussions of advanced topics in inorganic materials.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 131",
+  "title": "Introduction to Statistical Machine Learning",
+  "units": "4",
+  "description": "Statistical Machine Learning is used to discover patterns and relationships in large data sets. Topics will include: data exploration, classification and regression tress, random forests, clustering and association rules. Building predictive models focusing on model selection, model comparison and performance evaluation. Emphasis will be on concepts, methods and data analysis; and students are expected to complete a significant class project, individual or team based, using real-world data.",
+  "prerequisites_raw": "PSTAT 120A-B and PSTAT 126 with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 132",
+  "title": "Database Management for Data Analysis",
+  "units": "4",
+  "description": "Database systems concepts and architecture, data modeling by ER, relational model, Structured Query Language (SQL), functional dependencies, normalization, physical database design decisions, transaction processing concepts and theory. Introduction to the non-relational model, NoSQL and NewSQL.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 8/MATH 8 with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 8",
+   "MATH 8"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 133",
+  "title": "Statistical Deep Learning for Artificial Intelligence",
+  "units": "4",
+  "description": "Deep learning predictive models, optimization, and sampling algorithms. Emphasis is on learning the probabilistic framework, understanding the ideas behind modern machine learning algorithms, and practicing coding skills to solve real-world problems using computational approaches in artificial intelligence.",
+  "prerequisites_raw": "PSTAT 126 with a minimum grade of C or higher.",
+  "prerequisites_courses": [
+   "PSTAT 126"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 134",
+  "title": "Statistical Data Science",
+  "units": "4",
+  "description": "Applications of advanced data science tools for data retrieval, statistical analysis and machine learning, optimization, and visualization. Multiple case studies will illustrate the practical use of these tools.",
+  "prerequisites_raw": "PSTAT 131 or PSTAT 231 or Computer Science 165B; and Computer Science 9 (preferred) or Computer Science16. A minimum letter grade of C or better must be earned in each course.",
+  "prerequisites_courses": [
+   "PSTAT 131",
+   "PSTAT 231",
+   "CMPSC 165B",
+   "CMPSC 9"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 135",
+  "title": "Big Data Analytics",
+  "units": "4",
+  "description": "Basics in distributed data storage, retrieval, processing and cloud computing. Overview of methods for analyzing big data from both high dimensional statistics and machine learning - topics chosen from penalized regression, classification/clustering, dimension reduction, random projections, kernel methods, network clustering, graph analytics, supervised and unsupervised learning among others.",
+  "prerequisites_raw": "PSTAT 131 or PSTAT 231 or Computer Science 165B; and Computer Science 9 (preferred) or Computer Science 16. A minimum letter grade of C or better must be earned in each course.",
+  "prerequisites_courses": [
+   "PSTAT 131",
+   "PSTAT 231",
+   "CMPSC 165B",
+   "CMPSC 9",
+   "CMPSC 16"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 140",
+  "title": "Statistical Process Control",
+  "units": "4",
+  "description": "Topics include, statistical quality control charts for mean, standard deviation, range, fraction defective, and number of defects; sampling by attributes and variables; acceptance sampling, choice of acceptable quality level, average outgoing quality limit and lot tolerance percent defective values.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 160A",
+  "title": "Applied Stochastic Processes",
+  "units": "4",
+  "description": "Discrete probability models. Review of discrete and continuous probability. Conditional expectations. Simulation techniques for random variables. Discrete time stochastic processes: random walks and Markov chains with applications to Monte Carlo simulation and mathematical finance. Introduction to Poisson process.",
+  "prerequisites_raw": "Mathematics 4A or 4AI or 5A, Mathematics 8 or PSTAT 8, and PSTAT 120A. A minimum letter grade of C or better must be earned in each course.",
+  "prerequisites_courses": [
+   "MATH 4A",
+   "MATH 8",
+   "PSTAT 8",
+   "PSTAT 120A",
+   "MATH 4AI"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 160B",
+  "title": "Applied Stochastic Processes",
+  "units": "4",
+  "description": "Continuous models. Continuous time stochastic processes: Poisson process, Markov chains, Renewal process, Brownian motion, including simulation of these processes. Applications to Black-Scholes model, insurance and ruin problems and related topics.",
+  "prerequisites_raw": "MATH 4B, PSTAT 120B, and PSTAT 160A with a grade of C or better",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "PSTAT 120B",
+   "PSTAT 160A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 170",
+  "title": "Introduction to Mathematical Finance",
+  "units": "4",
+  "description": "Describes mathematical methods for estimating and evaluating asset pricing models, equilibrium and derivative pricing, options, bonds, and the term-structure of interest rates. Also introduces finance optimization models for risk management and financial engineering.",
+  "prerequisites_raw": "PSTAT 120A-B and 160A, all completed with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 160A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 171",
+  "title": "Mathematics of Fixed Income Markets",
+  "units": "4",
+  "description": "Introduction to fixed Income Markets. Topics include: measurement of interest, annuities certain, varying annuities, amortization schedules, sinking funds, bonds and related securities, depreciation.",
+  "prerequisites_raw": "Mathematics 2B or 3B with a minimum grade of C",
+  "prerequisites_courses": [
+   "MATH 2B",
+   "MATH 3B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 172A",
+  "title": "Actuarial Statistics I",
+  "units": "4",
+  "description": "Probabilistic and deterministic contingency mathematics in life and health insurance, annuities, and pensions. Topics include: survival distributions and life tables, life insurance, life annuities, net premiums, net premium reserves.",
+  "prerequisites_raw": "PSTAT 120A and 171.",
+  "prerequisites_courses": [
+   "PSTAT 120A",
+   "PSTAT 171"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 172B",
+  "title": "Actuarial Statistics II",
+  "units": "4",
+  "description": "Net premium reserves, multiple life functions, multiple decrement models, valuation theory for pension plans, insurance models including expenses, nonforfeiture benefits and dividends.",
+  "prerequisites_raw": "MATH 4B and PSTAT 172A.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "PSTAT 172A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 173",
+  "title": "Risk Theory",
+  "units": "4",
+  "description": "Risk measures, individual and collective risk models, credibility theory; applications to actuarial and financial mathematics.",
+  "prerequisites_raw": "PSTAT 120B with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 174",
+  "title": "Time Series",
+  "units": "4",
+  "description": "Stationary and non-stationary models, seasonal time series, ARMA models: calculation of ACF, PACF, mean and ACF estimation. Barlett's formula, model estimation: Yule-Walker estimates, ML method. identification techniques, diagnostic checking forecasting, spectral analysis, the periodogram. Current software and applications.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 175",
+  "title": "Survival Analysis",
+  "units": "4",
+  "description": "Introduces methods for analyzing time-to-event data, focusing on both concepts and applications. Topics include survival and hazard functions, life tables, Kaplan-Meier estimation, comparison of survival curves, and regression models such as the Cox proportional hazards and accelerated failure time models. Emphasis is placed on developing intuition for the methods and interpreting results. Students will gain hands-on experience with survival analysis using R.",
+  "prerequisites_raw": "PSTAT 10 and PSTAT 120B both with a minimum grade of C or better.",
+  "prerequisites_courses": [
+   "PSTAT 10",
+   "PSTAT 120B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 176",
+  "title": "Advanced Mathematical Finance",
+  "units": "4",
+  "description": "Advanced topics in asset pricing models, portfolio optimization, interest rate modeling and derivative pricing. Fundamental Theorem of Asset Pricing, Markowitz Mean-Variance Frontier, Capital Asset Pricing Theory, Monte Carlo methods and variance reduction techniques.",
+  "prerequisites_raw": "MATH 4B, PSTAT 160A-B, PSTAT 170; PSTAT 160B may be taken concurrently. PSTAT 160A and PSTAT 170 must be completed with a B- or higher.",
+  "prerequisites_courses": [
+   "MATH 4B",
+   "PSTAT 160A",
+   "PSTAT 170",
+   "PSTAT 160B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 177",
+  "title": "Financial Market Risk and Modeling",
+  "units": "4",
+  "description": "Modern financial markets, interest rate risk and its effect on government bonds, corporate bonds, other fixed income investments and equities. Financial market data analysis, calibration and validation. Some additional topics from among mortgage-backed securities, corporate credit risk, inflation-indexed bonds and swaptions.",
+  "prerequisites_raw": "PSTAT 126 and PSTAT 171 both with a minimum grade of C or better, or instructor approval.",
+  "prerequisites_courses": [
+   "PSTAT 126",
+   "PSTAT 171"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 182T",
+  "title": "Tutorial in Actuarial Statistics",
+  "units": "2",
+  "description": "Problem solving sessions to prepare students for the first four actuarial examinations. Topics corresponding to these examinations (probability, financial mathematics, statistical modeling, and risk management) will be offered in different quarters.",
+  "prerequisites_raw": "Statistics 120A",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 183",
+  "title": "Fundamental Actuarial Concepts",
+  "units": "4",
+  "description": "Introduces students to practical actuarial concepts and principles related to Property/Casualty Insurance (also known as General Insurance). Topics include pricing methods, reserving methods, insurance accounting, actuarial standards, and other subject matter students are likely to encounter early in their actuarial career. Examples expose students to Property Casualty Insurance; however, many of the concepts covered such as; frequency, severity, development, trend, deductibles and coinsurance, also apply to other practice areas (e.g., Life, Health, or Retirement).",
+  "prerequisites_raw": "PSTAT 171",
+  "prerequisites_courses": [
+   "PSTAT 171"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 188",
+  "title": "Transfer Exploration Seminar: Statistics and Data Science",
+  "units": "2",
+  "description": "Introduces students to foundational programming concepts for data analysis and visualization and fundamental concepts in probability and mathematics (random variables, set theory, simulations, series and integration), serving as preparation for follow-up major gateway courses in PSTAT. The material is organized into distinct modules and includes a brief introduction to R, Python, tidy data framework, data science ethics, and exploratory data analysis. Students will also explore research areas in the discipline, departmental and campus study resources, undergraduate research opportunities, and diverse career tracks available to Statistics & Data Science graduates.",
+  "prerequisites_raw": "New transfer students only; department approval required to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSTAT",
+  "code": "PSTAT 190",
+  "title": "Teaching and Mentoring Statistics and Data Science",
+  "units": "4",
+  "description": "Introduction to pedagogy in probabilty and statistics. Approaches to tutoring and mentoring undergraduate students. Course includes hands-on experience working one-on-one with students during discussion sections and open lab hours in an assigned PSTAT course.",
+  "prerequisites_raw": "Upper-division standing; and consent of the instructor. Minimum GPA of 3.0. Training course for Undergraduate Learning Assistant (ULA) Program. May not be applied towards major.",
+  "prerequisites_courses": []
+ }
+]

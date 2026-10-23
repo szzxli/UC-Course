@@ -1,0 +1,239 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 138L",
+  "title": "Laboratory in Behavioral Endocrinology",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to the study of endocrinology.",
+  "prerequisites_raw": "PSY 111; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 139",
+  "title": "Emotions",
+  "units": "4",
+  "description": "An overview of theory and research related to emotion and its neural basis. Topics may include: behavioral, neural, and computational approaches to understanding emotions, the neural substrates of fear and other discrete emotions, functions of emotions, regulation of emotion, group and cultural differences in emotion, and emotions consequences for social life.",
+  "prerequisites_raw": "PSY 102; PSY 106; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 102",
+   "PSY 106"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 140",
+  "title": "Social Influence",
+  "units": "4",
+  "description": "An overview of theory and research relevant to how people are influenced by the people, places, and situations that make up their social environment. Topics may include: mimicry, conformity, the formation and change of social norms, cultural influences, minority influence, and how these processes affect everyday social behavior.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 141",
+  "title": "Evaluation and Attitudes",
+  "units": "4",
+  "description": "An overview of theory and research related to how objects and events are evaluated in the short-term and long-term. Topics may include the processes by which evaluations and attitudes are formed, changed, or resist change; persuasion and reactance; and the reciprocal influence of evaluations and attitudes on cognition, affect, and behavior.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 142",
+  "title": "Cognitive Development",
+  "units": "4",
+  "description": "An overview of theory and research in the development of cognition from birth to maturity. Piagetian/ blank slate theories are contrasted with early core mechanisms approach, with emphasis on empirical research and hypothesis testing. Topics may include: theory of mind, object concept, language development, concepts, intuitive biology, essentialism, and the relationship between cognitive development and culture.",
+  "prerequisites_raw": "PSY 105; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 105"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 143",
+  "title": "The Evolution of Human Relationships",
+  "units": "4",
+  "description": "An overview of theory and research on the evolution and psychology of human social relationships. This class takes an interdisciplinary approach to human relationships. Topics may include: mate choice, relationship regulation, kinship, parent-offspring conflict, cooperation, friendship, coalitions, and status hierarchies.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 144",
+  "title": "Personality & Individual Differences",
+  "units": "4",
+  "description": "An overview of concepts, theory, and research relevant to the study and understanding of individual differences in human thought, emotion, and behavior. Topics may include: measurement of personality, research methodologies, and historical and current conceptualizations of personality.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and InterdisciplinaryStudies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 145",
+  "title": "Cognitive Science of Supernatural Concepts",
+  "units": "4",
+  "description": "An overview of theory and research on supernatural beliefs. People across human cultures believe in a variety of 'supernatural' entities such as souls, gods, and ghosts. Considers research investigating why human brains are susceptible to such concepts, and why such thinking tends to spread through human cultures.",
+  "prerequisites_raw": "PSY 105 or 142; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 105",
+   "PSY 142"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 146",
+  "title": "Human Mating Psychology",
+  "units": "4",
+  "description": "An overview of theory and research on the design features of brain mechanisms that regulate human mating psychology. This class takes an evolutionary and interdisciplinary approach to human mating. Topics may include: sex differences in mate preferences, hormonal correlates of sexuality, determinants of physical attractiveness, and evidence for the existence of human pheromones.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 147",
+  "title": "Intergroup Relations",
+  "units": "4",
+  "description": "An overview of theory and research relevant to interactions between and among social groups (e.g. racial, ethnic, gender, religion, nationality). Topics may include: social categorization, causes and consequences of stereotyping, prejudice, discrimination, and stigma, and intergroup conflict and cooperation.",
+  "prerequisites_raw": "PSY 102; Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 148",
+  "title": "Self and Identity",
+  "units": "4",
+  "description": "An overview of theory and research from social, cognitive and motivational perspectives on the self and identity. Topics may include: how we come to know who we are and what we are like, how our social identities shape motivation and behavior, self-esteem and self-esteem protective strategies, and self-regulation.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 149",
+  "title": "Close Relationships",
+  "units": "4",
+  "description": "An overview of theory and research relevant to cognitive, affective, and motivational processes in adult intimate relationships. Topics may include: attachment, love, commitment, intimacy, equity, social cognition, social support, and the link between relationships and health.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 150L",
+  "title": "Laboratory in Social Psychology",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant for research in social psychology.",
+  "prerequisites_raw": "PSY 102; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 102"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 151",
+  "title": "ADULT DEVELOPMENT AND AGING",
+  "units": "4",
+  "description": "Provides an overview of the theories and research regarding development during the longest phase of the life cycle adulthood, covering the years from young adulthood to late life with an emphasis on the multidirectional and multidimensional features of development in adulthood across a variety of domains.",
+  "prerequisites_raw": "PSY 105; open to Psychological & Brain Sciences, Biopsychology, Pharmacology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 105"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 152",
+  "title": "Social Cognition",
+  "units": "4",
+  "description": "An overview of theory and research relevant to how people process information about individuals and groups and its influence on social behavior. Topics may include social attention, categorization, face processing, memory and representation, automatic and controlled processes, trait inferences, and causal attribution.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 153",
+  "title": "Social Neuroscience",
+  "units": "4",
+  "description": "An overview of theory and research relevant to the interplay of mind, brain, and behavior in social contexts. Topics may include the mental and neural processes underlying person perception, evaluation, self-referential processing, interpersonal interactions, stereotypes and prejudice, and regulation of social behavior.",
+  "prerequisites_raw": "PSY 102; PSY 106 or 111; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 102",
+   "PSY 106",
+   "PSY 111"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 154",
+  "title": "Cultural Psychology",
+  "units": "4",
+  "description": "An overview of theory and research relevant to how culture influences human psychological processes. Topics may include: discussion of the influence of culture on human psychological processes, how people think, feel, and act, and the processes in which psychological tendencies are connected to culture.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 155",
+  "title": "Evolution and Cognition",
+  "units": "4",
+  "description": "An overview of theory and research in evolution and cognition. Explores ways in which the human mind can be seen as a collection of devices designed by evolution to solve adaptive problems faced by our hunter-gatherer ancestors. Topics may include: cooperation, mating, sibling jealousy, coalitional aggression.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 155L",
+  "title": "Laboratory in Evolutionary Psychology",
+  "units": "5",
+  "description": "A combined laboratory/lecture course that emphasizes the theoretical issues, experimental methods, and data analysis techniques relevant to the study of evolutionary psychology. Focuses on the framing and testing of adaptationist hypotheses. Students work together in groups to complete quarter-long, original research projects within the field of evolutionary psychology.",
+  "prerequisites_raw": "PSY 143, 146, 155, or Anthropology 5; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 143",
+   "ANTH 5",
+   "PSY 146",
+   "PSY 155"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 156L",
+  "title": "Laboratory in Developmental Psychology",
+  "units": "5",
+  "description": "A combined laboratory/lecture course focused on research methods and research communication. Students will use previously-collected data from experimental and survey studies to complete research projects. Students will learn about theoretical issues, experimental methods, and data analysis techniques relevant to the study of developmental psychology, including observation of infant behavior, assessment of rater reliability, and analysis, graphing, and presentation of research projects from prospective longitudinal studies (e.g., on adolescent health). Students will choose their own research questions based on available data in comprehensive surveys.",
+  "prerequisites_raw": "PSY 105; open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": [
+   "PSY 105"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "PSY",
+  "code": "PSY 158",
+  "title": "Positive Psychology",
+  "units": "4",
+  "description": "Investigates empirical approaches to the psychology of a fulfilling and flourishing life. Topics include research on positive emotions, happiness, empathy, friendship, goal setting, love, achievement, morality, creativity, mindfulness, spirituality and humor.",
+  "prerequisites_raw": "Open to Psychological & Brain Sciences, Biopsychology, and Interdisciplinary Studies majors only.",
+  "prerequisites_courses": []
+ }
+]

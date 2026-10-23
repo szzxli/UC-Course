@@ -1,0 +1,392 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 266",
+  "title": "Seminar in Musicology: The Classical Period",
+  "units": "4",
+  "description": "Graduate seminar in music of the classical period.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 267",
+  "title": "Seminar in Musicology",
+  "units": "4",
+  "description": "Graduate Seminar in Musicology. Topics will vary.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 268",
+  "title": "Seminar in Musicology: The Romantic Period",
+  "units": "4",
+  "description": "Graduate seminar in music of the Romantic period.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 269",
+  "title": "Seminar in Musicology: The Twentieth Century",
+  "units": "4",
+  "description": "Graduate seminar in music of the twentieth century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 270A",
+  "title": "MSTRS-SEM MUSIC EDU",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 270B",
+  "title": "MSTRS-SEM MUSIC EDU",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 273",
+  "title": "Studies in Music Theory",
+  "units": "4",
+  "description": "Selected topics in musical analysis.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 274",
+  "title": "Musical Acoustics",
+  "units": "4",
+  "description": "Consideration of the relationships between acoustics, perception and music. Emphasis on the physical and psychophysiological bases for tonality, dynamics, timbre and rhythm. Additional focus on the vibrational properties of musical instruments and features of digital recording and playback.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 275",
+  "title": "Seminar in Music Criticism",
+  "units": "4",
+  "description": "Using main themes in Eduard Hanslicks watershed treatise On the Musically Beautiful (1854) as points of departure and historical cross references, this course explores issues in music aesthetics from ancient times up through the 20th century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 276A",
+  "title": "Studies in Ethnomusicology",
+  "units": "4",
+  "description": "An introduction to the field of ethnomusicology using theories and methods derived from the social sciences and humanities. Topic areas to include transcription and analysis, musicians, musical instruments, music acculturation, and the function of music in society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 276B",
+  "title": "Studies in Ethnomusicology",
+  "units": "4",
+  "description": "An introduction to the field of ethnomusicology using theories and methods derived from the social sciences and humanities. Topic areas to include transcription and analysis, musicians, musical instruments, music acculturation, and the function of music in society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 278",
+  "title": "SEM HIST MUS INSTR",
+  "units": "3",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 282",
+  "title": "Proseminar in Classical Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of classical music.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 283",
+  "title": "Proseminar in Romantic Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of romantic music.",
+  "prerequisites_raw": "Graduate standing",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 284",
+  "title": "Proseminar in Contemporary Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of contemporary music.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 287",
+  "title": "Strauss and Hofmannsthal",
+  "units": "4",
+  "description": "A course in the collaboration between composer and poet. A study of the operas, the correspondence, and related developments in German music in the early twentieth century.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 288",
+  "title": "Ethnomusicology Forum",
+  "units": "1",
+  "description": "A forum for the presentation of research and performances by students, faculty, and visiting scholars and performers. Students must be currently involved in a research or performance project.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 291",
+  "title": "Proseminar in Renaissance Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of renaissance music.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 292",
+  "title": "Proseminar in Baroque Music",
+  "units": "4",
+  "description": "A selective study of various stylistic and historical aspects of baroque music.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293E",
+  "title": "Music Cultures of the World: China",
+  "units": "4",
+  "description": "Examination of the universal music issue through case studies of Chinese musical works, musicians, theories and practices. Special attention given to interdisciplinary understanding of Chinese music and culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293F",
+  "title": "Music Cultures of the World: Middle East",
+  "units": "4",
+  "description": "Arab, Turkish, and Persian music traditions from historical, cultural, and musicological perspectives. Emphasis given to the position of music in Islam, present-day performers, and modal and rhythmic structures.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293G",
+  "title": "Music Cultures of the World: India",
+  "units": "4",
+  "description": "A survey of music traditions of the Indian subcontinent from classical to folk and popular. Emphasis given to the position of music in Hindu philosophy, the role of music in society, musical instruments, and modal and rythmic structures (raga and tala).",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293I",
+  "title": "Music Cultures of the World: Indonesia",
+  "units": "4",
+  "description": "Introduces Indonesian musical and cultural practices through folk, classical, popular musics; religious traditions, theater and dance. Topics include interconnection of sonic and social structures, historical conditions of colonial and postcolonial relationships with the West, and transitions to contemporary transnational circulations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293J",
+  "title": "Music in Modern Japan",
+  "units": "4",
+  "description": "This course explores music and culture in modern Japan. What kind of society do we hear in its diverse mix of sounds and musical practices? We explore this question through traditional genres, national politics, and transnational exchanges of popular media.",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293K",
+  "title": "Music Cultures of the World: Other Regions",
+  "units": "4",
+  "description": "A study of the music traditions and genres from other regions of the world.Specific regions studied vary from quarter to quarter and will be announcedin advance by the Department of Music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293L",
+  "title": "Music Culture of the Polish Tatra Mountains",
+  "units": "4",
+  "description": "The Tatras are the home of a distinct folk culture, including music based on polyphonic singing and violin ensembles. Course investigates the present day music from this region and its history, and examines the influence of tourism and ethnography on the music culture.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293M",
+  "title": "American Folk Music",
+  "units": "4",
+  "description": "The study of English-language American folk music, using mixed-media tools for learning. The focus is on string band music often associated with Appalachia and usually called \"oldtime,\" and the the distinct but related styles of bluegrass and country.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 293X",
+  "title": "Musics in Mexico",
+  "units": "4",
+  "description": "An exploration of a range of musics of Mexico, contextualized in their historical, political, ideological, and social milieu. Encompassing discussion, readings, and performance. (No prior instrumental skills required.)",
+  "prerequisites_raw": "Graduate students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 295",
+  "title": "GRAD RECITAL",
+  "units": "0",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 295A",
+  "title": "Master of Music Performances",
+  "units": "2",
+  "description": "Preparation of: a. a full length recital (conducting: the equivalent of a full-length concert.)",
+  "prerequisites_raw": "Recital audition required. Master of Music students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 295B",
+  "title": "Master of Music Performances",
+  "units": "2",
+  "description": "Preparation of: b. a major performance: chamber music recital or concerto or major opera/oratorio role or another full-length recital (conducting: the equivalent of a chamber ensemble or small ensemble or large ensemble ormixed concert).",
+  "prerequisites_raw": "Recital audition required. Master of Music students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. a: piano b: strings c:voice d: orchestral e: choral f: woodwinds g: brass",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296A",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. a: piano",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296B",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. b: strings",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296C",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. c: voice",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296D",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. d: orchestral",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296E",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. e: choral",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296F",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. f: woodwinds",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 296G",
+  "title": "Performance Literature",
+  "units": "4",
+  "description": "A study of problems in the analysis and performance of major works in selected repertoire. g: brass",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

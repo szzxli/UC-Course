@@ -1,0 +1,404 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 171",
+  "title": "Latin America on Film",
+  "units": "4",
+  "description": "An exploration of Latin American film and how this medium represents the cultures, histories and politics of the region. We will study a selection of films encompassing different genres, styles and historical periods, including some key works by influential Latin American filmmakers.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 172",
+  "title": "Lorca, Tradition, Modernity, and the Avant Garde",
+  "units": "4",
+  "description": "A study of Lorcas poetry and theater in the context of the major artistic, sociopolitical and historical transformations of the early 20th century, exploring how traditional Spanish culture and avant-garde innovation intersect each other in his work.",
+  "prerequisites_raw": "Spanish 102L OR Spanish 30 (Prerequisite may be taken concurrently)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 174",
+  "title": "The Hispanic Novel and Cinema",
+  "units": "4",
+  "description": "Study of three or four Hispanic novels vis-a-vis their film versions, permitting analysis of narrative in both genres, using existing films and videos based on masterpieces of Hispanic literature. Taught in Spanish.",
+  "prerequisites_raw": "Spanish 102L OR Spanish 30 (Prerequisite may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 175",
+  "title": "Contemporary Spanish Cultural Studies",
+  "units": "4",
+  "description": "An interdisciplinary approach to the understanding of present-day Spain, focusing on popular music, TV and literature from the 1960s until today.",
+  "prerequisites_raw": "Spanish 102L OR Span 30. (Prerequisite may be taken concurrently.)",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 177",
+  "title": "Spanish-American Thought",
+  "units": "4",
+  "description": "Leading social, institutional, intellectual, and artistic trends from the sixteenth century to the present.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 177A",
+  "title": "SPAN AMER CULTURE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 177B",
+  "title": "SPAN AMER CULTURE",
+  "units": "4",
+  "description": "",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 178",
+  "title": "Mexican Culture",
+  "units": "4",
+  "description": "Social, institutional, intellectual, and artistic trends in the developmentof modern Mexico.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 179",
+  "title": "The Chicano Novel",
+  "units": "4",
+  "description": "Reading, analysis and critique of the contemporary Chicano novel as it pertains to the Chicano experience.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 180",
+  "title": "Special Topics in Peninsular Literature and Culture",
+  "units": "4",
+  "description": "Special topics in Peninsular literature and culture.",
+  "prerequisites_raw": "Spanish 30 or Spanish 102L (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 181",
+  "title": "Hispanic Poetry: 1900 to 1945",
+  "units": "4",
+  "description": "Reading and discussion of twentieth-century Spanish and Spanish-American poets and trends in their socio-historical context.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 181E",
+  "title": "Hispanic Poetry: 1900 to 1945",
+  "units": "4",
+  "description": "Reading and discussion of twentieth-century Spanish and Spanish-American poets and trends in their socio-historical context. Taught in English.",
+  "prerequisites_raw": "Upper-division standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 182",
+  "title": "Special Topics in Latin American Literature and Culture",
+  "units": "4",
+  "description": "Special topics in Latin American literature and culture.",
+  "prerequisites_raw": "Spanish 16B or Spanish 25",
+  "prerequisites_courses": [
+   "SPAN 16B",
+   "SPAN 25"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 182A",
+  "title": "Science Fiction in Latin America",
+  "units": "4",
+  "description": "An exploration of science fiction narrative and film from Latin America. Through a selection of works by Latin American authors from the early 20th century until the present, we will study how the history, cultures, and traditions of the region have shaped the genre of science fiction, and how this affords a singular perspective to think about topics like technology, neoliberalism, ethnicity, colonialism, the environment, and the future of the planet.",
+  "prerequisites_raw": "Spanish 30 or Spanish 102L (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183",
+  "title": "Study of Hispanic Literature by Author or Special Topics",
+  "units": "4",
+  "description": "Study of Hispanic literature by author or special topics.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183A",
+  "title": "Moving Bodies: Stories of Migration",
+  "units": "4",
+  "description": "Analyzes the experience of migration and diaspora formation by focusing on how the Basque settled in the American West.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183AA",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183B",
+  "title": "Gender in Basque Culture",
+  "units": "4",
+  "description": "Using Basque culture as a case study, this course explores how gender intersects with other crucial issues such as ethnicity, nationhood, and globalization.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183C",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183CA",
+  "title": "Central American Literature and Culture",
+  "units": "4",
+  "description": "Addresses the issues of Central American literature and culture as a way of encompassing the entire Central American region consisting of 7 countries (Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, and Panama). Part of the emphasis is to examine the larger area but also specific points of the respective countries. Concentration will be on the cultural productions of such countries (specifically literature) but will include history, geopolitics, geography, folklore, and others.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183D",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183E",
+  "title": "Conflict, Memory, and Cultural Production",
+  "units": "4",
+  "description": "Explores how cultural artifacts like novels and films articulate individual and collective histories of violence.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183EB",
+  "title": "Basque Studies through Literature and Culture in Translation (Spanish/English)",
+  "units": "4",
+  "description": "Delves deeper into the diversity of topics that make up Basque Studies, and analyses historical, but also contemporary socio-cultural topics related to the Basque country and the Basque diaspora abroad. Can be taken either as a continuation of SPAN 153E or a self-standing course on Basque Studies, where literary and cultural materials are presented in their English, Spanish, and possibly also French translations depending on student interest and language choice.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183EC",
+  "title": "Transnational Perspectives in the 19th Century: Spain/Cuba/U.S.",
+  "units": "4",
+  "description": "A study through literary texts of the political, cultural, and economic interrelations between Spain, Cuba, and the U.S. during the 19th century, from the Wars of Independence until the 1898 Spanish-American War.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183EM",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183F",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183FL",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183G",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183H",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183I",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183IA",
+  "title": "Basque Film",
+  "units": "4",
+  "description": "Provides a critical examination of the history and poetics of Basque film from the 20th century to the present.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183J",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183JL",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SPAN",
+  "code": "SPAN 183L",
+  "title": "Selected Authors and Topics in Hispanic Literature",
+  "units": "4",
+  "description": "Topic or author chosen by faculty member.",
+  "prerequisites_raw": "Spanish 102L or Spanish 30 (may be taken concurrently).",
+  "prerequisites_courses": [
+   "SPAN 30"
+  ]
+ }
+]

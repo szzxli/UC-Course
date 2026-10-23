@@ -1,0 +1,292 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120EL",
+  "title": "Special Topics in Mathematics: The Ellipse",
+  "units": "0",
+  "description": "The course delves into concepts using ellipses as a foundational shape: Synthetic & Projective geometry, theorems like Pascal's, Potential theory encompassing Newton’s cloaking, Elliptic functions aiding arc length computation, Quantization of ellipses involving Jacobi matrices, Moving boundaries (e.g., crystal growth) maintaining ellipses, with potential for broader topics.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120FC",
+  "title": "Algebraic Combinatorics",
+  "units": "0",
+  "description": "This class discusses applications of algebra (especially linear algebra) to various combinatorial problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120FG",
+  "title": "Special Topics in Mathematics: Graph Theory I",
+  "units": "0",
+  "description": "An introduction to the theory of graphs. Topics include trees, cycles, matchings, connectivity, planarity and flows.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120FN",
+  "title": "Special Topics in Mathematics: Number Systems",
+  "units": "0",
+  "description": "An exploration of basic number systems including the integers, rationals, reals, complex and beyond.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120FO",
+  "title": "Special Topics in Mathematics - Linear Optimization",
+  "units": "0",
+  "description": "In this course, students study optimization techniques in the area of Linear Programming whose goal is to find the maximum or a minimum of a linear function subject to linear constraints. This area of mathematics has broad applications in engineering, in data analysis, in industry, in medicine, etc. The only prerequisite for this class is Linear Algebra and some Multivariable calculus.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120FT",
+  "title": "Topology",
+  "units": "0",
+  "description": "Basic concepts in point set and algebraic topology, including compactness and fundamental groups.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120FV",
+  "title": "Special Topics in Mathematics - Game Theory",
+  "units": "0",
+  "description": "Introduction to game theory and related topics. Includes classical game theory and combinatorial game theory up through the Sprague-Grundy Theorem.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120HG",
+  "title": "Special Topics in Mathematics - Hyperbolic Geometry",
+  "units": "0",
+  "description": "Lectures on a coherent body of mathematical topics which are not usually presented in standard mathematics courses. This course focuses on Hyperbolic geometry & the mapping class group.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120KT",
+  "title": "Knot Theory",
+  "units": "0",
+  "description": "This course introduces the mathematical study of knots and links focusing on how topology, algebra, and geometry interact to distinguish and classify them. Students will learn both classical and modern knot invariants. A more apt title for this course could be 'Topics in Geometric Topology,' as we will also touch upon the importance of knots and links in the broader field of low-dimensional topology. Possible topics include the study of codimension one embeddings in manifolds, the knot group, Seifert surfaces and Seifert genus, polynomial link invariants, braids, finite and infinite cyclic coverings, the Alexander module, surgery theory, hyperbolic knot theory, and quantum invariants.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120ML",
+  "title": "Special Topics in Mathematics: Mathematical Logic",
+  "units": "0",
+  "description": "Set theory, ordinal arithmetic, first-order predicate calculus, Turing machines and recursive functions. Godels completeness and incompleteness theorems. The existence of unsolvable problems.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120NT",
+  "title": "Number Theory",
+  "units": "0",
+  "description": "Selected topics in number theory.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120PA",
+  "title": "P-adic analysis and p-adic zeta functions",
+  "units": "0",
+  "description": "Introduces p-adic numbers which can be obtained by completing rational numbers with respect to an absolute value different from the usual Euclidean absolute value. Discusses p-adic analysis and a p-adic version of Riemann zeta functions.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120RT",
+  "title": "Special Topics in Mathematics: Introduction to Representation Theory",
+  "units": "0",
+  "description": "Introduction to representation theory of finite groups, with a focus on examples and applications.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120SY",
+  "title": "Special Topics in Mathematics - Symmetry",
+  "units": "0",
+  "description": "This course uses group theory both to explore the symmetries of familiar objects (a triangle, a wallpaper pattern, a Rubik's cube) and to build weird, unintuitive geometries.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 120TC",
+  "title": "Topological Combinatorics",
+  "units": "0",
+  "description": "Two thieves have stolen a valuable necklace made of gems of several kinds. They want to divide the necklace so that each gets the same number of each kind of gem. How many cuts do they have to make? In this course you'll learn the answer to this and other combinatorial questions and how algebraic topology is used in the proof.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 121",
+  "title": "Probability",
+  "units": "0",
+  "description": "This is a course on probability. It covers discrete and continuous distributions, combinatorial methods, generating functions, conditioning, the law of large numbers, the central limit theorem, stochastic processes, random walks, Brownian motion, and applications in biology, economics, engineering, and physics.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 122A",
+  "title": "Complex Variables I",
+  "units": "0",
+  "description": "Covers the basics of the topology of the complex plane, series of complex numbers, differentiability of functions of a complex variable, the complex exponential and logarithm functions, contour integration, power series and analytic continuation, among other related topics.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 122B",
+  "title": "Complex Variables II",
+  "units": "0",
+  "description": "Covers the basics of the topology of the complex plane, series of complex numbers, differentiability of functions of a complex variable, the complex exponential and logarithm functions, contour integration, power series and analytic continuation, among other related topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 128",
+  "title": "Introduction to the Higher Mathematics",
+  "units": "0",
+  "description": "A formal introduction to the language and culture of mathematics. Students will learn how to rigorously think about mathematics and write mathematical proofs. Topics covered include: propositional logic, set theory, cardinality, number theory, and various number systems.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 130A",
+  "title": "Multidimensional Analysis: Differentiation",
+  "units": "0",
+  "description": "Elementary topology in R^n, directional derivatives, the differential, the chain rule, maxima and minima, manifolds and Lagrange multipliers, Taylor's formula, classification of critical points, Multivariable Mean Value Theorem, Inverse and Implicit Mapping Theorems, Manifolds in R^n.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 130B",
+  "title": "Multidimensional Analysis: Integration",
+  "units": "0",
+  "description": "The theory of Riemann integrals: Jordan measure, Riemann integrals and Riemann integrability. Criteria for Riemann integrability using Riemann sums and step functions, Lebesgue criterion, Fubini's theorem and change of variables formula. Differential forms and their integrals, Stokes theorem.",
+  "prerequisites_raw": "None.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 140",
+  "title": "Introduction to Mathematical Problems",
+  "units": "0",
+  "description": "Several nontrivial solved and unsolve mathematical problems are considered which require a minimal background. These include tiling and network problems, the solutions of which are ultimately useful in the natural sciences.",
+  "prerequisites_raw": "Consent of instructors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATH CS",
+  "code": "MATH CS 199",
+  "title": "Independent Studies",
+  "units": "0",
+  "description": "Serious independent study in mathematics with consenting faculty member.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 10",
+  "title": "Materials in Society, The Stuff of Dreams",
+  "units": "4",
+  "description": "A survey of new technological substances and materials, the scientific methods used in their development, and their relation to society and the economy. Emphasis on uses of new materials in the human body, electronics, optics, sports, transportation, and infrastructure.",
+  "prerequisites_raw": "Not open to engineering, pre-computer science, or computer science majors.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 100A",
+  "title": "Structure and Properties I",
+  "units": "3",
+  "description": "An introduction to materials in modern technology. The internal structure of materials and its underlying principles: bonding, spatial organization of atoms and molecules, structural defects. Electricial, magnetic and optical properties of materials, and their relationship with structure.",
+  "prerequisites_raw": "Chemistry 1A-B and Mathematics 4B, 6A, 6B",
+  "prerequisites_courses": [
+   "CHEM 1A",
+   "MATH 4B",
+   "MATH 6A",
+   "MATH 6B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 100B",
+  "title": "Structures and Properties II",
+  "units": "3",
+  "description": "Mechanical properties of engineering materials and their relationship to bonding and structure. Elastic, flow, and fracture behavior; time dependent deformation and failure. Stiffening, strengthening, and toughening mechanisms. Thermo-mechanical interactions in materials.",
+  "prerequisites_raw": "Materials 100A.",
+  "prerequisites_courses": [
+   "MATRL 100A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 100C",
+  "title": "Fundamentals of Structural Evolution",
+  "units": "3",
+  "description": "An introduction to the thermodynamic and kinetic principles governing structural evolution in materials. Phase equilibria, diffusion and structural transformations. Metastable structures in materials. Self-assembling systems. Structural control through processing and/ or imposed fields. Environmental effects on structure and properties.",
+  "prerequisites_raw": "Materials 100A and Materials 100B.",
+  "prerequisites_courses": [
+   "MATRL 100A",
+   "MATRL 100B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MATRL",
+  "code": "MATRL 101",
+  "title": "Introduction to the Structure and Properties of Materials",
+  "units": "3",
+  "description": "Introduction to the structure of engineering materials and its relationship with their mechanical properties. Structure of solids and defects. Concepts of microstructure and origins. Elastic, plastic flow and fracture properties. Mechanisms of deformation and failure. Stiffening, strengthening, and toughening mechanisms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]

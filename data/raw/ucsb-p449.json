@@ -1,0 +1,304 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 207C",
+  "title": "Sociological Theory",
+  "units": "4",
+  "description": "Fundamental issues in contemporary social theory from their emergence in the Enlightenment, through the writings of Marx, Durkheim, and Weber, to present day controversies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 208",
+  "title": "Formal Analysis in Sociology",
+  "units": "4",
+  "description": "Clarification of existing sociological theories by resolution into explicitform. Special attention to axiomatic method.",
+  "prerequisites_raw": "Philosophy 31.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 211A",
+  "title": "Field Research in Sociology",
+  "units": "4",
+  "description": "The organization and execution of research in natural settings; analysis offield data and documentary evidence; problems of comparative history and analytic induction.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 211B",
+  "title": "Field Research in Sociology",
+  "units": "4",
+  "description": "The organization and execution of research in natural settings; analysis of field data and documentary evidence; problems of comparative history and analytic induction.",
+  "prerequisites_raw": "Prerequisites for Sociology 211B:Sociology 211A",
+  "prerequisites_courses": [
+   "SOC 211A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 212A",
+  "title": "Seminar in Comparative-Historical Sociology",
+  "units": "4",
+  "description": "Theoretical and methodological bases of comparative-historical sociology. Use of thoeries and concepts, logic of comparison and contrast, types of evidence, and other issues raised by classic works and methodological writings.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 212B",
+  "title": "Seminar in Comparative-Historical Sociology",
+  "units": "4",
+  "description": "Students pursue research projects applying historical and/or comparative methods.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 212F",
+  "title": "Feminist Research Methodologies",
+  "units": "4",
+  "description": "Fundamental issues in the philosophy, process, and tools of feminist research inquiries.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 212R",
+  "title": "Introduction to the Analysis of Recorded Interaction",
+  "units": "4",
+  "description": "Methods for analyzing talk in interaction in a computerized multimedia environment. Methods for producing an action analysis, locating recurrent features, building a data collection, and developing a data collection intoa formal research paper.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 212W",
+  "title": "Writing Practicum in Sociology",
+  "units": "4",
+  "description": "Designed to hone research and writing skills; the main work involves students' research projects, and giving feedback to each other. The group discusses a number of issues to do with the craft of writing.",
+  "prerequisites_raw": "Students must have a current research project that is in the writing stage.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 213",
+  "title": "The Practice of Critical Ethnography",
+  "units": "4",
+  "description": "The course will introduce students to theories and practices of critical ethnography. The aim of the course is to show how critical ethnography can be practiced. Hence, the focus will be on conducting empirical ethnographicresearch.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 213D",
+  "title": "Sociological Theories of Race, Ethnicity, and Nation",
+  "units": "4",
+  "description": "Analysis of U.S. sociological theories of race, ethnicity, and nation, as well as their intersection with questions of gender, class, and culture, beginning with the institutionalization of the discipline in the 1890s to the present; critical examination of these theoretical frameworks in terms of their ability to chart race and ethnic relations.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 214A",
+  "title": "Introduction to Race, Ethnicity, Nation",
+  "units": "4",
+  "description": "Focus on the influential and paradigmatic 19th and 20th century theoretical scholarship in the field of sociology of race, ethnicity, and nation, including, among other topics, the Chicago School, Hull House, Caste theories, Gunnar Myrdal, W.E.B. Du Bois, Oliver Cox, assimilation theory, internal colonialism, racial formation, gendered racism, as well as other contemporary theoretical paradigms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 214B",
+  "title": "Introduction to Race, Ethnicity, Nation",
+  "units": "4",
+  "description": "Special topics on the influential and paradigmatic contemporary theoretical scholarship in the field, including racial formation theory, feminist theory, critical race theory, and other developments. Emphasis on comparative framework, cultural approaches, intersection of race, class, and gender, and interdisciplinary scholarship. May be repeated for credit provided the topic is different.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 215",
+  "title": "Contemporary Themes in Race and Migration",
+  "units": "4",
+  "description": "Using a comparative perspective, the course examines contemporary scholarship on race and migration from a multidisciplinary perspective, including historical American immigration policies and patterns, the socio-political impact of American immigration law, and the complex processes of transnational and international migration.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 215A",
+  "title": "Chicana/o and Latina/o Sociology",
+  "units": "4",
+  "description": "Introduction to the sociological study of Chicana/o and Latina/o communities in the U.S.-Mexico borderlands. Survey of classic texts and emerging socioeconomic and cultural frameworks, migration, racialization, gendered identities, social movements, education, literacy, and empowerment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 216D",
+  "title": "Topics in Race, Ethnicity, and Nation",
+  "units": "4",
+  "description": "Selected topics in the sociological analysis of race, ethnicity, and nation, as well as their intersection with questions of gender and class.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 218C",
+  "title": "Sociology of Culture",
+  "units": "4",
+  "description": "Seminar on the sociological study of culture, examining theoretical perspectives, definitional and analytical problems, production of culture, and cultural effects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 218CP",
+  "title": "Topics on Cultural Sociology",
+  "units": "4",
+  "description": "Selected topics in the sociological analysis of the relationship between culture and politics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 218P",
+  "title": "Seminar on Popular Culture",
+  "units": "4",
+  "description": "This seminar focuses on theories, research, and debates regarding the sociological analysis of popular culture.",
+  "prerequisites_raw": "Prior course on sociology of culture.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 224",
+  "title": "Seminar In Collective Behavior And Social Movement",
+  "units": "4",
+  "description": "Advanced study of theory and research on protest, collective mobilization, collective behavior, grass roots activism, and related topics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 226",
+  "title": "Immigration",
+  "units": "4",
+  "description": "Immigration has transformed the United States and is changing the face of Europe as well as transforming the societies that immigrants are leaving behind. This course covers the social science literature, including the causes and consequences of immigration, the economics and politics of immigration, the adaptation patterns of immigrants and their descendants, the impact on the societies left behind, and the long-term effects of immigration on American society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 228A",
+  "title": "Selected Problems In American Racism",
+  "units": "4",
+  "description": "(Racism in the United States as a social institution) Primary emphasis will be given to theoretical treatments of racism, and to locations within social structure wherein theoretical claims can be assessed. The relevance of theoretical claims, and analysis derived therefrom, for action and for policy imperatives, will be emphasized.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 230",
+  "title": "Sociology of Digital Technologies",
+  "units": "4",
+  "description": "How do information technologies and digital platforms inform, shape and mediate our social, cultural, economic and political lives? This course surveys debates and introduces core concepts in critical technology studies. This considers how power, privilege, and protest operate in contemporary digital culture. It explores the digital environments in which we live, love, work, play and organize. Topics covered include artificial intelligence, algorithmic oppression, digital networks, digital praxis, race and digital technologies, black technoculture, data colonialism, and protest movements across digital platforms.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 230A",
+  "title": "Proseminar in Social Movements and Political Consciousness",
+  "units": "4",
+  "description": "A proseminar on current research and theory in social movement studies and related fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 230B",
+  "title": "Proseminar in Social Movements and Political Consciousness",
+  "units": "4",
+  "description": "A proseminar on current research and theory in social movement studies and related fields.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 232",
+  "title": "Marx Seminar",
+  "units": "4",
+  "description": "Examination of Marx's core texts, such as 1844 Manuscripts, Grundrisse, and Capital; consideration of theoretical concepts, among them commodity fetishism, exploitation, technology and the labor process, colonialism and precapitalist societies, and crisis theory.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 233",
+  "title": "Problems in Radical Thought",
+  "units": "4",
+  "description": "Explores some of the challenges facing radical thought today. Particular emphasis placed on the relationship between the critical and utopian functions of radical thought.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 233R",
+  "title": "Radical Social Theory and Revolutionary Practice in the Twentieth Century",
+  "units": "4",
+  "description": "Surveys radical social thinkers from 20th century revolutions and sociological reflection on 20th century revolutionary theory and practice. Major thinkers and practitioners surveyed include Leon Trotsky, Max Weber, Antonio Gramsci, Mao Zedong, Rosa Luxembourg, Jose Mariategui, Lenin, Amilcar Cabral, others.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 234",
+  "title": "Social Inequalities",
+  "units": "4",
+  "description": "A broad introduction to sociological research on diverse forms of social inequality. Offers a review of the classic literature and a critical analysis of the latest literature on class, race, and gender inequalities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "SOC",
+  "code": "SOC 236",
+  "title": "The Analysis Of Conversational Interaction",
+  "units": "4",
+  "description": "This seminar focuses on the structure of naturally occurring conversational interaction with an emphasis on problem formulation and methods of analysis.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ }
+]

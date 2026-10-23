@@ -1,0 +1,407 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 4F",
+  "title": "Musicianship",
+  "units": "1",
+  "description": "A practical course in sight singing, aural analysis, and rhythmic studies.",
+  "prerequisites_raw": "Placement Exam. A grade of at least C- is required in each course of the Music 4 series. Must be taken consecutively, and concurrently with the Music 5 series.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 5A",
+  "title": "Music Theory and Practice I",
+  "units": "4",
+  "description": "Theory basics, including rhythm and meter, pitch, intervals, scales, keys, triads, seventh chords, and essentials of harmonic progression.",
+  "prerequisites_raw": "Placement Exam or Music 11.",
+  "prerequisites_courses": [
+   "MUS 11"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 5B",
+  "title": "Music Theory and Practice II",
+  "units": "4",
+  "description": "Textural deployments of harmony, tonic and dominant on the small and large scale, contrapuntal influences, cadential progressions, non-chord tones.",
+  "prerequisites_raw": "Placement exam or Music 5A with a grade of at least C-. Must be taken concurrently with the Music 4 series.",
+  "prerequisites_courses": [
+   "MUS 5A"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 5C",
+  "title": "Chromatic Harmony and Form",
+  "units": "4",
+  "description": "Secondary dominants, diatonic modulation, chromatic chords, sequences.",
+  "prerequisites_raw": "Placement exam or Music 5B with a grade of at least C-. Must be taken consecutively, and concurrently with the Music 4 series.",
+  "prerequisites_courses": [
+   "MUS 5B"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 6",
+  "title": "Jazz Fundamentals",
+  "units": "2",
+  "description": "Introduction to jazz harmony, scales, and improvization. drill in ear training and beginning keyboard.",
+  "prerequisites_raw": "Music 5C.",
+  "prerequisites_courses": [
+   "MUS 5C"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 8",
+  "title": "Class Composition",
+  "units": "2",
+  "description": "Assignments in basics of music writing.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 10A",
+  "title": "History of Western Music from Early Modern Culture through Modernism",
+  "units": "4",
+  "description": "A survey of Western music and its social contexts from late humanism through the Age of Enlightenment (1545-1745). Topics include Renaissance legacies, music and religious reformations, ancient vs. modern, the rise of opera, patronage, instrumental composer-performers, taste in the Enlightenment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 10B",
+  "title": "History of Western Music from Early Modern Culture through Modernism",
+  "units": "4",
+  "description": "A survey of Western music and its social contexts from 1745 to 1848. Topics include the rise of public concerts and of the virtuoso soloist, the evolution of the orchestra, music in salons and parlors, and national operatic institutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 10C",
+  "title": "History of Western Music from Early Modern Culture through Modernism",
+  "units": "4",
+  "description": "A survey of Western music and its social contexts from 1848 to 1945. Topics include music and nationalism, late romanticism and the limits of tonality, modernism, the impact of popular music on art music, and neoclassicism.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 11",
+  "title": "Fundamentals of Music",
+  "units": "5",
+  "description": "The study of notes, scales, triads, inversions, rhythm, harmony, and musical terminology. Laboratory activities include keyboard orientation, sight singing, and ear training.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 12",
+  "title": "Thinking Historically about Music",
+  "units": "4",
+  "description": "This course reflects on the process of crafting narratives about the musical past and its impact on our understanding of music in the present. Students learn to analyze diverse sources and practice the construction of music historical narratives.",
+  "prerequisites_raw": "Open to Music majors only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 15",
+  "title": "Constructing Communities through Music: Classical and Beyond",
+  "units": "5",
+  "description": "Examines how music builds and sustains communities across historical contexts. Students develop critical and historical thinking using case studies from Europe and the United States to explore musical practices (classical and beyond), socio-economic contexts, and continuities between past and present.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 16",
+  "title": "Listening to Jazz: Demystifying Americas Musical Art Form",
+  "units": "5",
+  "description": "Aims to unravel the mystery of Jazzs allure, importance, and performance process, in a manner mostly divorced from technical musical terminology or music theory, through targeted readings, listening assignments, written projects, in-class visits, and concert attendance.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 17",
+  "title": "World Music",
+  "units": "5",
+  "description": "An introductory course surveying the unity and diversity of folk, traditional, and classical music of the non-western world. Emphasis given to dance, theatre, musical instruments, and the role of music in society.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 17H",
+  "title": "World Music, Honors",
+  "units": "1",
+  "description": "Undergraduate independent research for honor students. Carefully selected topics in World Music intended to foster excellence in research or performance.",
+  "prerequisites_raw": "Lower-division standing; honors students only.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 20A",
+  "title": "Elementary Voice I",
+  "units": "1",
+  "description": "Elementary voice lessons at beginning level. Placement in Music A, B, or C will be determined by the instructor after an audition.",
+  "prerequisites_raw": "Music 11 or UCSB Exam 38 (Music Theory Placement Test) with a score of 1 or higher. Placement by audition on the first day of class.",
+  "prerequisites_courses": [
+   "MUS 11",
+   "MUS 1"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 20B",
+  "title": "Elementary Voice II",
+  "units": "1",
+  "description": "Elementary voice lessons designed for those with a small amount of vocal experience.",
+  "prerequisites_raw": "Music 11. Placement by audition the first day of class.",
+  "prerequisites_courses": [
+   "MUS 11"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 20C",
+  "title": "Elementary Voice III",
+  "units": "1",
+  "description": "Elementary voice lessons designed for those who have significant vocal training and experience.",
+  "prerequisites_raw": "Music 11. Placement by audition on first day of class.",
+  "prerequisites_courses": [
+   "MUS 11"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22",
+  "title": "Practicum in World Music Performance",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: the Middle Eastern oud (lute) and nay (end-blown flute), Middle Eastern percussion, and dastgah (Persian melodic practice).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22G",
+  "title": "Practicum in World Music Performance",
+  "units": "1",
+  "description": "Applied instruction in Gamelan instruments and the Tarling musical style of Indonesia.Prerequisite of minimum one quarter in the UCSB Gamelan Ensemble Music A 70J/170J/270J added.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22M",
+  "title": "Practicum in World Music Performance: Arabic Maqam",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: the Arabic maqam, the system of melodic modes used in traditional Arabic music.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22N",
+  "title": "Practicum in World Music Performance: the nay (Middle-Eastern flute).",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: the Middle-Eastern nay (end-blown flute).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22O",
+  "title": "Practicum in World Music Performance: the oud (Middle-Eastern lute).",
+  "units": "1",
+  "description": "Applied instruction in the Middle Eastern oud (lute).",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22P",
+  "title": "Practicum in World Music Performance: Middle Eastern percussion",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: Middle Eastern percussion.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22V",
+  "title": "Practicum in World Music Performance: the Middle Eastern violin",
+  "units": "1",
+  "description": "Applied instruction in non-Western instruments: the Middle Eastern violin.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 22X",
+  "title": "Practicum in World Music Performance",
+  "units": "1",
+  "description": "Applied instruction in a non-Western instrument.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 24",
+  "title": "Carillon",
+  "units": "1",
+  "description": "Applied instruction on Carillon (bells in bell tower) performance.",
+  "prerequisites_raw": "Consent of instructor.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 25",
+  "title": "Intermediate Voice",
+  "units": "0",
+  "description": "Intermediate voice lessons.",
+  "prerequisites_raw": "By audition. Departmental approval required prior to registration. Consent of instructor to finalize registration.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 26A",
+  "title": "Intermediate Double Bass",
+  "units": "0",
+  "description": "Intermediate double bass lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 26B",
+  "title": "Intermediate Cello",
+  "units": "0",
+  "description": "Intermediate cello lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 26C",
+  "title": "Intermediate Classical Guitar",
+  "units": "0",
+  "description": "Intermediate classical guitar lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 26D",
+  "title": "Intermediate Viola",
+  "units": "0",
+  "description": "Intermediate viola lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 26E",
+  "title": "Intermediate Violin",
+  "units": "0",
+  "description": "Intermediate violin lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 27A",
+  "title": "Intermediate Bassoon",
+  "units": "0",
+  "description": "Intermediate bassoon lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 27B",
+  "title": "Intermediate Clarinet",
+  "units": "0",
+  "description": "Intermediate clarinet lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 27C",
+  "title": "Intermediate Flute",
+  "units": "0",
+  "description": "Intermediate flute lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 27D",
+  "title": "Intermediate Oboe",
+  "units": "0",
+  "description": "Intermediate oboe lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 28A",
+  "title": "Intermediate French Horn",
+  "units": "0",
+  "description": "Intermediate french horn lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "MUS",
+  "code": "MUS 28B",
+  "title": "Intermediate Trombone",
+  "units": "0",
+  "description": "Intermediate trombone lessons.",
+  "prerequisites_raw": "By audition. Consent of instructor and department.",
+  "prerequisites_courses": []
+ }
+]

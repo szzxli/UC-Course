@@ -1,0 +1,298 @@
+[
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 250",
+  "title": "Seminar in Political Socialization",
+  "units": "4",
+  "description": "The development of political attitudes and behavior throughout the entire life cycle. Major foci of attention include the study of agents of political socialization, the content of socialization, variations within and across political systems, and the impact of generational and historicaleffects.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 251",
+  "title": "Political Parties and Political Representation",
+  "units": "4",
+  "description": "Topics covered include the concept of political representation; the historical development of political parties and their role in providing representation; party systems; the relationship between party systems, policy outcomes and democracy; the representation of minorities; and problems in the study of representation. The perspective is primarily comparative but examples are also drawn from the American politics literature.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 252",
+  "title": "Seminar in Public Opinion and Political Participation",
+  "units": "4",
+  "description": "Public opinion, elections, and other forms of participation are considered. Emphasis is on American politics, but theories and research are viewed in comparative perspective.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 253",
+  "title": "Seminar - Interest Groups in American Politics",
+  "units": "4",
+  "description": "Graduate seminar on political interest groups in American politics. This seminar focuses on the role of interest groups in shaping American politics and public policy. It is intended to expose graduate students in American politics to the major debates in the discipline on the role of interest groups in shaping the US political environment.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 254",
+  "title": "Seminar in the Legislative Process",
+  "units": "4",
+  "description": "An examination of a range of problems in the study of the organization, operation, and politics of american legislature ---especially the U.S. Congress.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 256",
+  "title": "The American Presidency",
+  "units": "4",
+  "description": "This seminar provides an intensive survey of scholarly analysis of the presidency and the interaction of the president with other branches of the national government.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 258",
+  "title": "Seminar in American Political Behavior",
+  "units": "4",
+  "description": "Intended as a core seminar in American Politics. Covers the literature on individual political behavior in the United States. Topics include theoretical approaches to studying individual political behavior and foundational research on topics such as the nature and consequences of the public's knowledge about politics, persuasion, political identity, ideology, values, tolerance, prejudice, public opinion, participation, and voting.",
+  "prerequisites_raw": "GRADUATE STANDING.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 261",
+  "title": "Seminar in American Institutions",
+  "units": "4",
+  "description": "This course is intended to be a core seminar in American Politics. Introduces students to the core literature on American political institutions. Topics include theoretical approaches to studying political institutions, and foundational research on institutions like the presidency, Congress, federalism, political parties, interest groups, states, the judicial system, and other political institutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 263",
+  "title": "Race, Ethnicity and Gender in American Politics",
+  "units": "4",
+  "description": "This course examines the role of race, ethnicity and gender; their intersections in shaping the opportunity structures and behavioral outcomes of political participation and the incorporation of racial/ethnic minorities and women into the American political processes and institutions.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 266",
+  "title": "Contemporary Problems in American Government",
+  "units": "4",
+  "description": "An in-depth look at current controversies and debates in research on American politics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 267",
+  "title": "Political Communication",
+  "units": "4",
+  "description": "Overview of political communication. Covers foundational topics such as political deliberation, agenda-setting, framing, selective exposure, and political advertising, as well as the changing structure of contemporary media and the role of digital media in politics.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 270",
+  "title": "Theoretical Issues in International Political Economy",
+  "units": "4",
+  "description": "The focus of this seminar will be on theoretical issues at the leading edge of contemporary scholarship in the field of international political economy. A principal objective will be to identify key elements of an agenda for future research.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 272",
+  "title": "Seminar on International Organizations and Society",
+  "units": "4",
+  "description": "Examines, from a variety of theoretical perspectives, the proposition that there is an international society consisting of laws, norms, institutions, organizations, and cultures that has significant effects on the behavior of states and the character of international relations.",
+  "prerequisites_raw": "Political Science 225 or equivalent.",
+  "prerequisites_courses": [
+   "POL S 225"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 273",
+  "title": "International Political Economy",
+  "units": "4",
+  "description": "Introduction to the politics of international economic relations. Alternative analytical and theoretical perspectives on actor behavior and system governance. Historical development and current operation of the world economy.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 274",
+  "title": "Contemporary Civil War & Political Violence",
+  "units": "4",
+  "description": "Surveys the scholarly research on civil war's causes, dynamics, termination, and consequences. The material emphasizes theory and includes classic studies of civil war as well as cutting edge research. Designed to be both theoretical and practical, introducing students to the most important and cutting-edge research in civil war while simultaneously preparing them for work in the academy or research.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 275",
+  "title": "War, Diplomacy and International Security",
+  "units": "4",
+  "description": "The seminar will probe a variety of issues, theoretical and historical (plus quite a few contemporary ones), that touch on war, power, and security studies.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 277",
+  "title": "American Foreign Policy",
+  "units": "4",
+  "description": "Contemporary issues in U.S. foreign policy",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 280A",
+  "title": "Russian Domestic Policy",
+  "units": "4",
+  "description": "Domestic politics of the Soviet Union and successor states. Issues regularly included are: the process of political change, democratization, ethnic politics, political structure, and economic reform.",
+  "prerequisites_raw": "Political Science 230 or equivalent.",
+  "prerequisites_courses": [
+   "POL S 230"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 281",
+  "title": "Comparative Ethnic Politics",
+  "units": "4",
+  "description": "Examines the political consequences of ethnicity and theoretical approachesinvolved in the study of ethnic politics. Issues addressing problems of multi-ethnic states will be examined in light of cases drawn from the industrialized democracies, developing world, and the successor states of the Soviet Union.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 286",
+  "title": "Seminar in Japanese Politics",
+  "units": "4",
+  "description": "Structure and processes of policymaking in contemporary Japan, with focus on economic and social issues. policy issues and policymaking cases, probing both the formal and informal rules of the game, its major actors, and its beneficiaries and victims.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 288",
+  "title": "Seminar in Revolution and Violence",
+  "units": "4",
+  "description": "A critical examination of the theory and practice of revolution and political violence.",
+  "prerequisites_raw": "Graduate standing.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 294",
+  "title": "Environmental Politics and Policy",
+  "units": "4",
+  "description": "This seminar focuses on development of the environmental movement in American politics and the resulting institutional responses. Environmental policy making and implementation is examined in light of relevant theories.Emergence of an environmental ethic in American politics is considered.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 295",
+  "title": "Environmental Politics Workshop",
+  "units": "2",
+  "description": "An interdisciplinary seminar focusing on research at the intersection of political science and public policy as it pertains to environmental issues. The expectation is that students specializing in environmental politics will enroll continuously, with differentiated assignments appropriate to stage in the program. Students will present their own work, comment on the work of others, and engage in professional development activities.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 296",
+  "title": "Comparative and International Environmental Politics",
+  "units": "4",
+  "description": "Explores the global and comparative political economy of the environment.",
+  "prerequisites_raw": "POLITICAL SCIENCE 204.",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 297",
+  "title": "The Analysis of Public Policy",
+  "units": "4",
+  "description": "A survey of different traditions of policy analysis. Includes methods of analysis, policy alternatives, and approaches to explaining policy choice.",
+  "prerequisites_raw": "Political Science 205 or equivalent.",
+  "prerequisites_courses": [
+   "POL S 205"
+  ]
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 500",
+  "title": "Practicum for Teaching Assistants",
+  "units": "0",
+  "description": "Designed to help teaching assistants learn effective teaching methods and techniques under faculty supervision. assignments normally include conducting discussion sections, grading examinations under the supervision of appropriate faculty members and discussion of relevant pedagogical problems.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 501",
+  "title": "Teaching Assistant Training",
+  "units": "4",
+  "description": "Designed to help graduate students prepare for future assignments as teaching assistants. Course work normally includes discussions with faculty members and past or current teaching assistants, attendance at demonstration exercises, analysis of teacher performance with the use of audio-visual aids, etc.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 502",
+  "title": "Practicum for Teaching Associates",
+  "units": "0",
+  "description": "Designed to help beginning teaching associates improve and refine their teaching methods, techniques and materials through discussions with appropriate members of the regular faculty. The format of the course may vary according to the specific needs of the teaching associates.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ },
+ {
+  "campus": "UCSB",
+  "dept": "POL S",
+  "code": "POL S 503",
+  "title": "Directed Research",
+  "units": "0",
+  "description": "Designed for students who are at the early to intermediate stages of their dissertation plans. Progress reports that will lead to an eventual prospectus are emphasized.",
+  "prerequisites_raw": "",
+  "prerequisites_courses": []
+ }
+]
