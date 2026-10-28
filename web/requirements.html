@@ -116,6 +116,7 @@ I18N.init().then(function () {
   document.getElementById("addAllRow").hidden = false;
   var MD1 = null, MD2 = null, EQUIV = {}, VIEW = "m1";
   var SELECTED = {};
+  var EXPANDED = {}, COLLAPSED = {};
   var HAVE = Sget("have", {});
   function saveHave() { Sset("have", HAVE); }
   function inHave(k) { return !!HAVE[normCode(k)]; }
@@ -150,6 +151,31 @@ I18N.init().then(function () {
       var n = keys.filter(function (k) { return inHave(k) || planned[k]; }).length;
       var el = card.querySelector("[data-havecount]");
       if (el) el.textContent = I18N.t("major.progressCount", { n: n, m: keys.length });
+      /* 折叠：已完成卡默认收起并标 ✓ 已完成；手动展开/收起优先于自动状态 */
+      var groups = JSON.parse(card.dataset.groups || "[]");
+      var covered = function (k) { return inHave(k) || planned[k]; };
+      var done = false;
+      if (keys.length) {
+        if (card.dataset.etype !== "elective" && groups.length) {
+          var inGrp = {};
+          groups.forEach(function (g) { g.forEach(function (c) { inGrp[c] = true; }); });
+          var flat = keys.filter(function (k) { return !inGrp[k]; });
+          done = flat.length ? keys.every(covered) : groups.some(function (g) { return g.length && g.every(covered); });
+        } else {
+          done = keys.every(covered);
+        }
+      }
+      var dt = card.querySelector("[data-donetag]");
+      if (dt) dt.hidden = !done;
+      var bd = card.querySelector(".reqbody");
+      var fm = card.querySelector("[data-foldmark]");
+      if (bd) {
+        var ri = card.dataset.req;
+        if (EXPANDED[ri]) bd.hidden = false;
+        else if (COLLAPSED[ri]) bd.hidden = true;
+        else bd.hidden = done;
+        if (fm) fm.textContent = bd.hidden ? "▸" : "▾";
+      }
     });
   }
   function courseRowHTML(c, extraNote) {
@@ -205,11 +231,13 @@ I18N.init().then(function () {
     if (!body) body = '<p class="hint">' + esc(I18N.t("major.openPool", { n: req.count || 0 })) + '</p>';
     var selAll = (req.courses || []).length
       ? ' <a href="#" class="link" data-selall="' + ri + '">' + esc(I18N.t("major.selectAll")) + '</a>' : "";
-    return '<div class="card" data-req="' + ri + '" data-keys=\'' + JSON.stringify(keys) + '\'>' +
+    return '<div class="card" data-req="' + ri + '" data-keys=\'' + JSON.stringify(keys) + '\' data-groups=\'' + JSON.stringify((req.options || []).map(function (g) { return g.map(normCode); })) + '\' data-etype="' + esc(req.type || "") + '">' +
       '<div class="section-title">' + reqTitleHTML(req) +
       ' <span class="tag">' + esc(badge) + countLine + '</span>' +
-      (keys.length ? ' <span class="tag have" data-havecount></span>' : "") + selAll + '</div>' +
-      reqNoteHTML(req) + body + '</div>';
+      (keys.length ? ' <span class="tag have" data-havecount></span>' : "") +
+      ' <span class="tag done" data-donetag hidden>✓ ' + esc(I18N.t("major.doneTag")) + '</span>' + selAll +
+      ' <span class="foldmark" data-foldmark>▾</span></div>' +
+      '<div class="reqbody">' + reqNoteHTML(req) + body + '</div></div>';
   }
   function overlapList() {
     function reqSet(md) {
@@ -289,6 +317,22 @@ I18N.init().then(function () {
           cb.checked = true; SELECTED[cb.dataset.k] = cb.dataset.code;
         });
         refreshBar();
+      });
+    });
+    /* 卡片折叠：点标题展开/收起（标题里的链接除外），手动状态优先于自动完成状态 */
+    box.querySelectorAll("[data-req]").forEach(function (card) {
+      var t = card.querySelector(".section-title");
+      if (!t) return;
+      t.addEventListener("click", function (e) {
+        if (e.target.closest("a")) return;
+        var bd = card.querySelector(".reqbody");
+        if (!bd) return;
+        var ri = card.dataset.req;
+        bd.hidden = !bd.hidden;
+        if (bd.hidden) { COLLAPSED[ri] = true; delete EXPANDED[ri]; }
+        else { EXPANDED[ri] = true; delete COLLAPSED[ri]; }
+        var fm = card.querySelector("[data-foldmark]");
+        if (fm) fm.textContent = bd.hidden ? "▸" : "▾";
       });
     });
   }

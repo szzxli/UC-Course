@@ -227,7 +227,8 @@
     "goEngine": "Planificador inteligente →",
     "countNote": "Cómo se cuenta: cada tarjeta de requisito cuenta cursos completados + planificados. Solo los marcados como 'ya lo tengo' cuentan como completados; añadir a la lista solo significa que planeas cursarlo. Si un curso aparece en varios requisitos, la página lo cuenta en cada uno; si puede contar dos veces depende del departamento — confírmalo con un asesor académico.",
     "goStatus": "Verificación de estado →",
-    "goPick": "Selector inteligente →"
+    "goPick": "Selector inteligente →",
+    "doneTag": "Completado"
   },
   "traj": {
     "empty": "Añade cursos desde la pestaña Carrera primero",

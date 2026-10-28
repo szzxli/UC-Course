@@ -227,7 +227,8 @@
     "goEngine": "Smart Scheduler →",
     "countNote": "How counts work: each requirement card counts completed + planned courses. Only courses you marked 'I have this' count as completed; adding to your list only means you plan to take it. If one course appears under several requirements, the page counts it under each; whether it can double-count follows department rules — confirm with an academic advisor.",
     "goStatus": "Academic status check →",
-    "goPick": "Smart course picker →"
+    "goPick": "Smart course picker →",
+    "doneTag": "Done"
   },
   "traj": {
     "empty": "Add courses from the Major tab first",
