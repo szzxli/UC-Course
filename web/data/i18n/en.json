@@ -416,8 +416,12 @@
  },
  "map": {
   "title": "🗺️ Prereq Map",
-  "hint": "Tap a course to focus on its prerequisite chain and what it unlocks; tap again to clear. The map updates live when you add to your plan or mark a course as taken.",
+  "hint": "Use the checkboxes above to filter by section. Tap a course to focus on its prerequisite chain and what it unlocks; tap again to clear. The map updates live when you add to your plan or mark a course as taken.",
   "blocked": "Blocked",
-  "outside": "Prerequisite from outside this catalog"
+  "outside": "Prerequisite from outside this catalog",
+  "grpLow": "Lower-division",
+  "grpHigh": "Upper-division required",
+  "grpElect": "Electives",
+  "noneChecked": "Check at least one group"
  }
 }

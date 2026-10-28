@@ -70,9 +70,10 @@
 </section>
 <section id="sec-map" hidden>
   <h1 data-i18n="map.title">🗺️ 先修地图</h1>
-  <p class="hint" data-i18n="map.hint">点一门课，只看它的先修链与后续课；再点一次取消。加入清单或标记已修后，地图立即同步。</p>
+  <p class="hint" data-i18n="map.hint">上方勾选区块可筛选；点一门课，只看它的先修链与后续课；再点一次取消。加入清单或标记已修后，地图立即同步。</p>
   <p class="hint" id="mapNote" hidden></p>
   <p class="hint" id="mapLegend" hidden><span class="sw" style="background:#2e7d5b"></span><span data-i18n="major.chainHave">已修</span><span class="sw" style="background:#fff;border:2px solid #2e7d5b"></span><span data-i18n="major.chainPlanned">已在选课清单</span><span class="sw" style="background:#fff;border:1px solid #9aa39f"></span><span data-i18n="major.chainOk">可修：先修已满足</span><span class="sw" style="background:#f1f0ec;border:1px solid #c9c9c0"></span><span data-i18n="map.blocked">被卡住</span><span style="margin-left:12px">🔑</span><span data-i18n="pick.keyBadge">关键课：拖后会拖毕业</span></p>
+  <div id="mapFilters" hidden><label><input type="checkbox" data-mgrp="low" checked> <span data-i18n="map.grpLow">低年级</span></label><label><input type="checkbox" data-mgrp="high"> <span data-i18n="map.grpHigh">高年级必修</span></label><label><input type="checkbox" data-mgrp="elect"> <span data-i18n="map.grpElect">选修</span></label><span class="map-zoom"><button class="btn sm" id="mapZoomIn">+</button><button class="btn sm" id="mapZoomOut">-</button><button class="btn sm" id="mapZoomReset">⟲</button></span></div>
   <div id="mapWrap" hidden><svg id="mapSvg" xmlns="http://www.w3.org/2000/svg"></svg></div>
   <div class="card" id="mapInfo" hidden>
     <div class="section-title" id="mapInfoTitle"></div>
@@ -408,7 +409,8 @@ I18N.init().then(function () {
     "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
     "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json"
   };
-  var NW = 112, NH = 32, GX = 30, GY = 12, PAD = 12;
+  var R = 38, GX = 26, GY = 16, PAD = 14;
+  var ZOOM_LEVELS = [0.6, 0.8, 1, 1.3, 1.7, 2.2], zoomIdx = 2;
   var builtFor = "", G = null, focusCode = "";
   function isZh(){ var l = I18N.getLocale(); return l === "zh-CN" || l === "zh-TW"; }
   function norm(c){ return Engine.normCode(c); }
@@ -459,6 +461,7 @@ I18N.init().then(function () {
   }
   function setVisible(show){
     document.getElementById("mapLegend").hidden = !show;
+    document.getElementById("mapFilters").hidden = !show;
     document.getElementById("mapWrap").hidden = !show;
     if (!show) document.getElementById("mapInfo").hidden = true;
   }
@@ -472,16 +475,19 @@ I18N.init().then(function () {
       var major = res[0], cat = res[1];
       var catByCode = {};
       (cat.courses || []).forEach(function(c){ catByCode[norm(c.code)] = c; });
-      var reqCodes = {}, reqNames = {};
+      var reqCodes = {}, reqNames = {}, nodeGroups = {};
       (major.requirements || []).forEach(function(req){
         var codes = (req.courses || []).slice();
         (req.options || []).forEach(function(g){ codes = codes.concat(g); });
         var nm = (isZh() && req.name_zh) ? req.name_zh : req.name;
+        var grp = req.type === "elective" ? "elect" : (req.type === "required" ? "high" : "low");
         codes.forEach(function(c){
           var k = norm(c);
           reqCodes[k] = true;
           if (!reqNames[k]) reqNames[k] = [];
           if (reqNames[k].indexOf(nm) < 0) reqNames[k].push(nm);
+          if (!nodeGroups[k]) nodeGroups[k] = [];
+          if (nodeGroups[k].indexOf(grp) < 0) nodeGroups[k].push(grp);
         });
       });
       var trees = {}, edges = {}, edgeList = [], dependents = {}, fanout = {};
@@ -522,28 +528,18 @@ I18N.init().then(function () {
         depthMemo[code] = d;
         return d;
       }
-      var cols = {};
+      var depthMap = {}, maxDepth = 0;
       Object.keys(nodeSet).forEach(function(k){
         var d = depth(k, {});
-        if (!cols[d]) cols[d] = [];
-        cols[d].push(k);
+        depthMap[k] = d;
+        if (d > maxDepth) maxDepth = d;
       });
-      var colKeys = Object.keys(cols).map(function(x){ return +x; }).sort(function(a, b){ return a - b; });
-      var pos = {}, maxRows = 0;
-      colKeys.forEach(function(d){
-        cols[d].sort(function(a, b){
-          var ra = reqCodes[a] ? 0 : 1, rb = reqCodes[b] ? 0 : 1;
-          if (ra !== rb) return ra - rb;
-          return a < b ? -1 : (a > b ? 1 : 0);
-        });
-        if (cols[d].length > maxRows) maxRows = cols[d].length;
-        cols[d].forEach(function(k, i){ pos[k] = { x: PAD + d * (NW + GX), y: PAD + i * (NH + GY) }; });
-      });
-      G = { catByCode: catByCode, reqCodes: reqCodes, reqNames: reqNames, trees: trees,
-        edgeList: edgeList, dependents: dependents, fanout: fanout, pos: pos,
-        ncols: colKeys.length, maxRows: maxRows, dirty: false };
+      G = { catByCode: catByCode, reqCodes: reqCodes, reqNames: reqNames, nodeGroups: nodeGroups, trees: trees,
+        edgeList: edgeList, dependents: dependents, fanout: fanout, depthMap: depthMap,
+        ncols: maxDepth + 1, dirty: false };
       setNote("", false);
       setVisible(true);
+      document.querySelectorAll("#mapFilters input[data-mgrp]").forEach(function(cb){ cb.checked = cb.getAttribute("data-mgrp") === "low"; });
       render();
     }).catch(function(){
       G = null;
@@ -576,36 +572,109 @@ I18N.init().then(function () {
     }
     return set;
   }
+  function checkedGroups(){
+    var out = [];
+    document.querySelectorAll("#mapFilters input[data-mgrp]").forEach(function(cb){
+      if (cb.checked) out.push(cb.getAttribute("data-mgrp"));
+    });
+    return out;
+  }
+  function visibleSet(){
+    var checked = checkedGroups(), vis = {};
+    if (!checked.length) return vis;
+    var rev = {};
+    G.edgeList.forEach(function(e){ if (!rev[e.to]) rev[e.to] = []; rev[e.to].push(e.from); });
+    var stack = [];
+    Object.keys(G.nodeGroups).forEach(function(k){
+      if (G.nodeGroups[k].some(function(g){ return checked.indexOf(g) >= 0; })) { vis[k] = true; stack.push(k); }
+    });
+    while (stack.length) {
+      var cur = stack.pop();
+      (rev[cur] || []).forEach(function(f){ if (!vis[f]) { vis[f] = true; stack.push(f); } });
+    }
+    return vis;
+  }
+  function splitLabel(code){
+    var m = code.match(/^(.*?)\s*(\d+[A-Z]*)$/);
+    return m ? [m[1], m[2]] : [code, ""];
+  }
+  function applyZoom(){
+    var svg = document.getElementById("mapSvg");
+    var g = document.getElementById("mapZoom");
+    if (!svg || !g || !G || !G.W) return;
+    var s = ZOOM_LEVELS[zoomIdx];
+    g.setAttribute("transform", "scale(" + s + ")");
+    svg.setAttribute("width", Math.round(G.W * s));
+    svg.setAttribute("height", Math.round(G.H * s));
+  }
   function render(){
     if (!G) return;
+    var vis = visibleSet();
+    var svg = document.getElementById("mapSvg");
+    if (!Object.keys(vis).length) {
+      svg.innerHTML = "";
+      svg.removeAttribute("width");
+      svg.removeAttribute("height");
+      setNote(I18N.t("map.noneChecked"), true);
+      document.getElementById("mapInfo").hidden = true;
+      return;
+    }
+    setNote("", false);
+    if (focusCode && !vis[focusCode]) focusCode = "";
     var have = haveSet(), planned = plannedSet();
     var focusSet = focusCode ? focusSetFor(focusCode) : null;
-    var W = PAD * 2 + G.ncols * (NW + GX), H = PAD * 2 + G.maxRows * (NH + GY);
-    var s = "";
+    var cols = {};
+    Object.keys(vis).forEach(function(k){
+      var d = G.depthMap[k] || 0;
+      if (!cols[d]) cols[d] = [];
+      cols[d].push(k);
+    });
+    var pos = {}, maxRows = 0;
+    Object.keys(cols).forEach(function(d){
+      cols[d].sort(function(a, b){
+        var ra = G.reqCodes[a] ? 0 : 1, rb = G.reqCodes[b] ? 0 : 1;
+        if (ra !== rb) return ra - rb;
+        return a < b ? -1 : (a > b ? 1 : 0);
+      });
+      if (cols[d].length > maxRows) maxRows = cols[d].length;
+      cols[d].forEach(function(k, i){
+        pos[k] = { x: PAD + (+d) * (2 * R + GX) + R, y: PAD + i * (2 * R + GY) + R };
+      });
+    });
+    var W = PAD * 2 + G.ncols * (2 * R + GX), H = PAD * 2 + maxRows * (2 * R + GY);
+    G.W = W; G.H = H;
+    function edgePt(p1, p2){
+      var dx = p2.x - p1.x, dy = p2.y - p1.y, len = Math.sqrt(dx * dx + dy * dy) || 1;
+      return { x1: p1.x + dx / len * R, y1: p1.y + dy / len * R, x2: p2.x - dx / len * R, y2: p2.y - dy / len * R };
+    }
+    var s = '<defs><marker id="mapArr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8f9590"/></marker></defs><g id="mapZoom">';
     G.edgeList.forEach(function(e){
-      var p1 = G.pos[e.from], p2 = G.pos[e.to];
+      var p1 = pos[e.from], p2 = pos[e.to];
       if (!p1 || !p2) return;
+      var pt = edgePt(p1, p2);
       var dim = focusSet && (!focusSet[e.from] || !focusSet[e.to]);
-      s += '<line x1="' + (p1.x + NW) + '" y1="' + (p1.y + NH / 2) + '" x2="' + p2.x + '" y2="' + (p2.y + NH / 2) + '" stroke="#b9bdb8" stroke-width="1"' + (e.or ? ' stroke-dasharray="4 3"' : "") + (dim ? ' class="map-dim"' : "") + "/>";
+      s += '<line x1="' + pt.x1 + '" y1="' + pt.y1 + '" x2="' + pt.x2 + '" y2="' + pt.y2 + '" stroke="#9aa39f" stroke-width="2"' + (e.or ? ' stroke-dasharray="5 4"' : "") + ' marker-end="url(#mapArr)"' + (dim ? ' class="map-dim"' : "") + "/>";
     });
     var fills = { have: ["#2e7d5b", "none", "#ffffff"], planned: ["#ffffff", "#2e7d5b", "#132625"], ok: ["#ffffff", "#9aa39f", "#132625"], blocked: ["#f1f0ec", "#c9c9c0", "#8a8d88"] };
-    Object.keys(G.pos).forEach(function(code){
-      var p = G.pos[code], st = statusOf(code, have, planned), f = fills[st];
+    Object.keys(pos).forEach(function(code){
+      var p = pos[code], st = statusOf(code, have, planned), f = fills[st];
       var dim = focusSet && !focusSet[code];
       var focused = focusCode === code;
-      var sw = (st === "planned" || focused) ? 2 : 1;
+      var sw = (st === "planned" || focused) ? 3 : 2;
       var stroke = focused ? "#132625" : f[1];
       var cat = G.catByCode[code];
       var tip = esc(code) + (cat && cat.title ? " - " + esc(cat.title) : "");
+      var lb = splitLabel(code);
+      var label = lb[1] ? '<text x="' + p.x + '" y="' + p.y + '" text-anchor="middle" font-size="12" font-weight="700" fill="' + f[2] + '"><tspan x="' + p.x + '" dy="-2">' + esc(lb[0]) + '</tspan><tspan x="' + p.x + '" dy="15">' + esc(lb[1]) + "</tspan></text>"
+        : '<text x="' + p.x + '" y="' + p.y + '" text-anchor="middle" font-size="12" font-weight="700" fill="' + f[2] + '"><tspan x="' + p.x + '" dy="4">' + esc(lb[0]) + "</tspan></text>";
       s += '<g class="map-node' + (dim ? " map-dim" : "") + '" data-code="' + esc(code) + '"><title>' + tip + "</title>" +
-        '<rect x="' + p.x + '" y="' + p.y + '" width="' + NW + '" height="' + NH + '" rx="6" fill="' + f[0] + '" stroke="' + stroke + '" stroke-width="' + sw + '"/>' +
-        '<text x="' + (p.x + NW / 2) + '" y="' + (p.y + 20) + '" text-anchor="middle" font-size="12" font-weight="700" fill="' + f[2] + '">' + esc(code) + "</text>" +
-        ((G.fanout[code] || 0) >= 6 ? '<text x="' + (p.x + NW - 12) + '" y="' + (p.y + 12) + '" font-size="10">🔑</text>' : "") + "</g>";
+        '<circle cx="' + p.x + '" cy="' + p.y + '" r="' + R + '" fill="' + f[0] + '" stroke="' + stroke + '" stroke-width="' + sw + '"/>' +
+        label +
+        ((G.fanout[code] || 0) >= 6 ? '<text x="' + (p.x + 27) + '" y="' + (p.y - 27) + '" font-size="13">🔑</text>' : "") + "</g>";
     });
-    var svg = document.getElementById("mapSvg");
-    svg.setAttribute("width", W);
-    svg.setAttribute("height", H);
+    s += "</g>";
     svg.innerHTML = s;
+    applyZoom();
     svg.querySelectorAll(".map-node").forEach(function(g){
       g.addEventListener("click", function(){
         var code = g.getAttribute("data-code");
@@ -671,6 +740,12 @@ I18N.init().then(function () {
     var _origSset = Sset;
     Sset = function(k, v){ _origSset(k, v); refreshMapStatus(); };
   }
+  document.querySelectorAll("#mapFilters input[data-mgrp]").forEach(function(cb){
+    cb.addEventListener("change", function(){ render(); });
+  });
+  document.getElementById("mapZoomIn").addEventListener("click", function(){ if (zoomIdx < ZOOM_LEVELS.length - 1) { zoomIdx++; applyZoom(); } });
+  document.getElementById("mapZoomOut").addEventListener("click", function(){ if (zoomIdx > 0) { zoomIdx--; applyZoom(); } });
+  document.getElementById("mapZoomReset").addEventListener("click", function(){ zoomIdx = 2; applyZoom(); });
   document.querySelectorAll("[data-seg]").forEach(function(b){
     b.addEventListener("click", function(){ if (b.dataset.seg === "map") showMap(); });
   });

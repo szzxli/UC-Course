@@ -120,8 +120,13 @@ body.has-selbar{padding-bottom:140px}
 .chain-step{padding:12px 0}
 .chain-step + .chain-step{border-top:1px solid var(--line)}
 .chain-step .step-title{font-weight:700;font-size:15px;margin-bottom:6px}
-.sw{display:inline-block;width:12px;height:12px;border-radius:3px;vertical-align:-1px;margin:0 4px 0 12px}
+.sw{display:inline-block;width:12px;height:12px;border-radius:50%;vertical-align:-1px;margin:0 4px 0 12px}
 .map-node{cursor:pointer}
 .map-dim{opacity:.18}
 #mapWrap{overflow:auto;max-height:72vh;border:1px solid var(--line);border-radius:12px;background:#fff}
 #mapWrap svg{display:block}
+#mapFilters{margin:10px 0}
+#mapFilters label{margin-right:14px;white-space:nowrap}
+#mapFilters input{vertical-align:-1px}
+#mapFilters .map-zoom{margin-left:6px;white-space:nowrap}
+#mapFilters .map-zoom button{margin-left:4px}

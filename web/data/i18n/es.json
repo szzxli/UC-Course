@@ -416,8 +416,12 @@
  },
  "map": {
   "title": "🗺️ Mapa de requisitos",
-  "hint": "Toca un curso para centrarte en su cadena de requisitos y en lo que desbloquea; toca de nuevo para limpiar. El mapa se actualiza en vivo cuando lo añades a tu plan o lo marcas como cursado.",
+  "hint": "Usa las casillas de arriba para filtrar por sección. Toca un curso para centrarte en su cadena de requisitos y en lo que desbloquea; toca de nuevo para limpiar. El mapa se actualiza en vivo cuando lo añades a tu plan o lo marcas como cursado.",
   "blocked": "Bloqueado",
-  "outside": "Requisito fuera de este catálogo"
+  "outside": "Requisito fuera de este catálogo",
+  "grpLow": "División inferior",
+  "grpHigh": "Requeridos de división superior",
+  "grpElect": "Optativas",
+  "noneChecked": "Marca al menos un grupo"
  }
 }
