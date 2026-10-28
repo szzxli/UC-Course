@@ -1,13 +1,14 @@
 {
   "brand": {
-    "courses": "🔍 Search Courses",
+    "courses": "🔍 Courses",
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Plan Schedule",
     "major": "🎓 Major Requirements",
     "traj": "🛤️ My Progress",
     "ge": "📖 GE & Graduation Requirements",
     "engine": "🧠 Smart Scheduler",
-    "status": "✅ Academic status check"
+    "status": "✅ Academic status check",
+    "requirements": "🎓 Requirements"
   },
   "courses": {
     "add": "+ Add to my courses",
@@ -31,7 +32,9 @@
     "overlapBadge": "🔗 Double-count",
     "overlapHint": "Counts for both majors",
     "campusLabel": "Campus",
-    "goPlan": "Go to planning →"
+    "goPlan": "Go to planning →",
+    "segSearch": "Search courses",
+    "segPick": "Smart picker"
   },
   "index": {
     "campusHint": "Three campuses supported: UCI, UCSD, UCSB. More campuses on the way.",
@@ -83,7 +86,8 @@
     "plan": "Plan",
     "major": "Major",
     "traj": "Progress",
-    "ge": "GE"
+    "ge": "GE",
+    "requirements": "Requirements"
   },
   "plan": {
     "clear": "Clear",
@@ -132,7 +136,10 @@
     "scopeNote": "⚠️ This assessment covers only the {n} course(s) you selected. Requirements you haven't added (GE, remaining major courses, etc.) are not included — it is not a verdict for the whole degree.",
     "coverageLine": "Selected: {u} units / ~180 total for a UC bachelor's degree ≈ {p}%",
     "genEmpty": "Your list is empty — add some courses first, then generate a plan.",
-    "certNote": "This plan is an estimate from catalog data: satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed your graduation eligibility. Recheck GOLD / the department site before enrolling."
+    "certNote": "This plan is an estimate from catalog data: satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed your graduation eligibility. Recheck GOLD / the department site before enrolling.",
+    "segPlan": "Schedule",
+    "segTraj": "Progress",
+    "segEngine": "Smart planner"
   },
   "sub": {
     "index": "Pick your campus and major — see what's left for graduation and how prerequisites chain",
@@ -162,7 +169,7 @@
     ]
   },
   "title": {
-    "courses": "Search Courses · UC SmartPick",
+    "courses": "Courses · UC SmartPick",
     "index": "UC SmartPick",
     "plan": "Plan Schedule · UC SmartPick",
     "major": "Major · UC SmartPick",
@@ -170,7 +177,8 @@
     "transfer": "Transfer Credit Import - UC SmartPick",
     "ge": "GE & Graduation Requirements · UC SmartPick",
     "engine": "Smart Scheduler · UC SmartPick",
-    "status": "Academic status check · UC SmartPick"
+    "status": "Academic status check · UC SmartPick",
+    "requirements": "Requirements · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -362,5 +370,9 @@
     "emptyRec": "No required courses are ready to take this term (they may all be done or all blocked by prerequisites).",
     "emptyBlocked": "No required courses are blocked by prerequisites.",
     "honesty": "Prerequisites are parsed from the catalog's original and/or wording; when the original text is empty, the snapshot's flat list is treated as either/or. Satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed graduation eligibility — recheck GOLD / the department site before enrolling. Popular-course data (enrollment, waitlists) has no source yet, so no popularity is shown here."
+  },
+  "req": {
+    "segMajor": "Major requirements",
+    "segGe": "GE requirements"
   }
 }

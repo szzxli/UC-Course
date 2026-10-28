@@ -43,13 +43,14 @@ const missing = listed.filter(c => !codes.has(norm(c)));
 ok("A1/A2 全部课程在目录中", missing.length === 0, missing.join(","));
 ok("A2 含 ENGL 10 系列", ["ENGL 10", "ENGL 10AC", "ENGL 10EM", "ENGL 10LC"].every(c => byId.a2.courses.includes(c)));
 
-console.log("== GE 页与导航 ==");
-const geHtml = fs.readFileSync(path.join(WEB, "ge.html"), "utf8");
-ok("ge.html 读 data/ge/ + campus 小写", geHtml.includes('fetch("data/ge/" + CAMPUS.toLowerCase() + ".json")'));
-ok("ge.html 含 6-tab 导航", (geHtml.match(/data-page="/g) || []).length === 6);
-for (const p of ["index.html", "courses.html", "major.html", "plan.html", "trajectory.html"]) {
+console.log("== GE 页与导航（四页整合后：GE 为毕业要求页的一区） ==");
+const reqHtml = fs.readFileSync(path.join(WEB, "requirements.html"), "utf8");
+ok("requirements.html 读 data/ge/ + campus 小写", reqHtml.includes('fetch("data/ge/" + CAMPUS.toLowerCase() + ".json")'));
+ok("requirements.html 含 4-tab 导航", (reqHtml.match(/data-page="/g) || []).length === 4);
+ok("requirements.html 含 GE 区", reqHtml.includes('id="sec-ge"'));
+for (const p of ["index.html", "courses.html", "plan.html"]) {
   const s = fs.readFileSync(path.join(WEB, p), "utf8");
-  ok(p + " 有通识 tab", s.includes('href="ge.html" data-page="ge"'));
+  ok(p + " 有毕业要求 tab", s.includes('href="requirements.html" data-page="requirements"'));
 }
 for (const loc of ["zh-CN", "zh-TW", "en", "es"]) {
   const d = load(path.join(WEB, "data/i18n", loc + ".json"));

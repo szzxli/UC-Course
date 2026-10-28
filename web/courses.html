@@ -3,17 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title data-i18n="title.courses">查课 · UC 智选</title>
+<title data-i18n="title.courses">选课 · UC 智选</title>
 <link rel="stylesheet" href="css/app.css">
 <meta name="theme-color" content="#132625">
 </head>
 <body>
 <div class="topbar"><div class="topbar-in">
-  <div class="brand" data-i18n="brand.courses">🔍 查课</div>
-  <div class="sub" id="campusSub">UC Irvine · 5,843 门</div>
+  <div class="brand" data-i18n="brand.courses">🔍 选课</div>
   <div><select id="langSel" class="langsel" aria-label="language"></select></div>
 </div></div>
 <div class="page">
+<div class="seg">
+    <button data-seg="search" data-i18n="courses.segSearch">查课</button>
+    <button data-seg="pick" data-i18n="courses.segPick">智能选课</button>
+  </div>
+<section id="sec-search">
+<p class="hint" id="campusSub"></p>
+
   <div class="card">
     <div class="field"><label for="campusSel" data-i18n="courses.campusLabel">校区</label>
       <select id="campusSel">
@@ -30,20 +36,52 @@
     <div id="dBody"></div>
     <div class="btn-row"><button class="btn sm" id="addBtn" data-i18n="courses.add">＋ 加入我的选课</button><a class="btn ghost sm" id="goPlanBtn" href="plan.html" data-i18n="courses.goPlan" hidden>去排课 →</a></div>
   </div>
+
+</section>
+<section id="sec-pick" hidden>
+
+  <h1 data-i18n="pick.title">🧠 智能选课</h1>
+  <p class="hint" data-i18n="pick.sub">下学期先修什么：关键先修优先、最短路径排序，附等效与备选路径。</p>
+  <p class="hint" id="modeNote" hidden></p>
+  <p class="hint" id="statusLine"></p>
+  <div class="card">
+    <div class="field"><label for="capSel" data-i18n="pick.capLabel">下学期学分上限</label>
+      <select id="capSel"><option value="12">12</option><option value="16" selected>16</option><option value="19">19</option></select></div>
+    <p class="hint" id="haveNote"></p>
+  </div>
+  <h2 data-i18n="pick.recTitle">✅ 本学期可修（按关键程度排序）</h2>
+  <div id="recList"></div>
+  <div class="card" id="totalBar">
+    <p class="hint" id="totalLine"></p>
+    <p class="hint" id="overCap" hidden></p>
+    <div class="btn-row"><button class="btn" id="pickAddBtn" data-i18n="pick.addBtn">加入选课清单 →</button>
+    <a class="btn ghost" id="pickGoPlanBtn" href="plan.html" data-i18n="pick.goPlan" hidden>去排课 →</a></div>
+  </div>
+  <h2 data-i18n="pick.blockedTitle">🔒 还差先修（先修下面这些才能解锁）</h2>
+  <div id="blockedList"></div>
+  <div class="card" id="electiveCard">
+    <p class="hint" id="b1Line"></p>
+    <p class="hint" data-i18n="pick.cNote">C 区（校外集中方向）无官方课程清单，见专业页说明与官方项目页。</p>
+  </div>
+  <p class="hint" data-i18n="pick.honesty">先修按目录原文 and/or 解析；原文为空时按快照扁平列表任一满足处理。满足要求不代表课程一定开设、有名额，也不代表学校已确认毕业资格；选课前请以 GOLD / 学院官网复核。热门课（选课人数、候补数）暂无数据源，本页不显示热度。</p>
+
+</section>
 </div>
 <nav class="tabbar">
   <a href="index.html" data-page="index"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
-  <a href="courses.html" data-page="courses" class="active"><span class="ico">🔍</span><span data-i18n="nav.courses">查课</span></a>
-  <a href="major.html" data-page="major"><span class="ico">🎓</span><span data-i18n="nav.major">专业</span></a>
-  <a href="ge.html" data-page="ge"><span class="ico">📖</span><span data-i18n="nav.ge">通识</span></a>
+  <a href="courses.html" data-page="courses"><span class="ico">🔍</span><span data-i18n="nav.courses">选课</span></a>
+  <a href="requirements.html" data-page="requirements"><span class="ico">🎓</span><span data-i18n="nav.requirements">毕业要求</span></a>
   <a href="plan.html" data-page="plan"><span class="ico">🗓️</span><span data-i18n="nav.plan">排课</span></a>
-  <a href="trajectory.html" data-page="trajectory"><span class="ico">🛤️</span><span data-i18n="nav.traj">轨迹</span></a>
 </nav>
 <script src="js/app.js"></script>
 <script src="js/i18n.js"></script>
 <script src="js/chat.js"></script>
 <script src="js/major.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/pick.js"></script>
 <script>
+(function(){
+
 "use strict";
 var CAMPUS = "UCI", INDEX = [], cur = null, REQIDX = null, DOWNIDX = null, MAJORNAME = "", OVERLAP = {};
 var CAMPUS_SUB_KEY = { UCI: "courses.campusUCI", UCSD: "courses.campusUCSD", UCSB: "courses.campusUCSB" };
@@ -109,8 +147,6 @@ function showDetail(c) {
   document.getElementById("detailCard").scrollIntoView({ behavior: "smooth" });
 }
 I18N.init().then(function () {
-  I18N.initSwitcher("langSel");
-  navActive("courses");
   CAMPUS = Sget("campus", "UCI");
   setCampusSub();
   /* 页内换校区（L3）：与首页同一套规则，切换后重载本页数据 */
@@ -164,6 +200,180 @@ I18N.init().then(function () {
     });
   }
 });
+
+})();
+</script>
+<script>
+(function(){
+
+var MAJOR = null, CATALOG = {}, RESULT = null, DEMO = false, PERSONAL = false;
+function esc(s) { return Engine.esc(s); }
+function getHave() {
+  var h = Sget("have", {});
+  if (Array.isArray(h)) return h.map(Engine.normCode);
+  return Object.keys(h || {}).map(Engine.normCode);
+}
+function reqName(req) {
+  var loc = I18N.getLocale();
+  if (loc && loc.indexOf("zh") === 0) return req.name_zh || req.name;
+  return req.name;
+}
+function renderStatusLine() {
+  var st = statusState();
+  var el = document.getElementById("statusLine");
+  function fmt(at) { try { return new Date(at).toLocaleString(); } catch (e) { return at; } }
+  if (st.state === "ok") {
+    el.textContent = I18N.t("status.stateOk", { t: fmt(st.at) });
+  } else if (st.state === "stale") {
+    el.innerHTML = esc(I18N.t("status.stateStale", { t: fmt(st.at) })) +
+      ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
+  } else {
+    el.innerHTML = esc(I18N.t("status.stateNone")) +
+      ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
+  }
+}
+function reasonLines(item) {
+  var lines = [];
+  if (item.key) lines.push(I18N.t("pick.keyBadge"));
+  lines.push(I18N.t("pick.unlocks", { n: item.fanout }));
+  if (item.chainLen >= (RESULT.stats.maxChain || 1)) lines.push(I18N.t("pick.criticalPath"));
+  item.reqNames.forEach(function (r) { lines.push(I18N.t("pick.satisfies", { r: reqName(r) })); });
+  if (item.equivPartner) lines.push(I18N.t("pick.equivPartner", { c: item.equivPartner }));
+  item.altGroups.forEach(function (g) {
+    lines.push(I18N.t("pick.altPath", { g: g.join(" + ") }));
+  });
+  return lines;
+}
+function render() {
+  var recBox = document.getElementById("recList");
+  var blkBox = document.getElementById("blockedList");
+  if (!RESULT.recommended.length) {
+    recBox.innerHTML = '<p class="hint">' + esc(I18N.t("pick.emptyRec")) + "</p>";
+  } else {
+    recBox.innerHTML = RESULT.recommended.map(function (it) {
+      var lines = reasonLines(it).map(function (l) { return '<p class="hint">· ' + esc(l) + "</p>"; }).join("");
+      return '<div class="card"><label class="chk"><input type="checkbox" data-code="' + esc(it.code) + '" data-units="' + it.units + '">' +
+        '<span><b>' + esc(it.code) + "</b> " + esc(it.title) +
+        " · " + it.units + " " + esc(I18N.t("courses.units")) +
+        "</span></label>" + lines + "</div>";
+    }).join("");
+  }
+  if (!RESULT.blocked.length) {
+    blkBox.innerHTML = '<p class="hint">' + esc(I18N.t("pick.emptyBlocked")) + "</p>";
+  } else {
+    blkBox.innerHTML = RESULT.blocked.map(function (it) {
+      var lines = reasonLines(it).map(function (l) { return '<p class="hint">· ' + esc(l) + "</p>"; }).join("");
+      var miss = it.missing.slice(0, 5).join("、") + (it.missing.length > 5 ? "…" : "");
+      return '<div class="card"><div><b>' + esc(it.code) + "</b> " + esc(it.title) +
+        " · " + it.units + " " + esc(I18N.t("courses.units")) + "</div>" +
+        '<p class="hint">' + esc(I18N.t("pick.missingPre", { m: miss })) + (it.hasOr ? esc(I18N.t("pick.orNote")) : "") + "</p>" +
+        lines + "</div>";
+    }).join("");
+  }
+  recBox.querySelectorAll("input[type=checkbox]").forEach(function (c) {
+    c.addEventListener("change", updateTotal);
+  });
+  var b1 = document.getElementById("b1Line");
+  if (RESULT.b1) {
+    b1.textContent = I18N.t("pick.b1Note", { r: RESULT.b1.remaining, p: RESULT.b1.poolSize });
+  } else {
+    b1.textContent = "";
+  }
+  updateTotal();
+}
+function updateTotal() {
+  var cap = +document.getElementById("capSel").value || 16;
+  var sum = 0, n = 0;
+  document.querySelectorAll("#recList input[type=checkbox]:checked").forEach(function (c) {
+    sum += (+c.dataset.units || 0); n++;
+  });
+  document.getElementById("totalLine").textContent =
+    I18N.t("pick.totalUnits", { n: n, u: sum, cap: cap });
+  var over = document.getElementById("overCap");
+  if (sum > cap) {
+    over.hidden = false;
+    over.textContent = I18N.t("pick.overCap", { e: sum - cap });
+  } else {
+    over.hidden = true;
+  }
+}
+I18N.init().then(function () {
+  var params = new URLSearchParams(location.search);
+  DEMO = params.has("demo");
+  var campus = Sget("campus", "UCI"), major = Sget("major", "");
+  PERSONAL = !DEMO && campus === "UCSB" && major === "ucsb-environmental-science.json";
+  if (DEMO || !PERSONAL) {
+    var note = document.getElementById("modeNote");
+    note.hidden = false;
+    note.textContent = DEMO ? I18N.t("pick.demoNote") : I18N.t("pick.pilotNote");
+    if (DEMO || !PERSONAL) document.getElementById("pickAddBtn").disabled = true;
+  }
+  document.getElementById("capSel").value = String(Sget("maxUnits", 16));
+  document.getElementById("capSel").addEventListener("change", function () {
+    Sset("maxUnits", +this.value); updateTotal();
+  });
+  renderStatusLine();
+  var have = (DEMO || !PERSONAL) ? [] : getHave();
+  var planned0 = (DEMO || !PERSONAL) ? [] : Sget("myCourses", []).map(function (x) { return x.code; });
+  document.getElementById("haveNote").textContent =
+    I18N.t("pick.haveNote", { n: have.length, p: planned0.length });
+  Promise.all([
+    fetch("data/majors/ucsb-environmental-science.json").then(function (r) { return r.json(); }),
+    fetch("data/engine/ucsb-es.json").then(function (r) { return r.json(); })
+  ]).then(function (rs) {
+    MAJOR = rs[0];
+    (rs[1].courses || []).forEach(function (c) { CATALOG[Engine.normCode(c.code)] = c; });
+    var planned = planned0;
+    RESULT = Pick.compute({ requirements: MAJOR.requirements, catalog: CATALOG, have: have, planned: planned });
+    render();
+  }).catch(function () {
+    document.getElementById("recList").innerHTML = '<p class="hint">load fail</p>';
+  });
+  document.getElementById("pickAddBtn").addEventListener("click", function () {
+    if (DEMO || !PERSONAL || !RESULT) return;    var m = Sget("myCourses", []), added = 0;
+    document.querySelectorAll("#recList input[type=checkbox]:checked").forEach(function (c) {
+      var code = c.dataset.code, k = Engine.normCode(code);
+      if (m.some(function (x) { return Engine.normCode(x.code) === k; })) return;
+      var cat = CATALOG[k] || {};
+      var pre = (cat.prerequisites_courses || []).map(Engine.normCode);
+      m.push({ code: code, u: String(c.dataset.units || "4"), pre: pre, campus: "UCSB" });
+      added++;
+    });
+    Sset("myCourses", m);
+    if (added > 0) {
+      document.getElementById("pickGoPlanBtn").hidden = false;
+      this.textContent = I18N.t("pick.addedNote", { n: added });
+    }
+  });
+});
+
+})();
+</script>
+<script>
+(function(){
+  var SEGS = ["search", "pick"];
+  function show(id){
+    SEGS.forEach(function(s){ document.getElementById("sec-"+s).hidden = (s !== id); });
+    document.querySelectorAll("[data-seg]").forEach(function(b){ b.classList.toggle("on", b.dataset.seg === id); });
+  }
+  function fromHash(){
+    var h = (location.hash || "").replace("#", "").split("?")[0];
+    return SEGS.indexOf(h) >= 0 ? h : SEGS[0];
+  }
+  document.querySelectorAll("[data-seg]").forEach(function(b){
+    b.addEventListener("click", function(){
+      history.replaceState(null, "", "#" + b.dataset.seg);
+      show(b.dataset.seg);
+    });
+  });
+  window.addEventListener("hashchange", function(){ show(fromHash()); });
+  
+  I18N.init().then(function(){
+    I18N.initSwitcher("langSel");
+    navActive("courses");
+    show(fromHash());
+  });
+})();
 </script>
 </body>
 </html>

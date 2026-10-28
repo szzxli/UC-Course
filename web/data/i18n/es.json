@@ -1,13 +1,14 @@
 {
   "brand": {
-    "courses": "🔍 Buscar cursos",
+    "courses": "🔍 Cursos",
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Planificar horario",
     "major": "🎓 Requisitos de la carrera",
     "traj": "🛤️ Mi progreso",
     "ge": "📖 GE y requisitos de graduación",
     "engine": "🧠 Planificador inteligente",
-    "status": "✅ Verificación de estado académico"
+    "status": "✅ Verificación de estado académico",
+    "requirements": "🎓 Requisitos"
   },
   "courses": {
     "add": "+ Añadir a mis cursos",
@@ -31,7 +32,9 @@
     "overlapBadge": "🔗 Doble cómputo",
     "overlapHint": "Cuenta para ambas carreras",
     "campusLabel": "Campus",
-    "goPlan": "Ir a planificar →"
+    "goPlan": "Ir a planificar →",
+    "segSearch": "Buscar cursos",
+    "segPick": "Selector inteligente"
   },
   "index": {
     "campusHint": "Tres campus disponibles: UCI, UCSD, UCSB. Más campus en camino.",
@@ -83,7 +86,8 @@
     "plan": "Horario",
     "major": "Carrera",
     "traj": "Progreso",
-    "ge": "GE"
+    "ge": "GE",
+    "requirements": "Requisitos"
   },
   "plan": {
     "clear": "Borrar",
@@ -132,7 +136,10 @@
     "scopeNote": "⚠️ Esta evaluación cubre solo los {n} curso(s) que seleccionaste. Los requisitos no agregados (GE, cursos restantes de la carrera, etc.) no están incluidos: no es un veredicto para todo el título.",
     "coverageLine": "Seleccionado: {u} unidades / ~180 total de una licenciatura UC ≈ {p}%",
     "genEmpty": "Tu lista está vacía: agrega algunos cursos primero y luego genera el horario.",
-    "certNote": "Este plan es una estimación con datos del catálogo: cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado tu elegibilidad para graduarte. Verifica en GOLD / el sitio del departamento antes de inscribirte."
+    "certNote": "Este plan es una estimación con datos del catálogo: cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado tu elegibilidad para graduarte. Verifica en GOLD / el sitio del departamento antes de inscribirte.",
+    "segPlan": "Horario",
+    "segTraj": "Progreso",
+    "segEngine": "Planificador inteligente"
   },
   "sub": {
     "index": "Elige campus y carrera: verás qué te falta para graduarte y cómo se encadenan los prerrequisitos",
@@ -162,7 +169,7 @@
     ]
   },
   "title": {
-    "courses": "Buscar cursos · UC SmartPick",
+    "courses": "Cursos · UC SmartPick",
     "index": "UC SmartPick",
     "plan": "Planificar horario · UC SmartPick",
     "major": "Carrera · UC SmartPick",
@@ -170,7 +177,8 @@
     "transfer": "Importar créditos - UC SmartPick",
     "ge": "GE y requisitos de graduación · UC SmartPick",
     "engine": "Planificador inteligente · UC SmartPick",
-    "status": "Verificación de estado · UC SmartPick"
+    "status": "Verificación de estado · UC SmartPick",
+    "requirements": "Requisitos · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -362,5 +370,9 @@
     "emptyRec": "Ningún curso obligatorio está listo este trimestre (pueden estar todos hechos o todos bloqueados por prerrequisitos).",
     "emptyBlocked": "Ningún curso obligatorio está bloqueado por prerrequisitos.",
     "honesty": "Los prerrequisitos se analizan del texto original and/or del catálogo; si el texto está vacío, la lista plana se trata como alternativa. Cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado la graduación; verifica en GOLD / el sitio del departamento antes de inscribirte. No hay fuente de datos de popularidad (inscripción, listas de espera), así que no se muestra."
+  },
+  "req": {
+    "segMajor": "Requisitos de la carrera",
+    "segGe": "Requisitos GE"
   }
 }
