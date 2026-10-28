@@ -4,7 +4,8 @@
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Planificar horario",
     "major": "🎓 Requisitos de la carrera",
-    "traj": "🛤️ Mi trayectoria"
+    "traj": "🛤️ Mi trayectoria",
+    "ge": "📖 GE y requisitos de graduación"
   },
   "courses": {
     "add": "+ Añadir a mis cursos",
@@ -56,14 +57,18 @@
     "transferDesc": "¿Traes créditos de CC? Impórtalos y ve qué te falta.",
     "transferGo": "Importar créditos →",
     "quickPlan": "Ir directo a planificar →",
-    "quickTraj": "Ver mi trayectoria →"
+    "quickTraj": "Ver mi trayectoria →",
+    "geTitle": "📖 GE y requisitos de graduación",
+    "geDesc": "Además de los cursos de la carrera, la graduación también exige GE + requisitos universitarios: míralos juntos.",
+    "geGo": "Ver requisitos de GE →"
   },
   "nav": {
     "courses": "Cursos",
     "home": "Inicio",
     "plan": "Horario",
     "major": "Carrera",
-    "traj": "Ruta"
+    "traj": "Ruta",
+    "ge": "GE"
   },
   "plan": {
     "clear": "Borrar",
@@ -145,7 +150,8 @@
     "plan": "Planificar horario · UC SmartPick",
     "major": "Carrera · UC SmartPick",
     "traj": "Trayectoria · UC SmartPick",
-    "transfer": "Importar créditos - UC SmartPick"
+    "transfer": "Importar créditos - UC SmartPick",
+    "ge": "GE y requisitos de graduación · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -189,7 +195,8 @@
     "addAllNote": "{n} requisito(s) obligatorio(s) con varias opciones se agregaron usando el primer grupo (Opción A). Para cambiar de grupo, usa «Elegir este grupo» en la tarjeta del requisito.",
     "campusMismatch": "Tu carrera prevista pertenece a {fc}, que no coincide con el campus actual {campus}. Vuelve a la página de inicio y vuelve a elegir campus y carrera.",
     "importBannerN": "🎓 Se importaron {n} curso(s) completado(s) desde créditos de transferencia: el progreso de abajo está actualizado.",
-    "importBanner0": "🎓 Importación terminada: los cursos seleccionados ya estaban importados, no hay novedades."
+    "importBanner0": "🎓 Importación terminada: los cursos seleccionados ya estaban importados, no hay novedades.",
+    "goGe": "Ver GE y requisitos de graduación del campus →"
   },
   "traj": {
     "empty": "Añade cursos desde la pestaña Carrera primero",
@@ -236,5 +243,14 @@
     "campusSwitchMsg": "Cambiar a {campus} borra tus carreras previstas, lista de cursos, marcas de completado y borrador del campus actual (los cursos no se pueden mezclar entre campus). ¿Continuar?",
     "foreignTag": "otro campus",
     "clearForeign": "Quitar cursos de otro campus"
+  },
+  "ge": {
+    "noData": "Los datos de GE de este campus aún no están disponibles (solo UCSB por ahora)",
+    "goHome": "Ir al inicio",
+    "pickCount": "Elige {n}",
+    "openPool": "Elige {n} de los cursos aprobados por el Senado en esta área (ver designación en GOLD)",
+    "required": "Obligatorio",
+    "byNote": "Cumplir según las notas",
+    "checked": "Revisado {d}"
   }
 }

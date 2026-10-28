@@ -4,7 +4,8 @@
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Plan Schedule",
     "major": "🎓 Major Requirements",
-    "traj": "🛤️ My Trajectory"
+    "traj": "🛤️ My Trajectory",
+    "ge": "📖 GE & Graduation Requirements"
   },
   "courses": {
     "add": "+ Add to my courses",
@@ -56,14 +57,18 @@
     "transferDesc": "Bringing credits from CC? Import them in one tap and see what's left.",
     "transferGo": "Import transfer credits →",
     "quickPlan": "Go straight to planning →",
-    "quickTraj": "View my trajectory →"
+    "quickTraj": "View my trajectory →",
+    "geTitle": "📖 GE & Graduation Requirements",
+    "geDesc": "Beyond major courses, graduation also needs GE + university requirements — see them together.",
+    "geGo": "View GE requirements →"
   },
   "nav": {
     "courses": "Courses",
     "home": "Home",
     "plan": "Plan",
     "major": "Major",
-    "traj": "Path"
+    "traj": "Path",
+    "ge": "GE"
   },
   "plan": {
     "clear": "Clear",
@@ -145,7 +150,8 @@
     "plan": "Plan Schedule · UC SmartPick",
     "major": "Major · UC SmartPick",
     "traj": "Trajectory · UC SmartPick",
-    "transfer": "Transfer Credit Import - UC SmartPick"
+    "transfer": "Transfer Credit Import - UC SmartPick",
+    "ge": "GE & Graduation Requirements · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -189,7 +195,8 @@
     "addAllNote": "{n} multi-option required item(s) were added using the first option group (Option A). To switch groups, use “Pick this group” in the requirement card.",
     "campusMismatch": "Your intended major belongs to {fc}, which doesn't match the current campus {campus}. Please go back to the home page and re-select campus and major.",
     "importBannerN": "🎓 Imported {n} completed course(s) from transfer credits — the progress below is updated.",
-    "importBanner0": "🎓 Transfer import finished: the selected courses were already imported, nothing new was added."
+    "importBanner0": "🎓 Transfer import finished: the selected courses were already imported, nothing new was added.",
+    "goGe": "View campus GE & graduation requirements →"
   },
   "traj": {
     "empty": "Add courses from the Major tab first",
@@ -236,5 +243,14 @@
     "campusSwitchMsg": "Switching to {campus} clears your intended majors, course list, completed marks and plan draft for the current campus (courses can't be mixed across campuses). Continue?",
     "foreignTag": "other campus",
     "clearForeign": "Remove other-campus courses"
+  },
+  "ge": {
+    "noData": "GE data for this campus is not available yet (UCSB only for now)",
+    "goHome": "Go to Home",
+    "pickCount": "Pick {n}",
+    "openPool": "Pick {n} from Senate-approved courses in this area (check GOLD designation)",
+    "required": "Required",
+    "byNote": "Satisfy per notes",
+    "checked": "Checked {d}"
   }
 }

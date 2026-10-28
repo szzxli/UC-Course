@@ -1,0 +1,244 @@
+{
+  "campus": "UCSB",
+  "title": "General Education & University Requirements (L&S B.S.)",
+  "title_zh": "通识与大学毕业要求（文理学院 B.S.）",
+  "degree": "B.S.",
+  "school": "College of Letters and Science",
+  "source_url": "https://catalog.ucsb.edu/pages/rPLy4cgKMOtJPnaDpVTT",
+  "sources": [
+    {
+      "label": "General Education Program",
+      "url": "https://catalog.ucsb.edu/pages/rPLy4cgKMOtJPnaDpVTT"
+    },
+    {
+      "label": "Bachelor of Science Degree (L&S)",
+      "url": "https://catalog.ucsb.edu/pages/9zg5uiQGhSAEWh9bwu5o"
+    }
+  ],
+  "source_note": "数据来源：UCSB 官方课程目录 2026-2027",
+  "checked": "2026-10-27",
+  "sections": [
+    {
+      "id": "general-subject",
+      "title": "General Subject Areas",
+      "title_zh": "通识科目区",
+      "note": "Subject Areas A-G total 11 courses for the B.S. (A: 2, C: 3, D: 2, E: 2, F: 1, G: 1; Area B is a proficiency requirement, not a course count). Courses approved after catalog publication count per GOLD course information. Double-counting: major courses may also satisfy GE; a course listed in multiple General Subject Areas counts toward only one of them.",
+      "note_zh": "B.S. 的 A–G 科目区共 11 门（A：2 门，C：3 门，D：2 门，E：2 门，F：1 门，G：1 门；B 为外语水平要求，不计门数）。目录出版后新获批的课程以 GOLD 课程信息为准。双计规则：专业课可用于满足 GE；一门列入多个科目区的课只能用于其中一个区。",
+      "requirements": [
+        {
+          "id": "a1",
+          "name": "Area A1: English Reading and Composition",
+          "name_zh": "A1：英语阅读与写作",
+          "count": 1,
+          "courses": [
+            "WRIT 2",
+            "WRIT 2E",
+            "WRIT 2LK"
+          ],
+          "note": "Complete one A1 course. The University Entry Level Writing requirement must be satisfied before taking Area A courses. AP/IB credit or approved transfer coursework may also satisfy Area A; note that AP/IB credit may reduce credit available in Writing 2, 2E, 2LK and Writing 50, 50E, 50LK.",
+          "note_zh": "A1 选 1 门。修读 Area A 课程前须先满足大学入学写作要求。AP/IB 学分或认可的转学课程也可满足 Area A；注意 AP/IB 学分可能使 Writing 2、2E、2LK 及 50、50E、50LK 无法再获学分。"
+        },
+        {
+          "id": "a2",
+          "name": "Area A2: English Reading and Composition",
+          "name_zh": "A2：英语阅读与写作",
+          "count": 1,
+          "courses": [
+            "ENGL 10",
+            "ENGL 10AC",
+            "ENGL 10EM",
+            "ENGL 10LC",
+            "WRIT 50",
+            "WRIT 50E",
+            "WRIT 105AI",
+            "WRIT 105C",
+            "WRIT 105CD",
+            "WRIT 105CH",
+            "WRIT 105CR",
+            "WRIT 105CW",
+            "WRIT 105G",
+            "WRIT 105M",
+            "WRIT 105P",
+            "WRIT 105PD",
+            "WRIT 105PS",
+            "WRIT 105R",
+            "WRIT 105S",
+            "WRIT 105SO",
+            "WRIT 105SW",
+            "WRIT 105WC",
+            "WRIT 105WE",
+            "WRIT 107A",
+            "WRIT 107B",
+            "WRIT 107DJ",
+            "WRIT 107EP",
+            "WRIT 107G",
+            "WRIT 107J",
+            "WRIT 107L",
+            "WRIT 107M",
+            "WRIT 107P",
+            "WRIT 107T",
+            "WRIT 107WC",
+            "WRIT 109",
+            "WRIT 109CS",
+            "WRIT 109ED",
+            "WRIT 109ES",
+            "WRIT 109F",
+            "WRIT 109GS",
+            "WRIT 109HP",
+            "WRIT 109HU",
+            "WRIT 109R",
+            "WRIT 109SS",
+            "WRIT 109ST",
+            "WRIT 109V"
+          ],
+          "note": "Complete one A2 course: the English 10 series, or any Writing 50, 50E, 105, 107 or 109 series course. The list below is a snapshot of the 2026-27 catalog; newly approved courses count per GOLD.",
+          "note_zh": "A2 选 1 门：English 10 系列，或 Writing 50、50E、105、107、109 系列课程。下表为 2026-27 目录所列的快照，新获批课程以 GOLD 为准。"
+        },
+        {
+          "id": "b",
+          "name": "Area B: Foreign Language (L&S only)",
+          "name_zh": "B：外语（仅文理学院）",
+          "count": null,
+          "courses": [],
+          "note": "Satisfy by one of: (1) a third-quarter (level 3) language course at UCSB or equivalent elsewhere — this route requires 184 total degree units; (2) AP foreign language score of 3 or higher, higher-level IB foreign language score of 5 or higher, or a SAT Subject Test at the listed minimum; (3) a third year of the same language in high school with a GPA of C or better in that year; (4) a UCSB foreign language placement exam at the appropriate level.",
+          "note_zh": "四选一：(1) 在 UCSB 修完外语第 3 学期（level 3）或在外校修完等效课程——走此途径学位总学分要求为 184 学分；(2) AP 外语 3 分及以上，或高阶 IB 外语 5 分及以上，或 SAT 外语单科考试达到所列最低分；(3) 高中同一语言修满 3 年且第 3 年语言 GPA 不低于 C；(4) 通过 UCSB 外语分级考试并达到相应级别。"
+        },
+        {
+          "id": "c",
+          "name": "Area C: Science, Mathematics, and Technology",
+          "name_zh": "C：科学、数学与技术",
+          "count": 3,
+          "courses": [],
+          "note": "Three Senate-approved Area C courses. Check GOLD course information for currently approved courses.",
+          "note_zh": "3 门经学术评议会认可的 Area C 课程。认可课程以 GOLD 课程信息为准。"
+        },
+        {
+          "id": "d",
+          "name": "Area D: Social Science",
+          "name_zh": "D：社会科学",
+          "count": 2,
+          "courses": [],
+          "note": "Two Senate-approved Area D courses. Check GOLD course information for currently approved courses.",
+          "note_zh": "2 门经学术评议会认可的 Area D 课程。认可课程以 GOLD 课程信息为准。"
+        },
+        {
+          "id": "e",
+          "name": "Area E: Culture and Thought",
+          "name_zh": "E：文化与思想",
+          "count": 2,
+          "courses": [],
+          "note": "Two Senate-approved Area E courses. Check GOLD course information for currently approved courses.",
+          "note_zh": "2 门经学术评议会认可的 Area E 课程。认可课程以 GOLD 课程信息为准。"
+        },
+        {
+          "id": "f",
+          "name": "Area F: Arts",
+          "name_zh": "F：艺术",
+          "count": 1,
+          "courses": [],
+          "note": "One Senate-approved Area F course. Check GOLD course information for currently approved courses.",
+          "note_zh": "1 门经学术评议会认可的 Area F 课程。认可课程以 GOLD 课程信息为准。"
+        },
+        {
+          "id": "g",
+          "name": "Area G: Literature",
+          "name_zh": "G：文学",
+          "count": 1,
+          "courses": [],
+          "note": "One Senate-approved Area G course. Check GOLD course information for currently approved courses.",
+          "note_zh": "1 门经学术评议会认可的 Area G 课程。认可课程以 GOLD 课程信息为准。"
+        }
+      ]
+    },
+    {
+      "id": "special-subject",
+      "title": "Special Subject Areas",
+      "title_zh": "特殊科目区",
+      "note": "Completed in the course of satisfying Areas C-G, as framed by the catalog, not as a separate set on top of the subject-area counts. Filter by code in Course Search: Writing WRT, World Cultures NWC, Quantitative Relationships QNT, Ethnicity ETH. L&S B.S. has no standalone European Traditions requirement (required only for L&S B.A.; Engineering students choose European Traditions or World Cultures).",
+      "note_zh": "在完成 C–G 的过程中嵌套完成（目录原文结构如此），不是在科目区门数之外另起一套。课程可用 Course Search 按代码筛选：写作 WRT、世界文化 NWC、数量关系 QNT、族裔 ETH。L&S B.S. 没有单独的 European Traditions 必修（该项仅为 L&S B.A. 必修；工程学院为 European Traditions 或世界文化二选一）。",
+      "requirements": [
+        {
+          "id": "writing",
+          "name": "Writing Requirement",
+          "name_zh": "写作要求",
+          "count": 6,
+          "courses": [],
+          "note": "Six designated GE writing courses. Each must require at least 1,800 words of writing independent of or in addition to examinations, with writing assessment a significant part of the grade. L&S students may petition to count up to 2 other UCSB courses; once enrolled at UCSB, only designated UCSB courses satisfy this requirement.",
+          "note_zh": "6 门指定的 GE 写作课。每门要求独立于笔试之外的书面作业至少 1800 词，且书面作业评估在总评中占重要比重。L&S 学生可申请（petition）将至多 2 门其他 UCSB 课程计入；入学 UCSB 后只能用指定的 UCSB 课程满足此项。"
+        },
+        {
+          "id": "world-cultures",
+          "name": "World Cultures Requirement",
+          "name_zh": "世界文化要求",
+          "count": 1,
+          "courses": [],
+          "note": "One World Cultures (NWC) course.",
+          "note_zh": "1 门世界文化（NWC）课程。"
+        },
+        {
+          "id": "quantitative",
+          "name": "Quantitative Relationships Requirement",
+          "name_zh": "数量关系要求",
+          "count": 1,
+          "courses": [],
+          "note": "One Quantitative Relationships (QNT) course. L&S only.",
+          "note_zh": "1 门数量关系（QNT）课程。仅文理学院。"
+        },
+        {
+          "id": "ethnicity",
+          "name": "Ethnicity Requirement",
+          "name_zh": "族裔要求",
+          "count": 1,
+          "courses": [],
+          "note": "One Ethnicity (ETH) course, on the philosophies, ideas, histories and/or cultural experiences of historically oppressed and excluded racial minorities in the United States.",
+          "note_zh": "1 门族裔（ETH）课程，内容为理解美国历史上受压迫和被排斥的种族少数群体的哲学、思想、历史与文化经验。"
+        }
+      ]
+    },
+    {
+      "id": "university",
+      "title": "University Requirements",
+      "title_zh": "大学统一要求",
+      "note": "These appear in the catalog GE chapter, which does not specify course counts or satisfaction details for them; residence and graduation-GPA figures likewise do not appear in the GE chapter, so no numbers are asserted here — see the official degree-requirements chapter.",
+      "note_zh": "以下两项在目录 GE 章节中出现，但该章节未给具体课程数或满足方式细则；住校（residence）与毕业 GPA 数值亦未在 GE 章节出现，故本页不列具体数字，以官方学位要求章节为准。",
+      "requirements": [
+        {
+          "id": "elwr",
+          "name": "Entry Level Writing Requirement",
+          "name_zh": "入学写作要求",
+          "count": null,
+          "courses": [],
+          "note": "Must be satisfied before taking courses that fulfill Area A. See the University Entry Level Writing requirement for satisfaction routes.",
+          "note_zh": "修读 Area A 课程前必须先满足此项。满足途径见大学入学写作要求。"
+        },
+        {
+          "id": "ahi",
+          "name": "American History and Institutions",
+          "name_zh": "美国历史与制度",
+          "count": null,
+          "courses": [],
+          "note": "A course satisfying GE may also be used toward this requirement.",
+          "note_zh": "满足 GE 要求的课程也可同时用于此项。"
+        }
+      ]
+    },
+    {
+      "id": "transfer",
+      "title": "Transfer Students: IGETC / Cal-GETC",
+      "title_zh": "转学生：IGETC / Cal-GETC",
+      "note": "Summary of the catalog GE chapter rules for California community college transfer students.",
+      "note_zh": "以下为目录 GE 章节原文规则摘要，适用对象为加州社区学院转学生。",
+      "requirements": [
+        {
+          "id": "igetc",
+          "name": "Full IGETC / Cal-GETC Certification",
+          "name_zh": "IGETC / Cal-GETC 完整认证",
+          "count": null,
+          "courses": [],
+          "note": "A fully certified IGETC or Cal-GETC completed before transfer (at least 34 semester units across six liberal arts and sciences areas) satisfies GE; otherwise all UCSB GE requirements apply. Partial certification: no more than 2 courses missing across IGETC Areas 1-6 with partial certification from the community college — consult the college. IGETC for STEM (since fall 2014): no more than 3 courses missing across Areas 3, 4 and 6, at most 1 per area, with certification — remaining courses completed after transfer; consult the college.",
+          "note_zh": "入学前完成并经认证的完整 IGETC 或 Cal-GETC（至少 34 学期学分、分布于六个文理学科区）即视为满足 GE；否则须满足 UCSB 全部 GE。部分认证：入学时 IGETC 1–6 区缺课不超过 2 门且社区学院提供部分认证者可替代，应咨询学院。IGETC for STEM（2014 年秋季起）：仅在 Area 3、4、6 缺课不超过 3 门且每区至多 1 门并有认证者，入学后可补课，同样咨询学院。"
+        }
+      ]
+    }
+  ]
+}
