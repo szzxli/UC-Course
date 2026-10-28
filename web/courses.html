@@ -61,6 +61,7 @@
   <div id="blockedList"></div>
   <div class="card" id="electiveCard">
     <p class="hint" id="b1Line"></p>
+    <p class="hint" id="ucsdElectiveLine" hidden></p>
     <p class="hint" data-i18n="pick.cNote">C 区（校外集中方向）无官方课程清单，见专业页说明与官方项目页。</p>
   </div>
   <p class="hint" data-i18n="pick.honesty">先修按目录原文 and/or 解析；原文为空时按快照扁平列表任一满足处理。满足要求不代表课程一定开设、有名额，也不代表学校已确认毕业资格；选课前请以 GOLD / 学院官网复核。热门课（选课人数、候补数）暂无数据源，本页不显示热度。</p>
@@ -301,12 +302,18 @@ I18N.init().then(function () {
   var params = new URLSearchParams(location.search);
   DEMO = params.has("demo");
   var campus = Sget("campus", "UCI"), major = Sget("major", "");
-  PERSONAL = !DEMO && campus === "UCSB" && major === "ucsb-environmental-science.json";
+  var PILOT = (campus === "UCSB" && major === "ucsb-environmental-science.json") ? "es"
+    : (campus === "UCSD" && major === "ucsd-mathematics-computer-science.json") ? "ucsd" : null;
+  PERSONAL = !DEMO && !!PILOT;
   if (DEMO || !PERSONAL) {
     var note = document.getElementById("modeNote");
     note.hidden = false;
     note.textContent = DEMO ? I18N.t("pick.demoNote") : I18N.t("pick.pilotNote");
     if (DEMO || !PERSONAL) document.getElementById("pickAddBtn").disabled = true;
+  }
+  if (PILOT === "ucsd") {
+    var uel = document.getElementById("ucsdElectiveLine");
+    if (uel) { uel.hidden = false; uel.textContent = I18N.t("pick.ucsdElectiveNote"); }
   }
   document.getElementById("capSel").value = String(Sget("maxUnits", 16));
   document.getElementById("capSel").addEventListener("change", function () {
@@ -317,9 +324,11 @@ I18N.init().then(function () {
   var planned0 = (DEMO || !PERSONAL) ? [] : Sget("myCourses", []).map(function (x) { return x.code; });
   document.getElementById("haveNote").textContent =
     I18N.t("pick.haveNote", { n: have.length, p: planned0.length });
+  var majorFile = PILOT === "ucsd" ? "data/majors/ucsd-mathematics-computer-science.json" : "data/majors/ucsb-environmental-science.json";
+  var engFile = PILOT === "ucsd" ? "data/engine/ucsd-mathcs.json" : "data/engine/ucsb-es.json";
   Promise.all([
-    fetch("data/majors/ucsb-environmental-science.json").then(function (r) { return r.json(); }),
-    fetch("data/engine/ucsb-es.json").then(function (r) { return r.json(); })
+    fetch(majorFile).then(function (r) { return r.json(); }),
+    fetch(engFile).then(function (r) { return r.json(); })
   ]).then(function (rs) {
     MAJOR = rs[0];
     (rs[1].courses || []).forEach(function (c) { CATALOG[Engine.normCode(c.code)] = c; });
@@ -336,7 +345,7 @@ I18N.init().then(function () {
       if (m.some(function (x) { return Engine.normCode(x.code) === k; })) return;
       var cat = CATALOG[k] || {};
       var pre = (cat.prerequisites_courses || []).map(Engine.normCode);
-      m.push({ code: code, u: String(c.dataset.units || "4"), pre: pre, campus: "UCSB" });
+      m.push({ code: code, u: String(c.dataset.units || "4"), pre: pre, campus: Sget("campus", "UCSB") });
       added++;
     });
     Sset("myCourses", m);

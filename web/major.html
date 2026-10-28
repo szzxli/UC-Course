@@ -152,7 +152,7 @@ I18N.init().then(function () {
     var badges = (eq.ap.length ? '<span class="ebadge" data-eq="' + esc(c) + '">AP</span>' : "") +
       (eq.cc.length ? '<span class="ebadge cc" data-eq="' + esc(c) + '">CC</span>' : "");
     return '<div class="course-row" data-k="' + esc(k) + '">' +
-      '<label class="checkwrap"><input type="checkbox" data-k="' + esc(k) + '" data-code="' + esc(c) + '"><b>' + esc(c) + '</b>' + badges +
+      '<label class="checkwrap"><input type="checkbox" data-k="' + esc(k) + '" data-code="' + esc(c) + '"><a href="#" class="link" data-chain="' + esc(c) + '">' + esc(c) + '</a>' + badges +
       '<span class="tag havetag" hidden>' + esc(I18N.t("major.haveTag")) + '</span>' +
       '<span class="tag plantag" hidden>' + esc(I18N.t("major.inPlan")) + '</span></label>' +
       (extraNote ? '<span class="hint">' + esc(extraNote) + '</span>' : "") +
@@ -256,6 +256,9 @@ I18N.init().then(function () {
     box.querySelectorAll(".ebadge").forEach(function (b) {
       b.addEventListener("click", function (e) { e.preventDefault(); openPopup(b.dataset.eq); });
     });
+    box.querySelectorAll("[data-chain]").forEach(function (a) {
+      a.addEventListener("click", function (e) { e.preventDefault(); openPopup(a.dataset.chain); });
+    });
     box.querySelectorAll("[data-havebtn]").forEach(function (btn) {
       btn.addEventListener("click", function () {
         var k = btn.dataset.k;
@@ -305,10 +308,116 @@ I18N.init().then(function () {
       });
     });
   }
+  /* 解释链：课程 → 满足的要求 → 先修条件 → 后续影响 → 当前状态。
+     先修/后续数据只来自试点引擎目录（UCSB-ES、UCSD Math-CS）；非试点专业如实标注未入库，不编。 */
+  var PILOT_ENG = {
+    "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
+    "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json"
+  };
+  var ENG_CACHE = {};
+  function engCatalogFor(file, cb) {
+    var url = PILOT_ENG[file];
+    if (!url) { cb(null); return; }
+    if (ENG_CACHE[url]) { cb(ENG_CACHE[url]); return; }
+    fetch(url).then(function (r) { return r.json(); }).then(function (j) {
+      var cat = {};
+      (j.courses || []).forEach(function (c) { cat[Engine.normCode(c.code)] = c; });
+      var down = {};
+      Object.keys(cat).forEach(function (code) {
+        var t = Engine.parsePrereq(cat[code].prerequisites_raw || "");
+        if (t && t.fallback) {
+          var flat = (cat[code].prerequisites_courses || []).map(Engine.normCode);
+          t = flat.length ? { op: "OR", items: flat.map(function (c) { return { code: c }; }) } : null;
+        }
+        if (!t) return;
+        Engine.treeLeafCodes(t, []).forEach(function (leaf) {
+          (down[leaf] = down[leaf] || []).push(code);
+        });
+      });
+      ENG_CACHE[url] = { cat: cat, down: down };
+      cb(ENG_CACHE[url]);
+    }).catch(function () { cb(null); });
+  }
+  function renderTree(node, set) {
+    if (!node) return "";
+    if (node.code) {
+      var k = Engine.normCode(node.code);
+      return (set.has(k) ? "✓ " : "✗ ") + node.code;
+    }
+    var join = node.op === "OR" ? " 或 " : " 且 ";
+    var inner = node.items.map(function (x) { return renderTree(x, set); }).join(join);
+    return node.items.length > 1 ? "（" + inner + "）" : inner;
+  }
+  function fillChain(code) {
+    var box = document.getElementById("chainBox");
+    if (!box) return;
+    var k = normCode(code);
+    var mine = Sget("myCourses", []);
+    var haveSet = new Set(Object.keys(HAVE).map(Engine.normCode));
+    var plannedSet = new Set(mine.map(function (x) { return Engine.normCode(x.code); }));
+    var bothSet = new Set(Array.from(haveSet).concat(Array.from(plannedSet)));
+    var mds = [MD1].concat(MD2 ? [MD2] : []);
+    var reqLines = [];
+    mds.forEach(function (md) {
+      (md.requirements || []).forEach(function (r) {
+        if (reqAllCourses(r).map(normCode).indexOf(k) >= 0) {
+          reqLines.push((mds.length > 1 ? reqDisplayName(r) + "（" + (isZh() ? (md.major_zh || md.major) : md.major) + "）" : reqDisplayName(r)));
+        }
+      });
+    });
+    var h = '<div class="section-title">' + esc(I18N.t("major.chainTitle")) + '</div>';
+    h += '<p class="hint">' + esc(I18N.t("major.chainReqs")) + '：' +
+      (reqLines.length ? esc(reqLines.join("、")) : esc(I18N.t("major.chainReqNone"))) + '</p>';
+    var stateText = inHave(k) ? I18N.t("major.chainHave")
+      : (plannedSet.has(k) ? I18N.t("major.chainPlanned") : "");
+    var pilot = null;
+    mds.forEach(function (md) { if (md && PILOT_ENG[md.file]) pilot = md; });
+    function finish(preHTML, downHTML) {
+      box.innerHTML = h + preHTML + downHTML +
+        (stateText ? '<p class="hint">' + esc(I18N.t("major.chainState")) + '：' + esc(stateText) + '</p>' : '');
+    }
+    if (!pilot) {
+      finish('<p class="hint">' + esc(I18N.t("major.chainNoData")) + '</p>', '');
+      return;
+    }
+    engCatalogFor(pilot.file, function (eng) {
+      if (!eng) {
+        finish('<p class="hint">' + esc(I18N.t("major.chainLoadFail")) + '</p>', '');
+        return;
+      }
+      var cat = eng.cat, entry = cat[k] || {};
+      var t = Engine.parsePrereq(entry.prerequisites_raw || "");
+      if (t && t.fallback) {
+        var flat = (entry.prerequisites_courses || []).map(Engine.normCode);
+        t = flat.length ? { op: "OR", items: flat.map(function (c) { return { code: c }; }) } : null;
+      }
+      var preHTML = "";
+      if (!t) {
+        preHTML = '<p class="hint">' + esc(I18N.t("major.chainPre")) + '：' + esc(I18N.t("major.chainNoPre")) + '</p>';
+        if (!stateText) stateText = I18N.t("major.chainOk");
+      } else {
+        preHTML = '<p class="hint">' + esc(I18N.t("major.chainPre")) + '：' + renderTree(t, bothSet) + '</p>';
+        if (!stateText) {
+          if (Engine.treeSatisfied(t, haveSet)) stateText = I18N.t("major.chainOk");
+          else if (Engine.treeSatisfied(t, bothSet)) stateText = I18N.t("major.chainPlannedPre");
+          else {
+            var miss = Engine.treeLeafCodes(t, []).filter(function (c) { return !bothSet.has(c); });
+            stateText = I18N.t("major.chainBlocked") + miss.slice(0, 5).join("、") + (miss.length > 5 ? "…" : "");
+          }
+        }
+      }
+      var down = eng.down[k] || [];
+      var downHTML = '<p class="hint">' + esc(I18N.t("major.chainDown")) + '：' +
+        (down.length ? esc(I18N.t("major.chainDownN", { n: down.length })) + esc(down.slice(0, 8).join("、")) +
+          (down.length > 8 ? "…" : "") + (down.length >= 6 ? ' <span class="tag done">🔑 ' + esc(I18N.t("major.chainKey")) + '</span>' : "")
+          : esc(I18N.t("major.chainDownNone"))) + '</p>';
+      finish(preHTML, downHTML);
+    });
+  }
   function openPopup(code) {
     var k = normCode(code), eq = EQUIV[k] || { ap: [], cc: [] };
     document.getElementById("eqTitle").textContent = code;
-    var h = "";
+    var h = '<div id="chainBox"><p class="hint">' + esc(I18N.t("major.chainLoading")) + '</p></div>';
     if (eq.ap.length) {
       h += '<div class="section-title">' + esc(I18N.t("major.apSection")) + '</div>' + eq.ap.map(function (a) {
         return '<div class="eqrow"><b>' + esc(a.exam) + '</b> · ' + esc(a.score) + ' → ' +
@@ -325,6 +434,7 @@ I18N.init().then(function () {
     }
     h += '<p class="hint">' + esc(I18N.t("major.equivNote")) + '</p>';
     document.getElementById("eqBody").innerHTML = h;
+    fillChain(code);
     var hb = document.getElementById("eqHaveBtn");
     hb.textContent = inHave(k) ? I18N.t("major.unhave") : I18N.t("major.haveItBtn");
     hb.onclick = function () {

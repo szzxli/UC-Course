@@ -21,7 +21,7 @@ vm.runInThisContext(psrc, { filename: "planner.js" });
 
 console.log("== 1. 专业数据完整性 ==");
 const midx = load(path.join(WEB, "data/majors/index.json"));
-ok("18 majors in index", midx.length === 18, "got " + midx.length);
+ok("20 majors in index", midx.length === 20, "got " + midx.length);
 let allReqCourses = {};
 midx.forEach(m => {
   const md = load(path.join(WEB, "data/majors", m.file));

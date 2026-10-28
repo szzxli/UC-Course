@@ -1,173 +1,182 @@
 [
-  {
-    "campus": "UCI",
-    "major": "Computer Science",
-    "degree": "B.S.",
-    "file": "uci-computer-science.json",
-    "requirement_count": 6,
-    "major_zh": "计算机科学",
-    "major_tw": "計算機科學"
-  },
-  {
-    "campus": "UCI",
-    "major": "Electrical Engineering",
-    "degree": "B.S.",
-    "file": "uci-electrical-engineering.json",
-    "requirement_count": 9,
-    "major_zh": "电气工程",
-    "major_tw": "電氣工程"
-  },
-  {
-    "campus": "UCI",
-    "major": "Biological Sciences",
-    "degree": "B.S.",
-    "file": "uci-biology.json",
-    "requirement_count": 3,
-    "major_zh": "生物科学",
-    "major_tw": "生物科學"
-  },
-  {
-    "campus": "UCI",
-    "major": "Psychology",
-    "degree": "B.A.",
-    "file": "uci-psychology.json",
-    "requirement_count": 4,
-    "major_zh": "心理学",
-    "major_tw": "心理學"
-  },
-  {
-    "campus": "UCI",
-    "major": "Economics",
-    "degree": "B.A.",
-    "file": "uci-economics.json",
-    "requirement_count": 4,
-    "major_zh": "经济学",
-    "major_tw": "經濟學"
-  },
-  {
-    "campus": "UCSD",
-    "major": "Computer Science",
-    "degree": "B.S.",
-    "file": "ucsd-computer-science.json",
-    "requirement_count": 7,
-    "major_zh": "计算机科学",
-    "major_tw": "計算機科學"
-  },
-  {
-    "campus": "UCSD",
-    "major": "Electrical Engineering",
-    "degree": "B.S.",
-    "file": "ucsd-electrical-engineering.json",
-    "requirement_count": 14,
-    "major_zh": "电气工程",
-    "major_tw": "電氣工程"
-  },
-  {
-    "campus": "UCSD",
-    "major": "Biology",
-    "degree": "B.S.",
-    "file": "ucsd-biology.json",
-    "requirement_count": 12,
-    "major_zh": "生物学",
-    "major_tw": "生物學"
-  },
-  {
-    "campus": "UCSD",
-    "major": "Psychology",
-    "degree": "B.A.",
-    "file": "ucsd-psychology.json",
-    "requirement_count": 7,
-    "major_zh": "心理学",
-    "major_tw": "心理學"
-  },
-  {
-    "campus": "UCSD",
-    "major": "Economics",
-    "degree": "B.A.",
-    "file": "ucsd-economics.json",
-    "requirement_count": 4,
-    "major_zh": "经济学",
-    "major_tw": "經濟學"
-  },
-  {
-    "campus": "UCI",
-    "major": "Mathematics",
-    "degree": "B.S.",
-    "file": "uci-mathematics.json",
-    "requirement_count": 5,
-    "major_zh": "数学",
-    "major_tw": "數學"
-  },
-  {
-    "campus": "UCSD",
-    "major": "Mathematics",
-    "degree": "B.S.",
-    "file": "ucsd-mathematics.json",
-    "requirement_count": 5,
-    "major_zh": "数学",
-    "major_tw": "數學"
-  },
-  {
-    "campus": "UCSB",
-    "major": "Computer Science",
-    "degree": "B.S.",
-    "file": "ucsb-computer-science.json",
-    "requirement_count": 7,
-    "major_zh": "计算机科学",
-    "major_tw": "計算機科學"
-  },
-  {
-    "campus": "UCSB",
-    "major": "Electrical Engineering",
-    "degree": "B.S.",
-    "file": "ucsb-electrical-engineering.json",
-    "requirement_count": 3,
-    "major_zh": "电气工程",
-    "major_tw": "電氣工程"
-  },
-  {
-    "campus": "UCSB",
-    "major": "Biological Sciences",
-    "degree": "B.S.",
-    "file": "ucsb-biology.json",
-    "requirement_count": 14,
-    "major_zh": "生物科学",
-    "major_tw": "生物科學"
-  },
-  {
-    "campus": "UCSB",
-    "major": "Psychological & Brain Sciences",
-    "degree": "B.S.",
-    "file": "ucsb-psychology.json",
-    "requirement_count": 7,
-    "major_zh": "心理与脑科学",
-    "major_tw": "心理與腦科學"
-  },
-  {
-    "campus": "UCSB",
-    "major": "Economics",
-    "degree": "B.A.",
-    "file": "ucsb-economics.json",
-    "requirement_count": 8,
-    "major_zh": "经济学",
-    "major_tw": "經濟學"
-  },
-  {
-    "campus": "UCSB",
-    "major": "Mathematics",
-    "degree": "B.S.",
-    "file": "ucsb-mathematics.json",
-    "requirement_count": 10,
-    "major_zh": "数学",
-    "major_tw": "數學"
-  },
-  {
-    "campus": "UCSB",
-    "major": "Environmental Studies",
-    "degree": "B.S.",
-    "file": "ucsb-environmental-science.json",
-    "requirement_count": 18,
-    "major_zh": "环境科学",
-    "major_tw": "環境科學"
-  }
+ {
+  "campus": "UCI",
+  "major": "Computer Science",
+  "degree": "B.S.",
+  "file": "uci-computer-science.json",
+  "requirement_count": 6,
+  "major_zh": "计算机科学",
+  "major_tw": "計算機科學"
+ },
+ {
+  "campus": "UCI",
+  "major": "Electrical Engineering",
+  "degree": "B.S.",
+  "file": "uci-electrical-engineering.json",
+  "requirement_count": 9,
+  "major_zh": "电气工程",
+  "major_tw": "電氣工程"
+ },
+ {
+  "campus": "UCI",
+  "major": "Biological Sciences",
+  "degree": "B.S.",
+  "file": "uci-biology.json",
+  "requirement_count": 3,
+  "major_zh": "生物科学",
+  "major_tw": "生物科學"
+ },
+ {
+  "campus": "UCI",
+  "major": "Psychology",
+  "degree": "B.A.",
+  "file": "uci-psychology.json",
+  "requirement_count": 4,
+  "major_zh": "心理学",
+  "major_tw": "心理學"
+ },
+ {
+  "campus": "UCI",
+  "major": "Economics",
+  "degree": "B.A.",
+  "file": "uci-economics.json",
+  "requirement_count": 4,
+  "major_zh": "经济学",
+  "major_tw": "經濟學"
+ },
+ {
+  "campus": "UCSD",
+  "major": "Computer Science",
+  "degree": "B.S.",
+  "file": "ucsd-computer-science.json",
+  "requirement_count": 7,
+  "major_zh": "计算机科学",
+  "major_tw": "計算機科學"
+ },
+ {
+  "campus": "UCSD",
+  "major": "Electrical Engineering",
+  "degree": "B.S.",
+  "file": "ucsd-electrical-engineering.json",
+  "requirement_count": 14,
+  "major_zh": "电气工程",
+  "major_tw": "電氣工程"
+ },
+ {
+  "campus": "UCSD",
+  "major": "Biology",
+  "degree": "B.S.",
+  "file": "ucsd-biology.json",
+  "requirement_count": 12,
+  "major_zh": "生物学",
+  "major_tw": "生物學"
+ },
+ {
+  "campus": "UCSD",
+  "major": "Psychology",
+  "degree": "B.A.",
+  "file": "ucsd-psychology.json",
+  "requirement_count": 7,
+  "major_zh": "心理学",
+  "major_tw": "心理學"
+ },
+ {
+  "campus": "UCSD",
+  "major": "Economics",
+  "degree": "B.A.",
+  "file": "ucsd-economics.json",
+  "requirement_count": 4,
+  "major_zh": "经济学",
+  "major_tw": "經濟學"
+ },
+ {
+  "campus": "UCI",
+  "major": "Mathematics",
+  "degree": "B.S.",
+  "file": "uci-mathematics.json",
+  "requirement_count": 5,
+  "major_zh": "数学",
+  "major_tw": "數學"
+ },
+ {
+  "campus": "UCSD",
+  "major": "Mathematics",
+  "degree": "B.S.",
+  "file": "ucsd-mathematics.json",
+  "requirement_count": 5,
+  "major_zh": "数学",
+  "major_tw": "數學"
+ },
+ {
+  "campus": "UCSD",
+  "major": "Mathematics-Computer Science",
+  "degree": "B.S.",
+  "file": "ucsd-mathematics-computer-science.json",
+  "requirement_count": 14,
+  "major_zh": "数学-计算机科学",
+  "major_tw": "數學-計算機科學"
+ },
+ {
+  "campus": "UCSB",
+  "major": "Computer Science",
+  "degree": "B.S.",
+  "file": "ucsb-computer-science.json",
+  "requirement_count": 7,
+  "major_zh": "计算机科学",
+  "major_tw": "計算機科學"
+ },
+ {
+  "campus": "UCSB",
+  "major": "Electrical Engineering",
+  "degree": "B.S.",
+  "file": "ucsb-electrical-engineering.json",
+  "requirement_count": 3,
+  "major_zh": "电气工程",
+  "major_tw": "電氣工程"
+ },
+ {
+  "campus": "UCSB",
+  "major": "Biological Sciences",
+  "degree": "B.S.",
+  "file": "ucsb-biology.json",
+  "requirement_count": 14,
+  "major_zh": "生物科学",
+  "major_tw": "生物科學"
+ },
+ {
+  "campus": "UCSB",
+  "major": "Psychological & Brain Sciences",
+  "degree": "B.S.",
+  "file": "ucsb-psychology.json",
+  "requirement_count": 7,
+  "major_zh": "心理与脑科学",
+  "major_tw": "心理與腦科學"
+ },
+ {
+  "campus": "UCSB",
+  "major": "Economics",
+  "degree": "B.A.",
+  "file": "ucsb-economics.json",
+  "requirement_count": 8,
+  "major_zh": "经济学",
+  "major_tw": "經濟學"
+ },
+ {
+  "campus": "UCSB",
+  "major": "Mathematics",
+  "degree": "B.S.",
+  "file": "ucsb-mathematics.json",
+  "requirement_count": 10,
+  "major_zh": "数学",
+  "major_tw": "數學"
+ },
+ {
+  "campus": "UCSB",
+  "major": "Environmental Studies",
+  "degree": "B.S.",
+  "file": "ucsb-environmental-science.json",
+  "requirement_count": 18,
+  "major_zh": "环境科学",
+  "major_tw": "環境科學"
+ }
 ]

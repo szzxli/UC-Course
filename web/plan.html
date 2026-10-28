@@ -573,7 +573,7 @@ function getHave() {
   if (Array.isArray(h)) return h.map(Engine.normCode);
   return Object.keys(h || {}).map(Engine.normCode);
 }
-function render(plan, input) {
+function render(plan, input, altPlan, altInput, isDemo) {
   var box = document.getElementById("result");
   var h = "";
   if (plan.feasible) {
@@ -589,6 +589,26 @@ function render(plan, input) {
       })) + "</p>" +
       '<p class="hint">' + esc(plan.unscheduled.slice(0, 12).join("、")) + "</p>" +
       '<p class="hint">' + esc(I18N.t("engine.certText")) + "</p></div>";
+  }
+  /* 方案比较卡：你的方案 vs 一个有意义的备选（最快 3 年 × 21 学分，或均衡 4 年 × 16 学分） */
+  if (altPlan && altInput) {
+    var altIsFast = altInput.years === 3 && altInput.maxUnits === 21;
+    var avgP = (plan.totalUnits / Math.max(plan.terms.length, 1)).toFixed(1);
+    var avgA = (altPlan.totalUnits / Math.max(altPlan.terms.length, 1)).toFixed(1);
+    var ch = '<div class="card"><div class="section-title">' + esc(I18N.t("engine.compareTitle")) + '</div>';
+    ch += '<p class="hint">' + esc(I18N.t("engine.yourPlan", { y: input.years, c: input.maxUnits, t: plan.terms.length, u: plan.totalUnits, a: avgP })) + (plan.feasible ? "" : " " + esc(I18N.t("engine.planInfeasible"))) + '</p>';
+    ch += '<p class="hint">' + esc(I18N.t(altIsFast ? "engine.altFast" : "engine.altBalanced", { y: altInput.years, c: altInput.maxUnits, t: altPlan.terms.length, u: altPlan.totalUnits, a: avgA })) + (altPlan.feasible ? "" : " " + esc(I18N.t("engine.planInfeasible"))) + '</p>';
+    if (plan.feasible && altPlan.feasible) {
+      if (plan.terms.length === altPlan.terms.length && plan.totalUnits === altPlan.totalUnits) {
+        ch += '<p class="hint">' + esc(I18N.t("engine.compareSame")) + '</p>';
+      } else {
+        var dt = altPlan.terms.length - plan.terms.length;
+        var da = (parseFloat(avgA) - parseFloat(avgP)).toFixed(1);
+        ch += '<p class="hint">' + esc(I18N.t("engine.compareDiff", { td: (dt >= 0 ? "+" : "") + dt, ad: (parseFloat(da) >= 0 ? "+" : "") + da })) + '</p>';
+      }
+    }
+    ch += '</div>';
+    h += ch;
   }
   plan.terms.forEach(function (t, i) {
     if (!t.courses.length) return;
@@ -629,6 +649,33 @@ function render(plan, input) {
       : I18N.t("engine.evidenceMajorNoDate", { c: MAJOR.campus || "UCSB" })) + "</p>";
   }
   h += '<p class="hint">' + esc(I18N.t("engine.evidenceGe")) + "</p></div>";
+  /* 行动清单：下一步要做什么、哪些需官方确认、选不上怎么办、与上次方案相比变了什么 */
+  var acts = [];
+  if (plan.feasible) {
+    var firstTerm = null;
+    for (var fi = 0; fi < plan.terms.length; fi++) { if (plan.terms[fi].courses.length) { firstTerm = plan.terms[fi]; break; } }
+    var firstKeys = firstTerm ? firstTerm.courses.filter(function (c) { return c.key; }).map(function (c) { return c.code; }) : [];
+    if (firstKeys.length) acts.push(esc(I18N.t("engine.actionKeyNext", { c: firstKeys.join("、") })));
+    acts.push('<a href="courses.html#pick">' + esc(I18N.t("engine.actionIfFull")) + '</a>');
+    if (!isDemo) {
+      var vs = Sget("planVersions", []);
+      if (vs.length) {
+        var last = vs[0];
+        if (last.terms !== plan.terms.length || last.totalUnits !== plan.totalUnits) {
+          acts.push(esc(I18N.t("engine.actionChange", { t0: last.terms, t1: plan.terms.length, u0: last.totalUnits, u1: plan.totalUnits })));
+        }
+      }
+    }
+  } else {
+    acts.push(esc(I18N.t("engine.actionInfeasible")));
+  }
+  var st = statusState();
+  if (st.state === "stale") acts.push('<a href="status.html">' + esc(I18N.t("engine.actionStale")) + '</a>');
+  else if (st.state === "none") acts.push('<a href="status.html">' + esc(I18N.t("engine.actionNone")) + '</a>');
+  h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.actionTitle")) + '</div>';
+  if (acts.length) acts.forEach(function (a) { h += '<p class="hint">· ' + a + '</p>'; });
+  else h += '<p class="hint">' + esc(I18N.t("engine.actionEmpty")) + '</p>';
+  h += '</div>';
   box.innerHTML = h;
 }
 I18N.init().then(function () {
@@ -672,7 +719,12 @@ I18N.init().then(function () {
         have: have
       };
       var plan = Engine.buildPlan(input, { major: MAJOR, catalog: CATALOG });
-      render(plan, input);
+      /* 方案比较：备选 = 最快（3 年 × 21 学分）或均衡（4 年 × 16 学分），取与用户设置不同的一项 */
+      var altInput = (input.years === 3 && input.maxUnits === 21)
+        ? { years: 4, maxUnits: 16, startTerm: input.startTerm, langAtUCSB: input.langAtUCSB, have: have }
+        : { years: 3, maxUnits: 21, startTerm: input.startTerm, langAtUCSB: input.langAtUCSB, have: have };
+      var altPlan = Engine.buildPlan(altInput, { major: MAJOR, catalog: CATALOG });
+      render(plan, input, altPlan, altInput, demo);
       /* 规划版本快照（B8 地基，上限 10 条；示例模式不存） */
       if (!demo) {
         var vs = Sget("planVersions", []);

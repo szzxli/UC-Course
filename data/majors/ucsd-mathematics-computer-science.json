@@ -1,0 +1,385 @@
+{
+ "campus": "UCSD",
+ "checked": "2026-10-28",
+ "degree": "B.S.",
+ "department": "Department of Mathematics",
+ "file": "ucsd-mathematics-computer-science.json",
+ "major": "Mathematics-Computer Science",
+ "note": "Mathematics-Computer Science major (MA30). A math-CS major is not allowed to also minor in computer science in the Department of Computer Science and Engineering; CSE courses are subject to enrollment restrictions.",
+ "requirements": [
+  {
+   "id": "ld-calc",
+   "name": "Lower-division: Linear Algebra and Calculus sequence (one of)",
+   "type": "prereq",
+   "courses": [
+    "MATH 18",
+    "MATH 20A",
+    "MATH 20B",
+    "MATH 20C",
+    "MATH 20D",
+    "MATH 20E",
+    "MATH 31AH",
+    "MATH 31BH",
+    "MATH 31CH"
+   ],
+   "options": [
+    [
+     "MATH 18",
+     "MATH 20A",
+     "MATH 20B",
+     "MATH 20C",
+     "MATH 20D",
+     "MATH 20E"
+    ],
+    [
+     "MATH 31AH",
+     "MATH 31BH",
+     "MATH 31CH",
+     "MATH 20D"
+    ]
+   ],
+   "name_zh": "低年级：线性代数与微积分系列（二选一）"
+  },
+  {
+   "id": "ld-cse11",
+   "name": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace (CSE 11)",
+   "type": "prereq",
+   "courses": [
+    "CSE 11"
+   ],
+   "name_zh": "低年级：CSE 11 加速编程入门"
+  },
+  {
+   "id": "ld-tools",
+   "name": "Software Tools and Techniques Laboratory (one of)",
+   "type": "prereq",
+   "courses": [
+    "CSE 15L",
+    "CSE 29"
+   ],
+   "options": [
+    [
+     "CSE 15L"
+    ],
+    [
+     "CSE 29"
+    ]
+   ],
+   "name_zh": "低年级：软件工具实验（二选一）"
+  },
+  {
+   "id": "ld-cse12",
+   "name": "Basic Data Structures and Object-Oriented Design (CSE 12)",
+   "type": "prereq",
+   "courses": [
+    "CSE 12"
+   ],
+   "name_zh": "低年级：CSE 12 数据结构与面向对象设计"
+  },
+  {
+   "id": "ud-math109",
+   "name": "Mathematical Reasoning (MATH 109)",
+   "type": "required",
+   "courses": [
+    "MATH 109"
+   ],
+   "note": "Students completing MATH 31AH-BH-CH may substitute a four-unit upper-division mathematics elective for MATH 109.",
+   "name_zh": "高年级：数学推理（MATH 109）",
+   "note_zh": "修完 MATH 31AH-BH-CH 的学生可用一门 4 学分高年级数学选修课替代 MATH 109。"
+  },
+  {
+   "id": "ud-algebra",
+   "name": "Modern Applied Algebra or Modern Algebra (one sequence)",
+   "type": "required",
+   "courses": [
+    "MATH 103A",
+    "MATH 103B",
+    "MATH 100A",
+    "MATH 100B"
+   ],
+   "options": [
+    [
+     "MATH 103A",
+     "MATH 103B"
+    ],
+    [
+     "MATH 100A",
+     "MATH 100B"
+    ]
+   ],
+   "name_zh": "高年级：现代应用代数或现代代数（选一序列）"
+  },
+  {
+   "id": "ud-cse105",
+   "name": "Theory of Computability (CSE 105)",
+   "type": "required",
+   "courses": [
+    "CSE 105"
+   ],
+   "note": "CSE 21 or MATH 100A or MATH 103A or MATH 184 or MATH 184A must be taken prior to CSE 105.",
+   "name_zh": "高年级：可计算性理论（CSE 105）",
+   "note_zh": "修 CSE 105 之前须先修 CSE 21、MATH 100A、MATH 103A、MATH 184 或 MATH 184A 其中之一。"
+  },
+  {
+   "id": "ud-cse100",
+   "name": "Computer Implementations of Data Structures (CSE 100)",
+   "type": "required",
+   "courses": [
+    "CSE 100"
+   ],
+   "note": "CSE 21 or MATH 154 or MATH 184 or MATH 184A must be taken prior to CSE 100.",
+   "name_zh": "高年级：数据结构实现（CSE 100）",
+   "note_zh": "修 CSE 100 之前须先修 CSE 21、MATH 154、MATH 184 或 MATH 184A 其中之一。"
+  },
+  {
+   "id": "ud-prob",
+   "name": "Intro to Probability (one of)",
+   "type": "required",
+   "courses": [
+    "MATH 180A",
+    "MATH 183"
+   ],
+   "options": [
+    [
+     "MATH 180A"
+    ],
+    [
+     "MATH 183"
+    ]
+   ],
+   "note": "MATH 183 is not a prerequisite for MATH 181A; duplication of credit exists between MATH 180A/183 and ECON 120A.",
+   "name_zh": "高年级：概率论入门（二选一）",
+   "note_zh": "MATH 183 不是 MATH 181A 的先修课；MATH 180A/183 与 ECON 120A 存在学分重复。"
+  },
+  {
+   "id": "ud-discrete",
+   "name": "Discrete Math or Combinatorics (one of)",
+   "type": "required",
+   "courses": [
+    "MATH 154",
+    "MATH 158",
+    "MATH 184",
+    "MATH 188"
+   ],
+   "options": [
+    [
+     "MATH 154"
+    ],
+    [
+     "MATH 158"
+    ],
+    [
+     "MATH 184"
+    ],
+    [
+     "MATH 188"
+    ]
+   ],
+   "name_zh": "高年级：离散数学或组合数学（四选一）"
+  },
+  {
+   "id": "ud-cse101",
+   "name": "Design and Analysis of Algorithms (CSE 101)",
+   "type": "required",
+   "courses": [
+    "CSE 101"
+   ],
+   "name_zh": "高年级：算法设计与分析（CSE 101）"
+  },
+  {
+   "id": "ud-app-elect",
+   "name": "Applied Mathematics Electives (8 units)",
+   "type": "elective",
+   "courses": [
+    "MATH 170A",
+    "MATH 170B",
+    "MATH 170C",
+    "MATH 171A",
+    "MATH 171B",
+    "MATH 173A",
+    "MATH 173B",
+    "MATH 174",
+    "MATH 175",
+    "MATH 179",
+    "MATH 180B",
+    "MATH 180C",
+    "MATH 181A",
+    "MATH 181B",
+    "MATH 181C",
+    "MATH 181E"
+   ],
+   "note": "Eight units from the listed courses; a single course cannot fulfill more than one major requirement.",
+   "name_zh": "高年级：应用数学选修（8 学分）",
+   "note_zh": "从所列课程中修满 8 学分；单门课不能同时满足两条专业要求。"
+  },
+  {
+   "id": "ud-comp-elect",
+   "name": "Computational Electives (8 units)",
+   "type": "elective",
+   "courses": [
+    "MATH 152",
+    "MATH 154",
+    "MATH 155A",
+    "MATH 155B",
+    "MATH 157",
+    "MATH 158",
+    "MATH 160A",
+    "MATH 160B",
+    "MATH 168A",
+    "MATH 182",
+    "MATH 184",
+    "MATH 185",
+    "MATH 187A",
+    "MATH 187B",
+    "MATH 188",
+    "MATH 189",
+    "CSE 107",
+    "CSE 110",
+    "CSE 112",
+    "CSE 120",
+    "CSE 121",
+    "CSE 123",
+    "CSE 124",
+    "CSE 127",
+    "CSE 130",
+    "CSE 131",
+    "CSE 132A",
+    "CSE 132B",
+    "CSE 134B",
+    "CSE 140",
+    "CSE 140L",
+    "CSE 141",
+    "CSE 141L",
+    "CSE 142",
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 152A",
+    "CSE 152B",
+    "CSE 158",
+    "CSE 160",
+    "CSE 165",
+    "CSE 167",
+    "CSE 168",
+    "CSE 169",
+    "CSE 176A",
+    "COGS 108",
+    "COGS 118A",
+    "COGS 118B",
+    "COGS 120",
+    "COGS 185",
+    "COGS 188"
+   ],
+   "note": "Eight units from the listed courses; a single course cannot fulfill more than one major requirement. Students interested in computer architecture courses (CSE 140-140L, 141-141L, 142) should take CSE 30 as preparation.",
+   "name_zh": "高年级：计算选修（8 学分）",
+   "note_zh": "从所列课程中修满 8 学分；单门课不能同时满足两条专业要求；想选计算机体系结构方向（CSE 140-140L、141-141L、142）建议先修 CSE 30。"
+  },
+  {
+   "id": "ud-gen-elect",
+   "name": "General Math—CS Electives (8 units)",
+   "type": "elective",
+   "courses": [
+    "MATH 170A",
+    "MATH 170B",
+    "MATH 170C",
+    "MATH 171A",
+    "MATH 171B",
+    "MATH 173A",
+    "MATH 173B",
+    "MATH 174",
+    "MATH 175",
+    "MATH 179",
+    "MATH 180B",
+    "MATH 180C",
+    "MATH 181A",
+    "MATH 181B",
+    "MATH 181C",
+    "MATH 181E",
+    "MATH 152",
+    "MATH 154",
+    "MATH 155A",
+    "MATH 155B",
+    "MATH 157",
+    "MATH 158",
+    "MATH 160A",
+    "MATH 160B",
+    "MATH 168A",
+    "MATH 182",
+    "MATH 184",
+    "MATH 185",
+    "MATH 187A",
+    "MATH 187B",
+    "MATH 188",
+    "MATH 189",
+    "CSE 107",
+    "CSE 110",
+    "CSE 112",
+    "CSE 120",
+    "CSE 121",
+    "CSE 123",
+    "CSE 124",
+    "CSE 127",
+    "CSE 130",
+    "CSE 131",
+    "CSE 132A",
+    "CSE 132B",
+    "CSE 134B",
+    "CSE 140",
+    "CSE 140L",
+    "CSE 141",
+    "CSE 141L",
+    "CSE 142",
+    "CSE 150A",
+    "CSE 150B",
+    "CSE 151A",
+    "CSE 152A",
+    "CSE 152B",
+    "CSE 158",
+    "CSE 160",
+    "CSE 165",
+    "CSE 167",
+    "CSE 168",
+    "CSE 169",
+    "CSE 176A",
+    "COGS 108",
+    "COGS 118A",
+    "COGS 118B",
+    "COGS 120",
+    "COGS 185",
+    "COGS 188",
+    "MATH 100C",
+    "MATH 102",
+    "MATH 104A",
+    "MATH 104B",
+    "MATH 106",
+    "MATH 110",
+    "MATH 111A",
+    "MATH 111B",
+    "MATH 114",
+    "MATH 120A",
+    "MATH 120B",
+    "MATH 130",
+    "MATH 140A",
+    "MATH 140B",
+    "MATH 142A",
+    "MATH 142B",
+    "MATH 144",
+    "MATH 150A",
+    "MATH 150B",
+    "MATH 163",
+    "MATH 181D",
+    "MATH 181F",
+    "MATH 190A",
+    "MATH 190B",
+    "MATH 193A",
+    "MATH 193B",
+    "MATH 194"
+   ],
+   "note": "Eight additional units from the applied/computational elective lists or the listed courses; a single course cannot fulfill more than one major requirement.",
+   "name_zh": "高年级：数学-计算机综合选修（8 学分）",
+   "note_zh": "从应用数学/计算选修清单或所列课程中另修 8 学分；单门课不能同时满足两条专业要求。"
+  }
+ ],
+ "school": "Division of Physical Sciences",
+ "source_url": "https://catalog.ucsd.edu/curric/MATH-ug.html"
+}

@@ -174,7 +174,7 @@ if not ONLY or "requirements" in ONLY:
   sections = f'<section id="sec-major">\n{major_sec}\n</section>\n<section id="sec-ge" hidden>\n{ge_inner}\n</section>'
   write("requirements.html", assemble(
       "title.requirements", "毕业要求 · UC 智选", "brand.requirements", "🎓 毕业要求",
-      ["js/app.js", "js/i18n.js", "js/chat.js", "js/major.js"],
+      ["js/app.js", "js/i18n.js", "js/chat.js", "js/major.js", "js/engine.js"],
       sections, seg_html,
       f"<script>\n{major_script}\n</script>\n<script>\n{ge_script}\n</script>\n{page_script}"))
 

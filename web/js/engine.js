@@ -61,6 +61,10 @@
     "art history": "ARTHI", "arthi": "ARTHI",
     "linguistics": "LING", "ling": "LING",
     "computer science": "CMPSC", "cmpsc": "CMPSC",
+    "computer science and engineering": "CSE", "cse": "CSE",
+    "electrical and computer engineering": "ECE", "ece": "ECE",
+    "data science": "DSC", "dsc": "DSC",
+    "cognitive science": "COGS", "cogs": "COGS",
     "family studies": "FAMST", "famst": "FAMST"
   };
   /* 按名称长度降序排列，解析时先匹配长名，避免 Mathematics 被 Math 截断等 */

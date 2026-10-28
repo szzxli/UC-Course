@@ -14,9 +14,9 @@ function ok(name, cond, extra) {
 function load(p) { return JSON.parse(fs.readFileSync(p, "utf8")); }
 function norm(s) { return String(s || "").trim().replace(/\b0+(\d)/g, "$1").replace(/\s+/g, " "); }
 
-console.log("== H2: 19 个专业要求名/备注中文层 ==");
+console.log("== H2: 20 个专业要求名/备注中文层 ==");
 const midx = load(path.join(WEB, "data/majors/index.json"));
-ok("19 majors", midx.length === 19, "got " + midx.length);
+ok("20 majors", midx.length === 20, "got " + midx.length);
 midx.forEach(m => {
   const web = load(path.join(WEB, "data/majors", m.file));
   const src = load(path.join(ROOT, "data/majors", m.file));

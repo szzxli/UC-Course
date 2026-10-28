@@ -1,0 +1,354 @@
+{
+ "campus": "UCSD",
+ "major": "Mathematics-Computer Science",
+ "checked": "2026-10-28",
+ "n_courses": 34,
+ "courses": [
+  {
+   "code": "CSE 100",
+   "title": "Advanced Data Structures",
+   "units": "4",
+   "prerequisites_raw": "CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 and CSE 15L or CSE 29 or ECE 15",
+   "prerequisites_courses": [
+    "CSE 21",
+    "MATH 154",
+    "MATH 158",
+    "MATH 184",
+    "MATH 188",
+    "CSE 12",
+    "CSE 15L",
+    "CSE 29",
+    "ECE 15"
+   ]
+  },
+  {
+   "code": "CSE 101",
+   "title": "Design and Analysis of Algorithms",
+   "units": "4",
+   "prerequisites_raw": "CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 or DSC 30",
+   "prerequisites_courses": [
+    "CSE 21",
+    "MATH 154",
+    "MATH 158",
+    "MATH 184",
+    "MATH 188",
+    "CSE 12",
+    "DSC 30"
+   ]
+  },
+  {
+   "code": "CSE 105",
+   "title": "Theory of Computability",
+   "units": "4",
+   "prerequisites_raw": "CSE 12 and CSE 20 or MATH 109 or MATH 31CH and CSE 21 or MATH 100A or MATH 103A or MATH 154 or MATH 158 or MATH 184 or MATH 188",
+   "prerequisites_courses": [
+    "CSE 12",
+    "CSE 20",
+    "MATH 109",
+    "MATH 31CH",
+    "CSE 21",
+    "MATH 100A",
+    "MATH 103A",
+    "MATH 154",
+    "MATH 158",
+    "MATH 184",
+    "MATH 188"
+   ]
+  },
+  {
+   "code": "CSE 11",
+   "title": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace",
+   "units": "4",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "CSE 12",
+   "title": "Basic Data Structures and Object-Oriented Design",
+   "units": "4",
+   "prerequisites_raw": "CSE 8B or CSE 11",
+   "prerequisites_courses": [
+    "CSE 8B",
+    "CSE 11"
+   ]
+  },
+  {
+   "code": "CSE 15L",
+   "title": "Software Tools and Techniques Laboratory",
+   "units": "2",
+   "prerequisites_raw": "CSE 8B or CSE 11 or CSE 12 or DSC 30",
+   "prerequisites_courses": [
+    "CSE 8B",
+    "CSE 11",
+    "CSE 12",
+    "DSC 30"
+   ]
+  },
+  {
+   "code": "CSE 20",
+   "title": "Discrete Mathematics",
+   "units": "4",
+   "prerequisites_raw": "CSE 11 or CSE 6R or CSE 8A or CSE 8B or ECE 15",
+   "prerequisites_courses": [
+    "CSE 11",
+    "CSE 6R",
+    "CSE 8A",
+    "CSE 8B",
+    "ECE 15"
+   ]
+  },
+  {
+   "code": "CSE 21",
+   "title": "Mathematics for Algorithms and Systems",
+   "units": "4",
+   "prerequisites_raw": "CSE 20 or MATH 31CH",
+   "prerequisites_courses": [
+    "CSE 20",
+    "MATH 31CH"
+   ]
+  },
+  {
+   "code": "CSE 29",
+   "title": "Systems Programming and Software Tools",
+   "units": "4",
+   "prerequisites_raw": "CSE 11 or CSE 8B or ECE 15",
+   "prerequisites_courses": [
+    "CSE 11",
+    "CSE 8B",
+    "ECE 15"
+   ]
+  },
+  {
+   "code": "CSE 6R",
+   "title": "Introduction to Computer Science and Object-Oriented Programming: Python",
+   "units": "4",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "CSE 8A",
+   "title": "Introduction to Programming and Computational Problem-Solving I",
+   "units": "4",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "CSE 8B",
+   "title": "",
+   "units": "",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "DSC 30",
+   "title": "Data Structures and Algorithms for Data Science",
+   "units": "4",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "ECE 15",
+   "title": "Engineering Computation: Introduction to Programming in C",
+   "units": "4",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "MATH 100A",
+   "title": "Abstract Algebra I",
+   "units": "4",
+   "prerequisites_raw": "MATH 31CH or MATH 109",
+   "prerequisites_courses": [
+    "MATH 31CH",
+    "MATH 109"
+   ]
+  },
+  {
+   "code": "MATH 100B",
+   "title": "Abstract Algebra II",
+   "units": "4",
+   "prerequisites_raw": "MATH 100A",
+   "prerequisites_courses": [
+    "MATH 100A"
+   ]
+  },
+  {
+   "code": "MATH 103A",
+   "title": "Modern Algebra I",
+   "units": "4",
+   "prerequisites_raw": "MATH 31CH or MATH 109",
+   "prerequisites_courses": [
+    "MATH 31CH",
+    "MATH 109"
+   ]
+  },
+  {
+   "code": "MATH 103B",
+   "title": "Modern Algebra II",
+   "units": "4",
+   "prerequisites_raw": "MATH 103A or MATH 100A",
+   "prerequisites_courses": [
+    "MATH 103A",
+    "MATH 100A"
+   ]
+  },
+  {
+   "code": "MATH 109",
+   "title": "Mathematical Reasoning",
+   "units": "4",
+   "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+   "prerequisites_courses": [
+    "MATH 18",
+    "MATH 31AH",
+    "MATH 20C"
+   ]
+  },
+  {
+   "code": "MATH 154",
+   "title": "Discrete Mathematics and Graph Theory",
+   "units": "4",
+   "prerequisites_raw": "MATH 31CH or MATH 109",
+   "prerequisites_courses": [
+    "MATH 31CH",
+    "MATH 109"
+   ]
+  },
+  {
+   "code": "MATH 158",
+   "title": "Extremal Combinatorics and Graph Theory",
+   "units": "4",
+   "prerequisites_raw": "MATH 31CH or MATH 109",
+   "prerequisites_courses": [
+    "MATH 31CH",
+    "MATH 109"
+   ]
+  },
+  {
+   "code": "MATH 18",
+   "title": "Linear Algebra",
+   "units": "4",
+   "prerequisites_raw": "MATH 20A",
+   "prerequisites_courses": [
+    "MATH 20A"
+   ]
+  },
+  {
+   "code": "MATH 180A",
+   "title": "Introduction to Probability",
+   "units": "4",
+   "prerequisites_raw": "MATH 20C or MATH 31BH",
+   "prerequisites_courses": [
+    "MATH 20C",
+    "MATH 31BH"
+   ]
+  },
+  {
+   "code": "MATH 183",
+   "title": "Statistical Methods",
+   "units": "4",
+   "prerequisites_raw": "MATH 20C or MATH 31BH",
+   "prerequisites_courses": [
+    "MATH 20C",
+    "MATH 31BH"
+   ]
+  },
+  {
+   "code": "MATH 184",
+   "title": "Enumerative Combinatorics",
+   "units": "4",
+   "prerequisites_raw": "MATH 31CH or MATH 109",
+   "prerequisites_courses": [
+    "MATH 31CH",
+    "MATH 109"
+   ]
+  },
+  {
+   "code": "MATH 188",
+   "title": "Algebraic Combinatorics",
+   "units": "4",
+   "prerequisites_raw": "MATH 31CH or MATH 109 and MATH 18 or MATH 31AH and MATH 100A or MATH 103A",
+   "prerequisites_courses": [
+    "MATH 31CH",
+    "MATH 109",
+    "MATH 18",
+    "MATH 31AH",
+    "MATH 100A",
+    "MATH 103A"
+   ]
+  },
+  {
+   "code": "MATH 20A",
+   "title": "Calculus for Science and Engineering",
+   "units": "4",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "MATH 20B",
+   "title": "Calculus for Science and Engineering",
+   "units": "4",
+   "prerequisites_raw": "MATH 20A",
+   "prerequisites_courses": [
+    "MATH 20A"
+   ]
+  },
+  {
+   "code": "MATH 20C",
+   "title": "Calculus and Analytic Geometry for Science and Engineering",
+   "units": "4",
+   "prerequisites_raw": "MATH 20B",
+   "prerequisites_courses": [
+    "MATH 20B"
+   ]
+  },
+  {
+   "code": "MATH 20D",
+   "title": "Introduction to Differential Equations",
+   "units": "4",
+   "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+   "prerequisites_courses": [
+    "MATH 20C",
+    "MATH 31BH",
+    "MATH 18",
+    "MATH 31AH"
+   ]
+  },
+  {
+   "code": "MATH 20E",
+   "title": "Vector Calculus",
+   "units": "4",
+   "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+   "prerequisites_courses": [
+    "MATH 18",
+    "MATH 31AH",
+    "MATH 20C",
+    "MATH 31BH"
+   ]
+  },
+  {
+   "code": "MATH 31AH",
+   "title": "Honors Linear Algebra",
+   "units": "4",
+   "prerequisites_raw": "",
+   "prerequisites_courses": []
+  },
+  {
+   "code": "MATH 31BH",
+   "title": "Honors Multivariable Calculus",
+   "units": "4",
+   "prerequisites_raw": "MATH 31AH",
+   "prerequisites_courses": [
+    "MATH 31AH"
+   ]
+  },
+  {
+   "code": "MATH 31CH",
+   "title": "Honors Vector Calculus",
+   "units": "4",
+   "prerequisites_raw": "MATH 31BH",
+   "prerequisites_courses": [
+    "MATH 31BH"
+   ]
+  }
+ ]
+}
