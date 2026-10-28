@@ -1,0 +1,660 @@
+{
+ "campus": "UCSB",
+ "major": "Environmental Studies",
+ "degree": "B.S.",
+ "department": "Department of Environmental Studies",
+ "school": "College of Letters and Science",
+ "source_url": "https://catalog.ucsb.edu/programs/BSENVST",
+ "checked": "2026-10-27",
+ "requirements": [
+  {
+   "id": "lower-division-environmental-studies",
+   "name": "Lower-Division Environmental Studies",
+   "type": "prereq",
+   "courses": [
+    "ENV S 1",
+    "ENV S 2",
+    "ENV S 3",
+    "ENV S 40"
+   ],
+   "name_zh": "低年级环境研究"
+  },
+  {
+   "id": "economics",
+   "name": "Economics",
+   "type": "prereq",
+   "courses": [
+    "ECON 1",
+    "ECON 2",
+    "ECON 9",
+    "ENV S 30"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "ECON 1"
+    ],
+    [
+     "ECON 2"
+    ],
+    [
+     "ECON 9"
+    ],
+    [
+     "ENV S 30"
+    ]
+   ],
+   "name_zh": "经济学（四选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "earth-science",
+   "name": "Earth Science",
+   "type": "prereq",
+   "courses": [
+    "EARTH 2",
+    "EARTH 4",
+    "EARTH 20",
+    "GEOG 3",
+    "GEOG 4"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "EARTH 2"
+    ],
+    [
+     "EARTH 4"
+    ],
+    [
+     "EARTH 20"
+    ],
+    [
+     "GEOG 3"
+    ],
+    [
+     "GEOG 4"
+    ]
+   ],
+   "name_zh": "地球科学（五选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "calculus",
+   "name": "Calculus",
+   "type": "prereq",
+   "courses": [
+    "MATH 2A",
+    "MATH 2B",
+    "MATH 3A",
+    "MATH 3B"
+   ],
+   "note": "Complete one of the following.",
+   "options": [
+    [
+     "MATH 2A",
+     "MATH 2B"
+    ],
+    [
+     "MATH 3A",
+     "MATH 3B"
+    ]
+   ],
+   "name_zh": "微积分（两组选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "statistics",
+   "name": "Statistics",
+   "type": "prereq",
+   "courses": [
+    "ECON 5",
+    "PSTAT 5A",
+    "PSTAT 5LS"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "PSTAT 5A"
+    ],
+    [
+     "PSTAT 5LS"
+    ],
+    [
+     "ECON 5"
+    ]
+   ],
+   "name_zh": "统计（三选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "chemistry",
+   "name": "Chemistry",
+   "type": "prereq",
+   "courses": [
+    "CHEM 1A",
+    "CHEM 1B",
+    "CHEM 1C",
+    "CHEM 2AL",
+    "CHEM 2BL"
+   ],
+   "name_zh": "化学"
+  },
+  {
+   "id": "biology",
+   "name": "Biology",
+   "type": "prereq",
+   "courses": [
+    "EEMB 2",
+    "EEMB 2LL",
+    "EEMB 3",
+    "MCDB 1A",
+    "MCDB 1B",
+    "MCDB 1LL"
+   ],
+   "name_zh": "生物"
+  },
+  {
+   "id": "physics",
+   "name": "Physics",
+   "type": "prereq",
+   "courses": [
+    "PHYS 6A",
+    "PHYS 6AL",
+    "PHYS 6B",
+    "PHYS 6BL",
+    "PHYS 6C",
+    "PHYS 6CL",
+    "PHYS 7A",
+    "PHYS 7B",
+    "PHYS 7C",
+    "PHYS 7L"
+   ],
+   "note": "Complete one of the following.",
+   "options": [
+    [
+     "PHYS 6A",
+     "PHYS 6AL",
+     "PHYS 6B",
+     "PHYS 6BL",
+     "PHYS 6C",
+     "PHYS 6CL"
+    ],
+    [
+     "PHYS 7A",
+     "PHYS 7B",
+     "PHYS 7C",
+     "PHYS 7L"
+    ]
+   ],
+   "name_zh": "物理（两组选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "preparation-for-the-major",
+   "name": "PREPARATION FOR THE MAJOR",
+   "type": "prereq",
+   "courses": [
+    "AS AM 9",
+    "ENGL 37",
+    "ENV S 70",
+    "FEMST 50",
+    "PHIL 4",
+    "POL S 1",
+    "RG ST 37"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "AS AM 9"
+    ],
+    [
+     "ENGL 37",
+     "RG ST 37"
+    ],
+    [
+     "ENV S 70"
+    ],
+    [
+     "FEMST 50"
+    ],
+    [
+     "PHIL 4"
+    ],
+    [
+     "POL S 1"
+    ]
+   ],
+   "name_zh": "专业预备（七选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "preparation-for-the-major-2",
+   "name": "PREPARATION FOR THE MAJOR",
+   "type": "prereq",
+   "courses": [
+    "ANTH 2",
+    "AS AM 1",
+    "BL ST 1",
+    "CH ST 1A",
+    "FAMST 46",
+    "GLOBL 1",
+    "GLOBL 2",
+    "HIST 5",
+    "HIST 7",
+    "POL S 6",
+    "POL S 7",
+    "POL S 12",
+    "PSY 1",
+    "RG ST 1",
+    "RG ST 14",
+    "SOC 1"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "ANTH 2"
+    ],
+    [
+     "AS AM 1"
+    ],
+    [
+     "BL ST 1"
+    ],
+    [
+     "CH ST 1A"
+    ],
+    [
+     "FAMST 46"
+    ],
+    [
+     "GLOBL 1"
+    ],
+    [
+     "GLOBL 2"
+    ],
+    [
+     "HIST 5"
+    ],
+    [
+     "HIST 7"
+    ],
+    [
+     "POL S 6"
+    ],
+    [
+     "POL S 7"
+    ],
+    [
+     "POL S 12"
+    ],
+    [
+     "PSY 1"
+    ],
+    [
+     "RG ST 1"
+    ],
+    [
+     "RG ST 14"
+    ],
+    [
+     "SOC 1"
+    ]
+   ],
+   "name_zh": "专业预备（十六选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "1",
+   "name": "1.",
+   "type": "required",
+   "courses": [
+    "ENV S 190"
+   ],
+   "note": "NOTE: All courses (including cross-listed courses) may only apply to one area of the major. 49-50 UD units from Areas A and B plus a 16-unit outside concentration (Area C)",
+   "name_zh": "A-1：ENV S 190 研讨课",
+   "note_zh": "全部课程（含交叉开设课）只能计入专业的一个方向；A、B 两区高年级共需 49–50 学分，另加 C 区 16 学分校外集中方向"
+  },
+  {
+   "id": "2",
+   "name": "2.",
+   "type": "required",
+   "courses": [
+    "EEMB 146",
+    "EEMB 179",
+    "ENV S 126",
+    "ENV S 164",
+    "ENV S 193DS",
+    "GEOG 172",
+    "PSTAT 120A"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "ENV S 193DS",
+     "ENV S 126"
+    ],
+    [
+     "ENV S 164"
+    ],
+    [
+     "GEOG 172"
+    ],
+    [
+     "EEMB 146"
+    ],
+    [
+     "EEMB 179"
+    ],
+    [
+     "PSTAT 120A"
+    ]
+   ],
+   "name_zh": "A-2（七选一）",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "3-1-ecosystems-and-society",
+   "name": "3.1 Ecosystems and Society",
+   "type": "required",
+   "courses": [
+    "ENV S 101",
+    "ENV S 130C",
+    "ENV S 149",
+    "ENV S 153"
+   ],
+   "note": "One course from each of the following three clusters of courses: Complete 1 of the following.",
+   "options": [
+    [
+     "ENV S 101"
+    ],
+    [
+     "ENV S 130C"
+    ],
+    [
+     "ENV S 149"
+    ],
+    [
+     "ENV S 153"
+    ]
+   ],
+   "name_zh": "A-3.1 生态系统与社会",
+   "note_zh": "三个群组各选 1 门；以下完成 1 门"
+  },
+  {
+   "id": "3-2-energy-water-and-climate",
+   "name": "3.2 Energy, Water, and Climate",
+   "type": "required",
+   "courses": [
+    "ENV S 115",
+    "ENV S 117",
+    "ENV S 163A"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "ENV S 115"
+    ],
+    [
+     "ENV S 117"
+    ],
+    [
+     "ENV S 163A"
+    ]
+   ],
+   "name_zh": "A-3.2 能源、水与气候",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "3-3-built-environment",
+   "name": "3.3 Built Environment",
+   "type": "required",
+   "courses": [
+    "ENV S 116",
+    "ENV S 135A",
+    "ENV S 155",
+    "ENV S 156"
+   ],
+   "note": "Complete 1 of the following.",
+   "options": [
+    [
+     "ENV S 116"
+    ],
+    [
+     "ENV S 135A"
+    ],
+    [
+     "ENV S 155"
+    ],
+    [
+     "ENV S 156"
+    ]
+   ],
+   "name_zh": "A-3.3 建筑环境",
+   "note_zh": "以下完成 1 门"
+  },
+  {
+   "id": "b-1",
+   "name": "B-1",
+   "type": "elective",
+   "courses": [
+    "ENV S 101",
+    "ENV S 103A",
+    "ENV S 105",
+    "ENV S 111",
+    "ENV S 113",
+    "ENV S 114A",
+    "ENV S 114B",
+    "ENV S 115",
+    "ENV S 119",
+    "ENV S 120A",
+    "ENV S 120B",
+    "ENV S 121",
+    "ENV S 126",
+    "ENV S 128",
+    "ENV S 130C",
+    "ENV S 133",
+    "ENV S 134",
+    "ENV S 137",
+    "ENV S 140",
+    "ENV S 141",
+    "ENV S 142",
+    "ENV S 144",
+    "ENV S 145",
+    "ENV S 147",
+    "ENV S 148",
+    "ENV S 150",
+    "ENV S 152",
+    "ENV S 153",
+    "ENV S 154",
+    "ENV S 156",
+    "ENV S 162",
+    "ENV S 163A",
+    "ENV S 164",
+    "ENV S 166DC",
+    "ENV S 167",
+    "ENV S 168",
+    "ENV S 169",
+    "ENV S 171",
+    "ENV S 193CS",
+    "ENV S 193DD",
+    "ENV S 193DS",
+    "ENV S 193EB",
+    "ENV S 193ST",
+    "ENV S 197"
+   ],
+   "note": "32 UD Environmental Studies elective units not used in Area A, including at least 20 units from B-1 Minimum 20 units. Cross-listed courses may be taken through other departments.",
+   "options": [
+    [
+     "ENV S 101"
+    ],
+    [
+     "ENV S 103A"
+    ],
+    [
+     "ENV S 105"
+    ],
+    [
+     "ENV S 111"
+    ],
+    [
+     "ENV S 113"
+    ],
+    [
+     "ENV S 114A"
+    ],
+    [
+     "ENV S 114B"
+    ],
+    [
+     "ENV S 115"
+    ],
+    [
+     "ENV S 119"
+    ],
+    [
+     "ENV S 120A"
+    ],
+    [
+     "ENV S 120B"
+    ],
+    [
+     "ENV S 121"
+    ],
+    [
+     "ENV S 128"
+    ],
+    [
+     "ENV S 130C"
+    ],
+    [
+     "ENV S 133"
+    ],
+    [
+     "ENV S 134"
+    ],
+    [
+     "ENV S 137"
+    ],
+    [
+     "ENV S 140"
+    ],
+    [
+     "ENV S 141"
+    ],
+    [
+     "ENV S 142"
+    ],
+    [
+     "ENV S 144"
+    ],
+    [
+     "ENV S 145"
+    ],
+    [
+     "ENV S 147"
+    ],
+    [
+     "ENV S 148"
+    ],
+    [
+     "ENV S 150"
+    ],
+    [
+     "ENV S 152"
+    ],
+    [
+     "ENV S 153"
+    ],
+    [
+     "ENV S 154"
+    ],
+    [
+     "ENV S 156"
+    ],
+    [
+     "ENV S 162"
+    ],
+    [
+     "ENV S 163A"
+    ],
+    [
+     "ENV S 164"
+    ],
+    [
+     "ENV S 166DC"
+    ],
+    [
+     "ENV S 167"
+    ],
+    [
+     "ENV S 168"
+    ],
+    [
+     "ENV S 169"
+    ],
+    [
+     "ENV S 171"
+    ],
+    [
+     "ENV S 193CS"
+    ],
+    [
+     "ENV S 193DD"
+    ],
+    [
+     "ENV S 193DS",
+     "ENV S 126"
+    ],
+    [
+     "ENV S 193EB"
+    ],
+    [
+     "ENV S 193ST"
+    ],
+    [
+     "ENV S 197"
+    ]
+   ],
+   "name_zh": "B-1 专业选修（32 学分）",
+   "note_zh": "A 区未用过的 32 学分高年级环境研究选修，其中至少 20 学分来自 B-1；交叉开设课可通过其他系修读"
+  },
+  {
+   "id": "b-2",
+   "name": "B-2",
+   "type": "required",
+   "courses": [
+    "ENV S 192",
+    "ENV S 194",
+    "ENV S 199",
+    "ENV S 199RA"
+   ],
+   "note": "Complete one of the following. Any courses in upper-division Environmental Studies, with no more than 8 units combined and 4 units each from Environmental Studies 192, 194, 199, 199RA. MAJOR REGULATIONS PREREQUISITES Check the General Catalog for the prerequisites to all listed courses. P/NP GRADING OPTION Env S 190 must be taken P/NP, and up to 4 units of Env S 192 may be taken P/NP for major credit. All other courses, including those applied to the major from other departments must be taken for letter grades. SUBSTITUTIONS In the major requirements permissible only by petition to the department chair and dean. G.P.A REQUIREMENTS At least 2.0 overall UC average in all UD major courses and all courses (Prep and UD) for the major. DOUBLE MAJORS With the approval of each department chairperson, up to a total of 8 units may be applied simultaneously to upper-division areas A and/or B and the other upper-division major.",
+   "options": [
+    [
+     "ENV S 192"
+    ],
+    [
+     "ENV S 194"
+    ],
+    [
+     "ENV S 199"
+    ],
+    [
+     "ENV S 199RA"
+    ]
+   ],
+   "name_zh": "B-2（四选一）",
+   "note_zh": "以下完成 1 门；ENV S 192、194、199、199RA 合计最多 8 学分、每门最多 4 学分。专业课先修以 General Catalog 为准；ENV S 190 必须 P/NP，ENV S 192 最多 4 学分可 P/NP，其余专业课须字母成绩；替换须 petition 批准；高年级及全部专业课 UC 平均 ≥ 2.0；双专业最多 8 学分可双计。"
+  },
+  {
+   "id": "c-outside-concentration",
+   "name": "C. Outside Concentration",
+   "type": "elective",
+   "courses": [],
+   "note": "Complete 16 upper-division units by one of three options. Option 1: 16 upper-division units from one of the following departments. Course list is defined as a catalog course set; see the official program page for the courses in this area. Option 2: 16 units from the departments listed in Option 1 forming a coherent focus. A plan of study listing the courses to be taken must be approved by petition by the department chair. Students must consult a department advisor prior to starting this option. Option 3: Double major within one of the departments listed in Option 1 or with a BS major in the Psychological and Brian Sciences department. These 16 units would apply simultaneously to both Environmental Studies and the second major.",
+   "name_zh": "C. 校外集中方向（16 学分）",
+   "note_zh": "三选一：方案一，16 学分高年级课选自以下系之一（课程表以官方项目页的课程集为准）；方案二，16 学分选自方案一所列系、形成连贯方向，学习计划须经系主任 petition 批准、开始前须咨询系顾问；方案三，在方案一所列系之一或心理与脑科学 B.S. 双专业，16 学分可同时计入两个专业。"
+  }
+ ]
+}

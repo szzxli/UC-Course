@@ -124,5 +124,12 @@
   "degree": "B.S.",
   "file": "ucsb-mathematics.json",
   "requirement_count": 10
+ },
+ {
+  "campus": "UCSB",
+  "major": "Environmental Studies",
+  "degree": "B.S.",
+  "file": "ucsb-environmental-science.json",
+  "requirement_count": 18
  }
 ]

@@ -61,7 +61,7 @@ console.log("  CMPSC 16 prereqs:", JSON.stringify(full16 && full16.prerequisites
 console.log("== 4. UCSB 专业（major.html 加载路径） ==");
 const midx = load(path.join(WEB, "data/majors/index.json"));
 const ucsbMajors = midx.filter(m => m.campus === "UCSB");
-ok("6 UCSB majors in index", ucsbMajors.length === 6, "got " + ucsbMajors.length);
+ok("7 UCSB majors in index", ucsbMajors.length === 7, "got " + ucsbMajors.length);
 const cmapAll = {};
 INDEX.forEach(c => { cmapAll[norm(c.code)] = c; });
 let missingReqCourses = [];
