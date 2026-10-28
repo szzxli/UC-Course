@@ -34,7 +34,8 @@
   "campusLabel": "校區",
   "goPlan": "去排課 →",
   "segSearch": "查課",
-  "segPick": "智能選課"
+  "segPick": "智能選課",
+  "segMap": "先修地圖"
  },
  "index": {
   "campusHint": "目前支援三校：UCI、UCSD、UCSB，更多校區陸續接入。",
@@ -412,5 +413,11 @@
  "req": {
   "segMajor": "專業要求",
   "segGe": "通識要求"
+ },
+ "map": {
+  "title": "🗺️ 先修地圖",
+  "hint": "點一門課，只看它的先修鏈與後續課；再點一次取消。加入清單或標記已修後，地圖立即同步。",
+  "blocked": "被卡住",
+  "outside": "目錄外先修課程"
  }
 }

@@ -34,7 +34,8 @@
   "campusLabel": "Campus",
   "goPlan": "Ir a planificar →",
   "segSearch": "Buscar cursos",
-  "segPick": "Selector inteligente"
+  "segPick": "Selector inteligente",
+  "segMap": "Mapa de requisitos"
  },
  "index": {
   "campusHint": "Tres campus disponibles: UCI, UCSD, UCSB. Más campus en camino.",
@@ -412,5 +413,11 @@
  "req": {
   "segMajor": "Requisitos de la carrera",
   "segGe": "Requisitos GE"
+ },
+ "map": {
+  "title": "🗺️ Mapa de requisitos",
+  "hint": "Toca un curso para centrarte en su cadena de requisitos y en lo que desbloquea; toca de nuevo para limpiar. El mapa se actualiza en vivo cuando lo añades a tu plan o lo marcas como cursado.",
+  "blocked": "Bloqueado",
+  "outside": "Requisito fuera de este catálogo"
  }
 }

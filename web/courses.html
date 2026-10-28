@@ -16,6 +16,7 @@
 <div class="seg">
     <button data-seg="search" data-i18n="courses.segSearch">查课</button>
     <button data-seg="pick" data-i18n="courses.segPick">智能选课</button>
+    <button data-seg="map" data-i18n="courses.segMap">先修地图</button>
   </div>
 <section id="sec-search">
 <p class="hint" id="campusSub"></p>
@@ -66,6 +67,17 @@
   </div>
   <p class="hint" data-i18n="pick.honesty">先修按目录原文 and/or 解析；原文为空时按快照扁平列表任一满足处理。满足要求不代表课程一定开设、有名额，也不代表学校已确认毕业资格；选课前请以 GOLD / 学院官网复核。热门课（选课人数、候补数）暂无数据源，本页不显示热度。</p>
 
+</section>
+<section id="sec-map" hidden>
+  <h1 data-i18n="map.title">🗺️ 先修地图</h1>
+  <p class="hint" data-i18n="map.hint">点一门课，只看它的先修链与后续课；再点一次取消。加入清单或标记已修后，地图立即同步。</p>
+  <p class="hint" id="mapNote" hidden></p>
+  <p class="hint" id="mapLegend" hidden><span class="sw" style="background:#2e7d5b"></span><span data-i18n="major.chainHave">已修</span><span class="sw" style="background:#fff;border:2px solid #2e7d5b"></span><span data-i18n="major.chainPlanned">已在选课清单</span><span class="sw" style="background:#fff;border:1px solid #9aa39f"></span><span data-i18n="major.chainOk">可修：先修已满足</span><span class="sw" style="background:#f1f0ec;border:1px solid #c9c9c0"></span><span data-i18n="map.blocked">被卡住</span><span style="margin-left:12px">🔑</span><span data-i18n="pick.keyBadge">关键课：拖后会拖毕业</span></p>
+  <div id="mapWrap" hidden><svg id="mapSvg" xmlns="http://www.w3.org/2000/svg"></svg></div>
+  <div class="card" id="mapInfo" hidden>
+    <div class="section-title" id="mapInfoTitle"></div>
+    <div id="mapInfoBody"></div>
+  </div>
 </section>
 </div>
 <nav class="tabbar">
@@ -360,7 +372,7 @@ I18N.init().then(function () {
 </script>
 <script>
 (function(){
-  var SEGS = ["search", "pick"];
+  var SEGS = ["search", "pick", "map"];
   function show(id){
     SEGS.forEach(function(s){ document.getElementById("sec-"+s).hidden = (s !== id); });
     document.querySelectorAll("[data-seg]").forEach(function(b){ b.classList.toggle("on", b.dataset.seg === id); });
@@ -381,6 +393,291 @@ I18N.init().then(function () {
     I18N.initSwitcher("langSel");
     navActive("courses");
     show(fromHash());
+  });
+})();
+</script>
+<script>
+(function(){
+  /* 先修地图：试点专业的课程依赖图。节点 = 毕业要求课 ∪ 先修闭包；
+     边 = 先修关系（实线必修，虚线为“或选其一”中的备选）；
+     颜色 = 已修 / 已在选课清单 / 可修 / 被卡住；点节点聚焦整条链。
+     非试点专业如实标注未入库，不用不可靠的扁平先修字段画图。 */
+  var PILOT_MAP = {
+    "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
+    "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json"
+  };
+  var NW = 112, NH = 32, GX = 30, GY = 12, PAD = 12;
+  var builtFor = "", G = null, focusCode = "";
+  function isZh(){ var l = I18N.getLocale(); return l === "zh-CN" || l === "zh-TW"; }
+  function norm(c){ return Engine.normCode(c); }
+  function esc(s){ return Engine.esc(s); }
+  function haveSet(){
+    var h = Sget("have", {}), s = {}, out = {};
+    if (Array.isArray(h)) h.forEach(function(c){ out[norm(c)] = true; });
+    else Object.keys(h).forEach(function(c){ if (h[c]) out[norm(c)] = true; });
+    return out;
+  }
+  function plannedSet(){
+    var out = {};
+    Sget("myCourses", []).forEach(function(x){ if (x && x.code) out[norm(x.code)] = true; });
+    return out;
+  }
+  function treeOf(cat){
+    var raw = cat.prerequisites_raw || "";
+    var flat = (cat.prerequisites_courses || []).map(norm);
+    if (raw) {
+      var t = Engine.parsePrereq(raw);
+      if (t && !t.fallback) return t;
+    }
+    if (flat.length) return { op: "OR", items: flat.map(function(c){ return { code: c }; }) };
+    return null;
+  }
+  function walkLeaves(node, underOr, out){
+    if (!node) return;
+    if (node.code) { out.push({ code: norm(node.code), or: underOr }); return; }
+    if (node.wildcard !== undefined) return;
+    if (node.items) node.items.forEach(function(x){ walkLeaves(x, underOr || node.op === "OR", out); });
+  }
+  function treeText(t){
+    if (!t) return "";
+    if (t.code) return norm(t.code);
+    if (t.wildcard !== undefined) return "";
+    if (t.items) {
+      var parts = t.items.map(treeText).filter(function(x){ return !!x; });
+      var joiner = isZh() ? (t.op === "AND" ? " 且 " : " 或 ") : (t.op === "AND" ? " AND " : " OR ");
+      var inner = parts.join(joiner);
+      return t.op === "OR" ? "(" + inner + ")" : inner;
+    }
+    return "";
+  }
+  function setNote(text, show){
+    var n = document.getElementById("mapNote");
+    n.textContent = text || "";
+    n.hidden = !show;
+  }
+  function setVisible(show){
+    document.getElementById("mapLegend").hidden = !show;
+    document.getElementById("mapWrap").hidden = !show;
+    if (!show) document.getElementById("mapInfo").hidden = true;
+  }
+  function build(file){
+    builtFor = file;
+    focusCode = "";
+    setNote(I18N.t("major.chainLoading"), true);
+    setVisible(false);
+    var majorUrl = "data/majors/" + file, engUrl = PILOT_MAP[file];
+    Promise.all([fetch(majorUrl).then(function(r){ return r.json(); }), fetch(engUrl).then(function(r){ return r.json(); })]).then(function(res){
+      var major = res[0], cat = res[1];
+      var catByCode = {};
+      (cat.courses || []).forEach(function(c){ catByCode[norm(c.code)] = c; });
+      var reqCodes = {}, reqNames = {};
+      (major.requirements || []).forEach(function(req){
+        var codes = (req.courses || []).slice();
+        (req.options || []).forEach(function(g){ codes = codes.concat(g); });
+        var nm = (isZh() && req.name_zh) ? req.name_zh : req.name;
+        codes.forEach(function(c){
+          var k = norm(c);
+          reqCodes[k] = true;
+          if (!reqNames[k]) reqNames[k] = [];
+          if (reqNames[k].indexOf(nm) < 0) reqNames[k].push(nm);
+        });
+      });
+      var trees = {}, edges = {}, edgeList = [], dependents = {}, fanout = {};
+      var nodeSet = {};
+      Object.keys(reqCodes).forEach(function(k){ if (catByCode[k]) nodeSet[k] = true; });
+      var stack = Object.keys(nodeSet);
+      while (stack.length) {
+        var cur = stack.pop();
+        if (trees.hasOwnProperty(cur)) continue;
+        var cc = catByCode[cur];
+        var tr = cc ? treeOf(cc) : null;
+        trees[cur] = tr;
+        if (!tr) continue;
+        var leaves = [];
+        walkLeaves(tr, false, leaves);
+        leaves.forEach(function(l){
+          var key = l.code + "|" + cur;
+          if (edges[key] && edges[key].or && !l.or) edges[key].or = false;
+          if (!edges[key]) { edges[key] = { from: l.code, to: cur, or: l.or }; edgeList.push(edges[key]); }
+          if (!dependents[l.code]) dependents[l.code] = [];
+          if (dependents[l.code].indexOf(cur) < 0) dependents[l.code].push(cur);
+          if (!nodeSet[l.code]) { nodeSet[l.code] = true; if (catByCode[l.code]) stack.push(l.code); }
+        });
+      }
+      Object.keys(dependents).forEach(function(k){ fanout[k] = dependents[k].length; });
+      var depthMemo = {};
+      function depth(code, visiting){
+        if (depthMemo.hasOwnProperty(code)) return depthMemo[code];
+        if (visiting[code]) return 0;
+        visiting[code] = true;
+        var tr = trees[code], d = 0;
+        if (tr) {
+          var leaves = [];
+          walkLeaves(tr, false, leaves);
+          leaves.forEach(function(l){ var dd = depth(l.code, visiting) + 1; if (dd > d) d = dd; });
+        }
+        delete visiting[code];
+        depthMemo[code] = d;
+        return d;
+      }
+      var cols = {};
+      Object.keys(nodeSet).forEach(function(k){
+        var d = depth(k, {});
+        if (!cols[d]) cols[d] = [];
+        cols[d].push(k);
+      });
+      var colKeys = Object.keys(cols).map(function(x){ return +x; }).sort(function(a, b){ return a - b; });
+      var pos = {}, maxRows = 0;
+      colKeys.forEach(function(d){
+        cols[d].sort(function(a, b){
+          var ra = reqCodes[a] ? 0 : 1, rb = reqCodes[b] ? 0 : 1;
+          if (ra !== rb) return ra - rb;
+          return a < b ? -1 : (a > b ? 1 : 0);
+        });
+        if (cols[d].length > maxRows) maxRows = cols[d].length;
+        cols[d].forEach(function(k, i){ pos[k] = { x: PAD + d * (NW + GX), y: PAD + i * (NH + GY) }; });
+      });
+      G = { catByCode: catByCode, reqCodes: reqCodes, reqNames: reqNames, trees: trees,
+        edgeList: edgeList, dependents: dependents, fanout: fanout, pos: pos,
+        ncols: colKeys.length, maxRows: maxRows, dirty: false };
+      setNote("", false);
+      setVisible(true);
+      render();
+    }).catch(function(){
+      G = null;
+      setNote(I18N.t("major.chainLoadFail"), true);
+      setVisible(false);
+    });
+  }
+  function statusOf(code, have, planned){
+    if (have[code]) return "have";
+    if (planned[code]) return "planned";
+    var tr = G.trees[code];
+    if (!tr) return "ok";
+    var set = new Set(Object.keys(have));
+    return Engine.treeSatisfied(tr, set) ? "ok" : "blocked";
+  }
+  function focusSetFor(code){
+    var set = {};
+    set[code] = true;
+    var stack = [code];
+    while (stack.length) {
+      var cur = stack.pop();
+      (G.dependents[cur] || []).forEach(function(d){ if (!set[d]) { set[d] = true; stack.push(d); } });
+    }
+    var rev = {};
+    G.edgeList.forEach(function(e){ if (!rev[e.to]) rev[e.to] = []; rev[e.to].push(e.from); });
+    stack = [code];
+    while (stack.length) {
+      var cur2 = stack.pop();
+      (rev[cur2] || []).forEach(function(f){ if (!set[f]) { set[f] = true; stack.push(f); } });
+    }
+    return set;
+  }
+  function render(){
+    if (!G) return;
+    var have = haveSet(), planned = plannedSet();
+    var focusSet = focusCode ? focusSetFor(focusCode) : null;
+    var W = PAD * 2 + G.ncols * (NW + GX), H = PAD * 2 + G.maxRows * (NH + GY);
+    var s = "";
+    G.edgeList.forEach(function(e){
+      var p1 = G.pos[e.from], p2 = G.pos[e.to];
+      if (!p1 || !p2) return;
+      var dim = focusSet && (!focusSet[e.from] || !focusSet[e.to]);
+      s += '<line x1="' + (p1.x + NW) + '" y1="' + (p1.y + NH / 2) + '" x2="' + p2.x + '" y2="' + (p2.y + NH / 2) + '" stroke="#b9bdb8" stroke-width="1"' + (e.or ? ' stroke-dasharray="4 3"' : "") + (dim ? ' class="map-dim"' : "") + "/>";
+    });
+    var fills = { have: ["#2e7d5b", "none", "#ffffff"], planned: ["#ffffff", "#2e7d5b", "#132625"], ok: ["#ffffff", "#9aa39f", "#132625"], blocked: ["#f1f0ec", "#c9c9c0", "#8a8d88"] };
+    Object.keys(G.pos).forEach(function(code){
+      var p = G.pos[code], st = statusOf(code, have, planned), f = fills[st];
+      var dim = focusSet && !focusSet[code];
+      var focused = focusCode === code;
+      var sw = (st === "planned" || focused) ? 2 : 1;
+      var stroke = focused ? "#132625" : f[1];
+      var cat = G.catByCode[code];
+      var tip = esc(code) + (cat && cat.title ? " - " + esc(cat.title) : "");
+      s += '<g class="map-node' + (dim ? " map-dim" : "") + '" data-code="' + esc(code) + '"><title>' + tip + "</title>" +
+        '<rect x="' + p.x + '" y="' + p.y + '" width="' + NW + '" height="' + NH + '" rx="6" fill="' + f[0] + '" stroke="' + stroke + '" stroke-width="' + sw + '"/>' +
+        '<text x="' + (p.x + NW / 2) + '" y="' + (p.y + 20) + '" text-anchor="middle" font-size="12" font-weight="700" fill="' + f[2] + '">' + esc(code) + "</text>" +
+        ((G.fanout[code] || 0) >= 6 ? '<text x="' + (p.x + NW - 12) + '" y="' + (p.y + 12) + '" font-size="10">🔑</text>' : "") + "</g>";
+    });
+    var svg = document.getElementById("mapSvg");
+    svg.setAttribute("width", W);
+    svg.setAttribute("height", H);
+    svg.innerHTML = s;
+    svg.querySelectorAll(".map-node").forEach(function(g){
+      g.addEventListener("click", function(){
+        var code = g.getAttribute("data-code");
+        focusCode = (focusCode === code) ? "" : code;
+        render();
+        renderInfo(focusCode);
+      });
+    });
+    renderInfo(focusCode);
+  }
+  function renderInfo(code){
+    var box = document.getElementById("mapInfo");
+    if (!code || !G) { box.hidden = true; return; }
+    var cat = G.catByCode[code];
+    var have = haveSet(), planned = plannedSet();
+    var st = statusOf(code, have, planned);
+    var stText = st === "have" ? I18N.t("major.chainHave") : st === "planned" ? I18N.t("major.chainPlanned") : st === "ok" ? I18N.t("major.chainOk") : I18N.t("major.chainBlocked");
+    var title = esc(code) + (cat && cat.title ? " - " + esc(cat.title) : "") + (cat && cat.units ? " · " + esc(cat.units) + " units" : "");
+    var body = "";
+    body += "<p>" + esc(I18N.t("major.chainState")) + "：" + esc(stText);
+    if (st === "blocked") {
+      var tr = G.trees[code];
+      var miss = [];
+      if (tr) Engine.treeLeafCodes(tr, []).forEach(function(l){ var k = norm(l); if (!have[k] && miss.indexOf(k) < 0) miss.push(k); });
+      body += esc(miss.slice(0, 5).join("、")) + (miss.length > 5 ? "…" : "");
+    }
+    body += "</p>";
+    var preText;
+    if (!cat) preText = esc(I18N.t("map.outside"));
+    else if (!G.trees[code]) preText = esc(I18N.t("major.chainNoPre"));
+    else { var tt = treeText(G.trees[code]); preText = esc(tt || cat.prerequisites_raw || I18N.t("major.chainNoPre")); }
+    body += "<p>" + esc(I18N.t("major.chainPre")) + "：" + preText + "</p>";
+    var deps = G.dependents[code] || [];
+    body += "<p>" + esc(I18N.t("major.chainDown")) + "：" +
+      (deps.length ? esc(I18N.t("major.chainDownN", { n: deps.length })) + esc(deps.slice(0, 8).join("、")) : esc(I18N.t("major.chainDownNone"))) + "</p>";
+    var names = G.reqNames[code] || [];
+    body += "<p>" + esc(I18N.t("major.chainReqs")) + "：" + (names.length ? esc(names.slice(0, 3).join("、")) : esc(I18N.t("major.chainReqNone"))) + "</p>";
+    if ((G.fanout[code] || 0) >= 6) body += "<p>🔑 " + esc(I18N.t("pick.keyBadge")) + "</p>";
+    document.getElementById("mapInfoTitle").textContent = code + (cat && cat.title ? " - " + cat.title : "");
+    document.getElementById("mapInfoBody").innerHTML = body;
+    box.hidden = false;
+  }
+  function showMap(){
+    var file = Sget("major", "");
+    if (!PILOT_MAP[file]) {
+      G = null;
+      builtFor = "";
+      setNote(I18N.t("major.chainNoData"), true);
+      setVisible(false);
+      return;
+    }
+    if (file !== builtFor) build(file);
+    else if (G && G.dirty) { G.dirty = false; render(); }
+    else if (G) render();
+  }
+  function refreshMapStatus(){
+    if (!G) return;
+    if (document.getElementById("sec-map").hidden) { G.dirty = true; return; }
+    render();
+  }
+  if (!window.__mapSsetWrapped) {
+    window.__mapSsetWrapped = true;
+    var _origSset = Sset;
+    Sset = function(k, v){ _origSset(k, v); refreshMapStatus(); };
+  }
+  document.querySelectorAll("[data-seg]").forEach(function(b){
+    b.addEventListener("click", function(){ if (b.dataset.seg === "map") showMap(); });
+  });
+  window.addEventListener("hashchange", function(){
+    var h = (location.hash || "").replace("#", "").split("?")[0];
+    if (h === "map") showMap();
+  });
+  I18N.init().then(function(){
+    if ((location.hash || "").replace("#", "").split("?")[0] === "map") showMap();
   });
 })();
 </script>

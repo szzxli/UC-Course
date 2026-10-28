@@ -34,7 +34,8 @@
   "campusLabel": "Campus",
   "goPlan": "Go to planning →",
   "segSearch": "Search courses",
-  "segPick": "Smart picker"
+  "segPick": "Smart picker",
+  "segMap": "Prereq Map"
  },
  "index": {
   "campusHint": "Three campuses supported: UCI, UCSD, UCSB. More campuses on the way.",
@@ -412,5 +413,11 @@
  "req": {
   "segMajor": "Major requirements",
   "segGe": "GE requirements"
+ },
+ "map": {
+  "title": "🗺️ Prereq Map",
+  "hint": "Tap a course to focus on its prerequisite chain and what it unlocks; tap again to clear. The map updates live when you add to your plan or mark a course as taken.",
+  "blocked": "Blocked",
+  "outside": "Prerequisite from outside this catalog"
  }
 }
