@@ -78,7 +78,9 @@
   "pickTitle": "🧠 Smart course picker",
   "pickDesc": "What to take next term: key prerequisites first, shortest-path order (pilot: UCSB Environmental Studies).",
   "pickGo": "Pick courses →",
-  "pickDemo": "See a picker example →"
+  "pickDemo": "See a picker example →",
+  "chainTitle": "🧭 Follow in order",
+  "chainHint": "Once you've picked a campus and major, just follow these steps in order"
  },
  "nav": {
   "courses": "Courses",

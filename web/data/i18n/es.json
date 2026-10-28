@@ -78,7 +78,9 @@
   "pickTitle": "🧠 Selector inteligente",
   "pickDesc": "Qué cursar el próximo trimestre: prerrequisitos clave primero, orden de ruta más corta (piloto: Environmental Studies de UCSB).",
   "pickGo": "Elegir cursos →",
-  "pickDemo": "Ver un ejemplo →"
+  "pickDemo": "Ver un ejemplo →",
+  "chainTitle": "🧭 Sigue el orden",
+  "chainHint": "Una vez elegidos el campus y la carrera, sigue estos pasos en orden"
  },
  "nav": {
   "courses": "Cursos",

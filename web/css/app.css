@@ -117,3 +117,6 @@ body.has-selbar{padding-bottom:140px}
 /* hidden 即隐藏：.tag（inline-block）、.btn-row（flex）等自带 display 的 class 会盖掉浏览器对 hidden 的默认处理，
    此前导致“已有/已在选课计划/✓ 已完成”这类标签即使 hidden 也一直显示；全局规则一次性修掉 */
 [hidden]{display:none!important}
+.chain-step{padding:12px 0}
+.chain-step + .chain-step{border-top:1px solid var(--line)}
+.chain-step .step-title{font-weight:700;font-size:15px;margin-bottom:6px}

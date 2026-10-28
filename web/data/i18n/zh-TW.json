@@ -78,7 +78,9 @@
   "pickTitle": "🧠 智能選課",
   "pickDesc": "下學期先修什麼：關鍵先修優先、最短路徑排序（試點：UCSB 環境科學）。",
   "pickGo": "智能選課 →",
-  "pickDemo": "看看選課示例 →"
+  "pickDemo": "看看選課示例 →",
+  "chainTitle": "🧭 按順序走",
+  "chainHint": "選好校區和專業後，按下面順序走就行"
  },
  "nav": {
   "courses": "選課",

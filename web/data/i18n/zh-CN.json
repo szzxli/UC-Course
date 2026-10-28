@@ -78,7 +78,9 @@
   "pickTitle": "🧠 智能选课",
   "pickDesc": "下学期先修什么：关键先修优先、最短路径排序（试点：UCSB 环境科学）。",
   "pickGo": "智能选课 →",
-  "pickDemo": "看看选课示例 →"
+  "pickDemo": "看看选课示例 →",
+  "chainTitle": "🧭 按顺序走",
+  "chainHint": "选好校区和专业后，按下面顺序走就行"
  },
  "nav": {
   "courses": "选课",
