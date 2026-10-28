@@ -114,3 +114,6 @@ body.has-selbar{padding-bottom:140px}
 .foldmark{float:right;color:var(--muted);font-size:13px}
 .tag.done{background:var(--green-bg);color:#15803d}
 .selbar[hidden]{display:none!important}
+/* hidden 即隐藏：.tag（inline-block）、.btn-row（flex）等自带 display 的 class 会盖掉浏览器对 hidden 的默认处理，
+   此前导致“已有/已在选课计划/✓ 已完成”这类标签即使 hidden 也一直显示；全局规则一次性修掉 */
+[hidden]{display:none!important}
