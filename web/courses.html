@@ -362,6 +362,8 @@ I18N.init().then(function () {
     });
     Sset("myCourses", m);
     if (added > 0) {
+      document.getElementById("haveNote").textContent =
+        I18N.t("pick.haveNote", { n: have.length, p: m.length });
       document.getElementById("pickGoPlanBtn").hidden = false;
       this.textContent = I18N.t("pick.addedNote", { n: added });
     }
