@@ -125,6 +125,7 @@ body.has-selbar{padding-bottom:140px}
 .map-dim{opacity:.18}
 #mapWrap{overflow:auto;max-height:72vh;border:1px solid var(--line);border-radius:12px;background:#fff}
 #mapWrap svg{display:block}
+#mapSvg g, #mapSvg path{transition:opacity .15s}
 #mapFilters{margin:10px 0}
 #mapFilters label{margin-right:14px;white-space:nowrap}
 #mapFilters input{vertical-align:-1px}

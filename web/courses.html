@@ -586,7 +586,7 @@ I18N.init().then(function () {
     G.edgeList.forEach(function(e){ if (!rev[e.to]) rev[e.to] = []; rev[e.to].push(e.from); });
     var stack = [];
     Object.keys(G.nodeGroups).forEach(function(k){
-      if (G.nodeGroups[k].some(function(g){ return checked.indexOf(g) >= 0; })) { vis[k] = true; stack.push(k); }
+      if (G.depthMap.hasOwnProperty(k) && G.nodeGroups[k].some(function(g){ return checked.indexOf(g) >= 0; })) { vis[k] = true; stack.push(k); }
     });
     while (stack.length) {
       var cur = stack.pop();
@@ -629,13 +629,43 @@ I18N.init().then(function () {
       if (!cols[d]) cols[d] = [];
       cols[d].push(k);
     });
-    var pos = {}, maxRows = 0;
+    var posIdx = {};
     Object.keys(cols).forEach(function(d){
       cols[d].sort(function(a, b){
         var ra = G.reqCodes[a] ? 0 : 1, rb = G.reqCodes[b] ? 0 : 1;
         if (ra !== rb) return ra - rb;
         return a < b ? -1 : (a > b ? 1 : 0);
       });
+      cols[d].forEach(function(k, i){ posIdx[k] = i; });
+    });
+    /* barycenter 排序：同列节点按相邻列邻居的平均行位重排，减少边交叉（4 轮正反扫） */
+    var prereqsOf = {}, depsOf = {};
+    G.edgeList.forEach(function(e){
+      if (!vis[e.from] || !vis[e.to]) return;
+      if (!prereqsOf[e.to]) prereqsOf[e.to] = [];
+      prereqsOf[e.to].push(e.from);
+      if (!depsOf[e.from]) depsOf[e.from] = [];
+      depsOf[e.from].push(e.to);
+    });
+    var dKeys = Object.keys(cols).map(function(x){ return +x; }).sort(function(a, b){ return a - b; });
+    var iter, seq;
+    for (iter = 0; iter < 4; iter++) {
+      seq = (iter % 2 === 0) ? dKeys : dKeys.slice().reverse();
+      seq.forEach(function(d){
+        var layer = cols[d];
+        var keyed = layer.map(function(k){
+          var nbs = (iter % 2 === 0) ? (prereqsOf[k] || []) : (depsOf[k] || []);
+          var sum = 0, cnt = 0;
+          nbs.forEach(function(n){ if (posIdx[n] !== undefined) { sum += posIdx[n]; cnt++; } });
+          return { k: k, key: cnt ? sum / cnt : Infinity };
+        });
+        keyed.sort(function(a, b){ return a.key - b.key; });
+        cols[d] = keyed.map(function(x){ return x.k; });
+        cols[d].forEach(function(k, i){ posIdx[k] = i; });
+      });
+    }
+    var pos = {}, maxRows = 0;
+    Object.keys(cols).forEach(function(d){
       if (cols[d].length > maxRows) maxRows = cols[d].length;
       cols[d].forEach(function(k, i){
         pos[k] = { x: PAD + (+d) * (2 * R + GX) + R, y: PAD + i * (2 * R + GY) + R };
@@ -647,13 +677,15 @@ I18N.init().then(function () {
       var dx = p2.x - p1.x, dy = p2.y - p1.y, len = Math.sqrt(dx * dx + dy * dy) || 1;
       return { x1: p1.x + dx / len * R, y1: p1.y + dy / len * R, x2: p2.x - dx / len * R, y2: p2.y - dy / len * R };
     }
-    var s = '<defs><marker id="mapArr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8f9590"/></marker></defs><g id="mapZoom">';
+    var s = '<defs><marker id="mapArr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8f9590"/></marker><marker id="mapArrL" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#c2c7c2"/></marker></defs><g id="mapZoom">';
     G.edgeList.forEach(function(e){
       var p1 = pos[e.from], p2 = pos[e.to];
       if (!p1 || !p2) return;
       var pt = edgePt(p1, p2);
       var dim = focusSet && (!focusSet[e.from] || !focusSet[e.to]);
-      s += '<line x1="' + pt.x1 + '" y1="' + pt.y1 + '" x2="' + pt.x2 + '" y2="' + pt.y2 + '" stroke="#9aa39f" stroke-width="2"' + (e.or ? ' stroke-dasharray="5 4"' : "") + ' marker-end="url(#mapArr)"' + (dim ? ' class="map-dim"' : "") + "/>";
+      var mx = (pt.x1 + pt.x2) / 2;
+      var dd = "M " + pt.x1 + " " + pt.y1 + " C " + mx + " " + pt.y1 + " " + mx + " " + pt.y2 + " " + pt.x2 + " " + pt.y2;
+      s += '<path d="' + dd + '" data-from="' + esc(e.from) + '" data-to="' + esc(e.to) + '" fill="none" stroke="' + (e.or ? "#c2c7c2" : "#8f9590") + '" stroke-width="' + (e.or ? "1.5" : "2") + '"' + (e.or ? ' stroke-dasharray="5 4"' : "") + ' marker-end="url(#' + (e.or ? "mapArrL" : "mapArr") + ')"' + (dim ? ' class="map-dim"' : "") + "/>";
     });
     var fills = { have: ["#2e7d5b", "none", "#ffffff"], planned: ["#ffffff", "#2e7d5b", "#132625"], ok: ["#ffffff", "#9aa39f", "#132625"], blocked: ["#f1f0ec", "#c9c9c0", "#8a8d88"] };
     Object.keys(pos).forEach(function(code){
@@ -681,6 +713,19 @@ I18N.init().then(function () {
         focusCode = (focusCode === code) ? "" : code;
         render();
         renderInfo(focusCode);
+      });
+      g.addEventListener("mouseenter", function(){
+        var set = focusSetFor(g.getAttribute("data-code"));
+        svg.querySelectorAll(".map-node").forEach(function(n){
+          n.classList.toggle("map-dim", !set[n.getAttribute("data-code")]);
+        });
+        svg.querySelectorAll("path[data-from]").forEach(function(p){
+          p.classList.toggle("map-dim", !(set[p.getAttribute("data-from")] && set[p.getAttribute("data-to")]));
+        });
+      });
+      g.addEventListener("mouseleave", function(){
+        if (focusCode) render();
+        else svg.querySelectorAll(".map-dim").forEach(function(el){ el.classList.remove("map-dim"); });
       });
     });
     renderInfo(focusCode);
