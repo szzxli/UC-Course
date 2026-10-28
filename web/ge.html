@@ -74,8 +74,9 @@ function reqCardHTML(req) {
       g.map(function (c) { return '<div class="course-row"><b>' + esc(c) + "</b></div>"; }).join("") + "</div>";
   });
   if (!body && req.count != null) body = '<p class="hint">' + esc(I18N.t("ge.openPool", { n: req.count })) + "</p>";
-  return '<div class="card"><div class="section-title">' + reqTitleHTML(req) +
-    ' <span class="tag">' + reqTagHTML(req) + "</span></div>" + reqNoteHTML(req) + body + "</div>";
+  return '<div class="card ge-card"><div class="section-title ge-head">' + reqTitleHTML(req) +
+    ' <span class="tag">' + reqTagHTML(req) + "</span>" +
+    ' <span class="foldmark">▸</span></div><div class="gebody" hidden>' + reqNoteHTML(req) + body + "</div></div>";
 }
 function render(ge) {
   var h = "";
@@ -87,6 +88,15 @@ function render(ge) {
     (sec.requirements || []).forEach(function (req) { h += reqCardHTML(req); });
   });
   document.getElementById("geBody").innerHTML = h;
+  document.querySelectorAll("#geBody .ge-head").forEach(function (head) {
+    head.addEventListener("click", function () {
+      var bd = head.nextElementSibling;
+      if (!bd) return;
+      bd.hidden = !bd.hidden;
+      var fm = head.querySelector(".foldmark");
+      if (fm) fm.textContent = bd.hidden ? "▸" : "▾";
+    });
+  });
   var src = (ge.source_note || "") + " · " + I18N.t("ge.checked", { d: ge.checked || "" });
   if (ge.sources) {
     src += " · " + ge.sources.map(function (s) {
