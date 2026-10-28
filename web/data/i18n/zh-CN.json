@@ -6,7 +6,8 @@
     "major": "🎓 专业毕业要求",
     "traj": "🛤️ 我的进度",
     "ge": "📖 通识与毕业要求",
-    "engine": "🧠 智能排课引擎"
+    "engine": "🧠 智能排课引擎",
+    "status": "✅ 学业状态核验"
   },
   "courses": {
     "add": "＋ 加入我的选课",
@@ -67,7 +68,10 @@
     "engineGo": "自动排课 →",
     "engineDemo": "看看排课示例 →",
     "stepsMajor": "接下来：看毕业要求 → 选课 → 排学期",
-    "stepsNoMajor": "先查课，选好专业后：看毕业要求 → 选课 → 排学期"
+    "stepsNoMajor": "先查课，选好专业后：看毕业要求 → 选课 → 排学期",
+    "statusTitle": "✅ 学业状态核验",
+    "statusDesc": "先确认已修课程和转学分，排课才算得准。",
+    "statusGo": "去核验 →"
   },
   "nav": {
     "courses": "选课",
@@ -123,12 +127,14 @@
     "draftExportHead": "UC SmartPick 课表草稿 · {campus}",
     "scopeNote": "⚠️ 本评估只针对已选的 {n} 门课，未包含尚未选入的毕业要求（通识、专业其余课程等），不能当作整个学位的毕业结论。",
     "coverageLine": "已选 {u} 学分 / 学位总学分约 180（UC 学士学位通行总量）≈ {p}%",
-    "genEmpty": "清单是空的，先加几门课再回来生成排课。"
+    "genEmpty": "清单是空的，先加几门课再回来生成排课。",
+    "certNote": "结论基于目录数据估算：满足要求不代表课程一定开设、有名额，也不代表学校已确认毕业资格；选课前请以 GOLD / 学院官网复核。"
   },
   "sub": {
     "index": "选好校区和专业，告诉你毕业还差什么课、先修怎么排",
     "plan": "按先修顺序排课 · 自动计算",
-    "traj": "每一步选择，都是申请材料的素材"
+    "traj": "每一步选择，都是申请材料的素材",
+    "status": "确认一次，之后所有排课都按这份状态算"
   },
   "tips": {
     "grad": [
@@ -159,7 +165,8 @@
     "traj": "进度 · UC 智选",
     "transfer": "转学分导入 - UC 智选",
     "ge": "通识与毕业要求 · UC 智选",
-    "engine": "智能排课引擎 · UC 智选"
+    "engine": "智能排课引擎 · UC 智选",
+    "status": "学业状态核验 · UC 智选"
   },
   "warn": {
     "listSep": "、",
@@ -205,7 +212,9 @@
     "importBannerN": "🎓 已从转学分导入 {n} 门「已修」课，下方进度已更新。",
     "importBanner0": "🎓 转学分导入完成：所选课程之前已导入过，没有新增。",
     "goGe": "查看本校通识与毕业要求 →",
-    "goEngine": "智能排课引擎 →"
+    "goEngine": "智能排课引擎 →",
+    "countNote": "计数口径：要求卡上的数字 = 已修 + 已加入清单；只有标记“这门我有了”才算已修，加入清单仅表示计划修读。同一门课出现在多项要求中时，页面按要求分别计数，是否可重复计算以学院规定为准，请与学术顾问确认。",
+    "goStatus": "学业状态核验 →"
   },
   "traj": {
     "empty": "先去专业页把课加入清单，再回来生成进度",
@@ -287,6 +296,38 @@
     "fall": "秋季",
     "winter": "冬季",
     "spring": "春季",
-    "yearLabel": "第 {y} 年"
+    "yearLabel": "第 {y} 年",
+    "certText": "结论基于目录数据估算：满足要求不代表课程一定开设、有名额，也不代表学校已确认毕业资格；选课前请以 GOLD / 学院官网复核。",
+    "evidenceTitle": "依据",
+    "evidenceMajor": "专业要求：{c} 官方课程目录（核对 {d}）",
+    "evidenceMajorNoDate": "专业要求：{c} 官方课程目录",
+    "evidenceGe": "GE 双计映射：环境研究系 B.S. 计划（2022-08），以 GOLD 标注为准"
+  },
+  "status": {
+    "goCheck": "去核验 →",
+    "baseTitle": "基本信息",
+    "campusLabel": "校区",
+    "majorLabel": "专业",
+    "major2Label": "第二专业",
+    "goalLabel": "目标",
+    "noMajor": "未选择",
+    "noMajor2": "无",
+    "haveTitle": "已修与转学分",
+    "haveCount": "已修 {n} 门",
+    "haveNone": "还没有标记任何已修课程",
+    "ccLabel": "转学分来源",
+    "ccNone": "未导入",
+    "ccNote": "导入的课程已计入已修。",
+    "remindTitle": "待确认",
+    "remindHave": "还没有标记已修课程：排课将按全部未修计算。如果你已修过课，请先去专业页标记。",
+    "remindMajor": "还没有选专业，请先去首页选择。",
+    "confirmTitle": "确认",
+    "stateOk": "已核验于 {t}",
+    "stateStale": "状态已变化，上次核验于 {t}，请重新核验",
+    "stateNone": "尚未核验",
+    "confirmBtn": "确认当前状态无误",
+    "reconfirmBtn": "重新核验",
+    "goMajor": "去专业页 →",
+    "goHome": "去首页 →"
   }
 }

@@ -6,7 +6,8 @@
     "major": "🎓 Major Requirements",
     "traj": "🛤️ My Progress",
     "ge": "📖 GE & Graduation Requirements",
-    "engine": "🧠 Smart Scheduler"
+    "engine": "🧠 Smart Scheduler",
+    "status": "✅ Academic status check"
   },
   "courses": {
     "add": "+ Add to my courses",
@@ -67,7 +68,10 @@
     "engineGo": "Auto-schedule →",
     "engineDemo": "See a sample schedule →",
     "stepsMajor": "Next: degree requirements → pick courses → plan terms",
-    "stepsNoMajor": "Browse courses first; once you've picked a major: requirements → pick courses → plan terms"
+    "stepsNoMajor": "Browse courses first; once you've picked a major: requirements → pick courses → plan terms",
+    "statusTitle": "✅ Academic status check",
+    "statusDesc": "Confirm your completed courses and transfer credits first — plans are only as good as this baseline.",
+    "statusGo": "Check now →"
   },
   "nav": {
     "courses": "Courses",
@@ -123,12 +127,14 @@
     "draftExportHead": "UC SmartPick schedule draft · {campus}",
     "scopeNote": "⚠️ This assessment covers only the {n} course(s) you selected. Requirements you haven't added (GE, remaining major courses, etc.) are not included — it is not a verdict for the whole degree.",
     "coverageLine": "Selected: {u} units / ~180 total for a UC bachelor's degree ≈ {p}%",
-    "genEmpty": "Your list is empty — add some courses first, then generate a plan."
+    "genEmpty": "Your list is empty — add some courses first, then generate a plan.",
+    "certNote": "This plan is an estimate from catalog data: satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed your graduation eligibility. Recheck GOLD / the department site before enrolling."
   },
   "sub": {
     "index": "Pick your campus and major — see what's left for graduation and how prerequisites chain",
     "plan": "Prerequisite-ordered planning · automatic",
-    "traj": "Every choice becomes application material"
+    "traj": "Every choice becomes application material",
+    "status": "Confirm once — every plan after that uses this baseline"
   },
   "tips": {
     "grad": [
@@ -159,7 +165,8 @@
     "traj": "Progress · UC SmartPick",
     "transfer": "Transfer Credit Import - UC SmartPick",
     "ge": "GE & Graduation Requirements · UC SmartPick",
-    "engine": "Smart Scheduler · UC SmartPick"
+    "engine": "Smart Scheduler · UC SmartPick",
+    "status": "Academic status check · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -205,7 +212,9 @@
     "importBannerN": "🎓 Imported {n} completed course(s) from transfer credits — the progress below is updated.",
     "importBanner0": "🎓 Transfer import finished: the selected courses were already imported, nothing new was added.",
     "goGe": "View campus GE & graduation requirements →",
-    "goEngine": "Smart Scheduler →"
+    "goEngine": "Smart Scheduler →",
+    "countNote": "How counts work: each requirement card counts completed + planned courses. Only courses you marked 'I have this' count as completed; adding to your list only means you plan to take it. If one course appears under several requirements, the page counts it under each; whether it can double-count follows department rules — confirm with an academic advisor.",
+    "goStatus": "Academic status check →"
   },
   "traj": {
     "empty": "Add courses from the Major tab first",
@@ -287,6 +296,38 @@
     "fall": "Fall",
     "winter": "Winter",
     "spring": "Spring",
-    "yearLabel": "Year {y}"
+    "yearLabel": "Year {y}",
+    "certText": "This plan is an estimate from catalog data: satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed your graduation eligibility. Recheck GOLD / the department site before enrolling.",
+    "evidenceTitle": "Sources",
+    "evidenceMajor": "Major requirements: {c} official catalog (checked {d})",
+    "evidenceMajorNoDate": "Major requirements: {c} official catalog",
+    "evidenceGe": "GE double-count mapping: Environmental Studies B.S. plan (2022-08); GOLD labels prevail"
+  },
+  "status": {
+    "goCheck": "Check now →",
+    "baseTitle": "Basics",
+    "campusLabel": "Campus",
+    "majorLabel": "Major",
+    "major2Label": "Second major",
+    "goalLabel": "Goal",
+    "noMajor": "Not selected",
+    "noMajor2": "None",
+    "haveTitle": "Completed & transfer credits",
+    "haveCount": "{n} completed",
+    "haveNone": "No completed courses marked yet",
+    "ccLabel": "Transfer source",
+    "ccNone": "Not imported",
+    "ccNote": "Imported courses are included in completed.",
+    "remindTitle": "To confirm",
+    "remindHave": "No completed courses marked yet: plans will assume nothing is done. If you've finished courses, mark them on the major page first.",
+    "remindMajor": "No major selected yet — pick one on the homepage first.",
+    "confirmTitle": "Confirm",
+    "stateOk": "Checked on {t}",
+    "stateStale": "Status changed since your last check ({t}) — please re-check",
+    "stateNone": "Not checked yet",
+    "confirmBtn": "Confirm current status",
+    "reconfirmBtn": "Re-check",
+    "goMajor": "Go to major page →",
+    "goHome": "Go to homepage →"
   }
 }

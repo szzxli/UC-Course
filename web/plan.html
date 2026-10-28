@@ -26,6 +26,8 @@
     </div>
     <div id="tAssess" style="margin-top:10px"></div>
     <p class="hint" data-i18n="plan.assessNote" style="margin-top:8px">压力值为估算（1学分≈每周3小时）；先修链按课程数据计算。</p>
+    <p class="hint" data-i18n="plan.certNote" style="margin-top:8px">结论基于目录数据估算：满足要求不代表课程一定开设、有名额，也不代表学校已确认毕业资格；选课前请以 GOLD / 学院官网复核。</p>
+    <p class="hint" id="statusLine" style="margin-top:8px"></p>
   </div>
   <div class="card">
     <div class="section-title"><span data-i18n="plan.myTitle">📋 我的选课</span>（<span id="cnt">0</span> <span data-i18n="plan.unitCourses">门</span>）</div>
@@ -207,6 +209,21 @@ function renderMine() {
     });
   });
 }
+function renderStatusLine() {
+  var st = statusState();
+  var el = document.getElementById("statusLine");
+  if (!el) return;
+  function fmt(at) { try { return new Date(at).toLocaleString(); } catch (e) { return at; } }
+  if (st.state === "ok") {
+    el.textContent = I18N.t("status.stateOk", { t: fmt(st.at) });
+  } else if (st.state === "stale") {
+    el.innerHTML = esc(I18N.t("status.stateStale", { t: fmt(st.at) })) +
+      ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
+  } else {
+    el.innerHTML = esc(I18N.t("status.stateNone")) +
+      ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
+  }
+}
 function renderTips() {
   var g = Sget("goal", "undecided");
   var tips = I18N.t("tips." + g);
@@ -272,6 +289,7 @@ function renderTimeline() {
 I18N.init().then(function () {
   I18N.initSwitcher("langSel");
   navActive("plan");
+  renderStatusLine();
   var U = I18N.t("courses.units");
   document.getElementById("maxU").innerHTML = [16, 19, 12].map(function (v) {
     return '<option value="' + v + '">' + v + ' ' + esc(U) + '</option>';

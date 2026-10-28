@@ -29,6 +29,7 @@
     <div class="field"><label class="checkwrap"><input type="checkbox" id="langChk">
       <span data-i18n="engine.langLabel">外语需在 UCSB 修课（+3 门，学位总学分 184）</span></label></div>
     <p class="hint" id="haveNote"></p>
+    <p class="hint" id="statusLine"></p>
     <div class="btn-row"><button class="btn" id="runBtn" data-i18n="engine.runBtn">生成排课 →</button></div>
   </div>
   <div id="result"></div>
@@ -66,13 +67,15 @@ function render(plan, input) {
     var avg = (plan.totalUnits / plan.terms.length).toFixed(1);
     h += '<div class="card"><div class="section-title">' +
       esc(I18N.t("engine.verdictOk", { y: plan.years })) + "</div>" +
-      '<p class="hint">' + esc(I18N.t("engine.totalLine", { t: plan.totalUnits, n: plan.terms.length, a: avg })) + "</p></div>";
+      '<p class="hint">' + esc(I18N.t("engine.totalLine", { t: plan.totalUnits, n: plan.terms.length, a: avg })) + "</p>" +
+      '<p class="hint">' + esc(I18N.t("engine.certText")) + "</p></div>";
   } else {
     h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.verdictFail")) + "</div>" +
       '<p class="hint">' + esc(I18N.t("engine.failDetail", {
         u: plan.unscheduled.length, extra: plan.extraTerms, cp: plan.criticalPathTerms, ml: plan.minTermsByLoad
       })) + "</p>" +
-      '<p class="hint">' + esc(plan.unscheduled.slice(0, 12).join("、")) + "</p></div>";
+      '<p class="hint">' + esc(plan.unscheduled.slice(0, 12).join("、")) + "</p>" +
+      '<p class="hint">' + esc(I18N.t("engine.certText")) + "</p></div>";
   }
   plan.terms.forEach(function (t, i) {
     if (!t.courses.length) return;
@@ -106,6 +109,13 @@ function render(plan, input) {
   h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.warningsTitle")) + "</div>";
   plan.warnings.forEach(function (w) { h += '<p class="hint">· ' + esc(w) + "</p>"; });
   h += "</div>";
+  h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.evidenceTitle")) + "</div>";
+  if (typeof MAJOR !== "undefined" && MAJOR) {
+    h += '<p class="hint">' + esc(MAJOR.checked
+      ? I18N.t("engine.evidenceMajor", { c: MAJOR.campus || "UCSB", d: MAJOR.checked })
+      : I18N.t("engine.evidenceMajorNoDate", { c: MAJOR.campus || "UCSB" })) + "</p>";
+  }
+  h += '<p class="hint">' + esc(I18N.t("engine.evidenceGe")) + "</p></div>";
   box.innerHTML = h;
 }
 I18N.init().then(function () {
@@ -121,6 +131,20 @@ I18N.init().then(function () {
   var have = demo ? [] : getHave();
   document.getElementById("haveNote").textContent =
     I18N.t("engine.haveNote", { n: have.length });
+  (function renderEngineStatusLine() {
+    var st = statusState();
+    var el = document.getElementById("statusLine");
+    function fmt(at) { try { return new Date(at).toLocaleString(); } catch (e) { return at; } }
+    if (st.state === "ok") {
+      el.textContent = I18N.t("status.stateOk", { t: fmt(st.at) });
+    } else if (st.state === "stale") {
+      el.innerHTML = esc(I18N.t("status.stateStale", { t: fmt(st.at) })) +
+        ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
+    } else {
+      el.innerHTML = esc(I18N.t("status.stateNone")) +
+        ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
+    }
+  })();
   Promise.all([
     fetch("data/majors/ucsb-environmental-science.json").then(function (r) { return r.json(); }),
     fetch("data/engine/ucsb-es.json").then(function (r) { return r.json(); })
@@ -137,6 +161,16 @@ I18N.init().then(function () {
       };
       var plan = Engine.buildPlan(input, { major: MAJOR, catalog: CATALOG });
       render(plan, input);
+      /* 规划版本快照（B8 地基，上限 10 条；示例模式不存） */
+      if (!demo) {
+        var vs = Sget("planVersions", []);
+        vs.unshift({
+          at: new Date().toISOString(),
+          input: { years: input.years, maxUnits: input.maxUnits, startTerm: input.startTerm, langAtUCSB: input.langAtUCSB },
+          feasible: plan.feasible, totalUnits: plan.totalUnits, terms: plan.terms.length
+        });
+        Sset("planVersions", vs.slice(0, 10));
+      }
     });
     if (demo) document.getElementById("runBtn").click();
   });

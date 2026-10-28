@@ -6,7 +6,8 @@
     "major": "🎓 專業畢業要求",
     "traj": "🛤️ 我的進度",
     "ge": "📖 通識與畢業要求",
-    "engine": "🧠 智能排課引擎"
+    "engine": "🧠 智能排課引擎",
+    "status": "✅ 學業狀態核驗"
   },
   "courses": {
     "add": "＋ 加入我的選課",
@@ -67,7 +68,10 @@
     "engineGo": "自動排課 →",
     "engineDemo": "看看排課範例 →",
     "stepsMajor": "接下來：看畢業要求 → 選課 → 排學期",
-    "stepsNoMajor": "先查課，選好專業後：看畢業要求 → 選課 → 排學期"
+    "stepsNoMajor": "先查課，選好專業後：看畢業要求 → 選課 → 排學期",
+    "statusTitle": "✅ 學業狀態核驗",
+    "statusDesc": "先確認已修課程和轉學分，排課才算得準。",
+    "statusGo": "去核驗 →"
   },
   "nav": {
     "courses": "選課",
@@ -123,12 +127,14 @@
     "draftExportHead": "UC SmartPick 課表草稿 · {campus}",
     "scopeNote": "⚠️ 本評估只針對已選的 {n} 門課，未包含尚未選入的畢業要求（通識、專業其餘課程等），不能當作整個學位的畢業結論。",
     "coverageLine": "已選 {u} 學分 / 學位總學分約 180（UC 學士學位通行總量）≈ {p}%",
-    "genEmpty": "清單是空的，先加幾門課再回來生成排課。"
+    "genEmpty": "清單是空的，先加幾門課再回來生成排課。",
+    "certNote": "結論基於目錄資料估算：滿足要求不代表課程一定開設、有名額，也不代表學校已確認畢業資格；選課前請以 GOLD / 學院官網複核。"
   },
   "sub": {
     "index": "選好校區和專業，告訴你畢業還差什麼課、先修怎麼排",
     "plan": "按先修順序排課 · 自動計算",
-    "traj": "每一步選擇，都是申請材料的素材"
+    "traj": "每一步選擇，都是申請材料的素材",
+    "status": "確認一次，之後所有排課都按這份狀態算"
   },
   "tips": {
     "grad": [
@@ -159,7 +165,8 @@
     "traj": "進度 · UC 智選",
     "transfer": "轉學分導入 - UC 智選",
     "ge": "通識與畢業要求 · UC 智選",
-    "engine": "智能排課引擎 · UC 智選"
+    "engine": "智能排課引擎 · UC 智選",
+    "status": "學業狀態核驗 · UC 智選"
   },
   "warn": {
     "listSep": "、",
@@ -205,7 +212,9 @@
     "importBannerN": "🎓 已從轉學分導入 {n} 門「已修」課，下方進度已更新。",
     "importBanner0": "🎓 轉學分導入完成：所選課程之前已導入過，沒有新增。",
     "goGe": "查看本校通識與畢業要求 →",
-    "goEngine": "智能排課引擎 →"
+    "goEngine": "智能排課引擎 →",
+    "countNote": "計數口徑：要求卡上的數字 = 已修 + 已加入清單；只有標記「這門我有了」才算已修，加入清單僅表示計劃修讀。同一門課出現在多項要求中時，頁面按要求分別計數，是否可重複計算以學院規定為準，請與學術顧問確認。",
+    "goStatus": "學業狀態核驗 →"
   },
   "traj": {
     "empty": "先去專業頁把課加入清單，再回來生成進度",
@@ -287,6 +296,38 @@
     "fall": "秋季",
     "winter": "冬季",
     "spring": "春季",
-    "yearLabel": "第 {y} 年"
+    "yearLabel": "第 {y} 年",
+    "certText": "結論基於目錄資料估算：滿足要求不代表課程一定開設、有名額，也不代表學校已確認畢業資格；選課前請以 GOLD / 學院官網複核。",
+    "evidenceTitle": "依據",
+    "evidenceMajor": "專業要求：{c} 官方課程目錄（核對 {d}）",
+    "evidenceMajorNoDate": "專業要求：{c} 官方課程目錄",
+    "evidenceGe": "GE 雙計映射：環境研究系 B.S. 計劃（2022-08），以 GOLD 標註為準"
+  },
+  "status": {
+    "goCheck": "去核驗 →",
+    "baseTitle": "基本資訊",
+    "campusLabel": "校區",
+    "majorLabel": "專業",
+    "major2Label": "第二專業",
+    "goalLabel": "目標",
+    "noMajor": "未選擇",
+    "noMajor2": "無",
+    "haveTitle": "已修與轉學分",
+    "haveCount": "已修 {n} 門",
+    "haveNone": "還沒有標記任何已修課程",
+    "ccLabel": "轉學分來源",
+    "ccNone": "未導入",
+    "ccNote": "導入的課程已計入已修。",
+    "remindTitle": "待確認",
+    "remindHave": "還沒有標記已修課程：排課將按全部未修計算。如果你已修過課，請先去專業頁標記。",
+    "remindMajor": "還沒有選專業，請先去首頁選擇。",
+    "confirmTitle": "確認",
+    "stateOk": "已核驗於 {t}",
+    "stateStale": "狀態已變化，上次核驗於 {t}，請重新核驗",
+    "stateNone": "尚未核驗",
+    "confirmBtn": "確認當前狀態無誤",
+    "reconfirmBtn": "重新核驗",
+    "goMajor": "去專業頁 →",
+    "goHome": "去首頁 →"
   }
 }

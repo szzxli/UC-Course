@@ -6,7 +6,8 @@
     "major": "🎓 Requisitos de la carrera",
     "traj": "🛤️ Mi progreso",
     "ge": "📖 GE y requisitos de graduación",
-    "engine": "🧠 Planificador inteligente"
+    "engine": "🧠 Planificador inteligente",
+    "status": "✅ Verificación de estado académico"
   },
   "courses": {
     "add": "+ Añadir a mis cursos",
@@ -67,7 +68,10 @@
     "engineGo": "Planificar automáticamente →",
     "engineDemo": "Ver un horario de ejemplo →",
     "stepsMajor": "Siguiente: requisitos → elegir cursos → planificar trimestres",
-    "stepsNoMajor": "Primero explora cursos; al elegir carrera: requisitos → elegir cursos → planificar trimestres"
+    "stepsNoMajor": "Primero explora cursos; al elegir carrera: requisitos → elegir cursos → planificar trimestres",
+    "statusTitle": "✅ Verificación de estado académico",
+    "statusDesc": "Confirma primero tus cursos completados y créditos transferidos: los planes solo son tan buenos como esta base.",
+    "statusGo": "Verificar →"
   },
   "nav": {
     "courses": "Cursos",
@@ -123,12 +127,14 @@
     "draftExportHead": "Borrador UC SmartPick · {campus}",
     "scopeNote": "⚠️ Esta evaluación cubre solo los {n} curso(s) que seleccionaste. Los requisitos no agregados (GE, cursos restantes de la carrera, etc.) no están incluidos: no es un veredicto para todo el título.",
     "coverageLine": "Seleccionado: {u} unidades / ~180 total de una licenciatura UC ≈ {p}%",
-    "genEmpty": "Tu lista está vacía: agrega algunos cursos primero y luego genera el horario."
+    "genEmpty": "Tu lista está vacía: agrega algunos cursos primero y luego genera el horario.",
+    "certNote": "Este plan es una estimación con datos del catálogo: cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado tu elegibilidad para graduarte. Verifica en GOLD / el sitio del departamento antes de inscribirte."
   },
   "sub": {
     "index": "Elige campus y carrera: verás qué te falta para graduarte y cómo se encadenan los prerrequisitos",
     "plan": "Horario en orden de prerrequisitos · automático",
-    "traj": "Cada elección es material para tu solicitud"
+    "traj": "Cada elección es material para tu solicitud",
+    "status": "Confirma una vez: todos los planes posteriores usarán esta base"
   },
   "tips": {
     "grad": [
@@ -159,7 +165,8 @@
     "traj": "Progreso · UC SmartPick",
     "transfer": "Importar créditos - UC SmartPick",
     "ge": "GE y requisitos de graduación · UC SmartPick",
-    "engine": "Planificador inteligente · UC SmartPick"
+    "engine": "Planificador inteligente · UC SmartPick",
+    "status": "Verificación de estado · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -205,7 +212,9 @@
     "importBannerN": "🎓 Se importaron {n} curso(s) completado(s) desde créditos de transferencia: el progreso de abajo está actualizado.",
     "importBanner0": "🎓 Importación terminada: los cursos seleccionados ya estaban importados, no hay novedades.",
     "goGe": "Ver GE y requisitos de graduación del campus →",
-    "goEngine": "Planificador inteligente →"
+    "goEngine": "Planificador inteligente →",
+    "countNote": "Cómo se cuenta: cada tarjeta de requisito cuenta cursos completados + planificados. Solo los marcados como 'ya lo tengo' cuentan como completados; añadir a la lista solo significa que planeas cursarlo. Si un curso aparece en varios requisitos, la página lo cuenta en cada uno; si puede contar dos veces depende del departamento — confírmalo con un asesor académico.",
+    "goStatus": "Verificación de estado →"
   },
   "traj": {
     "empty": "Añade cursos desde la pestaña Carrera primero",
@@ -287,6 +296,38 @@
     "fall": "Otoño",
     "winter": "Invierno",
     "spring": "Primavera",
-    "yearLabel": "Año {y}"
+    "yearLabel": "Año {y}",
+    "certText": "Este plan es una estimación con datos del catálogo: cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado tu elegibilidad para graduarte. Verifica en GOLD / el sitio del departamento antes de inscribirte.",
+    "evidenceTitle": "Fuentes",
+    "evidenceMajor": "Requisitos de la carrera: catálogo oficial de {c} (revisado {d})",
+    "evidenceMajorNoDate": "Requisitos de la carrera: catálogo oficial de {c}",
+    "evidenceGe": "Doble conteo GE: plan B.S. de Environmental Studies (2022-08); prevalecen las etiquetas GOLD"
+  },
+  "status": {
+    "goCheck": "Verificar →",
+    "baseTitle": "Datos básicos",
+    "campusLabel": "Campus",
+    "majorLabel": "Carrera",
+    "major2Label": "Segunda carrera",
+    "goalLabel": "Meta",
+    "noMajor": "Sin elegir",
+    "noMajor2": "Ninguna",
+    "haveTitle": "Completados y transferencias",
+    "haveCount": "{n} completados",
+    "haveNone": "Aún no hay cursos completados marcados",
+    "ccLabel": "Fuente de transferencia",
+    "ccNone": "No importada",
+    "ccNote": "Los cursos importados ya están incluidos en completados.",
+    "remindTitle": "Por confirmar",
+    "remindHave": "Aún no hay cursos completados marcados: los planes asumirán que no has hecho ninguno. Si ya cursaste algo, márcalo primero en la página de la carrera.",
+    "remindMajor": "Aún no elegiste carrera: elígela primero en la página principal.",
+    "confirmTitle": "Confirmar",
+    "stateOk": "Verificado el {t}",
+    "stateStale": "El estado cambió desde tu última verificación ({t}): vuelve a verificar",
+    "stateNone": "Aún sin verificar",
+    "confirmBtn": "Confirmar estado actual",
+    "reconfirmBtn": "Volver a verificar",
+    "goMajor": "Ir a la página de la carrera →",
+    "goHome": "Ir a la página principal →"
   }
 }

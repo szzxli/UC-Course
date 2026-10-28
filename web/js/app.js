@@ -5,6 +5,28 @@ function Sget(k, fb) { try { var v = localStorage.getItem(LS + k); return v === 
 function Sset(k, v) { try { localStorage.setItem(LS + k, JSON.stringify(v)); } catch (e) {} }
 function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
 function navActive(p) { document.querySelectorAll(".tabbar a").forEach(function (a) { a.classList.toggle("active", a.dataset.page === p); }); }
+/* 学业状态核验（B2）：基线指纹 = 校区/专业/第二专业/目标/已修数/转学分来源；不含选课草稿 */
+function statusFingerprint() {
+  var have = Sget("have", {});
+  return {
+    campus: Sget("campus", "UCI"),
+    major: Sget("major", ""),
+    major2: Sget("major2", ""),
+    goal: Sget("goal", "undecided"),
+    haveCount: Object.keys(have || {}).length,
+    transferCC: Sget("transferCC", "")
+  };
+}
+function statusSameFp(a, b) {
+  return a && b && a.campus === b.campus && a.major === b.major && a.major2 === b.major2 &&
+    a.goal === b.goal && a.haveCount === b.haveCount && a.transferCC === b.transferCC;
+}
+/* 返回 {state: "none"|"ok"|"stale", at} */
+function statusState() {
+  var s = Sget("statusCheck", null);
+  if (!s || !s.fp) return { state: "none", at: null };
+  return statusSameFp(s.fp, statusFingerprint()) ? { state: "ok", at: s.at } : { state: "stale", at: s.at };
+}
 /* 课号归一化：MAE 08 -> MAE 8 */
 function normCode(code) { return String(code || "").trim().replace(/\b0+(\d)/g, "$1").replace(/\s+/g, " "); }
 /* 学分解析：区间取上限 "2-4" -> 4 */
