@@ -71,7 +71,11 @@
     "stepsNoMajor": "Primero explora cursos; al elegir carrera: requisitos → elegir cursos → planificar trimestres",
     "statusTitle": "✅ Verificación de estado académico",
     "statusDesc": "Confirma primero tus cursos completados y créditos transferidos: los planes solo son tan buenos como esta base.",
-    "statusGo": "Verificar →"
+    "statusGo": "Verificar →",
+    "pickTitle": "🧠 Selector inteligente",
+    "pickDesc": "Qué cursar el próximo trimestre: prerrequisitos clave primero, orden de ruta más corta (piloto: Environmental Studies de UCSB).",
+    "pickGo": "Elegir cursos →",
+    "pickDemo": "Ver un ejemplo →"
   },
   "nav": {
     "courses": "Cursos",
@@ -214,7 +218,8 @@
     "goGe": "Ver GE y requisitos de graduación del campus →",
     "goEngine": "Planificador inteligente →",
     "countNote": "Cómo se cuenta: cada tarjeta de requisito cuenta cursos completados + planificados. Solo los marcados como 'ya lo tengo' cuentan como completados; añadir a la lista solo significa que planeas cursarlo. Si un curso aparece en varios requisitos, la página lo cuenta en cada uno; si puede contar dos veces depende del departamento — confírmalo con un asesor académico.",
-    "goStatus": "Verificación de estado →"
+    "goStatus": "Verificación de estado →",
+    "goPick": "Selector inteligente →"
   },
   "traj": {
     "empty": "Añade cursos desde la pestaña Carrera primero",
@@ -329,5 +334,33 @@
     "reconfirmBtn": "Volver a verificar",
     "goMajor": "Ir a la página de la carrera →",
     "goHome": "Ir a la página principal →"
+  },
+  "pick": {
+    "title": "Selector inteligente",
+    "sub": "Qué cursar el próximo trimestre: prerrequisitos clave primero, orden de ruta más corta, con equivalencias y rutas alternativas.",
+    "pilotNote": "Alcance piloto: solo Environmental Studies (B.S.) de UCSB; el ejemplo es para esa carrera.",
+    "demoNote": "Ejemplo: no se usan tus cursos completados; solo demuestra la lógica de recomendación.",
+    "capLabel": "Límite de unidades del próximo trimestre",
+    "haveNote": "Calculado con tus {n} cursos completados; {p} más ya están en tu lista y no se recomiendan de nuevo.",
+    "recTitle": "Listos para este trimestre (por importancia)",
+    "blockedTitle": "Bloqueados por prerrequisitos",
+    "keyBadge": "Curso clave: retrasarlo retrasa la graduación",
+    "unlocks": "Desbloquea {n} cursos posteriores",
+    "criticalPath": "En la cadena de prerrequisitos más larga",
+    "satisfies": "Satisface: {r}",
+    "equivPartner": "Mismo curso, otro código: {c} también cuenta",
+    "altPath": "Ruta alternativa: {g} (elige un grupo)",
+    "missingPre": "Prerrequisitos faltantes: {m}",
+    "orNote": " (algunos son opcionales entre sí)",
+    "b1Note": "Electiva B-1: faltan unas {r} unidades (la lista tiene {p} cursos; ver la página de la carrera).",
+    "cNote": "El Área C (concentración externa) no tiene lista oficial de cursos; ver la página de la carrera y la página oficial del programa.",
+    "totalUnits": "Seleccionados {n} cursos, {u} unidades (límite {cap})",
+    "overCap": "{e} unidades sobre el límite; desmarca algo.",
+    "addBtn": "Añadir a mi lista →",
+    "addedNote": "Añadidos {n} cursos",
+    "goPlan": "Ir al planificador →",
+    "emptyRec": "Ningún curso obligatorio está listo este trimestre (pueden estar todos hechos o todos bloqueados por prerrequisitos).",
+    "emptyBlocked": "Ningún curso obligatorio está bloqueado por prerrequisitos.",
+    "honesty": "Los prerrequisitos se analizan del texto original and/or del catálogo; si el texto está vacío, la lista plana se trata como alternativa. Cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado la graduación; verifica en GOLD / el sitio del departamento antes de inscribirte. No hay fuente de datos de popularidad (inscripción, listas de espera), así que no se muestra."
   }
 }

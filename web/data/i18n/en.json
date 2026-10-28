@@ -71,7 +71,11 @@
     "stepsNoMajor": "Browse courses first; once you've picked a major: requirements → pick courses → plan terms",
     "statusTitle": "✅ Academic status check",
     "statusDesc": "Confirm your completed courses and transfer credits first — plans are only as good as this baseline.",
-    "statusGo": "Check now →"
+    "statusGo": "Check now →",
+    "pickTitle": "🧠 Smart course picker",
+    "pickDesc": "What to take next term: key prerequisites first, shortest-path order (pilot: UCSB Environmental Studies).",
+    "pickGo": "Pick courses →",
+    "pickDemo": "See a picker example →"
   },
   "nav": {
     "courses": "Courses",
@@ -214,7 +218,8 @@
     "goGe": "View campus GE & graduation requirements →",
     "goEngine": "Smart Scheduler →",
     "countNote": "How counts work: each requirement card counts completed + planned courses. Only courses you marked 'I have this' count as completed; adding to your list only means you plan to take it. If one course appears under several requirements, the page counts it under each; whether it can double-count follows department rules — confirm with an academic advisor.",
-    "goStatus": "Academic status check →"
+    "goStatus": "Academic status check →",
+    "goPick": "Smart course picker →"
   },
   "traj": {
     "empty": "Add courses from the Major tab first",
@@ -329,5 +334,33 @@
     "reconfirmBtn": "Re-check",
     "goMajor": "Go to major page →",
     "goHome": "Go to homepage →"
+  },
+  "pick": {
+    "title": "Smart course picker",
+    "sub": "What to take next term: key prerequisites first, shortest-path order, with equivalents and alternative paths.",
+    "pilotNote": "Pilot scope: UCSB Environmental Studies (B.S.) only — the example below is for that major.",
+    "demoNote": "Example: your completed courses are not used here; this only demonstrates the recommendation logic.",
+    "capLabel": "Next-term unit cap",
+    "haveNote": "Computed from your {n} completed courses; {p} more are already on your course list and are not recommended again.",
+    "recTitle": "Ready to take this term (ranked by criticality)",
+    "blockedTitle": "Still blocked by prerequisites",
+    "keyBadge": "Key course: delaying it delays graduation",
+    "unlocks": "Unlocks {n} later courses",
+    "criticalPath": "On the longest prerequisite chain",
+    "satisfies": "Satisfies: {r}",
+    "equivPartner": "Same course, different code: {c} also counts",
+    "altPath": "Alternative path: {g} (pick one group)",
+    "missingPre": "Missing prerequisites: {m}",
+    "orNote": " (some are either/or)",
+    "b1Note": "Elective B-1: about {r} units to go (pool has {p} courses; see the major page).",
+    "cNote": "Area C (outside concentration) has no official course list — see the major page and the official program page.",
+    "totalUnits": "Selected {n} courses, {u} units (cap {cap})",
+    "overCap": "{e} units over the cap — uncheck something.",
+    "addBtn": "Add to course list →",
+    "addedNote": "Added {n} courses",
+    "goPlan": "Go to planner →",
+    "emptyRec": "No required courses are ready to take this term (they may all be done or all blocked by prerequisites).",
+    "emptyBlocked": "No required courses are blocked by prerequisites.",
+    "honesty": "Prerequisites are parsed from the catalog's original and/or wording; when the original text is empty, the snapshot's flat list is treated as either/or. Satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed graduation eligibility — recheck GOLD / the department site before enrolling. Popular-course data (enrollment, waitlists) has no source yet, so no popularity is shown here."
   }
 }

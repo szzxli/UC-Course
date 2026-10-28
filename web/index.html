@@ -75,6 +75,11 @@
     <p class="hint" data-i18n="index.statusDesc">先确认已修课程和转学分，排课才算得准。</p>
     <div class="btn-row"><a class="btn ghost" href="status.html" data-i18n="index.statusGo">去核验 →</a></div>
   </div>
+  <div class="card" id="pickCard">
+    <div class="section-title" data-i18n="index.pickTitle">🧠 智能选课</div>
+    <p class="hint" data-i18n="index.pickDesc">下学期先修什么：关键先修优先、最短路径排序（试点：UCSB 环境科学）。</p>
+    <div class="btn-row"><a class="btn ghost" id="pickBtn" href="pick.html" data-i18n="index.pickGo">智能选课 →</a></div>
+  </div>
   <div class="footnote" data-i18n="index.footnote">课程数据来自各校官方课程目录。目前支持 UCI、UCSD、UCSB 三校，更多校区陆续接入。</div>
 </div>
 <nav class="tabbar">
@@ -124,6 +129,7 @@ I18N.init().then(function () {
     fillMajor2(campus);
     updateGoBtn();
     updateEngineCard();
+    updatePickCard();
     updateMajor2Card();
   }
   /* 引擎卡常驻：试点进工具，非试点看示例（不再无声消失） */
@@ -136,6 +142,18 @@ I18N.init().then(function () {
     } else {
       btn.href = "engine.html?demo=1&cap=21";
       btn.textContent = I18N.t("index.engineDemo");
+    }
+  }
+  /* 选课卡常驻：试点进工具，非试点看示例 */
+  function updatePickCard() {
+    var pilot = Sget("campus", "UCI") === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json";
+    var btn = document.getElementById("pickBtn");
+    if (pilot) {
+      btn.href = "pick.html";
+      btn.textContent = I18N.t("index.pickGo");
+    } else {
+      btn.href = "pick.html?demo=1";
+      btn.textContent = I18N.t("index.pickDemo");
     }
   }
   /* 第二专业卡折叠：没选第一专业时不出现 */

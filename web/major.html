@@ -31,6 +31,7 @@
   <div class="btn-row" id="addAllRow" hidden><button class="btn" id="addAllReqBtn" data-i18n="major.addAllRequired">一键加入全部必修课</button></div>
   <div class="btn-row" id="goPlanRow" hidden><a class="btn" href="plan.html" data-i18n="major.goPlan">去排课 →</a></div>
   <div class="btn-row" id="engineRow" hidden><a class="btn" href="engine.html" data-i18n="major.goEngine">智能排课引擎 →</a></div>
+  <div class="btn-row" id="pickRow" hidden><a class="btn ghost" href="pick.html" data-i18n="major.goPick">智能选课 →</a></div>
   <div class="btn-row" id="statusRow" hidden><a class="btn ghost" href="status.html" data-i18n="major.goStatus">学业状态核验 →</a></div>
   <div class="btn-row"><a class="btn ghost" href="ge.html" data-i18n="major.goGe">查看本校通识与毕业要求 →</a></div>
   <div class="footnote" id="srcNote"></div>
@@ -81,6 +82,7 @@ I18N.init().then(function () {
   document.getElementById("statusRow").hidden = false;
   if (campus === "UCSB" && file === "ucsb-environmental-science.json") {
     document.getElementById("engineRow").hidden = false;
+    document.getElementById("pickRow").hidden = false;
   }
   document.getElementById("addAllRow").hidden = false;
   var MD1 = null, MD2 = null, EQUIV = {}, VIEW = "m1";
