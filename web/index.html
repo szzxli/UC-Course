@@ -10,7 +10,7 @@
 <body>
 <div class="topbar"><div class="topbar-in">
   <div class="brand" data-i18n="brand.index">🎓 UC 智选 UC SmartPick</div>
-  <div class="sub" data-i18n="sub.index">目标驱动的 UC 选课：读研 / 直博 / 实习，不同目标不同排法</div>
+  <div class="sub" data-i18n="sub.index">选好校区和专业，告诉你毕业还差什么课、先修怎么排</div>
   <div><select id="langSel" class="langsel" aria-label="language"></select></div>
 </div></div>
 <div class="page">
@@ -42,7 +42,7 @@
     <p class="hint" data-i18n="index.majorHint">选了专业，查课和排课会告诉你每门课满足哪条毕业要求。</p>
     <div class="field"><select id="majorSel"><option value="" data-i18n="index.noMajor">暂不选专业</option></select></div>
   </div>
-  <div class="card">
+  <div class="card" id="major2Card" hidden>
     <div class="section-title" data-i18n="index.major2Title">🎓 第二专业（可选）</div>
     <p class="hint" data-i18n="index.major2Hint">双专业/辅修规划：同一校区再选一个，专业页会算出重叠课程。</p>
     <div class="field"><select id="major2Sel"><option value="" data-i18n="index.noMajor">暂不选专业</option></select></div>
@@ -50,6 +50,7 @@
   <div class="btn-row">
     <a class="btn" href="courses.html" id="goBtn">开始选课 →</a>
   </div>
+  <p class="hint" id="goHint"></p>
   <div class="btn-row">
     <a class="btn ghost" href="plan.html" data-i18n="index.quickPlan">直接去排课 →</a>
     <a class="btn ghost" href="trajectory.html" data-i18n="index.quickTraj">看我的轨迹 →</a>
@@ -64,12 +65,12 @@
     <p class="hint" data-i18n="index.geDesc">除了专业课，毕业还差通识（GE）+ 大学统一要求，一起看才完整。</p>
     <div class="btn-row"><a class="btn ghost" href="ge.html" data-i18n="index.geGo">查看通识要求 →</a></div>
   </div>
-  <div class="card" id="engineCard" hidden>
+  <div class="card" id="engineCard">
     <div class="section-title" data-i18n="index.engineTitle">🧠 智能排课引擎</div>
     <p class="hint" data-i18n="index.engineDesc">说几年毕业，自动按先修链排好学期表（试点：UCSB 环境科学）。</p>
-    <div class="btn-row"><a class="btn ghost" href="engine.html" data-i18n="index.engineGo">去排课 →</a></div>
+    <div class="btn-row"><a class="btn ghost" id="engineBtn" href="engine.html" data-i18n="index.engineGo">去排课 →</a></div>
   </div>
-  <div class="footnote" data-i18n="index.footnote">v0.2：课程搜索 + 先修链排课。UCLA/UCB 数据管线进行中。</div>
+  <div class="footnote" data-i18n="index.footnote">课程数据来自各校官方课程目录。目前支持 UCI、UCSD、UCSB 三校，更多校区陆续接入。</div>
 </div>
 <nav class="tabbar">
   <a href="index.html" data-page="index" class="active"><span class="ico">🏠</span><span data-i18n="nav.home">首页</span></a>
@@ -89,11 +90,20 @@ I18N.init().then(function () {
   navActive("index");
   var MAJORS = [];
   var MAJOR2_LABEL = "";
+  function majorLabel(m) {
+    var l = I18N.getLocale();
+    if (l === "zh-CN" && m.major_zh) return m.major_zh;
+    if (l === "zh-TW" && m.major_tw) return m.major_tw;
+    return m.major;
+  }
   function updateGoBtn() {
+    /* 主按钮文案固定，去向随是否选专业而变，步骤提示讲清去向 */
     var hasMajor = !!document.getElementById("majorSel").value;
     var btn = document.getElementById("goBtn");
     btn.href = hasMajor ? "major.html" : "courses.html";
-    btn.textContent = I18N.t(hasMajor ? "index.goMajor" : "index.go");
+    btn.textContent = I18N.t("index.go");
+    document.getElementById("goHint").textContent =
+      I18N.t(hasMajor ? "index.stepsMajor" : "index.stepsNoMajor");
   }
   function fillMajors(campus) {
     var sel = document.getElementById("majorSel");
@@ -102,18 +112,31 @@ I18N.init().then(function () {
     MAJORS.filter(function (m) { return m.campus === campus; }).forEach(function (m) {
       var o = document.createElement("option");
       o.value = m.file;
-      o.textContent = m.major + " (" + m.degree + ")";
+      o.textContent = majorLabel(m) + " (" + m.degree + ")";
       sel.appendChild(o);
     });
     sel.value = cur;
     fillMajor2(campus);
     updateGoBtn();
     updateEngineCard();
+    updateMajor2Card();
   }
-  /* 引擎入口只在试点（UCSB 环境科学）可见 */
+  /* 引擎卡常驻：试点进工具，非试点看示例（不再无声消失） */
   function updateEngineCard() {
-    document.getElementById("engineCard").hidden =
-      !(Sget("campus", "UCI") === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json");
+    var pilot = Sget("campus", "UCI") === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json";
+    var btn = document.getElementById("engineBtn");
+    if (pilot) {
+      btn.href = "engine.html";
+      btn.textContent = I18N.t("index.engineGo");
+    } else {
+      btn.href = "engine.html?demo=1&cap=21";
+      btn.textContent = I18N.t("index.engineDemo");
+    }
+  }
+  /* 第二专业卡折叠：没选第一专业时不出现 */
+  function updateMajor2Card() {
+    document.getElementById("major2Card").hidden =
+      !(Sget("major", "") || Sget("major2", ""));
   }
   function fillMajor2(campus) {
     var sel = document.getElementById("major2Sel");
@@ -122,7 +145,7 @@ I18N.init().then(function () {
     MAJORS.filter(function (m) { return m.campus === campus && m.file !== excl; }).forEach(function (m) {
       var o = document.createElement("option");
       o.value = m.file;
-      o.textContent = m.major + " (" + m.degree + ")";
+      o.textContent = majorLabel(m) + " (" + m.degree + ")";
       sel.appendChild(o);
     });
     sel.value = cur;
@@ -139,7 +162,7 @@ I18N.init().then(function () {
     if (!mj && !mine.length) { card.hidden = true; return; }
     function label(f) {
       var m = MAJORS.filter(function (x) { return x.file === f; })[0];
-      return m ? m.major : "";
+      return m ? majorLabel(m) : "";
     }
     var g = Sget("goal", "undecided");
     var desc = Sget("campus", "UCI") + (label(mj) ? " · " + label(mj) : "") +
@@ -166,10 +189,12 @@ I18N.init().then(function () {
     fillMajors(nv);
     renderResume();
     updateEngineCard();
+    updateMajor2Card();
   });
   (function () {
     var g = Sget("goal", null), c = Sget("campus", "UCI");
     if (g) { var r = document.querySelector('input[name="goal"][value="' + g + '"]'); if (r) { r.checked = true; r.closest(".radio-card").classList.add("sel"); } }
+    else { var r0 = document.querySelector('input[name="goal"][value="undecided"]'); if (r0) { r0.checked = true; r0.closest(".radio-card").classList.add("sel"); } }
     document.getElementById("campus").value = c;
   })();
   document.querySelectorAll('input[name="goal"]').forEach(function (r) {
@@ -192,6 +217,7 @@ I18N.init().then(function () {
     fillMajor2(document.getElementById("campus").value);
     updateGoBtn();
     updateEngineCard();
+    updateMajor2Card();
   });
   document.getElementById("major2Sel").addEventListener("change", function () {
     Sset("major2", this.value);

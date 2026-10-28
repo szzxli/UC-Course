@@ -111,7 +111,14 @@ function render(plan, input) {
 I18N.init().then(function () {
   I18N.initSwitcher("langSel");
   document.getElementById("engSub").textContent = "UCSB Environmental Studies (B.S.)";
-  var have = getHave();
+  /* 示例模式：?demo=1&cap=21&years=3 —— 预设输入、忽略已修、载入后自动跑一遍 */
+  var params = new URLSearchParams(location.search);
+  var demo = params.get("demo") === "1";
+  if (params.get("years")) document.getElementById("yearsIn").value = params.get("years");
+  if (params.get("cap")) document.getElementById("capIn").value = params.get("cap");
+  if (params.get("start")) document.getElementById("startSel").value = params.get("start");
+  if (params.get("lang") === "1") document.getElementById("langChk").checked = true;
+  var have = demo ? [] : getHave();
   document.getElementById("haveNote").textContent =
     I18N.t("engine.haveNote", { n: have.length });
   Promise.all([
@@ -131,6 +138,7 @@ I18N.init().then(function () {
       var plan = Engine.buildPlan(input, { major: MAJOR, catalog: CATALOG });
       render(plan, input);
     });
+    if (demo) document.getElementById("runBtn").click();
   });
 });
 </script>

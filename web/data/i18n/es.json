@@ -4,7 +4,7 @@
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Planificar horario",
     "major": "🎓 Requisitos de la carrera",
-    "traj": "🛤️ Mi trayectoria",
+    "traj": "🛤️ Mi progreso",
     "ge": "📖 GE y requisitos de graduación",
     "engine": "🧠 Planificador inteligente"
   },
@@ -33,9 +33,9 @@
     "goPlan": "Ir a planificar →"
   },
   "index": {
-    "campusHint": "Tres campus activos: UCI, UCSD, UCSB (datos de cursos cargados). Más campus en camino.",
+    "campusHint": "Tres campus disponibles: UCI, UCSD, UCSB. Más campus en camino.",
     "campusTitle": "🏫 Tu campus",
-    "footnote": "Búsqueda de cursos + horario por prerrequisitos + importación de créditos. Datos de UCLA/UCB en curso.",
+    "footnote": "Datos de los catálogos oficiales de cada campus. Actualmente UCI, UCSD, UCSB; más campus en camino.",
     "go": "Empezar a elegir cursos →",
     "goalHint": "La misma carrera exige estrategias muy distintas para posgrado o empleo. Elige una y el planificador adaptará sus consejos.",
     "goalTitle": "🎯 Elige tu meta primero",
@@ -55,23 +55,26 @@
     "resumeGo": "Continuar →",
     "resumeCourses": "{n} cursos",
     "transferTitle": "🎓 Soy transfer",
-    "transferDesc": "¿Traes créditos de CC? Impórtalos y ve qué te falta.",
+    "transferDesc": "¿Traes créditos de CC? Impórtalos primero y luego sigue los pasos de arriba.",
     "transferGo": "Importar créditos →",
-    "quickPlan": "Ir directo a planificar →",
-    "quickTraj": "Ver mi trayectoria →",
+    "quickPlan": "Ir a planificar →",
+    "quickTraj": "Ver mi progreso →",
     "geTitle": "📖 GE y requisitos de graduación",
-    "geDesc": "Además de los cursos de la carrera, la graduación también exige GE + requisitos universitarios: míralos juntos.",
+    "geDesc": "Graduarse exige tanto los requisitos de la carrera como la GE: ambos deben cumplirse.",
     "geGo": "Ver requisitos de GE →",
     "engineTitle": "🧠 Planificador inteligente",
     "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (piloto: Environmental Studies de UCSB).",
-    "engineGo": "Planificar →"
+    "engineGo": "Planificar automáticamente →",
+    "engineDemo": "Ver un horario de ejemplo →",
+    "stepsMajor": "Siguiente: requisitos → elegir cursos → planificar trimestres",
+    "stepsNoMajor": "Primero explora cursos; al elegir carrera: requisitos → elegir cursos → planificar trimestres"
   },
   "nav": {
     "courses": "Cursos",
     "home": "Inicio",
     "plan": "Horario",
     "major": "Carrera",
-    "traj": "Ruta",
+    "traj": "Progreso",
     "ge": "GE"
   },
   "plan": {
@@ -123,7 +126,7 @@
     "genEmpty": "Tu lista está vacía: agrega algunos cursos primero y luego genera el horario."
   },
   "sub": {
-    "index": "Planifica tus cursos UC según tu meta: posgrado / doctorado / empleo — cada meta, una estrategia distinta",
+    "index": "Elige campus y carrera: verás qué te falta para graduarte y cómo se encadenan los prerrequisitos",
     "plan": "Horario en orden de prerrequisitos · automático",
     "traj": "Cada elección es material para tu solicitud"
   },
@@ -153,7 +156,7 @@
     "index": "UC SmartPick",
     "plan": "Planificar horario · UC SmartPick",
     "major": "Carrera · UC SmartPick",
-    "traj": "Trayectoria · UC SmartPick",
+    "traj": "Progreso · UC SmartPick",
     "transfer": "Importar créditos - UC SmartPick",
     "ge": "GE y requisitos de graduación · UC SmartPick",
     "engine": "Planificador inteligente · UC SmartPick"
@@ -207,7 +210,7 @@
   "traj": {
     "empty": "Añade cursos desde la pestaña Carrera primero",
     "goMajor": "Ir a elegir cursos →",
-    "myTraj": "Mi trayectoria",
+    "myTraj": "Mi progreso",
     "copy": "Copiar texto",
     "download": "Descargar .md",
     "copied": "Copiado",

@@ -4,7 +4,7 @@
     "index": "🎓 UC SmartPick",
     "plan": "🗓️ Plan Schedule",
     "major": "🎓 Major Requirements",
-    "traj": "🛤️ My Trajectory",
+    "traj": "🛤️ My Progress",
     "ge": "📖 GE & Graduation Requirements",
     "engine": "🧠 Smart Scheduler"
   },
@@ -33,9 +33,9 @@
     "goPlan": "Go to planning →"
   },
   "index": {
-    "campusHint": "Three campuses live: UCI, UCSD, UCSB (course data loaded). More campuses on the way.",
+    "campusHint": "Three campuses supported: UCI, UCSD, UCSB. More campuses on the way.",
     "campusTitle": "🏫 Your campus",
-    "footnote": "Course search + prerequisite-chain planning + transfer-credit import. UCLA/UCB data in the pipeline.",
+    "footnote": "Course data comes from each campus's official catalog. Currently UCI, UCSD, UCSB; more campuses on the way.",
     "go": "Start picking courses →",
     "goalHint": "The same major calls for very different course strategies for grad school vs. employment. Pick one and the planner will tailor its advice.",
     "goalTitle": "🎯 Pick a goal first",
@@ -55,23 +55,26 @@
     "resumeGo": "Continue →",
     "resumeCourses": "{n} courses picked",
     "transferTitle": "🎓 I'm a transfer student",
-    "transferDesc": "Bringing credits from CC? Import them in one tap and see what's left.",
+    "transferDesc": "Bringing credits from CC? Import them first, then follow the steps above.",
     "transferGo": "Import transfer credits →",
-    "quickPlan": "Go straight to planning →",
-    "quickTraj": "View my trajectory →",
+    "quickPlan": "Go to planning →",
+    "quickTraj": "View my progress →",
     "geTitle": "📖 GE & Graduation Requirements",
-    "geDesc": "Beyond major courses, graduation also needs GE + university requirements — see them together.",
+    "geDesc": "Graduation needs both major requirements and GE — both must be satisfied.",
     "geGo": "View GE requirements →",
     "engineTitle": "🧠 Smart Scheduler",
     "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (pilot: UCSB Environmental Studies).",
-    "engineGo": "Schedule →"
+    "engineGo": "Auto-schedule →",
+    "engineDemo": "See a sample schedule →",
+    "stepsMajor": "Next: degree requirements → pick courses → plan terms",
+    "stepsNoMajor": "Browse courses first; once you've picked a major: requirements → pick courses → plan terms"
   },
   "nav": {
     "courses": "Courses",
     "home": "Home",
     "plan": "Plan",
     "major": "Major",
-    "traj": "Path",
+    "traj": "Progress",
     "ge": "GE"
   },
   "plan": {
@@ -123,7 +126,7 @@
     "genEmpty": "Your list is empty — add some courses first, then generate a plan."
   },
   "sub": {
-    "index": "Goal-driven UC course planning: grad school / PhD / internships — different goals, different schedules",
+    "index": "Pick your campus and major — see what's left for graduation and how prerequisites chain",
     "plan": "Prerequisite-ordered planning · automatic",
     "traj": "Every choice becomes application material"
   },
@@ -153,7 +156,7 @@
     "index": "UC SmartPick",
     "plan": "Plan Schedule · UC SmartPick",
     "major": "Major · UC SmartPick",
-    "traj": "Trajectory · UC SmartPick",
+    "traj": "Progress · UC SmartPick",
     "transfer": "Transfer Credit Import - UC SmartPick",
     "ge": "GE & Graduation Requirements · UC SmartPick",
     "engine": "Smart Scheduler · UC SmartPick"
@@ -207,7 +210,7 @@
   "traj": {
     "empty": "Add courses from the Major tab first",
     "goMajor": "Go pick courses →",
-    "myTraj": "My course trajectory",
+    "myTraj": "My course progress",
     "copy": "Copy text",
     "download": "Download .md",
     "copied": "Copied",
