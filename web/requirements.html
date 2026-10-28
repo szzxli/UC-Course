@@ -152,7 +152,7 @@ I18N.init().then(function () {
       var n = keys.filter(function (k) { return inHave(k) || planned[k]; }).length;
       var el = card.querySelector("[data-havecount]");
       if (el) el.textContent = I18N.t("major.progressCount", { n: n, m: keys.length });
-      /* 折叠：已完成卡默认收起并标 ✓ 已完成；手动展开/收起优先于自动状态 */
+      /* 折叠：默认全部收起，点标题展开；已完成卡仍标 ✓ 已完成；手动状态优先于默认状态 */
       var groups = JSON.parse(card.dataset.groups || "[]");
       var covered = function (k) { return inHave(k) || planned[k]; };
       var done = false;
@@ -174,7 +174,7 @@ I18N.init().then(function () {
         var ri = card.dataset.req;
         if (EXPANDED[ri]) bd.hidden = false;
         else if (COLLAPSED[ri]) bd.hidden = true;
-        else bd.hidden = done;
+        else bd.hidden = true;
         if (fm) fm.textContent = bd.hidden ? "▸" : "▾";
       }
     });
@@ -323,7 +323,7 @@ I18N.init().then(function () {
         refreshBar();
       });
     });
-    /* 卡片折叠：点标题展开/收起（标题里的链接除外），手动状态优先于自动完成状态 */
+    /* 卡片折叠：点标题展开/收起（标题里的链接除外），手动状态优先于默认收起状态 */
     box.querySelectorAll("[data-req]").forEach(function (card) {
       var t = card.querySelector(".section-title");
       if (!t) return;
