@@ -95,12 +95,12 @@ function render(plan, input) {
   }
   h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.coverageMajor")) + "</div>";
   plan.coverage.major.forEach(function (r) {
-    h += '<p class="hint"><b>' + esc(r.name) + "</b>：' + esc(r.courses.join("、")) + "</p>";
+    h += '<p class="hint"><b>' + esc(r.name) + "</b>：" + esc(r.courses.join("、")) + "</p>";
   });
   h += "</div>";
   h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.coverageGe")) + "</div>";
   plan.coverage.ge.forEach(function (r) {
-    h += '<p class="hint"><b>' + esc(r.name) + "</b>：' + esc(r.courses.join("、")) + "</p>";
+    h += '<p class="hint"><b>' + esc(r.name) + "</b>：" + esc(r.courses.join("、")) + "</p>";
   });
   h += "</div>";
   h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.warningsTitle")) + "</div>";
