@@ -70,34 +70,74 @@
   /* 按名称长度降序排列，解析时先匹配长名，避免 Mathematics 被 Math 截断等 */
   var DEPT_NAMES = Object.keys(DEPT_MAP).sort(function (a, b) { return b.length - a.length; });
 
+  /* 分校系码覆盖：同一系名/缩写在各校对应不同课号前缀（如 UCI 的 PHYSICS 对 UCSB 的 PHYS、
+   * UCI 的 ANTHRO 对 UCSB 的 ANTH、UCI 的 COMPSCI 对 UCSB 的 CMPSC），基础映射无法兼顾。
+   * parsePrereq(raw, campus) 传入校区时用该校覆盖替换基础映射；不传校区时保持老行为，
+   * 现有 UCSB/UCSD 目录的解析结果不受影响。 */
+  var CAMPUS_DEPT_MAP = {
+    UCI: {
+      "phys": "PHYSICS", "physics": "PHYSICS",
+      "anthro": "ANTHRO", "anthropology": "ANTHRO",
+      "bio sci": "BIO SCI", "biological sciences": "BIO SCI", "bio": "BIO",
+      "bme": "BME", "biomedical engineering": "BME",
+      "compsci": "COMPSCI", "eecs": "EECS",
+      "electrical engineering and computer science": "EECS",
+      "engrcee": "ENGRCEE", "engrmae": "ENGRMAE", "cbe": "CBE", "in4matx": "IN4MATX",
+      "pol sci": "POL SCI",
+      "hist": "HISTORY", "history": "HISTORY",
+      "crm/law": "CRM/LAW", "flm&mda": "FLM&MDA", "intl st": "INTL ST",
+      "nur sci": "NUR SCI", "soc sci": "SOC SCI", "socecol": "SOCECOL",
+      "stats": "STATS", "statistics": "STATS",
+      "earthss": "EARTHSS", "earth system science": "EARTHSS",
+      "lps": "LPS", "logic and philosophy of science": "LPS",
+      "mse": "MSE", "materials science and engineering": "MSE",
+      "publhlth": "PUBHLTH", "public health": "PUBHLTH",
+      "sociol": "SOCIOL",
+      "chc/lat": "CHC/LAT", "gen&sex": "GEN&SEX", "mgmt fe": "MGMT FE",
+      "phmd": "PHMD", "phrmsci": "PHRMSCI", "mol bio": "MOL BIO",
+      "eco evo": "ECO EVO", "swe": "SWE", "uni stu": "UNI STU",
+      "art his": "ART HIS", "art history": "ART HIS",
+      "educ": "EDUC", "education": "EDUC",
+      "french": "FRENCH", "german": "GERMAN", "spanish": "SPANISH",
+      "italian": "ITALIAN", "russian": "RUSSIAN", "chinese": "CHINESE",
+      "japanese": "JAPANSE", "korean": "KOREAN", "arabic": "ARABIC",
+      "latin": "LATIN", "greek": "GREEK", "persian": "PERSIAN",
+      "vietnamese": "VIETMSE", "filipino": "FILIPNO"
+    }
+  };
+
   /* 数字串 → 课程号列表：处理区间（2A-B → 2A,2B；1A-B-C → 1A,1B,1C；34LA-LB → 34LA,34LB）与通配（5AA-ZZ、105A-Z） */
   function expandNumberToken(tok) {
     tok = tok.replace(/\s+/g, "");
-    if (tok.indexOf("-") < 0) return [tok];
+    /* UCI 荣誉/变体课号前缀（H2C、M2C）：保留前缀、不塌陷为普通课号 */
+    var pfx = "";
+    var mpre = tok.match(/^([A-Z])(\d.*)$/);
+    if (mpre) { pfx = mpre[1]; tok = mpre[2]; }
+    if (tok.indexOf("-") < 0) return [pfx + tok];
     var parts = tok.split("-");
     var first = parts[0];
     var m = first.match(/^(\d+)([A-Z]*)$/);
-    if (!m) return [tok];
+    if (!m) return [pfx + tok];
     var last = parts[parts.length - 1];
-    if (last === "Z" || last === "ZZ") return [{ wildcard: m[1] }];
+    if (last === "Z" || last === "ZZ") return [{ wildcard: pfx + m[1] }];
     /* 以后缀末位字母为变量展开：2A-B → 2A,2B；34LA-LB → 34LA,34LB；1A-B-C → 1A,1B,1C */
     var pre = m[1] + m[2].slice(0, -1);
     var a = m[2].slice(-1).charCodeAt(0), b = last.slice(-1).charCodeAt(0);
-    if (!m[2] || isNaN(a) || isNaN(b) || b < a) return [tok];
+    if (!m[2] || isNaN(a) || isNaN(b) || b < a) return [pfx + tok];
     var out = [];
-    for (var c = a; c <= b; c++) out.push(pre + String.fromCharCode(c));
+    for (var c = a; c <= b; c++) out.push(pfx + pre + String.fromCharCode(c));
     return out;
   }
 
   /* 从一段先修原文中抽出“提及”，state.dept 在整段解析中持续继承（目录裸数字继承最近的系，
    * 如 "PSTAT 5A or 5LS"、"MATH 2A-B or 3A-B"）。系名匹配要求词边界，避免 es 误 match Studies 等。 */
-  function extractMentions(seg, state) {
+  function extractMentions(seg, state, deptMap, deptNames) {
     state = state || { dept: null };
     var mentions = [], i = 0;
     while (i < seg.length) {
       var matched = null;
-      for (var di = 0; di < DEPT_NAMES.length; di++) {
-        var d = DEPT_NAMES[di];
+      for (var di = 0; di < deptNames.length; di++) {
+        var d = deptNames[di];
         if (seg.slice(i, i + d.length).toLowerCase() === d) {
           var before = i === 0 || /[^A-Za-z]/.test(seg[i - 1]);
           var afterIdx = i + d.length;
@@ -105,8 +145,8 @@
           if (before && after) { matched = d; break; }
         }
       }
-      if (matched) { state.dept = DEPT_MAP[matched]; i += matched.length; continue; }
-      var numMatch = seg.slice(i).match(/^\d+\s*[A-Z]*(?:\s*-\s*[A-Z]+(?:\s*-\s*[A-Z]+)*)?/);
+      if (matched) { state.dept = deptMap[matched]; i += matched.length; continue; }
+      var numMatch = seg.slice(i).match(/^[A-Z]?\d+\s*[A-Z]*(?:\s*-\s*[A-Z]+(?:\s*-\s*[A-Z]+)*)?/);
       if (numMatch && state.dept) {
         expandNumberToken(numMatch[0]).forEach(function (x) {
           if (typeof x === "string") mentions.push({ code: normCode(state.dept + " " + x) });
@@ -124,15 +164,28 @@
    *  - 分号切段；段首 and → 与前段 AND，段首 or → 与前段 OR，无连接词 → 视作 AND；
    *  - 段内先按 ' and ' 切（AND），每块含 ' or ' 则整块为 OR（逗号与 or 均切），否则逗号切为 AND；
    *  - 无法解析（无课程提及）→ 返回 null（无课程先修约束，如仅“高年级站位/教师同意”）。 */
-  function parsePrereq(raw) {
+  function parsePrereq(raw, campus) {
     if (!raw) return { fallback: true };
+    /* 分校系码：传入校区时用该校覆盖替换基础映射；不传则保持老行为 */
+    var deptMap = DEPT_MAP, deptNames = DEPT_NAMES;
+    if (campus && CAMPUS_DEPT_MAP[campus]) {
+      deptMap = Object.assign({}, DEPT_MAP, CAMPUS_DEPT_MAP[campus]);
+      deptNames = Object.keys(deptMap).sort(function (a, b) { return b.length - a.length; });
+    }
     var t = " " + raw + " ";
-    /* 去掉成绩、同期、考试类说明（考试替代路径不计入课程先修） */
-    t = t.replace(/with a (minimum )?grade of[^.;]*/gi, " ");
+    /* 去掉成绩、同期、考试类说明（考试替代路径不计入课程先修）。
+     * 注意：删除类规则必须在括号与下一个 or 连接词前停下，否则会连同后面的
+     * 备选课组一起吃掉（如 "or AP ... or ( COGS 9A and COGS 9B )"）；AP/分数类
+     * 删除后补一个 or，保住被删短语后面的连接关系。 */
+    t = t.replace(/with a (minimum )?grade of[^.;()]*?(?= or |;|\.|$)/gi, " ");
+    /* 考试分数不是课程：去掉各类分数数字，避免 "minimum score of 650" 被当成 MATH 650、
+     * "75 percent" 被当成 PHYSICS 75 等假课号 */
+    t = t.replace(/\b(minimum )?scores? of (at least )?\d+/gi, " ");
+    t = t.replace(/\b\d+\s*(percent|%)/gi, " ");
     t = t.replace(/\(may be taken concurrently\)/gi, " ");
-    t = t.replace(/completion of all listed prerequisites[^.;]*/gi, " ");
-    t = t.replace(/or (a )?score of[^.;]*/gi, " ");
-    t = t.replace(/or (advanced placement|ap )[^.;]*/gi, " ");
+    t = t.replace(/completion of all listed prerequisites[^.;()]*?(?= or |;|\.|$)/gi, " ");
+    t = t.replace(/or (a )?score of[^.;()]*?(?= or |;|\.|$)/gi, " or ");
+    t = t.replace(/or (advanced placement|ap )[^.;()]*?(?= or |;|\.|$)/gi, " or ");
     t = t.replace(/or instructor approval/gi, " ");
     t = t.replace(/or consent of instructor/gi, " ");
     t = t.replace(/upper-division standing/gi, " ");
@@ -158,14 +211,14 @@
         if (/\bor\b/i.test(part)) {
           mentions = [];
           part.split(/\bor\b|,/i).map(function (s) { return s.trim(); }).filter(Boolean).forEach(function (piece) {
-            mentions = mentions.concat(extractMentions(piece, state));
+            mentions = mentions.concat(extractMentions(piece, state, deptMap, deptNames));
           });
           if (mentions.length === 1) segNodes.push(mentions[0]);
           else if (mentions.length > 1) segNodes.push({ op: "OR", items: mentions });
         } else {
           mentions = [];
           part.split(",").map(function (s) { return s.trim(); }).filter(Boolean).forEach(function (piece) {
-            mentions = mentions.concat(extractMentions(piece, state));
+            mentions = mentions.concat(extractMentions(piece, state, deptMap, deptNames));
           });
           if (mentions.length === 1) segNodes.push(mentions[0]);
           else if (mentions.length > 1) segNodes.push({ op: "AND", items: mentions });
@@ -279,6 +332,7 @@
     var nTerms = years * 3;
     var have = new Set((input.have || []).map(normCode));
     var major = data.major, catalog = data.catalog;
+    var campus = (data.major && data.major.campus) || null;
     var units = function (c) { return unitsNum((catalog[normCode(c)] || {}).units); };
     var title = function (c) { return (catalog[normCode(c)] || {}).title || ""; };
 
@@ -287,7 +341,7 @@
     var fallbackCount = 0;
     Object.keys(catalog).forEach(function (code) {
       var raw = catalog[code].prerequisites_raw || "";
-      var t = parsePrereq(raw);
+      var t = parsePrereq(raw, campus);
       if (t && t.fallback) {
         fallbackCount++;
         var flat = (catalog[code].prerequisites_courses || []).map(normCode);
@@ -524,7 +578,7 @@
       if (g.generic) { g.tree = null; return; }
       var cat = catalog[normCode(g.code)];
       if (!cat) { warnings.push("GE 新增课 " + g.code + " 不在 2026-27 目录中，改按通用块处理"); g.generic = true; g.units = 4; g.tree = null; return; }
-      var t = parsePrereq(cat.prerequisites_raw || "");
+      var t = parsePrereq(cat.prerequisites_raw || "", campus);
       g.tree = (t && t.fallback)
         ? ((cat.prerequisites_courses || []).length ? { op: "OR", items: cat.prerequisites_courses.map(function (c) { return { code: normCode(c) }; }) } : null)
         : t;

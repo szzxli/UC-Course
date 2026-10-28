@@ -430,7 +430,7 @@ I18N.init().then(function () {
     var raw = cat.prerequisites_raw || "";
     var flat = (cat.prerequisites_courses || []).map(norm);
     if (raw) {
-      var t = Engine.parsePrereq(raw);
+      var t = Engine.parsePrereq(raw, campus);
       if (t && !t.fallback) return t;
     }
     if (flat.length) return { op: "OR", items: flat.map(function(c){ return { code: c }; }) };
