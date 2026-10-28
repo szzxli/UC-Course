@@ -27,6 +27,10 @@
     <div class="btn-row"><a class="btn" href="index.html" data-i18n="ge.goHome">去首页选择</a></div>
   </div>
   <div id="geBody"></div>
+  <div class="card" id="engineCard" hidden>
+    <p class="hint" data-i18n="ge.engineDesc">说几年毕业，自动按先修链排好学期表（试点：UCSB 环境科学）。</p>
+    <div class="btn-row"><a class="btn" href="engine.html" data-i18n="ge.goEngine">智能排课引擎 →</a></div>
+  </div>
   <div class="footnote" id="srcNote"></div>
 </div>
 <nav class="tabbar">
@@ -114,6 +118,8 @@ I18N.init().then(function () {
   CAMPUS = Sget("campus", "UCI");
   var csel = document.getElementById("campusSel");
   csel.value = CAMPUS;
+  document.getElementById("engineCard").hidden =
+    !(CAMPUS === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json");
   csel.addEventListener("change", function () {
     var nv = this.value;
     if (nv === CAMPUS) return;

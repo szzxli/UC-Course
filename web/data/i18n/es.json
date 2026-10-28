@@ -5,7 +5,8 @@
     "plan": "🗓️ Planificar horario",
     "major": "🎓 Requisitos de la carrera",
     "traj": "🛤️ Mi trayectoria",
-    "ge": "📖 GE y requisitos de graduación"
+    "ge": "📖 GE y requisitos de graduación",
+    "engine": "🧠 Planificador inteligente"
   },
   "courses": {
     "add": "+ Añadir a mis cursos",
@@ -60,7 +61,10 @@
     "quickTraj": "Ver mi trayectoria →",
     "geTitle": "📖 GE y requisitos de graduación",
     "geDesc": "Además de los cursos de la carrera, la graduación también exige GE + requisitos universitarios: míralos juntos.",
-    "geGo": "Ver requisitos de GE →"
+    "geGo": "Ver requisitos de GE →",
+    "engineTitle": "🧠 Planificador inteligente",
+    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (piloto: Environmental Studies de UCSB).",
+    "engineGo": "Planificar →"
   },
   "nav": {
     "courses": "Cursos",
@@ -151,7 +155,8 @@
     "major": "Carrera · UC SmartPick",
     "traj": "Trayectoria · UC SmartPick",
     "transfer": "Importar créditos - UC SmartPick",
-    "ge": "GE y requisitos de graduación · UC SmartPick"
+    "ge": "GE y requisitos de graduación · UC SmartPick",
+    "engine": "Planificador inteligente · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -196,7 +201,8 @@
     "campusMismatch": "Tu carrera prevista pertenece a {fc}, que no coincide con el campus actual {campus}. Vuelve a la página de inicio y vuelve a elegir campus y carrera.",
     "importBannerN": "🎓 Se importaron {n} curso(s) completado(s) desde créditos de transferencia: el progreso de abajo está actualizado.",
     "importBanner0": "🎓 Importación terminada: los cursos seleccionados ya estaban importados, no hay novedades.",
-    "goGe": "Ver GE y requisitos de graduación del campus →"
+    "goGe": "Ver GE y requisitos de graduación del campus →",
+    "goEngine": "Planificador inteligente →"
   },
   "traj": {
     "empty": "Añade cursos desde la pestaña Carrera primero",
@@ -251,6 +257,33 @@
     "openPool": "Elige {n} de los cursos aprobados por el Senado en esta área (ver designación en GOLD)",
     "required": "Obligatorio",
     "byNote": "Cumplir según las notas",
-    "checked": "Revisado {d}"
+    "checked": "Revisado {d}",
+    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (piloto: Environmental Studies de UCSB).",
+    "goEngine": "Planificador inteligente →"
+  },
+  "engine": {
+    "pilotNote": "Piloto: solo Environmental Studies (B.S.) de UCSB. Los trimestres de verano, UC Online y cursos de community college no están en esta versión.",
+    "yearsLabel": "Años para graduarse",
+    "capLabel": "Unidades máx. por trimestre",
+    "startLabel": "Trimestre inicial",
+    "langLabel": "Idioma extranjero cursado en UCSB (+3 cursos, 184 unidades totales)",
+    "haveNote": "Los cursos completados (de la página de la carrera) se excluyen automáticamente: {n}",
+    "runBtn": "Generar plan →",
+    "verdictOk": "✅ Graduación en {y} años",
+    "verdictFail": "❌ No viable con la configuración actual",
+    "failDetail": "{u} cursos sin asignar; faltan {extra} trimestres (cadena de requisitos más larga {cp} trimestres, mínimo por carga {ml} trimestres)",
+    "totalLine": "Total {t} unidades · {n} trimestres · promedio {a} unidades/trimestre",
+    "termUnits": "{u} unidades",
+    "genericTag": "bloque genérico",
+    "keyTag": "clave",
+    "keyTitle": "🔑 Cursos clave (un retraso retrasa la graduación / desbloquean muchos cursos)",
+    "keyDetail": "desbloquea {f} cursos · programado en {t}",
+    "coverageMajor": "Cobertura de la carrera",
+    "coverageGe": "Cobertura de GE y universidad",
+    "warningsTitle": "Notas y advertencias",
+    "fall": "Otoño",
+    "winter": "Invierno",
+    "spring": "Primavera",
+    "yearLabel": "Año {y}"
   }
 }

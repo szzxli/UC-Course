@@ -5,7 +5,8 @@
     "plan": "🗓️ 排課",
     "major": "🎓 專業畢業要求",
     "traj": "🛤️ 我的軌跡",
-    "ge": "📖 通識與畢業要求"
+    "ge": "📖 通識與畢業要求",
+    "engine": "🧠 智能排課引擎"
   },
   "courses": {
     "add": "＋ 加入我的選課",
@@ -60,7 +61,10 @@
     "quickTraj": "看我的軌跡 →",
     "geTitle": "📖 通識與畢業要求",
     "geDesc": "除了專業課，畢業還差通識（GE）+ 大學統一要求，一起看才完整。",
-    "geGo": "查看通識要求 →"
+    "geGo": "查看通識要求 →",
+    "engineTitle": "🧠 智能排課引擎",
+    "engineDesc": "說幾年畢業，自動按先修鏈排好學期表（試點：UCSB 環境科學）。",
+    "engineGo": "去排課 →"
   },
   "nav": {
     "courses": "查課",
@@ -151,7 +155,8 @@
     "major": "專業 · UC 智選",
     "traj": "軌跡 · UC 智選",
     "transfer": "轉學分導入 - UC 智選",
-    "ge": "通識與畢業要求 · UC 智選"
+    "ge": "通識與畢業要求 · UC 智選",
+    "engine": "智能排課引擎 · UC 智選"
   },
   "warn": {
     "listSep": "、",
@@ -196,7 +201,8 @@
     "campusMismatch": "目前意向專業屬於 {fc}，與目前校區 {campus} 不一致，資料無法對應。請回首頁重新選擇校區與專業。",
     "importBannerN": "🎓 已從轉學分導入 {n} 門「已修」課，下方進度已更新。",
     "importBanner0": "🎓 轉學分導入完成：所選課程之前已導入過，沒有新增。",
-    "goGe": "查看本校通識與畢業要求 →"
+    "goGe": "查看本校通識與畢業要求 →",
+    "goEngine": "智能排課引擎 →"
   },
   "traj": {
     "empty": "先去專業頁把課加入清單，再回來生成軌跡",
@@ -251,6 +257,33 @@
     "openPool": "從官方認可的本區課程中選 {n} 門（以 GOLD 標註為準）",
     "required": "必修",
     "byNote": "按說明滿足",
-    "checked": "核對於 {d}"
+    "checked": "核對於 {d}",
+    "engineDesc": "說幾年畢業，自動按先修鏈排好學期表（試點：UCSB 環境科學）。",
+    "goEngine": "智能排課引擎 →"
+  },
+  "engine": {
+    "pilotNote": "試點：僅支持 UCSB 環境科學（B.S.）。夏季學期、UC Online 與社區大學課不在本版，屬後續期次。",
+    "yearsLabel": "目標畢業年數",
+    "capLabel": "每學期最大學分",
+    "startLabel": "起始學期",
+    "langLabel": "外語需在 UCSB 修課（+3 門，學位總學分 184）",
+    "haveNote": "已修課程（來自專業頁）將自動排除：{n} 門",
+    "runBtn": "生成排課 →",
+    "verdictOk": "✅ {y} 年可畢業",
+    "verdictFail": "❌ 按當前條件排不下",
+    "failDetail": "未排入 {u} 門；還差 {extra} 個學期（先修最長鏈 {cp} 學期，學分下限 {ml} 學期）",
+    "totalLine": "總學分 {t} · {n} 個學期 · 平均每學期 {a} 學分",
+    "termUnits": "{u} 學分",
+    "genericTag": "通用塊",
+    "keyTag": "關鍵",
+    "keyTitle": "🔑 關鍵課（拖期即拖畢業 / 解鎖多門後續課）",
+    "keyDetail": "解鎖 {f} 門後續課 · 排在 {t}",
+    "coverageMajor": "專業要求覆蓋",
+    "coverageGe": "通識與大學要求覆蓋",
+    "warningsTitle": "說明與提醒",
+    "fall": "秋季",
+    "winter": "冬季",
+    "spring": "春季",
+    "yearLabel": "第 {y} 年"
   }
 }

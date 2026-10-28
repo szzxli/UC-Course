@@ -1,0 +1,1751 @@
+{
+  "campus": "UCSB",
+  "major": "Environmental Studies (B.S.)",
+  "checked": "2026-10-27",
+  "n_courses": 176,
+  "courses": [
+    {
+      "code": "ANTH 2",
+      "title": "Introductory Cultural Anthropology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "AS AM 1",
+      "title": "Introduction to Asian American History, 1850-Present",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "AS AM 9",
+      "title": "Race and Resistance: Asian American, Black, Chicana/o and Indigenous Freedom Struggles",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BL ST 1",
+      "title": "Introduction to African-American Studies",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CH ST 1A",
+      "title": "Introduction to Chicano/a Studies",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1A, CHEM 2A or CHEM 3A with a minimum grade of C-.",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 2A",
+        "CHEM 3A"
+      ]
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1B, CHEM 2B or CHEM 3B with a minimum grade of C-.",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 2AL",
+      "title": "General Chemistry Lab (Part A)",
+      "units": "2.5",
+      "prerequisites_raw": "CHEM 1A, CHEM 2A, or CHEM 3A with a minimum grade of C-. Concurrent enrollment, or a grade of C- or higher in CHEM 1B, CHEM 2B, or CHEM 3B.",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 2A",
+        "CHEM 3A",
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 2BL",
+      "title": "General Chemistry Laboratory (Part B)",
+      "units": "2.5",
+      "prerequisites_raw": "CHEM 1B, CHEM 2B, or CHEM 3B with a minimum grade of C-. Concurrent enrollment, or a grade of C- or higher in CHEM 1C, CHEM 2C, or CHEM 3C. CHEM 2AL (may be taken concurrently).",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B",
+        "CHEM 1C",
+        "CHEM 2C",
+        "CHEM 3C",
+        "CHEM 2AL"
+      ]
+    },
+    {
+      "code": "EARTH 2",
+      "title": "Principles of Physical Geology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 20",
+      "title": "Geological Catastrophes",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 4",
+      "title": "Introduction to Oceanography",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 1",
+      "title": "Principles of Economics-Micro",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 2",
+      "title": "Principles of Economics-Macro",
+      "units": "5",
+      "prerequisites_raw": "Economics 1",
+      "prerequisites_courses": [
+        "ECON 1"
+      ]
+    },
+    {
+      "code": "ECON 5",
+      "title": "Statistics for Economics",
+      "units": "5",
+      "prerequisites_raw": "Math 34A-B or Math 2A-B or 3A-B; Math 34B or 2B or 3B can be taken simultaneously. Course cannot be used to satisfy any Actuarial Science, Financial Math & Statistics or Statistical Science major or minor requirements.",
+      "prerequisites_courses": [
+        "MATH 34A",
+        "MATH 2A",
+        "MATH 34B",
+        "MATH 3A",
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "ECON 9",
+      "title": "Introduction to Economics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EEMB 146",
+      "title": "Biometry",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 2A-B or 3A-B or 34A-B or 34LA-LB; and PSTAT 5A or PSTAT 5LS or PSTAT 109 or Math 4A or Psy 5; Completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "PSTAT 5A",
+        "PSTAT 5LS",
+        "PSTAT 109",
+        "MATH 4A",
+        "MATH 3A",
+        "MATH 34A",
+        "MATH 34LA"
+      ]
+    },
+    {
+      "code": "EEMB 179",
+      "title": "Ecological Modeling",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 34A-B or 34LA-LB or 3A-B or 2A-B; completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MATH 34A",
+        "MATH 34LA",
+        "MATH 3A",
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "EEMB 2",
+      "title": "Introductory Biology II--Ecology and Evolution",
+      "units": "3",
+      "prerequisites_raw": "MCDB 1A with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "EEMB 2LL",
+      "title": "Introductory Biology Laboratory II",
+      "units": "1.5",
+      "prerequisites_raw": "Grade of C- or better in EEMB 2 (maybe taken concurrently).",
+      "prerequisites_courses": [
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "EEMB 3",
+      "title": "Introductory Biology III",
+      "units": "3",
+      "prerequisites_raw": "MCDB 1A-B and EEMB 2 with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "ENGL 10",
+      "title": "Introduction to Literary Study",
+      "units": "5",
+      "prerequisites_raw": "Writing 2.",
+      "prerequisites_courses": [
+        "WRIT 2"
+      ]
+    },
+    {
+      "code": "ENGL 10AC",
+      "title": "Introduction to Literary Study - Exploring American Cultures",
+      "units": "4",
+      "prerequisites_raw": "Writing 2.",
+      "prerequisites_courses": [
+        "WRIT 2"
+      ]
+    },
+    {
+      "code": "ENGL 10EM",
+      "title": "Introduction to Literary Study - Exploring Early Modern Studies",
+      "units": "4",
+      "prerequisites_raw": "Writing 2.",
+      "prerequisites_courses": [
+        "WRIT 2"
+      ]
+    },
+    {
+      "code": "ENGL 10LC",
+      "title": "Introduction to Literary Study - Exploring Literature and the Culture of Information",
+      "units": "4",
+      "prerequisites_raw": "Writing 2.",
+      "prerequisites_courses": [
+        "WRIT 2"
+      ]
+    },
+    {
+      "code": "ENGL 37",
+      "title": "Law in Everyday Life",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 1",
+      "title": "Introduction to Environmental Studies",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 101",
+      "title": "Ecosystems Services and Biodiversity",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently) and either Environmental Studies 60 or EEMB 2.",
+      "prerequisites_courses": [
+        "ENV S 40",
+        "ENV S 60",
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "ENV S 103A",
+      "title": "Flora and Vegetation of California",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2 and EEMB 3. Completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "ENV S 105",
+      "title": "Renewable Energy Systems",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing; Mathematics 2B, or 3B, or 34B, or Mathematics 34A and Environmental Studies 25.",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 34A",
+        "ENV S 25",
+        "MATH 3B",
+        "MATH 34B"
+      ]
+    },
+    {
+      "code": "ENV S 111",
+      "title": "The California Channel Islands",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A-1AL and EEMB 2; or MCDB 20 or EEMB 22 or Environmental Studies 2 or 60 or Geography 3 or 4 or Earth Science 2.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 20",
+        "EEMB 22",
+        "ENV S 2",
+        "GEOG 3",
+        "EARTH 2",
+        "MCDB 1AL",
+        "ENV S 60",
+        "GEOG 4"
+      ]
+    },
+    {
+      "code": "ENV S 113",
+      "title": "Engineering and Environmental Geology",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 3A-B or 2A-B or 34A-B ; and, Physics 1 or 6A or 7A or 21; upper-division standing.",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "PHYS 1",
+        "MATH 2A",
+        "MATH 34A",
+        "PHYS 6A",
+        "PHYS 7A",
+        "PHYS 21"
+      ]
+    },
+    {
+      "code": "ENV S 114A",
+      "title": "Principles of Soil Science",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 15A and 15B or Chemistry 1A-B; and Geography 3 or 4 or Earth Science 2 or 4 or 20",
+      "prerequisites_courses": [
+        "ENV S 15A",
+        "CHEM 1A",
+        "GEOG 3",
+        "EARTH 2",
+        "ENV S 15B",
+        "GEOG 4",
+        "EARTH 4",
+        "EARTH 20"
+      ]
+    },
+    {
+      "code": "ENV S 114B",
+      "title": "Soils of California: Formation, Morphology, and Management",
+      "units": "5",
+      "prerequisites_raw": "Environmental Studies 114A or Geography 114A or Earth Science 184A with a grade C or higher.",
+      "prerequisites_courses": [
+        "ENV S 114A",
+        "GEOG 114A",
+        "EARTH 184A"
+      ]
+    },
+    {
+      "code": "ENV S 115",
+      "title": "Energy and the Environment",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 2; and Environmental Studies 40 (may be taken concurrently); and Mathematics 2B, or 3B, or 34B, or Mathematics 34A and Environmental Studies 25.",
+      "prerequisites_courses": [
+        "ENV S 2",
+        "ENV S 40",
+        "MATH 2B",
+        "MATH 34A",
+        "ENV S 25",
+        "MATH 3B",
+        "MATH 34B"
+      ]
+    },
+    {
+      "code": "ENV S 116",
+      "title": "Sustainable Communities",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 40 (concurrent enrollment is permitted).",
+      "prerequisites_courses": [
+        "ENV S 40"
+      ]
+    },
+    {
+      "code": "ENV S 117",
+      "title": "Climate Change and the Transition to Low Carbon",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently) and upper-division standing.",
+      "prerequisites_courses": [
+        "ENV S 40"
+      ]
+    },
+    {
+      "code": "ENV S 119",
+      "title": "Ecology and Management of California Wildlands",
+      "units": "5",
+      "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "ENV S 120A",
+      "title": "Introduction to Environmental Toxicology",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 2; Environmental Studies 60 or MCDB 20 or EEMB 22 or MCDB 1A and EEMB 2; Chemistry 1A and 1B or Environmental Studies 15A and 15B.",
+      "prerequisites_courses": [
+        "ENV S 2",
+        "ENV S 60",
+        "MCDB 20",
+        "EEMB 22",
+        "MCDB 1A",
+        "EEMB 2",
+        "CHEM 1A",
+        "ENV S 15A",
+        "CHEM 1B",
+        "ENV S 15B"
+      ]
+    },
+    {
+      "code": "ENV S 120B",
+      "title": "Advanced Environmental Toxicology",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 120 or 120A.",
+      "prerequisites_courses": [
+        "ENV S 120A"
+      ]
+    },
+    {
+      "code": "ENV S 121",
+      "title": "Contaminants of Emerging Concern",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 120 or 120A.",
+      "prerequisites_courses": [
+        "ENV S 120A"
+      ]
+    },
+    {
+      "code": "ENV S 126",
+      "title": "Advanced Statistics for Environmental Science",
+      "units": "4",
+      "prerequisites_raw": "PSTAT 5A or 5LS or Economics 5",
+      "prerequisites_courses": [
+        "PSTAT 5A",
+        "ECON 5",
+        "PSTAT 5LS"
+      ]
+    },
+    {
+      "code": "ENV S 128",
+      "title": "Foundations of Ecosystem Restoration",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "ENV S 130A",
+      "title": "Un-naturalizing Disasters: Risk, Vulnerability, and Resilience",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 1 or 3 or Anthropology 2.",
+      "prerequisites_courses": [
+        "ENV S 1",
+        "ANTH 2",
+        "ENV S 3"
+      ]
+    },
+    {
+      "code": "ENV S 130C",
+      "title": "Aquatic Food and Resource Management",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently); and Environmental Studies 60 or EEMB 2.",
+      "prerequisites_courses": [
+        "ENV S 40",
+        "ENV S 60",
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "ENV S 133",
+      "title": "Biodiversity and Conservation Biology",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "ENV S 134",
+      "title": "Coastal Processes and Management",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 2; Mathematics 2A or 3A or 34A or Environmental Studies 25; EARTH 1 or 2 or 4 or 20 or Geography 3 or 4.",
+      "prerequisites_courses": [
+        "ENV S 2",
+        "MATH 2A",
+        "ENV S 25",
+        "EARTH 1",
+        "GEOG 3",
+        "MATH 3A",
+        "MATH 34A",
+        "EARTH 2",
+        "EARTH 4",
+        "EARTH 20",
+        "GEOG 4"
+      ]
+    },
+    {
+      "code": "ENV S 135A",
+      "title": "Principles of Environmental Planning",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently).",
+      "prerequisites_courses": [
+        "ENV S 40"
+      ]
+    },
+    {
+      "code": "ENV S 136O",
+      "title": "Sustainable Architecture: History and Aesthetics",
+      "units": "4",
+      "prerequisites_raw": "Not open to freshmen.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 137",
+      "title": "Conservation Planning",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing required.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 140",
+      "title": "Ecology and Management of Wildland Fire",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing and Environmental Studies 2 or 60 or EEMB 2.",
+      "prerequisites_courses": [
+        "ENV S 2",
+        "EEMB 2",
+        "ENV S 60"
+      ]
+    },
+    {
+      "code": "ENV S 141",
+      "title": "Chemistry of Global Change",
+      "units": "4",
+      "prerequisites_raw": "Chemistry 1B and Math 2B or 3B or Math 34B or Environmental Studies 25.",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "MATH 2B",
+        "MATH 34B",
+        "ENV S 25",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "ENV S 142",
+      "title": "Microbes and the Human Environment",
+      "units": "4",
+      "prerequisites_raw": "Chemistry 1A or Environmental Studies 15A; and Environmental Studies 60 or MCDB 20 or EEMB 22 or EEMB 2.",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "ENV S 15A",
+        "ENV S 60",
+        "MCDB 20",
+        "EEMB 22",
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "ENV S 144",
+      "title": "Form, Process And Human Use Of Rivers",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 2A-2B or 3A-3B or 34A-B.",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 34A"
+      ]
+    },
+    {
+      "code": "ENV S 145",
+      "title": "Climate Change Mitigation Strategies",
+      "units": "4",
+      "prerequisites_raw": "Upper-division Standing, Environmental Studies 2, and either Math 2B, 3B, 34B or Math 34A and Environmental Studies 25.",
+      "prerequisites_courses": [
+        "ENV S 2",
+        "MATH 2B",
+        "MATH 34A",
+        "ENV S 25",
+        "MATH 3B",
+        "MATH 34B"
+      ]
+    },
+    {
+      "code": "ENV S 147",
+      "title": "Air Quality and the Environment",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 2A or 3A or 34A or Environmental Studies 25; and, Chemistry 1A and 1B, or Environmental Studies 15A and 15B.",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "ENV S 25",
+        "CHEM 1A",
+        "ENV S 15A",
+        "MATH 3A",
+        "MATH 34A",
+        "CHEM 1B",
+        "ENV S 15B"
+      ]
+    },
+    {
+      "code": "ENV S 148",
+      "title": "Transforming Food Systems",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 149",
+      "title": "Food, Agriculture, and the Environment",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 150",
+      "title": "Agroecology",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 152",
+      "title": "Applied Marine Ecology",
+      "units": "5",
+      "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "ENV S 153",
+      "title": "Ecosystem Change In The Anthropocene",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently) and Environmental Studies 2 or 60 or EEMB 2.",
+      "prerequisites_courses": [
+        "ENV S 40",
+        "ENV S 2",
+        "EEMB 2",
+        "ENV S 60"
+      ]
+    },
+    {
+      "code": "ENV S 154",
+      "title": "Geographic Information Systems (GIS) for Environmental Applications",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 2 or Geography 4 or Earth Sciences 2; and either Environmental Studies 1 or 3.",
+      "prerequisites_courses": [
+        "ENV S 2",
+        "GEOG 4",
+        "ENV S 1",
+        "GEOG 2",
+        "ENV S 3"
+      ]
+    },
+    {
+      "code": "ENV S 155",
+      "title": "The Built World: Infrastructure and Environmental Change",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 40 (may be taken concurrently).",
+      "prerequisites_courses": [
+        "ENV S 40"
+      ]
+    },
+    {
+      "code": "ENV S 156",
+      "title": "Pathways to Sustainable Water Infrastructure",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 2; Environmental Studies 40 (may be taken concurrently); Mathematics 2B, or 3B, or 34B, or Mathematics 34A and Environmental Studies 25.",
+      "prerequisites_courses": [
+        "ENV S 2",
+        "ENV S 40",
+        "MATH 2B",
+        "MATH 34A",
+        "ENV S 25",
+        "MATH 3B",
+        "MATH 34B"
+      ]
+    },
+    {
+      "code": "ENV S 160",
+      "title": "Literature of Animals, Food, and the Environment",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 1 or 2 or 3 or English 10; and Writing 2 or 2E or 2LK or one course from Writing 105A-Z, 107A-Z, or 109AA-ZZ.",
+      "prerequisites_courses": [
+        "ENV S 1",
+        "ENGL 10",
+        "WRIT 2",
+        "ENV S 2",
+        "ENV S 3",
+        "WRIT 2E",
+        "WRIT 2LK",
+        "WRIT 107A"
+      ]
+    },
+    {
+      "code": "ENV S 162",
+      "title": "Environmental Water Quality",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 163A",
+      "title": "Global Water Resources: Water Supply and Demand",
+      "units": "4",
+      "prerequisites_raw": "Environmental Studies 1 or 3 or Political Science 12; Environmental Studies 40 (may be taken concurrently); Math 2A or 3A or 34A; Pstat 5A or 5LS or 109 or Economics 5.",
+      "prerequisites_courses": [
+        "ENV S 1",
+        "POL S 12",
+        "ENV S 40",
+        "MATH 2A",
+        "ECON 5",
+        "ENV S 3",
+        "MATH 3A",
+        "MATH 34A"
+      ]
+    },
+    {
+      "code": "ENV S 164",
+      "title": "Introduction to Collecting, Coding, and Exploring Water Data",
+      "units": "4",
+      "prerequisites_raw": "Math 2B or 3B or 34B or Environmental Studies 25.",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "ENV S 25",
+        "MATH 3B",
+        "MATH 34B"
+      ]
+    },
+    {
+      "code": "ENV S 166DC",
+      "title": "Diet and Global Climate Change",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 167",
+      "title": "Biogeography: The Study of Plant and Animal Distributions",
+      "units": "4",
+      "prerequisites_raw": "Geography 3 or 3A or 3B or 4 or Environmental Studies 2 or EEMB 2 or Earth Science 2.",
+      "prerequisites_courses": [
+        "GEOG 3",
+        "ENV S 2",
+        "EEMB 2",
+        "EARTH 2",
+        "GEOG 4"
+      ]
+    },
+    {
+      "code": "ENV S 168",
+      "title": "Aqueous Transport of Pollutants",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 2B or 3B and Chemistry 1A-B-C.",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "CHEM 1A",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "ENV S 169",
+      "title": "Tracer and Contaminant Hydrology",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 2B or 3B and Chemistry 1A-B-C.",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "CHEM 1A",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "ENV S 171",
+      "title": "Ecosystem Processes",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A, MCDB 1B, EEMB 2, and EEMB 3; or ENVS 1, 2, 3 and 60 or 100, and either Chem 1A, 1AL, 1B, and 1C or ENVS 15A, 15B, and 15BL. Completion of all listed prerequisites with a grade of C- or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "ENV S 173",
+      "title": "American Environmental History",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 189",
+      "title": "Religion And Ecology In The Americas",
+      "units": "4",
+      "prerequisites_raw": "Upper-division standing or instructor approval.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 190",
+      "title": "Colloquium On Current Topics In Environmental Studies",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 192",
+      "title": "Internships In Environmental Studies",
+      "units": "0",
+      "prerequisites_raw": "Minimum sophomore standing, 2.75 overall G.P.A., and be declared an Environmental Studies or Hydrologic Sciences major; or consent by department.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 193CS",
+      "title": "Peoples Science: An introduction to citizen and community science",
+      "units": "0",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 193DD",
+      "title": "Data Science for Environmental Studies",
+      "units": "0",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 193DS",
+      "title": "Statistics for Environmental Science",
+      "units": "0",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 193EB",
+      "title": "Ethnobotany and Economic Botany: Human Uses of Plant",
+      "units": "0",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 193ST",
+      "title": "Sea Turtle Conservation Science and Management",
+      "units": "0",
+      "prerequisites_raw": "Upper-division standing.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 194",
+      "title": "Group Study",
+      "units": "0",
+      "prerequisites_raw": "Upper-division status and consent of instructor.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 197",
+      "title": "Senior Thesis",
+      "units": "6",
+      "prerequisites_raw": "Upper-division standing; consent of instructor.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 199",
+      "title": "Independent Investigation in Environmental Studies",
+      "units": "0",
+      "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in environmental studies; consent of instructor and department.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 199RA",
+      "title": "Independent Research Assistance in Environmental Studies",
+      "units": "0",
+      "prerequisites_raw": "Upper-division standing; completion of two upper-division courses in environmental studies; consent of instructor and department.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 2",
+      "title": "Introduction to Environmental Science",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 3",
+      "title": "Introduction to the Social and Cultural Environment",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 30",
+      "title": "Introduction to Environmental Economics",
+      "units": "5",
+      "prerequisites_raw": "Mathematics 34A or 3A or 2A.",
+      "prerequisites_courses": [
+        "MATH 34A",
+        "MATH 3A",
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "ENV S 40",
+      "title": "Critical Thinking and Evidence-Based Reasoning for the Environment",
+      "units": "5",
+      "prerequisites_raw": "Environmental Studies 1 or 2 or 3.",
+      "prerequisites_courses": [
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3"
+      ]
+    },
+    {
+      "code": "ENV S 70",
+      "title": "Introduction to Environmental Ethics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "FAMST 46",
+      "title": "Introduction to Cinema",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "FEMST 50",
+      "title": "Global Feminisms and Social Justice",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "GEOG 172",
+      "title": "Intermediate Geographical Data Analysis",
+      "units": "5",
+      "prerequisites_raw": "Statistics and Applied Probability 5AA-ZZ or Ecology, Evolution & Marine Biology 30 or Psychology 5 or Communication 87.",
+      "prerequisites_courses": [
+        "COMM 87"
+      ]
+    },
+    {
+      "code": "GEOG 3",
+      "title": "Oceans and Atmosphere",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "GEOG 4",
+      "title": "Land, Water and Life",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "GLOBL 1",
+      "title": "Global History, Culture and Ideology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "GLOBL 2",
+      "title": "Global Socioeconomic and Political Processes",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "HIST 5",
+      "title": "The History of the Present",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "HIST 7",
+      "title": "Great Issues in the History of Public Policy",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "Qualifying score on the Mathematics Placement Exam.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "Mathematics 2A with a minimum grade of C.",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "Qualifying score on the Mathematics Placement Exam.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 3A with a minimum grade of C.",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MCDB 1A",
+      "title": "Introductory Biology I",
+      "units": "4",
+      "prerequisites_raw": "Chemistry 1A-B-C with a grade of C- or better (Chem 1C may be taken concurrently), or a score of 4 or better on either the Advanced Placement Chemistry or Advanced Placement Biology exams.",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 1C"
+      ]
+    },
+    {
+      "code": "MCDB 1B",
+      "title": "Introductory Biology II--Physiology",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A and Chemistry 1A-B-C with a grade of C- or better; or MCDB 1A with a grade of C or better.",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "CHEM 1A"
+      ]
+    },
+    {
+      "code": "MCDB 1LL",
+      "title": "Introductory Biology Laboratory I",
+      "units": "1.5",
+      "prerequisites_raw": "Grade of C- or better in MCDB 1A (may be taken concurrently).",
+      "prerequisites_courses": [
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "PHIL 4",
+      "title": "Introduction to Ethics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYS 6A",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "Mathematics 2A or 3A or 34A (may be taken concurrently) or AP Math AB Exam score of 3 or better.",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A"
+      ]
+    },
+    {
+      "code": "PHYS 6AL",
+      "title": "Introductory Experimental Physics",
+      "units": "1",
+      "prerequisites_raw": "Concurrent enrollment in Physics 6A.",
+      "prerequisites_courses": [
+        "PHYS 6A"
+      ]
+    },
+    {
+      "code": "PHYS 6B",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "Physics 6A with a minimum grade of C-.",
+      "prerequisites_courses": [
+        "PHYS 6A"
+      ]
+    },
+    {
+      "code": "PHYS 6BL",
+      "title": "Introductory Experimental Physics",
+      "units": "1",
+      "prerequisites_raw": "Concurrent enrollment in Physics 6B.",
+      "prerequisites_courses": [
+        "PHYS 6B"
+      ]
+    },
+    {
+      "code": "PHYS 6C",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "Physics 6B with a minimum grade of C-.",
+      "prerequisites_courses": [
+        "PHYS 6B"
+      ]
+    },
+    {
+      "code": "PHYS 6CL",
+      "title": "Introductory Experimental Physics",
+      "units": "1",
+      "prerequisites_raw": "Concurrent enrollment in Physics 6C.",
+      "prerequisites_courses": [
+        "PHYS 6C"
+      ]
+    },
+    {
+      "code": "PHYS 7A",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "Mathematics 2A or 3A or AP Math AB Exam with a score of 3 or better.",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 7B",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "Physics 7A with a grade of C- or better; Mathematics 2A-B or 3A-B or AP Math BC exam with a score of 3 or better.",
+      "prerequisites_courses": [
+        "PHYS 7A",
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 7C",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "Physics 7B with a grade of C- or better; Mathematics 2A-B or 3A-B or AP Math BC exam with a score of 3 or better.",
+      "prerequisites_courses": [
+        "PHYS 7B",
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 7L",
+      "title": "Physics Laboratory",
+      "units": "1",
+      "prerequisites_raw": "Physics 7B; Co-requisite: Physics 7C",
+      "prerequisites_courses": [
+        "PHYS 7B",
+        "PHYS 7C"
+      ]
+    },
+    {
+      "code": "POL S 1",
+      "title": "Introduction to Political Philosophy",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "POL S 12",
+      "title": "American Government and Politics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "POL S 6",
+      "title": "Introduction to Comparative Politics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "POL S 7",
+      "title": "Introduction to International Relations",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 120A",
+      "title": "Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "Math 3C or Math 4A or Math 4AI or Math 6A or Math 6AI completed with a minimum grade of C or better.",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 6A"
+      ]
+    },
+    {
+      "code": "PSTAT 5A",
+      "title": "Understanding Data",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 5LS",
+      "title": "Statistics for Life Sciences",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 1",
+      "title": "Introduction to Psychology",
+      "units": "5",
+      "prerequisites_raw": "Students are required to be subjects in low-risk psychological experiments or completion of a short paper.",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "RG ST 1",
+      "title": "Introduction to the Study of Religion",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "RG ST 14",
+      "title": "Introduction to Native American Religious Studies",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "RG ST 37",
+      "title": "Law in Everyday Life",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "SOC 1",
+      "title": "Introduction to Sociology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "WRIT 105AI",
+      "title": "Writing and Generative AI",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK ; upper-division standing",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105C",
+      "title": "Writing Creative Nonfiction",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105CD",
+      "title": "Writing with Code",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105CH",
+      "title": "Writing for Change",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E; upper-division standing",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E"
+      ]
+    },
+    {
+      "code": "WRIT 105CR",
+      "title": "Writing for Cultural Rhetorics",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105CW",
+      "title": "Writing in Community",
+      "units": "4",
+      "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK",
+        "WRIT 1"
+      ]
+    },
+    {
+      "code": "WRIT 105G",
+      "title": "Grammar and Stylistics",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105M",
+      "title": "Multimedia Writing",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105P",
+      "title": "Writing and Philosophies of Language",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105PD",
+      "title": "Writing and Public Discourse",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105PS",
+      "title": "Writing for Public Speaking",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105R",
+      "title": "Rhetoric and Writing",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105S",
+      "title": "Writing About Sustainability",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105SO",
+      "title": "Writing and Sound",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 105SW",
+      "title": "Science Writing for the Public",
+      "units": "4",
+      "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK",
+        "WRIT 1"
+      ]
+    },
+    {
+      "code": "WRIT 105WC",
+      "title": "Writing in Community",
+      "units": "4",
+      "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK",
+        "WRIT 1"
+      ]
+    },
+    {
+      "code": "WRIT 105WE",
+      "title": "Writing and Ethics",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing; or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >=1 or Exam: IB BL >=6 or Exam: IB E >=6",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK",
+        "WRIT 1"
+      ]
+    },
+    {
+      "code": "WRIT 107A",
+      "title": "Writing for Accounting Economics",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; Economics 136A (may be taken concurrently); upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "ECON 136A",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107B",
+      "title": "Business and Administrative Writing",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107DJ",
+      "title": "Digital Journalism",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107EP",
+      "title": "Writing for Environmental Professions",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107G",
+      "title": "Professional Writing for Global Careers",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107J",
+      "title": "Journalism and News Writing",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107L",
+      "title": "Legal Writing",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107M",
+      "title": "Magazine Writing for Publication",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107P",
+      "title": "Writing for Public Relations",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107T",
+      "title": "Technical Writing",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 107WC",
+      "title": "Writing Web Content",
+      "units": "4",
+      "prerequisites_raw": "Writ 2 or Writ 2E or Writ 2LK or Exam: AP 36 >=4 or Exam: AP 37 >=4 or Exam: WAIV AW >= 1 or Exam: IB BL >= 6 or Exam: IB E >= 6; upper division standing",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK",
+        "WRIT 1"
+      ]
+    },
+    {
+      "code": "WRIT 109",
+      "title": "Writing for the Disciplines",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2LK or 2E; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2LK",
+        "WRIT 2E"
+      ]
+    },
+    {
+      "code": "WRIT 109CS",
+      "title": "Writing for Chicano/a Studies",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2LK or 2E; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2LK",
+        "WRIT 2E"
+      ]
+    },
+    {
+      "code": "WRIT 109ED",
+      "title": "Writing for the Teaching Professions",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109ES",
+      "title": "Writing for Environmental Studies",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109F",
+      "title": "Writing about Film",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109GS",
+      "title": "Writing And Gender Studies",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109HP",
+      "title": "Writing for Health Professions",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109HU",
+      "title": "Writing for the Humanities",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109R",
+      "title": "Research Writing in Academic Professional Settings",
+      "units": "4",
+      "prerequisites_raw": "Writing 2, 2LK or equivalent. Upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109SS",
+      "title": "Writing for the Social Sciences",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109ST",
+      "title": "Writing for Science and Technology",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 109V",
+      "title": "Writing for the Visual Arts",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; upper-division standing.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    },
+    {
+      "code": "WRIT 2",
+      "title": "Academic Writing",
+      "units": "5",
+      "prerequisites_raw": "Satisfaction of the Entry Level Writing requirement or Linguistics 12 with a grade of \"C\" or better.",
+      "prerequisites_courses": [
+        "LING 12"
+      ]
+    },
+    {
+      "code": "WRIT 2E",
+      "title": "Academic Writing for Engineers",
+      "units": "4",
+      "prerequisites_raw": "Satisfaction of the Entry Level Writing requirement or Linguistics 12; freshmen only; open to ECE, Chemical Engineering, Mechanical Engineering, and Computer Engineering majors only.",
+      "prerequisites_courses": [
+        "LING 12"
+      ]
+    },
+    {
+      "code": "WRIT 2LK",
+      "title": "Academic Writing",
+      "units": "5",
+      "prerequisites_raw": "Satisfaction of the Entry Level Writing requirement or Linguistics 12, and co-enrollment in linked companion course.",
+      "prerequisites_courses": [
+        "LING 12"
+      ]
+    },
+    {
+      "code": "WRIT 50",
+      "title": "Writing and the Research Process",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "WRIT 50E",
+      "title": "Writing and the Research Process for Engineers",
+      "units": "4",
+      "prerequisites_raw": "Writing 2 or 2E or 2LK; freshmen only; open to ECE, Chemical Engineering, Mechanical Engineering, and Computer Engineering majors only.",
+      "prerequisites_courses": [
+        "WRIT 2",
+        "WRIT 2E",
+        "WRIT 2LK"
+      ]
+    }
+  ]
+}

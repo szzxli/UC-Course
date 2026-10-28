@@ -5,7 +5,8 @@
     "plan": "🗓️ Plan Schedule",
     "major": "🎓 Major Requirements",
     "traj": "🛤️ My Trajectory",
-    "ge": "📖 GE & Graduation Requirements"
+    "ge": "📖 GE & Graduation Requirements",
+    "engine": "🧠 Smart Scheduler"
   },
   "courses": {
     "add": "+ Add to my courses",
@@ -60,7 +61,10 @@
     "quickTraj": "View my trajectory →",
     "geTitle": "📖 GE & Graduation Requirements",
     "geDesc": "Beyond major courses, graduation also needs GE + university requirements — see them together.",
-    "geGo": "View GE requirements →"
+    "geGo": "View GE requirements →",
+    "engineTitle": "🧠 Smart Scheduler",
+    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (pilot: UCSB Environmental Studies).",
+    "engineGo": "Schedule →"
   },
   "nav": {
     "courses": "Courses",
@@ -151,7 +155,8 @@
     "major": "Major · UC SmartPick",
     "traj": "Trajectory · UC SmartPick",
     "transfer": "Transfer Credit Import - UC SmartPick",
-    "ge": "GE & Graduation Requirements · UC SmartPick"
+    "ge": "GE & Graduation Requirements · UC SmartPick",
+    "engine": "Smart Scheduler · UC SmartPick"
   },
   "warn": {
     "listSep": ", ",
@@ -196,7 +201,8 @@
     "campusMismatch": "Your intended major belongs to {fc}, which doesn't match the current campus {campus}. Please go back to the home page and re-select campus and major.",
     "importBannerN": "🎓 Imported {n} completed course(s) from transfer credits — the progress below is updated.",
     "importBanner0": "🎓 Transfer import finished: the selected courses were already imported, nothing new was added.",
-    "goGe": "View campus GE & graduation requirements →"
+    "goGe": "View campus GE & graduation requirements →",
+    "goEngine": "Smart Scheduler →"
   },
   "traj": {
     "empty": "Add courses from the Major tab first",
@@ -251,6 +257,33 @@
     "openPool": "Pick {n} from Senate-approved courses in this area (check GOLD designation)",
     "required": "Required",
     "byNote": "Satisfy per notes",
-    "checked": "Checked {d}"
+    "checked": "Checked {d}",
+    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (pilot: UCSB Environmental Studies).",
+    "goEngine": "Smart Scheduler →"
+  },
+  "engine": {
+    "pilotNote": "Pilot: UCSB Environmental Studies (B.S.) only. Summer terms, UC Online and community college courses are not in this version.",
+    "yearsLabel": "Years to graduate",
+    "capLabel": "Max units per term",
+    "startLabel": "Starting term",
+    "langLabel": "Foreign language taken at UCSB (+3 courses, 184 total units)",
+    "haveNote": "Completed courses (from the major page) are excluded automatically: {n}",
+    "runBtn": "Generate plan →",
+    "verdictOk": "✅ Graduates in {y} years",
+    "verdictFail": "❌ Not feasible with current settings",
+    "failDetail": "{u} courses unscheduled; short by {extra} terms (longest prereq chain {cp} terms, load lower bound {ml} terms)",
+    "totalLine": "Total {t} units · {n} terms · avg {a} units/term",
+    "termUnits": "{u} units",
+    "genericTag": "generic block",
+    "keyTag": "key",
+    "keyTitle": "🔑 Key courses (a delay delays graduation / unlock many follow-ups)",
+    "keyDetail": "unlocks {f} follow-ups · scheduled {t}",
+    "coverageMajor": "Major coverage",
+    "coverageGe": "GE & university coverage",
+    "warningsTitle": "Notes & caveats",
+    "fall": "Fall",
+    "winter": "Winter",
+    "spring": "Spring",
+    "yearLabel": "Year {y}"
   }
 }

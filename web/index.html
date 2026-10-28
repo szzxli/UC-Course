@@ -64,6 +64,11 @@
     <p class="hint" data-i18n="index.geDesc">除了专业课，毕业还差通识（GE）+ 大学统一要求，一起看才完整。</p>
     <div class="btn-row"><a class="btn ghost" href="ge.html" data-i18n="index.geGo">查看通识要求 →</a></div>
   </div>
+  <div class="card" id="engineCard" hidden>
+    <div class="section-title" data-i18n="index.engineTitle">🧠 智能排课引擎</div>
+    <p class="hint" data-i18n="index.engineDesc">说几年毕业，自动按先修链排好学期表（试点：UCSB 环境科学）。</p>
+    <div class="btn-row"><a class="btn ghost" href="engine.html" data-i18n="index.engineGo">去排课 →</a></div>
+  </div>
   <div class="footnote" data-i18n="index.footnote">v0.2：课程搜索 + 先修链排课。UCLA/UCB 数据管线进行中。</div>
 </div>
 <nav class="tabbar">
@@ -103,6 +108,12 @@ I18N.init().then(function () {
     sel.value = cur;
     fillMajor2(campus);
     updateGoBtn();
+    updateEngineCard();
+  }
+  /* 引擎入口只在试点（UCSB 环境科学）可见 */
+  function updateEngineCard() {
+    document.getElementById("engineCard").hidden =
+      !(Sget("campus", "UCI") === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json");
   }
   function fillMajor2(campus) {
     var sel = document.getElementById("major2Sel");
@@ -154,6 +165,7 @@ I18N.init().then(function () {
     }
     fillMajors(nv);
     renderResume();
+    updateEngineCard();
   });
   (function () {
     var g = Sget("goal", null), c = Sget("campus", "UCI");
@@ -179,6 +191,7 @@ I18N.init().then(function () {
     if (Sget("major2", "") === this.value) { Sset("major2", ""); }
     fillMajor2(document.getElementById("campus").value);
     updateGoBtn();
+    updateEngineCard();
   });
   document.getElementById("major2Sel").addEventListener("change", function () {
     Sset("major2", this.value);
