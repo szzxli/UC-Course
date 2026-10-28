@@ -192,7 +192,10 @@ I18N.init().then(function () {
     var badge = I18N.t(REQ_TYPE_BADGE[req.type] || "major.reqRequired");
     var countLine = (req.type === "elective" && req.count) ? " · " + I18N.t("major.pickCount", { n: req.count }) : "";
     var keys = reqAllCourses(req).map(normCode);
-    var body = (req.courses || []).map(function (c) { return courseRowHTML(c); }).join("");
+    /* 去重：已出现在备选组里的课只在组里出现一次，不再平铺重复（“两组选一”类要求此前上下各出现一次） */
+    var optCourses = {};
+    (req.options || []).forEach(function (g) { g.forEach(function (c) { optCourses[normCode(c)] = true; }); });
+    var body = (req.courses || []).filter(function (c) { return !optCourses[normCode(c)]; }).map(function (c) { return courseRowHTML(c); }).join("");
     (req.options || []).forEach(function (g, gi) {
       body += '<div class="optgroup"><div class="opthead"><span class="tag">' +
         esc(I18N.t("major.optLabel", { n: String.fromCharCode(65 + gi) })) + '</span> ' +
@@ -535,10 +538,10 @@ I18N.init().then(function () {
   });
   window.addEventListener("hashchange", function(){ show(fromHash()); });
   document.getElementById("goGeBtn").addEventListener("click", function(e){
-    e.preventDefault();
-    history.replaceState(null, "", "#ge");
-    show("ge");
-  });
+      e.preventDefault();
+      history.replaceState(null, "", "#ge");
+      show("ge");
+    });
   I18N.init().then(function(){
     I18N.initSwitcher("langSel");
     navActive("requirements");
