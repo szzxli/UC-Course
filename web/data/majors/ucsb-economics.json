@@ -1,363 +1,365 @@
 {
- "campus": "UCSB",
- "major": "Economics",
- "degree": "B.A.",
- "department": "Department of Economics",
- "school": "College of Letters and Science",
- "source_url": "https://catalog.ucsb.edu/programs/BAECON",
- "checked": "2026-10-23",
- "requirements": [
-  {
-   "id": "pre-major",
-   "name": "Pre-Major",
-   "type": "prereq",
-   "courses": [
-    "ECON 1",
-    "ECON 2",
-    "ECON 10A"
-   ],
-   "note": "In order to qualify for admission into the Economics major, students must complete Economics 1, 2, and 10A with a UC grade-point average of 2.85 or above. No grade lower than a C in pre-major courses will be accepted. In addition, students must complete Economics 5 or PSTAT 120A and Math 2A-B or 3A-B or 34A-B with a grade of “C” or higher; the grades in these courses will not be used in computing the pre-major GPA but will apply to the overall major GPA. Econ 10A must be taken at UCSB.",
-   "name_zh": "专业预备（Pre-Major）",
-   "note_zh": "准入门槛：Economics 1、2、10A 三门 UC GPA ≥ 2.85，且预备课成绩不得低于 C；另须完成 Economics 5 或 PSTAT 120A、Math 2A-B 或 3A-B 或 34A-B（成绩 ≥ C，这几门不计入预备 GPA 但计入专业总 GPA）。Econ 10A 必须在 UCSB 修。"
-  },
-  {
-   "id": "preparation-for-the-major",
-   "name": "PREPARATION FOR THE MAJOR",
-   "type": "prereq",
-   "courses": [
-    "ECON 5",
-    "PSTAT 120A"
-   ],
-   "note": "Complete one of the following. Econ 5 must be taken at UCSB.",
-   "options": [
-    [
-     "ECON 5"
-    ],
-    [
-     "PSTAT 120A"
-    ]
-   ],
-   "name_zh": "专业准备课",
-   "note_zh": "以下完成一组；Econ 5 必须在 UCSB 修"
-  },
-  {
-   "id": "preparation-for-the-major-2",
-   "name": "PREPARATION FOR THE MAJOR",
-   "type": "prereq",
-   "courses": [
-    "MATH 2A",
-    "MATH 2B",
-    "MATH 3A",
-    "MATH 3B",
-    "MATH 34A",
-    "MATH 34B"
-   ],
-   "note": "Complete one of the following.",
-   "options": [
-    [
-     "MATH 2A",
-     "MATH 2B"
-    ],
-    [
-     "MATH 3A",
-     "MATH 3B"
-    ],
-    [
-     "MATH 34A",
-     "MATH 34B"
-    ]
-   ],
-   "name_zh": "专业准备课",
-   "note_zh": "以下完成一组"
-  },
-  {
-   "id": "a",
-   "name": "A.",
-   "type": "required",
-   "courses": [
-    "ECON 100B"
-   ],
-   "note": "40 UD Economics units required",
-   "name_zh": "A. 高年级核心",
-   "note_zh": "高年级经济学共需 40 学分"
-  },
-  {
-   "id": "b",
-   "name": "B.",
-   "type": "required",
-   "courses": [
-    "ECON 101"
-   ],
-   "name_zh": "B. 高年级核心"
-  },
-  {
-   "id": "c",
-   "name": "C.",
-   "type": "required",
-   "courses": [
-    "ECON 140A"
-   ],
-   "name_zh": "C. 高年级核心"
-  },
-  {
-   "id": "d",
-   "name": "D.",
-   "type": "elective",
-   "courses": [
-    "ECON 100C",
-    "ECON 106",
-    "ECON 107A",
-    "ECON 107B",
-    "ECON 112A",
-    "ECON 112B",
-    "ECON 113A",
-    "ECON 113B",
-    "ECON 114A",
-    "ECON 114B",
-    "ECON 115",
-    "ECON 116A",
-    "ECON 116B",
-    "ECON 116C",
-    "ECON 117A",
-    "ECON 120",
-    "ECON 122",
-    "ECON 127",
-    "ECON 130",
-    "ECON 133",
-    "ECON 134A",
-    "ECON 134B",
-    "ECON 134C",
-    "ECON 135",
-    "ECON 140B",
-    "ECON 140C",
-    "ECON 141",
-    "ECON 145",
-    "ECON 150A",
-    "ECON 151",
-    "ECON 152",
-    "ECON 153",
-    "ECON 154",
-    "ECON 155",
-    "ECON 156",
-    "ECON 157",
-    "ECON 160",
-    "ECON 164",
-    "ECON 170",
-    "ECON 171",
-    "ECON 174",
-    "ECON 176",
-    "ECON 177",
-    "ECON 180",
-    "ECON 181",
-    "ECON 183",
-    "ECON 184",
-    "ECON 187",
-    "ECON 191",
-    "ECON 196A",
-    "ECON 196B",
-    "ECON 199"
-   ],
-   "note": "Complete 6 of the following. ECON 191AA-ZZ Six UD Economics elective courses",
-   "options": [
-    [
-     "ECON 100C"
-    ],
-    [
-     "ECON 106"
-    ],
-    [
-     "ECON 107A"
-    ],
-    [
-     "ECON 107B"
-    ],
-    [
-     "ECON 112A"
-    ],
-    [
-     "ECON 112B"
-    ],
-    [
-     "ECON 113A"
-    ],
-    [
-     "ECON 113B"
-    ],
-    [
-     "ECON 114A"
-    ],
-    [
-     "ECON 114B"
-    ],
-    [
-     "ECON 115"
-    ],
-    [
-     "ECON 116A"
-    ],
-    [
-     "ECON 116B"
-    ],
-    [
-     "ECON 116C"
-    ],
-    [
-     "ECON 117A"
-    ],
-    [
-     "ECON 120"
-    ],
-    [
-     "ECON 122"
-    ],
-    [
-     "ECON 127"
-    ],
-    [
-     "ECON 130"
-    ],
-    [
-     "ECON 133"
-    ],
-    [
-     "ECON 134A"
-    ],
-    [
-     "ECON 134B"
-    ],
-    [
-     "ECON 134C"
-    ],
-    [
-     "ECON 135"
-    ],
-    [
-     "ECON 140B"
-    ],
-    [
-     "ECON 140C"
-    ],
-    [
-     "ECON 141"
-    ],
-    [
-     "ECON 145"
-    ],
-    [
-     "ECON 150A"
-    ],
-    [
-     "ECON 151"
-    ],
-    [
-     "ECON 152"
-    ],
-    [
-     "ECON 153"
-    ],
-    [
-     "ECON 154"
-    ],
-    [
-     "ECON 155"
-    ],
-    [
-     "ECON 156"
-    ],
-    [
-     "ECON 157"
-    ],
-    [
-     "ECON 160"
-    ],
-    [
-     "ECON 164"
-    ],
-    [
-     "ECON 170"
-    ],
-    [
-     "ECON 171"
-    ],
-    [
-     "ECON 174"
-    ],
-    [
-     "ECON 176"
-    ],
-    [
-     "ECON 177"
-    ],
-    [
-     "ECON 180"
-    ],
-    [
-     "ECON 181"
-    ],
-    [
-     "ECON 183"
-    ],
-    [
-     "ECON 184"
-    ],
-    [
-     "ECON 187"
-    ],
-    [
-     "ECON 191"
-    ],
-    [
-     "ECON 196A"
-    ],
-    [
-     "ECON 196B"
-    ],
-    [
-     "ECON 199"
-    ]
-   ],
-   "name_zh": "D. 高年级选修",
-   "note_zh": "以下完成 6 门：ECON 191AA-ZZ 等高年级经济学选修"
-  },
-  {
-   "id": "e",
-   "name": "E.",
-   "type": "required",
-   "courses": [
-    "ECON 118",
-    "ECON 136A",
-    "ECON 136B",
-    "ECON 136C",
-    "ECON 137A",
-    "ECON 137B",
-    "ECON 138A",
-    "ECON 138B",
-    "ECON 185"
-   ],
-   "note": "Complete 1 of the following. The specific courses listed under Area E courses require the completion of Econ 3A-B. Students who have not taken Econ 3A-B should be taking 7 total electives courses from Area D. A maximum of 4 units of Economics 199 will apply to the UD major. Economics 199RA does not count towards the UD major. One additional UD Economics elective course from Area D (above) or from the following: UMAJOR REGULATIONS PREREQUISITES ......................................................... Check the General Catalog for the prerequisites to all listed courses. P/NP GRADING OPTION ........................................... Not allowed for major courses (prep or UD major), including courses applied to the major from other departments. SUBSTITUTIONS ......................................................... In the major requirements permissible only by petition to the department chair and dean. G.P.A REQUIREMENTS ............................................. At least 2.0 overall UC average in all upper-division major courses and all courses (Prep and UD) for the major. DOUBLE MAJORS ...................................................... With the approval of each department chairperson, up to a total of 8 units may be applied simultaneously to both UD majors.",
-   "options": [
-    [
-     "ECON 118"
-    ],
-    [
-     "ECON 136A",
-     "ECON 136B",
-     "ECON 136C"
-    ],
-    [
-     "ECON 137A",
-     "ECON 137B"
-    ],
-    [
-     "ECON 138A",
-     "ECON 138B"
-    ],
-    [
-     "ECON 185"
-    ]
-   ],
-   "name_zh": "E. 高年级选修（另选 1 门）",
-   "note_zh": "以下完成 1 门。E 区所列部分课程要求先修 Econ 3A-B；未修 3A-B 的学生改为从 D 区共选 7 门选修。Economics 199 最多 4 学分计入专业，199RA 不计入。专业课原则上不许 P/NP；替换须经 petition 批准；高年级专业课及全部专业课 UC 平均 ≥ 2.0；双专业最多 8 学分可双计。"
-  }
- ]
+  "campus": "UCSB",
+  "major": "Economics",
+  "degree": "B.A.",
+  "department": "Department of Economics",
+  "school": "College of Letters and Science",
+  "source_url": "https://catalog.ucsb.edu/programs/BAECON",
+  "checked": "2026-10-23",
+  "requirements": [
+    {
+      "id": "pre-major",
+      "name": "Pre-Major",
+      "type": "prereq",
+      "courses": [
+        "ECON 1",
+        "ECON 2",
+        "ECON 10A"
+      ],
+      "note": "In order to qualify for admission into the Economics major, students must complete Economics 1, 2, and 10A with a UC grade-point average of 2.85 or above. No grade lower than a C in pre-major courses will be accepted. In addition, students must complete Economics 5 or PSTAT 120A and Math 2A-B or 3A-B or 34A-B with a grade of “C” or higher; the grades in these courses will not be used in computing the pre-major GPA but will apply to the overall major GPA. Econ 10A must be taken at UCSB.",
+      "name_zh": "专业预备（Pre-Major）",
+      "note_zh": "准入门槛：Economics 1、2、10A 三门 UC GPA ≥ 2.85，且预备课成绩不得低于 C；另须完成 Economics 5 或 PSTAT 120A、Math 2A-B 或 3A-B 或 34A-B（成绩 ≥ C，这几门不计入预备 GPA 但计入专业总 GPA）。Econ 10A 必须在 UCSB 修。"
+    },
+    {
+      "id": "preparation-for-the-major",
+      "name": "PREPARATION FOR THE MAJOR",
+      "type": "prereq",
+      "courses": [
+        "ECON 5",
+        "PSTAT 120A"
+      ],
+      "note": "Complete one of the following. Econ 5 must be taken at UCSB.",
+      "options": [
+        [
+          "ECON 5"
+        ],
+        [
+          "PSTAT 120A"
+        ]
+      ],
+      "name_zh": "专业准备课",
+      "note_zh": "以下完成一组；Econ 5 必须在 UCSB 修"
+    },
+    {
+      "id": "preparation-for-the-major-2",
+      "name": "PREPARATION FOR THE MAJOR",
+      "type": "prereq",
+      "courses": [
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 34A",
+        "MATH 34B"
+      ],
+      "note": "Complete one of the following.",
+      "options": [
+        [
+          "MATH 2A",
+          "MATH 2B"
+        ],
+        [
+          "MATH 3A",
+          "MATH 3B"
+        ],
+        [
+          "MATH 34A",
+          "MATH 34B"
+        ]
+      ],
+      "name_zh": "专业准备课",
+      "note_zh": "以下完成一组"
+    },
+    {
+      "id": "a",
+      "name": "A.",
+      "type": "required",
+      "courses": [
+        "ECON 100B"
+      ],
+      "note": "40 UD Economics units required",
+      "name_zh": "A. 高年级核心",
+      "note_zh": "高年级经济学共需 40 学分"
+    },
+    {
+      "id": "b",
+      "name": "B.",
+      "type": "required",
+      "courses": [
+        "ECON 101"
+      ],
+      "name_zh": "B. 高年级核心"
+    },
+    {
+      "id": "c",
+      "name": "C.",
+      "type": "required",
+      "courses": [
+        "ECON 140A"
+      ],
+      "name_zh": "C. 高年级核心"
+    },
+    {
+      "id": "d",
+      "name": "D.",
+      "type": "elective",
+      "courses": [
+        "ECON 100C",
+        "ECON 106",
+        "ECON 107A",
+        "ECON 107B",
+        "ECON 112A",
+        "ECON 112B",
+        "ECON 113A",
+        "ECON 113B",
+        "ECON 114A",
+        "ECON 114B",
+        "ECON 115",
+        "ECON 116A",
+        "ECON 116B",
+        "ECON 116C",
+        "ECON 117A",
+        "ECON 120",
+        "ECON 122",
+        "ECON 127",
+        "ECON 130",
+        "ECON 133",
+        "ECON 134A",
+        "ECON 134B",
+        "ECON 134C",
+        "ECON 135",
+        "ECON 140B",
+        "ECON 140C",
+        "ECON 141",
+        "ECON 145",
+        "ECON 150A",
+        "ECON 151",
+        "ECON 152",
+        "ECON 153",
+        "ECON 154",
+        "ECON 155",
+        "ECON 156",
+        "ECON 157",
+        "ECON 160",
+        "ECON 164",
+        "ECON 170",
+        "ECON 171",
+        "ECON 174",
+        "ECON 176",
+        "ECON 177",
+        "ECON 180",
+        "ECON 181",
+        "ECON 183",
+        "ECON 184",
+        "ECON 187",
+        "ECON 191",
+        "ECON 196A",
+        "ECON 196B",
+        "ECON 199"
+      ],
+      "note": "Complete 6 of the following. ECON 191AA-ZZ Six UD Economics elective courses",
+      "options": [
+        [
+          "ECON 100C"
+        ],
+        [
+          "ECON 106"
+        ],
+        [
+          "ECON 107A"
+        ],
+        [
+          "ECON 107B"
+        ],
+        [
+          "ECON 112A"
+        ],
+        [
+          "ECON 112B"
+        ],
+        [
+          "ECON 113A"
+        ],
+        [
+          "ECON 113B"
+        ],
+        [
+          "ECON 114A"
+        ],
+        [
+          "ECON 114B"
+        ],
+        [
+          "ECON 115"
+        ],
+        [
+          "ECON 116A"
+        ],
+        [
+          "ECON 116B"
+        ],
+        [
+          "ECON 116C"
+        ],
+        [
+          "ECON 117A"
+        ],
+        [
+          "ECON 120"
+        ],
+        [
+          "ECON 122"
+        ],
+        [
+          "ECON 127"
+        ],
+        [
+          "ECON 130"
+        ],
+        [
+          "ECON 133"
+        ],
+        [
+          "ECON 134A"
+        ],
+        [
+          "ECON 134B"
+        ],
+        [
+          "ECON 134C"
+        ],
+        [
+          "ECON 135"
+        ],
+        [
+          "ECON 140B"
+        ],
+        [
+          "ECON 140C"
+        ],
+        [
+          "ECON 141"
+        ],
+        [
+          "ECON 145"
+        ],
+        [
+          "ECON 150A"
+        ],
+        [
+          "ECON 151"
+        ],
+        [
+          "ECON 152"
+        ],
+        [
+          "ECON 153"
+        ],
+        [
+          "ECON 154"
+        ],
+        [
+          "ECON 155"
+        ],
+        [
+          "ECON 156"
+        ],
+        [
+          "ECON 157"
+        ],
+        [
+          "ECON 160"
+        ],
+        [
+          "ECON 164"
+        ],
+        [
+          "ECON 170"
+        ],
+        [
+          "ECON 171"
+        ],
+        [
+          "ECON 174"
+        ],
+        [
+          "ECON 176"
+        ],
+        [
+          "ECON 177"
+        ],
+        [
+          "ECON 180"
+        ],
+        [
+          "ECON 181"
+        ],
+        [
+          "ECON 183"
+        ],
+        [
+          "ECON 184"
+        ],
+        [
+          "ECON 187"
+        ],
+        [
+          "ECON 191"
+        ],
+        [
+          "ECON 196A"
+        ],
+        [
+          "ECON 196B"
+        ],
+        [
+          "ECON 199"
+        ]
+      ],
+      "name_zh": "D. 高年级选修",
+      "note_zh": "以下完成 6 门：ECON 191AA-ZZ 等高年级经济学选修",
+      "count": 6
+    },
+    {
+      "id": "e",
+      "name": "E.",
+      "type": "required",
+      "courses": [
+        "ECON 118",
+        "ECON 136A",
+        "ECON 136B",
+        "ECON 136C",
+        "ECON 137A",
+        "ECON 137B",
+        "ECON 138A",
+        "ECON 138B",
+        "ECON 185"
+      ],
+      "note": "Complete 1 of the following. The specific courses listed under Area E courses require the completion of Econ 3A-B. Students who have not taken Econ 3A-B should be taking 7 total electives courses from Area D. A maximum of 4 units of Economics 199 will apply to the UD major. Economics 199RA does not count towards the UD major. One additional UD Economics elective course from Area D (above) or from the following: UMAJOR REGULATIONS PREREQUISITES ......................................................... Check the General Catalog for the prerequisites to all listed courses. P/NP GRADING OPTION ........................................... Not allowed for major courses (prep or UD major), including courses applied to the major from other departments. SUBSTITUTIONS ......................................................... In the major requirements permissible only by petition to the department chair and dean. G.P.A REQUIREMENTS ............................................. At least 2.0 overall UC average in all upper-division major courses and all courses (Prep and UD) for the major. DOUBLE MAJORS ...................................................... With the approval of each department chairperson, up to a total of 8 units may be applied simultaneously to both UD majors.",
+      "options": [
+        [
+          "ECON 118"
+        ],
+        [
+          "ECON 136A",
+          "ECON 136B",
+          "ECON 136C"
+        ],
+        [
+          "ECON 137A",
+          "ECON 137B"
+        ],
+        [
+          "ECON 138A",
+          "ECON 138B"
+        ],
+        [
+          "ECON 185"
+        ]
+      ],
+      "name_zh": "E. 高年级选修（另选 1 门）",
+      "note_zh": "以下完成 1 门。E 区所列部分课程要求先修 Econ 3A-B；未修 3A-B 的学生改为从 D 区共选 7 门选修。Economics 199 最多 4 学分计入专业，199RA 不计入。专业课原则上不许 P/NP；替换须经 petition 批准；高年级专业课及全部专业课 UC 平均 ≥ 2.0；双专业最多 8 学分可双计。",
+      "count": 1
+    }
+  ]
 }
