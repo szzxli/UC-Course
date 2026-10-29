@@ -530,6 +530,11 @@
       }
       others.forEach(function (req) {
         var n = req.count;
+        /* planBlocks：选修池有课单、但排课只计通用块（如 UCSD 数计三项 8 学分选修：
+           课单供毕业要求页展示与学生自选，池课先修树未核实、不能按课排；
+           planBlocks = 通用块数，每块 4 学分）。不用 count 字段，避免毕业要求页
+           把“8 学分”误显示成“选 N 门”。 */
+        if ((!n || n <= 0) && req.planBlocks) n = req.planBlocks;
         /* 无课单开放池且 count 缺失时，以 note 的最低学分折算通用块（4 学分/块）：
            UCSB CS science-list-a/b（8/12 学分）、心理 area-b（8 学分）、数学高年级选修（12 学分）；
            有 count 的既有专业不受影响；非 4 倍数学分多计部分出警告 */
@@ -540,7 +545,7 @@
         }
         if (!n || n <= 0) return;
         var pool = (req.courses || []).map(normCode);
-        if (!pool.length) {
+        if (!pool.length || req.planBlocks) {
           var label = (req.name_zh || req.name || req.id).split("（")[0].split("(")[0].trim() || req.id;
           var blocks = [];
           for (var i = 1; i <= n; i++) blocks.push(label + " " + i);

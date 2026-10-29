@@ -210,7 +210,8 @@
    ],
    "note": "Eight units from the listed courses; a single course cannot fulfill more than one major requirement.",
    "name_zh": "高年级：应用数学选修（8 学分）",
-   "note_zh": "从所列课程中修满 8 学分；单门课不能同时满足两条专业要求。"
+   "note_zh": "从所列课程中修满 8 学分；单门课不能同时满足两条专业要求。排课按 2 个 4 学分通用块计入，实际课程按官方清单自选。",
+   "planBlocks": 2
   },
   {
    "id": "ud-comp-elect",
@@ -272,7 +273,8 @@
    ],
    "note": "Eight units from the listed courses; a single course cannot fulfill more than one major requirement. Students interested in computer architecture courses (CSE 140-140L, 141-141L, 142) should take CSE 30 as preparation.",
    "name_zh": "高年级：计算选修（8 学分）",
-   "note_zh": "从所列课程中修满 8 学分；单门课不能同时满足两条专业要求；想选计算机体系结构方向（CSE 140-140L、141-141L、142）建议先修 CSE 30。"
+   "note_zh": "从所列课程中修满 8 学分；单门课不能同时满足两条专业要求；想选计算机体系结构方向（CSE 140-140L、141-141L、142）建议先修 CSE 30。排课按 2 个 4 学分通用块计入，实际课程按官方清单自选。",
+   "planBlocks": 2
   },
   {
    "id": "ud-gen-elect",
@@ -377,7 +379,8 @@
    ],
    "note": "Eight additional units from the applied/computational elective lists or the listed courses; a single course cannot fulfill more than one major requirement.",
    "name_zh": "高年级：数学-计算机综合选修（8 学分）",
-   "note_zh": "从应用数学/计算选修清单或所列课程中另修 8 学分；单门课不能同时满足两条专业要求。"
+   "note_zh": "从应用数学/计算选修清单或所列课程中另修 8 学分；单门课不能同时满足两条专业要求。排课按 2 个 4 学分通用块计入，实际课程按官方清单自选。",
+   "planBlocks": 2
   }
  ],
  "school": "Division of Physical Sciences",

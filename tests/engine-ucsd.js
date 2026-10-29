@@ -8,12 +8,14 @@ const assert = require("node:assert");
 const E = require("../web/js/engine.js");
 
 const MAJORS = [
-  "ucsd-computer-science",
-  "ucsd-electrical-engineering",
-  "ucsd-biology",
-  "ucsd-psychology",
-  "ucsd-economics",
-  "ucsd-mathematics",
+  ["ucsd-computer-science", "ucsd-computer-science"],
+  ["ucsd-electrical-engineering", "ucsd-electrical-engineering"],
+  ["ucsd-biology", "ucsd-biology"],
+  ["ucsd-psychology", "ucsd-psychology"],
+  ["ucsd-economics", "ucsd-economics"],
+  ["ucsd-mathematics", "ucsd-mathematics"],
+  // 数计专业文件与引擎文件名不同（引擎为手写树的 ucsd-mathcs.json）
+  ["ucsd-mathematics-computer-science", "ucsd-mathcs"],
 ];
 const BAD_GE = ["WRIT 2", "WRIT 107EP", "ENV S 136O", "ENV S 160", "ENV S 130A", "ENV S 189", "ENV S 173"];
 // 退役/改号码：OR 组内丢弃，绝不入目录（见 build_ucsd_engine.py DROP）
@@ -55,9 +57,9 @@ function checkOrder(plan, catalog, have) {
   return checked;
 }
 
-for (const stem of MAJORS) {
+for (const [stem, engStem] of MAJORS) {
   const major = require(`../data/majors/${stem}.json`);
-  const eng = require(`../data/engine/${stem}.json`);
+  const eng = require(`../data/engine/${engStem}.json`);
   const catalog = {};
   eng.courses.forEach((c) => { catalog[E.normCode(c.code)] = c; });
   // DROP 旧码不入目录
@@ -107,7 +109,13 @@ for (const stem of MAJORS) {
     assert.strictEqual((covById["upper-lab"] || []).length, 2, "生物实验应为 2 个通用块");
     assert.strictEqual((covById["upper-elect"] || []).length, 5, "生物专业选修应为 5 个通用块");
   }
-  // 数学：荣誉序列（成本最低）+ 分析/代数各取第一组
+  // 数计：三项 8 学分选修按通用块计入（planBlocks，课单供自选、先修树未核实）
+  if (stem === "ucsd-mathematics-computer-science") {
+    for (const id of ["ud-app-elect", "ud-comp-elect", "ud-gen-elect"]) {
+      assert.strictEqual((covById[id] || []).length, 2, `数计 ${id} 应为 2 个通用块`);
+      assert.ok((covById[id] || []).every((c) => !catalog[E.normCode(c)]), `数计 ${id} 应为通用块而非课号`);
+    }
+  }
   if (stem === "ucsd-mathematics") {
     assert.deepStrictEqual(covById["lower-seq"], ["MATH 31AH", "MATH 31BH", "MATH 31CH", "MATH 20D"], "数学低年级序列应选荣誉序列");
     assert.deepStrictEqual(covById["upper-analysis"], ["MATH 140A", "MATH 140B"], "数学分析应选第一组");
