@@ -65,7 +65,8 @@
     "electrical and computer engineering": "ECE", "ece": "ECE",
     "data science": "DSC", "dsc": "DSC",
     "cognitive science": "COGS", "cogs": "COGS",
-    "family studies": "FAMST", "famst": "FAMST"
+    "family studies": "FAMST", "famst": "FAMST",
+    "information and computer science": "I&C SCI", "i&c sci": "I&C SCI"
   };
   /* 按名称长度降序排列，解析时先匹配长名，避免 Mathematics 被 Math 截断等 */
   var DEPT_NAMES = Object.keys(DEPT_MAP).sort(function (a, b) { return b.length - a.length; });
@@ -96,6 +97,7 @@
       "chc/lat": "CHC/LAT", "gen&sex": "GEN&SEX", "mgmt fe": "MGMT FE",
       "phmd": "PHMD", "phrmsci": "PHRMSCI", "mol bio": "MOL BIO",
       "eco evo": "ECO EVO", "swe": "SWE", "uni stu": "UNI STU",
+      "gdim": "GDIM", "engr": "ENGR", "mgmt": "MGMT", "phy sci": "PHY SCI",
       "art his": "ART HIS", "art history": "ART HIS",
       "educ": "EDUC", "education": "EDUC",
       "french": "FRENCH", "german": "GERMAN", "spanish": "SPANISH",
@@ -173,17 +175,19 @@
       deptNames = Object.keys(deptMap).sort(function (a, b) { return b.length - a.length; });
     }
     var t = " " + raw + " ";
+    /* 推荐不是要求：整段去掉 Recommended: ...（到分号或句末），否则推荐课会被当成必修门禁 */
+    t = t.replace(/recommended\s*:[^;]*/gi, " ");
     /* 去掉成绩、同期、考试类说明（考试替代路径不计入课程先修）。
      * 注意：删除类规则必须在括号与下一个 or 连接词前停下，否则会连同后面的
      * 备选课组一起吃掉（如 "or AP ... or ( COGS 9A and COGS 9B )"）；AP/分数类
      * 删除后补一个 or，保住被删短语后面的连接关系。 */
-    t = t.replace(/with a (minimum )?grade of[^.;()]*?(?= or |;|\.|$)/gi, " ");
+    t = t.replace(/with a (minimum )?grade of[^.;()]*?(?= or | and |;|\.|$)/gi, " ");
     /* 考试分数不是课程：去掉各类分数数字，避免 "minimum score of 650" 被当成 MATH 650、
      * "75 percent" 被当成 PHYSICS 75 等假课号 */
     t = t.replace(/\b(minimum )?scores? of (at least )?\d+/gi, " ");
     t = t.replace(/\b\d+\s*(percent|%)/gi, " ");
     t = t.replace(/\(may be taken concurrently\)/gi, " ");
-    t = t.replace(/completion of all listed prerequisites[^.;()]*?(?= or |;|\.|$)/gi, " ");
+    t = t.replace(/completion of all listed prerequisites[^.;()]*?(?= or | and |;|\.|$)/gi, " ");
     t = t.replace(/or (a )?score of[^.;()]*?(?= or |;|\.|$)/gi, " or ");
     t = t.replace(/or (advanced placement|ap )[^.;()]*?(?= or |;|\.|$)/gi, " or ");
     t = t.replace(/or instructor approval/gi, " ");
@@ -363,6 +367,17 @@
     function groupCost(courses) {
       return courses.reduce(function (s, c) { return s + (have.has(normCode(c)) ? 0 : units(c)); }, 0);
     }
+    /* base(req)：courses 中 options 之外的课，全部必修（UCI lower-B、EE math-sci
+       等“complete all + 再选一组”的结构；UCSB-ES 全部要求的 base 均为空，故不
+       改变试点行为）。优化器复用同一定义。 */
+    function reqBase(req) {
+      if (!req.options || !req.options.length) return [];
+      var union = {};
+      req.options.forEach(function (g) {
+        g.forEach(function (c) { union[normCode(c)] = true; });
+      });
+      return (req.courses || []).map(normCode).filter(function (c) { return !union[c]; });
+    }
     /* 要求按顺序处理：先修（prereq）→ 必修（required）→ 选修池（elective，B-1/C 另算） */
     var ordered = major.requirements.slice().sort(function (a, b) {
       var rank = { prereq: 0, required: 1, elective: 2 };
@@ -376,6 +391,12 @@
       } else {
         groups = [{ take: "all", courses: req.courses.map(normCode) }];
       }
+      var base = reqBase(req);
+      var baseUsable = base.filter(function (c) { return !occupied.has(normCode(c)) || have.has(normCode(c)); });
+      if (base.length && baseUsable.length !== base.length) {
+        warnings.push(req.id + "：基础必修课已被其他要求占用，该要求未排入");
+        return;
+      }
       var best = null, bestScore = Infinity;
       groups.forEach(function (g) {
         var take = g.take === "one" ? [pickOne(g)] : g.courses.slice();
@@ -387,8 +408,9 @@
         if (score < bestScore) { bestScore = score; best = usable; }
       });
       if (!best) { warnings.push(req.id + "：无可用选项（课程已被其他要求占用），该要求未排入"); return; }
-      choice[req.id] = best;
-      best.forEach(function (c) { if (!have.has(normCode(c))) markOccupied(c, req.id); });
+      var full = baseUsable.concat(best.filter(function (c) { return baseUsable.indexOf(normCode(c)) < 0; }));
+      choice[req.id] = full;
+      full.forEach(function (c) { if (!have.has(normCode(c))) markOccupied(c, req.id); });
     });
     function pickOne(g) {
       /* 组内取 1 门：优先未被占用、学分最小；已被占用的 have 课也可 */
@@ -425,9 +447,90 @@
       choice["c-outside-concentration"] = cBlocks.slice();
     }
 
-    /* ---- GE 覆盖评估（纯函数：输入已选集合，输出覆盖与新增课；供优化循环复用） ---- */
+    /* 通用选修（UCI 等）：type elective + count 字段。UCSB-ES 的 b-1/c 无 count，
+       不受影响（仍走上方专属分支）。方向组（id 以 spec- 开头，如 UCI EE 的 5 个
+       Specialization）只选一组：成本最低者，并列取文件顺序首个；组内先取 note 的
+       Requires 课、再按学分从低到高补足 count。courses 为空的开放池（如 EE 技术
+       选修）按 4 学分通用块计入，不编造课号。注：note 里的分布约束（如“至少 4 个
+       不同方向”）无结构化数据，引擎不建模，见警告。 */
+    var electiveBlocks = []; /* { code, units, why } 通用块，供排学期使用 */
+    (function () {
+      var specs = [], others = [];
+      ordered.forEach(function (req) {
+        if (req.type !== "elective") return;
+        if (req.id === "b-1" || req.id === "c-outside-concentration") return;
+        if (req.id.indexOf("spec-") === 0) specs.push(req); else others.push(req);
+      });
+      function pickFromPool(req, need) {
+        var pool = (req.courses || []).map(normCode);
+        var haveInPool = pool.filter(function (c) { return have.has(c); });
+        var remaining = need - haveInPool.length;
+        var picked = [];
+        if (remaining > 0) {
+          var cands = pool.filter(function (c) { return !have.has(c) && !occupied.has(c); });
+          cands.sort(function (a, b) { return units(a) - units(b); });
+          picked = cands.slice(0, remaining);
+        }
+        return { haveInPool: haveInPool, picked: picked };
+      }
+      others.forEach(function (req) {
+        var n = req.count;
+        if (!n || n <= 0) return;
+        var pool = (req.courses || []).map(normCode);
+        if (!pool.length) {
+          var label = (req.name_zh || req.name || req.id).split("（")[0].split("(")[0].trim() || req.id;
+          var blocks = [];
+          for (var i = 1; i <= n; i++) blocks.push(label + " " + i);
+          choice[req.id] = blocks.slice();
+          blocks.forEach(function (b) { electiveBlocks.push({ code: b, units: 4, why: req.name_zh || req.name }); });
+          return;
+        }
+        var res = pickFromPool(req, n);
+        if (res.picked.length + res.haveInPool.length < n)
+          warnings.push(req.id + "：选修池可用课不足（需 " + n + " 门，仅 " + (res.picked.length + res.haveInPool.length) + " 门），该要求未排满");
+        var all = res.haveInPool.slice();
+        res.picked.forEach(function (c) { if (all.indexOf(c) < 0) all.push(c); });
+        choice[req.id] = all;
+        res.picked.forEach(function (c) { markOccupied(c, req.id); });
+        if (req.note && /distinct|different groups/i.test(req.note))
+          warnings.push(req.id + "：方向分布要求未建模，已按学分最低选 " + n + " 门，请自行核对方向分布");
+      });
+      if (specs.length) {
+        var best = null, bestCost = Infinity, bestPick = null, bestHave = null;
+        specs.forEach(function (req) {
+          var n = req.count || 0;
+          var m = (req.note || "").match(/Requires:\s*([^;]+)/i);
+          var required = m ? m[1].split(",").map(function (s) { return normCode(s.trim()); }).filter(Boolean) : [];
+          var pool = (req.courses || []).map(normCode);
+          var haveInPool = pool.filter(function (c) { return have.has(c); });
+          var reqUnhad = required.filter(function (c) { return !have.has(c) && pool.indexOf(c) >= 0; });
+          var need = n - haveInPool.length;
+          var rest = pool.filter(function (c) { return !have.has(c) && !occupied.has(c) && required.indexOf(c) < 0; });
+          rest.sort(function (a, b) { return units(a) - units(b); });
+          var extra = Math.max(0, need - reqUnhad.length);
+          var picked = reqUnhad.concat(rest.slice(0, extra));
+          var cost = picked.reduce(function (s, c) { return s + units(c); }, 0);
+          if (cost < bestCost) { bestCost = cost; best = req; bestPick = picked; bestHave = haveInPool; }
+        });
+        if (best) {
+          var allB = bestHave.slice();
+          bestPick.forEach(function (c) { if (allB.indexOf(c) < 0) allB.push(c); });
+          choice[best.id] = allB;
+          bestPick.forEach(function (c) { markOccupied(c, best.id); });
+          if (specs.length > 1)
+            warnings.push("方向已选 " + (best.name_zh || best.name) + "（其余 " + (specs.length - 1) + " 个方向未排入；换方向需手动调整）");
+        }
+      }
+    })();
+
+    /* ---- GE 覆盖评估（纯函数：输入已选集合，输出覆盖与新增课；供优化循环复用） ----
+       注意：GE_MARK 与下方覆盖清单均为 UCSB-ES 专属；非 UCSB 专业直接返回空结果，
+       不塞 UCSB GE 填充课（UCI 通识与排课的联动尚未立项）。 */
     var areaNeed = { areaC: 3, areaD: 2, areaE: 2 };
     function evaluateGe(baseSet) {
+      if (campus !== "UCSB")
+        return { areaCovered: { areaC: [], areaD: [], areaE: [] }, writingCovered: 0,
+                 nwcCovered: false, ethCovered: false, ahiCovered: false, geNew: [], geUnits: 0 };
       var planSet = new Set(baseSet);
       function hasMarker(list) { return list.some(function (c) { return planSet.has(normCode(c)); }); }
       function countMarkers(list) {
@@ -513,9 +616,11 @@
       var take = g.take === "one" ? [pickOne(g)] : g.courses.slice();
       var usable = take.filter(function (c) { return !occupied.has(normCode(c)) || have.has(normCode(c)); });
       if (g.take === "one" ? usable.length === 0 : usable.length !== take.length) return null;
-      take.forEach(function (c) { if (!have.has(normCode(c))) markOccupied(c, req.id); });
-      choice[req.id] = take;
-      return take;
+      var base = reqBase(req);
+      var full = base.concat(usable.filter(function (c) { return base.indexOf(normCode(c)) < 0; }));
+      full.forEach(function (c) { if (!have.has(normCode(c))) markOccupied(c, req.id); });
+      choice[req.id] = full;
+      return full;
     }
     var bestTotal = totalUnitsFor();
     var optReqs = ordered.filter(function (r) { return r.type !== "elective" && r.options && r.options.length; });
@@ -596,6 +701,9 @@
     });
     cBlocks.forEach(function (b) {
       nodes.push({ code: b, units: 4, tree: null, generic: true, why: "Area C 校外集中方向" });
+    });
+    electiveBlocks.forEach(function (b) {
+      nodes.push({ code: b.code, units: b.units, tree: null, generic: true, why: b.why });
     });
     var nodeByCode = {};
     nodes.forEach(function (n) { nodeByCode[normCode(n.code)] = n; });
@@ -822,6 +930,11 @@
     });
     if (b1) coverage.major.push({ id: "b-1", name: "B-1 专业选修（32 学分）", courses: choice["b-1"] || [] });
     if (cReq) coverage.major.push({ id: "c-outside-concentration", name: "C. 校外集中方向（16 学分）", courses: cBlocks });
+    ordered.forEach(function (req) {
+      if (req.type !== "elective" || req.id === "b-1" || req.id === "c-outside-concentration") return;
+      if (choice[req.id]) coverage.major.push({ id: req.id, name: req.name_zh || req.name, courses: choice[req.id] });
+    });
+    if (campus === "UCSB") {
     coverage.ge.push({ id: "areaA", name: "Area A 英语阅读与写作", courses: ["WRIT 2", "WRIT 107EP"] });
     coverage.ge.push({ id: "areaB", name: "Area B 外语", courses: input.langAtUCSB ? ["外语 level 1", "外语 level 2", "外语 level 3"] : ["（高中/考试途径，0 学分）"] });
     ["areaC", "areaD", "areaE"].forEach(function (area, ai) {
@@ -836,11 +949,12 @@
     coverage.ge.push({ id: "eth", name: "Ethnicity", courses: ethCovered ? GE_MARK.eth.filter(function (c) { return planSet.has(normCode(c)); }) : ["ENV S 189"] });
     coverage.ge.push({ id: "qnt", name: "Quantitative Relationships", courses: ["（任一专业预备课即满足）"] });
     coverage.ge.push({ id: "ahi", name: "American History and Institutions", courses: ahiCovered ? GE_MARK.ahi.filter(function (c) { return planSet.has(normCode(c)); }) : ["ENV S 173"] });
+    }
 
     if (fallbackCount) warnings.push("先修原文为空的课程 " + fallbackCount + " 门，暂按目录快照扁平列表（任一满足）处理");
     warnings.push("先修逻辑按目录原文 and/or 解析；“可同期修读”在 v1 中从严按先修学期处理，请以 GOLD 为准复核");
-    warnings.push("GE 双计映射引自环境研究系 B.S. GE 计划（2022-08 修订），2026-27 目录下以 GOLD 标注为准");
-    if (input.langAtUCSB) warnings.push("外语走 UCSB 修课途径：学位总学分要求为 184 学分（已计入 3 门外语块）");
+    if (campus === "UCSB") warnings.push("GE 双计映射引自环境研究系 B.S. GE 计划（2022-08 修订），2026-27 目录下以 GOLD 标注为准");
+    if (input.langAtUCSB && campus === "UCSB") warnings.push("外语走 UCSB 修课途径：学位总学分要求为 184 学分（已计入 3 门外语块）");
     var b2choice = choice["b-2"] || [];
     if (b2choice.some(function (c) { return units(c) <= 0; })) warnings.push("B-2（192/194/199/199RA）为实习/独立研究，目录学分记 0，实际学分以 GOLD 为准");
 

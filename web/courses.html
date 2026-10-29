@@ -315,8 +315,17 @@ I18N.init().then(function () {
   var params = new URLSearchParams(location.search);
   DEMO = params.has("demo");
   var campus = Sget("campus", "UCI"), major = Sget("major", "");
-  var PILOT = (campus === "UCSB" && major === "ucsb-environmental-science.json") ? "es"
-    : (campus === "UCSD" && major === "ucsd-mathematics-computer-science.json") ? "ucsd" : null;
+  var ENG_MAP = {
+    "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
+    "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json",
+    "uci-computer-science.json": "data/engine/uci-computer-science.json",
+    "uci-electrical-engineering.json": "data/engine/uci-electrical-engineering.json",
+    "uci-biology.json": "data/engine/uci-biology.json",
+    "uci-psychology.json": "data/engine/uci-psychology.json",
+    "uci-economics.json": "data/engine/uci-economics.json",
+    "uci-mathematics.json": "data/engine/uci-mathematics.json"
+  };
+  var PILOT = ENG_MAP[major] ? major : null;
   PERSONAL = !DEMO && !!PILOT;
   if (DEMO || !PERSONAL) {
     var note = document.getElementById("modeNote");
@@ -324,7 +333,7 @@ I18N.init().then(function () {
     note.textContent = DEMO ? I18N.t("pick.demoNote") : I18N.t("pick.pilotNote");
     if (DEMO || !PERSONAL) document.getElementById("pickAddBtn").disabled = true;
   }
-  if (PILOT === "ucsd") {
+  if (major === "ucsd-mathematics-computer-science.json") {
     var uel = document.getElementById("ucsdElectiveLine");
     if (uel) { uel.hidden = false; uel.textContent = I18N.t("pick.ucsdElectiveNote"); }
   }
@@ -337,8 +346,8 @@ I18N.init().then(function () {
   var planned0 = (DEMO || !PERSONAL) ? [] : Sget("myCourses", []).map(function (x) { return x.code; });
   document.getElementById("haveNote").textContent =
     I18N.t("pick.haveNote", { n: have.length, p: planned0.length });
-  var majorFile = PILOT === "ucsd" ? "data/majors/ucsd-mathematics-computer-science.json" : "data/majors/ucsb-environmental-science.json";
-  var engFile = PILOT === "ucsd" ? "data/engine/ucsd-mathcs.json" : "data/engine/ucsb-es.json";
+  var majorFile = PILOT ? "data/majors/" + PILOT : "data/majors/ucsb-environmental-science.json";
+  var engFile = PILOT ? ENG_MAP[PILOT] : "data/engine/ucsb-es.json";
   Promise.all([
     fetch(majorFile).then(function (r) { return r.json(); }),
     fetch(engFile).then(function (r) { return r.json(); })
@@ -407,7 +416,13 @@ I18N.init().then(function () {
      非试点专业如实标注未入库，不用不可靠的扁平先修字段画图。 */
   var PILOT_MAP = {
     "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
-    "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json"
+    "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json",
+    "uci-computer-science.json": "data/engine/uci-computer-science.json",
+    "uci-electrical-engineering.json": "data/engine/uci-electrical-engineering.json",
+    "uci-biology.json": "data/engine/uci-biology.json",
+    "uci-psychology.json": "data/engine/uci-psychology.json",
+    "uci-economics.json": "data/engine/uci-economics.json",
+    "uci-mathematics.json": "data/engine/uci-mathematics.json"
   };
   var R = 38, GX = 26, GY = 16, PAD = 14;
   var ZOOM_LEVELS = [0.6, 0.8, 1, 1.3, 1.7, 2.2], zoomIdx = 2;
@@ -426,7 +441,7 @@ I18N.init().then(function () {
     Sget("myCourses", []).forEach(function(x){ if (x && x.code) out[norm(x.code)] = true; });
     return out;
   }
-  function treeOf(cat){
+  function treeOf(cat, campus){
     var raw = cat.prerequisites_raw || "";
     var flat = (cat.prerequisites_courses || []).map(norm);
     if (raw) {
@@ -498,7 +513,7 @@ I18N.init().then(function () {
         var cur = stack.pop();
         if (trees.hasOwnProperty(cur)) continue;
         var cc = catByCode[cur];
-        var tr = cc ? treeOf(cc) : null;
+        var tr = cc ? treeOf(cc, major.campus) : null;
         trees[cur] = tr;
         if (!tr) continue;
         var leaves = [];

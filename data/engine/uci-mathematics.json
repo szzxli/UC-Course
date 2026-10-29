@@ -1,0 +1,315 @@
+{
+  "campus": "UCI",
+  "major": "Mathematics (B.S.)",
+  "checked": "2026-10-28",
+  "n_courses": 33,
+  "courses": [
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A; or PHYSICS 7C; or CHEM 1X; or CHEM 1P",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A",
+        "PHYSICS 7C",
+        "CHEM 1X",
+        "CHEM 1P"
+      ]
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A; or ENGR 1A; or CHEM M2A",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "ENGR 1A",
+        "CHEM M2A"
+      ]
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry ",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1B",
+      "prerequisites_courses": [
+        "CHEM 1B"
+      ]
+    },
+    {
+      "code": "CHEM 1P",
+      "title": "Preparation for General Chemistry ",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1X",
+      "title": "General Chemistry Plus",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM M2A",
+      "title": "Majors General Chemistry Lecture",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A; or PHYSICS 7C; or CHEM 1X; or CHEM 1P",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A",
+        "PHYSICS 7C",
+        "CHEM 1X",
+        "CHEM 1P"
+      ]
+    },
+    {
+      "code": "ENGR 1A",
+      "title": "General Chemistry for Engineers",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 6B",
+      "title": "Boolean Logic and Discrete Structures",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 6D",
+      "title": "Discrete Mathematics for Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 10",
+      "title": "Introduction to Programming for Data Science",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D and MATH 3A and MATH 9",
+      "prerequisites_courses": [
+        "MATH 2D",
+        "MATH 3A",
+        "MATH 9"
+      ]
+    },
+    {
+      "code": "MATH 120A",
+      "title": "Introduction to Abstract Algebra: Groups",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A and MATH 13",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 13"
+      ]
+    },
+    {
+      "code": "MATH 120B",
+      "title": "Introduction to Abstract Algebra: Rings and Fields",
+      "units": "4",
+      "prerequisites_raw": "MATH 120A",
+      "prerequisites_courses": [
+        "MATH 120A"
+      ]
+    },
+    {
+      "code": "MATH 121A",
+      "title": "Linear Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A and MATH 13",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 13"
+      ]
+    },
+    {
+      "code": "MATH 121B",
+      "title": "Linear Algebra II",
+      "units": "4",
+      "prerequisites_raw": "MATH 121A",
+      "prerequisites_courses": [
+        "MATH 121A"
+      ]
+    },
+    {
+      "code": "MATH 13",
+      "title": "Introduction to Abstract Mathematics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A; or I&C SCI 6D",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A",
+        "I&C SCI 6D"
+      ]
+    },
+    {
+      "code": "MATH 130A",
+      "title": "Probability I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MATH 140A",
+      "title": "Elementary Analysis I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D and MATH 3A and MATH 13",
+      "prerequisites_courses": [
+        "MATH 2D",
+        "MATH 3A",
+        "MATH 13"
+      ]
+    },
+    {
+      "code": "MATH 140B",
+      "title": "Elementary Analysis II",
+      "units": "4",
+      "prerequisites_raw": "MATH 140A",
+      "prerequisites_courses": [
+        "MATH 140A"
+      ]
+    },
+    {
+      "code": "MATH 147",
+      "title": "Complex Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 140B",
+      "prerequisites_courses": [
+        "MATH 140B"
+      ]
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Pre-Calculus II",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Single-Variable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Single-Variable Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "MATH 2D",
+      "title": "Multivariable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 2E",
+      "title": "Multivariable Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D",
+      "prerequisites_courses": [
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Introduction to Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 3D",
+      "title": "Elementary Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A and MATH 2D",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "MATH 5A",
+      "title": "Calculus for Life Sciences I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 5B",
+      "title": "Calculus for Life Sciences II",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MATH 9",
+      "title": "Introduction to Programming for Numerical Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "PHYSICS 7C",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 7D",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 2B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "PHYSICS 7E",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 2B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "STATS 7",
+      "title": "Basic Statistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    }
+  ]
+}

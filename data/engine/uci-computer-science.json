@@ -1,0 +1,1147 @@
+{
+  "campus": "UCI",
+  "major": "Computer Science (B.S.)",
+  "checked": "2026-10-28",
+  "n_courses": 116,
+  "courses": [
+    {
+      "code": "COMPSCI 103",
+      "title": "Advanced Programming and Problem Solving with C++",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 45C",
+      "prerequisites_courses": [
+        "I&C SCI 45C"
+      ]
+    },
+    {
+      "code": "COMPSCI 111",
+      "title": "Digital Image Processing",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46 and I&C SCI 6D and MATH 3A or I&C SCI 6N",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "I&C SCI 6D",
+        "MATH 3A",
+        "I&C SCI 6N"
+      ]
+    },
+    {
+      "code": "COMPSCI 112",
+      "title": "Computer Graphics",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46 and MATH 3A or I&C SCI 6N",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "MATH 3A",
+        "I&C SCI 6N"
+      ]
+    },
+    {
+      "code": "COMPSCI 114",
+      "title": "Projects in Advanced 3D Computer Graphics",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 112 and I&C SCI 45C",
+      "prerequisites_courses": [
+        "COMPSCI 112",
+        "I&C SCI 45C"
+      ]
+    },
+    {
+      "code": "COMPSCI 115",
+      "title": "Computer Simulation",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6B and I&C SCI 6N or MATH 3A and STATS 67 and I&C SCI 51 and SWE 43 or IN4MATX 43; or I&C SCI 6B and I&C SCI 6N or MATH 3A and STATS 7 and STATS 120A and I&C SCI 51 and SWE 43 or IN4MATX 43",
+      "prerequisites_courses": [
+        "I&C SCI 6B",
+        "I&C SCI 6N",
+        "MATH 3A",
+        "STATS 67",
+        "I&C SCI 51",
+        "SWE 43",
+        "IN4MATX 43",
+        "STATS 7",
+        "STATS 120A"
+      ]
+    },
+    {
+      "code": "COMPSCI 116",
+      "title": "Computational Photography and Vision",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6D and MATH 3A or I&C SCI 6N and MATH 2B and I&C SCI 46",
+      "prerequisites_courses": [
+        "I&C SCI 6D",
+        "MATH 3A",
+        "I&C SCI 6N",
+        "MATH 2B",
+        "I&C SCI 46"
+      ]
+    },
+    {
+      "code": "COMPSCI 117",
+      "title": "Project in Computer Vision",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6D and MATH 3A or I&C SCI 6N and MATH 2B and I&C SCI 46 and COMPSCI 112 or COMPSCI 116 or COMPSCI 171 or COMPSCI 178",
+      "prerequisites_courses": [
+        "I&C SCI 6D",
+        "MATH 3A",
+        "I&C SCI 6N",
+        "MATH 2B",
+        "I&C SCI 46",
+        "COMPSCI 112",
+        "COMPSCI 116",
+        "COMPSCI 171",
+        "COMPSCI 178"
+      ]
+    },
+    {
+      "code": "COMPSCI 118",
+      "title": "Introduction to Virtual Reality",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6N or MATH 3A and I&C SCI 33",
+      "prerequisites_courses": [
+        "I&C SCI 6N",
+        "MATH 3A",
+        "I&C SCI 33"
+      ]
+    },
+    {
+      "code": "COMPSCI 121",
+      "title": "Information Retrieval",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 45C or I&C SCI 45J and STATS 7 or STATS 67 or MGMT 7",
+      "prerequisites_courses": [
+        "I&C SCI 45C",
+        "I&C SCI 45J",
+        "STATS 7",
+        "STATS 67",
+        "MGMT 7"
+      ]
+    },
+    {
+      "code": "COMPSCI 122A",
+      "title": "Introduction to Data Management",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33; or EECS 114",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "EECS 114"
+      ]
+    },
+    {
+      "code": "COMPSCI 122B",
+      "title": "Project in Databases and Web Applications",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 122C",
+      "title": "Principles of Data Management",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 122A and I&C SCI 53 or COMPSCI 143A",
+      "prerequisites_courses": [
+        "COMPSCI 122A",
+        "I&C SCI 53",
+        "COMPSCI 143A"
+      ]
+    },
+    {
+      "code": "COMPSCI 122D",
+      "title": "Beyond SQL Data Management",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46 and I&C SCI 51 or EECS 31 and COMPSCI 122A or EECS 116",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "I&C SCI 51",
+        "EECS 31",
+        "COMPSCI 122A",
+        "EECS 116"
+      ]
+    },
+    {
+      "code": "COMPSCI 125",
+      "title": "Next Generation Search Systems",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 45C or I&C SCI 45J and STATS 7 or STATS 67",
+      "prerequisites_courses": [
+        "I&C SCI 45C",
+        "I&C SCI 45J",
+        "STATS 7",
+        "STATS 67"
+      ]
+    },
+    {
+      "code": "COMPSCI 130",
+      "title": "Introduction to Security and Privacy",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46",
+      "prerequisites_courses": [
+        "I&C SCI 46"
+      ]
+    },
+    {
+      "code": "COMPSCI 131",
+      "title": "Parallel and Distributed Computing",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 53; or COMPSCI 143A",
+      "prerequisites_courses": [
+        "I&C SCI 53",
+        "COMPSCI 143A"
+      ]
+    },
+    {
+      "code": "COMPSCI 132",
+      "title": "Computer Networks",
+      "units": "4",
+      "prerequisites_raw": "EECS 55; or STATS 67",
+      "prerequisites_courses": [
+        "EECS 55",
+        "STATS 67"
+      ]
+    },
+    {
+      "code": "COMPSCI 133",
+      "title": "Advanced Computer Networks",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 132; or EECS 148",
+      "prerequisites_courses": [
+        "COMPSCI 132",
+        "EECS 148"
+      ]
+    },
+    {
+      "code": "COMPSCI 134",
+      "title": "Computer and Network Security",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 137",
+      "title": "Internet Applications Engineering",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 141",
+      "title": "Concepts in Programming Languages",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 51 or EECS 31 and I&C SCI 46",
+      "prerequisites_courses": [
+        "I&C SCI 51",
+        "EECS 31",
+        "I&C SCI 46"
+      ]
+    },
+    {
+      "code": "COMPSCI 142A",
+      "title": "Compilers and Interpreters",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 142B",
+      "title": "Project in Compilers and Interpreters",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 142A",
+      "prerequisites_courses": [
+        "COMPSCI 142A"
+      ]
+    },
+    {
+      "code": "COMPSCI 143A",
+      "title": "Principles of Operating Systems",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 143B",
+      "title": "Project in Operating System Organization",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 143A",
+      "prerequisites_courses": [
+        "COMPSCI 143A"
+      ]
+    },
+    {
+      "code": "COMPSCI 145",
+      "title": "Embedded Software",
+      "units": "6",
+      "prerequisites_raw": "I&C SCI 46 and I&C SCI 51 or EECS 31",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "I&C SCI 51",
+        "EECS 31"
+      ]
+    },
+    {
+      "code": "COMPSCI 146",
+      "title": "Programming in Multitasking Operating Systems",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46 and I&C SCI 51",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "I&C SCI 51"
+      ]
+    },
+    {
+      "code": "COMPSCI 147",
+      "title": "Internet of Things (IoT) Software and Systems",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33",
+      "prerequisites_courses": [
+        "I&C SCI 33"
+      ]
+    },
+    {
+      "code": "COMPSCI 151",
+      "title": "Digital Logic Design",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33 and I&C SCI 51 and I&C SCI 6B and I&C SCI 6D",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "I&C SCI 51",
+        "I&C SCI 6B",
+        "I&C SCI 6D"
+      ]
+    },
+    {
+      "code": "COMPSCI 152",
+      "title": "Computer Architecture",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 51",
+      "prerequisites_courses": [
+        "I&C SCI 51"
+      ]
+    },
+    {
+      "code": "COMPSCI 154",
+      "title": "Computer Design Laboratory",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 151; or COMPSCI 152",
+      "prerequisites_courses": [
+        "COMPSCI 151",
+        "COMPSCI 152"
+      ]
+    },
+    {
+      "code": "COMPSCI 161",
+      "title": "Design and Analysis of Algorithms",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46 and I&C SCI 6B and I&C SCI 6D and MATH 2B",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "I&C SCI 6B",
+        "I&C SCI 6D",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "COMPSCI 162",
+      "title": "Formal Languages and Automata",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 163",
+      "title": "Graph Algorithms",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 161",
+      "prerequisites_courses": [
+        "COMPSCI 161"
+      ]
+    },
+    {
+      "code": "COMPSCI 164",
+      "title": "Computational Geometry",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 161",
+      "prerequisites_courses": [
+        "COMPSCI 161"
+      ]
+    },
+    {
+      "code": "COMPSCI 165",
+      "title": "Project in Algorithms and Data Structures",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 161",
+      "prerequisites_courses": [
+        "COMPSCI 161"
+      ]
+    },
+    {
+      "code": "COMPSCI 166",
+      "title": "Quantum Computation and Information",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6N or MATH 3A and COMPSCI 161 or PHYSICS 113A",
+      "prerequisites_courses": [
+        "I&C SCI 6N",
+        "MATH 3A",
+        "COMPSCI 161",
+        "PHYSICS 113A"
+      ]
+    },
+    {
+      "code": "COMPSCI 167",
+      "title": "Introduction to Applied Cryptography",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 161",
+      "prerequisites_courses": [
+        "COMPSCI 161"
+      ]
+    },
+    {
+      "code": "COMPSCI 169",
+      "title": "Introduction to Optimization",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6N or MATH 3A and MATH 2B and COMPSCI 161",
+      "prerequisites_courses": [
+        "I&C SCI 6N",
+        "MATH 3A",
+        "MATH 2B",
+        "COMPSCI 161"
+      ]
+    },
+    {
+      "code": "COMPSCI 171",
+      "title": "Introduction to Artificial Intelligence",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46 and MATH 2B and STATS 67; or I&C SCI 46 and MATH 2B and STATS 7 and STATS 120A",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "MATH 2B",
+        "STATS 67",
+        "STATS 7",
+        "STATS 120A"
+      ]
+    },
+    {
+      "code": "COMPSCI 172B",
+      "title": "Neural Networks and Deep Learning ",
+      "units": "4",
+      "prerequisites_raw": "STATS 120A and STATS 120B or MATH 121A or COMPSCI 178 or COMPSCI 273A",
+      "prerequisites_courses": [
+        "STATS 120A",
+        "STATS 120B",
+        "MATH 121A",
+        "COMPSCI 178",
+        "COMPSCI 273A"
+      ]
+    },
+    {
+      "code": "COMPSCI 172C",
+      "title": "Artificial Intelligence Frontiers: Technical, Ethical, and Societal",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 171 and COMPSCI 172B",
+      "prerequisites_courses": [
+        "COMPSCI 171",
+        "COMPSCI 172B"
+      ]
+    },
+    {
+      "code": "COMPSCI 175",
+      "title": "Project in Artificial Intelligence",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 171 and COMPSCI 178",
+      "prerequisites_courses": [
+        "COMPSCI 171",
+        "COMPSCI 178"
+      ]
+    },
+    {
+      "code": "COMPSCI 177",
+      "title": "Applications of Probability in Computer Science",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B and I&C SCI 6B and I&C SCI 6D and MATH 3A or I&C SCI 6N and STATS 67",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "I&C SCI 6B",
+        "I&C SCI 6D",
+        "MATH 3A",
+        "I&C SCI 6N",
+        "STATS 67"
+      ]
+    },
+    {
+      "code": "COMPSCI 178",
+      "title": "Machine Learning and Data-Mining",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6B and I&C SCI 6D and I&C SCI 6N or MATH 3A and MATH 2B and STATS 67; or I&C SCI 6B and I&C SCI 6D and I&C SCI 6N or MATH 3A and MATH 2B and STATS 7 and STATS 120A",
+      "prerequisites_courses": [
+        "I&C SCI 6B",
+        "I&C SCI 6D",
+        "I&C SCI 6N",
+        "MATH 3A",
+        "MATH 2B",
+        "STATS 67",
+        "STATS 7",
+        "STATS 120A"
+      ]
+    },
+    {
+      "code": "COMPSCI 179",
+      "title": "Algorithms for Probabilistic and Deterministic Graphical Models",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 171",
+      "prerequisites_courses": [
+        "COMPSCI 171"
+      ]
+    },
+    {
+      "code": "COMPSCI 180A",
+      "title": "Project in Computer Science",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 46",
+      "prerequisites_courses": [
+        "I&C SCI 46"
+      ]
+    },
+    {
+      "code": "COMPSCI 180B",
+      "title": "Project in Computer Science",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 180A and COMPSCI 180A",
+      "prerequisites_courses": [
+        "COMPSCI 180A"
+      ]
+    },
+    {
+      "code": "COMPSCI 183",
+      "title": "Introduction to Computational Biology",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D; or MATH 3A; or STATS 7; or STATS 8",
+      "prerequisites_courses": [
+        "MATH 2D",
+        "MATH 3A",
+        "STATS 7",
+        "STATS 8"
+      ]
+    },
+    {
+      "code": "COMPSCI 184A",
+      "title": "Artificial Intelligence in Biology and Medicine",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 6N; or MATH 3A",
+      "prerequisites_courses": [
+        "I&C SCI 6N",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "COMPSCI 184C",
+      "title": "Computational Systems Biology",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 184A",
+      "prerequisites_courses": [
+        "COMPSCI 184A"
+      ]
+    },
+    {
+      "code": "COMPSCI 189",
+      "title": "Project in Bioinformatics",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 184A",
+      "prerequisites_courses": [
+        "COMPSCI 184A"
+      ]
+    },
+    {
+      "code": "COMPSCI 206",
+      "title": "Principles of Scientific Computing",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 271",
+      "title": "Introduction to Artificial Intelligence",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 273A",
+      "title": "Machine Learning",
+      "units": "4",
+      "prerequisites_raw": "COMPSCI 271 and COMPSCI 206",
+      "prerequisites_courses": [
+        "COMPSCI 271",
+        "COMPSCI 206"
+      ]
+    },
+    {
+      "code": "EECS 10",
+      "title": "Computational Methods in Electrical and Computer Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "EECS 114",
+      "title": "Engineering Data Structures and Algorithms",
+      "units": "4",
+      "prerequisites_raw": "EECS 40",
+      "prerequisites_courses": [
+        "EECS 40"
+      ]
+    },
+    {
+      "code": "EECS 116",
+      "title": "Introduction to Data Management",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33; or EECS 114",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "EECS 114"
+      ]
+    },
+    {
+      "code": "EECS 12",
+      "title": "Introduction to Programming",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "EECS 148",
+      "title": "Computer Networks",
+      "units": "4",
+      "prerequisites_raw": "EECS 55; or STATS 67",
+      "prerequisites_courses": [
+        "EECS 55",
+        "STATS 67"
+      ]
+    },
+    {
+      "code": "EECS 20",
+      "title": "Computer Systems and C Programming",
+      "units": "4",
+      "prerequisites_raw": "EECS 12",
+      "prerequisites_courses": [
+        "EECS 12"
+      ]
+    },
+    {
+      "code": "EECS 22",
+      "title": "Advanced C Programming",
+      "units": "3",
+      "prerequisites_raw": "EECS 10; or EECS 20",
+      "prerequisites_courses": [
+        "EECS 10",
+        "EECS 20"
+      ]
+    },
+    {
+      "code": "EECS 22L",
+      "title": "Software Engineering Project in C Language",
+      "units": "3",
+      "prerequisites_raw": "EECS 22",
+      "prerequisites_courses": [
+        "EECS 22"
+      ]
+    },
+    {
+      "code": "EECS 31",
+      "title": "Introduction to Digital Systems",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 31; or EECS 10; or EECS 12; or ENGRMAE 10",
+      "prerequisites_courses": [
+        "I&C SCI 31",
+        "EECS 10",
+        "EECS 12",
+        "ENGRMAE 10"
+      ]
+    },
+    {
+      "code": "EECS 40",
+      "title": "Object-Oriented Systems and Programming",
+      "units": "4",
+      "prerequisites_raw": "EECS 22L",
+      "prerequisites_courses": [
+        "EECS 22L"
+      ]
+    },
+    {
+      "code": "EECS 55",
+      "title": "Engineering Probability",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D",
+      "prerequisites_courses": [
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "ENGRMAE 10",
+      "title": "Introduction to Engineering Computations",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "GDIM 31",
+      "title": "Introduction to Programming for Games",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "GDIM 33",
+      "title": "Coding In Game Engines",
+      "units": "4",
+      "prerequisites_raw": "GDIM 31",
+      "prerequisites_courses": [
+        "GDIM 31"
+      ]
+    },
+    {
+      "code": "I&C SCI 10",
+      "title": "How Computers Work",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 139W",
+      "title": "Critical Writing on Information Technology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 31",
+      "title": "Introduction to Programming",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 32",
+      "title": "Programming with Software Libraries",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 31",
+      "prerequisites_courses": [
+        "I&C SCI 31"
+      ]
+    },
+    {
+      "code": "I&C SCI 33",
+      "title": "Intermediate Programming",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 32; or I&C SCI H32",
+      "prerequisites_courses": [
+        "I&C SCI 32",
+        "I&C SCI H32"
+      ]
+    },
+    {
+      "code": "I&C SCI 45C",
+      "title": "Programming in C/C++ as a Second Language",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33; or EECS 40",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "EECS 40"
+      ]
+    },
+    {
+      "code": "I&C SCI 45J",
+      "title": "Programming in Java as a Second Language",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33",
+      "prerequisites_courses": [
+        "I&C SCI 33"
+      ]
+    },
+    {
+      "code": "I&C SCI 46",
+      "title": "Data Structure Implementation and Analysis",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33 and I&C SCI 45C",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "I&C SCI 45C"
+      ]
+    },
+    {
+      "code": "I&C SCI 51",
+      "title": "Introductory Computer Organization",
+      "units": "6",
+      "prerequisites_raw": "I&C SCI 33 and I&C SCI 6B",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "I&C SCI 6B"
+      ]
+    },
+    {
+      "code": "I&C SCI 53",
+      "title": "Principles in System Design",
+      "units": "6",
+      "prerequisites_raw": "I&C SCI 46 and I&C SCI 51",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "I&C SCI 51"
+      ]
+    },
+    {
+      "code": "I&C SCI 6B",
+      "title": "Boolean Logic and Discrete Structures",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 6D",
+      "title": "Discrete Mathematics for Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 6N",
+      "title": "Computational Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 31 or I&C SCI H32 and MATH 2B or MATH 5B",
+      "prerequisites_courses": [
+        "I&C SCI 31",
+        "I&C SCI H32",
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "I&C SCI H32",
+      "title": "Python Programming and Libraries (Accelerated)",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "IN4MATX 131",
+      "title": "Human Computer Interaction",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 10; or I&C SCI 31; or I&C SCI H32; or GDIM 31; or ENGRMAE 10; or EECS 10",
+      "prerequisites_courses": [
+        "I&C SCI 10",
+        "I&C SCI 31",
+        "I&C SCI H32",
+        "GDIM 31",
+        "ENGRMAE 10",
+        "EECS 10"
+      ]
+    },
+    {
+      "code": "IN4MATX 133",
+      "title": "User Interaction Software",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 45J; or I&C SCI 45C",
+      "prerequisites_courses": [
+        "I&C SCI 45J",
+        "I&C SCI 45C"
+      ]
+    },
+    {
+      "code": "IN4MATX 134",
+      "title": "Advanced Topics in User Interface Software",
+      "units": "4",
+      "prerequisites_raw": "IN4MATX 131 and IN4MATX 133",
+      "prerequisites_courses": [
+        "IN4MATX 131",
+        "IN4MATX 133"
+      ]
+    },
+    {
+      "code": "MATH 121A",
+      "title": "Linear Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A and MATH 13",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 13"
+      ]
+    },
+    {
+      "code": "MATH 13",
+      "title": "Introduction to Abstract Mathematics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A; or I&C SCI 6D",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A",
+        "I&C SCI 6D"
+      ]
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Pre-Calculus II",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Single-Variable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Single-Variable Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "MATH 2D",
+      "title": "Multivariable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Introduction to Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 5A",
+      "title": "Calculus for Life Sciences I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 5B",
+      "title": "Calculus for Life Sciences II",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MGMT 7",
+      "title": "Statistics for Business Decision Making",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 113A",
+      "title": "Quantum Mechanics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 51A or PHYSICS 61A and PHYSICS 50",
+      "prerequisites_courses": [
+        "PHYSICS 51A",
+        "PHYSICS 61A",
+        "PHYSICS 50"
+      ]
+    },
+    {
+      "code": "PHYSICS 3A",
+      "title": "Basic Physics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "PHYSICS 3C",
+      "title": "Basic Physics III",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 3A",
+      "prerequisites_courses": [
+        "PHYSICS 3A"
+      ]
+    },
+    {
+      "code": "PHYSICS 50",
+      "title": "Introductory Mathematical Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYSICS 51A",
+      "title": "Modern Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7E or PHYSICS 3C and MATH 2D",
+      "prerequisites_courses": [
+        "PHYSICS 7E",
+        "PHYSICS 3C",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "PHYSICS 61A",
+      "title": "Modern Physics for Majors",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7E or PHYSICS 3C and MATH 2D",
+      "prerequisites_courses": [
+        "PHYSICS 7E",
+        "PHYSICS 3C",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "PHYSICS 7C",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 7E",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 2B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "STATS 120A",
+      "title": "Introduction to Probability and Statistics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B and MATH 2D",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "STATS 120B",
+      "title": "Introduction to Probability and Statistics II",
+      "units": "4",
+      "prerequisites_raw": "STATS 120A",
+      "prerequisites_courses": [
+        "STATS 120A"
+      ]
+    },
+    {
+      "code": "STATS 67",
+      "title": "Introduction to Probability and Statistics for Computer Science",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B",
+      "prerequisites_courses": [
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "STATS 7",
+      "title": "Basic Statistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "STATS 8",
+      "title": "Introduction to Biological Statistics ",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "SWE 113",
+      "title": "Requirements Analysis and Engineering",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33 and SWE 43",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "SWE 43"
+      ]
+    },
+    {
+      "code": "SWE 115",
+      "title": "Software Testing, Analysis, and Quality Assurance",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 45J or I&C SCI 45C or I&C SCI 46 and SWE 43",
+      "prerequisites_courses": [
+        "I&C SCI 45J",
+        "I&C SCI 45C",
+        "I&C SCI 46",
+        "SWE 43"
+      ]
+    },
+    {
+      "code": "SWE 117",
+      "title": "Project in Software System Design",
+      "units": "4",
+      "prerequisites_raw": "SWE 43 and I&C SCI 33",
+      "prerequisites_courses": [
+        "SWE 43",
+        "I&C SCI 33"
+      ]
+    },
+    {
+      "code": "SWE 121",
+      "title": "Software Design: Applications",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33; or GDIM 33",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "GDIM 33"
+      ]
+    },
+    {
+      "code": "SWE 122",
+      "title": "Software Design: Structure and Implementation",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 45J; or I&C SCI 46",
+      "prerequisites_courses": [
+        "I&C SCI 45J",
+        "I&C SCI 46"
+      ]
+    },
+    {
+      "code": "SWE 124",
+      "title": "Internet Applications Engineering",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "SWE 43",
+      "title": "Introduction to Software Engineering",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 32; or I&C SCI H32",
+      "prerequisites_courses": [
+        "I&C SCI 32",
+        "I&C SCI H32"
+      ]
+    }
+  ]
+}

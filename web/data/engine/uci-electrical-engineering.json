@@ -1,0 +1,798 @@
+{
+  "campus": "UCI",
+  "major": "Electrical Engineering (B.S.)",
+  "checked": "2026-10-28",
+  "n_courses": 83,
+  "courses": [
+    {
+      "code": "BME 60B",
+      "title": "Engineering Analysis/Design: Data Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A; or PHYSICS 7C; or CHEM 1X; or CHEM 1P",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A",
+        "PHYSICS 7C",
+        "CHEM 1X",
+        "CHEM 1P"
+      ]
+    },
+    {
+      "code": "CHEM 1P",
+      "title": "Preparation for General Chemistry ",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1X",
+      "title": "General Chemistry Plus",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMPSCI 145",
+      "title": "Embedded Software",
+      "units": "6",
+      "prerequisites_raw": "I&C SCI 46 and I&C SCI 51 or EECS 31",
+      "prerequisites_courses": [
+        "I&C SCI 46",
+        "I&C SCI 51",
+        "EECS 31"
+      ]
+    },
+    {
+      "code": "EECS 1",
+      "title": "Introduction to Electrical Engineering and Computer Engineering",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EECS 10",
+      "title": "Computational Methods in Electrical and Computer Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "EECS 101",
+      "title": "Introduction to Machine Vision",
+      "units": "3",
+      "prerequisites_raw": "EECS 150; or EECS 50",
+      "prerequisites_courses": [
+        "EECS 150",
+        "EECS 50"
+      ]
+    },
+    {
+      "code": "EECS 112",
+      "title": "Organization of Digital Computers",
+      "units": "4",
+      "prerequisites_raw": "EECS 31L",
+      "prerequisites_courses": [
+        "EECS 31L"
+      ]
+    },
+    {
+      "code": "EECS 113",
+      "title": "Processor Hardware/Software Interfaces",
+      "units": "4",
+      "prerequisites_raw": "EECS 112",
+      "prerequisites_courses": [
+        "EECS 112"
+      ]
+    },
+    {
+      "code": "EECS 12",
+      "title": "Introduction to Programming",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "EECS 141A",
+      "title": "Communication Systems I",
+      "units": "4",
+      "prerequisites_raw": "EECS 55 and EECS 150",
+      "prerequisites_courses": [
+        "EECS 55",
+        "EECS 150"
+      ]
+    },
+    {
+      "code": "EECS 141B",
+      "title": "Communication Systems II",
+      "units": "4",
+      "prerequisites_raw": "EECS 141A",
+      "prerequisites_courses": [
+        "EECS 141A"
+      ]
+    },
+    {
+      "code": "EECS 144",
+      "title": "Antenna Design for Wireless Communication Links",
+      "units": "4",
+      "prerequisites_raw": "EECS 180A",
+      "prerequisites_courses": [
+        "EECS 180A"
+      ]
+    },
+    {
+      "code": "EECS 145",
+      "title": "Electrical Engineering Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 3D",
+      "prerequisites_courses": [
+        "MATH 3D"
+      ]
+    },
+    {
+      "code": "EECS 148",
+      "title": "Computer Networks",
+      "units": "4",
+      "prerequisites_raw": "EECS 55; or STATS 67",
+      "prerequisites_courses": [
+        "EECS 55",
+        "STATS 67"
+      ]
+    },
+    {
+      "code": "EECS 150",
+      "title": "Continuous-Time Signals and Systems",
+      "units": "4",
+      "prerequisites_raw": "EECS 70A and MATH 3D",
+      "prerequisites_courses": [
+        "EECS 70A",
+        "MATH 3D"
+      ]
+    },
+    {
+      "code": "EECS 152A",
+      "title": "Digital Signal Processing",
+      "units": "3",
+      "prerequisites_raw": "EECS 50",
+      "prerequisites_courses": [
+        "EECS 50"
+      ]
+    },
+    {
+      "code": "EECS 152B",
+      "title": "Digital Signal Processing Design and Laboratory",
+      "units": "3",
+      "prerequisites_raw": "EECS 152A",
+      "prerequisites_courses": [
+        "EECS 152A"
+      ]
+    },
+    {
+      "code": "EECS 159A",
+      "title": "Senior Design Project I",
+      "units": "3",
+      "prerequisites_raw": "EECS 113; or EECS 170C; or COMPSCI 145",
+      "prerequisites_courses": [
+        "EECS 113",
+        "EECS 170C",
+        "COMPSCI 145"
+      ]
+    },
+    {
+      "code": "EECS 159B",
+      "title": "Senior Design Project II",
+      "units": "3",
+      "prerequisites_raw": "EECS 159A",
+      "prerequisites_courses": [
+        "EECS 159A"
+      ]
+    },
+    {
+      "code": "EECS 160A",
+      "title": "Introduction to Control Systems",
+      "units": "4",
+      "prerequisites_raw": "EECS 10 or EECS 12 or ENGRMAE 10 or BME 60B or ENGRCEE 20 and EECS 150 and EECS 170B and EECS 170LB",
+      "prerequisites_courses": [
+        "EECS 10",
+        "EECS 12",
+        "ENGRMAE 10",
+        "BME 60B",
+        "ENGRCEE 20",
+        "EECS 150",
+        "EECS 170B",
+        "EECS 170LB"
+      ]
+    },
+    {
+      "code": "EECS 160LA",
+      "title": "Control Systems I Laboratory",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EECS 166A",
+      "title": "Industrial and Power Electronics",
+      "units": "4",
+      "prerequisites_raw": "EECS 170C and EECS 160A",
+      "prerequisites_courses": [
+        "EECS 170C",
+        "EECS 160A"
+      ]
+    },
+    {
+      "code": "EECS 170A",
+      "title": "Electronics I",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7D and EECS 70B",
+      "prerequisites_courses": [
+        "PHYSICS 7D",
+        "EECS 70B"
+      ]
+    },
+    {
+      "code": "EECS 170B",
+      "title": "Electronics II",
+      "units": "4",
+      "prerequisites_raw": "EECS 70B and EECS 170A and EECS 170LA",
+      "prerequisites_courses": [
+        "EECS 70B",
+        "EECS 170A",
+        "EECS 170LA"
+      ]
+    },
+    {
+      "code": "EECS 170C",
+      "title": "Electronics III",
+      "units": "4",
+      "prerequisites_raw": "EECS 170B and EECS 170LB",
+      "prerequisites_courses": [
+        "EECS 170B",
+        "EECS 170LB"
+      ]
+    },
+    {
+      "code": "EECS 170D",
+      "title": "Integrated Electronic Circuit Design",
+      "units": "4",
+      "prerequisites_raw": "EECS 170C and EECS 170LC",
+      "prerequisites_courses": [
+        "EECS 170C",
+        "EECS 170LC"
+      ]
+    },
+    {
+      "code": "EECS 170E",
+      "title": "Analog and Communications IC Design",
+      "units": "4",
+      "prerequisites_raw": "EECS 170C",
+      "prerequisites_courses": [
+        "EECS 170C"
+      ]
+    },
+    {
+      "code": "EECS 170LA",
+      "title": "Electronics I Laboratory",
+      "units": "1",
+      "prerequisites_raw": "PHYSICS 7D and EECS 70B",
+      "prerequisites_courses": [
+        "PHYSICS 7D",
+        "EECS 70B"
+      ]
+    },
+    {
+      "code": "EECS 170LB",
+      "title": "Electronics II Laboratory",
+      "units": "1",
+      "prerequisites_raw": "EECS 170A and EECS 170LA",
+      "prerequisites_courses": [
+        "EECS 170A",
+        "EECS 170LA"
+      ]
+    },
+    {
+      "code": "EECS 170LC",
+      "title": "Electronics III Laboratory",
+      "units": "1",
+      "prerequisites_raw": "EECS 170B and EECS 170LB",
+      "prerequisites_courses": [
+        "EECS 170B",
+        "EECS 170LB"
+      ]
+    },
+    {
+      "code": "EECS 174",
+      "title": "Semiconductor Devices",
+      "units": "4",
+      "prerequisites_raw": "EECS 170A",
+      "prerequisites_courses": [
+        "EECS 170A"
+      ]
+    },
+    {
+      "code": "EECS 176",
+      "title": "Fundamentals of Solid-State Electronics and Materials",
+      "units": "4",
+      "prerequisites_raw": "EECS 170A",
+      "prerequisites_courses": [
+        "EECS 170A"
+      ]
+    },
+    {
+      "code": "EECS 179",
+      "title": "Microelectromechanical Systems (MEMS)",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EECS 180A",
+      "title": "Engineering Electromagnetics I",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7E and EECS 145",
+      "prerequisites_courses": [
+        "PHYSICS 7E",
+        "EECS 145"
+      ]
+    },
+    {
+      "code": "EECS 180B",
+      "title": "Engineering Electromagnetics II",
+      "units": "4",
+      "prerequisites_raw": "EECS 180A",
+      "prerequisites_courses": [
+        "EECS 180A"
+      ]
+    },
+    {
+      "code": "EECS 182",
+      "title": "Monolithic Microwave Integrated Circuit (MMIC) Analysis and Design",
+      "units": "4",
+      "prerequisites_raw": "EECS 180A",
+      "prerequisites_courses": [
+        "EECS 180A"
+      ]
+    },
+    {
+      "code": "EECS 188",
+      "title": "Optical Electronics",
+      "units": "4",
+      "prerequisites_raw": "EECS 180A",
+      "prerequisites_courses": [
+        "EECS 180A"
+      ]
+    },
+    {
+      "code": "EECS 20",
+      "title": "Computer Systems and C Programming",
+      "units": "4",
+      "prerequisites_raw": "EECS 12",
+      "prerequisites_courses": [
+        "EECS 12"
+      ]
+    },
+    {
+      "code": "EECS 22",
+      "title": "Advanced C Programming",
+      "units": "3",
+      "prerequisites_raw": "EECS 10; or EECS 20",
+      "prerequisites_courses": [
+        "EECS 10",
+        "EECS 20"
+      ]
+    },
+    {
+      "code": "EECS 22L",
+      "title": "Software Engineering Project in C Language",
+      "units": "3",
+      "prerequisites_raw": "EECS 22",
+      "prerequisites_courses": [
+        "EECS 22"
+      ]
+    },
+    {
+      "code": "EECS 31",
+      "title": "Introduction to Digital Systems",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 31; or EECS 10; or EECS 12; or ENGRMAE 10",
+      "prerequisites_courses": [
+        "I&C SCI 31",
+        "EECS 10",
+        "EECS 12",
+        "ENGRMAE 10"
+      ]
+    },
+    {
+      "code": "EECS 31L",
+      "title": "Introduction to Digital Logic Laboratory",
+      "units": "3",
+      "prerequisites_raw": "EECS 31 and EECS 10 or EECS 12 or I&C SCI 32",
+      "prerequisites_courses": [
+        "EECS 31",
+        "EECS 10",
+        "EECS 12",
+        "I&C SCI 32"
+      ]
+    },
+    {
+      "code": "EECS 40",
+      "title": "Object-Oriented Systems and Programming",
+      "units": "4",
+      "prerequisites_raw": "EECS 22L",
+      "prerequisites_courses": [
+        "EECS 22L"
+      ]
+    },
+    {
+      "code": "EECS 50",
+      "title": "Discrete-Time Signals and Systems",
+      "units": "4",
+      "prerequisites_raw": "EECS 70A",
+      "prerequisites_courses": [
+        "EECS 70A"
+      ]
+    },
+    {
+      "code": "EECS 55",
+      "title": "Engineering Probability",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D",
+      "prerequisites_courses": [
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "EECS 70A",
+      "title": "Network Analysis I",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7D and EECS 10 or EECS 12 or ENGRMAE 10 or I&C SCI 31 or ENGRCEE 20",
+      "prerequisites_courses": [
+        "PHYSICS 7D",
+        "EECS 10",
+        "EECS 12",
+        "ENGRMAE 10",
+        "I&C SCI 31",
+        "ENGRCEE 20"
+      ]
+    },
+    {
+      "code": "EECS 70B",
+      "title": "Network Analysis II",
+      "units": "4",
+      "prerequisites_raw": "BME 60B or EECS 10 or EECS 12 or I&C SCI 31 or ENGRCEE 20 or ENGRMAE 10 and EECS 70A",
+      "prerequisites_courses": [
+        "BME 60B",
+        "EECS 10",
+        "EECS 12",
+        "I&C SCI 31",
+        "ENGRCEE 20",
+        "ENGRMAE 10",
+        "EECS 70A"
+      ]
+    },
+    {
+      "code": "EECS 70LA",
+      "title": "Network Analysis I Laboratory",
+      "units": "1",
+      "prerequisites_raw": "PHYSICS 7D and EECS 10 or EECS 12 or BME 60B or ENGRCEE 20 or ENGRMAE 10",
+      "prerequisites_courses": [
+        "PHYSICS 7D",
+        "EECS 10",
+        "EECS 12",
+        "BME 60B",
+        "ENGRCEE 20",
+        "ENGRMAE 10"
+      ]
+    },
+    {
+      "code": "EECS 70LB",
+      "title": "Network Analysis II Laboratory",
+      "units": "1",
+      "prerequisites_raw": "BME 60B or EECS 10 or EECS 12 or I&C SCI 31 or ENGRCEE 20 or ENGRMAE 10 and EECS 70A",
+      "prerequisites_courses": [
+        "BME 60B",
+        "EECS 10",
+        "EECS 12",
+        "I&C SCI 31",
+        "ENGRCEE 20",
+        "ENGRMAE 10",
+        "EECS 70A"
+      ]
+    },
+    {
+      "code": "ENGR 190W",
+      "title": "Communications in the Professional World",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGR 1A",
+      "title": "General Chemistry for Engineers",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGR 54",
+      "title": "Principles of Materials Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "ENGR 1A or CHEM 1A and PHYSICS 7C",
+      "prerequisites_courses": [
+        "ENGR 1A",
+        "CHEM 1A",
+        "PHYSICS 7C"
+      ]
+    },
+    {
+      "code": "ENGRCEE 20",
+      "title": "Introduction to Computational Problem Solving",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGRMAE 10",
+      "title": "Introduction to Engineering Computations",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "I&C SCI 31",
+      "title": "Introduction to Programming",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 32",
+      "title": "Programming with Software Libraries",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 31",
+      "prerequisites_courses": [
+        "I&C SCI 31"
+      ]
+    },
+    {
+      "code": "I&C SCI 33",
+      "title": "Intermediate Programming",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 32; or I&C SCI H32",
+      "prerequisites_courses": [
+        "I&C SCI 32",
+        "I&C SCI H32"
+      ]
+    },
+    {
+      "code": "I&C SCI 45C",
+      "title": "Programming in C/C++ as a Second Language",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33; or EECS 40",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "EECS 40"
+      ]
+    },
+    {
+      "code": "I&C SCI 46",
+      "title": "Data Structure Implementation and Analysis",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 33 and I&C SCI 45C",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "I&C SCI 45C"
+      ]
+    },
+    {
+      "code": "I&C SCI 51",
+      "title": "Introductory Computer Organization",
+      "units": "6",
+      "prerequisites_raw": "I&C SCI 33 and I&C SCI 6B",
+      "prerequisites_courses": [
+        "I&C SCI 33",
+        "I&C SCI 6B"
+      ]
+    },
+    {
+      "code": "I&C SCI 6B",
+      "title": "Boolean Logic and Discrete Structures",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI H32",
+      "title": "Python Programming and Libraries (Accelerated)",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Pre-Calculus II",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Single-Variable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Single-Variable Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "MATH 2D",
+      "title": "Multivariable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 2E",
+      "title": "Multivariable Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D",
+      "prerequisites_courses": [
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Introduction to Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 3D",
+      "title": "Elementary Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A and MATH 2D",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "MATH 5A",
+      "title": "Calculus for Life Sciences I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 5B",
+      "title": "Calculus for Life Sciences II",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "PHYSICS 3A",
+      "title": "Basic Physics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "PHYSICS 3C",
+      "title": "Basic Physics III",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 3A",
+      "prerequisites_courses": [
+        "PHYSICS 3A"
+      ]
+    },
+    {
+      "code": "PHYSICS 51A",
+      "title": "Modern Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7E or PHYSICS 3C and MATH 2D",
+      "prerequisites_courses": [
+        "PHYSICS 7E",
+        "PHYSICS 3C",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "PHYSICS 52A",
+      "title": "Fundamentals of Experimental Physics",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 7C",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 7D",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 2B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "PHYSICS 7E",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 2B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "PHYSICS 7LC",
+      "title": "Classical Physics Laboratory",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 7LD",
+      "title": "Classical Physics Laboratory",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "STATS 67",
+      "title": "Introduction to Probability and Statistics for Computer Science",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B",
+      "prerequisites_courses": [
+        "MATH 2B"
+      ]
+    }
+  ]
+}

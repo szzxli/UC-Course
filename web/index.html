@@ -111,9 +111,16 @@ I18N.init().then(function () {
     updatePickCard();
     updateMajor2Card();
   }
-  /* 链条第④步：试点进工具，非试点看示例（试点：UCSB 环境科学） */
+  /* 链条第④步：试点进工具，非试点看示例（试点：UCSB 环境科学 + UCI 5 专业；
+     UCSD 数学-计算机科学的排课仍走示例，见 plan.html 的 ENG_MAP；
+     UCI 生物暂不进排课：其专业文件目前只有高年级选修三项，缺低年级核心，
+     排课须等核心数据补齐，选课与地图不受影响） */
   function updateEngineCard() {
-    var pilot = Sget("campus", "UCI") === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json";
+    var ENG_MAJORS = ["ucsb-environmental-science.json",
+      "uci-computer-science.json", "uci-electrical-engineering.json",
+      "uci-psychology.json",
+      "uci-economics.json", "uci-mathematics.json"];
+    var pilot = ENG_MAJORS.indexOf(Sget("major", "")) >= 0;
     var btn = document.getElementById("engineBtn");
     if (pilot) {
       btn.href = "plan.html#engine";
@@ -123,10 +130,14 @@ I18N.init().then(function () {
       btn.textContent = I18N.t("index.engineDemo");
     }
   }
-  /* 链条第③步：试点进个人选课，非试点看示例（试点：UCSB 环境科学、UCSD 数学-计算机科学） */
+  /* 链条第③步：试点进个人选课，非试点看示例（试点：UCSB 环境科学、UCSD 数学-计算机科学、UCI 6 专业） */
   function updatePickCard() {
-    var pilot = (Sget("campus", "UCI") === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json") ||
-      (Sget("campus", "UCI") === "UCSD" && Sget("major", "") === "ucsd-mathematics-computer-science.json");
+    var PICK_MAJORS = ["ucsb-environmental-science.json",
+      "ucsd-mathematics-computer-science.json",
+      "uci-computer-science.json", "uci-electrical-engineering.json",
+      "uci-biology.json", "uci-psychology.json",
+      "uci-economics.json", "uci-mathematics.json"];
+    var pilot = PICK_MAJORS.indexOf(Sget("major", "")) >= 0;
     var btn = document.getElementById("pickBtn");
     if (pilot) {
       btn.href = "courses.html#pick";

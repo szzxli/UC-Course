@@ -1,0 +1,358 @@
+{
+  "campus": "UCI",
+  "major": "Economics (B.A.)",
+  "checked": "2026-10-28",
+  "n_courses": 36,
+  "courses": [
+    {
+      "code": "ECON 100A",
+      "title": "Intermediate Economics I",
+      "units": "4",
+      "prerequisites_raw": "ECON 20A and ECON 20B and MATH 2A and MATH 2B",
+      "prerequisites_courses": [
+        "ECON 20A",
+        "ECON 20B",
+        "MATH 2A",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "ECON 100B",
+      "title": "Intermediate Economic II",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A; or ECON 105A",
+      "prerequisites_courses": [
+        "ECON 100A",
+        "ECON 105A"
+      ]
+    },
+    {
+      "code": "ECON 100C",
+      "title": "Intermediate Economics III",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B; or ECON 105B",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 105B"
+      ]
+    },
+    {
+      "code": "ECON 105A",
+      "title": "Intermediate Quantitative Economics I ",
+      "units": "4",
+      "prerequisites_raw": "ECON 20A and ECON 20B and MATH 2A and MATH 2B and MATH 3A",
+      "prerequisites_courses": [
+        "ECON 20A",
+        "ECON 20B",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "ECON 105B",
+      "title": "Intermediate Quantitative Economics II ",
+      "units": "4",
+      "prerequisites_raw": "ECON 105A",
+      "prerequisites_courses": [
+        "ECON 105A"
+      ]
+    },
+    {
+      "code": "ECON 105C",
+      "title": "Intermediate Quantitative Economics III ",
+      "units": "4",
+      "prerequisites_raw": "ECON 105B",
+      "prerequisites_courses": [
+        "ECON 105B"
+      ]
+    },
+    {
+      "code": "ECON 122A",
+      "title": "Applied Econometrics I",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A or ECON 105A and ECON 15A or ECON 15B or ECON 15 or MATH 130B or STATS 120C",
+      "prerequisites_courses": [
+        "ECON 100A",
+        "ECON 105A",
+        "ECON 15A",
+        "ECON 15B",
+        "ECON 15",
+        "MATH 130B",
+        "STATS 120C"
+      ]
+    },
+    {
+      "code": "ECON 122B",
+      "title": "Applied Econometrics II",
+      "units": "4",
+      "prerequisites_raw": "ECON 122A",
+      "prerequisites_courses": [
+        "ECON 122A"
+      ]
+    },
+    {
+      "code": "ECON 123A",
+      "title": "Econometrics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B and MATH 3A and STATS 120C or MATH 130C and ECON 100A and ECON 100B and ECON 100C; or MATH 2A and MATH 2B and MATH 3A and STATS 120C or MATH 130C and ECON 105A and ECON 105B and ECON 105C",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "STATS 120C",
+        "MATH 130C",
+        "ECON 100A",
+        "ECON 100B",
+        "ECON 100C",
+        "ECON 105A",
+        "ECON 105B",
+        "ECON 105C"
+      ]
+    },
+    {
+      "code": "ECON 13",
+      "title": "Global Economy",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 15",
+      "title": "Probability and Statistics for Economics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "ECON 15A",
+      "title": "Probability and Statistics in Economics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "ECON 15B",
+      "title": "Probability and Statistics in Economics II",
+      "units": "4",
+      "prerequisites_raw": "ECON 15A",
+      "prerequisites_courses": [
+        "ECON 15A"
+      ]
+    },
+    {
+      "code": "ECON 190",
+      "title": "Senior Thesis",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 190BW",
+      "title": "Economics Honors Colloquium II",
+      "units": "4",
+      "prerequisites_raw": "ECON H190A",
+      "prerequisites_courses": [
+        "ECON H190A"
+      ]
+    },
+    {
+      "code": "ECON 199",
+      "title": "Independent Study",
+      "units": "1-5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 20A",
+      "title": "Basic Economics I",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 20B",
+      "title": "Basic Economics II",
+      "units": "4",
+      "prerequisites_raw": "ECON 20A; or ECON 13; or ECON 23",
+      "prerequisites_courses": [
+        "ECON 20A",
+        "ECON 13",
+        "ECON 23"
+      ]
+    },
+    {
+      "code": "ECON 23",
+      "title": "Basic Economics for Engineers",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON H190A",
+      "title": "Economics Honors Colloquium I",
+      "units": "4",
+      "prerequisites_raw": "ECON 122A; or ECON 123A",
+      "prerequisites_courses": [
+        "ECON 122A",
+        "ECON 123A"
+      ]
+    },
+    {
+      "code": "I&C SCI 31",
+      "title": "Introduction to Programming",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 6N",
+      "title": "Computational Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 31 or I&C SCI H32 and MATH 2B or MATH 5B",
+      "prerequisites_courses": [
+        "I&C SCI 31",
+        "I&C SCI H32",
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "I&C SCI H32",
+      "title": "Python Programming and Libraries (Accelerated)",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 130A",
+      "title": "Probability I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MATH 130B",
+      "title": "Probability II",
+      "units": "4",
+      "prerequisites_raw": "MATH 130A; or STATS 120A",
+      "prerequisites_courses": [
+        "MATH 130A",
+        "STATS 120A"
+      ]
+    },
+    {
+      "code": "MATH 130C",
+      "title": "Stochastic Processes",
+      "units": "4",
+      "prerequisites_raw": "MATH 130B",
+      "prerequisites_courses": [
+        "MATH 130B"
+      ]
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Pre-Calculus II",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Single-Variable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Single-Variable Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "MATH 2D",
+      "title": "Multivariable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Introduction to Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 5A",
+      "title": "Calculus for Life Sciences I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 5B",
+      "title": "Calculus for Life Sciences II",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "STATS 120A",
+      "title": "Introduction to Probability and Statistics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B and MATH 2D",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "STATS 120B",
+      "title": "Introduction to Probability and Statistics II",
+      "units": "4",
+      "prerequisites_raw": "STATS 120A",
+      "prerequisites_courses": [
+        "STATS 120A"
+      ]
+    },
+    {
+      "code": "STATS 120C",
+      "title": "Introduction to Probability and Statistics III",
+      "units": "4",
+      "prerequisites_raw": "STATS 120B and MATH 3A or I&C SCI 6N",
+      "prerequisites_courses": [
+        "STATS 120B",
+        "MATH 3A",
+        "I&C SCI 6N"
+      ]
+    }
+  ]
+}

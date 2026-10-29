@@ -704,12 +704,32 @@ I18N.init().then(function () {
         ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
     }
   })();
+  /* 排课引擎取数：演示模式与非试点专业沿用 UCSB 环境科学；UCI 5 专业进个人数据。
+     UCSD 数学-计算机科学的排课仍走示例（不在此表内）。
+     UCI 生物暂不进排课：其专业文件目前只有高年级选修三项，缺低年级核心，
+     须等核心数据补齐（选课与地图不受影响，见 courses.html 的 ENG_MAP）。 */
+  var ENG_MAP = {
+    "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
+    "uci-computer-science.json": "data/engine/uci-computer-science.json",
+    "uci-electrical-engineering.json": "data/engine/uci-electrical-engineering.json",
+    "uci-psychology.json": "data/engine/uci-psychology.json",
+    "uci-economics.json": "data/engine/uci-economics.json",
+    "uci-mathematics.json": "data/engine/uci-mathematics.json"
+  };
+  var storedMajor = Sget("major", "");
+  var majorFile = (!demo && ENG_MAP[storedMajor]) ? "data/majors/" + storedMajor : "data/majors/ucsb-environmental-science.json";
+  var engFile = (!demo && ENG_MAP[storedMajor]) ? ENG_MAP[storedMajor] : "data/engine/ucsb-es.json";
   Promise.all([
-    fetch("data/majors/ucsb-environmental-science.json").then(function (r) { return r.json(); }),
-    fetch("data/engine/ucsb-es.json").then(function (r) { return r.json(); })
+    fetch(majorFile).then(function (r) { return r.json(); }),
+    fetch(engFile).then(function (r) { return r.json(); })
   ]).then(function (parts) {
     MAJOR = parts[0];
     parts[1].courses.forEach(function (c) { CATALOG[Engine.normCode(c.code)] = c; });
+    /* 外语复选框只属 UCSB：非 UCSB 专业隐藏并取消勾选，避免带入 UCSB GE 逻辑 */
+    if (MAJOR.campus !== "UCSB") {
+      var lc = document.getElementById("langChk");
+      if (lc) { lc.checked = false; var row = lc.closest("div"); if (row) row.hidden = true; }
+    }
     document.getElementById("runBtn").addEventListener("click", function () {
       var input = {
         years: parseInt(document.getElementById("yearsIn").value, 10) || 3,

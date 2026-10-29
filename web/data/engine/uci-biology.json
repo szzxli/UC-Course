@@ -1,0 +1,1012 @@
+{
+  "campus": "UCI",
+  "major": "Biological Sciences (B.S.)",
+  "checked": "2026-10-28",
+  "n_courses": 99,
+  "courses": [
+    {
+      "code": "BIO SCI 100",
+      "title": "Scientific Writing",
+      "units": "3",
+      "prerequisites_raw": "BIO SCI 99; or BIO SCI 190",
+      "prerequisites_courses": [
+        "BIO SCI 99",
+        "BIO SCI 190"
+      ]
+    },
+    {
+      "code": "BIO SCI 108",
+      "title": "Research Methods",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 14",
+      "prerequisites_courses": [
+        "BIO SCI 14"
+      ]
+    },
+    {
+      "code": "BIO SCI 14",
+      "title": "California Teach 1: Introduction to Science and Mathematics Teaching",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI 190",
+      "title": "Transfer Student Seminar",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI 93",
+      "title": "From DNA to Organisms",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI 94",
+      "title": "From Organisms to Ecosystems",
+      "units": "3",
+      "prerequisites_raw": "BIO SCI 93; or BIO SCI H93",
+      "prerequisites_courses": [
+        "BIO SCI 93",
+        "BIO SCI H93"
+      ]
+    },
+    {
+      "code": "BIO SCI 97",
+      "title": "Genetics",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 94",
+      "prerequisites_courses": [
+        "BIO SCI 94"
+      ]
+    },
+    {
+      "code": "BIO SCI 98",
+      "title": "Biochemistry",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 97 or BIO SCI H97 and CHEM 1C or CHEM M2C",
+      "prerequisites_courses": [
+        "BIO SCI 97",
+        "BIO SCI H97",
+        "CHEM 1C",
+        "CHEM M2C"
+      ]
+    },
+    {
+      "code": "BIO SCI 99",
+      "title": "Molecular Biology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 98",
+      "prerequisites_courses": [
+        "BIO SCI 98"
+      ]
+    },
+    {
+      "code": "BIO SCI D103",
+      "title": "Cell Biology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 99",
+      "prerequisites_courses": [
+        "BIO SCI 99"
+      ]
+    },
+    {
+      "code": "BIO SCI D104",
+      "title": "Developmental Biology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 99",
+      "prerequisites_courses": [
+        "BIO SCI 99"
+      ]
+    },
+    {
+      "code": "BIO SCI D111L",
+      "title": "Developmental and Cell Biology Laboratory",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI D103 or BIO SCI D104",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI D103",
+        "BIO SCI D104"
+      ]
+    },
+    {
+      "code": "BIO SCI E106",
+      "title": "Processes in Ecology and Evolution",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 94",
+      "prerequisites_courses": [
+        "BIO SCI 94"
+      ]
+    },
+    {
+      "code": "BIO SCI E106L",
+      "title": "Habitats and Organisms",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI E106",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI E106"
+      ]
+    },
+    {
+      "code": "BIO SCI E109",
+      "title": "Human Physiology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 93 or BIO SCI H93 and CHEM 1C or CHEM M2C",
+      "prerequisites_courses": [
+        "BIO SCI 93",
+        "BIO SCI H93",
+        "CHEM 1C",
+        "CHEM M2C"
+      ]
+    },
+    {
+      "code": "BIO SCI E112L",
+      "title": "Physiology Laboratory",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI E115L",
+      "title": "Evolution Laboratory",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI E106",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI E106"
+      ]
+    },
+    {
+      "code": "BIO SCI E131L",
+      "title": "Image Analysis in Biological Research",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI E106 or PHRMSCI 120 or BIO SCI E109 and BIO SCI 100 or BIO SCI 108",
+      "prerequisites_courses": [
+        "BIO SCI E106",
+        "PHRMSCI 120",
+        "BIO SCI E109",
+        "BIO SCI 100",
+        "BIO SCI 108"
+      ]
+    },
+    {
+      "code": "BIO SCI E140L",
+      "title": "Evolution and the Environment Laboratory",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI E106",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI E106"
+      ]
+    },
+    {
+      "code": "BIO SCI E160L",
+      "title": "Biology of Birds Lab",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI 94",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI 94"
+      ]
+    },
+    {
+      "code": "BIO SCI E166L",
+      "title": "Field Biology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI E106",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI E106"
+      ]
+    },
+    {
+      "code": "BIO SCI E179",
+      "title": "Limnology and Freshwater Biology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 94; or BIO SCI H94",
+      "prerequisites_courses": [
+        "BIO SCI 94",
+        "BIO SCI H94"
+      ]
+    },
+    {
+      "code": "BIO SCI E179L",
+      "title": "Field Freshwater Ecology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI E179",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI E179"
+      ]
+    },
+    {
+      "code": "BIO SCI E186L",
+      "title": "Population and Community Ecology Lab",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI E106 and BIO SCI 100 or BIO SCI 108",
+      "prerequisites_courses": [
+        "BIO SCI E106",
+        "BIO SCI 100",
+        "BIO SCI 108"
+      ]
+    },
+    {
+      "code": "BIO SCI H93",
+      "title": "Honors From DNA to Organisms",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI H94",
+      "title": "Honors From Organisms to Ecosystems",
+      "units": "3",
+      "prerequisites_raw": "BIO SCI H93",
+      "prerequisites_courses": [
+        "BIO SCI H93"
+      ]
+    },
+    {
+      "code": "BIO SCI H97",
+      "title": "Honors Genetics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI M114L",
+      "title": "Biochemistry Laboratory",
+      "units": "5",
+      "prerequisites_raw": "BIO SCI 99 and BIO SCI 100 or BIO SCI 108",
+      "prerequisites_courses": [
+        "BIO SCI 99",
+        "BIO SCI 100",
+        "BIO SCI 108"
+      ]
+    },
+    {
+      "code": "BIO SCI M116L",
+      "title": "Molecular Biology Laboratory",
+      "units": "5",
+      "prerequisites_raw": "BIO SCI 99 and BIO SCI 100 or BIO SCI 108",
+      "prerequisites_courses": [
+        "BIO SCI 99",
+        "BIO SCI 100",
+        "BIO SCI 108"
+      ]
+    },
+    {
+      "code": "BIO SCI M118L",
+      "title": "Experimental Microbiology Laboratory",
+      "units": "5",
+      "prerequisites_raw": "BIO SCI 99 and BIO SCI 100 or BIO SCI 108",
+      "prerequisites_courses": [
+        "BIO SCI 99",
+        "BIO SCI 100",
+        "BIO SCI 108"
+      ]
+    },
+    {
+      "code": "BIO SCI M121",
+      "title": "Immunology with Hematology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 98",
+      "prerequisites_courses": [
+        "BIO SCI 98"
+      ]
+    },
+    {
+      "code": "BIO SCI M121L",
+      "title": "Advanced Immunology Laboratory",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI M121",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI M121"
+      ]
+    },
+    {
+      "code": "BIO SCI M122",
+      "title": "General Microbiology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 98",
+      "prerequisites_courses": [
+        "BIO SCI 98"
+      ]
+    },
+    {
+      "code": "BIO SCI M128L",
+      "title": "Introductory Bioinformatics Lab",
+      "units": "5",
+      "prerequisites_raw": "BIO SCI 98 and BIO SCI 99 and BIO SCI 100 or BIO SCI 108",
+      "prerequisites_courses": [
+        "BIO SCI 98",
+        "BIO SCI 99",
+        "BIO SCI 100",
+        "BIO SCI 108"
+      ]
+    },
+    {
+      "code": "BIO SCI N110",
+      "title": "Neurobiology and Behavior",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 99",
+      "prerequisites_courses": [
+        "BIO SCI 99"
+      ]
+    },
+    {
+      "code": "BIO SCI N113L",
+      "title": "Neurobiology Laboratory",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 100 or BIO SCI 108 and BIO SCI N110 or BIO SCI N115A",
+      "prerequisites_courses": [
+        "BIO SCI 100",
+        "BIO SCI 108",
+        "BIO SCI N110",
+        "BIO SCI N115A"
+      ]
+    },
+    {
+      "code": "BIO SCI N115A",
+      "title": "Advanced Neurobiology I",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 99",
+      "prerequisites_courses": [
+        "BIO SCI 99"
+      ]
+    },
+    {
+      "code": "BIO SCI N123L",
+      "title": "Human Neuroimaging Lab",
+      "units": "3",
+      "prerequisites_raw": "BIO SCI 93 and BIO SCI 100 or BIO SCI 108",
+      "prerequisites_courses": [
+        "BIO SCI 93",
+        "BIO SCI 100",
+        "BIO SCI 108"
+      ]
+    },
+    {
+      "code": "BME 110A",
+      "title": "Biomechanics I",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 3A and MATH 3D and BME 60B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 3A",
+        "MATH 3D",
+        "BME 60B"
+      ]
+    },
+    {
+      "code": "BME 120",
+      "title": "Sensory Motor Systems",
+      "units": "4",
+      "prerequisites_raw": "BME 60B or EECS 10 or EECS 12 or ENGRCEE 20 or ENGRMAE 10 and MATH 3D and PHYSICS 7D",
+      "prerequisites_courses": [
+        "BME 60B",
+        "EECS 10",
+        "EECS 12",
+        "ENGRCEE 20",
+        "ENGRMAE 10",
+        "MATH 3D",
+        "PHYSICS 7D"
+      ]
+    },
+    {
+      "code": "BME 121",
+      "title": "Quantitative Physiology: Organ Transport Systems",
+      "units": "4",
+      "prerequisites_raw": "BME 60B or EECS 10 or EECS 12 or ENGRCEE 20 or ENGRMAE 10 and MATH 3D and BME 150 and BME 110A",
+      "prerequisites_courses": [
+        "BME 60B",
+        "EECS 10",
+        "EECS 12",
+        "ENGRCEE 20",
+        "ENGRMAE 10",
+        "MATH 3D",
+        "BME 150",
+        "BME 110A"
+      ]
+    },
+    {
+      "code": "BME 150",
+      "title": "Biotransport Phenomena",
+      "units": "4",
+      "prerequisites_raw": "BME 60B or ENGRCEE 20 and MATH 3D and CHEM 1C and PHYSICS 7E and MATH 2D",
+      "prerequisites_courses": [
+        "BME 60B",
+        "ENGRCEE 20",
+        "MATH 3D",
+        "CHEM 1C",
+        "PHYSICS 7E",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "BME 60B",
+      "title": "Engineering Analysis/Design: Data Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "CBE 40A",
+      "title": "Chemical Processes and Material Balances",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B and PHYSICS 7C and CHEM 1B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "PHYSICS 7C",
+        "CHEM 1B"
+      ]
+    },
+    {
+      "code": "CBE 40B",
+      "title": "Process Thermodynamics",
+      "units": "3",
+      "prerequisites_raw": "CBE 40A and MATH 3A or I&C SCI 6N",
+      "prerequisites_courses": [
+        "CBE 40A",
+        "MATH 3A",
+        "I&C SCI 6N"
+      ]
+    },
+    {
+      "code": "CBE 40C",
+      "title": "Chemical Engineering Thermodynamics",
+      "units": "4",
+      "prerequisites_raw": "ENGRMAE 10 and MATH 2D and CBE 40B",
+      "prerequisites_courses": [
+        "ENGRMAE 10",
+        "MATH 2D",
+        "CBE 40B"
+      ]
+    },
+    {
+      "code": "CHEM 128",
+      "title": "Introduction to Chemical Biology",
+      "units": "4",
+      "prerequisites_raw": "CHEM 51C",
+      "prerequisites_courses": [
+        "CHEM 51C"
+      ]
+    },
+    {
+      "code": "CHEM 132A",
+      "title": "Chemical Thermodynamics, Kinetics, and Dynamics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2D and PHYSICS 7D or PHYSICS 7E and CHEM 5 or MATH 3A and EECS 10 or EECS 12 or ENGRMAE 10 or I&C SCI 31",
+      "prerequisites_courses": [
+        "MATH 2D",
+        "PHYSICS 7D",
+        "PHYSICS 7E",
+        "CHEM 5",
+        "MATH 3A",
+        "EECS 10",
+        "EECS 12",
+        "ENGRMAE 10",
+        "I&C SCI 31"
+      ]
+    },
+    {
+      "code": "CHEM 132B",
+      "title": "Quantum Principles, Spectroscopy, and Bonding",
+      "units": "4",
+      "prerequisites_raw": "CHEM 132A or CBE 40C and PHYSICS 7D or PHYSICS 7E",
+      "prerequisites_courses": [
+        "CHEM 132A",
+        "CBE 40C",
+        "PHYSICS 7D",
+        "PHYSICS 7E"
+      ]
+    },
+    {
+      "code": "CHEM 132C",
+      "title": "Molecular Structure and Elementary Statistical Mechanics",
+      "units": "4",
+      "prerequisites_raw": "CHEM 132B",
+      "prerequisites_courses": [
+        "CHEM 132B"
+      ]
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A; or PHYSICS 7C; or CHEM 1X; or CHEM 1P",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A",
+        "PHYSICS 7C",
+        "CHEM 1X",
+        "CHEM 1P"
+      ]
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A; or ENGR 1A; or CHEM M2A",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "ENGR 1A",
+        "CHEM M2A"
+      ]
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry ",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1B",
+      "prerequisites_courses": [
+        "CHEM 1B"
+      ]
+    },
+    {
+      "code": "CHEM 1LC",
+      "title": "General Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1B; or ENGR 1A",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "ENGR 1A"
+      ]
+    },
+    {
+      "code": "CHEM 1LD",
+      "title": "General Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1C and CHEM 1LC",
+      "prerequisites_courses": [
+        "CHEM 1C",
+        "CHEM 1LC"
+      ]
+    },
+    {
+      "code": "CHEM 1P",
+      "title": "Preparation for General Chemistry ",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1X",
+      "title": "General Chemistry Plus",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 5",
+      "title": "Scientific Mathematical and Computing Skills",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1C or CHEM M2C and MATH 2D",
+      "prerequisites_courses": [
+        "CHEM 1C",
+        "CHEM M2C",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "CHEM 51A",
+      "title": "Organic Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1C or CHEM M2C and CHEM 1LD or CHEM M2LB",
+      "prerequisites_courses": [
+        "CHEM 1C",
+        "CHEM M2C",
+        "CHEM 1LD",
+        "CHEM M2LB"
+      ]
+    },
+    {
+      "code": "CHEM 51B",
+      "title": "Organic Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 51A and CHEM 1LD or CHEM M52LA",
+      "prerequisites_courses": [
+        "CHEM 51A",
+        "CHEM 1LD",
+        "CHEM M52LA"
+      ]
+    },
+    {
+      "code": "CHEM 51C",
+      "title": "Organic Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 51B and CHEM 51LB or CHEM M52LB",
+      "prerequisites_courses": [
+        "CHEM 51B",
+        "CHEM 51LB",
+        "CHEM M52LB"
+      ]
+    },
+    {
+      "code": "CHEM 51LB",
+      "title": "Organic Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 51A and CHEM 1LD or CHEM M2LB",
+      "prerequisites_courses": [
+        "CHEM 51A",
+        "CHEM 1LD",
+        "CHEM M2LB"
+      ]
+    },
+    {
+      "code": "CHEM M2A",
+      "title": "Majors General Chemistry Lecture",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A; or PHYSICS 7C; or CHEM 1X; or CHEM 1P",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A",
+        "PHYSICS 7C",
+        "CHEM 1X",
+        "CHEM 1P"
+      ]
+    },
+    {
+      "code": "CHEM M2B",
+      "title": "Majors General Chemistry Lecture",
+      "units": "4",
+      "prerequisites_raw": "CHEM M2A and CHEM M2LA",
+      "prerequisites_courses": [
+        "CHEM M2A",
+        "CHEM M2LA"
+      ]
+    },
+    {
+      "code": "CHEM M2C",
+      "title": "Majors General Chemistry Lecture",
+      "units": "4",
+      "prerequisites_raw": "CHEM M2B and CHEM M2LB",
+      "prerequisites_courses": [
+        "CHEM M2B",
+        "CHEM M2LB"
+      ]
+    },
+    {
+      "code": "CHEM M2LA",
+      "title": "Majors General Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM M2A",
+      "prerequisites_courses": [
+        "CHEM M2A"
+      ]
+    },
+    {
+      "code": "CHEM M2LB",
+      "title": "Majors General Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1B or CHEM M2B and CHEM M2A and CHEM M2LA",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM M2B",
+        "CHEM M2A",
+        "CHEM M2LA"
+      ]
+    },
+    {
+      "code": "CHEM M52LA",
+      "title": "Majors Organic Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1C or CHEM M2C and CHEM M2LB or CHEM 1LD",
+      "prerequisites_courses": [
+        "CHEM 1C",
+        "CHEM M2C",
+        "CHEM M2LB",
+        "CHEM 1LD"
+      ]
+    },
+    {
+      "code": "CHEM M52LB",
+      "title": "Majors Organic Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 51A and CHEM M52LA",
+      "prerequisites_courses": [
+        "CHEM 51A",
+        "CHEM M52LA"
+      ]
+    },
+    {
+      "code": "EECS 10",
+      "title": "Computational Methods in Electrical and Computer Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "EECS 12",
+      "title": "Introduction to Programming",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "ENGR 1A",
+      "title": "General Chemistry for Engineers",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGRCEE 20",
+      "title": "Introduction to Computational Problem Solving",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGRMAE 10",
+      "title": "Introduction to Engineering Computations",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "I&C SCI 31",
+      "title": "Introduction to Programming",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "I&C SCI 6N",
+      "title": "Computational Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "I&C SCI 31 or I&C SCI H32 and MATH 2B or MATH 5B",
+      "prerequisites_courses": [
+        "I&C SCI 31",
+        "I&C SCI H32",
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "I&C SCI H32",
+      "title": "Python Programming and Libraries (Accelerated)",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Pre-Calculus II",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Single-Variable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Single-Variable Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "MATH 2D",
+      "title": "Multivariable Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Introduction to Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B; or MATH 5B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 5B"
+      ]
+    },
+    {
+      "code": "MATH 3D",
+      "title": "Elementary Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A and MATH 2D",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 2D"
+      ]
+    },
+    {
+      "code": "MATH 5A",
+      "title": "Calculus for Life Sciences I",
+      "units": "4",
+      "prerequisites_raw": "MATH 1B",
+      "prerequisites_courses": [
+        "MATH 1B"
+      ]
+    },
+    {
+      "code": "MATH 5B",
+      "title": "Calculus for Life Sciences II",
+      "units": "4",
+      "prerequisites_raw": "MATH 5A; or MATH 2A",
+      "prerequisites_courses": [
+        "MATH 5A",
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "PHRMSCI 120",
+      "title": "Human Physiology",
+      "units": "4",
+      "prerequisites_raw": "BIO SCI 97 and CHEM 1C",
+      "prerequisites_courses": [
+        "BIO SCI 97",
+        "CHEM 1C"
+      ]
+    },
+    {
+      "code": "PHRMSCI 170A",
+      "title": "Molecular Pharmacology I",
+      "units": "4",
+      "prerequisites_raw": "CHEM 51C and PHRMSCI 120 or BIO SCI E109",
+      "prerequisites_courses": [
+        "CHEM 51C",
+        "PHRMSCI 120",
+        "BIO SCI E109"
+      ]
+    },
+    {
+      "code": "PHRMSCI 170B",
+      "title": "Molecular Pharmacology II",
+      "units": "4",
+      "prerequisites_raw": "PHRMSCI 170A",
+      "prerequisites_courses": [
+        "PHRMSCI 170A"
+      ]
+    },
+    {
+      "code": "PHRMSCI 171",
+      "title": "Physical Biochemistry",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 3C or PHYSICS 7E and CHEM 1C and BIO SCI 99",
+      "prerequisites_courses": [
+        "PHYSICS 3C",
+        "PHYSICS 7E",
+        "CHEM 1C",
+        "BIO SCI 99"
+      ]
+    },
+    {
+      "code": "PHRMSCI 173",
+      "title": "Pharmacotherapy",
+      "units": "4",
+      "prerequisites_raw": "PHRMSCI 170B",
+      "prerequisites_courses": [
+        "PHRMSCI 170B"
+      ]
+    },
+    {
+      "code": "PHRMSCI 174",
+      "title": "Biologics",
+      "units": "4",
+      "prerequisites_raw": "PHRMSCI 177 and PHRMSCI 177L",
+      "prerequisites_courses": [
+        "PHRMSCI 177",
+        "PHRMSCI 177L"
+      ]
+    },
+    {
+      "code": "PHRMSCI 177",
+      "title": "Medicinal Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 51A and CHEM 51B and CHEM 51C and BIO SCI 98 or CHEM 128",
+      "prerequisites_courses": [
+        "CHEM 51A",
+        "CHEM 51B",
+        "CHEM 51C",
+        "BIO SCI 98",
+        "CHEM 128"
+      ]
+    },
+    {
+      "code": "PHRMSCI 177L",
+      "title": "Medicinal Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 51A and CHEM 51B and CHEM 51C and BIO SCI 98 or CHEM 128",
+      "prerequisites_courses": [
+        "CHEM 51A",
+        "CHEM 51B",
+        "CHEM 51C",
+        "BIO SCI 98",
+        "CHEM 128"
+      ]
+    },
+    {
+      "code": "PHY SCI 5",
+      "title": "California Teach 1: Introduction to Science and Mathematics Teaching",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 3A",
+      "title": "Basic Physics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A; or MATH 5A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 5A"
+      ]
+    },
+    {
+      "code": "PHYSICS 3C",
+      "title": "Basic Physics III",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 3A",
+      "prerequisites_courses": [
+        "PHYSICS 3A"
+      ]
+    },
+    {
+      "code": "PHYSICS 7C",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYSICS 7D",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 2B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "PHYSICS 7E",
+      "title": "Classical Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 7C and MATH 2B",
+      "prerequisites_courses": [
+        "PHYSICS 7C",
+        "MATH 2B"
+      ]
+    }
+  ]
+}
