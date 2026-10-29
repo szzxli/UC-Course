@@ -150,5 +150,28 @@ for (const [stem, engStem] of MAJORS) {
     });
   }
   console.log(`    map nodes=${Object.keys(nodeSet).length} edges=${edgeSet.size}`);
+  // 地图分组（与 courses.html build() 同规则）：选修 → elect；prereq 型 → low；
+  // required 型看 id/名称低年级信号 → low，其余 → high。UCI CS 的 lower-A/B 必须落 low，
+  // 否则默认仅低年级筛选为空（2026-10-28 线上实测发现）。
+  const groups = {};
+  (major.requirements || []).forEach((req) => {
+    const codes = (req.courses || []).slice();
+    (req.options || []).forEach((g) => codes.push(...g));
+    let grp;
+    if (req.type === "elective") grp = "elect";
+    else if (req.type === "prereq") grp = "low";
+    else {
+      const idLow = /^(lower|ld-|pure-lower)/i.test(req.id || "");
+      const nmLow = /低年級|低年级|lower-division/i.test((req.name_zh || "") + " " + (req.name || ""));
+      grp = (idLow || nmLow) ? "low" : "high";
+    }
+    codes.forEach((c) => { const k = E.normCode(c); (groups[k] = groups[k] || new Set()).add(grp); });
+  });
+  const seeds = { low: 0, high: 0, elect: 0 };
+  Object.values(groups).forEach((gs) => gs.forEach((g) => { if (seeds[g] !== undefined) seeds[g]++; }));
+  console.log(`    map group seeds: low=${seeds.low} high=${seeds.high} elect=${seeds.elect}`);
+  if (stem === "uci-computer-science") assert.ok(seeds.low >= 10, `CS 低年级分组种子应 >= 10，实得 ${seeds.low}`);
+  if (stem === "uci-economics") assert.ok(seeds.low >= 1, `Econ 低年级分组种子应 >= 1，实得 ${seeds.low}`);
+  if (stem === "uci-mathematics") assert.ok(seeds.low >= 1, `Math 低年级分组种子应 >= 1，实得 ${seeds.low}`);
 }
 console.log("uci engine tests OK");

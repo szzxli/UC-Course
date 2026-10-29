@@ -67,7 +67,7 @@
 <p class="hint" id="engSub"></p>
 
   <div class="card">
-    <p class="hint" data-i18n="engine.pilotNote">试点：仅支持 UCSB 环境科学（B.S.）。夏季学期、UC Online 与社区大学课不在本版，属后续期次。</p>
+    <p class="hint" data-i18n="engine.pilotNote">试点：UCSB 环境科学（B.S.）与 UCI 计算机科学、电气工程、心理学、经济学、数学。夏季学期、UC Online 与社区大学课不在本版，属后续期次。</p>
     <div class="field"><label for="yearsIn" data-i18n="engine.yearsLabel">目标毕业年数</label>
       <input type="number" id="yearsIn" value="3" min="2" max="6" step="1"></div>
     <div class="field"><label for="capIn" data-i18n="engine.capLabel">每学期最大学分</label>
@@ -648,7 +648,9 @@ function render(plan, input, altPlan, altInput, isDemo) {
       ? I18N.t("engine.evidenceMajor", { c: MAJOR.campus || "UCSB", d: MAJOR.checked })
       : I18N.t("engine.evidenceMajorNoDate", { c: MAJOR.campus || "UCSB" })) + "</p>";
   }
-  h += '<p class="hint">' + esc(I18N.t("engine.evidenceGe")) + "</p></div>";
+  /* GE 双计映射证据行只属 UCSB：非 UCSB 专业不显示 */
+  if (typeof MAJOR !== "undefined" && MAJOR && MAJOR.campus === "UCSB") h += '<p class="hint">' + esc(I18N.t("engine.evidenceGe")) + "</p>";
+  h += "</div>";
   /* 行动清单：下一步要做什么、哪些需官方确认、选不上怎么办、与上次方案相比变了什么 */
   var acts = [];
   if (plan.feasible) {
@@ -679,7 +681,7 @@ function render(plan, input, altPlan, altInput, isDemo) {
   box.innerHTML = h;
 }
 I18N.init().then(function () {
-  document.getElementById("engSub").textContent = "UCSB Environmental Studies (B.S.)";
+  /* engSub 不再硬编码 UCSB：专业载入后按实际专业填写（见下方 MAJOR 载入处） */
   /* 示例模式：?demo=1&cap=21&years=3 —— 预设输入、忽略已修、载入后自动跑一遍 */
   var params = new URLSearchParams(location.search);
   var demo = params.get("demo") === "1";
@@ -724,6 +726,8 @@ I18N.init().then(function () {
     fetch(engFile).then(function (r) { return r.json(); })
   ]).then(function (parts) {
     MAJOR = parts[0];
+    document.getElementById("engSub").textContent =
+      (MAJOR.campus || "") + " · " + (MAJOR.major || "") + (MAJOR.degree ? " (" + MAJOR.degree + ")" : "");
     parts[1].courses.forEach(function (c) { CATALOG[Engine.normCode(c.code)] = c; });
     /* 外语复选框只属 UCSB：非 UCSB 专业隐藏并取消勾选，避免带入 UCSB GE 逻辑 */
     if (MAJOR.campus !== "UCSB") {
