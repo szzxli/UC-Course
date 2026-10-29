@@ -2,7 +2,7 @@
   "campus": "UCI",
   "major": "Biological Sciences (B.S.)",
   "checked": "2026-10-28",
-  "n_courses": 99,
+  "n_courses": 107,
   "courses": [
     {
       "code": "BIO SCI 100",
@@ -34,6 +34,20 @@
       "code": "BIO SCI 190",
       "title": "Transfer Student Seminar",
       "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI 2A",
+      "title": "Freshman Seminar",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIO SCI 90L",
+      "title": "Introduction to Biology Research",
+      "units": "3",
       "prerequisites_raw": "",
       "prerequisites_courses": []
     },
@@ -650,6 +664,16 @@
       ]
     },
     {
+      "code": "CHEM 51LC",
+      "title": "Organic Chemistry Laboratory",
+      "units": "3",
+      "prerequisites_raw": "CHEM 51B and CHEM 51LB",
+      "prerequisites_courses": [
+        "CHEM 51B",
+        "CHEM 51LB"
+      ]
+    },
+    {
       "code": "CHEM M2A",
       "title": "Majors General Chemistry Lecture",
       "units": "4",
@@ -973,9 +997,36 @@
       ]
     },
     {
+      "code": "PHYSICS 3B",
+      "title": "Basic Physics II",
+      "units": "4",
+      "prerequisites_raw": "PHYSICS 3A",
+      "prerequisites_courses": [
+        "PHYSICS 3A"
+      ]
+    },
+    {
       "code": "PHYSICS 3C",
       "title": "Basic Physics III",
       "units": "4",
+      "prerequisites_raw": "PHYSICS 3A",
+      "prerequisites_courses": [
+        "PHYSICS 3A"
+      ]
+    },
+    {
+      "code": "PHYSICS 3LB",
+      "title": "Basic Physics Laboratory",
+      "units": "1.5",
+      "prerequisites_raw": "PHYSICS 3A",
+      "prerequisites_courses": [
+        "PHYSICS 3A"
+      ]
+    },
+    {
+      "code": "PHYSICS 3LC",
+      "title": "Basic Physics Laboratory",
+      "units": "1.5",
       "prerequisites_raw": "PHYSICS 3A",
       "prerequisites_courses": [
         "PHYSICS 3A"
@@ -1007,6 +1058,20 @@
         "PHYSICS 7C",
         "MATH 2B"
       ]
+    },
+    {
+      "code": "STATS 7",
+      "title": "Basic Statistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "STATS 8",
+      "title": "Introduction to Biological Statistics ",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
     }
   ]
 }

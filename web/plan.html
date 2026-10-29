@@ -67,7 +67,7 @@
 <p class="hint" id="engSub"></p>
 
   <div class="card">
-    <p class="hint" data-i18n="engine.pilotNote">试点：UCSB 环境科学（B.S.）、UCSD 6 个专业（计算机科学、电气工程、生物科学、心理学、经济学、数学）与 UCI 计算机科学、电气工程、心理学、经济学、数学。夏季学期、UC Online 与社区大学课不在本版，属后续期次。</p>
+    <p class="hint" data-i18n="engine.pilotNote">试点：UCSB 环境科学（B.S.）、UCSD 6 个专业（计算机科学、电气工程、生物科学、心理学、经济学、数学）与 UCI 计算机科学、电气工程、生物科学、心理学、经济学、数学。夏季学期、UC Online 与社区大学课不在本版，属后续期次。</p>
     <div class="field"><label for="yearsIn" data-i18n="engine.yearsLabel">目标毕业年数</label>
       <input type="number" id="yearsIn" value="3" min="2" max="6" step="1"></div>
     <div class="field"><label for="capIn" data-i18n="engine.capLabel">每学期最大学分</label>
@@ -706,10 +706,9 @@ I18N.init().then(function () {
         ' <a href="status.html">' + esc(I18N.t("status.goCheck")) + "</a>";
     }
   })();
-  /* 排课引擎取数：演示模式与非试点专业沿用 UCSB 环境科学；UCI 5 专业与 UCSD 6 专业进个人数据。
+  /* 排课引擎取数：演示模式与非试点专业沿用 UCSB 环境科学；UCI 6 专业与 UCSD 6 专业进个人数据。
      UCSD 数学-计算机科学的排课仍走示例（不在此表内）。
-     UCI 生物暂不进排课：其专业文件目前只有高年级选修三项，缺低年级核心，
-     须等核心数据补齐（选课与地图不受影响，见 courses.html 的 ENG_MAP）。 */
+     UCI 生物 2026-10-29 已补低年级核心并进排课（见 courses.html 的 ENG_MAP）。 */
   var ENG_MAP = {
     "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
     "ucsb-computer-science.json": "data/engine/ucsb-computer-science.json",
@@ -726,6 +725,7 @@ I18N.init().then(function () {
     "ucsd-mathematics.json": "data/engine/ucsd-mathematics.json",
     "uci-computer-science.json": "data/engine/uci-computer-science.json",
     "uci-electrical-engineering.json": "data/engine/uci-electrical-engineering.json",
+    "uci-biology.json": "data/engine/uci-biology.json",
     "uci-psychology.json": "data/engine/uci-psychology.json",
     "uci-economics.json": "data/engine/uci-economics.json",
     "uci-mathematics.json": "data/engine/uci-mathematics.json"

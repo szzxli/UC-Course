@@ -5,8 +5,151 @@
  "department": "Charlie Dunlop School of Biological Sciences",
  "school": "Charlie Dunlop School of Biological Sciences",
  "source_url": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/biologicalsciences_bs/",
- "checked": "2026-10-18",
+ "checked": "2026-10-29",
  "requirements": [
+  {
+   "id": "lower-seminar",
+   "name": "Freshman Seminar",
+   "type": "required",
+   "courses": [
+    "BIO SCI 2A"
+   ],
+   "note": "Transfer students take BIO SCI 190 instead of BIO SCI 2A.",
+   "name_zh": "低年级研讨课",
+   "note_zh": "转学生改修 BIO SCI 190 替代 BIO SCI 2A。"
+  },
+  {
+   "id": "lower-bio-core",
+   "name": "Biological Sciences Core (lower-division)",
+   "type": "required",
+   "courses": [
+    "BIO SCI 90L",
+    "BIO SCI 93",
+    "BIO SCI 94",
+    "BIO SCI 97",
+    "BIO SCI 98",
+    "BIO SCI 99",
+    "BIO SCI 100"
+   ],
+   "note": "BIO SCI 93/94/97 also offered as honors versions H93/H94/H97.",
+   "name_zh": "低年级生物科学核心",
+   "note_zh": "BIO SCI 93/94/97 另有荣誉版 H93/H94/H97。"
+  },
+  {
+   "id": "lower-chem-general",
+   "name": "General Chemistry",
+   "type": "required",
+   "courses": [
+    "CHEM 1A",
+    "CHEM 1B",
+    "CHEM 1C"
+   ],
+   "note": "Honors alternative: CHEM H2A-H2B-H2C.",
+   "name_zh": "低年级普通化学",
+   "note_zh": "另有荣誉版 CHEM H2A-H2B-H2C。"
+  },
+  {
+   "id": "lower-chem-general-lab",
+   "name": "General Chemistry Laboratory",
+   "type": "required",
+   "courses": [
+    "CHEM 1LC",
+    "CHEM 1LD"
+   ],
+   "note": "Honors alternative: CHEM H2LA-H2LB.",
+   "name_zh": "低年级普通化学实验",
+   "note_zh": "另有荣誉版 CHEM H2LA-H2LB。"
+  },
+  {
+   "id": "lower-chem-organic",
+   "name": "Organic Chemistry",
+   "type": "required",
+   "courses": [
+    "CHEM 51A",
+    "CHEM 51B",
+    "CHEM 51C"
+   ],
+   "name_zh": "低年级有机化学"
+  },
+  {
+   "id": "lower-chem-organic-lab",
+   "name": "Organic Chemistry Laboratory",
+   "type": "required",
+   "courses": [
+    "CHEM 51LB",
+    "CHEM 51LC"
+   ],
+   "note": "Honors alternative: CHEM H52LA-H52LB.",
+   "name_zh": "低年级有机化学实验",
+   "note_zh": "另有荣誉版 CHEM H52LA-H52LB。"
+  },
+  {
+   "id": "lower-math-calculus",
+   "name": "Calculus",
+   "type": "required",
+   "courses": [
+    "MATH 5A",
+    "MATH 5B",
+    "MATH 2A",
+    "MATH 2B"
+   ],
+   "options": [
+    [
+     "MATH 5A",
+     "MATH 5B"
+    ],
+    [
+     "MATH 2A",
+     "MATH 2B"
+    ]
+   ],
+   "note": "Either MATH 5A-5B (Calculus for Life Sciences) or MATH 2A-2B; engine defaults to 5A-5B on a cost tie.",
+   "name_zh": "低年级微积分",
+   "note_zh": "MATH 5A-5B（生命科学微积分）或 MATH 2A-2B 二选一；同分时引擎默认取 5A-5B。"
+  },
+  {
+   "id": "lower-math-stats",
+   "name": "Statistics / Mathematics Elective",
+   "type": "required",
+   "courses": [
+    "STATS 7",
+    "STATS 8",
+    "MATH 2D",
+    "MATH 3A"
+   ],
+   "options": [
+    [
+     "STATS 7"
+    ],
+    [
+     "STATS 8"
+    ],
+    [
+     "MATH 2D"
+    ],
+    [
+     "MATH 3A"
+    ]
+   ],
+   "note": "School table lists STATS 7, STATS 8, MATH 2D, MATH 3A as parallel rows; modeled as select 1 (engine defaults to STATS 7 on a cost tie).",
+   "name_zh": "低年级数学/统计（四选一）",
+   "note_zh": "学院表将 STATS 7、STATS 8、MATH 2D、MATH 3A 列为并列行，按选一建模；同分时引擎默认取 STATS 7。"
+  },
+  {
+   "id": "lower-physics",
+   "name": "Physics",
+   "type": "required",
+   "courses": [
+    "PHYSICS 3A",
+    "PHYSICS 3B",
+    "PHYSICS 3C",
+    "PHYSICS 3LB",
+    "PHYSICS 3LC"
+   ],
+   "note": "Students double-majoring in Chemistry take PHYSICS 7C-7D-7E + 7LC-7LD instead (not modeled; 7-series is cheaper in units so it cannot stay an engine option).",
+   "name_zh": "低年级物理",
+   "note_zh": "化学双专业方向改修 PHYSICS 7C-7D-7E + 7LC-7LD（未建模：7 系列总学分更低，不能留在引擎选项里，否则会被误选）。"
+  },
   {
    "id": "A",
    "name": "A. Required Major Courses (select 3)",
@@ -71,6 +214,6 @@
    "note_zh": "范围：BIO SCI D103-D190、E106-E190、M114-M190、N110-N190，以及列出的 CHEM/PHRMSCI 课程"
   }
  ],
- "notes": "Catalog page lists upper-division major requirements only; lower-division (chem/physics/math/bio series) governed by school-level requirements, not extracted here.",
+ "notes": "A/B/C from the Biological Sciences B.S. program page; lower-division core from the Charlie Dunlop School of Biological Sciences school requirements table (https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/#schoolrequirementstext). Honors variants (H93/H94/H97, CHEM H2/H52 series) and the PHYSICS 7-series alternative are documented in notes only, not modeled as engine options.",
  "file": "uci-biology.json"
 }

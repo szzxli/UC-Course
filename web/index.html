@@ -111,10 +111,9 @@ I18N.init().then(function () {
     updatePickCard();
     updateMajor2Card();
   }
-  /* 链条第④步：试点进工具，非试点看示例（试点：UCSB 环境科学 + 6 专业 + UCI 5 专业 + UCSD 6 专业；
+  /* 链条第④步：试点进工具，非试点看示例（试点：UCSB 环境科学 + 6 专业 + UCI 6 专业 + UCSD 6 专业；
      UCSD 数学-计算机科学的排课仍走示例，见 plan.html 的 ENG_MAP；
-     UCI 生物暂不进排课：其专业文件目前只有高年级选修三项，缺低年级核心，
-     排课须等核心数据补齐，选课与地图不受影响） */
+     UCI 生物 2026-10-29 已补低年级核心并进排课，选课与地图不受影响） */
   function updateEngineCard() {
     var ENG_MAJORS = ["ucsb-environmental-science.json",
       "ucsb-computer-science.json", "ucsb-electrical-engineering.json",
@@ -124,7 +123,7 @@ I18N.init().then(function () {
       "ucsd-biology.json", "ucsd-psychology.json",
       "ucsd-economics.json", "ucsd-mathematics.json",
       "uci-computer-science.json", "uci-electrical-engineering.json",
-      "uci-psychology.json",
+      "uci-biology.json", "uci-psychology.json",
       "uci-economics.json", "uci-mathematics.json"];
     var pilot = ENG_MAJORS.indexOf(Sget("major", "")) >= 0;
     var btn = document.getElementById("engineBtn");

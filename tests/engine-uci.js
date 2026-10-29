@@ -92,7 +92,26 @@ for (const [stem, engStem] of MAJORS) {
       assert.ok(plan.warnings.some((w) => w.indexOf(req.id) === 0 && w.indexOf("方向分布") >= 0), `选修 ${req.id} 的分布约束应有警告`);
     }
   }
-  // EE：只选一个方向 + 技术选修 3 块
+  // UCI 生物：2026-10-29 补低年级核心后，9 项新要求必须全覆盖且取标准路径
+  if (stem === "uci-biology") {
+    assert.strictEqual(plan.feasible, true, "生物 3 年计划应可行");
+    assert.deepStrictEqual(plan.unscheduled, [], "生物计划不应有未排入课程");
+    const expect = {
+      "lower-seminar": ["BIO SCI 2A"],
+      "lower-bio-core": ["BIO SCI 90L", "BIO SCI 93", "BIO SCI 94", "BIO SCI 97", "BIO SCI 98", "BIO SCI 99", "BIO SCI 100"],
+      "lower-chem-general": ["CHEM 1A", "CHEM 1B", "CHEM 1C"],
+      "lower-chem-general-lab": ["CHEM 1LC", "CHEM 1LD"],
+      "lower-chem-organic": ["CHEM 51A", "CHEM 51B", "CHEM 51C"],
+      "lower-chem-organic-lab": ["CHEM 51LB", "CHEM 51LC"],
+      "lower-math-calculus": ["MATH 5A", "MATH 5B"],
+      "lower-math-stats": ["STATS 7"],
+      "lower-physics": ["PHYSICS 3A", "PHYSICS 3B", "PHYSICS 3C", "PHYSICS 3LB", "PHYSICS 3LC"],
+    };
+    for (const [id, courses] of Object.entries(expect)) {
+      assert.deepStrictEqual((covById[id] || []).map(E.normCode).sort(),
+        courses.map(E.normCode).sort(), `生物 ${id} 应取标准路径`);
+    }
+  }
   if (stem === "uci-electrical-engineering") {
     const specs = major.requirements.filter((r) => r.id.indexOf("spec-") === 0);
     const chosen = specs.filter((r) => covById[r.id] && covById[r.id].length > 0);

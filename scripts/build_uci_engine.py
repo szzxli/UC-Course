@@ -31,7 +31,11 @@ from collections import OrderedDict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SNAP = os.path.join(ROOT, 'data/raw/uci-courses.json')
-PLAN = '/tmp/uci_catalog_plan.json'
+# Closure plan: workspace copy is authoritative (survives /tmp wipes); /tmp
+# copy is the legacy location the builder used to read. Regenerate the
+# workspace copy whenever major files change (see closure method note above).
+PLAN_WS = os.path.join(ROOT, 'scripts/uci_catalog_plan.json')
+PLAN = PLAN_WS if os.path.exists(PLAN_WS) else '/tmp/uci_catalog_plan.json'
 
 # Verified current-text overwrites (source: catalogue.uci.edu 2026-27 search
 # pages fetched 2026-10-28, or the official course inventory where noted).
@@ -64,7 +68,10 @@ OVERWRITE = {
     'SWE 124': '',
     # Hand-distributed equivalents of verified current texts (parser flattens
     # nested or(and(...)) groups; distribution law restores the exact tree).
-    # 123A current: (2A or AP..) and (2B or AP..) and 3A and (120C or 130C)
+    # CHEM 1LD snapshot: (1C and 1LC) or 1LE is NOT in CNF; distributing gives
+    # (1C or 1LE) and (1LC or 1LE); 1LE is in DROP, so the stored tree is
+    # exactly AND(1C, 1LC) — the standard general-chemistry-lab path.
+    'CHEM 1LD': 'CHEM 1C or CHEM 1LE and CHEM 1LC or CHEM 1LE',    # 123A current: (2A or AP..) and (2B or AP..) and 3A and (120C or 130C)
     #   and ((100A and 100B and 100C) or (105A and 105B and 105C))
     'ECON 123A': '(MATH 2A) and (MATH 2B) and MATH 3A and (STATS 120C or MATH 130C) and ECON 100A and ECON 100B and ECON 100C; or MATH 2A and MATH 2B and MATH 3A and (STATS 120C or MATH 130C) and ECON 105A and ECON 105B and ECON 105C',
     # 171 current (inventory = snapshot raw): 46 and (2B or AP..) and
@@ -83,6 +90,9 @@ DROP = {
     'CHEM H52LB', 'CHEM H2LA', 'CHEM H2LB', 'CHEM M3C',
     'CHEM 3', 'CHEM 600', 'CHEM P25', 'CHEM P66', 'CHEM P68', 'CHEM S02',
     'MATH 27', 'MATH 700', 'MATH A02', 'MATH Z43',
+    # Phantom from PHYSICS 3LC snapshot raw ('AP80' misread as a PHYSICS code);
+    # 3LC's real prereq is PHYSICS 3A alone.
+    'PHYSICS P80',
     'I&C SCI 32A', 'ENGR 10', 'CSE 31', 'CSE 46',
     'MATH 4', 'MATH 133A', 'CHEM 1LE', 'PHY SCI 5', 'COGS 9C',
 }
