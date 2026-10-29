@@ -1,0 +1,813 @@
+{
+  "campus": "UCSB",
+  "major": "ucsb-economics",
+  "checked": "2026-10-29",
+  "n_courses": 82,
+  "courses": [
+    {
+      "code": "ECON 1",
+      "title": "Principles of Economics-Micro",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 100B",
+      "title": "Intermediate Microeconomic Theory",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and ECON 5 or PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 10A",
+        "ECON 5",
+        "PSTAT 109",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 100C",
+      "title": "Intermediate Microeconomic Theory",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 101",
+      "title": "Intermediate Macroeconomic Theory",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and ECON 5 or PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 10A",
+        "ECON 5",
+        "PSTAT 109",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 106",
+      "title": "Managerial Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 107A",
+      "title": "History of Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 107B",
+      "title": "History of Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 10A",
+      "title": "Intermediate Microeconomic Theory",
+      "units": "5",
+      "prerequisites_raw": "ECON 1 and ECON 2 and MATH 2A or MATH 2B or MATH 34A or MATH 34B or MATH 3A or MATH 3B",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 2",
+        "MATH 34A",
+        "MATH 34B",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "ECON 112A",
+      "title": "European Economic History to 1850",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 112B",
+      "title": "European Economic History Since 1850",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 113A",
+      "title": "Economic History of the United States to 1900",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 113B",
+      "title": "Twentieth-Century United States Economic History",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 114A",
+      "title": "Economic Development",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 114B",
+      "title": "Economic Development",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 115",
+      "title": "Environmental Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 116A",
+      "title": "Industrial Organization Principles",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 116B",
+      "title": "Economic Regulation",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 116C",
+      "title": "Antitrust Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 117A",
+      "title": "Law and Economics I",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 118",
+      "title": "Financial Accounting Analysis and Planning",
+      "units": "4",
+      "prerequisites_raw": "ECON 136C",
+      "prerequisites_courses": [
+        "ECON 136C"
+      ]
+    },
+    {
+      "code": "ECON 120",
+      "title": "Urban and Regional Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 122",
+      "title": "Natural Resource Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 127",
+      "title": "Climate Change",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 130",
+      "title": "Public Finance",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 101",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 101"
+      ]
+    },
+    {
+      "code": "ECON 133",
+      "title": "Topics in Macroeconomic Theory",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 101",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 101"
+      ]
+    },
+    {
+      "code": "ECON 134A",
+      "title": "Financial Management",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 134B",
+      "title": "Financial Management",
+      "units": "4",
+      "prerequisites_raw": "ECON 134A",
+      "prerequisites_courses": [
+        "ECON 134A"
+      ]
+    },
+    {
+      "code": "ECON 134C",
+      "title": "Behavioral Finance",
+      "units": "4",
+      "prerequisites_raw": "ECON 134A",
+      "prerequisites_courses": [
+        "ECON 134A"
+      ]
+    },
+    {
+      "code": "ECON 135",
+      "title": "Monetary Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 101",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 101"
+      ]
+    },
+    {
+      "code": "ECON 136A",
+      "title": "Intermediate Accounting",
+      "units": "5",
+      "prerequisites_raw": "ECON 10A and ECON 3B and ECON 5 or PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 3B",
+        "ECON 10A",
+        "ECON 5",
+        "PSTAT 109",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 136B",
+      "title": "Intermediate Accounting",
+      "units": "4",
+      "prerequisites_raw": "ECON 136A",
+      "prerequisites_courses": [
+        "ECON 136A"
+      ]
+    },
+    {
+      "code": "ECON 136C",
+      "title": "Intermediate Accounting",
+      "units": "4",
+      "prerequisites_raw": "ECON 136A and ECON 136B",
+      "prerequisites_courses": [
+        "ECON 136A",
+        "ECON 136B"
+      ]
+    },
+    {
+      "code": "ECON 137A",
+      "title": "Managerial Accounting",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and ECON 3B and ECON 5 or PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 3B",
+        "ECON 10A",
+        "ECON 5",
+        "PSTAT 109",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 137B",
+      "title": "Managerial Accounting",
+      "units": "4",
+      "prerequisites_raw": "ECON 137A",
+      "prerequisites_courses": [
+        "ECON 137A"
+      ]
+    },
+    {
+      "code": "ECON 138A",
+      "title": "Income Taxation",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and ECON 3B and ECON 5 or PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 3B",
+        "ECON 10A",
+        "ECON 5",
+        "PSTAT 109",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 138B",
+      "title": "Income Taxation",
+      "units": "4",
+      "prerequisites_raw": "ECON 138A",
+      "prerequisites_courses": [
+        "ECON 138A"
+      ]
+    },
+    {
+      "code": "ECON 140A",
+      "title": "Introduction to Econometrics",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and ECON 5 or PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 10A",
+        "ECON 5",
+        "PSTAT 109",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 140B",
+      "title": "Introduction to Econometrics",
+      "units": "4",
+      "prerequisites_raw": "ECON 140A",
+      "prerequisites_courses": [
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 140C",
+      "title": "Machine Learning and Artificial Intelligence",
+      "units": "4",
+      "prerequisites_raw": "ECON 140A",
+      "prerequisites_courses": [
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 141",
+      "title": "Econometric Methods",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A and PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "PSTAT 109",
+        "PSTAT 120A",
+        "MATH 4A"
+      ]
+    },
+    {
+      "code": "ECON 145",
+      "title": "Data Wrangling for Economics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 150A",
+      "title": "Labor Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 151",
+      "title": "Economics of Gender",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 152",
+      "title": "Personnel Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 153",
+      "title": "Economics of Education",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 10A",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 154",
+      "title": "Economics of the Family",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 155",
+      "title": "Using Big Data to Address Social and Economic Problems",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 156",
+      "title": "Topics in Applied Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 157",
+      "title": "Behavioral Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 160",
+      "title": "Economics of Crime and Justice",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and PSTAT 109 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 10A",
+        "PSTAT 109",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 164",
+      "title": "Economics of Arts and Culture",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 170",
+      "title": "Health Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 171",
+      "title": "Introduction to Game Theory",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 174",
+      "title": "Negotiations",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 176",
+      "title": "Experimental Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 177",
+      "title": "Auction",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 140A",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 140A"
+      ]
+    },
+    {
+      "code": "ECON 180",
+      "title": "International Trade",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 101",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 101"
+      ]
+    },
+    {
+      "code": "ECON 181",
+      "title": "International Finance",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 101",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 101"
+      ]
+    },
+    {
+      "code": "ECON 183",
+      "title": "Entrepreneurial Insights",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 184",
+      "title": "Decisions Under Uncertainty",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 185",
+      "title": "Audit Data Analytics in Accounting Information Systems",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A and ECON 3B and ECON 5 or PSTAT 120A",
+      "prerequisites_courses": [
+        "ECON 3B",
+        "ECON 10A",
+        "ECON 5",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "ECON 187",
+      "title": "Topics in Personnel Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 191",
+      "title": "Special Topics in Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 10A",
+      "prerequisites_courses": [
+        "ECON 10A"
+      ]
+    },
+    {
+      "code": "ECON 196A",
+      "title": "Senior Honors Seminar",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 101 and ECON 10A and ECON 140A and ECON 140B",
+      "prerequisites_courses": [
+        "ECON 10A",
+        "ECON 100B",
+        "ECON 101",
+        "ECON 140A",
+        "ECON 140B",
+        "ECON 140B"
+      ]
+    },
+    {
+      "code": "ECON 196B",
+      "title": "Senior Honors Seminar",
+      "units": "4",
+      "prerequisites_raw": "ECON 140B and ECON 196A",
+      "prerequisites_courses": [
+        "ECON 196A",
+        "ECON 140B"
+      ]
+    },
+    {
+      "code": "ECON 199",
+      "title": "Independent Studies in Economics",
+      "units": "0",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 2",
+      "title": "Principles of Economics-Macro",
+      "units": "5",
+      "prerequisites_raw": "ECON 1",
+      "prerequisites_courses": [
+        "ECON 1"
+      ]
+    },
+    {
+      "code": "ECON 3A",
+      "title": "Financial Accounting",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 3B",
+      "title": "Financial Accounting",
+      "units": "5",
+      "prerequisites_raw": "ECON 3A",
+      "prerequisites_courses": [
+        "ECON 3A"
+      ]
+    },
+    {
+      "code": "ECON 5",
+      "title": "Statistics for Economics",
+      "units": "5",
+      "prerequisites_raw": "MATH 2B or MATH 34B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 34A",
+        "MATH 34B",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 34B",
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MATH 34A",
+      "title": "Calculus for Social and Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 34B",
+      "title": "Calculus for Social and Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 34LA or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A",
+        "MATH 34LA"
+      ]
+    },
+    {
+      "code": "MATH 34LA",
+      "title": "Calculus for the Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MATH 4A",
+      "title": "Linear Algebra with Applications",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4AI",
+      "title": "Inquiry Based Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 6A",
+      "title": "Vector Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "PSTAT 109",
+      "title": "Statistics for Economics",
+      "units": "5",
+      "prerequisites_raw": "MATH 2B or MATH 34B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 34A",
+        "MATH 34B",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 34B",
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "PSTAT 120A",
+      "title": "Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI or MATH 6A",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 6A"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "campus": "UCSB",
+  "major": "ucsb-computer-science",
+  "checked": "2026-10-29",
+  "n_courses": 100,
+  "courses": [
+    {
+      "code": "CMPSC 111",
+      "title": "Introduction to Computational Science",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 24 and MATH 4B and MATH 6A",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 6A",
+        "CMPSC 24"
+      ]
+    },
+    {
+      "code": "CMPSC 130A",
+      "title": "Data Structures and Algorithms",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A or ECE 139 or PSTAT 120A and CMPSC 24 or CMPSC 9 and CMPSC 40 or MATH 8",
+      "prerequisites_courses": [
+        "CMPSC 40",
+        "MATH 8",
+        "CMPSC 24",
+        "CMPSC 9",
+        "PSTAT 120A",
+        "ECE 139",
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 130B",
+      "title": "Data Structures and Algorithms II",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A",
+      "prerequisites_courses": [
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 132",
+      "title": "Algorithms Engineering",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 134",
+      "title": "Randomized Algorithms",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130B",
+      "prerequisites_courses": [
+        "CMPSC 130B"
+      ]
+    },
+    {
+      "code": "CMPSC 138",
+      "title": "Automata and Formal Languages",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 40",
+      "prerequisites_courses": [
+        "CMPSC 40"
+      ]
+    },
+    {
+      "code": "CMPSC 140",
+      "title": "Parallel Scientific Computing",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A and MATH 4B and MATH 6A",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 6A",
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 148",
+      "title": "Computer Science Project",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 32",
+      "prerequisites_courses": [
+        "CMPSC 32"
+      ]
+    },
+    {
+      "code": "CMPSC 153A",
+      "title": "Hardware/Software Interface",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 154",
+      "title": "Computer Architecture",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 32 and CMPSC 64",
+      "prerequisites_courses": [
+        "CMPSC 32",
+        "CMPSC 64"
+      ]
+    },
+    {
+      "code": "CMPSC 156",
+      "title": "Advanced Applications Programming",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 24 and CMPSC 32",
+      "prerequisites_courses": [
+        "CMPSC 24",
+        "CMPSC 32"
+      ]
+    },
+    {
+      "code": "CMPSC 16",
+      "title": "Problem Solving with Computers I",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 8 or ECE 3 or ENGR 3 or MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 2A",
+        "CMPSC 8",
+        "ENGR 3",
+        "ECE 3"
+      ]
+    },
+    {
+      "code": "CMPSC 160",
+      "title": "Translation of Programming Languages",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A and CMPSC 138 and CMPSC 64",
+      "prerequisites_courses": [
+        "CMPSC 64",
+        "CMPSC 130A",
+        "CMPSC 138"
+      ]
+    },
+    {
+      "code": "CMPSC 162",
+      "title": "Programming Languages",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A and CMPSC 138",
+      "prerequisites_courses": [
+        "CMPSC 130A",
+        "CMPSC 138"
+      ]
+    },
+    {
+      "code": "CMPSC 165A",
+      "title": "Artificial Intelligence",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A",
+      "prerequisites_courses": [
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 165B",
+      "title": "Machine Learning",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A",
+      "prerequisites_courses": [
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 170",
+      "title": "Operating Systems",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A and CMPSC 154 or ECE 154A",
+      "prerequisites_courses": [
+        "CMPSC 130A",
+        "CMPSC 154",
+        "ECE 154A"
+      ]
+    },
+    {
+      "code": "CMPSC 171",
+      "title": "Distributed Systems",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A",
+      "prerequisites_courses": [
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 172",
+      "title": "Software Engineering",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A",
+      "prerequisites_courses": [
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 174A",
+      "title": "Fundamentals of Database Systems",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A",
+      "prerequisites_courses": [
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 174B",
+      "title": "Design and Implementation Techniques of Database Systems",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130B",
+      "prerequisites_courses": [
+        "CMPSC 130B"
+      ]
+    },
+    {
+      "code": "CMPSC 176A",
+      "title": "Introduction to Computer Communication Networks",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 32 and ECE 139 or PSTAT 120A",
+      "prerequisites_courses": [
+        "CMPSC 32",
+        "PSTAT 120A",
+        "ECE 139"
+      ]
+    },
+    {
+      "code": "CMPSC 176B",
+      "title": "Network Computing",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 176A",
+      "prerequisites_courses": [
+        "CMPSC 176A"
+      ]
+    },
+    {
+      "code": "CMPSC 176C",
+      "title": "Advanced Topics in Internet Computing",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 176A",
+      "prerequisites_courses": [
+        "CMPSC 176A"
+      ]
+    },
+    {
+      "code": "CMPSC 177",
+      "title": "Computer Security",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 170",
+      "prerequisites_courses": [
+        "CMPSC 170"
+      ]
+    },
+    {
+      "code": "CMPSC 178",
+      "title": "Introduction to Cryptography",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 24 and CMPSC 40 and ECE 139 or PSTAT 120A",
+      "prerequisites_courses": [
+        "CMPSC 24",
+        "CMPSC 40",
+        "PSTAT 120A",
+        "ECE 139"
+      ]
+    },
+    {
+      "code": "CMPSC 180",
+      "title": "Computer Graphics",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A",
+      "prerequisites_courses": [
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 181",
+      "title": "Introduction to Computer Vision",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 184",
+      "title": "Mobile Application Development",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A and CMPSC 156",
+      "prerequisites_courses": [
+        "CMPSC 156",
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 185",
+      "title": "Human-Computer Interaction",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 186",
+      "title": "Internet of Things (IoT) Systems",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 130A or CMPSC 32",
+      "prerequisites_courses": [
+        "CMPSC 32",
+        "CMPSC 130A"
+      ]
+    },
+    {
+      "code": "CMPSC 188",
+      "title": "Introduction to Natural Language Processing",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 189A",
+      "title": "Senior Computer Systems Project",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 148 or CMPSC 156 or CMPSC 172",
+      "prerequisites_courses": [
+        "CMPSC 148",
+        "CMPSC 156",
+        "CMPSC 172"
+      ]
+    },
+    {
+      "code": "CMPSC 189B",
+      "title": "Senior Computer Systems Project",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 189A",
+      "prerequisites_courses": [
+        "CMPSC 189A"
+      ]
+    },
+    {
+      "code": "CMPSC 190",
+      "title": "Special Topics in Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 192",
+      "title": "Projects in Computer Science",
+      "units": "0",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 196",
+      "title": "Undergraduate Research",
+      "units": "0",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 196B",
+      "title": "Undergraduate Research",
+      "units": "0",
+      "prerequisites_raw": "CMPSC 196 and CMPSC 2",
+      "prerequisites_courses": [
+        "CMPSC 196",
+        "CMPSC 2"
+      ]
+    },
+    {
+      "code": "CMPSC 2",
+      "title": "Computational Thinking for Scientists",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A",
+      "prerequisites_courses": [
+        "MATH 4A"
+      ]
+    },
+    {
+      "code": "CMPSC 24",
+      "title": "Problem Solving with Computers II",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 16 and MATH 2B or MATH 3B",
+      "prerequisites_courses": [
+        "CMPSC 16",
+        "MATH 3B",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "CMPSC 32",
+      "title": "Object Oriented Design and Implementation",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 24",
+      "prerequisites_courses": [
+        "CMPSC 24"
+      ]
+    },
+    {
+      "code": "CMPSC 40",
+      "title": "Foundations of Computer Science",
+      "units": "5",
+      "prerequisites_raw": "CMPSC 16 and MATH 4A",
+      "prerequisites_courses": [
+        "CMPSC 16",
+        "MATH 4A"
+      ]
+    },
+    {
+      "code": "CMPSC 41",
+      "title": "Discrete Mathematics for Computer Science",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 16 and MATH 4A",
+      "prerequisites_courses": [
+        "CMPSC 16",
+        "MATH 4A"
+      ]
+    },
+    {
+      "code": "CMPSC 42",
+      "title": "Logic and Automata",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 41",
+      "prerequisites_courses": [
+        "CMPSC 41"
+      ]
+    },
+    {
+      "code": "CMPSC 64",
+      "title": "Computer Organization and Logic Design",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 16 and MATH 4A",
+      "prerequisites_courses": [
+        "CMPSC 16",
+        "MATH 4A"
+      ]
+    },
+    {
+      "code": "CMPSC 8",
+      "title": "Introduction to Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 9",
+      "title": "Intermediate Python Programming",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 8 or CMPSCW 8 or ECE 3 or ENGR 3",
+      "prerequisites_courses": [
+        "CMPSC 8",
+        "CMPSCW 8",
+        "ENGR 3",
+        "ECE 3"
+      ]
+    },
+    {
+      "code": "CMPSCW 8",
+      "title": "Introduction to Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CNCSP 110",
+      "title": "Introduction to Educational and Vocational Guidance",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 10A",
+      "title": "Foundations of Analog and Digital Circuits & Systems",
+      "units": "3",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 3A or MATH 3B and MATH 4A or MATH 4AI and MATH 4B or MATH 4BI and PHYS 23 or PHYS 3 or PHYS 7B",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 4B",
+        "MATH 4BI",
+        "PHYS 3",
+        "PHYS 7B",
+        "PHYS 23"
+      ]
+    },
+    {
+      "code": "ECE 10AL",
+      "title": "Foundations of Analog and Digital Circuits and Systems Lab",
+      "units": "2",
+      "prerequisites_raw": "ECE 10A",
+      "prerequisites_courses": [
+        "ECE 10A"
+      ]
+    },
+    {
+      "code": "ECE 130A",
+      "title": "Signal Analysis and Processing",
+      "units": "4",
+      "prerequisites_raw": "MATH 4B",
+      "prerequisites_courses": [
+        "MATH 4B"
+      ]
+    },
+    {
+      "code": "ECE 130B",
+      "title": "Signal Analysis and Processing",
+      "units": "4",
+      "prerequisites_raw": "ECE 130A",
+      "prerequisites_courses": [
+        "ECE 130A"
+      ]
+    },
+    {
+      "code": "ECE 130C",
+      "title": "Introduction to Applied Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4B",
+      "prerequisites_courses": [
+        "MATH 4B"
+      ]
+    },
+    {
+      "code": "ECE 139",
+      "title": "Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 152A",
+      "title": "Digital Design Principles",
+      "units": "5",
+      "prerequisites_raw": "CMPSC 64 or ECE 10A or ECE 10AL and CMPSC 64 or ECE 15A",
+      "prerequisites_courses": [
+        "ECE 15A",
+        "ECE 10A",
+        "ECE 10AL",
+        "CMPSC 64"
+      ]
+    },
+    {
+      "code": "ECE 153A",
+      "title": "Hardware/Software Interface",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 153B",
+      "title": "Sensor and Peripheral Interface Design",
+      "units": "4",
+      "prerequisites_raw": "ECE 152A",
+      "prerequisites_courses": [
+        "ECE 152A"
+      ]
+    },
+    {
+      "code": "ECE 154A",
+      "title": "Introduction to Computer Architecture",
+      "units": "4",
+      "prerequisites_raw": "ECE 152A",
+      "prerequisites_courses": [
+        "ECE 152A"
+      ]
+    },
+    {
+      "code": "ECE 15A",
+      "title": "Fundamentals of Logic Design",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 160",
+      "title": "Multimedia Systems",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 178",
+      "title": "Introduction to Digital Image and Video Processing",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 181",
+      "title": "Introduction to Computer Vision",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 3",
+      "title": "Introduction to Python Programming For Engineers",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGR 101",
+      "title": "Ethics in Engineering",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGR 3",
+      "title": "Introduction to Programming",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 108A",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A and MATH 8",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 8"
+      ]
+    },
+    {
+      "code": "MATH 108B",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 108A",
+      "prerequisites_courses": [
+        "MATH 108A"
+      ]
+    },
+    {
+      "code": "MATH 119A",
+      "title": "Ordinary Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 4B or MATH 4BI and MATH 6A and MATH 8",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A",
+        "MATH 8"
+      ]
+    },
+    {
+      "code": "MATH 119B",
+      "title": "Chaotic Dynamics and Bifurcation Theory",
+      "units": "4",
+      "prerequisites_raw": "MATH 119A and MATH 6B",
+      "prerequisites_courses": [
+        "MATH 6B",
+        "MATH 119A"
+      ]
+    },
+    {
+      "code": "MATH 124A",
+      "title": "Partial Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 4B or MATH 4BI or MATH 6A and MATH 6B and MATH 8",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A",
+        "MATH 6B",
+        "MATH 8"
+      ]
+    },
+    {
+      "code": "MATH 124B",
+      "title": "Fourier Series and Numerical Methods",
+      "units": "4",
+      "prerequisites_raw": "MATH 124A and MATH 4B or MATH 4BI and MATH 6A and MATH 6B",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A",
+        "MATH 6B",
+        "MATH 124A"
+      ]
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MATH 4A",
+      "title": "Linear Algebra with Applications",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4AI",
+      "title": "Inquiry Based Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4B",
+      "title": "Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "MATH 4BI",
+      "title": "Inquiry Based Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "MATH 6A",
+      "title": "Vector Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "MATH 6B",
+      "title": "Vector calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 4B or MATH 4BI and MATH 6A",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A"
+      ]
+    },
+    {
+      "code": "MATH 8",
+      "title": "Transition to Higher Mathematics",
+      "units": "5",
+      "prerequisites_raw": "MATH 4A or MATH 4AI or MATH 4B or MATH 4BI or MATH 6A or MATH 6B",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A",
+        "MATH 6B"
+      ]
+    },
+    {
+      "code": "PHYS 1",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 2",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 3A or MATH 3B and PHYS 1",
+      "prerequisites_courses": [
+        "PHYS 1",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "PHYS 21",
+      "title": "General Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B or MATH 3B or PHYS 8 and MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 2B",
+        "MATH 3B",
+        "PHYS 8"
+      ]
+    },
+    {
+      "code": "PHYS 22",
+      "title": "General Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 21",
+      "prerequisites_courses": [
+        "PHYS 21"
+      ]
+    },
+    {
+      "code": "PHYS 23",
+      "title": "General Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 22",
+      "prerequisites_courses": [
+        "PHYS 22"
+      ]
+    },
+    {
+      "code": "PHYS 3",
+      "title": "Basic Physics",
+      "units": "3",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 3A or MATH 3B and MATH 4A and PHYS 2",
+      "prerequisites_courses": [
+        "PHYS 2",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 4A"
+      ]
+    },
+    {
+      "code": "PHYS 7A",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 7B",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 3A or MATH 3B and PHYS 7A",
+      "prerequisites_courses": [
+        "PHYS 7A",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "PHYS 8",
+      "title": "Introduction to Mathematical Methods for Physics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 10",
+      "title": "Principles of Data Science with R",
+      "units": "5",
+      "prerequisites_raw": "MATH 2B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "PSTAT 120A",
+      "title": "Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI or MATH 6A",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 6A"
+      ]
+    },
+    {
+      "code": "PSTAT 120B",
+      "title": "Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "PSTAT 120A",
+      "prerequisites_courses": [
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "PSTAT 122",
+      "title": "Design and Analysis of Experiments",
+      "units": "4",
+      "prerequisites_raw": "PSTAT 10 and PSTAT 120B",
+      "prerequisites_courses": [
+        "PSTAT 10",
+        "PSTAT 120B"
+      ]
+    },
+    {
+      "code": "PSTAT 130",
+      "title": "SAS Base Programming",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 160A",
+      "title": "Applied Stochastic Processes",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI or MATH 8 or PSTAT 8 and PSTAT 120A",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 8",
+        "PSTAT 8",
+        "PSTAT 120A"
+      ]
+    },
+    {
+      "code": "PSTAT 160B",
+      "title": "Applied Stochastic Processes",
+      "units": "4",
+      "prerequisites_raw": "MATH 4B and PSTAT 120B and PSTAT 160A",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "PSTAT 120B",
+        "PSTAT 160A"
+      ]
+    },
+    {
+      "code": "PSTAT 8",
+      "title": "Transition to Data Science, Probability and Statistics",
+      "units": "5",
+      "prerequisites_raw": "MATH 4A or MATH 4AI or MATH 4B or MATH 4BI or MATH 6A or MATH 6B or MATH 8",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A",
+        "MATH 6B",
+        "MATH 8"
+      ]
+    }
+  ]
+}

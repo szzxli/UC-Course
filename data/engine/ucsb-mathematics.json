@@ -1,0 +1,359 @@
+{
+  "campus": "UCSB",
+  "major": "ucsb-mathematics",
+  "checked": "2026-10-29",
+  "n_courses": 36,
+  "courses": [
+    {
+      "code": "CMPSC 16",
+      "title": "Problem Solving with Computers I",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 8 or ECE 3 or ENGR 3 or MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 2A",
+        "CMPSC 8",
+        "ENGR 3",
+        "ECE 3"
+      ]
+    },
+    {
+      "code": "CMPSC 8",
+      "title": "Introduction to Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CMPSC 9",
+      "title": "Intermediate Python Programming",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 8 or CMPSCW 8 or ECE 3 or ENGR 3",
+      "prerequisites_courses": [
+        "CMPSC 8",
+        "CMPSCW 8",
+        "ENGR 3",
+        "ECE 3"
+      ]
+    },
+    {
+      "code": "CMPSCW 8",
+      "title": "Introduction to Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 3",
+      "title": "Introduction to Python Programming For Engineers",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENGR 3",
+      "title": "Introduction to Programming",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 108A",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A and MATH 8",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 8"
+      ]
+    },
+    {
+      "code": "MATH 108B",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 108A",
+      "prerequisites_courses": [
+        "MATH 108A"
+      ]
+    },
+    {
+      "code": "MATH 111A",
+      "title": "Abstract Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 108A",
+      "prerequisites_courses": [
+        "MATH 108A"
+      ]
+    },
+    {
+      "code": "MATH 111B",
+      "title": "Abstract Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 111A",
+      "prerequisites_courses": [
+        "MATH 111A"
+      ]
+    },
+    {
+      "code": "MATH 111C",
+      "title": "Abstract Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 111B",
+      "prerequisites_courses": [
+        "MATH 111B"
+      ]
+    },
+    {
+      "code": "MATH 117",
+      "title": "Methods of Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 8 or PSTAT 8",
+      "prerequisites_courses": [
+        "MATH 8",
+        "PSTAT 8"
+      ]
+    },
+    {
+      "code": "MATH 118A",
+      "title": "Real Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 108A and MATH 117 and MATH 4B and MATH 6A",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 6A",
+        "MATH 108A",
+        "MATH 117"
+      ]
+    },
+    {
+      "code": "MATH 118B",
+      "title": "Real Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 108B and MATH 118A",
+      "prerequisites_courses": [
+        "MATH 108B",
+        "MATH 118A"
+      ]
+    },
+    {
+      "code": "MATH 118C",
+      "title": "Real Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 118B",
+      "prerequisites_courses": [
+        "MATH 118B"
+      ]
+    },
+    {
+      "code": "MATH 122A",
+      "title": "Theory of Complex Variables",
+      "units": "4",
+      "prerequisites_raw": "MATH 6A and MATH 8",
+      "prerequisites_courses": [
+        "MATH 6A",
+        "MATH 8"
+      ]
+    },
+    {
+      "code": "MATH 145",
+      "title": "Introduction to Topology",
+      "units": "4",
+      "prerequisites_raw": "MATH 108A or MATH 117 or MATH 8",
+      "prerequisites_courses": [
+        "MATH 8",
+        "MATH 108A",
+        "MATH 117"
+      ]
+    },
+    {
+      "code": "MATH 147A",
+      "title": "Differential Geometry of Curves and Surfaces",
+      "units": "4",
+      "prerequisites_raw": "MATH 108A or MATH 117 and MATH 6A",
+      "prerequisites_courses": [
+        "MATH 6A",
+        "MATH 108A",
+        "MATH 117"
+      ]
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MATH 34A",
+      "title": "Calculus for Social and Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MATH 4A",
+      "title": "Linear Algebra with Applications",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4AI",
+      "title": "Inquiry Based Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4B",
+      "title": "Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "MATH 4BI",
+      "title": "Inquiry Based Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "MATH 6A",
+      "title": "Vector Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "MATH 6B",
+      "title": "Vector calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 4B or MATH 4BI and MATH 6A",
+      "prerequisites_courses": [
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A"
+      ]
+    },
+    {
+      "code": "MATH 8",
+      "title": "Transition to Higher Mathematics",
+      "units": "5",
+      "prerequisites_raw": "MATH 4A or MATH 4AI or MATH 4B or MATH 4BI or MATH 6A or MATH 6B",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A",
+        "MATH 6B"
+      ]
+    },
+    {
+      "code": "PHYS 1",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 21",
+      "title": "General Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B or MATH 3B or PHYS 8 and MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 2B",
+        "MATH 3B",
+        "PHYS 8"
+      ]
+    },
+    {
+      "code": "PHYS 6A",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A"
+      ]
+    },
+    {
+      "code": "PHYS 7A",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 8",
+      "title": "Introduction to Mathematical Methods for Physics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 8",
+      "title": "Transition to Data Science, Probability and Statistics",
+      "units": "5",
+      "prerequisites_raw": "MATH 4A or MATH 4AI or MATH 4B or MATH 4BI or MATH 6A or MATH 6B or MATH 8",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI",
+        "MATH 4B",
+        "MATH 4BI",
+        "MATH 6A",
+        "MATH 6B",
+        "MATH 8"
+      ]
+    }
+  ]
+}

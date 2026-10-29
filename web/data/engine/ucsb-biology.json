@@ -1,0 +1,1772 @@
+{
+  "campus": "UCSB",
+  "major": "ucsb-biology",
+  "checked": "2026-10-29",
+  "n_courses": 153,
+  "courses": [
+    {
+      "code": "CHEM 109A",
+      "title": "Organic Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1B or CHEM 1C or CHEM 2B or CHEM 2C or CHEM 3B or CHEM 3C",
+      "prerequisites_courses": [
+        "CHEM 1C",
+        "CHEM 2C",
+        "CHEM 3C",
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 109AH",
+      "title": "Organic Chemistry (H)",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1B or CHEM 1C or CHEM 2B or CHEM 2C",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 1C",
+        "CHEM 2C"
+      ]
+    },
+    {
+      "code": "CHEM 109B",
+      "title": "Organic Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109AH or CHEM 130A",
+      "prerequisites_courses": [
+        "CHEM 130A",
+        "CHEM 109A",
+        "CHEM 109AH"
+      ]
+    },
+    {
+      "code": "CHEM 109BH",
+      "title": "Organic Chemistry (H)",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109AH",
+      "prerequisites_courses": [
+        "CHEM 109A",
+        "CHEM 109AH"
+      ]
+    },
+    {
+      "code": "CHEM 109C",
+      "title": "Organic Chemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109B or CHEM 109BH or CHEM 130B",
+      "prerequisites_courses": [
+        "CHEM 130B",
+        "CHEM 109B",
+        "CHEM 109BH"
+      ]
+    },
+    {
+      "code": "CHEM 109CH",
+      "title": "Organic Chemistry (H)",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109B or CHEM 109BH",
+      "prerequisites_courses": [
+        "CHEM 109B",
+        "CHEM 109BH"
+      ]
+    },
+    {
+      "code": "CHEM 130A",
+      "title": "Organic Chemistry for Majors",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1C or CHEM 2C or CHEM 3C",
+      "prerequisites_courses": [
+        "CHEM 1C",
+        "CHEM 2C",
+        "CHEM 3C"
+      ]
+    },
+    {
+      "code": "CHEM 130B",
+      "title": "Organic Chemistry for Majors",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109AH or CHEM 130A",
+      "prerequisites_courses": [
+        "CHEM 130A",
+        "CHEM 109A",
+        "CHEM 109AH"
+      ]
+    },
+    {
+      "code": "CHEM 142A",
+      "title": "Biochemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 109A or CHEM 109AH or CHEM 109B or CHEM 109BH or CHEM 109C or CHEM 109CH",
+      "prerequisites_courses": [
+        "CHEM 109A",
+        "CHEM 109AH",
+        "CHEM 109B",
+        "CHEM 109BH",
+        "CHEM 109C",
+        "CHEM 109CH"
+      ]
+    },
+    {
+      "code": "CHEM 142B",
+      "title": "Biochemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 142A",
+      "prerequisites_courses": [
+        "CHEM 142A"
+      ]
+    },
+    {
+      "code": "CHEM 142C",
+      "title": "Biochemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 142B",
+      "prerequisites_courses": [
+        "CHEM 142B"
+      ]
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1A or CHEM 2A or CHEM 3A",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 2A",
+        "CHEM 3A"
+      ]
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1B or CHEM 2B or CHEM 3B",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 2A",
+      "title": "General Chemistry (Honors)",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 2AL",
+      "title": "General Chemistry Lab (Part A)",
+      "units": "2.5",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or CHEM 2A or CHEM 2B or CHEM 3A or CHEM 3B",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 2A",
+        "CHEM 3A",
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 2B",
+      "title": "General Chemistry (Honors)",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1A or CHEM 2A or CHEM 3A",
+      "prerequisites_courses": [
+        "CHEM 2A",
+        "CHEM 1A",
+        "CHEM 3A"
+      ]
+    },
+    {
+      "code": "CHEM 2BL",
+      "title": "General Chemistry Laboratory (Part B)",
+      "units": "2.5",
+      "prerequisites_raw": "CHEM 1B or CHEM 1C or CHEM 2AL or CHEM 2B or CHEM 2C or CHEM 3B or CHEM 3C",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B",
+        "CHEM 1C",
+        "CHEM 2C",
+        "CHEM 3C",
+        "CHEM 2AL"
+      ]
+    },
+    {
+      "code": "CHEM 2C",
+      "title": "General Chemistry (Honors)",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1B or CHEM 2B or CHEM 3B",
+      "prerequisites_courses": [
+        "CHEM 2B",
+        "CHEM 1B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 3A",
+      "title": "General Chemistry (Majors)",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 3B",
+      "title": "General Chemistry (Majors)",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1A or CHEM 2A or CHEM 3A",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 2A",
+        "CHEM 3A"
+      ]
+    },
+    {
+      "code": "CHEM 3C",
+      "title": "General Chemistry (Majors)",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1B or CHEM 2B or CHEM 3B",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 6AL",
+      "title": "Laboratory Methods of Organic Chemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 109A or CHEM 109AH or CHEM 130A and CHEM 109B or CHEM 109BH or CHEM 130B and CHEM 2AL and CHEM 2BL",
+      "prerequisites_courses": [
+        "CHEM 2AL",
+        "CHEM 2BL",
+        "CHEM 109A",
+        "CHEM 109AH",
+        "CHEM 130A",
+        "CHEM 109B",
+        "CHEM 109BH",
+        "CHEM 130B"
+      ]
+    },
+    {
+      "code": "EARTH 111",
+      "title": "Principles of Paleontology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 111L",
+      "title": "Principles of Paleontology Laboratory",
+      "units": "2",
+      "prerequisites_raw": "EARTH 111",
+      "prerequisites_courses": [
+        "EARTH 111"
+      ]
+    },
+    {
+      "code": "EARTH 121",
+      "title": "Principles of Evolution",
+      "units": "4",
+      "prerequisites_raw": "EARTH 2 or EEMB 3 and EARTH 3 and EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "EARTH 2",
+        "EARTH 3"
+      ]
+    },
+    {
+      "code": "EARTH 141",
+      "title": "Plant Paleobiology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 148",
+      "title": "Vertebrate Paleontology",
+      "units": "4",
+      "prerequisites_raw": "EARTH 2 or EARTH 3 or EARTH 30 or EARTH 7 or EEMB 2 or EEMB 3 or MCDB 1A or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "EARTH 2",
+        "EARTH 3",
+        "EARTH 7",
+        "EARTH 30"
+      ]
+    },
+    {
+      "code": "EARTH 2",
+      "title": "Principles of Physical Geology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 20",
+      "title": "Geological Catastrophes",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 3",
+      "title": "Principles of Historical Geology",
+      "units": "5",
+      "prerequisites_raw": "EARTH 2 or EARTH 20 or EARTH 4 or EARTH 7",
+      "prerequisites_courses": [
+        "EARTH 2",
+        "EARTH 4",
+        "EARTH 7",
+        "EARTH 20"
+      ]
+    },
+    {
+      "code": "EARTH 30",
+      "title": "The History of Life",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 4",
+      "title": "Introduction to Oceanography",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 7",
+      "title": "Dinosaurs",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EEMB 101",
+      "title": "Genomics and Molecular Evolution",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 102",
+      "title": "Macroevolution: Biodiversity in Deep Time",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 103A",
+      "title": "Flora and Vegetation of California",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 106",
+      "title": "Biology of Fishes",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 109",
+      "title": "Vertebrate Paleontology",
+      "units": "4",
+      "prerequisites_raw": "EARTH 2 or EARTH 3 or EARTH 30 or EARTH 7 or EEMB 2 or EEMB 3 or MCDB 1A or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "EARTH 2",
+        "EARTH 3",
+        "EARTH 7",
+        "EARTH 30"
+      ]
+    },
+    {
+      "code": "EEMB 111",
+      "title": "Parasitology",
+      "units": "5",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 112",
+      "title": "Invertebrate Zoology",
+      "units": "5",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 113",
+      "title": "Vertebrate Biology, Ecology and Evolution",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 113L",
+      "title": "Laboratory in Vertebrate Biology, Ecology, and Evolution",
+      "units": "2",
+      "prerequisites_raw": "EEMB 113",
+      "prerequisites_courses": [
+        "EEMB 113"
+      ]
+    },
+    {
+      "code": "EEMB 116",
+      "title": "Invertebrate Zoology: Higher Invertebrates",
+      "units": "5",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 118",
+      "title": "Entomology: insect biology, ecology, and evolution",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 119",
+      "title": "Ecology and Management of California Wildlands",
+      "units": "5",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or EEMB 2 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or EEMB 3 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1A and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1B and EEMB 2 or ENV S 1 and EEMB 2 or ENV S 15BL and EEMB 2 or ENV S 2 and EEMB 2 or ENV S 3 and EEMB 2 or ENV S 60 and EEMB 3 or ENV S 1 and EEMB 3 or ENV S 15BL and EEMB 3 or ENV S 2 and EEMB 3 or ENV S 3 and EEMB 3 or ENV S 60 and ENV S 1 or MCDB 1A and ENV S 1 or MCDB 1B and ENV S 15BL or MCDB 1A and ENV S 15BL or MCDB 1B and ENV S 2 or MCDB 1A and ENV S 2 or MCDB 1B and ENV S 3 or MCDB 1A and ENV S 3 or MCDB 1B and ENV S 60 or MCDB 1A and ENV S 60 or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3",
+        "ENV S 60",
+        "CHEM 1A",
+        "CHEM 1B",
+        "ENV S 15A",
+        "ENV S 15B",
+        "ENV S 15BL"
+      ]
+    },
+    {
+      "code": "EEMB 120",
+      "title": "Introduction to Ecology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 127",
+      "title": "Plant Biology and Biodiversity",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 127L",
+      "title": "Plant Biology and Biodiversity Lab",
+      "units": "3",
+      "prerequisites_raw": "EEMB 127 and EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "EEMB 127"
+      ]
+    },
+    {
+      "code": "EEMB 128",
+      "title": "Foundations of Ecosystem Restoration",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or EEMB 2 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or EEMB 3 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1A and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1B and EEMB 2 or ENV S 1 and EEMB 2 or ENV S 15BL and EEMB 2 or ENV S 2 and EEMB 2 or ENV S 3 and EEMB 2 or ENV S 60 and EEMB 3 or ENV S 1 and EEMB 3 or ENV S 15BL and EEMB 3 or ENV S 2 and EEMB 3 or ENV S 3 and EEMB 3 or ENV S 60 and ENV S 1 or MCDB 1A and ENV S 1 or MCDB 1B and ENV S 15BL or MCDB 1A and ENV S 15BL or MCDB 1B and ENV S 2 or MCDB 1A and ENV S 2 or MCDB 1B and ENV S 3 or MCDB 1A and ENV S 3 or MCDB 1B and ENV S 60 or MCDB 1A and ENV S 60 or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3",
+        "ENV S 60",
+        "CHEM 1A",
+        "CHEM 1B",
+        "ENV S 15A",
+        "ENV S 15B",
+        "ENV S 15BL"
+      ]
+    },
+    {
+      "code": "EEMB 129",
+      "title": "Introductory Genetics",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 130",
+      "title": "Population Genetics",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 131",
+      "title": "Principles of Evolution",
+      "units": "4",
+      "prerequisites_raw": "EARTH 2 or EEMB 3 and EARTH 3 and EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "EARTH 2",
+        "EARTH 3"
+      ]
+    },
+    {
+      "code": "EEMB 133",
+      "title": "Biodiversity and Conservation Biology",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or EEMB 2 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or EEMB 3 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1A and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1B and EEMB 2 or ENV S 1 and EEMB 2 or ENV S 15BL and EEMB 2 or ENV S 2 and EEMB 2 or ENV S 3 and EEMB 2 or ENV S 60 and EEMB 3 or ENV S 1 and EEMB 3 or ENV S 15BL and EEMB 3 or ENV S 2 and EEMB 3 or ENV S 3 and EEMB 3 or ENV S 60 and ENV S 1 or MCDB 1A and ENV S 1 or MCDB 1B and ENV S 15BL or MCDB 1A and ENV S 15BL or MCDB 1B and ENV S 2 or MCDB 1A and ENV S 2 or MCDB 1B and ENV S 3 or MCDB 1A and ENV S 3 or MCDB 1B and ENV S 60 or MCDB 1A and ENV S 60 or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3",
+        "ENV S 60",
+        "CHEM 1A",
+        "CHEM 1B",
+        "ENV S 15A",
+        "ENV S 15B",
+        "ENV S 15BL"
+      ]
+    },
+    {
+      "code": "EEMB 136",
+      "title": "Principles of Paleontology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EEMB 136L",
+      "title": "Principles of Paleontology Laboratory",
+      "units": "2",
+      "prerequisites_raw": "EEMB 136",
+      "prerequisites_courses": [
+        "EEMB 136"
+      ]
+    },
+    {
+      "code": "EEMB 137",
+      "title": "Plant Paleobiology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EEMB 138",
+      "title": "Ethology and Behavioral Ecology",
+      "units": "5",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 140",
+      "title": "General Plant Ecology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 140L",
+      "title": "General Plant Ecology Lab",
+      "units": "2",
+      "prerequisites_raw": "EEMB 140 and EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3",
+        "EEMB 140"
+      ]
+    },
+    {
+      "code": "EEMB 142A",
+      "title": "Aquatic Communities",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 142AL",
+      "title": "Methods in Aquatic Community Ecology",
+      "units": "3",
+      "prerequisites_raw": "EEMB 142A",
+      "prerequisites_courses": [
+        "EEMB 142A"
+      ]
+    },
+    {
+      "code": "EEMB 142B",
+      "title": "Environmental Processes in Oceans and Lakes",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 142BL",
+      "title": "Chemical and Physical Methods of Aquatic Environments",
+      "units": "4",
+      "prerequisites_raw": "EEMB 142B",
+      "prerequisites_courses": [
+        "EEMB 142B"
+      ]
+    },
+    {
+      "code": "EEMB 142C",
+      "title": "Environmental Processes in Oceans and Lakes",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 142CL",
+      "title": "Methods of Aquatic Biology",
+      "units": "3",
+      "prerequisites_raw": "EEMB 142C",
+      "prerequisites_courses": [
+        "EEMB 142C"
+      ]
+    },
+    {
+      "code": "EEMB 144",
+      "title": "Marine Microbiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 144L",
+      "title": "Marine Microbiology Lab",
+      "units": "2",
+      "prerequisites_raw": "EEMB 142B or EEMB 144 and EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3",
+        "EEMB 144",
+        "EEMB 142B"
+      ]
+    },
+    {
+      "code": "EEMB 145",
+      "title": "Terrestrial Microbiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 147",
+      "title": "Coral Reef Biology and Ecology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 148",
+      "title": "Ecology of Running Waters",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 150A",
+      "title": "Microbial Diversity I",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 150B",
+      "title": "Microbial Diversity II",
+      "units": "3",
+      "prerequisites_raw": "EEMB 145 or EEMB 150A or EEMB 157A or MCDB 131 and EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "EEMB 150A",
+        "EEMB 145",
+        "EEMB 157A",
+        "MCDB 131"
+      ]
+    },
+    {
+      "code": "EEMB 153",
+      "title": "Ecology of Lakes and Wetlands",
+      "units": "4",
+      "prerequisites_raw": "EEMB 120 or EEMB 142A and EEMB 142B",
+      "prerequisites_courses": [
+        "EEMB 142B",
+        "EEMB 142A",
+        "EEMB 120"
+      ]
+    },
+    {
+      "code": "EEMB 155CC",
+      "title": "Global Change Biology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 157A",
+      "title": "Cell Physiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 157B",
+      "title": "Animal Physiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 157C",
+      "title": "Plant Physiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 158",
+      "title": "Climate Change Impacts on Marine Ecosystems",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 159",
+      "title": "Tropical Ecology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 162",
+      "title": "Fungi & Enterprise",
+      "units": "3",
+      "prerequisites_raw": "EEMB 2 or EEMB 3 or MCDB 1A or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 163",
+      "title": "Deep-Sea Biology",
+      "units": "3",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 165",
+      "title": "Fields Studies in Marine Ecological Physiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 168",
+      "title": "Conservation Ecology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 170",
+      "title": "Biology of the Marine-Land Interface",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "EEMB 171",
+      "title": "Ecosystem Processes",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or EEMB 2 and CHEM 1A or EEMB 3 and CHEM 1A or MCDB 1A and CHEM 1A or MCDB 1B and CHEM 1B or EEMB 2 and CHEM 1B or EEMB 3 and CHEM 1B or MCDB 1A and CHEM 1B or MCDB 1B and CHEM 1C or EEMB 2 or ENV S 15A or ENV S 15B and CHEM 1C or EEMB 3 or ENV S 15A or ENV S 15B and CHEM 1C or ENV S 15A or ENV S 15B or MCDB 1A and CHEM 1C or ENV S 15A or ENV S 15B or MCDB 1B and EEMB 2 or ENV S 1 and EEMB 2 or ENV S 15BL and EEMB 2 or ENV S 2 and EEMB 2 or ENV S 3 and EEMB 2 or ENV S 60 and EEMB 3 or ENV S 1 and EEMB 3 or ENV S 15BL and EEMB 3 or ENV S 2 and EEMB 3 or ENV S 3 and EEMB 3 or ENV S 60 and ENV S 1 or MCDB 1A and ENV S 1 or MCDB 1B and ENV S 15BL or MCDB 1A and ENV S 15BL or MCDB 1B and ENV S 2 or MCDB 1A and ENV S 2 or MCDB 1B and ENV S 3 or MCDB 1A and ENV S 3 or MCDB 1B and ENV S 60 or MCDB 1A and ENV S 60 or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3",
+        "ENV S 60",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "ENV S 15A",
+        "ENV S 15B",
+        "ENV S 15BL"
+      ]
+    },
+    {
+      "code": "EEMB 179",
+      "title": "Ecological Modeling",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 34A or MATH 34B or MATH 34LA or MATH 34LB or MATH 3A or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 34A",
+        "MATH 34B",
+        "MATH 34LA",
+        "MATH 34LB",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 2A",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "EEMB 180",
+      "title": "Evolutionary theory and models of behavioral processes",
+      "units": "5",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MATH 2A or MATH 2B or MATH 34A or MATH 34B or MATH 34LA or MATH 34LB or MATH 3A or MATH 3B and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 34A",
+        "MATH 34B",
+        "MATH 34LA",
+        "MATH 34LB",
+        "MATH 2A",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "EEMB 2",
+      "title": "Introductory Biology II--Ecology and Evolution",
+      "units": "3",
+      "prerequisites_raw": "MCDB 1A",
+      "prerequisites_courses": [
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "EEMB 2LL",
+      "title": "Introductory Biology Laboratory II",
+      "units": "1.5",
+      "prerequisites_raw": "EEMB 2",
+      "prerequisites_courses": [
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "EEMB 3",
+      "title": "Introductory Biology III",
+      "units": "3",
+      "prerequisites_raw": "EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "ENV S 1",
+      "title": "Introduction to Environmental Studies",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 128",
+      "title": "Foundations of Ecosystem Restoration",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or EEMB 2 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or EEMB 3 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1A and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1B and EEMB 2 or ENV S 1 and EEMB 2 or ENV S 15BL and EEMB 2 or ENV S 2 and EEMB 2 or ENV S 3 and EEMB 2 or ENV S 60 and EEMB 3 or ENV S 1 and EEMB 3 or ENV S 15BL and EEMB 3 or ENV S 2 and EEMB 3 or ENV S 3 and EEMB 3 or ENV S 60 and ENV S 1 or MCDB 1A and ENV S 1 or MCDB 1B and ENV S 15BL or MCDB 1A and ENV S 15BL or MCDB 1B and ENV S 2 or MCDB 1A and ENV S 2 or MCDB 1B and ENV S 3 or MCDB 1A and ENV S 3 or MCDB 1B and ENV S 60 or MCDB 1A and ENV S 60 or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3",
+        "ENV S 60",
+        "CHEM 1A",
+        "CHEM 1B",
+        "ENV S 15A",
+        "ENV S 15B",
+        "ENV S 15BL"
+      ]
+    },
+    {
+      "code": "ENV S 133",
+      "title": "Biodiversity and Conservation Biology",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or EEMB 2 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or EEMB 3 or ENV S 15A or ENV S 15B and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1A and CHEM 1A or CHEM 1B or ENV S 15A or ENV S 15B or MCDB 1B and EEMB 2 or ENV S 1 and EEMB 2 or ENV S 15BL and EEMB 2 or ENV S 2 and EEMB 2 or ENV S 3 and EEMB 2 or ENV S 60 and EEMB 3 or ENV S 1 and EEMB 3 or ENV S 15BL and EEMB 3 or ENV S 2 and EEMB 3 or ENV S 3 and EEMB 3 or ENV S 60 and ENV S 1 or MCDB 1A and ENV S 1 or MCDB 1B and ENV S 15BL or MCDB 1A and ENV S 15BL or MCDB 1B and ENV S 2 or MCDB 1A and ENV S 2 or MCDB 1B and ENV S 3 or MCDB 1A and ENV S 3 or MCDB 1B and ENV S 60 or MCDB 1A and ENV S 60 or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3",
+        "ENV S 60",
+        "CHEM 1A",
+        "CHEM 1B",
+        "ENV S 15A",
+        "ENV S 15B",
+        "ENV S 15BL"
+      ]
+    },
+    {
+      "code": "ENV S 15A",
+      "title": "Environmental Chemistry 1",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 15B",
+      "title": "Environmental Chemistry 2",
+      "units": "5",
+      "prerequisites_raw": "ENV S 15A",
+      "prerequisites_courses": [
+        "ENV S 15A"
+      ]
+    },
+    {
+      "code": "ENV S 15BL",
+      "title": "Environmental Chemistry Lab",
+      "units": "1",
+      "prerequisites_raw": "ENV S 15A and ENV S 15B",
+      "prerequisites_courses": [
+        "ENV S 15A",
+        "ENV S 15B"
+      ]
+    },
+    {
+      "code": "ENV S 171",
+      "title": "Ecosystem Processes",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or EEMB 2 and CHEM 1A or EEMB 3 and CHEM 1A or MCDB 1A and CHEM 1A or MCDB 1B and CHEM 1B or EEMB 2 and CHEM 1B or EEMB 3 and CHEM 1B or MCDB 1A and CHEM 1B or MCDB 1B and CHEM 1C or EEMB 2 or ENV S 15A or ENV S 15B and CHEM 1C or EEMB 3 or ENV S 15A or ENV S 15B and CHEM 1C or ENV S 15A or ENV S 15B or MCDB 1A and CHEM 1C or ENV S 15A or ENV S 15B or MCDB 1B and EEMB 2 or ENV S 1 and EEMB 2 or ENV S 15BL and EEMB 2 or ENV S 2 and EEMB 2 or ENV S 3 and EEMB 2 or ENV S 60 and EEMB 3 or ENV S 1 and EEMB 3 or ENV S 15BL and EEMB 3 or ENV S 2 and EEMB 3 or ENV S 3 and EEMB 3 or ENV S 60 and ENV S 1 or MCDB 1A and ENV S 1 or MCDB 1B and ENV S 15BL or MCDB 1A and ENV S 15BL or MCDB 1B and ENV S 2 or MCDB 1A and ENV S 2 or MCDB 1B and ENV S 3 or MCDB 1A and ENV S 3 or MCDB 1B and ENV S 60 or MCDB 1A and ENV S 60 or MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "ENV S 1",
+        "ENV S 2",
+        "ENV S 3",
+        "ENV S 60",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "ENV S 15A",
+        "ENV S 15B",
+        "ENV S 15BL"
+      ]
+    },
+    {
+      "code": "ENV S 2",
+      "title": "Introduction to Environmental Science",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 3",
+      "title": "Introduction to the Social and Cultural Environment",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 60",
+      "title": "Applied Ecology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MATH 34A",
+      "title": "Calculus for Social and Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 34B",
+      "title": "Calculus for Social and Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 34LA or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A",
+        "MATH 34LA"
+      ]
+    },
+    {
+      "code": "MATH 34LA",
+      "title": "Calculus for the Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 34LB",
+      "title": "Calculus for the Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 34LA or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A",
+        "MATH 34LA"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MATH 4A",
+      "title": "Linear Algebra with Applications",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MCDB 101A",
+      "title": "Molecular Genetics I: Prokaryotes",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A and CHEM 1B and CHEM 1C and EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C"
+      ]
+    },
+    {
+      "code": "MCDB 101B",
+      "title": "Molecular Genetics II: Eukaryotes",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and MCDB 101A and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "MCDB 101A"
+      ]
+    },
+    {
+      "code": "MCDB 101L",
+      "title": "Molecular Genetics Laboratory",
+      "units": "4",
+      "prerequisites_raw": "MCDB 101B",
+      "prerequisites_courses": [
+        "MCDB 101A",
+        "MCDB 101B",
+        "EEMB 129",
+        "MCDB 101B"
+      ]
+    },
+    {
+      "code": "MCDB 103",
+      "title": "Cell Biology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B"
+      ]
+    },
+    {
+      "code": "MCDB 103L",
+      "title": "Laboratory in Molecular Cell Biology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and MCDB 103 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "MCDB 103"
+      ]
+    },
+    {
+      "code": "MCDB 108A",
+      "title": "Biochemistry - Structure and Function of Macromolecules",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109B or CHEM 109C and CHEM 1A and CHEM 1B and CHEM 1C and EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "CHEM 109A",
+        "CHEM 109B",
+        "CHEM 109C"
+      ]
+    },
+    {
+      "code": "MCDB 108B",
+      "title": "Biochemistry - Bioenergetics, Enzymology, and Metabolism",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109C or MCDB 108A",
+      "prerequisites_courses": [
+        "MCDB 108A",
+        "CHEM 109C"
+      ]
+    },
+    {
+      "code": "MCDB 108C",
+      "title": "Biochemistry - Computational & Systems Biology",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 34A or MATH 34B or MATH 3A or MATH 3B and MCDB 108B and PHYS 6A and PHYS 6B and PHYS 6C",
+      "prerequisites_courses": [
+        "MCDB 108A",
+        "MCDB 108B",
+        "MCDB 108B",
+        "PHYS 6A",
+        "PHYS 6B",
+        "PHYS 6C",
+        "PHYS 6C",
+        "MATH 34A",
+        "MATH 34B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 2A",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "MCDB 110",
+      "title": "Principles of Biochemistry",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109B and CHEM 1A and CHEM 1B and CHEM 1C",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "CHEM 109A",
+        "CHEM 109B"
+      ]
+    },
+    {
+      "code": "MCDB 111",
+      "title": "Human Physiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B"
+      ]
+    },
+    {
+      "code": "MCDB 112",
+      "title": "Developmental Biology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 129 or MCDB 101A and EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3",
+        "MCDB 101A",
+        "EEMB 129"
+      ]
+    },
+    {
+      "code": "MCDB 112L",
+      "title": "Laboratory in Developmental Biology",
+      "units": "3",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 101A and MCDB 112 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3",
+        "MCDB 101A",
+        "MCDB 112"
+      ]
+    },
+    {
+      "code": "MCDB 118",
+      "title": "Plant Development",
+      "units": "4",
+      "prerequisites_raw": "EEMB 129 or MCDB 101A and EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "MCDB 101A",
+        "EEMB 129"
+      ]
+    },
+    {
+      "code": "MCDB 126",
+      "title": "Basic Pharmacology",
+      "units": "5",
+      "prerequisites_raw": "CHEM 109A or CHEM 109B or CHEM 109C and CHEM 142C or MCDB 101A",
+      "prerequisites_courses": [
+        "MCDB 101A",
+        "CHEM 142C",
+        "CHEM 109A",
+        "CHEM 109B",
+        "CHEM 109C"
+      ]
+    },
+    {
+      "code": "MCDB 126AL",
+      "title": "Pharmacology Lab I",
+      "units": "4",
+      "prerequisites_raw": "MCDB 126",
+      "prerequisites_courses": [
+        "MCDB 126"
+      ]
+    },
+    {
+      "code": "MCDB 126B",
+      "title": "Basic Pharmacology",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109B or CHEM 109C and CHEM 142C or MCDB 101A",
+      "prerequisites_courses": [
+        "MCDB 101A",
+        "CHEM 142C",
+        "CHEM 109A",
+        "CHEM 109B",
+        "CHEM 109C"
+      ]
+    },
+    {
+      "code": "MCDB 126BL",
+      "title": "Pharmacology Laboratory II",
+      "units": "4",
+      "prerequisites_raw": "MCDB 126B",
+      "prerequisites_courses": [
+        "MCDB 126B"
+      ]
+    },
+    {
+      "code": "MCDB 131",
+      "title": "General Microbiology",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109B or CHEM 109C and MCDB 101A and MCDB 110",
+      "prerequisites_courses": [
+        "MCDB 101A",
+        "CHEM 109A",
+        "CHEM 109B",
+        "CHEM 109C",
+        "MCDB 110"
+      ]
+    },
+    {
+      "code": "MCDB 131L",
+      "title": "Laboratory in General Microbiology",
+      "units": "2",
+      "prerequisites_raw": "MCDB 131",
+      "prerequisites_courses": [
+        "MCDB 131"
+      ]
+    },
+    {
+      "code": "MCDB 132",
+      "title": "Bacterial Pathogenesis",
+      "units": "3",
+      "prerequisites_raw": "MCDB 101A",
+      "prerequisites_courses": [
+        "MCDB 101A"
+      ]
+    },
+    {
+      "code": "MCDB 132L",
+      "title": "Bacterial Pathogenesis Laboratory",
+      "units": "3",
+      "prerequisites_raw": "MCDB 132",
+      "prerequisites_courses": [
+        "MCDB 132"
+      ]
+    },
+    {
+      "code": "MCDB 133",
+      "title": "Molecular and Cellular Immunobiology",
+      "units": "5",
+      "prerequisites_raw": "MCDB 101A",
+      "prerequisites_courses": [
+        "MCDB 101A"
+      ]
+    },
+    {
+      "code": "MCDB 133L",
+      "title": "Molecular and Cellular Immunobiology Lab",
+      "units": "4",
+      "prerequisites_raw": "MCDB 133",
+      "prerequisites_courses": [
+        "MCDB 133"
+      ]
+    },
+    {
+      "code": "MCDB 134",
+      "title": "General Animal Virology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 129 or MCDB 101A",
+      "prerequisites_courses": [
+        "MCDB 101A",
+        "EEMB 129"
+      ]
+    },
+    {
+      "code": "MCDB 135",
+      "title": "Cellular Growth Control and Oncogenesis",
+      "units": "4",
+      "prerequisites_raw": "MCDB 101A or MCDB 101B",
+      "prerequisites_courses": [
+        "MCDB 101A",
+        "MCDB 101B"
+      ]
+    },
+    {
+      "code": "MCDB 139",
+      "title": "Medical Microbiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "MCDB 140L",
+      "title": "Recombinant DNA Methods",
+      "units": "4",
+      "prerequisites_raw": "MCDB 101A and MCDB 101B and MCDB 108A or MCDB 110 and MCDB 108B or MCDB 108C or MCDB 110",
+      "prerequisites_courses": [
+        "MCDB 101A",
+        "MCDB 101B",
+        "MCDB 110",
+        "MCDB 101A",
+        "MCDB 101B",
+        "MCDB 108A",
+        "MCDB 108B",
+        "MCDB 108C",
+        "MCDB 108C",
+        "MCDB 101A",
+        "MCDB 101B",
+        "MCDB 108A",
+        "MCDB 108B",
+        "MCDB 108C"
+      ]
+    },
+    {
+      "code": "MCDB 146",
+      "title": "Stem Cell Biology in Health and Disease",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A and CHEM 1B and CHEM 1C and EEMB 2 and EEMB 3 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3"
+      ]
+    },
+    {
+      "code": "MCDB 151",
+      "title": "Neurobiology I: Cellular Organization and Biophysics of the Nervous System",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B"
+      ]
+    },
+    {
+      "code": "MCDB 152",
+      "title": "Neurobiology II: Molecular and Cellular Neurobiology",
+      "units": "4",
+      "prerequisites_raw": "MCDB 151 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "MCDB 151"
+      ]
+    },
+    {
+      "code": "MCDB 153",
+      "title": "Neurobiology III: Developmental Neurobiology",
+      "units": "4",
+      "prerequisites_raw": "EEMB 129 or MCDB 101A and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "MCDB 101A",
+        "EEMB 129"
+      ]
+    },
+    {
+      "code": "MCDB 1A",
+      "title": "Introductory Biology I",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or CHEM 1C",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C"
+      ]
+    },
+    {
+      "code": "MCDB 1B",
+      "title": "Introductory Biology II--Physiology",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "MCDB 1LL",
+      "title": "Introductory Biology Laboratory I",
+      "units": "1.5",
+      "prerequisites_raw": "MCDB 1A",
+      "prerequisites_courses": [
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "MCDB W 108A",
+      "title": "Biochemistry - Structure and Function of Macromolecules",
+      "units": "4",
+      "prerequisites_raw": "CHEM 109A or CHEM 109B or CHEM 109C and CHEM 1A and CHEM 1B and CHEM 1C and EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "EEMB 2",
+        "MCDB 1B",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "CHEM 109A",
+        "CHEM 109B",
+        "CHEM 109C"
+      ]
+    },
+    {
+      "code": "PHYS 6A",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A"
+      ]
+    },
+    {
+      "code": "PHYS 6AL",
+      "title": "Introductory Experimental Physics",
+      "units": "1",
+      "prerequisites_raw": "PHYS 6A",
+      "prerequisites_courses": [
+        "PHYS 6A"
+      ]
+    },
+    {
+      "code": "PHYS 6B",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "PHYS 6A",
+      "prerequisites_courses": [
+        "PHYS 6A"
+      ]
+    },
+    {
+      "code": "PHYS 6BL",
+      "title": "Introductory Experimental Physics",
+      "units": "1",
+      "prerequisites_raw": "PHYS 6B",
+      "prerequisites_courses": [
+        "PHYS 6B"
+      ]
+    },
+    {
+      "code": "PHYS 6C",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "PHYS 6B",
+      "prerequisites_courses": [
+        "PHYS 6B"
+      ]
+    },
+    {
+      "code": "PHYS 6CL",
+      "title": "Introductory Experimental Physics",
+      "units": "1",
+      "prerequisites_raw": "PHYS 6C",
+      "prerequisites_courses": [
+        "PHYS 6C"
+      ]
+    },
+    {
+      "code": "PSTAT 5A",
+      "title": "Understanding Data",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 5LS",
+      "title": "Statistics for Life Sciences",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    }
+  ]
+}

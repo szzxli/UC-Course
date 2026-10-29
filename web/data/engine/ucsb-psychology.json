@@ -1,0 +1,1056 @@
+{
+  "campus": "UCSB",
+  "major": "ucsb-psychology",
+  "checked": "2026-10-29",
+  "n_courses": 119,
+  "courses": [
+    {
+      "code": "ANTH 121",
+      "title": "Human Evolution",
+      "units": "4",
+      "prerequisites_raw": "ANTH 5",
+      "prerequisites_courses": [
+        "ANTH 5"
+      ]
+    },
+    {
+      "code": "ANTH 151T",
+      "title": "Evolutionary Psychology",
+      "units": "4",
+      "prerequisites_raw": "ANTH 5 or PSY 1",
+      "prerequisites_courses": [
+        "ANTH 5",
+        "PSY 1"
+      ]
+    },
+    {
+      "code": "ANTH 169",
+      "title": "Evolution of Cooperation",
+      "units": "4",
+      "prerequisites_raw": "ANTH 5 or ANTH 7",
+      "prerequisites_courses": [
+        "ANTH 5",
+        "ANTH 7"
+      ]
+    },
+    {
+      "code": "ANTH 177AB",
+      "title": "Human Reproduction Ecology and Endocrinology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Introductory Cultural Anthropology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ANTH 5",
+      "title": "Introductory Biological Anthropology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ANTH 7",
+      "title": "Introductory Biosocial Anthropology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BL ST 137E",
+      "title": "Black Family, Community, and Society",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BL ST 154",
+      "title": "Environmental Racism and Environmental Justice",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1A or CHEM 2A or CHEM 3A",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 2A",
+        "CHEM 3A"
+      ]
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1B or CHEM 2B or CHEM 3B",
+      "prerequisites_courses": [
+        "CHEM 1B",
+        "CHEM 2B",
+        "CHEM 3B"
+      ]
+    },
+    {
+      "code": "CHEM 2A",
+      "title": "General Chemistry (Honors)",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 2B",
+      "title": "General Chemistry (Honors)",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1A or CHEM 2A or CHEM 3A",
+      "prerequisites_courses": [
+        "CHEM 2A",
+        "CHEM 1A",
+        "CHEM 3A"
+      ]
+    },
+    {
+      "code": "CHEM 3A",
+      "title": "General Chemistry (Majors)",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 3B",
+      "title": "General Chemistry (Majors)",
+      "units": "3",
+      "prerequisites_raw": "CHEM 1A or CHEM 2A or CHEM 3A",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 2A",
+        "CHEM 3A"
+      ]
+    },
+    {
+      "code": "CMPSC 16",
+      "title": "Problem Solving with Computers I",
+      "units": "4",
+      "prerequisites_raw": "CMPSC 8 or ECE 3 or ENGR 3 or MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A",
+        "MATH 2A",
+        "CMPSC 8",
+        "ENGR 3",
+        "ECE 3"
+      ]
+    },
+    {
+      "code": "CMPSC 8",
+      "title": "Introduction to Computer Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CNCSP 114",
+      "title": "Psychology of Gender",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMM 117",
+      "title": "Persuasion",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMM 124",
+      "title": "Family Communication",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMM 133",
+      "title": "Media and Children",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COMM 87",
+      "title": "Statistical Analysis for Communication",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 2",
+      "title": "Principles of Physical Geology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 20",
+      "title": "Geological Catastrophes",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 3",
+      "title": "Principles of Historical Geology",
+      "units": "5",
+      "prerequisites_raw": "EARTH 2 or EARTH 20 or EARTH 4 or EARTH 7",
+      "prerequisites_courses": [
+        "EARTH 2",
+        "EARTH 4",
+        "EARTH 7",
+        "EARTH 20"
+      ]
+    },
+    {
+      "code": "EARTH 4",
+      "title": "Introduction to Oceanography",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EARTH 7",
+      "title": "Dinosaurs",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 3",
+      "title": "Introduction to Python Programming For Engineers",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 1",
+      "title": "Principles of Economics-Micro",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 2",
+      "title": "Principles of Economics-Macro",
+      "units": "5",
+      "prerequisites_raw": "ECON 1",
+      "prerequisites_courses": [
+        "ECON 1"
+      ]
+    },
+    {
+      "code": "ECON 9",
+      "title": "Introduction to Economics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EEMB 180",
+      "title": "Evolutionary theory and models of behavioral processes",
+      "units": "5",
+      "prerequisites_raw": "EEMB 2 and EEMB 3 and MATH 2A or MATH 2B or MATH 34A or MATH 34B or MATH 34LA or MATH 34LB or MATH 3A or MATH 3B and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2",
+        "EEMB 3",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 34A",
+        "MATH 34B",
+        "MATH 34LA",
+        "MATH 34LB",
+        "MATH 2A",
+        "MATH 2B"
+      ]
+    },
+    {
+      "code": "EEMB 2",
+      "title": "Introductory Biology II--Ecology and Evolution",
+      "units": "3",
+      "prerequisites_raw": "MCDB 1A",
+      "prerequisites_courses": [
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "EEMB 3",
+      "title": "Introductory Biology III",
+      "units": "3",
+      "prerequisites_raw": "EEMB 2 and MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B",
+        "EEMB 2"
+      ]
+    },
+    {
+      "code": "EEMB 7",
+      "title": "Principles of Evolution and Animal Physiology for Brain Sciences",
+      "units": "3",
+      "prerequisites_raw": "MCDB 1A or MCDB 6",
+      "prerequisites_courses": [
+        "MCDB 6",
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "ENGR 3",
+      "title": "Introduction to Programming",
+      "units": "3",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 1",
+      "title": "Introduction to Environmental Studies",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 2",
+      "title": "Introduction to Environmental Science",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENV S 3",
+      "title": "Introduction to the Social and Cultural Environment",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "GEOG 5",
+      "title": "People, Place, and Environment",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "LING 127",
+      "title": "Psychology of Language",
+      "units": "4",
+      "prerequisites_raw": "LING 20",
+      "prerequisites_courses": [
+        "LING 20"
+      ]
+    },
+    {
+      "code": "LING 137",
+      "title": "Introduction to First Language Acquisition",
+      "units": "4",
+      "prerequisites_raw": "LING 20",
+      "prerequisites_courses": [
+        "LING 20"
+      ]
+    },
+    {
+      "code": "LING 149",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "LING 20",
+      "title": "Language And Linguistics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "LING 50",
+      "title": "Language and Power",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "LING 70",
+      "title": "Language in Society",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Calculus with Algebra and Trigonometry",
+      "units": "5",
+      "prerequisites_raw": "MATH 2A",
+      "prerequisites_courses": [
+        "MATH 2A"
+      ]
+    },
+    {
+      "code": "MATH 34A",
+      "title": "Calculus for Social and Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 34B",
+      "title": "Calculus for Social and Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 34LA or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A",
+        "MATH 34LA"
+      ]
+    },
+    {
+      "code": "MATH 34LA",
+      "title": "Calculus for the Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 34LB",
+      "title": "Calculus for the Life Sciences",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 34LA or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A",
+        "MATH 34LA"
+      ]
+    },
+    {
+      "code": "MATH 3A",
+      "title": "Calculus with Applications, First Course",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Calculus with Applications, Second Course",
+      "units": "4",
+      "prerequisites_raw": "MATH 3A",
+      "prerequisites_courses": [
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "MATH 4A",
+      "title": "Linear Algebra with Applications",
+      "units": "4",
+      "prerequisites_raw": "MATH 2B or MATH 3B",
+      "prerequisites_courses": [
+        "MATH 2B",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4AI",
+      "title": "Inquiry Based Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4B",
+      "title": "Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 4A or MATH 4AI",
+      "prerequisites_courses": [
+        "MATH 4A",
+        "MATH 4AI"
+      ]
+    },
+    {
+      "code": "MCDB 151",
+      "title": "Neurobiology I: Cellular Organization and Biophysics of the Nervous System",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A and MCDB 1B",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "MCDB 1B"
+      ]
+    },
+    {
+      "code": "MCDB 1A",
+      "title": "Introductory Biology I",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or CHEM 1C",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C"
+      ]
+    },
+    {
+      "code": "MCDB 1B",
+      "title": "Introductory Biology II--Physiology",
+      "units": "4",
+      "prerequisites_raw": "MCDB 1A",
+      "prerequisites_courses": [
+        "MCDB 1A",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 1C",
+        "MCDB 1A"
+      ]
+    },
+    {
+      "code": "MCDB 20",
+      "title": "Concepts of Biology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MCDB 6",
+      "title": "Principles of Molecular and Cellular Biology for Brain Sciences",
+      "units": "4",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B",
+      "prerequisites_courses": [
+        "CHEM 1A",
+        "CHEM 1B"
+      ]
+    },
+    {
+      "code": "PHIL 100A",
+      "title": "Ethics",
+      "units": "4",
+      "prerequisites_raw": "PHIL 3",
+      "prerequisites_courses": [
+        "PHIL 3"
+      ]
+    },
+    {
+      "code": "PHIL 100B",
+      "title": "Theory of Knowledge",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 100C",
+      "title": "Philosophy of Language",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 100D",
+      "title": "Philosophy of Mind",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 100E",
+      "title": "Metaphysics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 124A",
+      "title": "Philosophy of Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 134",
+      "title": "Moral Psychology",
+      "units": "4",
+      "prerequisites_raw": "PHIL 100A or PHIL 4 and PHIL 100B or PHIL 100C or PHIL 100D or PHIL 100E",
+      "prerequisites_courses": [
+        "PHIL 4",
+        "PHIL 100A",
+        "PHIL 100B",
+        "PHIL 100C",
+        "PHIL 100D",
+        "PHIL 100E"
+      ]
+    },
+    {
+      "code": "PHIL 3",
+      "title": "Critical Thinking",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 4",
+      "title": "Introduction to Ethics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYS 1",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 2",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 3A or MATH 3B and PHYS 1",
+      "prerequisites_courses": [
+        "PHYS 1",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "PHYS 21",
+      "title": "General Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A and MATH 2B or MATH 3B or PHYS 8 and MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 2B",
+        "MATH 3B",
+        "PHYS 8"
+      ]
+    },
+    {
+      "code": "PHYS 3",
+      "title": "Basic Physics",
+      "units": "3",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 3A or MATH 3B and MATH 4A and PHYS 2",
+      "prerequisites_courses": [
+        "PHYS 2",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B",
+        "MATH 4A"
+      ]
+    },
+    {
+      "code": "PHYS 6A",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "MATH 2A or MATH 34A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A",
+        "MATH 34A"
+      ]
+    },
+    {
+      "code": "PHYS 6B",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "PHYS 6A",
+      "prerequisites_courses": [
+        "PHYS 6A"
+      ]
+    },
+    {
+      "code": "PHYS 6C",
+      "title": "Introductory Physics",
+      "units": "3",
+      "prerequisites_raw": "PHYS 6B",
+      "prerequisites_courses": [
+        "PHYS 6B"
+      ]
+    },
+    {
+      "code": "PHYS 7A",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 3A",
+      "prerequisites_courses": [
+        "MATH 2A",
+        "MATH 3A"
+      ]
+    },
+    {
+      "code": "PHYS 7B",
+      "title": "Basic Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 2A or MATH 2B or MATH 3A or MATH 3B and PHYS 7A",
+      "prerequisites_courses": [
+        "PHYS 7A",
+        "MATH 2A",
+        "MATH 2B",
+        "MATH 3A",
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "PHYS 8",
+      "title": "Introduction to Mathematical Methods for Physics",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "POL S 1",
+      "title": "Introduction to Political Philosophy",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 5A",
+      "title": "Understanding Data",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSTAT 5LS",
+      "title": "Statistics for Life Sciences",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 1",
+      "title": "Introduction to Psychology",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 102",
+      "title": "Introduction to Social Psychology",
+      "units": "4",
+      "prerequisites_raw": "PSY 1",
+      "prerequisites_courses": [
+        "PSY 1"
+      ]
+    },
+    {
+      "code": "PSY 105",
+      "title": "Introduction to Developmental Psychology",
+      "units": "4",
+      "prerequisites_raw": "PSY 1",
+      "prerequisites_courses": [
+        "PSY 1"
+      ]
+    },
+    {
+      "code": "PSY 106",
+      "title": "Introduction to Biopsychology",
+      "units": "4",
+      "prerequisites_raw": "PSY 1",
+      "prerequisites_courses": [
+        "PSY 1"
+      ]
+    },
+    {
+      "code": "PSY 108",
+      "title": "Introduction to Cognitive Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 10A",
+      "title": "Research Methods in Psychological & Brain Sciences",
+      "units": "5",
+      "prerequisites_raw": "CHEM 1A or CHEM 1B or CHEM 2A or CHEM 2B and COMM 87 or PSTAT 5A or PSTAT 5LS and MATH 2A or MATH 34A or MATH 3A and PSY 1",
+      "prerequisites_courses": [
+        "PSY 1",
+        "PSTAT 5A",
+        "PSTAT 5LS",
+        "COMM 87",
+        "MATH 3A",
+        "MATH 34A",
+        "MATH 2A",
+        "CHEM 1A",
+        "CHEM 1B",
+        "CHEM 2A",
+        "CHEM 2B"
+      ]
+    },
+    {
+      "code": "PSY 10B",
+      "title": "Statistical Methods in Psychological & Brain Sciences",
+      "units": "5",
+      "prerequisites_raw": "PSY 10A",
+      "prerequisites_courses": [
+        "PSY 10A"
+      ]
+    },
+    {
+      "code": "PSY 111",
+      "title": "Fundamentals of Behavioral Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "PSY 106",
+      "prerequisites_courses": [
+        "PSY 106"
+      ]
+    },
+    {
+      "code": "PSY 113L",
+      "title": "Complex Systems with Mathematica",
+      "units": "5",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 117",
+      "title": "Memory",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 117L",
+      "title": "Laboratory in Memory and Cognition",
+      "units": "5",
+      "prerequisites_raw": "PSY 108 or PSY 117",
+      "prerequisites_courses": [
+        "PSY 108",
+        "PSY 117"
+      ]
+    },
+    {
+      "code": "PSY 118L",
+      "title": "Laboratory in Attention",
+      "units": "5",
+      "prerequisites_raw": "PSY 108 or PSY 123 or PSY 129 or PSY 130",
+      "prerequisites_courses": [
+        "PSY 108",
+        "PSY 123",
+        "PSY 129",
+        "PSY 130"
+      ]
+    },
+    {
+      "code": "PSY 119L",
+      "title": "Laboratory in Neuroanatomy",
+      "units": "5",
+      "prerequisites_raw": "MCDB 151 or PSY 111",
+      "prerequisites_courses": [
+        "PSY 111",
+        "MCDB 151"
+      ]
+    },
+    {
+      "code": "PSY 120L",
+      "title": "Laboratory in Advanced Research Methods",
+      "units": "5",
+      "prerequisites_raw": "PSY 102 or PSY 105 or PSY 106 or PSY 108",
+      "prerequisites_courses": [
+        "PSY 102",
+        "PSY 105",
+        "PSY 106",
+        "PSY 108"
+      ]
+    },
+    {
+      "code": "PSY 123",
+      "title": "Cognitive Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "PSY 106 or PSY 111",
+      "prerequisites_courses": [
+        "PSY 106",
+        "PSY 111"
+      ]
+    },
+    {
+      "code": "PSY 129",
+      "title": "Perception",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 129L",
+      "title": "Laboratory in Perception",
+      "units": "5",
+      "prerequisites_raw": "PSY 129 or PSY 130 or PSY 131 or PSY 132",
+      "prerequisites_courses": [
+        "PSY 129",
+        "PSY 130",
+        "PSY 131",
+        "PSY 132"
+      ]
+    },
+    {
+      "code": "PSY 130",
+      "title": "Perception: Vision",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 131",
+      "title": "Perception: Audition",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 132",
+      "title": "Visual Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "PSY 111",
+      "prerequisites_courses": [
+        "PSY 111"
+      ]
+    },
+    {
+      "code": "PSY 138L",
+      "title": "Laboratory in Behavioral Endocrinology",
+      "units": "5",
+      "prerequisites_raw": "PSY 111",
+      "prerequisites_courses": [
+        "PSY 111"
+      ]
+    },
+    {
+      "code": "PSY 143",
+      "title": "The Evolution of Human Relationships",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 146",
+      "title": "Human Mating Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 150L",
+      "title": "Laboratory in Social Psychology",
+      "units": "5",
+      "prerequisites_raw": "PSY 102",
+      "prerequisites_courses": [
+        "PSY 102"
+      ]
+    },
+    {
+      "code": "PSY 155",
+      "title": "Evolution and Cognition",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 155L",
+      "title": "Laboratory in Evolutionary Psychology",
+      "units": "5",
+      "prerequisites_raw": "ANTH 5 or PSY 143 or PSY 146 or PSY 155",
+      "prerequisites_courses": [
+        "PSY 143",
+        "PSY 146",
+        "PSY 155",
+        "ANTH 5"
+      ]
+    },
+    {
+      "code": "PSY 156L",
+      "title": "Laboratory in Developmental Psychology",
+      "units": "5",
+      "prerequisites_raw": "PSY 105",
+      "prerequisites_courses": [
+        "PSY 105"
+      ]
+    },
+    {
+      "code": "PSY 197A",
+      "title": "Honors Research in Psychological & Brain Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 197B",
+      "title": "Honors Research in Psychological & Brain Sciences",
+      "units": "4",
+      "prerequisites_raw": "PSY 197A",
+      "prerequisites_courses": [
+        "PSY 197A"
+      ]
+    },
+    {
+      "code": "PSY 197C",
+      "title": "Honors Research in Psychological & Brain Sciences",
+      "units": "4",
+      "prerequisites_raw": "PSY 197B",
+      "prerequisites_courses": [
+        "PSY 197B"
+      ]
+    },
+    {
+      "code": "PSY 199",
+      "title": "Independent Research in Psychological & Brain Sciences",
+      "units": "0",
+      "prerequisites_raw": "PSY 199P or PSY 99P",
+      "prerequisites_courses": [
+        "PSY 99P",
+        "PSY 199P"
+      ]
+    },
+    {
+      "code": "PSY 199P",
+      "title": "Independent Research in Psychological & Brain Sciences",
+      "units": "0",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSY 99P",
+      "title": "Independent Research in Psychological & Brain Sciences",
+      "units": "0",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "RG ST 156BE",
+      "title": "Bio-Medical Ethics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    }
+  ]
+}

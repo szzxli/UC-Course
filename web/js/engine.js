@@ -121,6 +121,20 @@
       "cat": "CAT", "hum": "HUM", "mmw": "MMW",
       "bild": "BILD", "bibc": "BIBC", "bicd": "BICD", "bieb": "BIEB", "bimm": "BIMM",
       "mcwp": "MCWP", "wcwp": "WCWP", "syn": "SYN", "doc": "DOC"
+    },
+    UCSB: {
+      /* UCSB 旧码与单词系名：目录原文常见 "CS 8"（旧计算机科学码）、"Engineering 3"；
+         ENGR 3 与 CMPSC 8、ECE 3 均为入门编程课，作 or 备选语义一致；
+         裸 ENGR 码（ENGR 154/154A 等）须映射，否则跨段继承上段系名造幻影码；
+         空格系码（ENV S / RG ST / CH E 等）须映射，否则 CNF 存盘串重解析时
+         裸数字继承上段系名造幻影码（生物批实测：ENV S 15A → EEMB 15A）；
+         W 变体单 token（CMPSCW）可映射；空格 W 码（ENGR W 3）解析器无法区分于 ENGR 3，
+         故 CMPSC 9 系 OVERWRITE 中弃 ENGR W 3、留 CMPSCW 8（可表示性原则） */
+      "cs": "CMPSC", "engineering": "ENGR", "engr": "ENGR",
+      "env s": "ENV S", "rg st": "RG ST", "tmp": "TMP", "matrl": "MATRL",
+      "me": "ME", "ch e": "CH E", "cncsp": "CNCSP", "globl": "GLOBL",
+      "art": "ART", "mus": "MUS", "thtr": "THTR", "dance": "DANCE",
+      "cmpscw": "CMPSCW"
     }
   };
 
@@ -136,9 +150,32 @@
     var first = parts[0];
     var m = first.match(/^(\d+)([A-Z]*)$/);
     if (!m) return [pfx + tok];
+    /* 连字符并列课（非区间）：1A-1AL = 1A 与 1AL 两门（讲授 + 实验），
+       不是 1A..1L 的区间展开（UCSB 目录常见写法，如 MCDB 1A-1AL） */
+    if (parts.length === 2) {
+      var mLast = parts[1].match(/^(\d+)([A-Z]+)$/);
+      if (mLast && mLast[1] === m[1] && mLast[2].indexOf(m[2]) === 0 && mLast[2] !== m[2])
+        return [pfx + first, pfx + parts[1]];
+    }
     var last = parts[parts.length - 1];
     if (last === "Z" || last === "ZZ") return [{ wildcard: pfx + m[1] }];
-    /* 以后缀末位字母为变量展开：2A-B → 2A,2B；34LA-LB → 34LA,34LB；1A-B-C → 1A,1B,1C */
+    /* 以后缀末位字母为变量展开：2A-B → 2A,2B；34LA-LB → 34LA,34LB；1A-B-C → 1A,1B,1C。
+       荣誉变体区间共用尾缀时变倒数第二位：3AH-BH → 3AH,3BH（末位 H 不变，变 A→B） */
+    var s1 = m[2], m2 = last.match(/^(\d*)([A-Z]*)$/);
+    if (m2 && m2[1] === "" && s1.length >= 2) {
+      var s2 = m2[2], k = 0;
+      while (k < s1.length && k < s2.length && s1[s1.length - 1 - k] === s2[s2.length - 1 - k]) k++;
+      if (k > 0 && s1.length - k - 1 >= 0 && s2.length - k - 1 >= 0) {
+        var preH = m[1] + s1.slice(0, s1.length - k - 1);
+        var common = s1.slice(s1.length - k);
+        var aH = s1[s1.length - k - 1].charCodeAt(0), bH = s2[s2.length - k - 1].charCodeAt(0);
+        if (!isNaN(aH) && !isNaN(bH) && bH >= aH) {
+          var outH = [];
+          for (var ch = aH; ch <= bH; ch++) outH.push(pfx + preH + String.fromCharCode(ch) + common);
+          return outH;
+        }
+      }
+    }
     var pre = m[1] + m[2].slice(0, -1);
     var a = m[2].slice(-1).charCodeAt(0), b = last.slice(-1).charCodeAt(0);
     if (!m[2] || isNaN(a) || isNaN(b) || b < a) return [pfx + tok];
@@ -483,7 +520,9 @@
         var remaining = need - haveInPool.length;
         var picked = [];
         if (remaining > 0) {
-          var cands = pool.filter(function (c) { return !have.has(c) && !occupied.has(c); });
+          /* 快照记 0 学分的课为变学分（192/196/199 系列研究课），学分未知且常有资格/上限，
+             自动选课不选，只计已修；与 UCSB-ES b-1 分支的 0 学分跳过口径一致 */
+          var cands = pool.filter(function (c) { return !have.has(c) && !occupied.has(c) && units(c) > 0; });
           cands.sort(function (a, b) { return units(a) - units(b); });
           picked = cands.slice(0, remaining);
         }
@@ -491,6 +530,14 @@
       }
       others.forEach(function (req) {
         var n = req.count;
+        /* 无课单开放池且 count 缺失时，以 note 的最低学分折算通用块（4 学分/块）：
+           UCSB CS science-list-a/b（8/12 学分）、心理 area-b（8 学分）、数学高年级选修（12 学分）；
+           有 count 的既有专业不受影响；非 4 倍数学分多计部分出警告 */
+        var minUnits = 0;
+        if ((!n || n <= 0) && !(req.courses || []).length) {
+          var mm = (req.note || "").match(/minimum (\d+) units?/i);
+          if (mm) { minUnits = +mm[1]; n = Math.ceil(minUnits / 4); }
+        }
         if (!n || n <= 0) return;
         var pool = (req.courses || []).map(normCode);
         if (!pool.length) {
@@ -499,6 +546,8 @@
           for (var i = 1; i <= n; i++) blocks.push(label + " " + i);
           choice[req.id] = blocks.slice();
           blocks.forEach(function (b) { electiveBlocks.push({ code: b, units: 4, why: req.name_zh || req.name }); });
+          if (minUnits && n * 4 > minUnits)
+            warnings.push(req.id + "：最低 " + minUnits + " 学分按 4 学分通用块计入 " + n + " 块（多计 " + (n * 4 - minUnits) + " 学分），请以官方要求为准");
           return;
         }
         var res = pickFromPool(req, n);
@@ -508,7 +557,7 @@
         res.picked.forEach(function (c) { if (all.indexOf(c) < 0) all.push(c); });
         choice[req.id] = all;
         res.picked.forEach(function (c) { markOccupied(c, req.id); });
-        if (req.note && /distinct|different groups|only one of|-tagged/i.test(req.note))
+        if (req.note && /distinct|different groups|only one of|-tagged|at least \d+ courses must be/i.test(req.note))
           warnings.push(req.id + "：方向分布要求未建模，已按学分最低选 " + n + " 门，请自行核对方向分布");
         var minM = (req.note || "").match(/minimum (\d+) units?/i);
         if (minM) {

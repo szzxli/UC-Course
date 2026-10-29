@@ -311,7 +311,7 @@
     "goEngine": "Smart Scheduler →"
   },
   "engine": {
-    "pilotNote": "Pilot: UCSB Environmental Studies (B.S.), 6 UCSD majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics) and UCI Computer Science, Electrical Engineering, Psychology, Economics, Mathematics. Summer terms, UC Online and community college courses are not in this version.",
+    "pilotNote": "Pilot: UCSB Environmental Studies (B.S.) and 6 majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics), 6 UCSD majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics) and UCI Computer Science, Electrical Engineering, Psychology, Economics, Mathematics. Summer terms, UC Online and community college courses are not in this version.",
     "yearsLabel": "Years to graduate",
     "capLabel": "Max units per term",
     "startLabel": "Starting term",
@@ -385,7 +385,7 @@
   "pick": {
     "title": "Smart course picker",
     "sub": "What to take next term: key prerequisites first, shortest-path order, with equivalents and alternative paths.",
-    "pilotNote": "Pilot scope: UCSB Environmental Studies (B.S.), 7 UCSD majors and 6 UCI majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). The following is a demo.",
+    "pilotNote": "Pilot scope: UCSB Environmental Studies (B.S.) and 6 majors, 7 UCSD majors and 6 UCI majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). The following is a demo.",
     "demoNote": "Example: your completed courses are not used here; this only demonstrates the recommendation logic.",
     "capLabel": "Next-term unit cap",
     "haveNote": "Computed from your {n} completed courses; {p} more are already on your course list and are not recommended again.",
