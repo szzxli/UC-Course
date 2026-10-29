@@ -1,0 +1,322 @@
+{
+  "campus": "UCSD",
+  "title": "Thurgood Marshall College General Education",
+  "title_zh": "Marshall 学院通识",
+  "degree": "",
+  "school": "Thurgood Marshall College",
+  "source_url": "https://marshall.ucsd.edu/academics/general-education-requirements.html",
+  "sources": [
+    {
+      "label": "Marshall GE requirements",
+      "url": "https://marshall.ucsd.edu/academics/general-education-requirements.html"
+    },
+    {
+      "label": "First-year GE",
+      "url": "https://marshall.ucsd.edu/academics/first-year-ge.html"
+    },
+    {
+      "label": "UCSD catalog: Marshall",
+      "url": "https://catalog.ucsd.edu/undergraduate/colleges/thurgood-marshall-college/index.html"
+    }
+  ],
+  "source_note": "Marshall 学院官网 GE 页 + 一年级 GE 页（2026-10-28 核对）；学科广度可选系随专业而定，只写规则。",
+  "checked": "2026-10-28",
+  "sections": [
+    {
+      "id": "doc",
+      "title": "Dimensions of Culture",
+      "title_zh": "文化维度核心序列",
+      "requirements": [
+        {
+          "id": "doc",
+          "name": "Dimensions of Culture",
+          "name_zh": "文化维度",
+          "count": 3,
+          "courses": [
+            "DOC 1",
+            "DOC 2",
+            "DOC 3"
+          ],
+          "note": "Three-course sequence DOC 1 (4 units, fall only), DOC 2 (6 units, winter only), DOC 3 (6 units, spring only). Must be taken at UCSD, letter grade only. ELWR must be satisfied before DOC 2/3.",
+          "note_zh": "DOC 1（4 学分，仅秋）+ DOC 2（6 学分，仅冬）+ DOC 3（6 学分，仅春），须在 UCSD 修、只接受 letter grade；修 DOC 2/3 前须先满足 UC 入学写作要求。"
+        }
+      ],
+      "note": "DOC 1/2/3, at UCSD only, letter grade only.",
+      "note_zh": "DOC 1/2/3，须在 UCSD 修、只接受 letter grade。"
+    },
+    {
+      "id": "natsci",
+      "title": "Natural Sciences",
+      "title_zh": "自然科学",
+      "requirements": [
+        {
+          "id": "natsci",
+          "name": "Natural Sciences",
+          "name_zh": "自然科学",
+          "count": 3,
+          "courses": [
+            "ANTH 2",
+            "COGS 17",
+            "BILD 1",
+            "BILD 2",
+            "BILD 3",
+            "BILD 7",
+            "BILD 10",
+            "BILD 12",
+            "BILD 18",
+            "BILD 20",
+            "BILD 22",
+            "BILD 26",
+            "BILD 28",
+            "BILD 30",
+            "BILD 32",
+            "BILD 36",
+            "BILD 38",
+            "BILD 42",
+            "BILD 46",
+            "BILD 61",
+            "CHEM 4",
+            "CHEM 6A",
+            "CHEM 6B",
+            "CHEM 6C",
+            "CHEM 6AH",
+            "CHEM 6BH",
+            "CHEM 6CH",
+            "CHEM 11",
+            "CHEM 12",
+            "CHEM 13",
+            "ASTR 1",
+            "ASTR 2",
+            "ASTR 3",
+            "ASTR 4",
+            "ESYS 10",
+            "PHYS 1A",
+            "PHYS 1B",
+            "PHYS 1C",
+            "PHYS 2A",
+            "PHYS 2B",
+            "PHYS 2C",
+            "PHYS 4A",
+            "PHYS 4B",
+            "PHYS 4C",
+            "PHYS 8",
+            "PHYS 10",
+            "PHYS 11",
+            "PHYS 12",
+            "SIO 1",
+            "SIO 10",
+            "SIO 12",
+            "SIO 15",
+            "SIO 16",
+            "SIO 20",
+            "SIO 20R",
+            "SIO 30",
+            "SIO 35",
+            "SIO 40",
+            "SIO 45",
+            "SIO 50"
+          ],
+          "note": "3 courses: one Biology + one Chemistry + one Physics, from the approved lists. Courses available for science and nonscience majors; overlap with major sciences encouraged.",
+          "note_zh": "自然科学 3 门：生物、化学、物理各 1 门（批准清单内）；建议选可与专业科学课重叠的课。"
+        }
+      ],
+      "note": "1 Biology + 1 Chemistry + 1 Physics.",
+      "note_zh": "生物、化学、物理各 1 门。"
+    },
+    {
+      "id": "math",
+      "title": "Mathematics, Statistics, and Logic",
+      "title_zh": "数学、统计与逻辑",
+      "requirements": [
+        {
+          "id": "math",
+          "name": "Mathematics, Statistics, and Logic",
+          "name_zh": "数学、统计与逻辑",
+          "count": 2,
+          "courses": [
+            "BIEB 100",
+            "MATH 3C",
+            "MATH 4C",
+            "MATH 10A",
+            "MATH 10B",
+            "MATH 10C",
+            "MATH 11",
+            "MATH 20A",
+            "MATH 20B",
+            "MATH 20C",
+            "MATH 180A",
+            "MATH 181A",
+            "COGS 14A",
+            "HDS 60",
+            "POLI 30",
+            "POLI 30D",
+            "PSYC 60",
+            "SOCI 60",
+            "BILD 62",
+            "COGS 18",
+            "CSE 5",
+            "CSE 5R",
+            "CSE 6R",
+            "CSE 8A",
+            "CSE 11",
+            "CSS 1",
+            "LIGN 17",
+            "MAE 5",
+            "PHIL 10",
+            "PHIL 12"
+          ],
+          "note": "2 courses, three options: (A) two Mathematics/Advanced Statistics; (B) one Mathematics/Advanced Statistics + one Introductory Statistics or Computer Programming & Logic; (C) one Introductory Statistics + one Computer Programming & Logic.",
+          "note_zh": "2 门，三种组合：(A) 数学/高阶统计 2 门；(B) 数学/高阶统计 1 门 + 入门统计或编程与逻辑 1 门；(C) 入门统计 1 门 + 编程与逻辑 1 门。"
+        }
+      ],
+      "note": "2 courses, three combination options.",
+      "note_zh": "2 门，三种组合方式。"
+    },
+    {
+      "id": "humanities",
+      "title": "Humanities and Cultural Studies",
+      "title_zh": "人文与文化研究",
+      "requirements": [
+        {
+          "id": "humanities",
+          "name": "Humanities and Cultural Studies",
+          "name_zh": "人文与文化研究",
+          "count": 2,
+          "courses": [
+            "AAS 10",
+            "AAS 10R",
+            "AAS 11",
+            "AAS 11R",
+            "AAS 14",
+            "AAS 15",
+            "ETHN 1",
+            "ETHN 1R",
+            "ETHN 2",
+            "ETHN 2R",
+            "ETHN 3",
+            "ETHN 3R",
+            "ETHN 20",
+            "ETHN 20R",
+            "ETHN 30",
+            "HILD 7A",
+            "HILD 7B",
+            "HILD 7C",
+            "HILD 10",
+            "HILD 11",
+            "HILD 12",
+            "HILD 14",
+            "LATI 10",
+            "LATI 50",
+            "LTEN 27",
+            "LTEN 28",
+            "LTEN 29",
+            "LTEN 31",
+            "RELI 2",
+            "GSS 20",
+            "GSS 21",
+            "GSS 22",
+            "GSS 23",
+            "GSS 24",
+            "GSS 25",
+            "GSS 26",
+            "GSS 27"
+          ],
+          "note": "2 courses from the approved list in domestic and global cultures.",
+          "note_zh": "人文与文化研究 2 门（批准清单：本土与全球文化方向）。"
+        }
+      ],
+      "note": "2 courses in domestic and global cultures.",
+      "note_zh": "本土与全球文化方向 2 门。"
+    },
+    {
+      "id": "arts",
+      "title": "Fine Arts",
+      "title_zh": "美术",
+      "requirements": [
+        {
+          "id": "arts",
+          "name": "Fine Arts",
+          "name_zh": "美术",
+          "count": 1,
+          "courses": [
+            "MUS 4",
+            "MUS 5",
+            "MUS 6",
+            "MUS 7",
+            "MUS 8",
+            "MUS 9",
+            "MUS 10",
+            "MUS 11",
+            "MUS 12",
+            "MUS 13",
+            "MUS 14",
+            "MUS 15",
+            "MUS 16",
+            "MUS 17",
+            "MUS 18",
+            "MUS 19",
+            "MUS 20",
+            "MUS 80",
+            "TDGE 1",
+            "TDGE 5",
+            "TDGE 10",
+            "TDGE 11",
+            "TDGE 12",
+            "TDHT 21",
+            "TDHT 22",
+            "TDHT 23",
+            "VIS 1",
+            "VIS 2",
+            "VIS 3",
+            "VIS 20",
+            "VIS 21A",
+            "VIS 21B",
+            "VIS 21C",
+            "VIS 22",
+            "VIS 84"
+          ],
+          "note": "1 course from Music, Theatre & Dance, or Visual Arts. MUS 80 must be taken for 4 units to count.",
+          "note_zh": "美术 1 门（音乐/戏剧舞蹈/视觉艺术）；MUS 80 须修满 4 学分才计入。"
+        }
+      ],
+      "note": "1 course in Music, Theatre & Dance, or Visual Arts.",
+      "note_zh": "音乐/戏剧舞蹈/视觉艺术 1 门。"
+    },
+    {
+      "id": "breadth",
+      "title": "Disciplinary Breadth",
+      "title_zh": "学科广度",
+      "requirements": [
+        {
+          "id": "breadth",
+          "name": "Disciplinary Breadth",
+          "name_zh": "学科广度",
+          "count": 4,
+          "courses": [],
+          "note": "4 four-unit courses outside the major field of study; two must be upper division; at least one upper-division course must include significant writing (from the college Significant Writing list). Eligible departments depend on the major (see the college page major selector). The four-unit public service option may fulfill one breadth course and the upper-division writing requirement. Breadth courses cannot overlap major courses.",
+          "note_zh": "学科广度 4 门（4 学分）：须在专业领域之外，其中 2 门高年级，至少 1 门高年级须含 significant writing（学院 Significant Writing 清单内）；可选系随专业而定（见学院页按专业查询）；4 学分公共服务课可抵 1 门广度并满足高年级写作要求；广度课不得与专业课重叠。"
+        }
+      ],
+      "note": "4 courses outside the major; 2 upper division, 1 with writing.",
+      "note_zh": "专业领域外 4 门，2 门高年级、1 门高年级含写作。"
+    },
+    {
+      "id": "transfer",
+      "title": "Transfer Students",
+      "title_zh": "转学生衔接",
+      "requirements": [
+        {
+          "id": "transfer",
+          "name": "Upper-division writing + breadth",
+          "name_zh": "转学生高年级写作与广度",
+          "count": null,
+          "courses": [],
+          "note": "Transfer students (all): one four-unit upper-division college-approved writing course + one four-unit upper-division disciplinary breadth course noncontiguous to the major. IGETC/UC Reciprocity transfers: same two courses (no further lower-division coursework). Without an articulation agreement, see an academic advisor.",
+          "note_zh": "转学生：一门 4 学分高年级学院批准写作课 + 一门 4 学分高年级学科广度课（须与专业不相关）；IGETC/UC Reciprocity 转学生同此两门，不再补低年级课；无衔接协议者见学术顾问。"
+        }
+      ],
+      "note": "Transfers: 1 upper-division writing + 1 upper-division breadth.",
+      "note_zh": "转学生：高年级写作 1 门 + 高年级广度 1 门。"
+    }
+  ]
+}

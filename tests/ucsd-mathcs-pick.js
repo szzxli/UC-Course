@@ -50,8 +50,8 @@ function recCodes(have) {
 }
 assert.deepStrictEqual(
   recCodes([]).sort(),
-  ["CSE 11", "MATH 20A", "MATH 31AH"].sort(),
-  "empty have recommends the 3 entry points"
+  ["CSE 11", "MATH 31AH"].sort(),
+  "empty have recommends the 2 entry points (MATH 20A now requires MATH 4C or MATH 10A per MATH catalog page, no longer an empty-have entry)"
 );
 const ldDone = ["MATH 18", "MATH 20A", "MATH 20B", "MATH 20C", "MATH 20D", "MATH 20E",
   "CSE 11", "CSE 15L", "CSE 12"];

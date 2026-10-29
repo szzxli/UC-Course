@@ -298,7 +298,9 @@
     "clearForeign": "Remove other-campus courses"
   },
   "ge": {
-    "noData": "GE data for this campus is not available yet (UCSB only for now)",
+    "noData": "GE data for this campus is not in the system yet (available: UCSB, UCI, and UCSD's seven colleges)",
+    "ucsdCollegeLabel": "College",
+    "ucsdSharedNote": "University-wide requirements (shared by all seven colleges, not counted in college GE): Entry Level Writing (ELWR), American History and Institutions (AHI), Diversity, Equity, and Inclusion (DEI, 1 course), Jane Teranes Climate Change Education (JTCCER, 1 course).",
     "goHome": "Go to Home",
     "pickCount": "Pick {n}",
     "openPool": "Pick {n} from Senate-approved courses in this area (check GOLD designation)",
@@ -309,7 +311,7 @@
     "goEngine": "Smart Scheduler →"
   },
   "engine": {
-    "pilotNote": "Pilot: UCSB Environmental Studies (B.S.) and UCI Computer Science, Electrical Engineering, Psychology, Economics, Mathematics. Summer terms, UC Online and community college courses are not in this version.",
+    "pilotNote": "Pilot: UCSB Environmental Studies (B.S.), 6 UCSD majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics) and UCI Computer Science, Electrical Engineering, Psychology, Economics, Mathematics. Summer terms, UC Online and community college courses are not in this version.",
     "yearsLabel": "Years to graduate",
     "capLabel": "Max units per term",
     "startLabel": "Starting term",
@@ -383,7 +385,7 @@
   "pick": {
     "title": "Smart course picker",
     "sub": "What to take next term: key prerequisites first, shortest-path order, with equivalents and alternative paths.",
-    "pilotNote": "Pilot scope: UCSB Environmental Studies (B.S.), UCSD Mathematics-Computer Science (B.S.) and 6 UCI majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). The following is a demo.",
+    "pilotNote": "Pilot scope: UCSB Environmental Studies (B.S.), 7 UCSD majors and 6 UCI majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). The following is a demo.",
     "demoNote": "Example: your completed courses are not used here; this only demonstrates the recommendation logic.",
     "capLabel": "Next-term unit cap",
     "haveNote": "Computed from your {n} completed courses; {p} more are already on your course list and are not recommended again.",
@@ -408,7 +410,8 @@
     "emptyBlocked": "No required courses are blocked by prerequisites.",
     "honesty": "Prerequisites are parsed from the catalog's original and/or wording; when the original text is empty, the snapshot's flat list is treated as either/or. Satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed graduation eligibility — recheck GOLD / the department site before enrolling. Popular-course data (enrollment, waitlists) has no source yet, so no popularity is shown here.",
     "pilotNoteUcsd": "Pilot scope: UCSD Mathematics-Computer Science (B.S.) — personal recommendations for this major below.",
-    "ucsdElectiveNote": "Elective pools (applied math, computational, and general, 8 units each) are not auto-recommended yet — pick them on the requirements page."
+    "ucsdElectiveNote": "Elective pools (applied math, computational, and general, 8 units each) are not auto-recommended yet — pick them on the requirements page.",
+    "ucsdElectiveNoteGeneric": "Some elective pools (no fixed course list) are not auto-recommended yet — pick them on the requirements page."
   },
   "req": {
     "segMajor": "Major requirements",

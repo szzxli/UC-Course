@@ -1,0 +1,122 @@
+{
+  "campus": "UCSD",
+  "title": "Earl Warren College General Education",
+  "title_zh": "Warren 学院通识",
+  "degree": "",
+  "school": "Earl Warren College",
+  "source_url": "https://warren.ucsd.edu/academics/general-education/index.html",
+  "sources": [
+    {
+      "label": "UCSD catalog: Warren",
+      "url": "https://catalog.ucsd.edu/undergraduate/colleges/earl-warren-college/index.html"
+    },
+    {
+      "label": "Warren Area Studies",
+      "url": "https://warren.ucsd.edu/academics/general-education/area-studies.html"
+    }
+  ],
+  "source_note": "UCSD catalog Warren 章 + 学院 Area Studies 页（2026-10-28 核对）；形式技能现行清单未在官网单页核实，只写类别 + 规则，不录旧版清单。",
+  "checked": "2026-10-28",
+  "sections": [
+    {
+      "id": "writing",
+      "title": "Writing",
+      "title_zh": "写作",
+      "requirements": [
+        {
+          "id": "wcwp",
+          "name": "Warren College Writing Program",
+          "name_zh": "Warren 写作",
+          "count": 2,
+          "courses": [
+            "WCWP 10A",
+            "WCWP 10B"
+          ],
+          "note": "WCWP 10A + 10B, letter grade, at UCSD, after ELWR. May not overlap any other GE or major requirement.",
+          "note_zh": "WCWP 10A + 10B，须 letter grade、在 UCSD 修，修前须满足 UC 入学写作要求；不得与其他 GE 或专业要求重叠。"
+        },
+        {
+          "id": "wcwp-transfer",
+          "name": "Writing for transfer students",
+          "name_zh": "转学生写作",
+          "count": 1,
+          "courses": [
+            "WCWP 100"
+          ],
+          "note": "Transfer students with TAG, IGETC, or a reciprocity agreement take WCWP 100 only (restricted to students with 90+ units). Transfers without TAG/IGETC may need WCWP 10A + 100 depending on prior writing coursework.",
+          "note_zh": "TAG/IGETC/互认转学生只修 WCWP 100（限 90 学分以上学生）；无 TAG/IGETC 者按已有写作课情况可能须修 WCWP 10A + 100。"
+        }
+      ],
+      "note": "WCWP 10A/10B (transfers: WCWP 100), letter grade.",
+      "note_zh": "WCWP 10A/10B（转学生 WCWP 100），须 letter grade。"
+    },
+    {
+      "id": "ethics",
+      "title": "Ethics and Society",
+      "title_zh": "伦理与社会",
+      "requirements": [
+        {
+          "id": "ethics",
+          "name": "Ethics and Society",
+          "name_zh": "伦理与社会",
+          "count": 2,
+          "courses": [
+            "PHIL 27",
+            "POLI 27",
+            "PHIL 28",
+            "POLI 28"
+          ],
+          "note": "PHIL 27 or POLI 27, plus PHIL 28 or POLI 28, letter grade, at UCSD, after WCWP 10A/10B. May not overlap any other GE or major requirement.",
+          "note_zh": "PHIL 27 或 POLI 27 一门 + PHIL 28 或 POLI 28 一门，须 letter grade、在 UCSD 修，须在 WCWP 10A/10B 之后；不得与其他 GE 或专业要求重叠。"
+        }
+      ],
+      "note": "PHIL/POLI 27 + 28, after WCWP, letter grade.",
+      "note_zh": "PHIL/POLI 27 + 28，须在 WCWP 之后、letter grade。"
+    },
+    {
+      "id": "formal",
+      "title": "Formal Skills",
+      "title_zh": "形式技能",
+      "requirements": [
+        {
+          "id": "formal",
+          "name": "Formal Skills",
+          "name_zh": "形式技能",
+          "count": 2,
+          "courses": [],
+          "note": "2 courses from the college-approved list in calculus, symbolic logic, computer programming, and/or statistics. May overlap lower-division major, minor, or Programs of Concentration courses. Current course list is published by the college; no stale handbook list is recorded here.",
+          "note_zh": "形式技能 2 门（学院批准清单：微积分、符号逻辑、编程、统计方向）；可与低年级专业/辅修/专攻课重叠；现行清单以学院公布为准，此处不录旧版手册清单。"
+        }
+      ],
+      "note": "2 courses from the college-approved list (calculus/logic/programming/statistics).",
+      "note_zh": "学院批准清单 2 门（微积分/逻辑/编程/统计方向）。"
+    },
+    {
+      "id": "concentration",
+      "title": "Programs of Concentration / Area Studies",
+      "title_zh": "专攻 / 区域研究（二选一）",
+      "requirements": [
+        {
+          "id": "poc",
+          "name": "Programs of Concentration (non-engineering)",
+          "name_zh": "专攻",
+          "count": 12,
+          "courses": [],
+          "note": "For BA/BS in arts/sciences: two Programs of Concentration, each six courses, each noncontiguous to the major and to each other. At least two courses in each program must be taken at UCSD. A noncontiguous minor may substitute for a program of concentration.",
+          "note_zh": "两个专攻方向，各 6 门，均须与专业及彼此不相关；每个专攻至少 2 门须在 UCSD 修；不相关辅修可代替一个专攻。"
+        },
+        {
+          "id": "area",
+          "name": "Area Studies (BS engineering only)",
+          "name_zh": "区域研究",
+          "count": 6,
+          "courses": [],
+          "note": "For BS in engineering only: two Area Studies, one in humanities/fine arts and one in social sciences, each three courses (at least two upper division), noncontiguous to the major and to each other. The major plus the two Area Studies must cover all three disciplines (humanities/fine arts; math/natural sciences/engineering; social sciences). No more than two language courses per Area Study; MGT courses may not be used; language courses may not be used for a Social Sciences Area Study.",
+          "note_zh": "两个区域研究：人文/美术方向一个 + 社会科学方向一个，各 3 门（至少 2 门高年级），均须与专业及彼此不相关；专业 + 两个区域研究须覆盖全部三个学科领域（人文/美术；数学/自然科学/工程；社会科学）。每个区域研究最多 2 门语言课；MGT 课不得用；社会科学区域研究不得用语言课。"
+        }
+      ],
+      "note": "Either: non-engineering concentrations (12) or engineering Area Studies (6).",
+      "note_zh": "二选一：非工程专攻 12 门，工程 BS 区域研究 6 门。"
+    }
+  ]
+}

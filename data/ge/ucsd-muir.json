@@ -1,0 +1,108 @@
+{
+  "campus": "UCSD",
+  "title": "John Muir College General Education",
+  "title_zh": "Muir 学院通识",
+  "degree": "",
+  "school": "John Muir College",
+  "source_url": "https://muir.ucsd.edu/academics/degree_reqs.html",
+  "sources": [
+    {
+      "label": "Muir degree requirements",
+      "url": "https://muir.ucsd.edu/academics/degree_reqs.html"
+    },
+    {
+      "label": "UCSD catalog: Muir",
+      "url": "https://catalog.ucsd.edu/undergraduate/colleges/john-muir-college/index.html"
+    }
+  ],
+  "source_note": "Muir 学院官网学位要求页 + UCSD catalog（2026-10-28 核对）；批准序列按学期公布，只写规则 + 链接。",
+  "checked": "2026-10-28",
+  "sections": [
+    {
+      "id": "writing",
+      "title": "Writing",
+      "title_zh": "写作",
+      "requirements": [
+        {
+          "id": "mcwp",
+          "name": "Muir College Writing Program",
+          "name_zh": "Muir 写作",
+          "count": 2,
+          "courses": [
+            "MCWP 40",
+            "MCWP 50"
+          ],
+          "note": "MCWP 40 + MCWP 50, letter grade, within the first two years. MCWP 41 (if assigned) does not satisfy the first part.",
+          "note_zh": "MCWP 40 + MCWP 50，须 letter grade，两年内完成；如被要求先修 MCWP 41，该课不算第一部分。"
+        },
+        {
+          "id": "mcwp-transfer",
+          "name": "Writing for transfer students",
+          "name_zh": "转学生写作",
+          "count": 1,
+          "courses": [
+            "MCWP 125"
+          ],
+          "note": "CalGETC/UC IGETC-certified transfer students take MCWP 125 instead of MCWP 40/50. Letter grade.",
+          "note_zh": "CalGETC/UC IGETC 认证转学生修 MCWP 125 代替 MCWP 40/50，须 letter grade。"
+        }
+      ],
+      "note": "MCWP 40 + 50 (transfers: MCWP 125), letter grade.",
+      "note_zh": "MCWP 40 + 50（转学生 MCWP 125），须 letter grade。"
+    },
+    {
+      "id": "sequences",
+      "title": "General Education Sequences",
+      "title_zh": "通识序列",
+      "requirements": [
+        {
+          "id": "seq-i",
+          "name": "Category I: Social Sciences",
+          "name_zh": "第一类：社会科学",
+          "count": 3,
+          "courses": [],
+          "note": "One three-course sequence (three courses in the same department) in Social Sciences, chosen from the college-approved sequences published each quarter.",
+          "note_zh": "社会科学方向 3 门序列（同一系 3 门），按学院每学期公布的批准序列选。"
+        },
+        {
+          "id": "seq-ii",
+          "name": "Category II: Mathematics or Natural Sciences",
+          "name_zh": "第二类：数学或自然科学",
+          "count": 3,
+          "courses": [],
+          "note": "One three-course sequence in Mathematics (calculus) or Natural Sciences, chosen from the college-approved sequences published each quarter.",
+          "note_zh": "数学（微积分）或自然科学方向 3 门序列，按学院每学期公布的批准序列选。"
+        },
+        {
+          "id": "seq-iii",
+          "name": "Category III: two sequences",
+          "name_zh": "第三类：另两个序列",
+          "count": 6,
+          "courses": [],
+          "note": "Two three-course sequences chosen from two of: Fine Arts, Humanities, Foreign Languages, from the college-approved sequences published each quarter.",
+          "note_zh": "另两个 3 门序列，从美术、人文、外语三区中选两个区，按学院每学期公布的批准序列选。"
+        }
+      ],
+      "note": "Four 3-course sequences, 12 courses (48 units), from quarterly approved lists.",
+      "note_zh": "4 个 3 门序列共 12 门（48 学分），按学期批准清单选。"
+    },
+    {
+      "id": "transfer",
+      "title": "Transfer Students",
+      "title_zh": "转学生衔接",
+      "requirements": [
+        {
+          "id": "transfer",
+          "name": "IGETC / reciprocity",
+          "name_zh": "IGETC / 互认",
+          "count": null,
+          "courses": [],
+          "note": "Transfer students who completed IGETC before transfer may waive the GE sequences above (MCWP 125 still required). Students with breadth requirements completed at another UC campus may submit a letter of reciprocity. Up to three major courses may overlap GE.",
+          "note_zh": "转学前完成 IGETC 者可免上述 GE 序列（仍须 MCWP 125）；在另一 UC 校区完成通识/广度要求者可交 reciprocity 信函免序列；最多 3 门专业课可与 GE 重叠。"
+        }
+      ],
+      "note": "IGETC waives sequences; up to 3 major courses may overlap.",
+      "note_zh": "IGETC 可免序列；最多 3 门专业课重叠。"
+    }
+  ]
+}

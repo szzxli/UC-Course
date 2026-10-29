@@ -73,8 +73,12 @@
 
   /* 分校系码覆盖：同一系名/缩写在各校对应不同课号前缀（如 UCI 的 PHYSICS 对 UCSB 的 PHYS、
    * UCI 的 ANTHRO 对 UCSB 的 ANTH、UCI 的 COMPSCI 对 UCSB 的 CMPSC），基础映射无法兼顾。
-   * parsePrereq(raw, campus) 传入校区时用该校覆盖替换基础映射；不传校区时保持老行为，
-   * 现有 UCSB/UCSD 目录的解析结果不受影响。 */
+   * parsePrereq(raw, campus) 传入校区时用该校覆盖替换基础映射；不传校区时保持老行为。
+   * UCSD 覆盖（2026-10-29 新增）：基础映射缺 UCSD 系码（MAE/BENG/DSGN/ENG/PSYC/SIO/SE/
+   * LIGN/HDS/ESYS/MGT/POLI/VIS/BILD/BIBC/BICD/BIEB/BIMM 等），缺失时裸数字会继承前一系名，
+   * 造出 DSC 8 / COGS 60 / MATH 187 / ECON 124 等幻影课号；补齐后 UCSD 解析结果随之纠正，
+   * UCI 与 UCSB 解析不受影响（校区参数隔离）。已验：已上线 ucsd-mathcs.json 的 34 门课
+   * 在新旧解析下均 0 偏差（其树只用基础映射系码），本次补齐不改变其运行时行为。 */
   var CAMPUS_DEPT_MAP = {
     UCI: {
       "phys": "PHYSICS", "physics": "PHYSICS",
@@ -105,6 +109,18 @@
       "japanese": "JAPANSE", "korean": "KOREAN", "arabic": "ARABIC",
       "latin": "LATIN", "greek": "GREEK", "persian": "PERSIAN",
       "vietnamese": "VIETMSE", "filipino": "FILIPNO"
+    },
+    UCSD: {
+      "mae": "MAE", "mechanical and aerospace engineering": "MAE",
+      "beng": "BENG", "bioengineering": "BENG",
+      "dsgn": "DSGN", "eng": "ENG",
+      "psyc": "PSYC", "psychology": "PSYC",
+      "sio": "SIO", "se": "SE", "lign": "LIGN", "hds": "HDS", "esys": "ESYS",
+      "mgt": "MGT", "poli": "POLI", "political science": "POLI",
+      "vis": "VIS", "mus": "MUS", "css": "CSS", "aip": "AIP",
+      "cat": "CAT", "hum": "HUM", "mmw": "MMW",
+      "bild": "BILD", "bibc": "BIBC", "bicd": "BICD", "bieb": "BIEB", "bimm": "BIMM",
+      "mcwp": "MCWP", "wcwp": "WCWP", "syn": "SYN", "doc": "DOC"
     }
   };
 
@@ -449,17 +465,17 @@
 
     /* 通用选修（UCI 等）：type elective + count 字段。UCSB-ES 的 b-1/c 无 count，
        不受影响（仍走上方专属分支）。方向组（id 以 spec- 开头，如 UCI EE 的 5 个
-       Specialization）只选一组：成本最低者，并列取文件顺序首个；组内先取 note 的
-       Requires 课、再按学分从低到高补足 count。courses 为空的开放池（如 EE 技术
-       选修）按 4 学分通用块计入，不编造课号。注：note 里的分布约束（如“至少 4 个
-       不同方向”）无结构化数据，引擎不建模，见警告。 */
+       Specialization；UCSD EE 的 8 个 depth- 组同样只选一组）只选一组：成本最低者，
+       并列取文件顺序首个；组内先取 note 的 Requires 课、再按学分从低到高补足 count。
+       courses 为空的开放池（如 EE 技术选修）按 4 学分通用块计入，不编造课号。
+       注：note 里的分布约束（如“至少 4 个不同方向”）无结构化数据，引擎不建模，见警告。 */
     var electiveBlocks = []; /* { code, units, why } 通用块，供排学期使用 */
     (function () {
       var specs = [], others = [];
       ordered.forEach(function (req) {
         if (req.type !== "elective") return;
         if (req.id === "b-1" || req.id === "c-outside-concentration") return;
-        if (req.id.indexOf("spec-") === 0) specs.push(req); else others.push(req);
+        if (req.id.indexOf("spec-") === 0 || req.id.indexOf("depth-") === 0) specs.push(req); else others.push(req);
       });
       function pickFromPool(req, need) {
         var pool = (req.courses || []).map(normCode);
@@ -492,8 +508,16 @@
         res.picked.forEach(function (c) { if (all.indexOf(c) < 0) all.push(c); });
         choice[req.id] = all;
         res.picked.forEach(function (c) { markOccupied(c, req.id); });
-        if (req.note && /distinct|different groups/i.test(req.note))
+        if (req.note && /distinct|different groups|only one of|-tagged/i.test(req.note))
           warnings.push(req.id + "：方向分布要求未建模，已按学分最低选 " + n + " 门，请自行核对方向分布");
+        var minM = (req.note || "").match(/minimum (\d+) units?/i);
+        if (minM) {
+          var pickedUnits = 0;
+          res.picked.forEach(function (c) { pickedUnits += units(c); });
+          res.haveInPool.forEach(function (c) { pickedUnits += units(c); });
+          if (pickedUnits < +minM[1])
+            warnings.push(req.id + "：最低 " + minM[1] + " 学分要求未建模，已选 " + pickedUnits + " 学分，请自行补足");
+        }
       });
       if (specs.length) {
         var best = null, bestCost = Infinity, bestPick = null, bestHave = null;

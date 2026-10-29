@@ -45,7 +45,10 @@ ok("A2 含 ENGL 10 系列", ["ENGL 10", "ENGL 10AC", "ENGL 10EM", "ENGL 10LC"].e
 
 console.log("== GE 页与导航（四页整合后：GE 为毕业要求页的一区） ==");
 const reqHtml = fs.readFileSync(path.join(WEB, "requirements.html"), "utf8");
-ok("requirements.html 读 data/ge/ + campus 小写", reqHtml.includes('fetch("data/ge/" + CAMPUS.toLowerCase() + ".json")'));
+ok("requirements.html 经 geFile() 读 data/ge/（非 UCSD 仍为 campus 小写，UCSD 为 ucsd-学院）",
+  reqHtml.includes('fetch("data/ge/" + geFile() + ".json")') &&
+  reqHtml.includes('if (CAMPUS === "UCSD") return "ucsd-" + Sget("ucsdCollege", "revelle")') &&
+  reqHtml.includes('return CAMPUS.toLowerCase();'));
 ok("requirements.html 含 4-tab 导航", (reqHtml.match(/data-page="/g) || []).length === 4);
 ok("requirements.html 含 GE 区", reqHtml.includes('id="sec-ge"'));
 for (const p of ["index.html", "courses.html", "plan.html"]) {

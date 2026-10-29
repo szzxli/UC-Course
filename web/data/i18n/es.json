@@ -298,7 +298,9 @@
     "clearForeign": "Quitar cursos de otro campus"
   },
   "ge": {
-    "noData": "Los datos de GE de este campus aún no están disponibles (solo UCSB por ahora)",
+    "noData": "Los datos de GE de este campus aún no están en el sistema (disponibles: UCSB, UCI y los siete colegios de UCSD)",
+    "ucsdCollegeLabel": "Colegio",
+    "ucsdSharedNote": "Requisitos de toda la universidad (compartidos por los siete colegios, no cuentan en la GE del colegio): redacción de nivel inicial (ELWR), historia e instituciones de EE. UU. (AHI), diversidad, equidad e inclusión (DEI, 1 curso), educación sobre el cambio climático Jane Teranes (JTCCER, 1 curso).",
     "goHome": "Ir al inicio",
     "pickCount": "Elige {n}",
     "openPool": "Elige {n} de los cursos aprobados por el Senado en esta área (ver designación en GOLD)",
@@ -309,7 +311,7 @@
     "goEngine": "Planificador inteligente →"
   },
   "engine": {
-    "pilotNote": "Piloto: Environmental Studies (B.S.) de UCSB y Computer Science, Electrical Engineering, Psychology, Economics y Mathematics de UCI. Los trimestres de verano, UC Online y los cursos de community college no están en esta versión.",
+    "pilotNote": "Piloto: Environmental Studies (B.S.) de UCSB, 6 carreras de UCSD (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics y Mathematics) y Computer Science, Electrical Engineering, Psychology, Economics y Mathematics de UCI. Los trimestres de verano, UC Online y los cursos de community college no están en esta versión.",
     "yearsLabel": "Años para graduarse",
     "capLabel": "Unidades máx. por trimestre",
     "startLabel": "Trimestre inicial",
@@ -383,7 +385,7 @@
   "pick": {
     "title": "Selector inteligente",
     "sub": "Qué cursar el próximo trimestre: prerrequisitos clave primero, orden de ruta más corta, con equivalencias y rutas alternativas.",
-    "pilotNote": "Alcance piloto: Environmental Studies (B.S.) de UCSB, Mathematics-Computer Science (B.S.) de UCSD y 6 carreras de UCI (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). Lo siguiente es una demostración.",
+    "pilotNote": "Alcance piloto: Environmental Studies (B.S.) de UCSB, 7 carreras de UCSD y 6 carreras de UCI (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). Lo siguiente es una demostración.",
     "demoNote": "Ejemplo: no se usan tus cursos completados; solo demuestra la lógica de recomendación.",
     "capLabel": "Límite de unidades del próximo trimestre",
     "haveNote": "Calculado con tus {n} cursos completados; {p} más ya están en tu lista y no se recomiendan de nuevo.",
@@ -408,7 +410,8 @@
     "emptyBlocked": "Ningún curso obligatorio está bloqueado por prerrequisitos.",
     "honesty": "Los prerrequisitos se analizan del texto original and/or del catálogo; si el texto está vacío, la lista plana se trata como alternativa. Cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado la graduación; verifica en GOLD / el sitio del departamento antes de inscribirte. No hay fuente de datos de popularidad (inscripción, listas de espera), así que no se muestra.",
     "pilotNoteUcsd": "Alcance del piloto: UCSD Mathematics-Computer Science (B.S.); abajo, recomendaciones personales para esta especialidad.",
-    "ucsdElectiveNote": "Los grupos de optativas (matemáticas aplicadas, computación y general, 8 créditos cada uno) aún no se recomiendan automáticamente; elígelos en la página de requisitos."
+    "ucsdElectiveNote": "Los grupos de optativas (matemáticas aplicadas, computación y general, 8 créditos cada uno) aún no se recomiendan automáticamente; elígelos en la página de requisitos.",
+    "ucsdElectiveNoteGeneric": "Algunos grupos de optativas (sin lista fija de cursos) aún no se recomiendan automáticamente; elígelos en la página de requisitos."
   },
   "req": {
     "segMajor": "Requisitos de la carrera",

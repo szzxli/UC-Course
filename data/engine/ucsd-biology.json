@@ -1,0 +1,856 @@
+{
+  "campus": "UCSD",
+  "major": "Biology (B.S.)",
+  "checked": "2026-10-29",
+  "n_courses": 87,
+  "courses": [
+    {
+      "code": "BENG 120",
+      "title": "Organic Chemistry Structural and Design Principles",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6A and CHEM 6B",
+      "prerequisites_courses": [
+        "CHEM 6A",
+        "CHEM 6B"
+      ]
+    },
+    {
+      "code": "BIBC 100",
+      "title": "Structural Biochemistry",
+      "units": "4",
+      "prerequisites_raw": "BENG 120 or CHEM 40A or CHEM 41A and BENG 120 or CHEM 40B or CHEM 41B",
+      "prerequisites_courses": [
+        "BENG 120",
+        "CHEM 40A",
+        "CHEM 41A",
+        "CHEM 40B",
+        "CHEM 41B"
+      ]
+    },
+    {
+      "code": "BIBC 102",
+      "title": "Metabolic Biochemistry",
+      "units": "4",
+      "prerequisites_raw": "BENG 120 or CHEM 40A or CHEM 41A and BENG 120 or CHEM 40B or CHEM 41B",
+      "prerequisites_courses": [
+        "BENG 120",
+        "CHEM 40A",
+        "CHEM 41A",
+        "CHEM 40B",
+        "CHEM 41B"
+      ]
+    },
+    {
+      "code": "BIBC 103",
+      "title": "Biochemical Techniques",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "BICD 100",
+      "title": "Genetics",
+      "units": "4",
+      "prerequisites_raw": "BILD 1 and BILD 3",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 100",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 102",
+      "title": "Introductory Ecology—Organisms and Habitat",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 121",
+      "title": "Ecology Laboratory",
+      "units": "4",
+      "prerequisites_raw": "BIEB 100 or MATH 11 or SIO 187 and BILD 3 and BILD 4",
+      "prerequisites_courses": [
+        "BIEB 100",
+        "MATH 11",
+        "SIO 187",
+        "BILD 3",
+        "BILD 4"
+      ]
+    },
+    {
+      "code": "BIEB 123",
+      "title": "Molecular Methods in Evolution and Ecology Lab",
+      "units": "4",
+      "prerequisites_raw": "BILD 1 and BILD 3 and BILD 4",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 3",
+        "BILD 4"
+      ]
+    },
+    {
+      "code": "BIEB 126",
+      "title": "Plant Ecology",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 128",
+      "title": "Insect Diversity",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 130",
+      "title": "Marine Conservation Biology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 134",
+      "title": "Introduction to Biological Oceanography",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 135",
+      "title": "Aquatic Ecology Lab",
+      "units": "4",
+      "prerequisites_raw": "BILD 3 and BILD 4",
+      "prerequisites_courses": [
+        "BILD 3",
+        "BILD 4"
+      ]
+    },
+    {
+      "code": "BIEB 136GS",
+      "title": "Tropical Field Ecology",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 137GS",
+      "title": "Sea Turtle Ecology and Conservation",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 138GS",
+      "title": "Biodiversity of the Galapagos Island and Mainland Ecuador",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "BIEB 140",
+      "title": "Biodiversity",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 141",
+      "title": "Introduction to Quantitative Modeling for Biologists’ Lab",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "BIEB 143",
+      "title": "Computer Modeling in Evolution and Ecology",
+      "units": "4",
+      "prerequisites_raw": "BIEB 100; or BIEB 150",
+      "prerequisites_courses": [
+        "BIEB 100",
+        "BIEB 150"
+      ]
+    },
+    {
+      "code": "BIEB 146",
+      "title": "Genome Diversity and Dynamics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 148",
+      "title": "Disease Ecology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 150",
+      "title": "Evolution",
+      "units": "4",
+      "prerequisites_raw": "BILD 3 and BILD 1 or BIEB 143",
+      "prerequisites_courses": [
+        "BILD 3",
+        "BILD 1",
+        "BIEB 143"
+      ]
+    },
+    {
+      "code": "BIEB 152",
+      "title": "Evolution of Infectious Diseases",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 154",
+      "title": "Evolutionary Inquiry",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 156",
+      "title": "Evolution and Society",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 158",
+      "title": "Microbiomes: The Ecology and Evolution of Microbes",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 159",
+      "title": "Microbiome Function Laboratory",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIEB 164",
+      "title": "Behavioral Ecology and Conservation",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 166",
+      "title": "Animal Behavior and Communication",
+      "units": "4",
+      "prerequisites_raw": "BILD 3 and PHYS 1A or PHYS 2A",
+      "prerequisites_courses": [
+        "BILD 3",
+        "PHYS 1A",
+        "PHYS 2A"
+      ]
+    },
+    {
+      "code": "BIEB 174",
+      "title": "Ecosystems and Global Change",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 176",
+      "title": "Biology of Conservation and the Human Predicament",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 182",
+      "title": "Biology of Global Change",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BIEB 194",
+      "title": "Advanced Topics in Modern Biology: Ecology, Behavior, Evolution",
+      "units": "2",
+      "prerequisites_raw": "BIEB 102",
+      "prerequisites_courses": [
+        "BIEB 102"
+      ]
+    },
+    {
+      "code": "BILD 1",
+      "title": "The Cell",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 2",
+      "title": "Multicellular Life",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "BILD 3",
+      "title": "Organismic and Evolutionary Biology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 4",
+      "title": "Introductory Biology Lab",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 5",
+      "title": "Data Analysis and Design for Biologists",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 70",
+      "title": "Genomics Research Initiative Lab I",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIMM 100",
+      "title": "Molecular Biology",
+      "units": "4",
+      "prerequisites_raw": "BILD 1 and BIBC 103 or BILD 4 or BILD 70 or BIMM 101 and BENG 120 or CHEM 40A or CHEM 40AH or CHEM 41A and BENG 120 or CHEM 40B or CHEM 40BH or CHEM 41B",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BIBC 103",
+        "BILD 4",
+        "BILD 70",
+        "BIMM 101",
+        "BENG 120",
+        "CHEM 40A",
+        "CHEM 40AH",
+        "CHEM 41A",
+        "CHEM 40B",
+        "CHEM 40BH",
+        "CHEM 41B"
+      ]
+    },
+    {
+      "code": "BIMM 101",
+      "title": "Recombinant DNA Techniques",
+      "units": "4",
+      "prerequisites_raw": "BILD 1 and BILD 4",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 4"
+      ]
+    },
+    {
+      "code": "BIPN 100",
+      "title": "Human Physiology I",
+      "units": "4",
+      "prerequisites_raw": "BILD 1 and BILD 2",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 2"
+      ]
+    },
+    {
+      "code": "CHEM 114A",
+      "title": "Biochemical Structure and Function",
+      "units": "4",
+      "prerequisites_raw": "CHEM 40A; or CHEM 41A",
+      "prerequisites_courses": [
+        "CHEM 40A",
+        "CHEM 41A"
+      ]
+    },
+    {
+      "code": "CHEM 114B",
+      "title": "Biochemical Energetics and Metabolism",
+      "units": "4",
+      "prerequisites_raw": "CHEM 40B or CHEM 40BH or CHEM 41B and CHEM 114A",
+      "prerequisites_courses": [
+        "CHEM 40B",
+        "CHEM 40BH",
+        "CHEM 41B",
+        "CHEM 114A"
+      ]
+    },
+    {
+      "code": "CHEM 4",
+      "title": "Chemical Thinking",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 40A",
+      "title": "Organic Chemistry for Life Sciences I",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6B; or CHEM 6BH",
+      "prerequisites_courses": [
+        "CHEM 6B",
+        "CHEM 6BH"
+      ]
+    },
+    {
+      "code": "CHEM 40AH",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 40B",
+      "title": "Organic Chemistry for Life Sciences II",
+      "units": "4",
+      "prerequisites_raw": "CHEM 40A",
+      "prerequisites_courses": [
+        "CHEM 40A"
+      ]
+    },
+    {
+      "code": "CHEM 40BH",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 41A",
+      "title": "Organic Chemistry I: Structure and Reactivity",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6B; or CHEM 6BH",
+      "prerequisites_courses": [
+        "CHEM 6B",
+        "CHEM 6BH"
+      ]
+    },
+    {
+      "code": "CHEM 41B",
+      "title": "Organic Chemistry II: Reactivity and Synthesis",
+      "units": "4",
+      "prerequisites_raw": "CHEM 41A",
+      "prerequisites_courses": [
+        "CHEM 41A"
+      ]
+    },
+    {
+      "code": "CHEM 6A",
+      "title": "General Chemistry I",
+      "units": "4",
+      "prerequisites_raw": "CHEM 4; or MATH 3C",
+      "prerequisites_courses": [
+        "CHEM 4",
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "CHEM 6AH",
+      "title": "Honors General Chemistry I",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "CHEM 6B",
+      "title": "General Chemistry II",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6A; or CHEM 6AH",
+      "prerequisites_courses": [
+        "CHEM 6A",
+        "CHEM 6AH"
+      ]
+    },
+    {
+      "code": "CHEM 6BH",
+      "title": "Honors General Chemistry II",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6AH and MATH 20A",
+      "prerequisites_courses": [
+        "CHEM 6AH",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "CHEM 6C",
+      "title": "General Chemistry III",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6B; or CHEM 6BH",
+      "prerequisites_courses": [
+        "CHEM 6B",
+        "CHEM 6BH"
+      ]
+    },
+    {
+      "code": "CHEM 7L",
+      "title": "General Chemistry Laboratory",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6B; or CHEM 6BH",
+      "prerequisites_courses": [
+        "CHEM 6B",
+        "CHEM 6BH"
+      ]
+    },
+    {
+      "code": "MATH 10A",
+      "title": "Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C; or MATH 4C",
+      "prerequisites_courses": [
+        "MATH 3C",
+        "MATH 4C"
+      ]
+    },
+    {
+      "code": "MATH 10B",
+      "title": "Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 10C",
+      "title": "Calculus III",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 11",
+      "title": "Calculus-Based Introductory Probability and Statistics",
+      "units": "5",
+      "prerequisites_raw": "MATH 10B; or MATH 20B",
+      "prerequisites_courses": [
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 18",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 20A",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "MATH 20B",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A; or MATH 10B; or MATH 10C",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+      ]
+    },
+    {
+      "code": "MATH 20C",
+      "title": "Calculus and Analytic Geometry for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 31AH",
+      "title": "Honors Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 31BH",
+      "title": "Honors Multivariable Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Foundations of Precalculus",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3C",
+      "title": "Precalculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4C",
+      "title": "Precalculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C",
+      "prerequisites_courses": [
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "PHYS 1A",
+      "title": "Mechanics",
+      "units": "3",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "PHYS 1AL",
+      "title": "Mechanics Laboratory",
+      "units": "2",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "PHYS 1B",
+      "title": "Electricity and Magnetism",
+      "units": "3",
+      "prerequisites_raw": "PHYS 1A or PHYS 2A and MATH 10B or MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 1A",
+        "PHYS 2A",
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 1BL",
+      "title": "Electricity and Magnetism Laboratory",
+      "units": "2",
+      "prerequisites_raw": "PHYS 1A or PHYS 2A and PHYS 1AL or PHYS 2BL and MATH 10B or MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 1A",
+        "PHYS 2A",
+        "PHYS 1AL",
+        "PHYS 2BL",
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 1C",
+      "title": "Waves, Optics, and Modern Physics",
+      "units": "3",
+      "prerequisites_raw": "PHYS 1B or PHYS 2B and MATH 10B or MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 1B",
+        "PHYS 2B",
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 1CL",
+      "title": "Waves, Optics, and Modern Physics Laboratory",
+      "units": "2",
+      "prerequisites_raw": "PHYS 1B or PHYS 2B and PHYS 1BL or PHYS 2CL and MATH 10B or MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 1B",
+        "PHYS 2B",
+        "PHYS 1BL",
+        "PHYS 2CL",
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "Physics—Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 10B; or MATH 20A; or MATH 20B; or MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 10B",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2B",
+      "title": "Physics—Electricity and Magnetism",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and MATH 20B or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2BL",
+      "title": "Physics Laboratory—Mechanics",
+      "units": "2",
+      "prerequisites_raw": "PHYS 2A; or PHYS 4A",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A"
+      ]
+    },
+    {
+      "code": "PHYS 2C",
+      "title": "Physics—Fluids, Waves, Thermodynamics, and Optics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2CL",
+      "title": "Physics Laboratory—Electricity and Magnetism",
+      "units": "2",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and PHYS 2B or PHYS 4C",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "PHYS 2B",
+        "PHYS 4C"
+      ]
+    },
+    {
+      "code": "PHYS 2DL",
+      "title": "Physics Laboratory—Modern Physics",
+      "units": "2",
+      "prerequisites_raw": "PHYS 2BL; or PHYS 2CL",
+      "prerequisites_courses": [
+        "PHYS 2BL",
+        "PHYS 2CL"
+      ]
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Physics Majors–Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A",
+      "prerequisites_courses": [
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Physics Majors—Fluids, Waves, Statistical and Thermal Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 4A and MATH 20A and MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 4A",
+        "MATH 20A",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 4C",
+      "title": "Physics for Physics Majors—Electricity and Magnetism",
+      "units": "4",
+      "prerequisites_raw": "PHYS 4A and PHYS 4B and MATH 20A and MATH 20B and MATH 20C and MATH 18; or PHYS 4A and PHYS 4B and MATH 20A and MATH 20B and MATH 20C and MATH 31AH; or PHYS 4A and PHYS 4B and MATH 31BH and MATH 18; or PHYS 4A and PHYS 4B and MATH 31BH and MATH 31AH; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 18; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 31AH; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 18; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 31AH",
+      "prerequisites_courses": [
+        "PHYS 4A",
+        "PHYS 4B",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 31BH",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C"
+      ]
+    },
+    {
+      "code": "SIO 187",
+      "title": "Statistical Methods in Marine Biology",
+      "units": "4",
+      "prerequisites_raw": "BILD 3",
+      "prerequisites_courses": [
+        "BILD 3"
+      ]
+    }
+  ]
+}

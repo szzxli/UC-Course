@@ -318,6 +318,12 @@ I18N.init().then(function () {
   var ENG_MAP = {
     "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
     "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json",
+    "ucsd-computer-science.json": "data/engine/ucsd-computer-science.json",
+    "ucsd-electrical-engineering.json": "data/engine/ucsd-electrical-engineering.json",
+    "ucsd-biology.json": "data/engine/ucsd-biology.json",
+    "ucsd-psychology.json": "data/engine/ucsd-psychology.json",
+    "ucsd-economics.json": "data/engine/ucsd-economics.json",
+    "ucsd-mathematics.json": "data/engine/ucsd-mathematics.json",
     "uci-computer-science.json": "data/engine/uci-computer-science.json",
     "uci-electrical-engineering.json": "data/engine/uci-electrical-engineering.json",
     "uci-biology.json": "data/engine/uci-biology.json",
@@ -354,6 +360,20 @@ I18N.init().then(function () {
   ]).then(function (rs) {
     MAJOR = rs[0];
     (rs[1].courses || []).forEach(function (c) { CATALOG[Engine.normCode(c.code)] = c; });
+    /* 空池选修提示：数计用专属文案；其余 UCSD 试点专业（EE 职业选修、生物实验与
+       专业选修、数学高年级选修）有空池时用通用文案；有课单的池由选课算法推荐 */
+    (function () {
+      var uel = document.getElementById("ucsdElectiveLine");
+      if (!uel) return;
+      if (major === "ucsd-mathematics-computer-science.json") {
+        uel.hidden = false; uel.textContent = I18N.t("pick.ucsdElectiveNote");
+      } else {
+        var hasEmptyPool = (MAJOR.requirements || []).some(function (r) {
+          return r.type === "elective" && !(r.courses || []).length && (r.count || 0) > 0;
+        });
+        if (hasEmptyPool) { uel.hidden = false; uel.textContent = I18N.t("pick.ucsdElectiveNoteGeneric"); }
+      }
+    })();
     var planned = planned0;
     RESULT = Pick.compute({ requirements: MAJOR.requirements, catalog: CATALOG, have: have, planned: planned });
     render();
@@ -417,6 +437,12 @@ I18N.init().then(function () {
   var PILOT_MAP = {
     "ucsb-environmental-science.json": "data/engine/ucsb-es.json",
     "ucsd-mathematics-computer-science.json": "data/engine/ucsd-mathcs.json",
+    "ucsd-computer-science.json": "data/engine/ucsd-computer-science.json",
+    "ucsd-electrical-engineering.json": "data/engine/ucsd-electrical-engineering.json",
+    "ucsd-biology.json": "data/engine/ucsd-biology.json",
+    "ucsd-psychology.json": "data/engine/ucsd-psychology.json",
+    "ucsd-economics.json": "data/engine/ucsd-economics.json",
+    "ucsd-mathematics.json": "data/engine/ucsd-mathematics.json",
     "uci-computer-science.json": "data/engine/uci-computer-science.json",
     "uci-electrical-engineering.json": "data/engine/uci-electrical-engineering.json",
     "uci-biology.json": "data/engine/uci-biology.json",

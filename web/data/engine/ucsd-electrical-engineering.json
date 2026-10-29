@@ -1,0 +1,1075 @@
+{
+  "campus": "UCSD",
+  "major": "Electrical Engineering (B.S.)",
+  "checked": "2026-10-29",
+  "n_courses": 104,
+  "courses": [
+    {
+      "code": "BENG 122A",
+      "title": "Biosystems and Control",
+      "units": "4",
+      "prerequisites_raw": "MAE 40; or ECE 35",
+      "prerequisites_courses": [
+        "MAE 40",
+        "ECE 35"
+      ]
+    },
+    {
+      "code": "CSE 11",
+      "title": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 12",
+      "title": "Basic Data Structures and Object-Oriented Design",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11"
+      ]
+    },
+    {
+      "code": "CSE 140",
+      "title": "Components and Design Techniques for Digital Systems",
+      "units": "4",
+      "prerequisites_raw": "CSE 30; or ECE 30",
+      "prerequisites_courses": [
+        "CSE 30",
+        "ECE 30"
+      ]
+    },
+    {
+      "code": "CSE 15L",
+      "title": "Software Tools and Techniques Laboratory",
+      "units": "2",
+      "prerequisites_raw": "CSE 8B; or CSE 11; or CSE 12; or DSC 30",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "CSE 12",
+        "DSC 30"
+      ]
+    },
+    {
+      "code": "CSE 29",
+      "title": "Systems Programming and Software Tools",
+      "units": "4",
+      "prerequisites_raw": "CSE 11; or CSE 8B; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 11",
+        "CSE 8B",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 30",
+      "title": "Computer Organization",
+      "units": "4",
+      "prerequisites_raw": "CSE 15L; or CSE 29; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 15L",
+        "CSE 29",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 8A",
+      "title": "Introduction to Programming and Computational Problem-Solving I",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 8B",
+      "title": "Introduction to Programming and Computational Problem-Solving II",
+      "units": "4",
+      "prerequisites_raw": "CSE 8A",
+      "prerequisites_courses": [
+        "CSE 8A"
+      ]
+    },
+    {
+      "code": "DSC 10",
+      "title": "Principles of Data Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "DSC 20",
+      "title": "Programming and Basic Data Structures for Data Science",
+      "units": "4",
+      "prerequisites_raw": "DSC 10",
+      "prerequisites_courses": [
+        "DSC 10"
+      ]
+    },
+    {
+      "code": "DSC 30",
+      "title": "Data Structures and Algorithms for Data Science",
+      "units": "4",
+      "prerequisites_raw": "DSC 20",
+      "prerequisites_courses": [
+        "DSC 20"
+      ]
+    },
+    {
+      "code": "ECE 100",
+      "title": "Linear Electronic Systems",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and ECE 45 and ECE 65",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "ECE 45",
+        "ECE 65"
+      ]
+    },
+    {
+      "code": "ECE 101",
+      "title": "Linear Systems Fundamentals",
+      "units": "4",
+      "prerequisites_raw": "ECE 45",
+      "prerequisites_courses": [
+        "ECE 45"
+      ]
+    },
+    {
+      "code": "ECE 102",
+      "title": "Introduction to Active Circuit Design",
+      "units": "4",
+      "prerequisites_raw": "ECE 65 and ECE 100",
+      "prerequisites_courses": [
+        "ECE 65",
+        "ECE 100"
+      ]
+    },
+    {
+      "code": "ECE 103",
+      "title": "Fundamentals of Devices and Materials",
+      "units": "4",
+      "prerequisites_raw": "ECE 65 and PHYS 2D or PHYS 4D and PHYS 4E",
+      "prerequisites_courses": [
+        "ECE 65",
+        "PHYS 2D",
+        "PHYS 4D",
+        "PHYS 4E"
+      ]
+    },
+    {
+      "code": "ECE 107",
+      "title": "Electromagnetism",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and MATH 20E and PHYS 2A and PHYS 2B and PHYS 2C and ECE 45; or MATH 20D and MATH 20E and PHYS 4A and PHYS 4B and PHYS 4C and ECE 45",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "MATH 20E",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C",
+        "ECE 45",
+        "PHYS 4A",
+        "PHYS 4B",
+        "PHYS 4C"
+      ]
+    },
+    {
+      "code": "ECE 109",
+      "title": "Engineering Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A and MATH 20B and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECE 111",
+      "title": "Advanced Digital Design Project",
+      "units": "4",
+      "prerequisites_raw": "ECE 25; or CSE 140",
+      "prerequisites_courses": [
+        "ECE 25",
+        "CSE 140"
+      ]
+    },
+    {
+      "code": "ECE 115",
+      "title": "Fast Prototyping",
+      "units": "4",
+      "prerequisites_raw": "ECE 65",
+      "prerequisites_courses": [
+        "ECE 65"
+      ]
+    },
+    {
+      "code": "ECE 116",
+      "title": "Advanced Hardware and Software Design",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B or CSE 11 or ECE 15 or MAE 8 and ECE 5 and ECE 18",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "ECE 15",
+        "MAE 8",
+        "ECE 5",
+        "ECE 18"
+      ]
+    },
+    {
+      "code": "ECE 121A",
+      "title": "Power Systems Analysis and Fundamentals",
+      "units": "4",
+      "prerequisites_raw": "ECE 35",
+      "prerequisites_courses": [
+        "ECE 35"
+      ]
+    },
+    {
+      "code": "ECE 121B",
+      "title": "Energy Conversion",
+      "units": "4",
+      "prerequisites_raw": "ECE 121A",
+      "prerequisites_courses": [
+        "ECE 121A"
+      ]
+    },
+    {
+      "code": "ECE 125A",
+      "title": "Introduction to Power Electronics I",
+      "units": "4",
+      "prerequisites_raw": "ECE 121A",
+      "prerequisites_courses": [
+        "ECE 121A"
+      ]
+    },
+    {
+      "code": "ECE 125B",
+      "title": "Introduction to Power Electronics II",
+      "units": "4",
+      "prerequisites_raw": "ECE 125A",
+      "prerequisites_courses": [
+        "ECE 125A"
+      ]
+    },
+    {
+      "code": "ECE 128A",
+      "title": "Real World Power Grid Operation",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 128B",
+      "title": "Renewable Energy and Power Grid Modernization",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 135A",
+      "title": "Semiconductor Physics",
+      "units": "4",
+      "prerequisites_raw": "ECE 103",
+      "prerequisites_courses": [
+        "ECE 103"
+      ]
+    },
+    {
+      "code": "ECE 135B",
+      "title": "Electronic Devices",
+      "units": "4",
+      "prerequisites_raw": "ECE 135A",
+      "prerequisites_courses": [
+        "ECE 135A"
+      ]
+    },
+    {
+      "code": "ECE 136L",
+      "title": "Microelectronics Laboratory",
+      "units": "4",
+      "prerequisites_raw": "ECE 135B",
+      "prerequisites_courses": [
+        "ECE 135B"
+      ]
+    },
+    {
+      "code": "ECE 140A",
+      "title": "The Art of Product Engineering I",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "ECE 140B",
+      "title": "The Art of Product Engineering II",
+      "units": "4",
+      "prerequisites_raw": "ECE 140A",
+      "prerequisites_courses": [
+        "ECE 140A"
+      ]
+    },
+    {
+      "code": "ECE 141A",
+      "title": "Software Foundations I",
+      "units": "4",
+      "prerequisites_raw": "ECE 17 and CSE 30 or ECE 30",
+      "prerequisites_courses": [
+        "ECE 17",
+        "CSE 30",
+        "ECE 30"
+      ]
+    },
+    {
+      "code": "ECE 141B",
+      "title": "Software Foundations II",
+      "units": "4",
+      "prerequisites_raw": "ECE 141A",
+      "prerequisites_courses": [
+        "ECE 141A"
+      ]
+    },
+    {
+      "code": "ECE 143",
+      "title": "Programming for Data Analysis",
+      "units": "4",
+      "prerequisites_raw": "ECE 16",
+      "prerequisites_courses": [
+        "ECE 16"
+      ]
+    },
+    {
+      "code": "ECE 15",
+      "title": "Engineering Computation: Introduction to Programming in C",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 153",
+      "title": "Probability and Random Processes for Engineers",
+      "units": "4",
+      "prerequisites_raw": "ECE 109",
+      "prerequisites_courses": [
+        "ECE 109"
+      ]
+    },
+    {
+      "code": "ECE 155",
+      "title": "Digital Communications Theory",
+      "units": "4",
+      "prerequisites_raw": "ECE 101 or BENG 122A and ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186 and ECE 153",
+      "prerequisites_courses": [
+        "ECE 101",
+        "BENG 122A",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 180B",
+        "MATH 183",
+        "MATH 186",
+        "ECE 153"
+      ]
+    },
+    {
+      "code": "ECE 157A",
+      "title": "Communications Systems Laboratory I",
+      "units": "4",
+      "prerequisites_raw": "ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186 and ECE 161A",
+      "prerequisites_courses": [
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 180B",
+        "MATH 183",
+        "MATH 186",
+        "ECE 161A"
+      ]
+    },
+    {
+      "code": "ECE 158A",
+      "title": "Data Networks I",
+      "units": "4",
+      "prerequisites_raw": "ECE 109",
+      "prerequisites_courses": [
+        "ECE 109"
+      ]
+    },
+    {
+      "code": "ECE 158B",
+      "title": "Data Networks II",
+      "units": "4",
+      "prerequisites_raw": "ECE 158A",
+      "prerequisites_courses": [
+        "ECE 158A"
+      ]
+    },
+    {
+      "code": "ECE 159",
+      "title": "Introduction to Data Processing and Information Theory",
+      "units": "4",
+      "prerequisites_raw": "ECE 153",
+      "prerequisites_courses": [
+        "ECE 153"
+      ]
+    },
+    {
+      "code": "ECE 16",
+      "title": "Rapid Hardware and Software Design for Interfacing with the World",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11; or ECE 15; or MAE 8",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "ECE 15",
+        "MAE 8"
+      ]
+    },
+    {
+      "code": "ECE 161A",
+      "title": "Introduction to Digital Signal Processing",
+      "units": "4",
+      "prerequisites_raw": "ECE 101",
+      "prerequisites_courses": [
+        "ECE 101"
+      ]
+    },
+    {
+      "code": "ECE 161B",
+      "title": "Digital Signal Processing",
+      "units": "4",
+      "prerequisites_raw": "ECE 161A",
+      "prerequisites_courses": [
+        "ECE 161A"
+      ]
+    },
+    {
+      "code": "ECE 161C",
+      "title": "Applications of Digital Signal Processing",
+      "units": "4",
+      "prerequisites_raw": "ECE 161A",
+      "prerequisites_courses": [
+        "ECE 161A"
+      ]
+    },
+    {
+      "code": "ECE 164",
+      "title": "Analog Integrated Circuit Design",
+      "units": "4",
+      "prerequisites_raw": "ECE 102",
+      "prerequisites_courses": [
+        "ECE 102"
+      ]
+    },
+    {
+      "code": "ECE 165",
+      "title": "Digital Integrated Circuit Design",
+      "units": "4",
+      "prerequisites_raw": "ECE 102",
+      "prerequisites_courses": [
+        "ECE 102"
+      ]
+    },
+    {
+      "code": "ECE 166",
+      "title": "Microwave Systems and Circuits",
+      "units": "4",
+      "prerequisites_raw": "ECE 102 and ECE 107",
+      "prerequisites_courses": [
+        "ECE 102",
+        "ECE 107"
+      ]
+    },
+    {
+      "code": "ECE 17",
+      "title": "Object-Oriented Programming: Design and Development with C++",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "ECE 171A",
+      "title": "Linear Control System Theory",
+      "units": "4",
+      "prerequisites_raw": "ECE 45",
+      "prerequisites_courses": [
+        "ECE 45"
+      ]
+    },
+    {
+      "code": "ECE 171B",
+      "title": "Linear Control System Theory",
+      "units": "4",
+      "prerequisites_raw": "ECE 171A",
+      "prerequisites_courses": [
+        "ECE 171A"
+      ]
+    },
+    {
+      "code": "ECE 172A",
+      "title": "Introduction to Intelligent Systems: Robotics and Machine Intelligence",
+      "units": "4",
+      "prerequisites_raw": "ECE 101",
+      "prerequisites_courses": [
+        "ECE 101"
+      ]
+    },
+    {
+      "code": "ECE 174",
+      "title": "Introduction to Linear and Nonlinear Optimization with Applications",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and ECE 15",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "ECE 175A",
+      "title": "Elements of Machine Intelligence: Pattern Recognition and Machine Learning",
+      "units": "4",
+      "prerequisites_raw": "ECE 109 and ECE 174",
+      "prerequisites_courses": [
+        "ECE 109",
+        "ECE 174"
+      ]
+    },
+    {
+      "code": "ECE 175B",
+      "title": "Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models",
+      "units": "4",
+      "prerequisites_raw": "ECE 175A",
+      "prerequisites_courses": [
+        "ECE 175A"
+      ]
+    },
+    {
+      "code": "ECE 18",
+      "title": "Programming in Python and Object-Oriented Principles",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "ECE 181",
+      "title": "Physical Optics and Fourier Optics",
+      "units": "4",
+      "prerequisites_raw": "ECE 103 and ECE 107",
+      "prerequisites_courses": [
+        "ECE 103",
+        "ECE 107"
+      ]
+    },
+    {
+      "code": "ECE 182",
+      "title": "Electromagnetic Optics, Guided-Wave, and Fiber Optics",
+      "units": "4",
+      "prerequisites_raw": "ECE 107",
+      "prerequisites_courses": [
+        "ECE 107"
+      ]
+    },
+    {
+      "code": "ECE 183",
+      "title": "Optical Electronics",
+      "units": "4",
+      "prerequisites_raw": "ECE 103 and ECE 107",
+      "prerequisites_courses": [
+        "ECE 103",
+        "ECE 107"
+      ]
+    },
+    {
+      "code": "ECE 184",
+      "title": "Optical Information Processing and Holography",
+      "units": "4",
+      "prerequisites_raw": "ECE 182",
+      "prerequisites_courses": [
+        "ECE 182"
+      ]
+    },
+    {
+      "code": "ECE 185",
+      "title": "Lasers and Modulators",
+      "units": "4",
+      "prerequisites_raw": "ECE 183",
+      "prerequisites_courses": [
+        "ECE 183"
+      ]
+    },
+    {
+      "code": "ECE 190",
+      "title": "Engineering Design",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 191",
+      "title": "Engineering Group Design Project",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 25",
+      "title": "Introduction to Digital Design",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 30",
+      "title": "Introduction to Computer Engineering",
+      "units": "4",
+      "prerequisites_raw": "ECE 15 and ECE 25",
+      "prerequisites_courses": [
+        "ECE 15",
+        "ECE 25"
+      ]
+    },
+    {
+      "code": "ECE 35",
+      "title": "Introduction to Analog Design",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 and MATH 20A and MATH 20B and PHYS 2A",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 20A",
+        "MATH 20B",
+        "PHYS 2A"
+      ]
+    },
+    {
+      "code": "ECE 45",
+      "title": "Circuits and Systems",
+      "units": "4",
+      "prerequisites_raw": "ECE 35",
+      "prerequisites_courses": [
+        "ECE 35"
+      ]
+    },
+    {
+      "code": "ECE 5",
+      "title": "Introduction to Electrical and Computer Engineering",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 65",
+      "title": "Components and Circuits Laboratory",
+      "units": "4",
+      "prerequisites_raw": "ECE 5 and ECE 35",
+      "prerequisites_courses": [
+        "ECE 5",
+        "ECE 35"
+      ]
+    },
+    {
+      "code": "ECON 1",
+      "title": "Principles of Microeconomics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 120A",
+      "title": "Econometrics A",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MAE 108",
+      "title": "Probability and Statistical Methods for Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 18",
+      "prerequisites_courses": [
+        "MATH 18"
+      ]
+    },
+    {
+      "code": "MAE 40",
+      "title": "Linear Circuits",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and MATH 31AH or MATH 18 and PHYS 2B",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "MATH 31AH",
+        "MATH 18",
+        "PHYS 2B"
+      ]
+    },
+    {
+      "code": "MAE 8",
+      "title": "MATLAB Programming for Engineering Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A and MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 109",
+      "title": "Mathematical Reasoning",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 10A",
+      "title": "Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C; or MATH 4C",
+      "prerequisites_courses": [
+        "MATH 3C",
+        "MATH 4C"
+      ]
+    },
+    {
+      "code": "MATH 10B",
+      "title": "Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 10C",
+      "title": "Calculus III",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 18",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 180A",
+      "title": "Introduction to Probability",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 180B",
+      "title": "Introduction to Stochastic Processes I",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and MATH 18 or MATH 31AH and MATH 109 or MATH 31CH and MATH 180A",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 109",
+        "MATH 31CH",
+        "MATH 180A"
+      ]
+    },
+    {
+      "code": "MATH 183",
+      "title": "Statistical Methods",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 186",
+      "title": "Probability and Statistics for Bioinformatics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 20A",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "MATH 20B",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A; or MATH 10B; or MATH 10C",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+      ]
+    },
+    {
+      "code": "MATH 20C",
+      "title": "Calculus and Analytic Geometry for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 20D",
+      "title": "Introduction to Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 20E",
+      "title": "Vector Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 31AH",
+      "title": "Honors Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 31BH",
+      "title": "Honors Multivariable Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 31CH",
+      "title": "Honors Vector Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Foundations of Precalculus",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3C",
+      "title": "Precalculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4C",
+      "title": "Precalculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C",
+      "prerequisites_courses": [
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "Physics—Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 10B; or MATH 20A; or MATH 20B; or MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 10B",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2B",
+      "title": "Physics—Electricity and Magnetism",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and MATH 20B or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2C",
+      "title": "Physics—Fluids, Waves, Thermodynamics, and Optics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2D",
+      "title": "Physics—Relativity and Quantum Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and PHYS 2B and MATH 20D",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "PHYS 2B",
+        "MATH 20D"
+      ]
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Physics Majors–Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A",
+      "prerequisites_courses": [
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Physics Majors—Fluids, Waves, Statistical and Thermal Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 4A and MATH 20A and MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 4A",
+        "MATH 20A",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 4C",
+      "title": "Physics for Physics Majors—Electricity and Magnetism",
+      "units": "4",
+      "prerequisites_raw": "PHYS 4A and PHYS 4B and MATH 20A and MATH 20B and MATH 20C and MATH 18; or PHYS 4A and PHYS 4B and MATH 20A and MATH 20B and MATH 20C and MATH 31AH; or PHYS 4A and PHYS 4B and MATH 31BH and MATH 18; or PHYS 4A and PHYS 4B and MATH 31BH and MATH 31AH; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 18; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 31AH; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 18; or PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 31AH",
+      "prerequisites_courses": [
+        "PHYS 4A",
+        "PHYS 4B",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 31BH",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C"
+      ]
+    },
+    {
+      "code": "PHYS 4D",
+      "title": "Physics for Physics Majors—Electromagnetic Waves, Special Relativity and Optics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 4A and PHYS 4B and PHYS 4C and MATH 20A and MATH 20B and MATH 20C and MATH 20E and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and MATH 20A and MATH 20B and MATH 20C and MATH 20E and MATH 31AH; or PHYS 4A and PHYS 4B and PHYS 4C and MATH 20A and MATH 20B and MATH 20C and MATH 31CH and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and MATH 20A and MATH 20B and MATH 20C and MATH 31CH and MATH 31AH; or PHYS 4A and PHYS 4B and PHYS 4C and MATH 31BH and MATH 20E and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and MATH 31BH and MATH 20E and MATH 31AH; or PHYS 4A and PHYS 4B and PHYS 4C and MATH 31BH and MATH 31CH and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and MATH 31BH and MATH 31CH and MATH 31AH; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 20E and MATH 18; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 20E and MATH 31AH; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 31CH and MATH 18; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 31CH and MATH 31AH; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 20E and MATH 18; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 20E and MATH 31AH; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 31CH and MATH 18; or PHYS 4C and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 31CH and MATH 31AH",
+      "prerequisites_courses": [
+        "PHYS 4A",
+        "PHYS 4B",
+        "PHYS 4C",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 20E",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 31CH",
+        "MATH 31BH",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C"
+      ]
+    },
+    {
+      "code": "PHYS 4E",
+      "title": "Physics for Physics Majors—Quantum Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 20E and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 20E and MATH 31AH; or PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 31CH and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 31CH and MATH 31AH; or PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 31BH and MATH 20D and MATH 20E and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 31BH and MATH 20D and MATH 20E and MATH 31AH; or PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 31BH and MATH 20D and MATH 31CH and MATH 18; or PHYS 4A and PHYS 4B and PHYS 4C and PHYS 4D and MATH 31BH and MATH 20D and MATH 31CH and MATH 31AH; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 20E and MATH 18; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 20E and MATH 31AH; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 31CH and MATH 18; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 20A and MATH 20B and MATH 20C and MATH 20D and MATH 31CH and MATH 31AH; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 20D and MATH 20E and MATH 18; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 20D and MATH 20E and MATH 31AH; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 20D and MATH 31CH and MATH 18; or PHYS 4A and PHYS 4C and PHYS 4D and PHYS 2A and PHYS 2B and PHYS 2C and MATH 31BH and MATH 20D and MATH 31CH and MATH 31AH",
+      "prerequisites_courses": [
+        "PHYS 4A",
+        "PHYS 4B",
+        "PHYS 4C",
+        "PHYS 4D",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 20D",
+        "MATH 20E",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 31CH",
+        "MATH 31BH",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C"
+      ]
+    }
+  ]
+}

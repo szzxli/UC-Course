@@ -1,0 +1,1824 @@
+{
+  "campus": "UCSD",
+  "major": "Computer Science (B.S.)",
+  "checked": "2026-10-29",
+  "n_courses": 170,
+  "courses": [
+    {
+      "code": "BENG 100",
+      "title": "Introduction to Probability and Statistics for Bioengineers",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "BENG 134",
+      "title": "Measurements, Statistics, and Probability",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and MATH 18 or MATH 31AH and BENG 100",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "MATH 18",
+        "MATH 31AH",
+        "BENG 100"
+      ]
+    },
+    {
+      "code": "BICD 100",
+      "title": "Genetics",
+      "units": "4",
+      "prerequisites_raw": "BILD 1 and BILD 3",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "BILD 1",
+      "title": "The Cell",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 10",
+      "title": "Fundamental Concepts of Modern Biology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 12",
+      "title": "Neurobiology and Behavior (4) Introduction to the organization and functions of the nervous system; topics include molecular, cellular, developmental, systems, and behavioral neurobiology. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only. Note: Students may not receive credit for both BILD 12 and COGS 17. BILD 18. Human Impact on the Environment",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 2",
+      "title": "Multicellular Life",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "BILD 3",
+      "title": "Organismic and Evolutionary Biology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 4",
+      "title": "Introductory Biology Lab",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 62",
+      "title": "Introduction to Python for Biologists",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BIMM 101",
+      "title": "Recombinant DNA Techniques",
+      "units": "4",
+      "prerequisites_raw": "BILD 1 and BILD 4",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 4"
+      ]
+    },
+    {
+      "code": "BIMM 121",
+      "title": "Microbiology Laboratory",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "CAT 1",
+      "title": "Culture, Art, and Technology 1",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CAT 2",
+      "title": "Culture, Art, and Technology 2",
+      "units": "6",
+      "prerequisites_raw": "CAT 1",
+      "prerequisites_courses": [
+        "CAT 1"
+      ]
+    },
+    {
+      "code": "CENG 15",
+      "title": "Engineering Computation Using MATLAB",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 4",
+      "title": "Chemical Thinking",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 6A",
+      "title": "General Chemistry I",
+      "units": "4",
+      "prerequisites_raw": "CHEM 4; or MATH 3C",
+      "prerequisites_courses": [
+        "CHEM 4",
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "CHEM 6AH",
+      "title": "Honors General Chemistry I",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "CHEM 6B",
+      "title": "General Chemistry II",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6A; or CHEM 6AH",
+      "prerequisites_courses": [
+        "CHEM 6A",
+        "CHEM 6AH"
+      ]
+    },
+    {
+      "code": "CHEM 6BH",
+      "title": "Honors General Chemistry II",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6AH and MATH 20A",
+      "prerequisites_courses": [
+        "CHEM 6AH",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "COGS 1",
+      "title": "Introduction to Cognitive Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 10",
+      "title": "Cognitive Consequences of Technology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 107A",
+      "title": "Neuroanatomy and Physiology",
+      "units": "4",
+      "prerequisites_raw": "BILD 12; or COGS 17",
+      "prerequisites_courses": [
+        "BILD 12",
+        "COGS 17"
+      ]
+    },
+    {
+      "code": "COGS 107B",
+      "title": "Systems Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "COGS 107A",
+      "prerequisites_courses": [
+        "COGS 107A"
+      ]
+    },
+    {
+      "code": "COGS 108",
+      "title": "Data Science in Practice",
+      "units": "4",
+      "prerequisites_raw": "CSE 11; or CSE 8A; or COGS 18; or DSC 10; or MAE 8",
+      "prerequisites_courses": [
+        "CSE 11",
+        "CSE 8A",
+        "COGS 18",
+        "DSC 10",
+        "MAE 8"
+      ]
+    },
+    {
+      "code": "COGS 109",
+      "title": "Modeling and Data Analysis",
+      "units": "4",
+      "prerequisites_raw": "COGS 14B and MATH 18 or MATH 31AH and COGS 18 or CSE 8A or CSE 11",
+      "prerequisites_courses": [
+        "COGS 14B",
+        "MATH 18",
+        "MATH 31AH",
+        "COGS 18",
+        "CSE 8A",
+        "CSE 11"
+      ]
+    },
+    {
+      "code": "COGS 115",
+      "title": "Neurological Development and Cognitive Change",
+      "units": "4",
+      "prerequisites_raw": "BILD 10; or BILD 12; or COGS 107A; or COGS 107B; or COGS 17; or HDS 110",
+      "prerequisites_courses": [
+        "BILD 10",
+        "BILD 12",
+        "COGS 107A",
+        "COGS 107B",
+        "COGS 17",
+        "HDS 110"
+      ]
+    },
+    {
+      "code": "COGS 118A",
+      "title": "Supervised Machine Learning Algorithms",
+      "units": "4",
+      "prerequisites_raw": "COGS 18 or CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 108 or COGS 109 or COGS 118B or CSE 158 or ECE 174 or ECE 175A",
+      "prerequisites_courses": [
+        "COGS 18",
+        "CSE 8B",
+        "CSE 11",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20E",
+        "MATH 180A",
+        "COGS 108",
+        "COGS 109",
+        "COGS 118B",
+        "CSE 158",
+        "ECE 174",
+        "ECE 175A"
+      ]
+    },
+    {
+      "code": "COGS 118B",
+      "title": "Introduction to Machine Learning",
+      "units": "4",
+      "prerequisites_raw": "BILD 62 or COGS 18 or CSE 11 or CSE 8B and MATH 18 or MATH 31AH and MATH 20E and ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186 and COGS 108 or COGS 109 or COGS 118A or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A",
+      "prerequisites_courses": [
+        "BILD 62",
+        "COGS 18",
+        "CSE 11",
+        "CSE 8B",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20E",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186",
+        "COGS 108",
+        "COGS 109",
+        "COGS 118A",
+        "COGS 188",
+        "CSE 150A",
+        "CSE 151A",
+        "CSE 158",
+        "CSE 158R",
+        "DSC 148",
+        "ECE 174",
+        "ECE 175A"
+      ]
+    },
+    {
+      "code": "COGS 118C",
+      "title": "Neural Signal Processing",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and COGS 14B or PSYC 60 and COGS 108 or COGS 109",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "COGS 14B",
+        "PSYC 60",
+        "COGS 108",
+        "COGS 109"
+      ]
+    },
+    {
+      "code": "COGS 118D",
+      "title": "Computational Modeling and Analysis of Human Behavior",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 180A or MATH 183 or MATH 186 or ECE 109 or ECON 120A or MAE 108 and COGS 108 or COGS 109 or COGS 118A or COGS 118B or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "COGS 108",
+        "COGS 109",
+        "COGS 118A",
+        "COGS 118B",
+        "COGS 188",
+        "CSE 150A",
+        "CSE 151A",
+        "CSE 158",
+        "CSE 158R",
+        "DSC 148",
+        "ECE 174",
+        "ECE 175A"
+      ]
+    },
+    {
+      "code": "COGS 120",
+      "title": "Interaction Design",
+      "units": "5",
+      "prerequisites_raw": "COGS 108 or CSE 12 or DSC 30 and COGS 1 or COGS 10 or DSGN 1 or ENG 100D",
+      "prerequisites_courses": [
+        "COGS 108",
+        "CSE 12",
+        "DSC 30",
+        "COGS 1",
+        "COGS 10",
+        "DSGN 1",
+        "ENG 100D"
+      ]
+    },
+    {
+      "code": "COGS 14A",
+      "title": "Introduction to Research Methods",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 14B",
+      "title": "Introduction to Statistical Analysis",
+      "units": "4",
+      "prerequisites_raw": "COGS 14A",
+      "prerequisites_courses": [
+        "COGS 14A"
+      ]
+    },
+    {
+      "code": "COGS 17",
+      "title": "Neurobiology of Cognition",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 18",
+      "title": "Introduction to Python (4) This class will teach fundamental Python programming skills and practices, including the “Zen of Python.” Students will focus on scientific computing and learn to write functions and tests, as well as how to debug code using the Jupyter Notebook programming environment. Students may receive credit for one of the following: BILD 62, COGS 18, CSE 8A, or CSE 6R. Recommended preparation: students with limited computing experience may take COGS 3. COGS 20. Exploring the Musical Mind",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 181",
+      "title": "Neural Networks and Deep Learning",
+      "units": "4",
+      "prerequisites_raw": "COGS 18 or CSE 11 or CSE 8B and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 118A or COGS 118B or CSE 151A or CSE 158 or ECE 174 or ECE 175A",
+      "prerequisites_courses": [
+        "COGS 18",
+        "CSE 11",
+        "CSE 8B",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20E",
+        "MATH 180A",
+        "COGS 118A",
+        "COGS 118B",
+        "CSE 151A",
+        "CSE 158",
+        "ECE 174",
+        "ECE 175A"
+      ]
+    },
+    {
+      "code": "COGS 185",
+      "title": "Advanced Machine Learning Methods",
+      "units": "4",
+      "prerequisites_raw": "COGS 118A",
+      "prerequisites_courses": [
+        "COGS 118A"
+      ]
+    },
+    {
+      "code": "COGS 187A",
+      "title": "Usability and Information Architecture",
+      "units": "4",
+      "prerequisites_raw": "COGS 18 or CSE 11 or CSE 8A and COGS 10 or DSGN 1",
+      "prerequisites_courses": [
+        "COGS 18",
+        "CSE 11",
+        "CSE 8A",
+        "COGS 10",
+        "DSGN 1"
+      ]
+    },
+    {
+      "code": "COGS 187B",
+      "title": "Practicum in Professional Web Design",
+      "units": "4",
+      "prerequisites_raw": "COGS 187A",
+      "prerequisites_courses": [
+        "COGS 187A"
+      ]
+    },
+    {
+      "code": "COGS 188",
+      "title": "Artificial Intelligence Algorithms",
+      "units": "4",
+      "prerequisites_raw": "COGS 109; or COGS 118A; or COGS 118B",
+      "prerequisites_courses": [
+        "COGS 109",
+        "COGS 118A",
+        "COGS 118B"
+      ]
+    },
+    {
+      "code": "COGS 189",
+      "title": "Brain Computer Interfaces",
+      "units": "4",
+      "prerequisites_raw": "COGS 108; or COGS 109; or COGS 118A; or COGS 118B",
+      "prerequisites_courses": [
+        "COGS 108",
+        "COGS 109",
+        "COGS 118A",
+        "COGS 118B"
+      ]
+    },
+    {
+      "code": "COGS 9",
+      "title": "Introduction to Data Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 100",
+      "title": "Advanced Data Structures",
+      "units": "4",
+      "prerequisites_raw": "CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 and CSE 15L or CSE 29 or ECE 15",
+      "prerequisites_courses": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 158",
+        "MATH 184",
+        "MATH 188",
+        "CSE 12",
+        "CSE 15L",
+        "CSE 29",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 100R",
+      "title": "Advanced Data Structures",
+      "units": "4",
+      "prerequisites_raw": "CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 and CSE 15L or CSE 29 or ECE 15",
+      "prerequisites_courses": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 158",
+        "MATH 184",
+        "MATH 188",
+        "CSE 12",
+        "CSE 15L",
+        "CSE 29",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 101",
+      "title": "Design and Analysis of Algorithms",
+      "units": "4",
+      "prerequisites_raw": "CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188 and CSE 12 or DSC 30",
+      "prerequisites_courses": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 158",
+        "MATH 184",
+        "MATH 188",
+        "CSE 12",
+        "DSC 30"
+      ]
+    },
+    {
+      "code": "CSE 103",
+      "title": "A Practical Introduction to Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20B and CSE 21 or MATH 154 or MATH 158 or MATH 184 or MATH 188",
+      "prerequisites_courses": [
+        "MATH 20B",
+        "CSE 21",
+        "MATH 154",
+        "MATH 158",
+        "MATH 184",
+        "MATH 188"
+      ]
+    },
+    {
+      "code": "CSE 109",
+      "title": "Introduction to Programming Contests",
+      "units": "2",
+      "prerequisites_raw": "CSE 15L; or CSE 29",
+      "prerequisites_courses": [
+        "CSE 15L",
+        "CSE 29"
+      ]
+    },
+    {
+      "code": "CSE 11",
+      "title": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 110",
+      "title": "Software Engineering",
+      "units": "4",
+      "prerequisites_raw": "CSE 100; or CSE 100R",
+      "prerequisites_courses": [
+        "CSE 100",
+        "CSE 100R"
+      ]
+    },
+    {
+      "code": "CSE 12",
+      "title": "Basic Data Structures and Object-Oriented Design",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11"
+      ]
+    },
+    {
+      "code": "CSE 150A",
+      "title": "Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making",
+      "units": "4",
+      "prerequisites_raw": "CSE 12 or DSC 40B and CSE 15L or CSE 29 or DSC 80 and COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 and MATH 20A and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 15L",
+        "CSE 29",
+        "DSC 80",
+        "COGS 118D",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 183",
+        "MATH 186",
+        "MATH 20A",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "CSE 151A",
+      "title": "Machine Learning: Learning Algorithms",
+      "units": "4",
+      "prerequisites_raw": "CSE 12 or DSC 40B and CSE 15L or CSE 29 or DSC 80 and COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 and MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 15L",
+        "CSE 29",
+        "DSC 80",
+        "COGS 118D",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 183",
+        "MATH 186",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "CSE 158",
+      "title": "Recommender Systems and Web Mining",
+      "units": "4",
+      "prerequisites_raw": "CSE 12 or DSC 40B and CSE 15L or CSE 29 or DSC 80 and BENG 100 or BENG 134 or COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186",
+      "prerequisites_courses": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 15L",
+        "CSE 29",
+        "DSC 80",
+        "BENG 100",
+        "BENG 134",
+        "COGS 118D",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 183",
+        "MATH 186"
+      ]
+    },
+    {
+      "code": "CSE 158R",
+      "title": "Recommender Systems and Web Mining",
+      "units": "4",
+      "prerequisites_raw": "CSE 12 or DSC 40B and CSE 15L or CSE 29 or DSC 80 and BENG 100 or BENG 134 or COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186",
+      "prerequisites_courses": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 15L",
+        "CSE 29",
+        "DSC 80",
+        "BENG 100",
+        "BENG 134",
+        "COGS 118D",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 183",
+        "MATH 186"
+      ]
+    },
+    {
+      "code": "CSE 15L",
+      "title": "Software Tools and Techniques Laboratory",
+      "units": "2",
+      "prerequisites_raw": "CSE 8B; or CSE 11; or CSE 12; or DSC 30",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "CSE 12",
+        "DSC 30"
+      ]
+    },
+    {
+      "code": "CSE 180",
+      "title": "Biology Meets Computing",
+      "units": "4",
+      "prerequisites_raw": "BILD 1; or BILD 4; or CSE 11; or CSE 3; or CSE 8A; or CSE 8B",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 4",
+        "CSE 11",
+        "CSE 3",
+        "CSE 8A",
+        "CSE 8B"
+      ]
+    },
+    {
+      "code": "CSE 180R",
+      "title": "Biology Meets Computing",
+      "units": "4",
+      "prerequisites_raw": "BILD 1; or BILD 4; or CSE 11; or CSE 3; or CSE 8A; or CSE 8B",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 4",
+        "CSE 11",
+        "CSE 3",
+        "CSE 8A",
+        "CSE 8B"
+      ]
+    },
+    {
+      "code": "CSE 190",
+      "title": "Topics in Computer Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 191",
+      "title": "Seminar in CSE",
+      "units": "1–4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 192",
+      "title": "Senior Seminar in Computer Science and Engineering",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 20",
+      "title": "Discrete Mathematics",
+      "units": "4",
+      "prerequisites_raw": "CSE 11; or CSE 6R; or CSE 8A; or CSE 8B; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 11",
+        "CSE 6R",
+        "CSE 8A",
+        "CSE 8B",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 21",
+      "title": "Mathematics for Algorithms and Systems",
+      "units": "4",
+      "prerequisites_raw": "CSE 20; or MATH 31CH",
+      "prerequisites_courses": [
+        "CSE 20",
+        "MATH 31CH"
+      ]
+    },
+    {
+      "code": "CSE 25",
+      "title": "Introduction to Artificial Intelligence",
+      "units": "4",
+      "prerequisites_raw": "COGS 18; or CSE 11; or CSE 6R; or CSE 8A; or CSE 8B; or DSC 20",
+      "prerequisites_courses": [
+        "COGS 18",
+        "CSE 11",
+        "CSE 6R",
+        "CSE 8A",
+        "CSE 8B",
+        "DSC 20"
+      ]
+    },
+    {
+      "code": "CSE 29",
+      "title": "Systems Programming and Software Tools",
+      "units": "4",
+      "prerequisites_raw": "CSE 11; or CSE 8B; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 11",
+        "CSE 8B",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 3",
+      "title": "Fluency in Information Technology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 30",
+      "title": "Computer Organization",
+      "units": "4",
+      "prerequisites_raw": "CSE 15L; or CSE 29; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 15L",
+        "CSE 29",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 42",
+      "title": "Building and Programming Electronic Devices",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 4GS",
+      "title": "Mathematical Beauty in Rome",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "CSE 6GS",
+      "title": "Mathematical Beauty in Rome Lab",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "CSE 6R",
+      "title": "Introduction to Computer Science and Object-Oriented Programming: Python",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 86",
+      "title": "C++ for Java Programmers",
+      "units": "2",
+      "prerequisites_raw": "CSE 12",
+      "prerequisites_courses": [
+        "CSE 12"
+      ]
+    },
+    {
+      "code": "CSE 89",
+      "title": "Introduction to Computer Science and Engineering Seminar",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 8A",
+      "title": "Introduction to Programming and Computational Problem-Solving I",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 8B",
+      "title": "Introduction to Programming and Computational Problem-Solving II",
+      "units": "4",
+      "prerequisites_raw": "CSE 8A",
+      "prerequisites_courses": [
+        "CSE 8A"
+      ]
+    },
+    {
+      "code": "CSE 90",
+      "title": "Undergraduate Seminar",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 91",
+      "title": "Perspectives in Computer Science and Engineering",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 95",
+      "title": "Tutor Apprenticeship",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 99",
+      "title": "Independent Study in Computer Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "DOC 1",
+      "title": "Dimensions of Culture: Diversity",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "DOC 2",
+      "title": "Dimensions of Culture: Justice",
+      "units": "6",
+      "prerequisites_raw": "DOC 1",
+      "prerequisites_courses": [
+        "DOC 1"
+      ]
+    },
+    {
+      "code": "DSC 10",
+      "title": "Principles of Data Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "DSC 100",
+      "title": "Introduction to Data Management",
+      "units": "4",
+      "prerequisites_raw": "DSC 40B and DSC 80",
+      "prerequisites_courses": [
+        "DSC 40B",
+        "DSC 80"
+      ]
+    },
+    {
+      "code": "DSC 102",
+      "title": "Systems for Scalable Analytics",
+      "units": "4",
+      "prerequisites_raw": "DSC 100",
+      "prerequisites_courses": [
+        "DSC 100"
+      ]
+    },
+    {
+      "code": "DSC 123A",
+      "title": "Optimization Methods for Data Science I",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "DSC 148",
+      "title": "Introduction to Data Mining",
+      "units": "4",
+      "prerequisites_raw": "DSC 40B or CSE 12 and DSC 80 or CSE 15L or CSE 29 and MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 or CSE 103 or ECE 109 or ECON 120A or MAE 108",
+      "prerequisites_courses": [
+        "DSC 40B",
+        "CSE 12",
+        "DSC 80",
+        "CSE 15L",
+        "CSE 29",
+        "MATH 180A",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 183",
+        "MATH 186",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108"
+      ]
+    },
+    {
+      "code": "DSC 20",
+      "title": "Programming and Basic Data Structures for Data Science",
+      "units": "4",
+      "prerequisites_raw": "DSC 10",
+      "prerequisites_courses": [
+        "DSC 10"
+      ]
+    },
+    {
+      "code": "DSC 30",
+      "title": "Data Structures and Algorithms for Data Science",
+      "units": "4",
+      "prerequisites_raw": "DSC 20",
+      "prerequisites_courses": [
+        "DSC 20"
+      ]
+    },
+    {
+      "code": "DSC 40A",
+      "title": "Theoretical Foundations of Data Science I",
+      "units": "4",
+      "prerequisites_raw": "DSC 10 and MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "DSC 10",
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "DSC 40B",
+      "title": "Theoretical Foundations of Data Science II",
+      "units": "4",
+      "prerequisites_raw": "DSC 20 and DSC 40A",
+      "prerequisites_courses": [
+        "DSC 20",
+        "DSC 40A"
+      ]
+    },
+    {
+      "code": "DSC 80",
+      "title": "The Practice and Application of Data Science",
+      "units": "4",
+      "prerequisites_raw": "DSC 30 and DSC 40A",
+      "prerequisites_courses": [
+        "DSC 30",
+        "DSC 40A"
+      ]
+    },
+    {
+      "code": "DSGN 1",
+      "title": "Design of Everyday Things",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 109",
+      "title": "Engineering Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A and MATH 20B and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECE 140A",
+      "title": "The Art of Product Engineering I",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "ECE 140B",
+      "title": "The Art of Product Engineering II",
+      "units": "4",
+      "prerequisites_raw": "ECE 140A",
+      "prerequisites_courses": [
+        "ECE 140A"
+      ]
+    },
+    {
+      "code": "ECE 15",
+      "title": "Engineering Computation: Introduction to Programming in C",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 174",
+      "title": "Introduction to Linear and Nonlinear Optimization with Applications",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and ECE 15",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "ECE 175A",
+      "title": "Elements of Machine Intelligence: Pattern Recognition and Machine Learning",
+      "units": "4",
+      "prerequisites_raw": "ECE 109 and ECE 174",
+      "prerequisites_courses": [
+        "ECE 109",
+        "ECE 174"
+      ]
+    },
+    {
+      "code": "ECON 1",
+      "title": "Principles of Microeconomics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 100A",
+      "title": "Microeconomics A",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 120A",
+      "title": "Econometrics A",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 120B",
+      "title": "Econometrics B",
+      "units": "4",
+      "prerequisites_raw": "ECON 120A; or ECE 109; or MAE 108; or MATH 180A; or MATH 183; or MATH 186",
+      "prerequisites_courses": [
+        "ECON 120A",
+        "ECE 109",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186"
+      ]
+    },
+    {
+      "code": "ECON 172A",
+      "title": "Operations Research A",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A and ECON 120A or ECE 109 or MATH 180A or MATH 183 or MATH 186 and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "ECON 100A",
+        "ECON 120A",
+        "ECE 109",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "ECON 172B",
+      "title": "Operations Research B",
+      "units": "4",
+      "prerequisites_raw": "ECON 172A; or MATH 171A",
+      "prerequisites_courses": [
+        "ECON 172A",
+        "MATH 171A"
+      ]
+    },
+    {
+      "code": "EDS 124AR",
+      "title": "Teaching Computation in the Digital World",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "EDS 124BR",
+      "title": "Teaching Computational Thinking for Everyone",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENG 10",
+      "title": "Fundamentals of Engineering Applications",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ENG 100D",
+      "title": "Design for Development",
+      "units": "4",
+      "prerequisites_raw": "CAT 2; or DOC 2; or HUM 2; or MCWP 40; or MMW 2; or WCWP 10B; or SYN 1",
+      "prerequisites_courses": [
+        "CAT 2",
+        "DOC 2",
+        "HUM 2",
+        "MCWP 40",
+        "MMW 2",
+        "WCWP 10B",
+        "SYN 1"
+      ]
+    },
+    {
+      "code": "ENG 15",
+      "title": "Engineer Your Success",
+      "units": "2",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ESYS 101",
+      "title": "Environmental Biology",
+      "units": "4",
+      "prerequisites_raw": "BILD 1; or BILD 2; or BILD 3",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 2",
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "HDS 1",
+      "title": "Introduction to Human Developmental Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "HDS 110",
+      "title": "Brain and Behavioral Development",
+      "units": "4",
+      "prerequisites_raw": "HDS 1; or PSYC 101",
+      "prerequisites_courses": [
+        "HDS 1",
+        "PSYC 101"
+      ]
+    },
+    {
+      "code": "HUM 2",
+      "title": "Rome and the Medieval World",
+      "units": "6",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "LIGN 165",
+      "title": "Computational Linguistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "LIGN 167",
+      "title": "Deep Learning for Natural Language Understanding",
+      "units": "4",
+      "prerequisites_raw": "MATH 10C; or MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MAE 108",
+      "title": "Probability and Statistical Methods for Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 18",
+      "prerequisites_courses": [
+        "MATH 18"
+      ]
+    },
+    {
+      "code": "MAE 8",
+      "title": "MATLAB Programming for Engineering Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A and MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MAE 9",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 100A",
+      "title": "Abstract Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 103A",
+      "title": "Modern Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 109",
+      "title": "Mathematical Reasoning",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 10A",
+      "title": "Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C; or MATH 4C",
+      "prerequisites_courses": [
+        "MATH 3C",
+        "MATH 4C"
+      ]
+    },
+    {
+      "code": "MATH 10B",
+      "title": "Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 10C",
+      "title": "Calculus III",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 154",
+      "title": "Discrete Mathematics and Graph Theory",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 155A",
+      "title": "Geometric Computer Graphics",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 158",
+      "title": "Extremal Combinatorics and Graph Theory",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 170A",
+      "title": "Introduction to Numerical Analysis: Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C or MATH 31BH and CSE 20 or MATH 31CH or MATH 109",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH",
+        "CSE 20",
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 170B",
+      "title": "Introduction to Numerical Analysis: Approximation and Nonlinear Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 170A",
+      "prerequisites_courses": [
+        "MATH 170A"
+      ]
+    },
+    {
+      "code": "MATH 170C",
+      "title": "Introduction to Numerical Analysis: Ordinary Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and MATH 170B",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "MATH 170B"
+      ]
+    },
+    {
+      "code": "MATH 171A",
+      "title": "Introduction to Numerical Optimization: Linear Programming",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 171B",
+      "title": "Introduction to Numerical Optimization: Nonlinear Programming",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 171A",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 171A"
+      ]
+    },
+    {
+      "code": "MATH 173A",
+      "title": "Optimization Methods for Data Science I",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 173B",
+      "title": "Optimization Methods for Data Science II",
+      "units": "4",
+      "prerequisites_raw": "DSC 123A; or MATH 173A",
+      "prerequisites_courses": [
+        "DSC 123A",
+        "MATH 173A"
+      ]
+    },
+    {
+      "code": "MATH 18",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 180A",
+      "title": "Introduction to Probability",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 180B",
+      "title": "Introduction to Stochastic Processes I",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and MATH 18 or MATH 31AH and MATH 109 or MATH 31CH and MATH 180A",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 109",
+        "MATH 31CH",
+        "MATH 180A"
+      ]
+    },
+    {
+      "code": "MATH 181A",
+      "title": "Introduction to Mathematical Statistics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 180A and MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 180A",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 183",
+      "title": "Statistical Methods",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 184",
+      "title": "Enumerative Combinatorics",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 185",
+      "title": "Introduction to Computational Statistics",
+      "units": "4",
+      "prerequisites_raw": "MATH 181A or ECON 120B and MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 181A",
+        "ECON 120B",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 186",
+      "title": "Probability and Statistics for Bioinformatics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 188",
+      "title": "Algebraic Combinatorics",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH or MATH 109 and MATH 18 or MATH 31AH and MATH 100A or MATH 103A",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 100A",
+        "MATH 103A"
+      ]
+    },
+    {
+      "code": "MATH 189",
+      "title": "Exploratory Data Analysis and Inference",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C and BENG 134 or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186 or SE 125",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "BENG 134",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186",
+        "SE 125"
+      ]
+    },
+    {
+      "code": "MATH 20A",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "MATH 20B",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A; or MATH 10B; or MATH 10C",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+      ]
+    },
+    {
+      "code": "MATH 20C",
+      "title": "Calculus and Analytic Geometry for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 20D",
+      "title": "Introduction to Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 20E",
+      "title": "Vector Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 31AH",
+      "title": "Honors Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 31BH",
+      "title": "Honors Multivariable Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 31CH",
+      "title": "Honors Vector Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Foundations of Precalculus",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3C",
+      "title": "Precalculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4C",
+      "title": "Precalculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C",
+      "prerequisites_courses": [
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "MCWP 40",
+      "title": "Critical Writing",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MMW 2",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "NANO 15",
+      "title": "Engineering Computation Using MATLAB",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "Physics—Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 10B; or MATH 20A; or MATH 20B; or MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 10B",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2B",
+      "title": "Physics—Electricity and Magnetism",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and MATH 20B or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Physics Majors–Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A",
+      "prerequisites_courses": [
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Physics Majors—Fluids, Waves, Statistical and Thermal Physics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 4A and MATH 20A and MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 4A",
+        "MATH 20A",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PSYC 101",
+      "title": "Developmental Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 60",
+      "title": "Introduction to Statistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "SE 125",
+      "title": "Statistics, Probability and Reliability",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20D",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20D"
+      ]
+    },
+    {
+      "code": "SIO 126",
+      "title": "Marine Microbiology",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "SIO 128",
+      "title": "Microbial Life in Extreme Environments",
+      "units": "4",
+      "prerequisites_raw": "BILD 1; or BILD 2; or BILD 3",
+      "prerequisites_courses": [
+        "BILD 1",
+        "BILD 2",
+        "BILD 3"
+      ]
+    },
+    {
+      "code": "SYN 1",
+      "title": "Communicating for a Changing Planet",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "WCWP 10A",
+      "title": "The Writing Course A",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "WCWP 10B",
+      "title": "The Writing Course B",
+      "units": "4",
+      "prerequisites_raw": "WCWP 10A",
+      "prerequisites_courses": [
+        "WCWP 10A"
+      ]
+    }
+  ]
+}

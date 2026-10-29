@@ -1,0 +1,319 @@
+{
+  "campus": "UCSD",
+  "title": "Eleanor Roosevelt College General Education",
+  "title_zh": "Roosevelt 学院通识",
+  "degree": "",
+  "school": "Eleanor Roosevelt College",
+  "source_url": "https://roosevelt.ucsd.edu/academics/gen-ed/index.html",
+  "sources": [
+    {
+      "label": "ERC GE",
+      "url": "https://roosevelt.ucsd.edu/academics/gen-ed/index.html"
+    },
+    {
+      "label": "UCSD catalog: ERC",
+      "url": "https://catalog.ucsd.edu/undergraduate/colleges/eleanor-roosevelt-college/index.html"
+    }
+  ],
+  "source_note": "ERC 学院官网 GE 页 + UCSD catalog（2026-10-28 核对）；PHYS 5/7/9/13 已停开（2024 春最后开课），不列入。",
+  "checked": "2026-10-28",
+  "sections": [
+    {
+      "id": "mmw",
+      "title": "Making of the Modern World",
+      "title_zh": "现代世界形成",
+      "requirements": [
+        {
+          "id": "mmw",
+          "name": "Making of the Modern World",
+          "name_zh": "现代世界形成",
+          "count": 5,
+          "courses": [
+            "MMW 11",
+            "MMW 12",
+            "MMW 13",
+            "MMW 14",
+            "MMW 15"
+          ],
+          "note": "MMW 11-15, letter grade, at UCSD only. AP/IB/transfer coursework exempts no quarter. ELWR is a prerequisite for MMW 12/13 (it does not waive MMW 11). R versions also count.",
+          "note_zh": "MMW 11–15，须 letter grade、只在 UCSD 修；AP/IB/转学分不免任何一季；修 MMW 12/13 前须满足 UC 入学写作要求（该要求不免 MMW 11）；R 远程版亦可。"
+        }
+      ],
+      "note": "MMW 11-15, letter grade, at UCSD only.",
+      "note_zh": "MMW 11–15，须 letter grade、只在 UCSD 修。"
+    },
+    {
+      "id": "quant",
+      "title": "Quantitative and Formal Skills",
+      "title_zh": "定量与形式技能",
+      "requirements": [
+        {
+          "id": "quant",
+          "name": "Quantitative and Formal Skills",
+          "name_zh": "定量与形式技能",
+          "count": 2,
+          "courses": [
+            "MATH 3B",
+            "MATH 3C",
+            "MATH 4C",
+            "MATH 10A",
+            "MATH 10B",
+            "MATH 10C",
+            "MATH 20A",
+            "MATH 20B",
+            "MATH 20C",
+            "CSE 5",
+            "CSE 6R",
+            "CSE 8A",
+            "CSE 8B",
+            "CSE 11",
+            "CSE 29",
+            "ECE 15",
+            "COGS 18",
+            "COGS 8",
+            "COGS 9",
+            "BILD 62",
+            "LIGN 17",
+            "PHIL 10",
+            "PHIL 12",
+            "BILD 5",
+            "COGS 14A",
+            "COGS 14B",
+            "ECON 5",
+            "POLI 5",
+            "POLI 5D",
+            "POLI 30",
+            "POLI 30D",
+            "PSYC 60",
+            "SOCI 60",
+            "CSE 3",
+            "MAE 5",
+            "MATH 11",
+            "HDS 60",
+            "CSS 1",
+            "CSS 2",
+            "CENG 15",
+            "NANO 15",
+            "ECE 85",
+            "ENG 30",
+            "MGT 3"
+          ],
+          "note": "2 courses from Mathematics, Computer Programming, Formal Logic, Statistics, or Other approved lists. Letter or P/NP (check major overlap rules).",
+          "note_zh": "定量与形式技能 2 门（数学/编程/形式逻辑/统计/其他批准清单）；letter 或 P/NP 均可（与专业重叠时按专业规定）。"
+        }
+      ],
+      "note": "2 courses from approved lists.",
+      "note_zh": "2 门（批准清单）。"
+    },
+    {
+      "id": "natsci",
+      "title": "Natural Science",
+      "title_zh": "自然科学",
+      "requirements": [
+        {
+          "id": "natsci",
+          "name": "Natural Science",
+          "name_zh": "自然科学",
+          "count": 2,
+          "courses": [
+            "BILD 1",
+            "BILD 2",
+            "BILD 3",
+            "BILD 60",
+            "CHEM 4",
+            "CHEM 6A",
+            "CHEM 6B",
+            "CHEM 6C",
+            "PHYS 1A",
+            "PHYS 1B",
+            "PHYS 1C",
+            "PHYS 2A",
+            "PHYS 2B",
+            "PHYS 2C",
+            "PHYS 2D",
+            "PHYS 4A",
+            "PHYS 4B",
+            "PHYS 4C",
+            "PHYS 4D",
+            "PHYS 4E",
+            "ASTR 1",
+            "ASTR 2",
+            "ASTR 3",
+            "ASTR 4",
+            "ASTR 15",
+            "ANTH 2",
+            "BILD 7",
+            "BILD 10",
+            "BILD 12",
+            "BILD 18",
+            "BILD 20",
+            "BILD 22",
+            "BILD 26",
+            "BILD 28",
+            "BILD 30",
+            "BILD 32",
+            "BILD 36",
+            "BILD 38",
+            "BILD 42",
+            "BILD 44",
+            "BILD 46",
+            "BILD 51",
+            "BILD 61",
+            "CHEM 11",
+            "CHEM 12",
+            "CHEM 13",
+            "COGS 11",
+            "COGS 17",
+            "ENVR 30",
+            "ESYS 10",
+            "GLBH 20",
+            "SIO 1",
+            "SIO 3",
+            "SIO 10",
+            "SIO 12",
+            "SIO 15",
+            "SIO 16",
+            "SIO 20",
+            "SIO 20R",
+            "SIO 25",
+            "SIO 30",
+            "SIO 35",
+            "SIO 40",
+            "SIO 45",
+            "SIO 50",
+            "PHYS 8",
+            "PHYS 10",
+            "PHYS 11",
+            "PHYS 12",
+            "PSYC 2"
+          ],
+          "note": "2 courses from Biology, Chemistry, Physics, Astronomy, Oceanography, or Physical Geology approved lists. Lab courses alone do not fulfill the requirement. Letter or P/NP (check major overlap rules). PHYS 5/7/9/13 (last offered Spring 2024) are excluded.",
+          "note_zh": "自然科学 2 门（生物/化学/物理/天文/海洋/地质批准清单）；单实验课不算；letter 或 P/NP 均可（与专业重叠时按专业规定）。PHYS 5/7/9/13 已停开，不列入。"
+        }
+      ],
+      "note": "2 courses from approved lists; lab alone does not count.",
+      "note_zh": "2 门（批准清单）；单实验课不算。"
+    },
+    {
+      "id": "language",
+      "title": "Foreign Language",
+      "title_zh": "外语",
+      "requirements": [
+        {
+          "id": "language",
+          "name": "Foreign Language proficiency",
+          "name_zh": "外语达标",
+          "count": null,
+          "courses": [
+            "LISL 1D",
+            "LIAB 1D",
+            "LIFR 1D",
+            "LIGM 1D",
+            "LIIT 1D",
+            "LIPO 1D",
+            "LISP 1D",
+            "LTFR 2A",
+            "LTGM 2A",
+            "LTIT 2A",
+            "LTSP 2A",
+            "LTGK 101",
+            "LTLA 100",
+            "LTKO 2A",
+            "LTRU 2A",
+            "CHIN 20A",
+            "JAPN 20A",
+            "JWSP 104"
+          ],
+          "note": "Proficiency: completion of a fourth-quarter (or third-semester) college language course, placement into fifth-quarter level, or a UCSD proficiency exam; AP/IB scores may exempt part or all. 0-4 courses depending on placement. Fourth-quarter courses listed here (LISL/LIAB/LIFR/LIGM/LIIT/LIPO/LISP 1D/DX; LTFR/LTGM/LTIT 2A; LTSP 2A/2F; LTGK 101; LTLA 100; LTKO 2A; LTRU 2A; CHIN 20A; JAPN 20A; JWSP 104; upper-division LIHL heritage courses). Language courses may NOT overlap Regional Specialization (including prerequisites to the fourth-quarter course).",
+          "note_zh": "外语达标：修到第四学期（或第三学季）水平、考入第五学期水平、或通过 UCSD 达标考试；AP/IB 可免部分或全部，按 placement 从 0 到 4 门。下表为第四学期水平课程（另有高年级 LIHL 传承语言课）。外语课（含修到第四学期水平的前置课）不得与区域专攻重叠。"
+        }
+      ],
+      "note": "Proficiency: fourth-quarter level or exam, 0-4 courses.",
+      "note_zh": "达标制：第四学期水平或考试，0–4 门不等。"
+    },
+    {
+      "id": "arts",
+      "title": "Fine Arts",
+      "title_zh": "美术",
+      "requirements": [
+        {
+          "id": "arts",
+          "name": "Fine Arts",
+          "name_zh": "美术",
+          "count": 1,
+          "courses": [
+            "FILM 71",
+            "FILM 72",
+            "FILM 73",
+            "LTEA 120A",
+            "LTEA 120B",
+            "LTEA 120C",
+            "LTEA 138",
+            "COMM 50",
+            "COMM 80"
+          ],
+          "note": "1 course (at least 4 units). Any 4-unit course in Music, Theatre & Dance, or Visual Arts qualifies (1-3 unit courses do not); plus FILM 71/72/73, LTEA 120A/120B/120C/138, COMM 50/80. Letter or P/NP. May NOT overlap Regional Specialization.",
+          "note_zh": "美术 1 门（至少 4 学分）：音乐/戏剧舞蹈/视觉艺术任一 4 学分课均可（1–3 学分课不算），另加 FILM 71/72/73、LTEA 120A/120B/120C/138、COMM 50/80；letter 或 P/NP 均可；不得与区域专攻重叠。"
+        }
+      ],
+      "note": "1 course (at least 4 units).",
+      "note_zh": "1 门（至少 4 学分）。"
+    },
+    {
+      "id": "regional",
+      "title": "Regional Specialization",
+      "title_zh": "区域专攻",
+      "requirements": [
+        {
+          "id": "regional",
+          "name": "Regional Specialization",
+          "name_zh": "区域专攻",
+          "count": 3,
+          "courses": [],
+          "note": "3 courses from the same designated region (FA21 and after: Africa; Multiculturalism in North America; Latin America; Asia/Pacific; Europe; Middle East). At least two must be upper division; one may be P/NP, the other two letter grade. Regional course lists are published per region by the college (see source link). May overlap the Upper-Division Writing requirement; may NOT overlap Fine Arts or Language.",
+          "note_zh": "区域专攻 3 门（同一指定区域；2021 秋及以后入学的区域：非洲、北美多元文化、拉丁美洲、亚太、欧洲、中东）。至少 2 门高年级；1 门可 P/NP、其余须 letter grade。各区域课单由学院分区域公布（见来源链接）。可与高年级写作重叠；不得与美术或外语重叠。"
+        }
+      ],
+      "note": "3 courses in one region, at least 2 upper division.",
+      "note_zh": "同一区域 3 门，至少 2 门高年级。"
+    },
+    {
+      "id": "writing",
+      "title": "Upper-Division Writing",
+      "title_zh": "高年级写作",
+      "requirements": [
+        {
+          "id": "udwriting",
+          "name": "Upper-Division Writing (paper requirement)",
+          "name_zh": "高年级写作（论文要求）",
+          "count": null,
+          "courses": [],
+          "note": "Not a course: at least one upper-division course in the program must include a significant writing component (4500-5000 words, or an 18-20 page paper), from the college Approved Upper-Division Writing list, or by petition with syllabus + graded paper(s) (Option A: one 2500+ word paper; Option B: portfolio totaling 3000+ words with one 1500+ word paper). Papers must be in English, graded C- or better. Poetry, short stories, in-class exams, group projects, lab reports do not count.",
+          "note_zh": "非课程要求：至少一门高年级课须含 significant writing（4500–5000 词或 18–20 页论文），选学院批准清单内的课，或凭大纲 + 成绩论文 petition（A：单篇 2500+ 词；B：作品集共 3000+ 词、其中一篇 1500+ 词）。论文须英文、C- 及以上；诗歌、短篇、在堂考试、小组项目、实验报告不算。"
+        }
+      ],
+      "note": "Paper requirement, not a course.",
+      "note_zh": "论文要求，非课程。"
+    },
+    {
+      "id": "transfer",
+      "title": "Transfer Students",
+      "title_zh": "转学生衔接",
+      "requirements": [
+        {
+          "id": "transfer",
+          "name": "MMW for transfers",
+          "name_zh": "转学生 MMW",
+          "count": 1,
+          "courses": [
+            "MMW 122"
+          ],
+          "note": "IGETC/Cal-GETC/UC Reciprocity transfers: MMW 122 (letter grade, D or better). Partial IGETC: MMW 122 if IGETC Areas 1A and 1B are done, else MMW 12 (6 units); plus the 1-2 missing IGETC requirements. CalGETC without LOTE certification: MMW 122 plus one college-level LOTE course or LOTE proficiency. Transfers: 2 regional courses from the same region, both upper division (instead of 3).",
+          "note_zh": "IGETC/Cal-GETC/UC Reciprocity 转学生：MMW 122（letter grade、D 及以上）。部分 IGETC：1A 与 1B 均完成者修 MMW 122，否则修 MMW 12（6 学分），另补 1–2 门缺失 IGETC 要求；CalGETC 缺 LOTE 认证者另补 1 门大学 LOTE 课或证明 LOTE 达标。转学生区域专攻为同一区域 2 门、均为高年级（非 3 门）。"
+        }
+      ],
+      "note": "Transfers: MMW 122 (or MMW 12) + 2 regional courses.",
+      "note_zh": "转学生：MMW 122（或 MMW 12）+ 区域 2 门。"
+    }
+  ]
+}

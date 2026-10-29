@@ -22,8 +22,21 @@
         <option value="UCSB">UC Santa Barbara</option>
       </select></div>
   </div>
+  <div class="card" id="ucsdCollegeRow" hidden>
+    <div class="field"><label for="collegeSel" data-i18n="ge.ucsdCollegeLabel">学院</label>
+      <select id="collegeSel">
+        <option value="revelle">Revelle College（Revelle 学院）</option>
+        <option value="muir">John Muir College（Muir 学院）</option>
+        <option value="marshall">Thurgood Marshall College（Marshall 学院）</option>
+        <option value="warren">Earl Warren College（Warren 学院）</option>
+        <option value="roosevelt">Eleanor Roosevelt College（Roosevelt 学院）</option>
+        <option value="sixth">Sixth College（Sixth 学院）</option>
+        <option value="seventh">Seventh College（Seventh 学院）</option>
+      </select></div>
+    <p class="hint" id="ucsdSharedNote" data-i18n="ge.ucsdSharedNote">校级统一要求（不计入学院通识，七学院共享）：入学写作要求（ELWR）、美国历史与制度（AHI）、多元平等包容（DEI）1 门、气候变化教育（JTCCER）1 门。</p>
+  </div>
   <div id="noData" class="card" hidden>
-    <p class="hint" data-i18n="ge.noData">本校通识数据尚未入库（目前只有 UCSB）</p>
+    <p class="hint" data-i18n="ge.noData">本校通识数据尚未入库（目前有 UCSB、UCI、UCSD 七学院）</p>
     <div class="btn-row"><a class="btn" href="index.html" data-i18n="ge.goHome">去首页选择</a></div>
   </div>
   <div id="geBody"></div>
@@ -106,8 +119,12 @@ function render(ge) {
   document.getElementById("srcNote").innerHTML = src;
   document.getElementById("geSub").textContent = (isZh() && ge.title_zh) ? ge.title_zh : ge.title;
 }
+function geFile() {
+  if (CAMPUS === "UCSD") return "ucsd-" + Sget("ucsdCollege", "revelle");
+  return CAMPUS.toLowerCase();
+}
 function load() {
-  fetch("data/ge/" + CAMPUS.toLowerCase() + ".json").then(function (r) {
+  fetch("data/ge/" + geFile() + ".json").then(function (r) {
     if (!r.ok) throw new Error("no data");
     return r.json();
   }).then(function (ge) {
@@ -126,6 +143,14 @@ I18N.init().then(function () {
   CAMPUS = Sget("campus", "UCI");
   var csel = document.getElementById("campusSel");
   csel.value = CAMPUS;
+  var colRow = document.getElementById("ucsdCollegeRow");
+  var colSel = document.getElementById("collegeSel");
+  colRow.hidden = (CAMPUS !== "UCSD");
+  colSel.value = Sget("ucsdCollege", "revelle");
+  colSel.addEventListener("change", function () {
+    Sset("ucsdCollege", this.value);
+    load();
+  });
   document.getElementById("engineCard").hidden =
     !(CAMPUS === "UCSB" && Sget("major", "") === "ucsb-environmental-science.json");
   csel.addEventListener("change", function () {

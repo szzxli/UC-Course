@@ -1,0 +1,1206 @@
+{
+  "campus": "UCSD",
+  "major": "Psychology (B.A.)",
+  "checked": "2026-10-29",
+  "n_courses": 144,
+  "courses": [
+    {
+      "code": "BENG 100",
+      "title": "Introduction to Probability and Statistics for Bioengineers",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "BIEB 100",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 1",
+      "title": "The Cell",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 10",
+      "title": "Fundamental Concepts of Modern Biology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 12",
+      "title": "Neurobiology and Behavior (4) Introduction to the organization and functions of the nervous system; topics include molecular, cellular, developmental, systems, and behavioral neurobiology. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only. Note: Students may not receive credit for both BILD 12 and COGS 17. BILD 18. Human Impact on the Environment",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 2",
+      "title": "Multicellular Life",
+      "units": "4",
+      "prerequisites_raw": "BILD 1",
+      "prerequisites_courses": [
+        "BILD 1"
+      ]
+    },
+    {
+      "code": "BILD 20",
+      "title": "Human Genetics in Modern Society",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 26",
+      "title": "Human Physiology (4) Introduction to the elements of human physiology and the functioning of the various organ systems. The course presents a broad, yet detailed, analysis of human physiology, with particular emphasis toward understanding disease processes. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only. Note : Students may not receive credit for BILD 26 after receiving credit for BIPN 100 or BIPN 100R. BILD 28. Immunology, Vaccines, and Immunotherapy (4) Course will provide an overview of the human immune system and how it is exploited to improve human health. Designed for nonbiology majors who want to better understand exciting medical interventions developed in recent years. Course will cover the new SARS-2 vaccine and revolutionary cancer treatments, based on the fundamental understanding of how the immune system fights infection. Discussions will include how the immune system is studied and will “bust” common myths about the immune system. Note : Students will not receive credit if taken after BICD 140. BILD 30. Biology of Plagues: Past and Present",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "BILD 3",
+      "title": "Organismic and Evolutionary Biology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 11",
+      "title": "The Periodic Table",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 12",
+      "title": "Molecules and Reactions",
+      "units": "4",
+      "prerequisites_raw": "CHEM 11",
+      "prerequisites_courses": [
+        "CHEM 11"
+      ]
+    },
+    {
+      "code": "CHEM 13",
+      "title": "Chemistry of Life",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 4",
+      "title": "Chemical Thinking",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CHEM 6A",
+      "title": "General Chemistry I",
+      "units": "4",
+      "prerequisites_raw": "CHEM 4; or MATH 3C",
+      "prerequisites_courses": [
+        "CHEM 4",
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "CHEM 6AH",
+      "title": "Honors General Chemistry I",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "CHEM 6B",
+      "title": "General Chemistry II",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6A; or CHEM 6AH",
+      "prerequisites_courses": [
+        "CHEM 6A",
+        "CHEM 6AH"
+      ]
+    },
+    {
+      "code": "CHEM 6BH",
+      "title": "Honors General Chemistry II",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6AH and MATH 20A",
+      "prerequisites_courses": [
+        "CHEM 6AH",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "CHEM 6C",
+      "title": "General Chemistry III",
+      "units": "4",
+      "prerequisites_raw": "CHEM 6B; or CHEM 6BH",
+      "prerequisites_courses": [
+        "CHEM 6B",
+        "CHEM 6BH"
+      ]
+    },
+    {
+      "code": "COGS 1",
+      "title": "Introduction to Cognitive Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 101A",
+      "title": "Sensation and Perception",
+      "units": "4",
+      "prerequisites_raw": "COGS 1",
+      "prerequisites_courses": [
+        "COGS 1"
+      ]
+    },
+    {
+      "code": "COGS 107A",
+      "title": "Neuroanatomy and Physiology",
+      "units": "4",
+      "prerequisites_raw": "BILD 12; or COGS 17",
+      "prerequisites_courses": [
+        "BILD 12",
+        "COGS 17"
+      ]
+    },
+    {
+      "code": "COGS 107B",
+      "title": "Systems Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "COGS 107A",
+      "prerequisites_courses": [
+        "COGS 107A"
+      ]
+    },
+    {
+      "code": "COGS 107C",
+      "title": "Cognitive Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "COGS 107B",
+      "prerequisites_courses": [
+        "COGS 107B"
+      ]
+    },
+    {
+      "code": "COGS 14A",
+      "title": "Introduction to Research Methods",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 14B",
+      "title": "Introduction to Statistical Analysis",
+      "units": "4",
+      "prerequisites_raw": "COGS 14A",
+      "prerequisites_courses": [
+        "COGS 14A"
+      ]
+    },
+    {
+      "code": "COGS 17",
+      "title": "Neurobiology of Cognition",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "COGS 18",
+      "title": "Introduction to Python (4) This class will teach fundamental Python programming skills and practices, including the “Zen of Python.” Students will focus on scientific computing and learn to write functions and tests, as well as how to debug code using the Jupyter Notebook programming environment. Students may receive credit for one of the following: BILD 62, COGS 18, CSE 8A, or CSE 6R. Recommended preparation: students with limited computing experience may take COGS 3. COGS 20. Exploring the Musical Mind",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 11",
+      "title": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 12",
+      "title": "Basic Data Structures and Object-Oriented Design",
+      "units": "4",
+      "prerequisites_raw": "CSE 8B; or CSE 11",
+      "prerequisites_courses": [
+        "CSE 8B",
+        "CSE 11"
+      ]
+    },
+    {
+      "code": "CSE 6R",
+      "title": "Introduction to Computer Science and Object-Oriented Programming: Python",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 8A",
+      "title": "Introduction to Programming and Computational Problem-Solving I",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 8B",
+      "title": "Introduction to Programming and Computational Problem-Solving II",
+      "units": "4",
+      "prerequisites_raw": "CSE 8A",
+      "prerequisites_courses": [
+        "CSE 8A"
+      ]
+    },
+    {
+      "code": "CSS 1",
+      "title": "Introductory Programming for Computational Social Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "DSC 10",
+      "title": "Principles of Data Science",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECE 15",
+      "title": "Engineering Computation: Introduction to Programming in C",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 1",
+      "title": "Principles of Microeconomics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 120A",
+      "title": "Econometrics A",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "HDS 1",
+      "title": "Introduction to Human Developmental Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MAE 5",
+      "title": "Quantitative Computer Skills",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MAE 8",
+      "title": "MATLAB Programming for Engineering Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A and MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 10A",
+      "title": "Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C; or MATH 4C",
+      "prerequisites_courses": [
+        "MATH 3C",
+        "MATH 4C"
+      ]
+    },
+    {
+      "code": "MATH 10B",
+      "title": "Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 10C",
+      "title": "Calculus III",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 11",
+      "title": "Calculus-Based Introductory Probability and Statistics",
+      "units": "5",
+      "prerequisites_raw": "MATH 10B; or MATH 20B",
+      "prerequisites_courses": [
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 18",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 180A",
+      "title": "Introduction to Probability",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 181A",
+      "title": "Introduction to Mathematical Statistics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 180A and MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 180A",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 183",
+      "title": "Statistical Methods",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 186",
+      "title": "Probability and Statistics for Bioinformatics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 20A",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "MATH 20B",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A; or MATH 10B; or MATH 10C",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+      ]
+    },
+    {
+      "code": "MATH 20C",
+      "title": "Calculus and Analytic Geometry for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 31AH",
+      "title": "Honors Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 31BH",
+      "title": "Honors Multivariable Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Foundations of Precalculus",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3C",
+      "title": "Precalculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4C",
+      "title": "Precalculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C",
+      "prerequisites_courses": [
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "PHIL 10",
+      "title": "Introduction to Logic",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 12",
+      "title": "Scientific Reasoning",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 137",
+      "title": "Moral Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHIL 149",
+      "title": "Philosophy of Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYS 10",
+      "title": "Concepts in Physics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PHYS 11",
+      "title": "Survey of Physics",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A",
+      "prerequisites_courses": [
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "PHYS 1A",
+      "title": "Mechanics",
+      "units": "3",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "PHYS 1B",
+      "title": "Electricity and Magnetism",
+      "units": "3",
+      "prerequisites_raw": "PHYS 1A or PHYS 2A and MATH 10B or MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 1A",
+        "PHYS 2A",
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 1C",
+      "title": "Waves, Optics, and Modern Physics",
+      "units": "3",
+      "prerequisites_raw": "PHYS 1B or PHYS 2B and MATH 10B or MATH 20B",
+      "prerequisites_courses": [
+        "PHYS 1B",
+        "PHYS 2B",
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "Physics—Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 10B; or MATH 20A; or MATH 20B; or MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 10B",
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2B",
+      "title": "Physics—Electricity and Magnetism",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and MATH 20B or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 2C",
+      "title": "Physics—Fluids, Waves, Thermodynamics, and Optics",
+      "units": "4",
+      "prerequisites_raw": "PHYS 2A or PHYS 4A and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "PHYS 2A",
+        "PHYS 4A",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Physics Majors–Mechanics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A",
+      "prerequisites_courses": [
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "PSYC 100",
+      "title": "Clinical Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 101",
+      "title": "Developmental Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 102",
+      "title": "Sensory Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 104",
+      "title": "Social Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 105",
+      "title": "Cognitive Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 106",
+      "title": "Behavioral Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 108",
+      "title": "Cognitive Neuroscience",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 110",
+      "title": "Juniors Honors Research Seminars",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 111A",
+      "title": "Research Methods I",
+      "units": "6",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 111B",
+      "title": "Research Methods II",
+      "units": "6",
+      "prerequisites_raw": "PSYC 111A",
+      "prerequisites_courses": [
+        "PSYC 111A"
+      ]
+    },
+    {
+      "code": "PSYC 122",
+      "title": "Mechanisms of Animal Behavior",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 124",
+      "title": "Clinical Assessment and Treatment",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 125",
+      "title": "Clinical Neuropsychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 126",
+      "title": "Practicum in Community Mental Health Care",
+      "units": "4",
+      "prerequisites_raw": "PSYC 100 and PSYC 124",
+      "prerequisites_courses": [
+        "PSYC 100",
+        "PSYC 124"
+      ]
+    },
+    {
+      "code": "PSYC 127",
+      "title": "Sexual Health Inequities and Sexual Well-Being",
+      "units": "4",
+      "prerequisites_raw": "PSYC 60 and PSYC 70 and PSYC 172",
+      "prerequisites_courses": [
+        "PSYC 60",
+        "PSYC 70",
+        "PSYC 172"
+      ]
+    },
+    {
+      "code": "PSYC 131",
+      "title": "Scientific Racism: Genetics, Intelligence, and Race",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 132",
+      "title": "Hormones and Behavior",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 133",
+      "title": "Circadian Rhythms—Biological Clocks",
+      "units": "4",
+      "prerequisites_raw": "BILD 1; or COGS 107B; or PSYC 106",
+      "prerequisites_courses": [
+        "BILD 1",
+        "COGS 107B",
+        "PSYC 106"
+      ]
+    },
+    {
+      "code": "PSYC 133R",
+      "title": "Circadian Rhythms—Biological Clocks",
+      "units": "4",
+      "prerequisites_raw": "BILD 1; or COGS 107B; or PSYC 106",
+      "prerequisites_courses": [
+        "BILD 1",
+        "COGS 107B",
+        "PSYC 106"
+      ]
+    },
+    {
+      "code": "PSYC 134",
+      "title": "Eating Disorders",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 135",
+      "title": "Belief in Weird Things",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 136",
+      "title": "Cognitive Development",
+      "units": "4",
+      "prerequisites_raw": "PSYC 101; or PSYC 105",
+      "prerequisites_courses": [
+        "PSYC 101",
+        "PSYC 105"
+      ]
+    },
+    {
+      "code": "PSYC 137",
+      "title": "Social Cognition",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 138",
+      "title": "Sound and Music Perception",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 141",
+      "title": "Evolution and Human Nature",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 142",
+      "title": "Psychology of Consciousness",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 143",
+      "title": "Control and Analysis of Human Behavior",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 144",
+      "title": "Memory and Amnesia",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 145",
+      "title": "Psychology of Language",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 146",
+      "title": "Language and Conceptual Development",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 147",
+      "title": "Gender",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 148",
+      "title": "Psychology of Judgment and Decision",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 149",
+      "title": "Educational Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 150",
+      "title": "Cognitive Neuroscience of Vision",
+      "units": "4",
+      "prerequisites_raw": "COGS 101A; or COGS 107C; or PSYC 102; or PSYC 108",
+      "prerequisites_courses": [
+        "COGS 101A",
+        "COGS 107C",
+        "PSYC 102",
+        "PSYC 108"
+      ]
+    },
+    {
+      "code": "PSYC 151",
+      "title": "Tests and Measurement",
+      "units": "4",
+      "prerequisites_raw": "COGS 14B; or MATH 11; or PSYC 60",
+      "prerequisites_courses": [
+        "COGS 14B",
+        "MATH 11",
+        "PSYC 60"
+      ]
+    },
+    {
+      "code": "PSYC 153",
+      "title": "Psychology of Emotion",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 154",
+      "title": "Behavior Modification",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 155",
+      "title": "Health Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 156",
+      "title": "Cognitive Development in Infancy",
+      "units": "4",
+      "prerequisites_raw": "PSYC 101; or HDS 1",
+      "prerequisites_courses": [
+        "PSYC 101",
+        "HDS 1"
+      ]
+    },
+    {
+      "code": "PSYC 158",
+      "title": "Interpersonal Relationships",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 160",
+      "title": "Neuroscience of Decision-Making",
+      "units": "4",
+      "prerequisites_raw": "PSYC 106",
+      "prerequisites_courses": [
+        "PSYC 106"
+      ]
+    },
+    {
+      "code": "PSYC 161",
+      "title": "Engineering Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 162",
+      "title": "Psychology and the Law",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 164",
+      "title": "Criminology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 166",
+      "title": "History of Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 167",
+      "title": "Science of Imagination",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 168",
+      "title": "Psychological Disorders of Childhood",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 169",
+      "title": "Brain Damage and Mental Function",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 171",
+      "title": "Neurobiology of Learning and Memory",
+      "units": "4",
+      "prerequisites_raw": "BILD 12; or COGS 107B; or COGS 17; or PSYC 106; or PSYC 181; or PSYC 181GS; or PSYC 2",
+      "prerequisites_courses": [
+        "BILD 12",
+        "COGS 107B",
+        "COGS 17",
+        "PSYC 106",
+        "PSYC 181",
+        "PSYC 181GS",
+        "PSYC 2"
+      ]
+    },
+    {
+      "code": "PSYC 172",
+      "title": "Psychology of Human Sexuality",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 174",
+      "title": "Visual Cognition",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 175",
+      "title": "Psychology of Mindfulness and Well-being",
+      "units": "4",
+      "prerequisites_raw": "COGS 14B or MATH 11 or PSYC 60 and COGS 14A or PSYC 70",
+      "prerequisites_courses": [
+        "COGS 14B",
+        "MATH 11",
+        "PSYC 60",
+        "COGS 14A",
+        "PSYC 70"
+      ]
+    },
+    {
+      "code": "PSYC 176",
+      "title": "Creativity",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 178",
+      "title": "Industrial Organizational Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 179",
+      "title": "Drugs, Addiction, and Mental Disorders",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 180",
+      "title": "Adolescence",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 181",
+      "title": "Psychopharmacology—Drugs and Behavior",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 181GS",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 184",
+      "title": "Choice and Self-Control",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 185",
+      "title": "Psychology of Climate Crisis",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 186",
+      "title": "Evolutionary Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 186GS",
+      "title": "Global Seminar—Early History of Psychiatry: Psychiatry, Neuroscience, and Pharmacology of the Renaissance through the Enlightenment",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 187",
+      "title": "Development of Social Cognition",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 188",
+      "title": "Impulse Control Disorders",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 189",
+      "title": "Brain, Behavior, and Evolution",
+      "units": "4",
+      "prerequisites_raw": "BILD 2; or COGS 101A; or COGS 107B; or PSYC 102; or PSYC 106",
+      "prerequisites_courses": [
+        "BILD 2",
+        "COGS 101A",
+        "COGS 107B",
+        "PSYC 102",
+        "PSYC 106"
+      ]
+    },
+    {
+      "code": "PSYC 190",
+      "title": "Science of Parenting",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 191",
+      "title": "Psychology of Sleep",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 192",
+      "title": "Senior Seminar in Psychology",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 193",
+      "title": "Topics in Psychology",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 193L",
+      "title": "Psychology Laboratory Topics",
+      "units": "4",
+      "prerequisites_raw": "PSYC 60 or COGS 14B or MATH 11 and PSYC 70 or COGS 14A",
+      "prerequisites_courses": [
+        "PSYC 60",
+        "COGS 14B",
+        "MATH 11",
+        "PSYC 70",
+        "COGS 14A"
+      ]
+    },
+    {
+      "code": "PSYC 195P",
+      "title": "",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 2",
+      "title": "General Psychology: Biological Foundations",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 60",
+      "title": "Introduction to Statistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 70",
+      "title": "Research Methods in Psychology",
+      "units": "4",
+      "prerequisites_raw": "PSYC 60",
+      "prerequisites_courses": [
+        "PSYC 60"
+      ]
+    }
+  ]
+}

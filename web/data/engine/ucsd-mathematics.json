@@ -1,0 +1,263 @@
+{
+  "campus": "UCSD",
+  "major": "Mathematics (B.S.)",
+  "checked": "2026-10-29",
+  "n_courses": 26,
+  "courses": [
+    {
+      "code": "MATH 100A",
+      "title": "Abstract Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 100B",
+      "title": "Abstract Algebra II",
+      "units": "4",
+      "prerequisites_raw": "MATH 100A",
+      "prerequisites_courses": [
+        "MATH 100A"
+      ]
+    },
+    {
+      "code": "MATH 102",
+      "title": "Applied Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 103A",
+      "title": "Modern Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 103B",
+      "title": "Modern Algebra II",
+      "units": "4",
+      "prerequisites_raw": "MATH 103A; or MATH 100A",
+      "prerequisites_courses": [
+        "MATH 103A",
+        "MATH 100A"
+      ]
+    },
+    {
+      "code": "MATH 109",
+      "title": "Mathematical Reasoning",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 10A",
+      "title": "Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C; or MATH 4C",
+      "prerequisites_courses": [
+        "MATH 3C",
+        "MATH 4C"
+      ]
+    },
+    {
+      "code": "MATH 10B",
+      "title": "Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 10C",
+      "title": "Calculus III",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 120A",
+      "title": "Elements of Complex Analysis",
+      "units": "4",
+      "prerequisites_raw": "MATH 20E; or MATH 31CH",
+      "prerequisites_courses": [
+        "MATH 20E",
+        "MATH 31CH"
+      ]
+    },
+    {
+      "code": "MATH 140A",
+      "title": "Foundations of Real Analysis I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 140B",
+      "title": "Foundations of Real Analysis II",
+      "units": "4",
+      "prerequisites_raw": "MATH 140A",
+      "prerequisites_courses": [
+        "MATH 140A"
+      ]
+    },
+    {
+      "code": "MATH 142A",
+      "title": "Introduction to Analysis I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 142B",
+      "title": "Introduction to Analysis II",
+      "units": "4",
+      "prerequisites_raw": "MATH 142A; or MATH 140A",
+      "prerequisites_courses": [
+        "MATH 142A",
+        "MATH 140A"
+      ]
+    },
+    {
+      "code": "MATH 18",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 20A",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "MATH 20B",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A; or MATH 10B; or MATH 10C",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+      ]
+    },
+    {
+      "code": "MATH 20C",
+      "title": "Calculus and Analytic Geometry for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 20D",
+      "title": "Introduction to Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 20E",
+      "title": "Vector Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 31AH",
+      "title": "Honors Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 31BH",
+      "title": "Honors Multivariable Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 31CH",
+      "title": "Honors Vector Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Foundations of Precalculus",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3C",
+      "title": "Precalculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4C",
+      "title": "Precalculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C",
+      "prerequisites_courses": [
+        "MATH 3C"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "campus": "UCSD",
+  "title": "Sixth College General Education",
+  "title_zh": "Sixth 学院通识",
+  "degree": "",
+  "school": "Sixth College",
+  "source_url": "https://sixth.ucsd.edu/academics/requirements/index.html",
+  "sources": [
+    {
+      "label": "Sixth GE requirements",
+      "url": "https://sixth.ucsd.edu/academics/requirements/index.html"
+    },
+    {
+      "label": "UCSD catalog: Sixth",
+      "url": "https://catalog.ucsd.edu/undergraduate/colleges/sixth-college/index.html"
+    }
+  ],
+  "source_note": "Sixth 学院官网 GE 要求页 + UCSD catalog（2026-10-28 核对）；低年级广度课单按学期公布，只写规则 + 链接。",
+  "checked": "2026-10-28",
+  "sections": [
+    {
+      "id": "cat",
+      "title": "Culture, Art, and Technology",
+      "title_zh": "文化、艺术与技术核心序列",
+      "requirements": [
+        {
+          "id": "cat",
+          "name": "Culture, Art, and Technology",
+          "name_zh": "文化、艺术与技术",
+          "count": 3,
+          "courses": [
+            "CAT 1",
+            "CAT 2",
+            "CAT 3"
+          ],
+          "note": "CAT 1 (4 units, fall), CAT 2 (6 units, winter), CAT 3 (6 units, spring). CAT 2/3 include intensive instruction in university-level writing.",
+          "note_zh": "CAT 1（4 学分，秋）+ CAT 2（6 学分，冬）+ CAT 3（6 学分，春）；CAT 2/3 含大学写作强化训练。"
+        }
+      ],
+      "note": "CAT 1/2/3; CAT 2/3 include intensive writing.",
+      "note_zh": "CAT 1/2/3；CAT 2/3 含写作强化。"
+    },
+    {
+      "id": "breadth",
+      "title": "Lower-Division Breadth",
+      "title_zh": "低年级广度",
+      "requirements": [
+        {
+          "id": "it",
+          "name": "Information Technology Fluency",
+          "name_zh": "信息技术 fluency",
+          "count": 1,
+          "courses": [],
+          "note": "1 computing or programming course from the college-approved breadth list (published each quarter).",
+          "note_zh": "信息技术 fluency 1 门（编程/计算方向），按学院每学期公布的广度清单选。"
+        },
+        {
+          "id": "social",
+          "name": "Social Analysis",
+          "name_zh": "社会分析",
+          "count": 2,
+          "courses": [],
+          "note": "2 social science courses from the college-approved breadth list.",
+          "note_zh": "社会分析 2 门（社会科学），按学院广度清单选。"
+        },
+        {
+          "id": "narrative",
+          "name": "Narrative, Aesthetic, and Historical Reasoning",
+          "name_zh": "叙事、审美与历史推理",
+          "count": 2,
+          "courses": [],
+          "note": "2 humanities courses from the college-approved breadth list.",
+          "note_zh": "叙事、审美与历史推理 2 门（人文），按学院广度清单选。"
+        },
+        {
+          "id": "analytical",
+          "name": "Analytical and Scientific Methods",
+          "name_zh": "分析与科学方法",
+          "count": 2,
+          "courses": [],
+          "note": "2 science courses from the college-approved breadth list (options for science and nonscience majors).",
+          "note_zh": "分析与科学方法 2 门（科学），按学院广度清单选（分理工/非理工方向）。"
+        },
+        {
+          "id": "structured",
+          "name": "Structured Reasoning",
+          "name_zh": "结构化推理",
+          "count": 1,
+          "courses": [],
+          "note": "1 math or logic course from the college-approved breadth list.",
+          "note_zh": "结构化推理 1 门（数学或逻辑），按学院广度清单选。"
+        },
+        {
+          "id": "data",
+          "name": "Exploring Data",
+          "name_zh": "探索数据",
+          "count": 1,
+          "courses": [],
+          "note": "1 statistics course from the college-approved breadth list.",
+          "note_zh": "探索数据 1 门（统计），按学院广度清单选。"
+        },
+        {
+          "id": "artmaking",
+          "name": "Art Making",
+          "name_zh": "艺术创作",
+          "count": 2,
+          "courses": [],
+          "note": "Art Making, 8 units (2 courses) in literature, music, theatre and dance, or visual arts, from the college-approved breadth list.",
+          "note_zh": "艺术创作 8 学分（2 门：文学/音乐/戏剧舞蹈/视觉艺术），按学院广度清单选。"
+        }
+      ],
+      "note": "11 lower-division breadth courses from quarterly lists.",
+      "note_zh": "低年级广度 11 门，按学期清单选。"
+    },
+    {
+      "id": "upper",
+      "title": "Upper-Division Requirements",
+      "title_zh": "高年级要求",
+      "requirements": [
+        {
+          "id": "experiential",
+          "name": "Experiential Learning",
+          "name_zh": "体验学习",
+          "count": 1,
+          "courses": [
+            "CAT 90",
+            "CAT 124"
+          ],
+          "note": "1 four-unit upper-division experiential learning course (CAT 90 or CAT 124, or an approved department course, Academic Internship Program, or Study Abroad Program course). May overlap major, minor, and university requirements.",
+          "note_zh": "体验学习 1 门（4 学分高年级：CAT 90 或 CAT 124，或学院批准的系课、学术实习、留学项目课）；可与专业/辅修/校级要求重叠。"
+        },
+        {
+          "id": "cat125",
+          "name": "Upper-Division Writing",
+          "name_zh": "高年级写作",
+          "count": 1,
+          "courses": [
+            "CAT 125",
+            "CAT 125R"
+          ],
+          "note": "CAT 125 or CAT 125R (Public Rhetoric and Practical Communication), 4 units.",
+          "note_zh": "CAT 125 或 CAT 125R（公共修辞与实用沟通），4 学分。"
+        }
+      ],
+      "note": "Experiential learning + CAT 125 upper-division writing.",
+      "note_zh": "体验学习 1 门 + CAT 125 高年级写作 1 门。"
+    }
+  ]
+}

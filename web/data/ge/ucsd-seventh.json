@@ -1,0 +1,116 @@
+{
+  "campus": "UCSD",
+  "title": "Seventh College General Education",
+  "title_zh": "Seventh 学院通识",
+  "degree": "",
+  "school": "Seventh College",
+  "source_url": "https://seventh.ucsd.edu/academics/degree-requirements.html",
+  "sources": [
+    {
+      "label": "UCSD catalog: Seventh",
+      "url": "https://catalog.ucsd.edu/undergraduate/colleges/seventh-college/index.html"
+    },
+    {
+      "label": "Seventh FAQs",
+      "url": "https://seventh.ucsd.edu/about/faq/index.html"
+    }
+  ],
+  "source_note": "UCSD catalog Seventh 章 + 学院 FAQ 页（2026-10-28 核对）；备选区课单按学期公布，只写规则 + 链接。",
+  "checked": "2026-10-28",
+  "sections": [
+    {
+      "id": "synthesis",
+      "title": "Synthesis",
+      "title_zh": "综合",
+      "requirements": [
+        {
+          "id": "syn",
+          "name": "Synthesis sequence",
+          "name_zh": "综合序列",
+          "count": 3,
+          "courses": [
+            "SYN 1",
+            "SYN 2",
+            "SYN 100"
+          ],
+          "note": "SYN 1 and SYN 2 (intensive university-level writing; R remote versions also offered) plus SYN 100 (project-based, requires junior or senior standing). Synthesis courses are exclusive to Seventh College and cannot overlap other requirements. Transfer students must complete SYN 100; SYN 150 (letter grade) is recommended preparation and fulfills the high-impact requirement.",
+          "note_zh": "SYN 1、SYN 2（大学写作强化，另有 R 远程版）+ SYN 100（项目制，须高年级 standing）；综合课为 Seventh 专属，不得与其他要求重叠。转学生须修 SYN 100；建议先修 SYN 150（letter grade 可抵高影响要求）。"
+        }
+      ],
+      "note": "SYN 1/2 + SYN 100; transfers must take SYN 100.",
+      "note_zh": "SYN 1/2 + SYN 100；转学生须 SYN 100。"
+    },
+    {
+      "id": "alternatives",
+      "title": "Alternatives",
+      "title_zh": "备选区",
+      "requirements": [
+        {
+          "id": "alt-arts",
+          "name": "Arts",
+          "name_zh": "艺术",
+          "count": 2,
+          "courses": [],
+          "note": "2 courses from the college-approved Arts list (published each quarter). May overlap major, minor, and university requirements.",
+          "note_zh": "艺术区 2 门，按学院每学期公布的批准清单选；可与专业/辅修/校级要求重叠。"
+        },
+        {
+          "id": "alt-humanities",
+          "name": "Humanities",
+          "name_zh": "人文",
+          "count": 2,
+          "courses": [],
+          "note": "2 courses from the college-approved Humanities list.",
+          "note_zh": "人文区 2 门，按学院批准清单选；可重叠。"
+        },
+        {
+          "id": "alt-nateng",
+          "name": "Natural Sciences and Engineering",
+          "name_zh": "自然科学与工程",
+          "count": 2,
+          "courses": [],
+          "note": "2 courses from the college-approved Natural Sciences and Engineering list.",
+          "note_zh": "自然科学与工程区 2 门，按学院批准清单选；可重叠。"
+        },
+        {
+          "id": "alt-quant",
+          "name": "Quantitative Reasoning",
+          "name_zh": "定量推理",
+          "count": 2,
+          "courses": [],
+          "note": "2 courses from the college-approved Quantitative Reasoning list.",
+          "note_zh": "定量推理区 2 门，按学院批准清单选；可重叠。"
+        },
+        {
+          "id": "alt-social",
+          "name": "Social Sciences",
+          "name_zh": "社会科学",
+          "count": 2,
+          "courses": [],
+          "note": "2 courses from the college-approved Social Sciences list.",
+          "note_zh": "社会科学区 2 门，按学院批准清单选；可重叠。"
+        }
+      ],
+      "note": "2 courses in each of 5 areas from quarterly lists; may overlap major.",
+      "note_zh": "5 区各 2 门，按学期清单选；可与专业重叠。"
+    },
+    {
+      "id": "highimpact",
+      "title": "High-Impact",
+      "title_zh": "高影响",
+      "requirements": [
+        {
+          "id": "highimpact",
+          "name": "High-Impact",
+          "name_zh": "高影响",
+          "count": 1,
+          "courses": [],
+          "note": "1 course (2-4 units) from approved experiential learning options: internship, mentored research, study abroad, or other significant experiential learning (including SYN 150 taken for a letter grade, SYN 198/199 after SYN 100). May overlap major, minor, and university requirements. Transfer students must complete SYN 100 + high-impact; IGETC exempts the Alternatives areas.",
+          "note_zh": "高影响 1 门（2–4 学分）：实习、导师制研究、留学或其他重要体验学习（含 letter grade 的 SYN 150、SYN 100 之后的 SYN 198/199）；可重叠。转学生须完成 SYN 100 + 高影响；IGETC 免备选区。"
+        }
+      ],
+      "note": "1 course (2-4 units) of experiential learning.",
+      "note_zh": "1 门（2–4 学分）体验学习。"
+    }
+  ]
+}

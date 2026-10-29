@@ -1,0 +1,1405 @@
+{
+  "campus": "UCSD",
+  "major": "Economics (B.A.)",
+  "checked": "2026-10-29",
+  "n_courses": 141,
+  "courses": [
+    {
+      "code": "CSE 11",
+      "title": "Introduction to Programming and Computational Problem-Solving: Accelerated Pace",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 20",
+      "title": "Discrete Mathematics",
+      "units": "4",
+      "prerequisites_raw": "CSE 11; or CSE 6R; or CSE 8A; or CSE 8B; or ECE 15",
+      "prerequisites_courses": [
+        "CSE 11",
+        "CSE 6R",
+        "CSE 8A",
+        "CSE 8B",
+        "ECE 15"
+      ]
+    },
+    {
+      "code": "CSE 21",
+      "title": "Mathematics for Algorithms and Systems",
+      "units": "4",
+      "prerequisites_raw": "CSE 20; or MATH 31CH",
+      "prerequisites_courses": [
+        "CSE 20",
+        "MATH 31CH"
+      ]
+    },
+    {
+      "code": "CSE 6R",
+      "title": "Introduction to Computer Science and Object-Oriented Programming: Python",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 8A",
+      "title": "Introduction to Programming and Computational Problem-Solving I",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "CSE 8B",
+      "title": "Introduction to Programming and Computational Problem-Solving II",
+      "units": "4",
+      "prerequisites_raw": "CSE 8A",
+      "prerequisites_courses": [
+        "CSE 8A"
+      ]
+    },
+    {
+      "code": "ECE 109",
+      "title": "Engineering Probability and Statistics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A and MATH 20B and MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 20B",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECE 15",
+      "title": "Engineering Computation: Introduction to Programming in C",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 1",
+      "title": "Principles of Microeconomics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 100A",
+      "title": "Microeconomics A",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 100AH",
+      "title": "Honors Microeconomics A",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 100B",
+      "title": "Microeconomics B",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A",
+      "prerequisites_courses": [
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 100BH",
+      "title": "Honors Microeconomics B",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 100C",
+      "title": "Microeconomics C",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 100CH",
+      "title": "Honors Microeconomics C",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 101",
+      "title": "International Trade",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B; or ECON 102",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 102"
+      ]
+    },
+    {
+      "code": "ECON 102",
+      "title": "Globalization",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 or ECON 100B and ECON 2 or ECON 3 or MATH 20C",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 100B",
+        "ECON 2",
+        "ECON 3",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "ECON 102T",
+      "title": "Advanced Topic in Globalization",
+      "units": "2",
+      "prerequisites_raw": "ECON 102",
+      "prerequisites_courses": [
+        "ECON 102"
+      ]
+    },
+    {
+      "code": "ECON 103",
+      "title": "International Monetary Relations",
+      "units": "4",
+      "prerequisites_raw": "ECON 102; or ECON 110B; or ECON 173A",
+      "prerequisites_courses": [
+        "ECON 102",
+        "ECON 110B",
+        "ECON 173A"
+      ]
+    },
+    {
+      "code": "ECON 104",
+      "title": "Nobody’s Fool: Economics with Morals",
+      "units": "2",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 105",
+      "title": "Industrial Organization and Firm Strategy",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 106",
+      "title": "International Economic Agreements",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B and ECON 102",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 102"
+      ]
+    },
+    {
+      "code": "ECON 107",
+      "title": "Economic Regulation and Antitrust Policy",
+      "units": "4",
+      "prerequisites_raw": "ECON 2 or ECON 100B and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100B",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 109",
+      "title": "Game Theory",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C; or MATH 31CH; or MATH 109; or CSE 20 and MATH 20C",
+      "prerequisites_courses": [
+        "ECON 100C",
+        "MATH 31CH",
+        "MATH 109",
+        "CSE 20",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "ECON 109T",
+      "title": "Advanced Topics in Game Theory",
+      "units": "2",
+      "prerequisites_raw": "ECON 109",
+      "prerequisites_courses": [
+        "ECON 109"
+      ]
+    },
+    {
+      "code": "ECON 110A",
+      "title": "Long Run Macroeconomics",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 110AH",
+      "title": "Honors Macroeconomics A",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 110B",
+      "title": "Short Run Macroeconomics",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 110BH",
+      "title": "Honors Macroeconomics B",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 111",
+      "title": "Monetary Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 110B",
+      "prerequisites_courses": [
+        "ECON 110B"
+      ]
+    },
+    {
+      "code": "ECON 112",
+      "title": "Macroeconomic Data Analysis",
+      "units": "4",
+      "prerequisites_raw": "ECON 110B and ECON 120B or MATH 181B",
+      "prerequisites_courses": [
+        "ECON 110B",
+        "ECON 120B",
+        "MATH 181B"
+      ]
+    },
+    {
+      "code": "ECON 113",
+      "title": "Mathematical Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C or MATH 140A or MATH 142A and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "ECON 100C",
+        "MATH 140A",
+        "MATH 142A",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "ECON 116",
+      "title": "Economic Development",
+      "units": "4",
+      "prerequisites_raw": "ECON 2; or ECON 100B",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 117",
+      "title": "Economic Growth",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A",
+      "prerequisites_courses": [
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 118",
+      "title": "Law and Economics: Torts, Property, and Crime",
+      "units": "4",
+      "prerequisites_raw": "ECON 2 or ECON 100A and MATH 10A or MATH 20A",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "ECON 119",
+      "title": "Law and Economics: Contracts and Corporations",
+      "units": "4",
+      "prerequisites_raw": "ECON 2 or ECON 100A and MATH 10A or MATH 20A",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "ECON 120A",
+      "title": "Econometrics A",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 120AH",
+      "title": "Honors Econometrics A",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 120B",
+      "title": "Econometrics B",
+      "units": "4",
+      "prerequisites_raw": "ECON 120A; or ECE 109; or MAE 108; or MATH 180A; or MATH 183; or MATH 186",
+      "prerequisites_courses": [
+        "ECON 120A",
+        "ECE 109",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186"
+      ]
+    },
+    {
+      "code": "ECON 120BH",
+      "title": "Honors Econometrics B",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 120C",
+      "title": "Econometrics C",
+      "units": "4",
+      "prerequisites_raw": "ECON 120B; or MATH 181B",
+      "prerequisites_courses": [
+        "ECON 120B",
+        "MATH 181B"
+      ]
+    },
+    {
+      "code": "ECON 120CH",
+      "title": "Honors Econometrics C",
+      "units": "1",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 121",
+      "title": "Applied Econometrics and Data Analysis",
+      "units": "4",
+      "prerequisites_raw": "ECON 120B or MATH 181B and ECON 120C or ECON 5 or POLI 5 or POLI 5D",
+      "prerequisites_courses": [
+        "ECON 120B",
+        "MATH 181B",
+        "ECON 120C",
+        "ECON 5",
+        "POLI 5",
+        "POLI 5D"
+      ]
+    },
+    {
+      "code": "ECON 122",
+      "title": "Econometric Theory",
+      "units": "4",
+      "prerequisites_raw": "ECON 120B or MATH 181B and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "ECON 120B",
+        "MATH 181B",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "ECON 125",
+      "title": "The Science of Population",
+      "units": "4",
+      "prerequisites_raw": "PSYC 60; or MATH 183; or MATH 181A; or MATH 11; or ECON 120A; or MATH 186; or ECE 109; or MAE 108",
+      "prerequisites_courses": [
+        "PSYC 60",
+        "MATH 183",
+        "MATH 181A",
+        "MATH 11",
+        "ECON 120A",
+        "MATH 186",
+        "ECE 109",
+        "MAE 108"
+      ]
+    },
+    {
+      "code": "ECON 129",
+      "title": "Cities, Inequality, Innovation",
+      "units": "4",
+      "prerequisites_raw": "ECON 110A and ECON 120A or ECE 109 or MAE 108 or MATH 180A or MATH 183 or MATH 186",
+      "prerequisites_courses": [
+        "ECON 110A",
+        "ECON 120A",
+        "ECE 109",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186"
+      ]
+    },
+    {
+      "code": "ECON 130",
+      "title": "Public Policy",
+      "units": "4",
+      "prerequisites_raw": "ECON 2; or ECON 100A",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 131",
+      "title": "Economics of the Environment",
+      "units": "4",
+      "prerequisites_raw": "ECON 2; or ECON 100A",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 132",
+      "title": "Energy Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 2 or ECON 3 or ECON 100A or ECON 131 or ESYS 103 or MAE 124 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 2",
+        "ECON 3",
+        "ECON 100A",
+        "ECON 131",
+        "ESYS 103",
+        "MAE 124",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 132T",
+      "title": "Advanced Topics in Energy Economics",
+      "units": "2",
+      "prerequisites_raw": "ECON 132",
+      "prerequisites_courses": [
+        "ECON 132"
+      ]
+    },
+    {
+      "code": "ECON 134",
+      "title": "US Budget Policy",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A",
+      "prerequisites_courses": [
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 135",
+      "title": "Urban Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 2 or ECON 100A and MATH 10A or MATH 20A",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "ECON 136",
+      "title": "Human Resources",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B",
+      "prerequisites_courses": [
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 137",
+      "title": "Corruption",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C and ECON 120C",
+      "prerequisites_courses": [
+        "ECON 100C",
+        "ECON 120C"
+      ]
+    },
+    {
+      "code": "ECON 138",
+      "title": "Economics of Discrimination",
+      "units": "4",
+      "prerequisites_raw": "ECON 1",
+      "prerequisites_courses": [
+        "ECON 1"
+      ]
+    },
+    {
+      "code": "ECON 139",
+      "title": "Labor Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 2; or ECON 100B",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 140",
+      "title": "Economics of Health Care Production and Finance",
+      "units": "4",
+      "prerequisites_raw": "ECON 2; or ECON 100B",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100B"
+      ]
+    },
+    {
+      "code": "ECON 141",
+      "title": "Economics of Health Consumers",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 142",
+      "title": "Behavioral Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100B; or ECON 109",
+      "prerequisites_courses": [
+        "ECON 100B",
+        "ECON 109"
+      ]
+    },
+    {
+      "code": "ECON 143",
+      "title": "Experimental Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 144",
+      "title": "Economics of Conservation",
+      "units": "4",
+      "prerequisites_raw": "ECON 2; or ECON 100A",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 145",
+      "title": "Economics of Ocean Resources",
+      "units": "4",
+      "prerequisites_raw": "ECON 2; or ECON 100A",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 146",
+      "title": "Economic Stabilization",
+      "units": "4",
+      "prerequisites_raw": "ECON 110B",
+      "prerequisites_courses": [
+        "ECON 110B"
+      ]
+    },
+    {
+      "code": "ECON 147",
+      "title": "Economics of Education",
+      "units": "4",
+      "prerequisites_raw": "ECON 2 or ECON 100A and ECON 120B or MATH 181B",
+      "prerequisites_courses": [
+        "ECON 2",
+        "ECON 100A",
+        "ECON 120B",
+        "MATH 181B"
+      ]
+    },
+    {
+      "code": "ECON 149",
+      "title": "Introduction to Economic Design",
+      "units": "4",
+      "prerequisites_raw": "MATH 109; or ECON 100A; or CSE 21; or CSE 20; or MATH 154; or MATH 188; or MATH 184",
+      "prerequisites_courses": [
+        "MATH 109",
+        "ECON 100A",
+        "CSE 21",
+        "CSE 20",
+        "MATH 154",
+        "MATH 188",
+        "MATH 184"
+      ]
+    },
+    {
+      "code": "ECON 150",
+      "title": "Public Economics: Taxation",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 151",
+      "title": "Public Economics: Expenditures I",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 152",
+      "title": "Public Economics: Expenditures II",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 152T",
+      "title": "Advanced Topics in Family Economics and Social Insurance",
+      "units": "2",
+      "prerequisites_raw": "ECON 152",
+      "prerequisites_courses": [
+        "ECON 152"
+      ]
+    },
+    {
+      "code": "ECON 158",
+      "title": "Economic History of the United States I",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 159",
+      "title": "Economic History of the United States II",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 162",
+      "title": "Economics of Mexico",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    {
+      "code": "ECON 164",
+      "title": "The Indian Economy",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    {
+      "code": "ECON 164T",
+      "title": "Advanced Topics in the Indian Economy",
+      "units": "2",
+      "prerequisites_raw": "ECON 164",
+      "prerequisites_courses": [
+        "ECON 164"
+      ]
+    },
+    {
+      "code": "ECON 165",
+      "title": "Middle East Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    {
+      "code": "ECON 165T",
+      "title": "Advanced Topics in Middle East Economics",
+      "units": "2",
+      "prerequisites_raw": "ECON 165",
+      "prerequisites_courses": [
+        "ECON 165"
+      ]
+    },
+    {
+      "code": "ECON 167",
+      "title": "Economics of China",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    {
+      "code": "ECON 168",
+      "title": "Economics of Modern Israel",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    {
+      "code": "ECON 169",
+      "title": "Economics of Korea",
+      "units": "4",
+      "prerequisites_raw": "ECON 3 and ECON 100A",
+      "prerequisites_courses": [
+        "ECON 3",
+        "ECON 100A"
+      ]
+    },
+    {
+      "code": "ECON 171",
+      "title": "Decisions Under Uncertainty",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A and ECE 109 or MAE 108 or MATH 181A or ECON 120A or MATH 180A or MATH 183 or MATH 186 or MATH 180B",
+      "prerequisites_courses": [
+        "ECON 100A",
+        "ECE 109",
+        "MAE 108",
+        "MATH 181A",
+        "ECON 120A",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186",
+        "MATH 180B"
+      ]
+    },
+    {
+      "code": "ECON 172A",
+      "title": "Operations Research A",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A and ECON 120A or ECE 109 or MATH 180A or MATH 183 or MATH 186 and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "ECON 100A",
+        "ECON 120A",
+        "ECE 109",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 186",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "ECON 172B",
+      "title": "Operations Research B",
+      "units": "4",
+      "prerequisites_raw": "ECON 172A; or MATH 171A",
+      "prerequisites_courses": [
+        "ECON 172A",
+        "MATH 171A"
+      ]
+    },
+    {
+      "code": "ECON 173A",
+      "title": "Financial Markets",
+      "units": "4",
+      "prerequisites_raw": "ECON 100A and ECON 120B or MATH 181B and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "ECON 100A",
+        "ECON 120B",
+        "MATH 181B",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "ECON 173B",
+      "title": "Corporate Finance",
+      "units": "4",
+      "prerequisites_raw": "ECON 4 or MGT 4 and ECON 173A",
+      "prerequisites_courses": [
+        "ECON 4",
+        "MGT 4",
+        "ECON 173A"
+      ]
+    },
+    {
+      "code": "ECON 174",
+      "title": "Financial Risk Management",
+      "units": "4",
+      "prerequisites_raw": "ECON 173A",
+      "prerequisites_courses": [
+        "ECON 173A"
+      ]
+    },
+    {
+      "code": "ECON 175",
+      "title": "International Financial Markets",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3",
+        "MATH 10C",
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "ECON 176",
+      "title": "Marketing",
+      "units": "4",
+      "prerequisites_raw": "ECON 120C",
+      "prerequisites_courses": [
+        "ECON 120C"
+      ]
+    },
+    {
+      "code": "ECON 178",
+      "title": "Machine Learning for Economics and Business",
+      "units": "4",
+      "prerequisites_raw": "ECON 120C",
+      "prerequisites_courses": [
+        "ECON 120C"
+      ]
+    },
+    {
+      "code": "ECON 181",
+      "title": "Topics in Economics",
+      "units": "4",
+      "prerequisites_raw": "ECON 1 and ECON 3",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    {
+      "code": "ECON 182",
+      "title": "Topics in Microeconomics",
+      "units": "4",
+      "prerequisites_raw": "ECON 100C",
+      "prerequisites_courses": [
+        "ECON 100C"
+      ]
+    },
+    {
+      "code": "ECON 183",
+      "title": "Topics in Macroeconomics",
+      "units": "4",
+      "prerequisites_raw": "ECON 110B",
+      "prerequisites_courses": [
+        "ECON 110B"
+      ]
+    },
+    {
+      "code": "ECON 184",
+      "title": "Topics in Economics with Data Analytics",
+      "units": "4",
+      "prerequisites_raw": "ECON 120B; or MATH 181B",
+      "prerequisites_courses": [
+        "ECON 120B",
+        "MATH 181B"
+      ]
+    },
+    {
+      "code": "ECON 185",
+      "title": "Detecting Discrimination in Data",
+      "units": "4",
+      "prerequisites_raw": "ECON 120B; or MATH 181B",
+      "prerequisites_courses": [
+        "ECON 120B",
+        "MATH 181B"
+      ]
+    },
+    {
+      "code": "ECON 186",
+      "title": "Careers in Economics and Business",
+      "units": "2",
+      "prerequisites_raw": "ECON 1 and ECON 3",
+      "prerequisites_courses": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    {
+      "code": "ECON 190",
+      "title": "An Introduction to Research in Economics",
+      "units": "2",
+      "prerequisites_raw": "ECON 100A and ECE 109 or ECON 120A or MATH 181A or MATH 186 or MATH 183 or MAE 108 or MATH 180A",
+      "prerequisites_courses": [
+        "ECON 100A",
+        "ECE 109",
+        "ECON 120A",
+        "MATH 181A",
+        "MATH 186",
+        "MATH 183",
+        "MAE 108",
+        "MATH 180A"
+      ]
+    },
+    {
+      "code": "ECON 191A",
+      "title": "Senior Essay Seminar A",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 191B",
+      "title": "Senior Essay Seminar B",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 195P",
+      "title": "Pedagogy and Learning Apprenticeship",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 198",
+      "title": "Directed Group Study",
+      "units": "2 or 4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 199",
+      "title": "Independent Study",
+      "units": "2 or 4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 2",
+      "title": "Market Imperfections and Policy",
+      "units": "4",
+      "prerequisites_raw": "ECON 1",
+      "prerequisites_courses": [
+        "ECON 1"
+      ]
+    },
+    {
+      "code": "ECON 3",
+      "title": "Principles of Macroeconomics",
+      "units": "4",
+      "prerequisites_raw": "ECON 1",
+      "prerequisites_courses": [
+        "ECON 1"
+      ]
+    },
+    {
+      "code": "ECON 4",
+      "title": "Financial Accounting",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ECON 5",
+      "title": "Data Analytics for the Social Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "ESYS 103",
+      "title": "Environmental Challenges: Science and Solutions",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MAE 108",
+      "title": "Probability and Statistical Methods for Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 18",
+      "prerequisites_courses": [
+        "MATH 18"
+      ]
+    },
+    {
+      "code": "MAE 124",
+      "title": "Environmental Challenges: Science and Solutions",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 100A",
+      "title": "Abstract Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 103A",
+      "title": "Modern Algebra I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 109",
+      "title": "Mathematical Reasoning",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 10A",
+      "title": "Calculus I",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C; or MATH 4C",
+      "prerequisites_courses": [
+        "MATH 3C",
+        "MATH 4C"
+      ]
+    },
+    {
+      "code": "MATH 10B",
+      "title": "Calculus II",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 10C",
+      "title": "Calculus III",
+      "units": "4",
+      "prerequisites_raw": "MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 11",
+      "title": "Calculus-Based Introductory Probability and Statistics",
+      "units": "5",
+      "prerequisites_raw": "MATH 10B; or MATH 20B",
+      "prerequisites_courses": [
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 140A",
+      "title": "Foundations of Real Analysis I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 142A",
+      "title": "Introduction to Analysis I",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 154",
+      "title": "Discrete Mathematics and Graph Theory",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 171A",
+      "title": "Introduction to Numerical Optimization: Linear Programming",
+      "units": "4",
+      "prerequisites_raw": "MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 18",
+      "title": "Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A; or MATH 20A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    {
+      "code": "MATH 180A",
+      "title": "Introduction to Probability",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 180B",
+      "title": "Introduction to Stochastic Processes I",
+      "units": "4",
+      "prerequisites_raw": "MATH 20D and MATH 18 or MATH 31AH and MATH 109 or MATH 31CH and MATH 180A",
+      "prerequisites_courses": [
+        "MATH 20D",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 109",
+        "MATH 31CH",
+        "MATH 180A"
+      ]
+    },
+    {
+      "code": "MATH 181A",
+      "title": "Introduction to Mathematical Statistics I",
+      "units": "4",
+      "prerequisites_raw": "MATH 180A and MATH 18 or MATH 31AH and MATH 20C",
+      "prerequisites_courses": [
+        "MATH 180A",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    {
+      "code": "MATH 181B",
+      "title": "Introduction to Mathematical Statistics II",
+      "units": "4",
+      "prerequisites_raw": "MATH 181A",
+      "prerequisites_courses": [
+        "MATH 181A"
+      ]
+    },
+    {
+      "code": "MATH 183",
+      "title": "Statistical Methods",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 184",
+      "title": "Enumerative Combinatorics",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH; or MATH 109",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109"
+      ]
+    },
+    {
+      "code": "MATH 186",
+      "title": "Probability and Statistics for Bioinformatics",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C; or MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 188",
+      "title": "Algebraic Combinatorics",
+      "units": "4",
+      "prerequisites_raw": "MATH 31CH or MATH 109 and MATH 18 or MATH 31AH and MATH 100A or MATH 103A",
+      "prerequisites_courses": [
+        "MATH 31CH",
+        "MATH 109",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 100A",
+        "MATH 103A"
+      ]
+    },
+    {
+      "code": "MATH 20A",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 4C; or MATH 10A",
+      "prerequisites_courses": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    {
+      "code": "MATH 20B",
+      "title": "Calculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20A; or MATH 10B; or MATH 10C",
+      "prerequisites_courses": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+      ]
+    },
+    {
+      "code": "MATH 20C",
+      "title": "Calculus and Analytic Geometry for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 20B",
+      "prerequisites_courses": [
+        "MATH 20B"
+      ]
+    },
+    {
+      "code": "MATH 20D",
+      "title": "Introduction to Differential Equations",
+      "units": "4",
+      "prerequisites_raw": "MATH 20C or MATH 31BH and MATH 18 or MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 20C",
+        "MATH 31BH",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 31AH",
+      "title": "Honors Linear Algebra",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 31BH",
+      "title": "Honors Multivariable Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31AH",
+      "prerequisites_courses": [
+        "MATH 31AH"
+      ]
+    },
+    {
+      "code": "MATH 31CH",
+      "title": "Honors Vector Calculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 31BH",
+      "prerequisites_courses": [
+        "MATH 31BH"
+      ]
+    },
+    {
+      "code": "MATH 3B",
+      "title": "Foundations of Precalculus",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "MATH 3C",
+      "title": "Precalculus",
+      "units": "4",
+      "prerequisites_raw": "MATH 3B",
+      "prerequisites_courses": [
+        "MATH 3B"
+      ]
+    },
+    {
+      "code": "MATH 4C",
+      "title": "Precalculus for Science and Engineering",
+      "units": "4",
+      "prerequisites_raw": "MATH 3C",
+      "prerequisites_courses": [
+        "MATH 3C"
+      ]
+    },
+    {
+      "code": "MGT 4",
+      "title": "Financial Accounting",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "POLI 5",
+      "title": "",
+      "units": "",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "POLI 5D",
+      "title": "Data Analytics for the Social Sciences",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    },
+    {
+      "code": "PSYC 60",
+      "title": "Introduction to Statistics",
+      "units": "4",
+      "prerequisites_raw": "",
+      "prerequisites_courses": []
+    }
+  ]
+}

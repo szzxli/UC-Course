@@ -1,0 +1,306 @@
+{
+  "campus": "UCSD",
+  "title": "Revelle College General Education",
+  "title_zh": "Revelle 学院通识",
+  "degree": "",
+  "school": "Revelle College",
+  "source_url": "https://revelle.ucsd.edu/academics/general-education/index.html",
+  "sources": [
+    {
+      "label": "Revelle GE index",
+      "url": "https://revelle.ucsd.edu/academics/general-education/index.html"
+    },
+    {
+      "label": "Natural Science",
+      "url": "https://revelle.ucsd.edu/academics/general-education/nat-science.html"
+    },
+    {
+      "label": "Social Science",
+      "url": "https://revelle.ucsd.edu/academics/general-education/soc-science.html"
+    }
+  ],
+  "source_note": "Revelle 学院官网 GE 页（2026-10-28 核对）；转学规则见学院 Fall 2026 转学要求页。",
+  "checked": "2026-10-28",
+  "sections": [
+    {
+      "id": "humanities",
+      "title": "Humanities",
+      "title_zh": "人文",
+      "requirements": [
+        {
+          "id": "hum",
+          "name": "Humanities sequence",
+          "name_zh": "人文序列",
+          "count": 5,
+          "courses": [
+            "HUM 1",
+            "HUM 2",
+            "HUM 3",
+            "HUM 4",
+            "HUM 5"
+          ],
+          "note": "Five-course sequence HUM 1 (winter) -> HUM 2 (spring) -> HUM 3 (fall/summer) -> HUM 4 (winter/summer) -> HUM 5 (spring/summer). Letter grade.",
+          "note_zh": "人文 5 门序列：HUM 1（冬）→ HUM 2（春）→ HUM 3（秋/夏）→ HUM 4（冬/夏）→ HUM 5（春/夏），须 letter grade。"
+        }
+      ],
+      "note": "Five-course humanities sequence, letter grade required.",
+      "note_zh": "人文序列 5 门，须 letter grade。"
+    },
+    {
+      "id": "math",
+      "title": "Mathematics",
+      "title_zh": "数学",
+      "requirements": [
+        {
+          "id": "math",
+          "name": "Mathematics",
+          "name_zh": "数学",
+          "count": 3,
+          "courses": [
+            "MATH 10A",
+            "MATH 20A",
+            "MATH 10B",
+            "MATH 20B",
+            "MATH 10C",
+            "MATH 20C",
+            "MATH 11",
+            "MATH 18",
+            "MATH 31AH",
+            "DSC 10",
+            "PHIL 10",
+            "PSYC 60"
+          ],
+          "note": "1 quarter of calculus (MATH 10A/20A) plus 2 courses from MATH 10B/20B, 10C/20C, 11, 18/31AH, DSC 10, PHIL 10, PSYC 60. Letter grade.",
+          "note_zh": "微积分 1 门（MATH 10A/20A）+ 再 2 门（MATH 10B/20B、10C/20C、11、18/31AH、DSC 10、PHIL 10、PSYC 60），须 letter grade。"
+        }
+      ],
+      "note": "1 calculus course + 2 more, letter grade required.",
+      "note_zh": "微积分 1 门 + 再 2 门，须 letter grade。"
+    },
+    {
+      "id": "natsci",
+      "title": "Natural Science",
+      "title_zh": "自然科学",
+      "requirements": [
+        {
+          "id": "natsci",
+          "name": "Natural Science",
+          "name_zh": "自然科学",
+          "count": 5,
+          "courses": [
+            "BILD 1",
+            "BILD 2",
+            "BILD 3",
+            "BILD 5",
+            "BILD 7",
+            "BILD 10",
+            "BILD 12",
+            "COGS 17",
+            "BILD X13",
+            "BILD 18",
+            "BILD 20",
+            "BILD 22",
+            "BILD 26",
+            "BILD 28",
+            "BILD 30",
+            "BILD 32",
+            "BILD 36",
+            "BILD 38",
+            "BILD 42",
+            "BILD 44",
+            "BILD 46",
+            "BILD 51",
+            "BILD 60",
+            "BILD 61",
+            "CHEM 4",
+            "CHEM 6A",
+            "CHEM 6B",
+            "CHEM 6C",
+            "CHEM 6AH",
+            "CHEM 6BH",
+            "CHEM 6CH",
+            "CHEM 11",
+            "ASTR 1",
+            "ASTR 2",
+            "ASTR 3",
+            "ASTR 4",
+            "ASTR 20A",
+            "ASTR 20B",
+            "PHYS 8",
+            "PHYS 10",
+            "PHYS 11",
+            "PHYS 12",
+            "PHYS 1A",
+            "PHYS 1B",
+            "PHYS 1C",
+            "PHYS 2A",
+            "PHYS 2B",
+            "PHYS 2C",
+            "PHYS 2D",
+            "PHYS 4A",
+            "PHYS 4B",
+            "PHYS 4C",
+            "PHYS 4D",
+            "PHYS 4E",
+            "ESYS 10",
+            "SIO 1",
+            "SIO 3",
+            "SIO 10",
+            "SIO 12",
+            "SIO 15",
+            "SIO 16",
+            "SIO 20",
+            "SIO 25",
+            "SIO 30",
+            "SIO 35",
+            "SIO 40",
+            "SIO 45",
+            "SIO 46GS",
+            "SIO 50",
+            "SIO 60",
+            "SIO 121GS",
+            "PHIL 12",
+            "ASTR 15"
+          ],
+          "note": "5 courses: 1 Biology + 1 Chemistry + 1 Physics + 2 additional from the approved list. Labs are not required for GE (major may require them). Science/engineering/math majors advised letter grade; arts/humanities/social science majors may take P/NP.",
+          "note_zh": "自然科学 5 门：生物 1 门 + 化学 1 门 + 物理 1 门 + 另 2 门（批准清单内）。GE 不要求实验课（专业可能要求）。理工科专业建议 letter grade，文社科专业可 P/NP。"
+        }
+      ],
+      "note": "5 courses: 1 Biology + 1 Chemistry + 1 Physics + 2 additional.",
+      "note_zh": "5 门：生物、化学、物理各 1 门 + 另 2 门。"
+    },
+    {
+      "id": "social",
+      "title": "Social Science",
+      "title_zh": "社会科学",
+      "requirements": [
+        {
+          "id": "social",
+          "name": "Social Science",
+          "name_zh": "社会科学",
+          "count": 2,
+          "courses": [
+            "COGS 1",
+            "COGS 9",
+            "COGS 10",
+            "COGS 11",
+            "COGS 12",
+            "COGS 13",
+            "COGS 14A",
+            "COGS 15",
+            "COGS 20",
+            "COGS 100",
+            "COGS 101A",
+            "COGS 101B",
+            "COGS 101C",
+            "COGS 102A",
+            "COGS 102B",
+            "COGS 102C",
+            "COGS 108",
+            "COGS 110",
+            "COGS 115",
+            "COGS 120",
+            "COGS 143",
+            "COGS 151",
+            "COGS 152",
+            "COGS 153",
+            "COGS 154",
+            "COGS 155",
+            "COGS 156",
+            "COGS 157",
+            "COGS 164",
+            "COGS 169",
+            "COGS 171",
+            "COGS 172",
+            "COGS 174",
+            "COGS 175",
+            "COGS 176",
+            "COGS 178",
+            "COGS 179",
+            "COGS 184",
+            "COGS 188",
+            "AAS 10",
+            "AAS 11",
+            "AAS 14",
+            "AAS 15",
+            "COMM 10",
+            "COMM 20",
+            "COMM 30",
+            "COMM 80",
+            "ENG 30",
+            "GSS 20",
+            "GSS 22",
+            "GSS 27",
+            "LATI 10",
+            "LATI 50",
+            "PHIL 51",
+            "PHIL 148",
+            "HILD 7A",
+            "HILD 7B",
+            "HILD 7C"
+          ],
+          "note": "2 courses (4 units each, upper or lower division) from approved social science departments. Letter grade. Department restrictions: AAS 10/11/14/15 only; COMM 10/20/30/80 only; COGS only the listed courses; Economics lower division only; ENG 30 only; GSS 20/22/27 only; LATI 10/50 only; Linguistics excluding language courses; PHIL 51/148 only; POLI 10-179; HILD 7A/7B/7C only. Other approved departments (any course unless restricted): Anthropology, Critical Gender Studies, Education Studies, Ethnic Studies, Human Developmental Science, International Studies, Psychology, Sociology, Urban Studies and Planning. Special Studies courses do not count; upper-division major courses may not overlap GE. Remote (R) versions accepted.",
+          "note_zh": "社会科学 2 门（每门 4 学分，高/低年级均可），须 letter grade。批准系所 + 限课：AAS 仅 10/11/14/15；COMM 仅 10/20/30/80；COGS 仅下表课程；经济仅低年级；ENG 仅 30；GSS 仅 20/22/27；LATI 仅 10/50；语言学不含语言课；PHIL 仅 51/148；POLI 10–179；HILD 仅 7A/7B/7C。其余批准系（人类学、批判性别研究、教育研究、族裔研究、人类发展科学、国际研究、心理、社会学、城市研究与规划）不限课程。Special Studies 不计；高年级专业课不得与 GE 重叠；R 远程版亦可。"
+        }
+      ],
+      "note": "2 courses, letter grade; department restrictions in the requirement note.",
+      "note_zh": "2 门，须 letter grade；系所限课见要求备注。"
+    },
+    {
+      "id": "arts",
+      "title": "Fine Arts",
+      "title_zh": "美术",
+      "requirements": [
+        {
+          "id": "arts",
+          "name": "Fine Arts",
+          "name_zh": "美术",
+          "count": 1,
+          "courses": [],
+          "note": "1 course (2-4 units) from Music, Theatre, Dance, or Visual Arts. May be P/NP unless the major requires a letter grade.",
+          "note_zh": "美术 1 门（2–4 学分），音乐/戏剧/舞蹈/视觉艺术中选；除非专业要求 letter grade，否则可 P/NP。"
+        }
+      ],
+      "note": "1 course (2-4 units).",
+      "note_zh": "1 门（2–4 学分）。"
+    },
+    {
+      "id": "language",
+      "title": "Language",
+      "title_zh": "外语",
+      "requirements": [
+        {
+          "id": "language",
+          "name": "Language proficiency",
+          "name_zh": "外语达标",
+          "count": null,
+          "courses": [],
+          "note": "Proficiency in a language other than English, demonstrated by exam or completion of a fourth-quarter intermediate course (0-4 courses depending on placement). May be P/NP unless the major requires a letter grade.",
+          "note_zh": "非英语外语达标：考试通过，或修到第四学期中级水平（按 placement 从 0 到 4 门不等）；除非专业要求 letter grade，否则可 P/NP。"
+        }
+      ],
+      "note": "Proficiency by exam or fourth-quarter level, 0-4 courses.",
+      "note_zh": "达标制：考试或第四学期水平，0–4 门不等。"
+    },
+    {
+      "id": "transfer",
+      "title": "Transfer Students",
+      "title_zh": "转学生衔接",
+      "requirements": [
+        {
+          "id": "transfer-hum100",
+          "name": "HUM 100 for transfers",
+          "name_zh": "转学生 HUM 100",
+          "count": 1,
+          "courses": [
+            "HUM 100"
+          ],
+          "note": "All transfer students admitted Fall 2024 and later must take HUM 100 within their first year. Students with IGETC/Cal-GETC: HUM 1-5 waived, but full Mathematics and Natural Science requirements still required. UC Reciprocity satisfies lower-division GE; required upper-division GE is HUM 100. Transfer students admitted Fall 2026 and after: Natural Science is 3 courses (2 from different Biology/Chemistry/Physics disciplines + 1 additional).",
+          "note_zh": "2024 秋及以后入学的转学生须在第一年内修 HUM 100。IGETC/Cal-GETC 免 HUM 1–5，但数学与自然科学须全修；UC Reciprocity 满足低年级 GE，高年级 GE 为 HUM 100。2026 秋及以后入学的转学生自然科学为 3 门（生物/化学/物理中两个不同学科 2 门 + 另 1 门）。"
+        }
+      ],
+      "note": "Transfers: HUM 100 + full Math/Natural Science (IGETC included).",
+      "note_zh": "转学生：HUM 100 + 数学/自然科学全修（IGETC 亦同）。"
+    }
+  ]
+}
