@@ -61,4 +61,4 @@ function switchCampus(newCampus, msg) {
   return true;
 }
 /* Preserve an arriving ?ref= for later attribution: only the allow-listed values are stored; anything else leaves any existing stored value untouched. */
-(function () { try { var ref = new URLSearchParams(window.location.search).get("ref"); if (["reddit", "transfer-center", "seo"].indexOf(ref) !== -1) { Sset("ref", ref); } } catch (e) {} })();
+(function () { try { var ref = new URLSearchParams(window.location.search).get("ref"); if (["reddit", "transfer-center", "seo"].indexOf(ref) !== -1) { S} } catch (e) {} })();
