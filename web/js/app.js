@@ -60,3 +60,5 @@ function switchCampus(newCampus, msg) {
   resetCampusBound(newCampus);
   return true;
 }
+/* ?ref= is read-only: read from the URL only, never stored. */
+(function () { try { var ref = new URLSearchParams(window.location.search).get("ref"); if (["reddit", "transfer-center", "seo"].indexOf(ref) !== -1) { } } catch (e) {} })();
