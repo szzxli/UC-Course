@@ -60,5 +60,5 @@ function switchCampus(newCampus, msg) {
   resetCampusBound(newCampus);
   return true;
 }
-/* Preserve an arriving ?ref= for later attribution: only the allow-listed values are stored; anything else leaves any existing stored value untouched. */
-(function () { try { var ref = new URLSearchParams(window.location.search).get("ref"); if (["reddit", "transfer-center", "seo"].indexOf(ref) !== -1) { S} } catch (e) {} })();
+/* ?ref= is read-only: read from the URL only, never stored. */
+(function () { try { var ref = new URLSearchParams(window.location.search).get("ref"); if (["reddit", "transfer-center", "seo"].indexOf(ref) !== -1) { } } catch (e) {} })();
