@@ -178,5 +178,14 @@
     "requirement_count": 18,
     "major_zh": "环境科学",
     "major_tw": "環境科學"
+  },
+  {
+    "campus": "UCSB",
+    "major": "Artificial Intelligence",
+    "degree": "B.S.",
+    "file": "ucsb-artificial-intelligence.json",
+    "requirement_count": 7,
+    "major_zh": "人工智能",
+    "major_tw": "人工智能"
   }
 ]
