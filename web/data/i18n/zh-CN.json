@@ -40,6 +40,7 @@
   "index": {
     "campusHint": "目前支持三校：UCI、UCSD、UCSB，更多校区陆续接入。",
     "campusTitle": "🏫 你的校区",
+    "coverageTop": "目前只支持 UCI、UCSD、UCSB 三校，更多校区陆续接入。",
     "footnote": "课程数据来自各校官方课程目录。目前支持 UCI、UCSD、UCSB 三校，更多校区陆续接入。",
     "go": "开始选课 →",
     "goalHint": "同一专业，读研和就业的选课策略完全不同。选一个，排课时会给你不同的建议。注意：目标只影响建议，不改变毕业必修课和先修顺序。",
