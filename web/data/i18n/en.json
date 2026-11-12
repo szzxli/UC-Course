@@ -40,6 +40,7 @@
   "index": {
     "campusHint": "Three campuses supported: UCI, UCSD, UCSB. More campuses on the way.",
     "campusTitle": "🏫 Your campus",
+    "coverageTop": "Currently supports three campuses only: UCI, UCSD, UCSB. More campuses on the way.",
     "footnote": "Course data comes from each campus's official catalog. Currently UCI, UCSD, UCSB; more campuses on the way.",
     "go": "Start picking courses →",
     "goalHint": "The same major calls for very different course strategies for grad school vs. employment. Pick one and the planner will tailor its advice. Your goal changes the advice only — it does not change required courses or prerequisite order.",
