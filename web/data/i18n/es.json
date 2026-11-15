@@ -40,7 +40,7 @@
   "index": {
     "campusHint": "3 campus: UCI, UCSD, UCSB. Administración de empresas, química, historia y otras carreras aún no están cubiertas.",
     "campusTitle": "🏫 Tu campus",
-    "coverageTop": "Para estudiantes que ya están en una UC (no es una herramienta de transferencia). Cubre 3 campus y 21 carreras: UCI, UCSD, UCSB. ¿Sigues en un community college? Empieza con Transfer-OS.",
+    "coverageTop": "Para estudiantes que ya están en una UC (no es una herramienta de transferencia). Cubre 3 campus y 22 carreras: UCI, UCSD, UCSB. ¿Sigues en un community college? Empieza con Transfer-OS.",
     "footnote": "Los datos de cursos vienen del catálogo oficial de cada campus. Solo cubre UCI (6 carreras), UCSD (7) y UCSB (8); hay más campus y carreras previstos.",
     "go": "Empezar a elegir cursos →",
     "goalHint": "La misma carrera exige estrategias muy distintas para posgrado o empleo. Elige una y el planificador adaptará sus consejos. Tu objetivo solo cambia los consejos: no cambia los cursos obligatorios ni el orden de los prerrequisitos.",
@@ -69,7 +69,7 @@
     "geDesc": "Graduarse exige tanto los requisitos de la carrera como la GE: ambos deben cumplirse.",
     "geGo": "Ver requisitos de GE →",
     "engineTitle": "🧠 Planificador inteligente",
-    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (20 de las 21 carreras; UCSB Artificial Intelligence todavía no).",
+    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (20 de las 22 carreras; UCSB y UCSD Artificial Intelligence todavía no).",
     "engineGo": "Planificar automáticamente →",
     "engineDemo": "Ver un horario de ejemplo →",
     "stepsMajor": "Siguiente: requisitos → elegir cursos → planificar trimestres",
@@ -78,13 +78,13 @@
     "statusDesc": "Confirma primero tus cursos completados y créditos transferidos: los planes solo son tan buenos como esta base. Tu plan solo se guarda en este navegador.",
     "statusGo": "Verificar →",
     "pickTitle": "🧠 Selector inteligente",
-    "pickDesc": "Qué cursar el próximo trimestre: primero los prerrequisitos clave, en el orden más corto (20 de las 21 carreras; UCSB Artificial Intelligence todavía no).",
+    "pickDesc": "Qué cursar el próximo trimestre: primero los prerrequisitos clave, en el orden más corto (20 de las 22 carreras; UCSB y UCSD Artificial Intelligence todavía no).",
     "pickGo": "Elegir cursos →",
     "pickDemo": "Ver un ejemplo →",
     "chainTitle": "🧭 Sigue el orden",
     "chainHint": "Una vez elegidos el campus y la carrera, sigue estos pasos en orden",
     "coverageListTitle": "¿Qué campus y carreras están cubiertos?",
-    "coverageListNote": "Solo estas 21 carreras. Si tu carrera no aparece aquí, esta herramienta todavía no puede planificarla.",
+    "coverageListNote": "Solo estas 22 carreras. Si tu carrera no aparece aquí, esta herramienta todavía no puede planificarla.",
     "toTransfer": "Ir a Transfer-OS →"
   },
   "nav": {
@@ -311,11 +311,11 @@
     "required": "Obligatorio",
     "byNote": "Cumplir según las notas",
     "checked": "Revisado {d}",
-    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (20 de las 21 carreras; UCSB Artificial Intelligence todavía no).",
+    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (20 de las 22 carreras; UCSB y UCSD Artificial Intelligence todavía no).",
     "goEngine": "Planificador inteligente →"
   },
   "engine": {
-    "pilotNote": "La planificación personal cubre 20 de las 21 carreras. UCI: Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics. UCSD: Computer Science, Electrical Engineering, Biology, Psychology, Economics, Mathematics, Mathematics-Computer Science. UCSB: Environmental Studies, Computer Science, Electrical Engineering, Biological Sciences, Psychological & Brain Sciences, Economics, Mathematics. UCSB Artificial Intelligence (B.S.) solo muestra los requisitos. Los trimestres de verano, UC Online y los cursos de community college no están en esta versión.",
+    "pilotNote": "La planificación personal cubre 20 de las 22 carreras. UCI: Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics. UCSD: Computer Science, Electrical Engineering, Biology, Psychology, Economics, Mathematics, Mathematics-Computer Science. UCSB: Environmental Studies, Computer Science, Electrical Engineering, Biological Sciences, Psychological & Brain Sciences, Economics, Mathematics. UCSB y UCSD Artificial Intelligence (B.S.) solo muestran los requisitos. Los trimestres de verano, UC Online y los cursos de community college no están en esta versión.",
     "yearsLabel": "Años para graduarse",
     "capLabel": "Unidades máx. por trimestre",
     "startLabel": "Trimestre inicial",
@@ -389,7 +389,7 @@
   "pick": {
     "title": "Selector inteligente",
     "sub": "Qué cursar el próximo trimestre: prerrequisitos clave primero, orden de ruta más corta, con equivalencias y rutas alternativas.",
-    "pilotNote": "Las recomendaciones personales cubren 20 de las 21 carreras (UCI 6, UCSD 7, UCSB 7; UCSB Artificial Intelligence todavía no). Lo siguiente es una demostración.",
+    "pilotNote": "Las recomendaciones personales cubren 20 de las 22 carreras (UCI 6, UCSD 7, UCSB 7; UCSB y UCSD Artificial Intelligence todavía no). Lo siguiente es una demostración.",
     "demoNote": "Ejemplo: no se usan tus cursos completados; solo demuestra la lógica de recomendación.",
     "capLabel": "Límite de unidades del próximo trimestre",
     "haveNote": "Calculado con tus {n} cursos completados; {p} más ya están en tu lista y no se recomiendan de nuevo.",

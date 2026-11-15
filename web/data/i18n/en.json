@@ -40,7 +40,7 @@
   "index": {
     "campusHint": "3 campuses: UCI, UCSD, UCSB. Business, chemistry, history and other majors are not covered yet.",
     "campusTitle": "🏫 Your campus",
-    "coverageTop": "For students who are already at a UC (not a transfer tool). Covers 3 campuses and 21 majors: UCI, UCSD, UCSB. Still at a community college? Start with Transfer-OS.",
+    "coverageTop": "For students who are already at a UC (not a transfer tool). Covers 3 campuses and 22 majors: UCI, UCSD, UCSB. Still at a community college? Start with Transfer-OS.",
     "footnote": "Course data comes from each campus's official catalog. Covers UCI (6 majors), UCSD (7) and UCSB (8) only; more campuses and majors are planned.",
     "go": "Start picking courses →",
     "goalHint": "The same major calls for very different course strategies for grad school vs. employment. Pick one and the planner will tailor its advice. Your goal changes the advice only — it does not change required courses or prerequisite order.",
@@ -69,7 +69,7 @@
     "geDesc": "Graduation needs both major requirements and GE — both must be satisfied.",
     "geGo": "View GE requirements →",
     "engineTitle": "🧠 Smart Scheduler",
-    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (20 of the 21 majors; UCSB Artificial Intelligence not yet).",
+    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (20 of the 22 majors; UCSB and UCSD Artificial Intelligence not yet).",
     "engineGo": "Auto-schedule →",
     "engineDemo": "See a sample schedule →",
     "stepsMajor": "Next: degree requirements → pick courses → plan terms",
@@ -78,13 +78,13 @@
     "statusDesc": "Confirm your completed courses and transfer credits first — plans are only as good as this baseline. Your plan is saved only in this browser.",
     "statusGo": "Check now →",
     "pickTitle": "🧠 Smart course picker",
-    "pickDesc": "What to take next term: key prerequisites first, shortest-path order (20 of the 21 majors; UCSB Artificial Intelligence not yet).",
+    "pickDesc": "What to take next term: key prerequisites first, shortest-path order (20 of the 22 majors; UCSB and UCSD Artificial Intelligence not yet).",
     "pickGo": "Pick courses →",
     "pickDemo": "See a picker example →",
     "chainTitle": "🧭 Follow in order",
     "chainHint": "Once you've picked a campus and major, just follow these steps in order",
     "coverageListTitle": "Which campuses and majors are covered?",
-    "coverageListNote": "Only these 21 majors. If your major is not here, this tool cannot plan it yet.",
+    "coverageListNote": "Only these 22 majors. If your major is not here, this tool cannot plan it yet.",
     "toTransfer": "Go to Transfer-OS →"
   },
   "nav": {
@@ -311,11 +311,11 @@
     "required": "Required",
     "byNote": "Satisfy per notes",
     "checked": "Checked {d}",
-    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (20 of the 21 majors; UCSB Artificial Intelligence not yet).",
+    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (20 of the 22 majors; UCSB and UCSD Artificial Intelligence not yet).",
     "goEngine": "Smart Scheduler →"
   },
   "engine": {
-    "pilotNote": "Personal scheduling covers 20 of the 21 majors. UCI: Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics. UCSD: Computer Science, Electrical Engineering, Biology, Psychology, Economics, Mathematics, Mathematics-Computer Science. UCSB: Environmental Studies, Computer Science, Electrical Engineering, Biological Sciences, Psychological & Brain Sciences, Economics, Mathematics. UCSB Artificial Intelligence (B.S.) shows requirements only. Summer terms, UC Online and community college courses are not in this version.",
+    "pilotNote": "Personal scheduling covers 20 of the 22 majors. UCI: Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics. UCSD: Computer Science, Electrical Engineering, Biology, Psychology, Economics, Mathematics, Mathematics-Computer Science. UCSB: Environmental Studies, Computer Science, Electrical Engineering, Biological Sciences, Psychological & Brain Sciences, Economics, Mathematics. UCSB and UCSD Artificial Intelligence (B.S.) show requirements only. Summer terms, UC Online and community college courses are not in this version.",
     "yearsLabel": "Years to graduate",
     "capLabel": "Max units per term",
     "startLabel": "Starting term",
@@ -389,7 +389,7 @@
   "pick": {
     "title": "Smart course picker",
     "sub": "What to take next term: key prerequisites first, shortest-path order, with equivalents and alternative paths.",
-    "pilotNote": "Personal recommendations cover 20 of the 21 majors (UCI 6, UCSD 7, UCSB 7; UCSB Artificial Intelligence not yet). The following is a demo.",
+    "pilotNote": "Personal recommendations cover 20 of the 22 majors (UCI 6, UCSD 7, UCSB 7; UCSB and UCSD Artificial Intelligence not yet). The following is a demo.",
     "demoNote": "Example: your completed courses are not used here; this only demonstrates the recommendation logic.",
     "capLabel": "Next-term unit cap",
     "haveNote": "Computed from your {n} completed courses; {p} more are already on your course list and are not recommended again.",
