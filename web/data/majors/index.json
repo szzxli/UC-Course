@@ -187,5 +187,14 @@
     "requirement_count": 7,
     "major_zh": "人工智能",
     "major_tw": "人工智能"
+  },
+  {
+    "campus": "UCSD",
+    "major": "Artificial Intelligence",
+    "degree": "B.S.",
+    "file": "ucsd-artificial-intelligence.json",
+    "requirement_count": 10,
+    "major_zh": "人工智能",
+    "major_tw": "人工智能"
   }
 ]
