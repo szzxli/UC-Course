@@ -1,4 +1,4 @@
-# UC 智选 (UC SmartPick) — Project Spec (Draft v0.2)
+# UC 选课规划 (UC Course Planner) — Project Spec (Draft v0.2)
 
 Date: 2026-10-17
 Status: Name and MVP campuses decided. Awaiting repo creation + Phase 1 kickoff.
@@ -57,7 +57,7 @@ This is the biggest cost of the project — ongoing maintenance, not one-time. M
 
 ## 8. Open Decisions
 
-1. ~~Project name~~ — decided: UC 智选 / UC SmartPick.
+1. ~~Project name~~ — decided: UC 选课规划 / UC Course Planner.
 2. ~~MVP campuses~~ — decided: UCLA, UCB, UCSD, UCI, UCSB.
 3. ~~Repo: user creates (same as transferos-China — no permission to create repos).~~ — decided: **UC Course** (user creates, then grants App access). ⏳ PENDING.
 4. Data ToS: verify scraping terms for each UC catalog before building the pipeline.

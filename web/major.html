@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" href="data:,">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title data-i18n="title.major">专业 · UC 智选</title>
+<title data-i18n="title.major">专业 · UC 选课规划</title>
 <link rel="stylesheet" href="css/app.css">
+<script>document.documentElement.className += " i18n-pending";</script>
 <meta name="theme-color" content="#132625">
 </head>
 <body>
@@ -235,7 +237,7 @@ I18N.init().then(function () {
       h = '<div class="card"><div class="section-title">' + esc(I18N.t("major.overlapTitle", { n: ov.length })) + '</div>' +
         '<p class="hint">' + esc(I18N.t("major.overlapHint")) + '</p>' +
         (ov.length ? ov.map(function (o) {
-          return courseRowHTML(o.code, MD1.major + ": " + o.r1.join("; ") + " ｜ " + MD2.major + ": " + o.r2.join("; "));
+          return courseRowHTML(o.code, MD1.major + ": " + o.r1.join("; ") + " | " + MD2.major + ": " + o.r2.join("; "));
         }).join("") : '<p class="hint">' + esc(I18N.t("major.overlapNone")) + '</p>') + '</div>';
     } else {
       var md = VIEW === "m2" && MD2 ? MD2 : MD1;
@@ -344,9 +346,9 @@ I18N.init().then(function () {
       var k = Engine.normCode(node.code);
       return (set.has(k) ? "✓ " : "✗ ") + node.code;
     }
-    var join = node.op === "OR" ? " 或 " : " 且 ";
+    var join = node.op === "OR" ? (isZh() ? " 或 " : " OR ") : (isZh() ? " 且 " : " AND ");
     var inner = node.items.map(function (x) { return renderTree(x, set); }).join(join);
-    return node.items.length > 1 ? "（" + inner + "）" : inner;
+    return node.items.length > 1 ? "(" + inner + ")" : inner;
   }
   function fillChain(code) {
     var box = document.getElementById("chainBox");
@@ -361,20 +363,20 @@ I18N.init().then(function () {
     mds.forEach(function (md) {
       (md.requirements || []).forEach(function (r) {
         if (reqAllCourses(r).map(normCode).indexOf(k) >= 0) {
-          reqLines.push((mds.length > 1 ? reqDisplayName(r) + "（" + (isZh() ? (md.major_zh || md.major) : md.major) + "）" : reqDisplayName(r)));
+          reqLines.push((mds.length > 1 ? reqDisplayName(r) + " (" + (isZh() ? (md.major_zh || md.major) : md.major) + ")" : reqDisplayName(r)));
         }
       });
     });
     var h = '<div class="section-title">' + esc(I18N.t("major.chainTitle")) + '</div>';
-    h += '<p class="hint">' + esc(I18N.t("major.chainReqs")) + '：' +
-      (reqLines.length ? esc(reqLines.join("、")) : esc(I18N.t("major.chainReqNone"))) + '</p>';
+    h += '<p class="hint">' + esc(I18N.t("major.chainReqs")) + I18N.colon() +
+      (reqLines.length ? esc(reqLines.join(I18N.sep())) : esc(I18N.t("major.chainReqNone"))) + '</p>';
     var stateText = inHave(k) ? I18N.t("major.chainHave")
       : (plannedSet.has(k) ? I18N.t("major.chainPlanned") : "");
     var pilot = null;
     mds.forEach(function (md) { if (md && PILOT_ENG[md.file]) pilot = md; });
     function finish(preHTML, downHTML) {
       box.innerHTML = h + preHTML + downHTML +
-        (stateText ? '<p class="hint">' + esc(I18N.t("major.chainState")) + '：' + esc(stateText) + '</p>' : '');
+        (stateText ? '<p class="hint">' + esc(I18N.t("major.chainState")) + I18N.colon() + esc(stateText) + '</p>' : '');
     }
     if (!pilot) {
       finish('<p class="hint">' + esc(I18N.t("major.chainNoData")) + '</p>', '');
@@ -393,22 +395,22 @@ I18N.init().then(function () {
       }
       var preHTML = "";
       if (!t) {
-        preHTML = '<p class="hint">' + esc(I18N.t("major.chainPre")) + '：' + esc(I18N.t("major.chainNoPre")) + '</p>';
+        preHTML = '<p class="hint">' + esc(I18N.t("major.chainPre")) + I18N.colon() + esc(I18N.t("major.chainNoPre")) + '</p>';
         if (!stateText) stateText = I18N.t("major.chainOk");
       } else {
-        preHTML = '<p class="hint">' + esc(I18N.t("major.chainPre")) + '：' + renderTree(t, bothSet) + '</p>';
+        preHTML = '<p class="hint">' + esc(I18N.t("major.chainPre")) + I18N.colon() + renderTree(t, bothSet) + '</p>';
         if (!stateText) {
           if (Engine.treeSatisfied(t, haveSet)) stateText = I18N.t("major.chainOk");
           else if (Engine.treeSatisfied(t, bothSet)) stateText = I18N.t("major.chainPlannedPre");
           else {
             var miss = Engine.treeLeafCodes(t, []).filter(function (c) { return !bothSet.has(c); });
-            stateText = I18N.t("major.chainBlocked") + miss.slice(0, 5).join("、") + (miss.length > 5 ? "…" : "");
+            stateText = I18N.t("major.chainBlocked") + miss.slice(0, 5).join(I18N.sep()) + (miss.length > 5 ? "…" : "");
           }
         }
       }
       var down = eng.down[k] || [];
-      var downHTML = '<p class="hint">' + esc(I18N.t("major.chainDown")) + '：' +
-        (down.length ? esc(I18N.t("major.chainDownN", { n: down.length })) + esc(down.slice(0, 8).join("、")) +
+      var downHTML = '<p class="hint">' + esc(I18N.t("major.chainDown")) + I18N.colon() +
+        (down.length ? esc(I18N.t("major.chainDownN", { n: down.length })) + esc(down.slice(0, 8).join(I18N.sep())) +
           (down.length > 8 ? "…" : "") + (down.length >= 6 ? ' <span class="tag done">🔑 ' + esc(I18N.t("major.chainKey")) + '</span>' : "")
           : esc(I18N.t("major.chainDownNone"))) + '</p>';
       finish(preHTML, downHTML);

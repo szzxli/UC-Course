@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" href="data:,">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title data-i18n="title.plan">排课 · UC 智选</title>
+<title data-i18n="title.plan">排课 · UC 选课规划</title>
 <link rel="stylesheet" href="css/app.css">
+<script>document.documentElement.className += " i18n-pending";</script>
 <meta name="theme-color" content="#132625">
 </head>
 <body>
@@ -36,7 +38,7 @@
     <p class="hint" id="statusLine" style="margin-top:8px"></p>
   </div>
   <div class="card">
-    <div class="section-title"><span data-i18n="plan.myTitle">📋 我的选课</span>（<span id="cnt">0</span> <span data-i18n="plan.unitCourses">门</span>）</div>
+    <div class="section-title"><span data-i18n="plan.myTitle">📋 我的选课</span> (<span id="cnt">0</span> <span data-i18n="plan.unitCourses">门</span>)</div>
     <div id="myList"></div>
     <div class="field"><label for="maxU" data-i18n="plan.maxU">每 quarter 学分上限</label>
       <select id="maxU"></select></div>
@@ -587,7 +589,7 @@ function render(plan, input, altPlan, altInput, isDemo) {
       '<p class="hint">' + esc(I18N.t("engine.failDetail", {
         u: plan.unscheduled.length, extra: plan.extraTerms, cp: plan.criticalPathTerms, ml: plan.minTermsByLoad
       })) + "</p>" +
-      '<p class="hint">' + esc(plan.unscheduled.slice(0, 12).join("、")) + "</p>" +
+      '<p class="hint">' + esc(plan.unscheduled.slice(0, 12).join(I18N.sep())) + "</p>" +
       '<p class="hint">' + esc(I18N.t("engine.certText")) + "</p></div>";
   }
   /* 方案比较卡：你的方案 vs 一个有意义的备选（最快 3 年 × 21 学分，或均衡 4 年 × 16 学分） */
@@ -631,12 +633,12 @@ function render(plan, input, altPlan, altInput, isDemo) {
   }
   h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.coverageMajor")) + "</div>";
   plan.coverage.major.forEach(function (r) {
-    h += '<p class="hint"><b>' + esc(r.name) + "</b>：" + esc(r.courses.join("、")) + "</p>";
+    h += '<p class="hint"><b>' + esc(r.name) + "</b>" + I18N.colon() + esc(r.courses.join(I18N.sep())) + "</p>";
   });
   h += "</div>";
   h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.coverageGe")) + "</div>";
   plan.coverage.ge.forEach(function (r) {
-    h += '<p class="hint"><b>' + esc(r.name) + "</b>：" + esc(r.courses.join("、")) + "</p>";
+    h += '<p class="hint"><b>' + esc(r.name) + "</b>" + I18N.colon() + esc(r.courses.join(I18N.sep())) + "</p>";
   });
   h += "</div>";
   h += '<div class="card"><div class="section-title">' + esc(I18N.t("engine.warningsTitle")) + "</div>";
@@ -657,7 +659,7 @@ function render(plan, input, altPlan, altInput, isDemo) {
     var firstTerm = null;
     for (var fi = 0; fi < plan.terms.length; fi++) { if (plan.terms[fi].courses.length) { firstTerm = plan.terms[fi]; break; } }
     var firstKeys = firstTerm ? firstTerm.courses.filter(function (c) { return c.key; }).map(function (c) { return c.code; }) : [];
-    if (firstKeys.length) acts.push(esc(I18N.t("engine.actionKeyNext", { c: firstKeys.join("、") })));
+    if (firstKeys.length) acts.push(esc(I18N.t("engine.actionKeyNext", { c: firstKeys.join(I18N.sep()) })));
     acts.push('<a href="courses.html#pick">' + esc(I18N.t("engine.actionIfFull")) + '</a>');
     if (!isDemo) {
       var vs = Sget("planVersions", []);

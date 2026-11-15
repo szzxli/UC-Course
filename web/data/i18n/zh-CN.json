@@ -1,7 +1,7 @@
 {
   "brand": {
     "courses": "🔍 选课",
-    "index": "🎓 UC 智选",
+    "index": "🎓 UC 选课规划",
     "plan": "🗓️ 排课",
     "major": "🎓 专业毕业要求",
     "traj": "🛤️ 我的进度",
@@ -38,10 +38,10 @@
     "segMap": "先修地图"
   },
   "index": {
-    "campusHint": "目前支持三校：UCI、UCSD、UCSB，更多校区陆续接入。",
+    "campusHint": "目前支持三校：UCI、UCSD、UCSB。商科、化学、历史等专业还没有。",
     "campusTitle": "🏫 你的校区",
-    "coverageTop": "目前只支持 UCI、UCSD、UCSB 三校，更多校区陆续接入。",
-    "footnote": "课程数据来自各校官方课程目录。目前支持 UCI、UCSD、UCSB 三校，更多校区陆续接入。",
+    "coverageTop": "这个工具给已经进了 UC 的在读学生用（不是转学工具）。目前只覆盖 UCI、UCSD、UCSB 三校，共 21 个专业。还在社区大学？请先用 Transfer-OS。",
+    "footnote": "课程数据来自各校官方课程目录。目前只覆盖 UCI（6 个专业）、UCSD（7 个）、UCSB（8 个），更多校区和专业在计划中。",
     "go": "开始选课 →",
     "goalHint": "同一专业，读研和就业的选课策略完全不同。选一个，排课时会给你不同的建议。注意：目标只影响建议，不改变毕业必修课和先修顺序。",
     "goalTitle": "🎯 先定目标，再选课",
@@ -69,7 +69,7 @@
     "geDesc": "毕业要同时满足专业要求和通识（GE）要求，两边都满足才算毕业。",
     "geGo": "查看通识要求 →",
     "engineTitle": "🧠 智能排课引擎",
-    "engineDesc": "说几年毕业，自动按先修链排好学期表（试点：UCSB 环境科学）。",
+    "engineDesc": "说几年毕业，自动按先修链排好学期表（21 个专业中的 20 个；UCSB 人工智能暂不支持）。",
     "engineGo": "自动排课 →",
     "engineDemo": "看看排课示例 →",
     "stepsMajor": "接下来：看毕业要求 → 选课 → 排学期",
@@ -78,11 +78,14 @@
     "statusDesc": "先确认已修课程和转学分，排课才算得准。规划只保存在这台浏览器，换设备或清缓存会丢。",
     "statusGo": "去核验 →",
     "pickTitle": "🧠 智能选课",
-    "pickDesc": "下学期先修什么：关键先修优先、最短路径排序（试点：UCSB 环境科学）。",
+    "pickDesc": "下学期先修什么：关键先修优先、最短路径排序（21 个专业中的 20 个；UCSB 人工智能暂不支持）。",
     "pickGo": "智能选课 →",
     "pickDemo": "看看选课示例 →",
     "chainTitle": "🧭 按顺序走",
-    "chainHint": "选好校区和专业后，按下面顺序走就行"
+    "chainHint": "选好校区和专业后，按下面顺序走就行",
+    "coverageListTitle": "覆盖哪些校区和专业？",
+    "coverageListNote": "只有这 21 个专业。你的专业不在里面，这个工具暂时还排不了。",
+    "toTransfer": "去 Transfer-OS →"
   },
   "nav": {
     "courses": "选课",
@@ -136,7 +139,7 @@
     "copyDraft": "📋 复制课表文本",
     "copied": "已复制，去 WebReg 按课程代码搜索抢课",
     "draftNote": "导出的是课程代码（CCN 是每学期选课时才分配的编号，在学校官网查）。",
-    "draftExportHead": "UC SmartPick 课表草稿 · {campus}",
+    "draftExportHead": "UC Course Planner 课表草稿 · {campus}",
     "scopeNote": "⚠️ 本评估只针对已选的 {n} 门课，未包含尚未选入的毕业要求（通识、专业其余课程等），不能当作整个学位的毕业结论。",
     "coverageLine": "已选 {u} 学分 / 学位总学分约 180（UC 学士学位通行总量）≈ {p}%",
     "genEmpty": "清单是空的，先加几门课再回来生成排课。",
@@ -173,16 +176,16 @@
     ]
   },
   "title": {
-    "courses": "选课 · UC 智选",
-    "index": "UC 智选 UC SmartPick",
-    "plan": "排课 · UC 智选",
-    "major": "专业 · UC 智选",
-    "traj": "进度 · UC 智选",
-    "transfer": "转学分导入 - UC 智选",
-    "ge": "通识与毕业要求 · UC 智选",
-    "engine": "智能排课引擎 · UC 智选",
-    "status": "学业状态核验 · UC 智选",
-    "requirements": "毕业要求 · UC 智选"
+    "courses": "选课 · UC 选课规划",
+    "index": "UC 选课规划",
+    "plan": "排课 · UC 选课规划",
+    "major": "专业 · UC 选课规划",
+    "traj": "进度 · UC 选课规划",
+    "transfer": "转学分导入 - UC 选课规划",
+    "ge": "通识与毕业要求 · UC 选课规划",
+    "engine": "智能排课引擎 · UC 选课规划",
+    "status": "学业状态核验 · UC 选课规划",
+    "requirements": "毕业要求 · UC 选课规划"
   },
   "warn": {
     "listSep": "、",
@@ -241,7 +244,7 @@
     "chainDown": "后续影响",
     "chainDownN": "直接影响 {n} 门课：",
     "chainDownNone": "无直接后续课程",
-    "chainNoData": "先修与后续影响数据未入库（目前仅 UCSB 环境科学与 UCSD 数学-计算机科学试点提供）",
+    "chainNoData": "先修与后续影响链目前只有 UCSB 环境研究（Environmental Studies）和 UCSD 数学-计算机科学提供。",
     "chainLoadFail": "先修数据加载失败",
     "chainLoading": "先修链加载中…",
     "chainHave": "已修",
@@ -308,11 +311,11 @@
     "required": "必修",
     "byNote": "按说明满足",
     "checked": "核对于 {d}",
-    "engineDesc": "说几年毕业，自动按先修链排好学期表（试点：UCSB 环境科学）。",
+    "engineDesc": "说几年毕业，自动按先修链排好学期表（21 个专业中的 20 个；UCSB 人工智能暂不支持）。",
     "goEngine": "智能排课引擎 →"
   },
   "engine": {
-    "pilotNote": "试点：UCSB 环境科学（B.S.）与 6 个专业（计算机科学、电气工程、生物科学、心理学、经济学、数学）、UCSD 7 个专业（计算机科学、电气工程、生物科学、心理学、经济学、数学、数学-计算机科学）与 UCI 计算机科学、电气工程、生物科学、心理学、经济学、数学。夏季学期、UC Online 与社区大学课不在本版，属后续期次。",
+    "pilotNote": "个人排课覆盖 21 个专业中的 20 个。UCI：计算机科学、电气工程、生物科学、心理学、经济学、数学。UCSD：计算机科学、电气工程、生物学、心理学、经济学、数学、数学-计算机科学。UCSB：环境研究、计算机科学、电气工程、生物科学、心理与脑科学、经济学、数学。UCSB 人工智能（B.S.）只显示毕业要求。夏季学期、UC Online 与社区大学课不在本版。",
     "yearsLabel": "目标毕业年数",
     "capLabel": "每学期最大学分",
     "startLabel": "起始学期",
@@ -386,7 +389,7 @@
   "pick": {
     "title": "智能选课",
     "sub": "下学期先修什么：关键先修优先、最短路径排序，附等效与备选路径。",
-    "pilotNote": "试点范围：UCSB 环境科学（B.S.）与 6 个专业、UCSD 7 个专业与 UCI 6 个专业（计算机科学、电气工程、生物科学、心理学、经济学、数学），以下为示例。",
+    "pilotNote": "个人推荐覆盖 21 个专业中的 20 个（UCI 6 个、UCSD 7 个、UCSB 7 个；UCSB 人工智能暂不支持）。以下为示例。",
     "demoNote": "示例：未使用你的已修数据，仅演示推荐逻辑。",
     "capLabel": "下学期学分上限",
     "haveNote": "已按你的已修 {n} 门算；另有 {p} 门已在选课清单中，不再重复推荐。",
@@ -410,7 +413,7 @@
     "emptyRec": "本学期没有可修的必修课（可能已修完，或全部被先修卡住）。",
     "emptyBlocked": "没有被先修卡住的必修课。",
     "honesty": "先修按目录原文 and/or 解析；原文为空时按快照扁平列表任一满足处理。满足要求不代表课程一定开设、有名额，也不代表学校已确认毕业资格；选课前请以 GOLD / 学院官网复核。热门课（选课人数、候补数）暂无数据源，本页不显示热度。",
-    "pilotNoteUcsd": "试点范围：UCSD 数学-计算机科学（B.S.），以下为该专业个人推荐。",
+    "pilotNoteUcsd": "UCSD 数学-计算机科学（B.S.），以下为该专业个人推荐。",
     "ucsdElectiveNote": "选修池（应用数学、计算、综合各 8 学分）暂不自动推荐，请对照毕业要求页自选。",
     "ucsdElectiveNoteGeneric": "部分选修池（无固定课单）暂不自动推荐，请对照毕业要求页自选。"
   },

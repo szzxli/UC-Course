@@ -1,7 +1,7 @@
 {
   "brand": {
     "courses": "🔍 Courses",
-    "index": "🎓 UC SmartPick",
+    "index": "🎓 UC Course Planner",
     "plan": "🗓️ Plan Schedule",
     "major": "🎓 Major Requirements",
     "traj": "🛤️ My Progress",
@@ -38,10 +38,10 @@
     "segMap": "Prereq Map"
   },
   "index": {
-    "campusHint": "Three campuses supported: UCI, UCSD, UCSB. More campuses on the way.",
+    "campusHint": "3 campuses: UCI, UCSD, UCSB. Business, chemistry, history and other majors are not covered yet.",
     "campusTitle": "🏫 Your campus",
-    "coverageTop": "Currently supports three campuses only: UCI, UCSD, UCSB. More campuses on the way.",
-    "footnote": "Course data comes from each campus's official catalog. Currently UCI, UCSD, UCSB; more campuses on the way.",
+    "coverageTop": "For students who are already at a UC (not a transfer tool). Covers 3 campuses and 21 majors: UCI, UCSD, UCSB. Still at a community college? Start with Transfer-OS.",
+    "footnote": "Course data comes from each campus's official catalog. Covers UCI (6 majors), UCSD (7) and UCSB (8) only; more campuses and majors are planned.",
     "go": "Start picking courses →",
     "goalHint": "The same major calls for very different course strategies for grad school vs. employment. Pick one and the planner will tailor its advice. Your goal changes the advice only — it does not change required courses or prerequisite order.",
     "goalTitle": "🎯 Pick a goal first",
@@ -69,7 +69,7 @@
     "geDesc": "Graduation needs both major requirements and GE — both must be satisfied.",
     "geGo": "View GE requirements →",
     "engineTitle": "🧠 Smart Scheduler",
-    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (pilot: UCSB Environmental Studies).",
+    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (20 of the 21 majors; UCSB Artificial Intelligence not yet).",
     "engineGo": "Auto-schedule →",
     "engineDemo": "See a sample schedule →",
     "stepsMajor": "Next: degree requirements → pick courses → plan terms",
@@ -78,11 +78,14 @@
     "statusDesc": "Confirm your completed courses and transfer credits first — plans are only as good as this baseline. Your plan is saved only in this browser.",
     "statusGo": "Check now →",
     "pickTitle": "🧠 Smart course picker",
-    "pickDesc": "What to take next term: key prerequisites first, shortest-path order (pilot: UCSB Environmental Studies).",
+    "pickDesc": "What to take next term: key prerequisites first, shortest-path order (20 of the 21 majors; UCSB Artificial Intelligence not yet).",
     "pickGo": "Pick courses →",
     "pickDemo": "See a picker example →",
     "chainTitle": "🧭 Follow in order",
-    "chainHint": "Once you've picked a campus and major, just follow these steps in order"
+    "chainHint": "Once you've picked a campus and major, just follow these steps in order",
+    "coverageListTitle": "Which campuses and majors are covered?",
+    "coverageListNote": "Only these 21 majors. If your major is not here, this tool cannot plan it yet.",
+    "toTransfer": "Go to Transfer-OS →"
   },
   "nav": {
     "courses": "Courses",
@@ -136,7 +139,7 @@
     "copyDraft": "📋 Copy schedule text",
     "copied": "Copied — search by course code in WebReg",
     "draftNote": "Exports course codes (CCN is the per-term enrollment number assigned when classes open — look it up on the registrar site).",
-    "draftExportHead": "UC SmartPick schedule draft · {campus}",
+    "draftExportHead": "UC Course Planner schedule draft · {campus}",
     "scopeNote": "⚠️ This assessment covers only the {n} course(s) you selected. Requirements you haven't added (GE, remaining major courses, etc.) are not included — it is not a verdict for the whole degree.",
     "coverageLine": "Selected: {u} units / ~180 total for a UC bachelor's degree ≈ {p}%",
     "genEmpty": "Your list is empty — add some courses first, then generate a plan.",
@@ -173,16 +176,16 @@
     ]
   },
   "title": {
-    "courses": "Courses · UC SmartPick",
-    "index": "UC SmartPick",
-    "plan": "Plan Schedule · UC SmartPick",
-    "major": "Major · UC SmartPick",
-    "traj": "Progress · UC SmartPick",
-    "transfer": "Transfer Credit Import - UC SmartPick",
-    "ge": "GE & Graduation Requirements · UC SmartPick",
-    "engine": "Smart Scheduler · UC SmartPick",
-    "status": "Academic status check · UC SmartPick",
-    "requirements": "Requirements · UC SmartPick"
+    "courses": "Courses · UC Course Planner",
+    "index": "UC Course Planner",
+    "plan": "Plan Schedule · UC Course Planner",
+    "major": "Major · UC Course Planner",
+    "traj": "Progress · UC Course Planner",
+    "transfer": "Transfer Credit Import - UC Course Planner",
+    "ge": "GE & Graduation Requirements · UC Course Planner",
+    "engine": "Smart Scheduler · UC Course Planner",
+    "status": "Academic status check · UC Course Planner",
+    "requirements": "Requirements · UC Course Planner"
   },
   "warn": {
     "listSep": ", ",
@@ -241,7 +244,7 @@
     "chainDown": "Unlocks",
     "chainDownN": "Directly unlocks {n} courses:",
     "chainDownNone": "No direct follow-up courses",
-    "chainNoData": "Prerequisite and follow-up data not available yet (pilots only: UCSB Environmental Studies and UCSD Mathematics-Computer Science)",
+    "chainNoData": "Prerequisite and follow-up chains are available so far only for UCSB Environmental Studies and UCSD Mathematics-Computer Science.",
     "chainLoadFail": "Failed to load prerequisite data",
     "chainLoading": "Loading explanation…",
     "chainHave": "Completed",
@@ -308,11 +311,11 @@
     "required": "Required",
     "byNote": "Satisfy per notes",
     "checked": "Checked {d}",
-    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (pilot: UCSB Environmental Studies).",
+    "engineDesc": "Say how many years to graduate — it auto-schedules terms along prereq chains (20 of the 21 majors; UCSB Artificial Intelligence not yet).",
     "goEngine": "Smart Scheduler →"
   },
   "engine": {
-    "pilotNote": "Pilot: UCSB Environmental Studies (B.S.) and 6 majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics), 7 UCSD majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics, Mathematics-Computer Science) and UCI Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics. Summer terms, UC Online and community college courses are not in this version.",
+    "pilotNote": "Personal scheduling covers 20 of the 21 majors. UCI: Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics. UCSD: Computer Science, Electrical Engineering, Biology, Psychology, Economics, Mathematics, Mathematics-Computer Science. UCSB: Environmental Studies, Computer Science, Electrical Engineering, Biological Sciences, Psychological & Brain Sciences, Economics, Mathematics. UCSB Artificial Intelligence (B.S.) shows requirements only. Summer terms, UC Online and community college courses are not in this version.",
     "yearsLabel": "Years to graduate",
     "capLabel": "Max units per term",
     "startLabel": "Starting term",
@@ -386,7 +389,7 @@
   "pick": {
     "title": "Smart course picker",
     "sub": "What to take next term: key prerequisites first, shortest-path order, with equivalents and alternative paths.",
-    "pilotNote": "Pilot scope: UCSB Environmental Studies (B.S.) and 6 majors, 7 UCSD majors and 6 UCI majors (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). The following is a demo.",
+    "pilotNote": "Personal recommendations cover 20 of the 21 majors (UCI 6, UCSD 7, UCSB 7; UCSB Artificial Intelligence not yet). The following is a demo.",
     "demoNote": "Example: your completed courses are not used here; this only demonstrates the recommendation logic.",
     "capLabel": "Next-term unit cap",
     "haveNote": "Computed from your {n} completed courses; {p} more are already on your course list and are not recommended again.",
@@ -410,7 +413,7 @@
     "emptyRec": "No required courses are ready to take this term (they may all be done or all blocked by prerequisites).",
     "emptyBlocked": "No required courses are blocked by prerequisites.",
     "honesty": "Prerequisites are parsed from the catalog's original and/or wording; when the original text is empty, the snapshot's flat list is treated as either/or. Satisfying requirements does not guarantee a course will be offered, have seats, or that the school has confirmed graduation eligibility — recheck GOLD / the department site before enrolling. Popular-course data (enrollment, waitlists) has no source yet, so no popularity is shown here.",
-    "pilotNoteUcsd": "Pilot scope: UCSD Mathematics-Computer Science (B.S.) — personal recommendations for this major below.",
+    "pilotNoteUcsd": "UCSD Mathematics-Computer Science (B.S.) — personal recommendations for this major below.",
     "ucsdElectiveNote": "Elective pools (applied math, computational, and general, 8 units each) are not auto-recommended yet — pick them on the requirements page.",
     "ucsdElectiveNoteGeneric": "Some elective pools (no fixed course list) are not auto-recommended yet — pick them on the requirements page."
   },

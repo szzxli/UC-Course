@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" href="data:,">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title data-i18n="title.ge">通识与毕业要求 · UC 智选</title>
+<title data-i18n="title.ge">通识与毕业要求 · UC 选课规划</title>
 <link rel="stylesheet" href="css/app.css">
+<script>document.documentElement.className += " i18n-pending";</script>
 <meta name="theme-color" content="#132625">
 </head>
 <body>
@@ -110,7 +112,7 @@ function render(ge) {
       if (fm) fm.textContent = bd.hidden ? "▸" : "▾";
     });
   });
-  var src = (ge.source_note || "") + " · " + I18N.t("ge.checked", { d: ge.checked || "" });
+  var src = (isZh() ? ge.source_note : (ge.source_note_en || ge.source_note) || "") + " · " + I18N.t("ge.checked", { d: ge.checked || "" });
   if (ge.sources) {
     src += " · " + ge.sources.map(function (s) {
       return '<a class="link" href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.label) + "</a>";

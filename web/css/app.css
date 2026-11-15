@@ -132,3 +132,6 @@ body.has-selbar{padding-bottom:140px}
 #mapFilters input{vertical-align:-1px}
 #mapFilters .map-zoom{margin-left:6px;white-space:nowrap}
 #mapFilters .map-zoom button{margin-left:4px}
+
+/* hide placeholder text until the language dictionary is applied */
+html.i18n-pending body { visibility: hidden; }

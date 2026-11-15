@@ -1,7 +1,7 @@
 {
   "brand": {
     "courses": "🔍 Cursos",
-    "index": "🎓 UC SmartPick",
+    "index": "🎓 UC Course Planner",
     "plan": "🗓️ Planificar horario",
     "major": "🎓 Requisitos de la carrera",
     "traj": "🛤️ Mi progreso",
@@ -38,10 +38,10 @@
     "segMap": "Mapa de requisitos"
   },
   "index": {
-    "campusHint": "Tres campus disponibles: UCI, UCSD, UCSB. Más campus en camino.",
+    "campusHint": "3 campus: UCI, UCSD, UCSB. Administración de empresas, química, historia y otras carreras aún no están cubiertas.",
     "campusTitle": "🏫 Tu campus",
-    "coverageTop": "Actualmente solo admite tres campus: UCI, UCSD, UCSB. Más campus en camino.",
-    "footnote": "Datos de los catálogos oficiales de cada campus. Actualmente UCI, UCSD, UCSB; más campus en camino.",
+    "coverageTop": "Para estudiantes que ya están en una UC (no es una herramienta de transferencia). Cubre 3 campus y 21 carreras: UCI, UCSD, UCSB. ¿Sigues en un community college? Empieza con Transfer-OS.",
+    "footnote": "Los datos de cursos vienen del catálogo oficial de cada campus. Solo cubre UCI (6 carreras), UCSD (7) y UCSB (8); hay más campus y carreras previstos.",
     "go": "Empezar a elegir cursos →",
     "goalHint": "La misma carrera exige estrategias muy distintas para posgrado o empleo. Elige una y el planificador adaptará sus consejos. Tu objetivo solo cambia los consejos: no cambia los cursos obligatorios ni el orden de los prerrequisitos.",
     "goalTitle": "🎯 Elige tu meta primero",
@@ -69,7 +69,7 @@
     "geDesc": "Graduarse exige tanto los requisitos de la carrera como la GE: ambos deben cumplirse.",
     "geGo": "Ver requisitos de GE →",
     "engineTitle": "🧠 Planificador inteligente",
-    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (piloto: Environmental Studies de UCSB).",
+    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (20 de las 21 carreras; UCSB Artificial Intelligence todavía no).",
     "engineGo": "Planificar automáticamente →",
     "engineDemo": "Ver un horario de ejemplo →",
     "stepsMajor": "Siguiente: requisitos → elegir cursos → planificar trimestres",
@@ -78,11 +78,14 @@
     "statusDesc": "Confirma primero tus cursos completados y créditos transferidos: los planes solo son tan buenos como esta base. Tu plan solo se guarda en este navegador.",
     "statusGo": "Verificar →",
     "pickTitle": "🧠 Selector inteligente",
-    "pickDesc": "Qué cursar el próximo trimestre: prerrequisitos clave primero, orden de ruta más corta (piloto: Environmental Studies de UCSB).",
+    "pickDesc": "Qué cursar el próximo trimestre: primero los prerrequisitos clave, en el orden más corto (20 de las 21 carreras; UCSB Artificial Intelligence todavía no).",
     "pickGo": "Elegir cursos →",
     "pickDemo": "Ver un ejemplo →",
     "chainTitle": "🧭 Sigue el orden",
-    "chainHint": "Una vez elegidos el campus y la carrera, sigue estos pasos en orden"
+    "chainHint": "Una vez elegidos el campus y la carrera, sigue estos pasos en orden",
+    "coverageListTitle": "¿Qué campus y carreras están cubiertos?",
+    "coverageListNote": "Solo estas 21 carreras. Si tu carrera no aparece aquí, esta herramienta todavía no puede planificarla.",
+    "toTransfer": "Ir a Transfer-OS →"
   },
   "nav": {
     "courses": "Cursos",
@@ -136,7 +139,7 @@
     "copyDraft": "📋 Copiar horario",
     "copied": "Copiado — busca por código en WebReg",
     "draftNote": "Exporta códigos de curso (el CCN es el número de inscripción de cada trimestre; consúltalo en el sitio de registro).",
-    "draftExportHead": "Borrador UC SmartPick · {campus}",
+    "draftExportHead": "Borrador UC Course Planner · {campus}",
     "scopeNote": "⚠️ Esta evaluación cubre solo los {n} curso(s) que seleccionaste. Los requisitos no agregados (GE, cursos restantes de la carrera, etc.) no están incluidos: no es un veredicto para todo el título.",
     "coverageLine": "Seleccionado: {u} unidades / ~180 total de una licenciatura UC ≈ {p}%",
     "genEmpty": "Tu lista está vacía: agrega algunos cursos primero y luego genera el horario.",
@@ -173,16 +176,16 @@
     ]
   },
   "title": {
-    "courses": "Cursos · UC SmartPick",
-    "index": "UC SmartPick",
-    "plan": "Planificar horario · UC SmartPick",
-    "major": "Carrera · UC SmartPick",
-    "traj": "Progreso · UC SmartPick",
-    "transfer": "Importar créditos - UC SmartPick",
-    "ge": "GE y requisitos de graduación · UC SmartPick",
-    "engine": "Planificador inteligente · UC SmartPick",
-    "status": "Verificación de estado · UC SmartPick",
-    "requirements": "Requisitos · UC SmartPick"
+    "courses": "Cursos · UC Course Planner",
+    "index": "UC Course Planner",
+    "plan": "Planificar horario · UC Course Planner",
+    "major": "Carrera · UC Course Planner",
+    "traj": "Progreso · UC Course Planner",
+    "transfer": "Importar créditos - UC Course Planner",
+    "ge": "GE y requisitos de graduación · UC Course Planner",
+    "engine": "Planificador inteligente · UC Course Planner",
+    "status": "Verificación de estado · UC Course Planner",
+    "requirements": "Requisitos · UC Course Planner"
   },
   "warn": {
     "listSep": ", ",
@@ -241,7 +244,7 @@
     "chainDown": "Desbloquea",
     "chainDownN": "Desbloquea directamente {n} cursos:",
     "chainDownNone": "Sin cursos posteriores directos",
-    "chainNoData": "Datos de prerrequisitos y cursos posteriores aún no disponibles (solo pilotos: UCSB Environmental Studies y UCSD Mathematics-Computer Science)",
+    "chainNoData": "Las cadenas de prerrequisitos y cursos posteriores solo están disponibles por ahora para UCSB Environmental Studies y UCSD Mathematics-Computer Science.",
     "chainLoadFail": "No se pudieron cargar los datos de prerrequisitos",
     "chainLoading": "Cargando explicación…",
     "chainHave": "Completado",
@@ -308,11 +311,11 @@
     "required": "Obligatorio",
     "byNote": "Cumplir según las notas",
     "checked": "Revisado {d}",
-    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (piloto: Environmental Studies de UCSB).",
+    "engineDesc": "Di en cuántos años quieres graduarte y programa los trimestres siguiendo los requisitos previos (20 de las 21 carreras; UCSB Artificial Intelligence todavía no).",
     "goEngine": "Planificador inteligente →"
   },
   "engine": {
-    "pilotNote": "Piloto: Environmental Studies (B.S.) de UCSB y 6 carreras (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics y Mathematics), 7 carreras de UCSD (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics y Mathematics-Computer Science) y Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics y Mathematics de UCI. Los trimestres de verano, UC Online y los cursos de community college no están en esta versión.",
+    "pilotNote": "La planificación personal cubre 20 de las 21 carreras. UCI: Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics. UCSD: Computer Science, Electrical Engineering, Biology, Psychology, Economics, Mathematics, Mathematics-Computer Science. UCSB: Environmental Studies, Computer Science, Electrical Engineering, Biological Sciences, Psychological & Brain Sciences, Economics, Mathematics. UCSB Artificial Intelligence (B.S.) solo muestra los requisitos. Los trimestres de verano, UC Online y los cursos de community college no están en esta versión.",
     "yearsLabel": "Años para graduarse",
     "capLabel": "Unidades máx. por trimestre",
     "startLabel": "Trimestre inicial",
@@ -386,7 +389,7 @@
   "pick": {
     "title": "Selector inteligente",
     "sub": "Qué cursar el próximo trimestre: prerrequisitos clave primero, orden de ruta más corta, con equivalencias y rutas alternativas.",
-    "pilotNote": "Alcance piloto: Environmental Studies (B.S.) de UCSB, 7 carreras de UCSD y 6 carreras de UCI (Computer Science, Electrical Engineering, Biological Sciences, Psychology, Economics, Mathematics). Lo siguiente es una demostración.",
+    "pilotNote": "Las recomendaciones personales cubren 20 de las 21 carreras (UCI 6, UCSD 7, UCSB 7; UCSB Artificial Intelligence todavía no). Lo siguiente es una demostración.",
     "demoNote": "Ejemplo: no se usan tus cursos completados; solo demuestra la lógica de recomendación.",
     "capLabel": "Límite de unidades del próximo trimestre",
     "haveNote": "Calculado con tus {n} cursos completados; {p} más ya están en tu lista y no se recomiendan de nuevo.",
@@ -410,7 +413,7 @@
     "emptyRec": "Ningún curso obligatorio está listo este trimestre (pueden estar todos hechos o todos bloqueados por prerrequisitos).",
     "emptyBlocked": "Ningún curso obligatorio está bloqueado por prerrequisitos.",
     "honesty": "Los prerrequisitos se analizan del texto original and/or del catálogo; si el texto está vacío, la lista plana se trata como alternativa. Cumplir requisitos no garantiza que el curso se ofrezca, tenga cupo, ni que la universidad haya confirmado la graduación; verifica en GOLD / el sitio del departamento antes de inscribirte. No hay fuente de datos de popularidad (inscripción, listas de espera), así que no se muestra.",
-    "pilotNoteUcsd": "Alcance del piloto: UCSD Mathematics-Computer Science (B.S.); abajo, recomendaciones personales para esta especialidad.",
+    "pilotNoteUcsd": "UCSD Mathematics-Computer Science (B.S.): recomendaciones personales para esta carrera más abajo.",
     "ucsdElectiveNote": "Los grupos de optativas (matemáticas aplicadas, computación y general, 8 créditos cada uno) aún no se recomiendan automáticamente; elígelos en la página de requisitos.",
     "ucsdElectiveNoteGeneric": "Algunos grupos de optativas (sin lista fija de cursos) aún no se recomiendan automáticamente; elígelos en la página de requisitos."
   },

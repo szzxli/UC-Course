@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" href="data:,">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title data-i18n="title.courses">选课 · UC 智选</title>
+<title data-i18n="title.courses">选课 · UC 选课规划</title>
 <link rel="stylesheet" href="css/app.css">
+<script>document.documentElement.className += " i18n-pending";</script>
 <meta name="theme-color" content="#132625">
 </head>
 <body>
@@ -277,7 +279,7 @@ function render() {
   } else {
     blkBox.innerHTML = RESULT.blocked.map(function (it) {
       var lines = reasonLines(it).map(function (l) { return '<p class="hint">· ' + esc(l) + "</p>"; }).join("");
-      var miss = it.missing.slice(0, 5).join("、") + (it.missing.length > 5 ? "…" : "");
+      var miss = it.missing.slice(0, 5).join(I18N.sep()) + (it.missing.length > 5 ? "…" : "");
       return '<div class="card"><div><b>' + esc(it.code) + "</b> " + esc(it.title) +
         " · " + it.units + " " + esc(I18N.t("courses.units")) + "</div>" +
         '<p class="hint">' + esc(I18N.t("pick.missingPre", { m: miss })) + (it.hasOr ? esc(I18N.t("pick.orNote")) : "") + "</p>" +
@@ -803,24 +805,24 @@ I18N.init().then(function () {
     var stText = st === "have" ? I18N.t("major.chainHave") : st === "planned" ? I18N.t("major.chainPlanned") : st === "ok" ? I18N.t("major.chainOk") : I18N.t("major.chainBlocked");
     var title = esc(code) + (cat && cat.title ? " - " + esc(cat.title) : "") + (cat && cat.units ? " · " + esc(cat.units) + " units" : "");
     var body = "";
-    body += "<p>" + esc(I18N.t("major.chainState")) + "：" + esc(stText);
+    body += "<p>" + esc(I18N.t("major.chainState")) + I18N.colon() + esc(stText);
     if (st === "blocked") {
       var tr = G.trees[code];
       var miss = [];
       if (tr) Engine.treeLeafCodes(tr, []).forEach(function(l){ var k = norm(l); if (!have[k] && miss.indexOf(k) < 0) miss.push(k); });
-      body += esc(miss.slice(0, 5).join("、")) + (miss.length > 5 ? "…" : "");
+      body += esc(miss.slice(0, 5).join(I18N.sep())) + (miss.length > 5 ? "…" : "");
     }
     body += "</p>";
     var preText;
     if (!cat) preText = esc(I18N.t("map.outside"));
     else if (!G.trees[code]) preText = esc(I18N.t("major.chainNoPre"));
     else { var tt = treeText(G.trees[code]); preText = esc(tt || cat.prerequisites_raw || I18N.t("major.chainNoPre")); }
-    body += "<p>" + esc(I18N.t("major.chainPre")) + "：" + preText + "</p>";
+    body += "<p>" + esc(I18N.t("major.chainPre")) + I18N.colon() + preText + "</p>";
     var deps = G.dependents[code] || [];
-    body += "<p>" + esc(I18N.t("major.chainDown")) + "：" +
-      (deps.length ? esc(I18N.t("major.chainDownN", { n: deps.length })) + esc(deps.slice(0, 8).join("、")) : esc(I18N.t("major.chainDownNone"))) + "</p>";
+    body += "<p>" + esc(I18N.t("major.chainDown")) + I18N.colon() +
+      (deps.length ? esc(I18N.t("major.chainDownN", { n: deps.length })) + esc(deps.slice(0, 8).join(I18N.sep())) : esc(I18N.t("major.chainDownNone"))) + "</p>";
     var names = G.reqNames[code] || [];
-    body += "<p>" + esc(I18N.t("major.chainReqs")) + "：" + (names.length ? esc(names.slice(0, 3).join("、")) : esc(I18N.t("major.chainReqNone"))) + "</p>";
+    body += "<p>" + esc(I18N.t("major.chainReqs")) + I18N.colon() + (names.length ? esc(names.slice(0, 3).join(I18N.sep())) : esc(I18N.t("major.chainReqNone"))) + "</p>";
     if ((G.fanout[code] || 0) >= 6) body += "<p>🔑 " + esc(I18N.t("pick.keyBadge")) + "</p>";
     document.getElementById("mapInfoTitle").textContent = code + (cat && cat.title ? " - " + cat.title : "");
     document.getElementById("mapInfoBody").innerHTML = body;
