@@ -1,10 +1,11 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="utf-8">
+<link rel="icon" href="data:,">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>智能选课 · UC 智选</title>
-<link rel="stylesheet" href="css/style.css">
+<title>Smart course picker · UC Course Planner</title>
+<link rel="stylesheet" href="css/app.css">
 <script src="js/app.js"></script>
 <script src="js/i18n.js"></script>
 <script src="js/engine.js"></script>
@@ -13,7 +14,7 @@
 </head>
 <body>
 <header class="topbar">
-  <div class="brand"><span data-i18n="brand.name">🎓 UC 智选</span></div>
+  <div class="brand"><span data-i18n="brand.name">🎓 UC 选课规划</span></div>
   <select id="langSel" aria-label="language"></select>
 </header>
 <nav class="tabbar">
@@ -106,7 +107,7 @@ function render() {
   } else {
     blkBox.innerHTML = RESULT.blocked.map(function (it) {
       var lines = reasonLines(it).map(function (l) { return '<p class="hint">· ' + esc(l) + "</p>"; }).join("");
-      var miss = it.missing.slice(0, 5).join("、") + (it.missing.length > 5 ? "…" : "");
+      var miss = it.missing.slice(0, 5).join(I18N.sep()) + (it.missing.length > 5 ? "…" : "");
       return '<div class="card"><div><b>' + esc(it.code) + "</b> " + esc(it.title) +
         " · " + it.units + " " + esc(I18N.t("courses.units")) + "</div>" +
         '<p class="hint">' + esc(I18N.t("pick.missingPre", { m: miss })) + (it.hasOr ? esc(I18N.t("pick.orNote")) : "") + "</p>" +

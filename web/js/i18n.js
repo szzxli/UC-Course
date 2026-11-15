@@ -1,4 +1,4 @@
-/* UC SmartPick i18n engine — 4 locales, data-i18n attributes + t(key, vars) */
+/* UC Course Planner i18n engine — 4 locales, data-i18n attributes + t(key, vars) */
 "use strict";
 var I18N_LOCALES = {
   "zh-CN": "简体中文",
@@ -15,8 +15,8 @@ var I18N_LOCALES = {
       var s = localStorage.getItem(LANG_KEY);
       if (s && I18N_LOCALES[s]) return s;
     } catch (e) {}
-    var b = String(navigator.language || navigator.userLanguage || "en").toLowerCase();
-    if (b === "zh-tw" || b.indexOf("zh-tw") === 0 || b === "zh-hk" || b.indexOf("zh-hk") === 0) return "zh-TW";
+    var b = String((navigator.languages && navigator.languages[0]) || navigator.language || navigator.userLanguage || "en").toLowerCase();
+    if (b.indexOf("zh-tw") === 0 || b.indexOf("zh-hk") === 0 || b.indexOf("zh-mo") === 0 || b.indexOf("hant") !== -1) return "zh-TW";
     if (b === "zh" || b.indexOf("zh") === 0) return "zh-CN";
     if (b === "es" || b.indexOf("es") === 0) return "es";
     return "en";
@@ -57,19 +57,27 @@ var I18N_LOCALES = {
     }
   }
 
+  /* Pages ship with Chinese placeholder text; hide it until the dictionary is applied,
+     so nobody sees a flash of the wrong language (class set below, removed in reveal()). */
+  var rootEl = document.documentElement;
+  if (rootEl.className.indexOf("i18n-pending") === -1) rootEl.className += " i18n-pending";
+  function reveal() { rootEl.className = rootEl.className.replace(/\bi18n-pending\b/g, "").trim(); }
+  setTimeout(reveal, 4000); /* never leave the page hidden */
+
   function init() {
     if (readyPromise) return readyPromise;
     locale = resolveLocale();
     readyPromise = fetch("data/i18n/" + locale + ".json")
       .then(function (r) { if (!r.ok) throw new Error("i18n " + locale); return r.json(); })
       .catch(function () {
-        locale = "zh-CN";
-        return fetch("data/i18n/zh-CN.json").then(function (r) { return r.json(); });
+        locale = "en"; /* English fallback */
+        return fetch("data/i18n/en.json").then(function (r) { return r.json(); });
       })
       .then(function (d) {
         dict = d;
         try { document.documentElement.lang = locale; } catch (e) {}
         applyI18n();
+        reveal();
         return locale;
       });
     return readyPromise;
@@ -94,7 +102,12 @@ var I18N_LOCALES = {
     location.reload();
   }
 
+  /* list separator / colon: full-width only for Chinese, ASCII otherwise */
+  function isZhLocale() { return locale === "zh-CN" || locale === "zh-TW"; }
+
   window.I18N = {
+    sep: function () { return isZhLocale() ? "、" : ", "; },
+    colon: function () { return isZhLocale() ? "：" : ": "; },
     t: t,
     applyI18n: applyI18n,
     init: init,

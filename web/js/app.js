@@ -1,4 +1,4 @@
-/* UC SmartPick 共享工具 */
+/* UC Course Planner 共享工具 */
 "use strict";
 var LS = "ucsp_";
 function Sget(k, fb) { try { var v = localStorage.getItem(LS + k); return v === null ? fb : JSON.parse(v); } catch (e) { return fb; } }

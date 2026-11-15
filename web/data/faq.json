@@ -1,7 +1,7 @@
 {
   "en": [
     {
-      "a": "UC SmartPick plans courses around your life goal: pick grad school or employment first, then choose courses against degree requirements, auto-schedule prereq chains, and assess graduation-timeline pressure.",
+      "a": "UC Course Planner plans courses around your life goal: pick grad school or employment first, then choose courses against degree requirements, auto-schedule prereq chains, and assess graduation-timeline pressure.",
       "kws": [
         "what",
         "about",
@@ -210,7 +210,7 @@
   ],
   "zh-CN": [
     {
-      "a": "UC 智选帮你按人生目标选课：先定读研/就业目标，再按毕业要求挑课，自动排先修顺序，还能评估几年毕业的压力。",
+      "a": "UC 选课规划帮你按人生目标选课：先定读研/就业目标，再按毕业要求挑课，自动排先修顺序，还能评估几年毕业的压力。",
       "kws": [
         "干什么",
         "介绍",
@@ -428,7 +428,7 @@
         "规划",
         "transferos"
       ],
-      "a": "可以先去 TransferOS-China 规划 CC 选课和转学路径，拿到录取后再回 UC 智选用转学分导入，入学后的选课排课都在这边。"
+      "a": "可以先去 TransferOS-China 规划 CC 选课和转学路径，拿到录取后再回 UC 选课规划用转学分导入，入学后的选课排课都在这边。"
     }
   ]
 }

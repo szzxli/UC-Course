@@ -1,4 +1,4 @@
-/* UC SmartPick 智能客服：本地 FAQ 关键词匹配，零后端 */
+/* UC Course Planner 智能客服：本地 FAQ 关键词匹配，零后端 */
 "use strict";
 (function () {
   var FAQ = null, OPEN = false;

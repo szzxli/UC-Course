@@ -1,4 +1,4 @@
-/* UC SmartPick 排课引擎 — 纯逻辑，可单元测试 */
+/* UC Course Planner 排课引擎 — 纯逻辑，可单元测试 */
 "use strict";
 
 function parseUnits(u) {

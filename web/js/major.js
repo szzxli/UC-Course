@@ -1,4 +1,4 @@
-/* UC SmartPick 专业模块：毕业要求索引 + 下游课程索引 */
+/* UC Course Planner 专业模块：毕业要求索引 + 下游课程索引 */
 "use strict";
 
 var REQ_TYPE_BADGE = { required: "major.reqRequired", elective: "major.reqElective", prereq: "major.reqPrereq" };

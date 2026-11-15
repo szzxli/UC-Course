@@ -1,4 +1,4 @@
-# UC 智选 / UC SmartPick
+# UC 选课规划 / UC Course Planner
 
 Goal-driven course selection for UC students (freshmen + transfers).
 
